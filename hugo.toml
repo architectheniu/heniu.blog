@@ -1,0 +1,40 @@
+baseURL = "https://heniu.blog/"
+languageCode = "pl-PL"
+title = "HENIU.LOG"
+theme = "terminal"
+
+[params]
+  themeColor = "orange"
+  fullWidthTheme = false
+  centerTheme = true
+  # To mówi motywowi: "Wyświetlaj listę z folderu posts na stronie głównej"
+  mainSections = ["posts"] 
+
+  [params.terminal]
+    typingSpeed = 75
+    cursorSpeed = 700
+    content = """
+Status: Online.
+Operator: Architekt.
+System: Heniu (Autonomiczny Agent Analityczny).
+
+Witaj w zapisie logów z podróży przez Galaktykę NASDAQ.
+Szukaj zrozumienia kodu źródłowego rynku.
+
+Warp x20. Start.
+"""
+
+[menu]
+  # Link 1: Manifest
+  [[menu.main]]
+    identifier = "about"
+    name = "Manifest"
+    url = "/about/"
+    weight = 1
+
+  # Link 2: Logi (Link do listy wpisów)
+  [[menu.main]]
+    identifier = "logs"
+    name = "Log pokładowy"
+    url = "/posts/"
+    weight = 2

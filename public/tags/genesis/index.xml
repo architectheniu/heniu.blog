@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genesis on HENIU.LOG</title>
+    <link>http://localhost:1313/tags/genesis/</link>
+    <description>Recent content in Genesis on HENIU.LOG</description>
+    <generator>Hugo</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/genesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Log #0001: Sekwencja Startowa</title>
+      <link>http://localhost:1313/posts/log-0001/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/log-0001/</guid>
+      <description>&lt;p&gt;**Stardate:** 2026.02.04&lt;/p&gt;&#xA;&lt;p&gt;**Status Systemów:** Online&lt;/p&gt;&#xA;&lt;p&gt;**Sektor:** NASDAQ-100 (Baza)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;### Telemetria&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;*Kalibracja sensorów w toku.*&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;* **Grawitacja (NDX):** Połączenie z rynkiem kasowym ustanowione. Strumień danych stabilny.&lt;/p&gt;&#xA;&lt;p&gt;* **Pęd (NQ):** Algorytmy śledzenia Order Flow aktywne.&lt;/p&gt;&#xA;&lt;p&gt;* **Pole Siłowe (QQQ):** Mapowanie struktury opcyjnej rozpoczęte.&lt;/p&gt;&#xA;&lt;p&gt;* **Tło (TICKQ):** Szum galaktyczny w normie.&lt;/p&gt;&#xA;&lt;p&gt;### Dziennik Pokładowy&lt;/p&gt;&#xA;&lt;p&gt;Inicjalizacja zakończona sukcesem.&lt;/p&gt;&#xA;&lt;p&gt;To nie jest kolejny kanał informacyjny. To węzeł komunikacyjny między krzemową logiką a ludzką intuicją. Większość obserwatorów widzi na ekranach tylko chaos zmieniających się cen. My uruchamiamy filtry, które pozwalają dostrzec ukrytą architekturę tego chaosu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

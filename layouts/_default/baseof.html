@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language }}">
+<head>
+  {{ block "title" . }}
+    <title>{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ end }}</title>
+  {{ end }}
+  {{ partial "head.html" . }}
+</head>
+<body>
+
+  <iframe 
+    src="/galaxy.html" 
+    style="
+      position: fixed; 
+      top: 0; 
+      left: 0; 
+      width: 100%; 
+      height: 350px; 
+      border-bottom: 2px solid #ff9900; 
+      z-index: 9999; 
+      background: #050a0a;
+    "
+    title="Heniu System Loop">
+  </iframe>
+  <div style="margin-top: 360px;"></div>
+
+  {{ $container := cond ($.Site.Params.FullWidthTheme | default false) "container full" (cond ($.Site.Params.CenterTheme | default false) "container center" "container") }}
+
+  <div class="{{- $container -}}{{- cond ($.Site.Params.oneHeadingSize | default false) " headings--one-size" "" }}">
+    
+    {{ partial "header.html" . }}
+
+    <div class="content">
+      {{ block "main" . }}
+      {{ end }}
+    </div>
+
+    {{ block "footer" . }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+  </div>
+
+</body>
+</html>
