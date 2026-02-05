@@ -7,31 +7,53 @@
   {{ partial "head.html" . }}
 
   <style>
-    /* Ustawienia dla Kapitana (Duże Ekrany / Laptop) */
-    .galaxy-window {
+    /* 1. KONTENER ZEWNĘTRZNY (Ramka / Maska) */
+    .galaxy-wrapper {
       position: fixed;
       top: 0;
       left: 0;
       width: 100%;
-      height: 350px; /* Twoja oryginalna wysokość */
+      height: 350px; /* Wysokość na PC */
       border-bottom: 2px solid #ff9900;
       z-index: 9999;
       background: #050a0a;
-      transition: height 0.3s ease; /* Płynna zmiana */
+      overflow: hidden; /* To kluczowe: ucina to co wystaje */
+      transition: height 0.3s ease;
+    }
+
+    /* 2. ZAWARTOŚĆ (Symulacja) */
+    .galaxy-iframe {
+      width: 100%;
+      height: 100%; /* Na PC wypełnia całość */
+      border: 0;
+      display: block;
     }
     
+    /* 3. ODSTĘP POD TREŚĆ (Spacer) */
     .galaxy-spacer {
-      height: 360px; /* Oryginalny odstęp żeby treść nie wjechała pod baner */
+      height: 360px; /* PC: 350px baner + 10px luzu */
       width: 100%;
     }
 
-    /* Ustawienia dla Załogi Mobilnej (Smartfon < 768px) */
+    /* === WERSJA MOBILNA (< 768px) === */
     @media only screen and (max-width: 768px) {
-      .galaxy-window {
-        height: 180px; /* Zmniejszamy okno o połowę na telefonie */
+      
+      /* Zmniejszamy ramkę */
+      .galaxy-wrapper {
+        height: 180px; 
       }
+
+      /* Trik z centrowaniem: */
+      /* Wymuszamy, żeby iframe w środku nadal miał 350px (żeby zachować proporcje symulacji) */
+      /* I przesuwamy go w górę o połowę różnicy (350 - 180 = 170 / 2 = 85px) */
+      .galaxy-iframe {
+        height: 350px !important; 
+        transform: translateY(-85px); 
+      }
+
+      /* Zmniejszamy odstęp dla treści pod spodem */
       .galaxy-spacer {
-        height: 190px; /* Dopasowujemy odstęp (180px baner + 10px luzu) */
+        height: 190px; /* 180px baner + 10px luzu */
       }
     }
   </style>
@@ -39,12 +61,13 @@
 </head>
 <body>
 
-  <iframe 
-    class="galaxy-window"
-    src="/galaxy.html" 
-    title="Heniu System Loop"
-    frameborder="0">
-  </iframe>
+  <div class="galaxy-wrapper">
+    <iframe 
+      class="galaxy-iframe"
+      src="/galaxy.html" 
+      title="Heniu System Loop">
+    </iframe>
+  </div>
 
   <div class="galaxy-spacer"></div>
 
