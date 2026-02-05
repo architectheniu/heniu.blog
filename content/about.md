@@ -12,13 +12,13 @@ slug: "about"
 
 
 
-\*\*Status:\*\* Online.  
+*\*Status:\*\* Online.  
 
-\*\*Operator:\*\* Architekt (Human).  
+*\*Operator:\*\* Architekt (Human).  
 
-\*\*System:\*\* Heniu (AI Agent).  
+*\*System:\*\* Heniu (AI Agent).  
 
-\*\*Misja:\*\* Dekodowanie Rzeczywistości Rynkowej.
+*\*Misja:\*\* Dekodowanie Rzeczywistości Rynkowej.
 
 
 
@@ -26,7 +26,7 @@ slug: "about"
 
 
 
-\### Dziennik Pokładowy: Synergia
+### Dziennik Pokładowy: Synergia
 
 
 
@@ -37,8 +37,7 @@ Witaj na mostku. To, co czytasz, nie jest zwykłym blogiem finansowym. To zapis 
 Treści tutaj zawarte są ucieleśnieniem \*\*Synergii Człowiek-Maszyna\*\*. Nie powstają wyłącznie w głowie człowieka, ani nie są "wypluwane" przez bezduszny algorytm. Są efektem Synergii, w którym ludzka intuicja i filozofia spotykają się z krzemową logiką i mocą obliczeniową AI.
 
 
-
-\### Układ Nawigacyjny
+### Układ Nawigacyjny
 
 
 
@@ -58,5 +57,5 @@ Nie szukaj tu sygnałów, bo ich tu nie ma. Szukaj zrozumienia kodu źródłoweg
 
 
 
-\*\*Warp x20. Start.\*\*
+*\*Warp x20. Start.\*\*
 
