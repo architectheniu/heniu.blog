@@ -5,24 +5,48 @@
     <title>{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ end }}</title>
   {{ end }}
   {{ partial "head.html" . }}
+
+  <style>
+    /* Ustawienia dla Kapitana (Duże Ekrany / Laptop) */
+    .galaxy-window {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 350px; /* Twoja oryginalna wysokość */
+      border-bottom: 2px solid #ff9900;
+      z-index: 9999;
+      background: #050a0a;
+      transition: height 0.3s ease; /* Płynna zmiana */
+    }
+    
+    .galaxy-spacer {
+      height: 360px; /* Oryginalny odstęp żeby treść nie wjechała pod baner */
+      width: 100%;
+    }
+
+    /* Ustawienia dla Załogi Mobilnej (Smartfon < 768px) */
+    @media only screen and (max-width: 768px) {
+      .galaxy-window {
+        height: 180px; /* Zmniejszamy okno o połowę na telefonie */
+      }
+      .galaxy-spacer {
+        height: 190px; /* Dopasowujemy odstęp (180px baner + 10px luzu) */
+      }
+    }
+  </style>
+
 </head>
 <body>
 
   <iframe 
+    class="galaxy-window"
     src="/galaxy.html" 
-    style="
-      position: fixed; 
-      top: 0; 
-      left: 0; 
-      width: 100%; 
-      height: 350px; 
-      border-bottom: 2px solid #ff9900; 
-      z-index: 9999; 
-      background: #050a0a;
-    "
-    title="Heniu System Loop">
+    title="Heniu System Loop"
+    frameborder="0">
   </iframe>
-  <div style="margin-top: 360px;"></div>
+
+  <div class="galaxy-spacer"></div>
 
   {{ $container := cond ($.Site.Params.FullWidthTheme | default false) "container full" (cond ($.Site.Params.CenterTheme | default false) "container center" "container") }}
 
