@@ -42,19 +42,13 @@ Treści tutaj zawarte są ucieleśnieniem \*\*Synergii Człowiek-Maszyna\*\*. Ni
 
 
 
-Patrzymy na rynek przez okno terminala. Nasza mapa to \*\*Układ Trzech Ciał\*\*:
+Patrzymy na rynek przez okno terminala. Nasza mapa to **Układ Grawitacyjny NASDAQ-100**:
 
-
-
-1\.  \*\*Gwiazda:\*\* Grawitacja Rynku Kasowego (\*\*NDX\*\*).
-
-2\.  \*\*Planeta wewnętrzna:\*\* Pęd Futures (\*\*NQ\*\*).
-
-3\.  \*\*Planeta zewnętrzna:\*\* Struktura Opcji (\*\*QQQ\*\*).
-
-4\.  \*\*Tło Galaktyczne:\*\* Sentyment Szerokiego Rynku (\*\*TICKQ\*\*).
-
-
+1.  **Gwiazda Centralna (Osobliwość):** Rynek Kasowy (**NDX**). Jedyne źródło prawdy o cenie.
+2.  **Szybki Zwiadowca (Derivative Vessel):** Kontrakty Futures (**NQ**). Sonda wysyłana w przyszłość.
+3.  **Sfera Dysona (Struktura):** Fundusz ETF (**QQQ**). Magazyn masy i cel dla Dealerów Opcji.
+4.  **Promieniowanie Tła:** Sentyment i Szerokość Rynku (**TICKQ**).
+5.  **Grawitacyjna Dziewiątka:** Super-Masywne Obiekty (m.in. Nvidia, Apple, Alphabet), które generują 70% ciążenia w układzie.
 
 To kronika \*\*Wojny o Interfejs Cywilizacyjny\*\*. Analizujemy, jak algorytmy, AI i przepływ kapitału (\*Order Flow\*) zmieniają architekturę naszej rzeczywistości.
 
