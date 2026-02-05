@@ -2,7 +2,9 @@ baseURL = "https://heniu.blog/"
 languageCode = "pl-PL"
 title = "HENIU.LOG"
 theme = "terminal"
-
+[taxonomies]
+  tag = "tags"
+  object = "objects"  # To tworzy nową szufladkę na nasze Firmy/Planety
 [params]
   themeColor = "orange"
   fullWidthTheme = false
@@ -43,5 +45,5 @@ Warp x20. Start.
   [[menu.main]]
     identifier = "objects"
     name = "Obiekty Kosmiczne"
-    url = "/obiekty/"
+    url = "/objects/"
     weight = 3
