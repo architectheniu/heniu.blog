@@ -1,0 +1,25 @@
+<ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      {{ range $.Site.Menus.main }}
+        {{ if not .HasChildren }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      {{ end }}
+      {{ if and $.Site.Params.showLanguageSelector (len $.Site.Home.AllTranslations) }}
+        <hr />
+        {{ range $.Site.Home.AllTranslations }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </li>
+<li style="display: flex; justify-content: center; margin-top: 15px; padding-bottom: 10px;">
+      <a href="/dziennik/" title="Dziennik Architekta" style="display: block; padding: 0; border: none;">
+        <img src="/awatar-grzyb.png" alt="Dziennik Architekta" style="width: 45px; height: 45px; object-fit: cover; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 0 8px rgba(255, 204, 0, 0.4);">
+      </a>
+    </li>
+</ul>
