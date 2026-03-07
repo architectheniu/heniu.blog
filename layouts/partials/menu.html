@@ -1,5 +1,5 @@
 <nav class="navigation-menu">
-  <ul class="navigation-menu__inner menu--desktop" style="white-space: nowrap; align-items: center;">
+  <ul class="navigation-menu__inner menu--desktop">
     {{ if or $.Site.Params.showMenuItems ( eq .Site.Params.showMenuItems 0 ) }}
       {{ range first $.Site.Params.showMenuItems $.Site.Menus.main }}
         {{ if not .HasChildren }}
@@ -30,10 +30,11 @@
       {{ end }}
     {{ end }}
     
-    <li style="display: inline-flex; align-items: center; margin-left: 15px; flex-shrink: 0;">
-      <a href="/dziennik/" title="Dziennik Architekta" style="display: flex; padding: 0;">
-        <img src="/awatar-grzyb.png" alt="Dziennik Architekta" style="width: 32px; height: 32px; object-fit: cover; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.2); transition: all 0.3s ease; box-shadow: 0 0 5px rgba(255, 204, 0, 0.2); margin: 0;" onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 15px rgba(255, 204, 0, 0.6)'; this.style.borderColor='rgba(255, 204, 0, 0.8)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 5px rgba(255, 204, 0, 0.2)'; this.style.borderColor='rgba(255, 255, 255, 0.2)';">
+    <li>
+      <a href="/dziennik/" title="Dziennik Architekta" style="padding: 0 10px; display: inline-flex; align-items: center; justify-content: center;">
+        <img src="/awatar-grzyb.png" alt="Dziennik Architekta" style="width: 28px; height: 28px; object-fit: cover; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.2); transition: all 0.3s ease; box-shadow: 0 0 5px rgba(255, 204, 0, 0.2);" onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 15px rgba(255, 204, 0, 0.6)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 5px rgba(255, 204, 0, 0.2)';">
       </a>
     </li>
+
   </ul>
 </nav>
