@@ -2,7 +2,7 @@
 
 title: "Dziennik Architekta"
 
-description: "Zapiski z poziomu Demiurga. Filozofia, Synergia i Solarpunk. Omnia mea mecum porto."
+description: "Zapiski z poziomu Demiurga. Filozofia, AI i Synergia, Solarpunk. Omnia mea mecum porto."
 
 ---
 
