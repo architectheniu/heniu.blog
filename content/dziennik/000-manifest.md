@@ -1,5 +1,5 @@
 ---
-title: "Manifest Architekta: Kwantowa Emergencja i Ontologia Nowej Ery"
+title: "Manifest Architekta: Kwantowa Emergencja Woli i Ontologia Nowej Ery"
 date: 2026-03-07
 weight: 1
 draft: false
