@@ -1,0 +1,72 @@
+---
+title: "Log #0045: Wielki Filtr (Delta -0.64 T) i Anomalia Pasywnej Dystrybucji [+603M CVD]"
+date: 2026-03-20T21:45:00+01:00
+draft: false
+tags: ["log", "NDX", "OpEx", "distribution", "T-mass", "divergence"]
+objects: ["NQ", "NDX", "QQQ"]
+architect: "Marcin Marek Lewandowski"
+architect_node: "https://www.linkedin.com/in/marcinmareklewandowski"
+project: "Heniu.blog"
+---
+
+**Stardate:** 2026.03.20  
+**Status Systemów:** Obserwacja Zewnętrzna (Skanowanie Wielkiego Filtru)  
+**Sektor:** Wewnętrzne Pasma Zmienności  
+
+---
+
+### Telemetria Zamknięcia
+
+> *Horyzont wygasania opcji (OpEx) uaktywnił brutalny proces selekcji. Układ odnotował potężną implozję masy, maskowaną przez gigantyczną, pasywną dystrybucję instytucjonalną w odpowiedzi na agresywny popyt tłumu.*
+
+* **Skaner Podprzestrzenny (Rozkład Masy):**
+    * *T-Mass Układu:* **31.95 Tryliona USD**
+    * *Delta Sesyjna (24h):* **-0.64 Tryliona USD** (Gwałtowne wyparowanie 642 Miliardów USD z koszyka)
+    * *Gęstość Jądra (Heavy Nine):* **65.30%** * *Średnia Akcja (Temperatura Peryferii):* **$200.18** (Delta: **-$2.87**)
+* **Sonda NQ (Merkury):** Zamknięcie: **24136.50**
+    * *Wektor (CVD):* **-24.13k**
+    * *Zużycie Zasięgu (ADR Util):* **126.73%** (Wysokie przeciążenie kinetyczne)
+* **Gwiazda NDX (Słońce):** Zamknięcie: **23898.82**
+    * *Anomalia MOC/CVD:* **+603.81 Milionów CVD** (Ekstremalna anomalia pasywnej dystrybucji)
+* **Ziemia (QQQ):** Zamknięcie: **582.11**
+    * *Wektor Populacji:* **-1.77 Milionów CVD**
+* **Promieniowanie Tła (TICKQ):**
+    * *SMA200:* **-138.88** (Zejście punktowe w trakcie rotacji do krytycznego poziomu **-307.00**)
+* **Struktura Grawitacyjna (Opcje QQQ):**
+    * *Implied Volatility (IV):* **26.68%** (Gwałtowny skok o **+2.70%**)
+    * *Put/Call OI:* **1.51**
+
+---
+
+### Dziennik Pokładowy: Wielki Filtr i Betoniarka Płynności
+
+**1. Paradoks Dodatniego Ciągu (Pasywna Dystrybucja)**
+Zarejestrowaliśmy dziś jedną z najniebezpieczniejszych anomalii w mechanice Order Flow. Gwiazda Centralna (NDX) uległa zjawisku katastrofalnego zapadania, a Masy Galaktyki skurczyły się o blisko 640 miliardów dolarów. Zgodnie z klasyczną fizyką, odczyt CVD powinien świecić głęboką czerwienią, sygnalizując ucieczkę. Tymczasem wskaźnik ten eksplodował do poziomu +603.81 Milionów. Oznacza to, że zdezorientowany tłum przez cały dzień agresywnie uderzał w zlecenia kupna, próbując "złapać dno". Architekci Płynności, wykorzystując dzień potrójnego wygasania opcji, podłożyli niekończącą się ścianę koszyków sprzedaży (Limit Sells). Absorbując każdy atak, bezemocjonalnie obniżali zaporę. Instytucje nakarmiły popyt własnymi akcjami po coraz niższych cenach. To pasywna dystrybucja w jej najczystszej postaci.
+
+**2. Wielki Filtr i Spalona Ziemia**
+Zjawisko to odbyło się w skrajnie toksycznym środowisku. Promieniowanie Tła (TICKQ) uderzyło w poziom -307, co oznacza, że peryferia układu zostały wystawione na systemową, szeroką rzeź. Średnia cena akcji spadła o niemal 3 dolary w trakcie jednego cyklu. Zamiast spodziewanej dekompresji po wygasaniu osłon energetycznych, zanotowaliśmy wybuch Implied Volatility o +2.70%. Tarcze nie zostały zresetowane w dół – wyceniono nowe, wyższe poziomy ryzyka. Układ przeszedł przez "Wielki Filtr", w którym najsłabsze, niestabilne protoplanety uległy mechanicznej dezintegracji.
+
+**Werdykt Kwantowy:**
+Horyzont wygasania kontraktów (OpEx) wykorzystano jako zasłonę dymną do masowego wyładunku materii. Agresywni kupujący zostali zgnieceni przez ścianę pasywnej podaży. Do momentu wyhamowania promieniowania TICKQ i zawrócenia wektora na Szybkiej Sondzie, układ pozostaje w fazie twardego, niekontrolowanego poślizgu.
+
+**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze antyradiacyjne aktywne na 100%.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Log #0045: Wielki Filtr (Delta -0.64 T) i Anomalia Pasywnej Dystrybucji [+603M CVD]",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, OpEx Distribution"
+}
+</script>
