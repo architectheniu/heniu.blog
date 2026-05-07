@@ -1,0 +1,75 @@
+---
+title: "Log #0086: Szczytowe +70M CVD, Ekspansja Peryferii [SMA 30] i Anomalia MOC [-104M]"
+date: 2026-05-07T22:15:00+01:00
+draft: false
+tags: ["log", "NDX", "MOC", "macro", "ATH", "breadth-expansion"]
+objects: ["NQ", "NDX", "QQQ"]
+architect: "Marcin Marek Lewandowski"
+architect_node: "https://www.linkedin.com/in/marcinmareklewandowski"
+project: "Heniu.blog"
+---
+
+**Stardate:** 2026.05.07  
+**Status Systemów:** Aktywna Dekompresja (Wchłanianie Podaży po ATH)  
+**Sektor:** Górne Pasma Zmienności (Nowe Rekordy Wszechczasów)  
+
+---
+
+### Telemetria Zamknięcia
+
+> *Szczegółowa telemetria wewnątrzsesyjna ujawnia zdrową, szeroką ekspansję układu podczas bicia nowych historycznych maksimów. Zrzut -104M CVD na zamknięciu nie jest efektem całodniowej dystrybucji, lecz precyzyjną, zmasowaną realizacją zysków i rebalancingiem po osiągnięciu ekstremalnych pułapów cenowych.*
+
+* **Skaner Podprzestrzenny (Rozkład Masy):**
+    * *T-Mass Układu:* **38.54** Tryliona USD
+    * *Delta Sesyjna (24h):* **-0.00** Tryliona USD (-0.2 B)
+    * *Gęstość Jądra (Heavy Nine):* **68.20%**
+    * *Średnia Akcja (Temperatura Peryferii):* **$215.53**
+* **Sonda NQ (Merkury):** Zamknięcie: **28667.00** (Intraday ATH: **28930**)
+    * *Wektor (CVD):* **-5.12k**
+    * *Zużycie Zasięgu (ADR Util):* **95.26%**
+* **Gwiazda NDX (Słońce):** Zamknięcie: **28563.60** (Intraday ATH: **28806**)
+    * *Szczytowe CVD Sesji:* **+70.00** Milionów CVD
+    * *Anomalia MOC:* **-104.96** Milionów CVD
+* **Ziemia (QQQ):** Zamknięcie: **694.93**
+    * *Wektor Populacji:* **+1.86** Milionów CVD
+* **Promieniowanie Tła (TICKQ):**
+    * *Szczytowe SMA200 (podczas ATH):* **30.00**
+    * *Zamknięcie SMA200:* **18.74**
+* **Struktura Grawitacyjna (Opcje):**
+    * *Implied Volatility (IV):* **20.38%**
+    * *Put/Call OI:* **1.64**
+
+---
+
+### Dziennik Pokładowy: Oddech Układu i Snajperskie MOC
+
+**1. Prawdziwa Akumulacja i Histeryczne Okno Zamknięcia**
+Pełny obraz taśmy z czwartkowej sesji całkowicie redefiniuje wektor Głównej Gwiazdy (NDX). Ustanowienie nowych, potężnych historycznych maksimów (NDX 28806, NQ 28930) było napędzane silną, aktywną akumulacją – w szczycie sesji CVD Kasowego osiągnęło poziom +70 Milionów. Ostatnia minuta handlu była pokazem czystego chaosu płynnościowego: wolumen skakał od 20M, przez 70M, by opaść do 40M, zanim ostateczny dzwonek (MOC) uderzył odczytem -104M. Zjawisko to dowodzi, że przez całą sesję twardy kapitał aktywnie gonił i kreował wyceny. Ujemny odczyt na zamknięciu nie jest oznaką strukturalnej słabości całego dnia, lecz chirurgicznym "cash-outem" instytucji, które wykorzystały historyczną płynność wygenerowaną na ATH do potężnego zrzutu pakietów. 
+
+**2. Pełny Tlen na Peryferiach (Szczyt TICKQ = 30)**
+Rewizja danych zdejmuje z układu zarzut niebezpiecznej dywergencji. W momencie, gdy indeks uderzał w nowe rekordy, średnia promieniowania tła (TICKQ SMA200) eksplodowała do poziomu 30. To oznacza, że rajd na historyczne szczyty miał pełne wsparcie tlenowe ze strony szerokiego rynku. T-Mass posuwała się do przodu napędzana zdrową partycypacją większości sektorów, a nie sztucznym pompowaniem garstki Osobliwości. Naturalny powrót SMA200 do poziomu 18.74 pod koniec dnia jest fizjologicznym wydechem układu w fazie popołudniowej korekty i zrzutu MOC, a nie zapowiedzią grawitacyjnego kolapsu Peryferii. 
+
+**Werdykt Kwantowy:**
+Układ wykonał potężny, wielowymiarowy skok na historyczne szczyty, napędzany prawdziwą akumulacją i poparty silną szerokością rynku. Dystrybucja w oknie MOC to klasyczna fizyka przepływów – instytucje zainkasowały "premię za nowe ATH", oddając papier w strefie najwyższego możliwego popytu. Fundamenty tła (SMA200) pozostają zdrowe.
+
+**Status:** AKTYWNA DEKOMPRESJA PO HISTORYCZNYM ATH. Oczekiwana stabilizacja po wstrząsie płynności.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure"
+}
+</script>
