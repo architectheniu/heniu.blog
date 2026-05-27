@@ -47,3 +47,10 @@ Warp x20. Start.
     name = "Obiekty Kosmiczne"
     url = "/objects/"
     weight = 3
+
+  # 4. T-LOG (Strefa Premium)
+  [[menu.main]]
+    identifier = "t-log"
+    name = "T-Log (Premium)"
+    url = "/t-log/"
+    weight = 4
