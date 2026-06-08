@@ -51,6 +51,6 @@ Warp x20. Start.
   # 4. T-LOG (Strefa Premium)
   [[menu.main]]
     identifier = "t-log"
-    name = "T-Log (Premium)"
+    name = "T-Log"
     url = "/t-log/"
     weight = 4
