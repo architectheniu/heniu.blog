@@ -54,3 +54,10 @@ Warp x20. Start.
     name = "T-Log"
     url = "/t-log/"
     weight = 4
+
+  # 5. H-LOG (Strefa Huberta)
+  [[menu.main]]
+    identifier = "h-log"
+    name = "H-Log"
+    url = "/h-log/"
+    weight = 5

@@ -1,0 +1,120 @@
+{{ define "main" }}
+<article class="post">
+  <h1 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+  </h1>
+  <div class="post-meta">
+    {{- if .Date -}}
+      <time class="post-date">
+        {{- partial "post-date" . -}}
+      </time>
+    {{- end -}}
+  </div>
+
+  {{ partial "cover.html" . }}
+
+  <div class="post-content" id="hlog-content-container">
+    {{ if .Params.encrypted }}
+      <!-- CryptoJS Library -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+      
+      <!-- Password Prompt Form -->
+      <div id="encrypted-lock" style="padding: 30px; border: 1px solid #333; border-radius: 5px; background: rgba(255, 215, 0, 0.02); text-align: center; margin: 20px 0;">
+        <div style="font-size: 2.5rem; margin-bottom: 15px;">🔒</div>
+        <h3 style="color: #ffd700; margin-top: 0; font-family: monospace;">H-LOG: WPIS ZASZYFROWANY</h3>
+        <p style="font-size: 0.9em; color: #888; margin-bottom: 25px; max-width: 500px; margin-left: auto; margin-right: auto;">
+          Dostęp do klasycznego opisu wydarzeń rynkowych (H-Log) wymaga podania hasła.<br><br>
+          Hasło można uzyskać pisząc do mnie na Telegramie na <a href="https://t.me/heniublog" target="_blank" style="color: #ffd700; text-decoration: underline;">@heniublog</a>.
+        </p>
+        
+        <div style="display: inline-block; width: 100%; max-width: 320px;">
+          <input type="password" id="hlog-password" placeholder="Wprowadź Hasło" style="width: 100%; padding: 12px; margin-bottom: 15px; background: #111; color: #fff; border: 1px solid #333; border-radius: 4px; font-size: 1rem; text-align: center; outline: none; transition: border-color 0.3s; font-family: monospace;" onfocus="this.style.borderColor='#ffd700'" onblur="this.style.borderColor='#333'" />
+          <button id="decrypt-btn" style="width: 100%; padding: 12px; background: #ffd700; color: #000; border: none; font-weight: bold; font-size: 1rem; cursor: pointer; border-radius: 4px; transition: background 0.3s; font-family: monospace;" onmouseover="this.style.background='#ffcc00'" onmouseout="this.style.background='#ffd700'">Odblokuj Dane</button>
+        </div>
+        
+        <div id="decrypt-error" style="color: #ff3333; margin-top: 15px; font-size: 0.9em; display: none; font-family: monospace;">
+          ❌ Hasło niepoprawne! Spróbuj ponownie.
+        </div>
+      </div>
+      
+      <!-- Hidden encrypted ciphertext -->
+      <div id="encrypted-payload" style="display: none;">{{ .Content | safeHTML }}</div>
+      
+      <!-- Decryption Logic -->
+      <script>
+        (function() {
+          const passwordInput = document.getElementById("hlog-password");
+          const decryptBtn = document.getElementById("decrypt-btn");
+          const lockScreen = document.getElementById("encrypted-lock");
+          const errorMsg = document.getElementById("decrypt-error");
+          const payloadContainer = document.getElementById("encrypted-payload");
+          const mainContainer = document.getElementById("hlog-content-container");
+
+          // Auto-decrypt using password saved in sessionStorage
+          const savedPassword = sessionStorage.getItem("hlog_premium_key");
+          if (savedPassword) {
+            passwordInput.value = savedPassword;
+            attemptDecryption(savedPassword);
+          }
+
+          decryptBtn.addEventListener("click", function() {
+            const password = passwordInput.value.trim();
+            if (password) {
+              attemptDecryption(password);
+            }
+          });
+
+          passwordInput.addEventListener("keypress", function(e) {
+            if (e.key === "Enter") {
+              const password = passwordInput.value.trim();
+              if (password) {
+                attemptDecryption(password);
+              }
+            }
+          });
+
+          function attemptDecryption(password) {
+            try {
+              let ciphertext = payloadContainer.innerText.trim();
+              ciphertext = ciphertext.replace(/\s+/g, "");
+
+              const decrypted = CryptoJS.AES.decrypt(ciphertext, password);
+              const plainText = decrypted.toString(CryptoJS.enc.Utf8);
+
+              if (plainText && plainText.length > 0 && (plainText.startsWith("<") || plainText.includes("<div") || plainText.includes("<p>") || plainText.includes("<h"))) {
+                sessionStorage.setItem("hlog_premium_key", password);
+                mainContainer.innerHTML = plainText;
+              } else {
+                showError();
+              }
+            } catch (e) {
+              console.error("AES Decryption Error:", e);
+              showError();
+            }
+          }
+
+          function showError() {
+            errorMsg.style.display = "block";
+            passwordInput.value = "";
+            passwordInput.focus();
+            sessionStorage.removeItem("hlog_premium_key");
+          }
+        })();
+      </script>
+    {{ else }}
+      <!-- Standard unencrypted content -->
+      <div>
+        {{ .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">#</a> ${3}` | safeHTML }}
+      </div>
+    {{ end }}
+  </div>
+
+  {{ if eq .Type $.Site.Params.contentTypeName }}
+    {{ partial "posts_pagination.html" . }}
+  {{ end }}
+
+  {{ if not (.Params.hideComments | default false) }}
+    {{ partial "comments.html" . }}
+  {{ end }}
+</article>
+{{ end }}
