@@ -61,3 +61,8 @@ Warp x20. Start.
     name = "H-Log"
     url = "/h-log/"
     weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
