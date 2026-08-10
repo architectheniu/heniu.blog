@@ -1,0 +1,9 @@
+<div style="text-align: center; font-size: 0.85em; opacity: 0.75; margin-top: 8px;">
+  {{ if eq .Language.Lang "en" -}}
+    Follow the log via <a href="{{ "index.xml" | relLangURL }}">RSS</a>
+  {{- else if eq .Language.Lang "pt-br" -}}
+    Acompanhe o diário via <a href="{{ "index.xml" | relLangURL }}">RSS</a>
+  {{- else -}}
+    Śledź dziennik przez <a href="{{ "index.xml" | relLangURL }}">RSS</a>
+  {{- end }}
+</div>
