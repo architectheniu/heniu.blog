@@ -2,7 +2,15 @@
 <div class="container" id="tlog-list-container">
     {{ if gt (len .Pages) 0 }}
       <h1>{{ .Title }}</h1>
-      <p style="color: #888; font-size: 0.9em;">Pełna telemetria pokładowa — raporty co 15 min w sesji Spot i co 30 min w sesji Futures. Sekcja jawna od 10.08.2026.</p>
+      <p style="color: #888; font-size: 0.9em;">
+        {{- if eq .Language.Lang "en" -}}
+        Full onboard telemetry — reports every 15 min in the Spot session and every 30 min in the Futures session.
+        {{- else if eq .Language.Lang "pt-br" -}}
+        Telemetria de bordo completa — relatórios a cada 15 min na sessão Spot e a cada 30 min na sessão de Futuros.
+        {{- else -}}
+        Pełna telemetria pokładowa — raporty co 15 min w sesji Spot i co 30 min w sesji Futures. Sekcja jawna od 10.08.2026.
+        {{- end -}}
+      </p>
 
       <ul style="list-style-type: none; padding: 0; margin-top: 30px;">
           {{ range .Pages.ByDate.Reverse }}
