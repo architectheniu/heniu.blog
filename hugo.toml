@@ -18,6 +18,8 @@ defaultContentLanguageInSubdir = false
   centerTheme = true
   # Na stronie głównej wyświetlamy TYLKO Logi (posts). Obiekty są osobno.
   mainSections = ["posts"]
+  # Przełącznik języka w nagłówku (obok logo/Terminala)
+  showLanguageSelector = true
 
 [markup]
   [markup.goldmark]
@@ -114,15 +116,25 @@ Warp x20. Engage.
     url = "/en/posts/"
     weight = 2
   [[languages.en.menu.main]]
+    identifier = "t-log"
+    name = "T-Log"
+    url = "/en/t-log/"
+    weight = 3
+  [[languages.en.menu.main]]
+    identifier = "h-log"
+    name = "H-Log"
+    url = "/en/h-log/"
+    weight = 4
+  [[languages.en.menu.main]]
     identifier = "atlas"
     name = "Atlas"
     url = "/en/atlas/"
-    weight = 3
+    weight = 5
   [[languages.en.menu.main]]
     identifier = "zaloga"
     name = "The Crew"
     url = "/en/zaloga/"
-    weight = 4
+    weight = 6
 
 # ==================== PORTUGUES (Brasil) ====================
 [languages.pt-br]
@@ -158,12 +170,22 @@ Warp x20. Ativar.
     url = "/pt-br/posts/"
     weight = 2
   [[languages.pt-br.menu.main]]
+    identifier = "t-log"
+    name = "T-Log"
+    url = "/pt-br/t-log/"
+    weight = 3
+  [[languages.pt-br.menu.main]]
+    identifier = "h-log"
+    name = "H-Log"
+    url = "/pt-br/h-log/"
+    weight = 4
+  [[languages.pt-br.menu.main]]
     identifier = "atlas"
     name = "Atlas"
     url = "/pt-br/atlas/"
-    weight = 3
+    weight = 5
   [[languages.pt-br.menu.main]]
     identifier = "zaloga"
     name = "Tripulação"
     url = "/pt-br/zaloga/"
-    weight = 4
+    weight = 6
