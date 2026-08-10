@@ -29,4 +29,6 @@ A ponte responde no Telegram: **[@heniublog](https://t.me/heniublog)**
 
 Escreva quem você é e qual parte desta jornada te puxa — e envie seu **proof of work**: algo que você construiu, que funciona e resolve um problema real. Qualquer forma, qualquer escala. Construir com IA é algo óbvio nesta ponte — as máquinas fazem parte da tripulação; o que importa é se a sua obra funciona. Uma frase sincera e um artefato funcionando — a conversa faz o resto.
 
+*Você também pode acompanhar o diário via [RSS](/pt-br/index.xml).*
+
 *Warp x20. Há lugares na ponte de comando.*
