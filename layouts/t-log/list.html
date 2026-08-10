@@ -1,19 +1,22 @@
 {{ define "main" }}
 <div class="container" id="tlog-list-container">
-  <h1>{{ .Title }}</h1>
-  {{ if gt (len .Pages) 0 }}
-    <ul style="list-style-type: none; padding: 0; margin-top: 30px;">
-      {{ range .Pages.ByDate.Reverse }}
-      <li style="margin-bottom: 15px;">
-        <span style="color: #ff9900;">[{{ .Date.Format "2006-01-02" }}]</span>
-        <a href="{{ .Permalink }}" style="font-size: 1.1em; text-decoration: none; margin-left: 10px;">
-          {{ .Title }}
-        </a>
-      </li>
-      {{ end }}
-    </ul>
-  {{ else }}
-    <p>Brak wpisów w tej sekcji.</p>
-  {{ end }}
+    {{ if gt (len .Pages) 0 }}
+      <h1>{{ .Title }}</h1>
+      <p style="color: #888; font-size: 0.9em;">Pełna telemetria pokładowa — raporty co 15 min w sesji Spot i co 30 min w sesji Futures. Sekcja jawna od 10.08.2026.</p>
+
+      <ul style="list-style-type: none; padding: 0; margin-top: 30px;">
+          {{ range .Pages.ByDate.Reverse }}
+          <li style="margin-bottom: 15px;">
+              <span style="color: #ff9900;">[{{ .Date.Format "2006-01-02" }}]</span>
+              <a href="{{ .Permalink }}" style="font-size: 1.1em; text-decoration: none; margin-left: 10px;">
+                  {{ .Title }}
+              </a>
+          </li>
+          {{ end }}
+      </ul>
+    {{ else }}
+      <h1>{{ .Title }}</h1>
+      <p>Brak wpisów w tej sekcji.</p>
+    {{ end }}
 </div>
 {{ end }}
