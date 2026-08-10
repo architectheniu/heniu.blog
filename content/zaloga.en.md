@@ -29,4 +29,6 @@ The bridge answers on Telegram: **[@heniublog](https://t.me/heniublog)**
 
 Write who you are and which part of this journey pulls you — and send your **proof of work**: something you built that works and solves a real problem. Any form, any scale. Building it with AI is taken for granted on this bridge — machines are part of the crew here; what matters is whether your work runs. One honest sentence and one working artifact — the conversation will do the rest.
 
+*You can also follow the log via [RSS](/en/index.xml).*
+
 *Warp x20. There are seats on the bridge.*
