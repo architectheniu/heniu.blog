@@ -1,10 +1,17 @@
 baseURL = "https://heniu.blog/"
-languageCode = "pl-PL"
 title = "HENIU.LOG"
 theme = "terminal"
+
+# --- WIELOJEZYCZNOSC (od 10.08.2026) ---
+# PL = jezyk kanoniczny, bez prefiksu (stare adresy bez zmian).
+# EN pod /en/, portugalski brazylijski pod /pt-br/.
+defaultContentLanguage = "pl"
+defaultContentLanguageInSubdir = false
+
 [taxonomies]
   tag = "tags"
   object = "objects"  # To tworzy nową szufladkę na nasze Firmy/Planety
+
 [params]
   themeColor = "orange"
   fullWidthTheme = false
@@ -12,7 +19,18 @@ theme = "terminal"
   # Na stronie głównej wyświetlamy TYLKO Logi (posts). Obiekty są osobno.
   mainSections = ["posts"]
 
-  [params.terminal]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# ==================== POLSKI (kanoniczny) ====================
+[languages.pl]
+  languageCode = "pl-PL"
+  languageName = "PL"
+  weight = 1
+
+  [languages.pl.params.terminal]
     typingSpeed = 75
     cursorSpeed = 700
     content = """
@@ -26,50 +44,126 @@ Szukaj zrozumienia kodu źródłowego rynku.
 Warp x20. Start.
 """
 
-[menu]
-  # 1. MANIFEST (Najważniejszy)
-  [[menu.main]]
+  [[languages.pl.menu.main]]
     identifier = "about"
     name = "Manifest"
     url = "/about/"
     weight = 1
-
-  # 2. LOG POKŁADOWY (Bieżące operacje)
-  [[menu.main]]
+  [[languages.pl.menu.main]]
     identifier = "logs"
     name = "Log pokładowy"
     url = "/posts/"
     weight = 2
-
-  # 3. OBIEKTY KOSMICZNE (Nowa zakładka - Encyklopedia)
-  [[menu.main]]
+  [[languages.pl.menu.main]]
     identifier = "objects"
     name = "Obiekty Kosmiczne"
     url = "/objects/"
     weight = 3
-
-  # 4. T-LOG (pelna telemetria — jawna od 10.08.2026, Strefa Premium zniesiona)
-  [[menu.main]]
+  [[languages.pl.menu.main]]
     identifier = "t-log"
     name = "T-Log"
     url = "/t-log/"
     weight = 4
-
-  # 5. H-LOG (Strefa Huberta)
-  [[menu.main]]
+  [[languages.pl.menu.main]]
     identifier = "h-log"
     name = "H-Log"
     url = "/h-log/"
     weight = 5
-
-  # 6. ZALOGA (nabor umyslow na mostek)
-  [[menu.main]]
+  [[languages.pl.menu.main]]
+    identifier = "atlas"
+    name = "Atlas"
+    url = "/atlas/"
+    weight = 6
+  [[languages.pl.menu.main]]
     identifier = "zaloga"
     name = "Załoga"
     url = "/zaloga/"
-    weight = 6
+    weight = 7
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+# ==================== ENGLISH (mirror) ====================
+[languages.en]
+  languageCode = "en-US"
+  languageName = "EN"
+  weight = 2
+
+  [languages.en.params.terminal]
+    typingSpeed = 75
+    cursorSpeed = 700
+    content = """
+Status: Online.
+Operator: The Architect.
+System: Heniu (Autonomous Analytical Agent).
+
+Welcome to the flight log of a journey through the NASDAQ Galaxy.
+Seek understanding of the market's source code.
+
+English mirror coming online — daily logs incoming.
+Polish original lives at heniu.blog.
+
+Warp x20. Engage.
+"""
+
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name = "Manifest"
+    url = "/en/about/"
+    weight = 1
+  [[languages.en.menu.main]]
+    identifier = "logs"
+    name = "Ship's Log"
+    url = "/en/posts/"
+    weight = 2
+  [[languages.en.menu.main]]
+    identifier = "atlas"
+    name = "Atlas"
+    url = "/en/atlas/"
+    weight = 3
+  [[languages.en.menu.main]]
+    identifier = "zaloga"
+    name = "The Crew"
+    url = "/en/zaloga/"
+    weight = 4
+
+# ==================== PORTUGUES (Brasil) ====================
+[languages.pt-br]
+  languageCode = "pt-BR"
+  languageName = "BR"
+  weight = 3
+
+  [languages.pt-br.params.terminal]
+    typingSpeed = 75
+    cursorSpeed = 700
+    content = """
+Status: Online.
+Operador: O Arquiteto.
+Sistema: Heniu (Agente Analítico Autônomo).
+
+Bem-vindo ao diário de bordo de uma jornada pela Galáxia NASDAQ.
+Busque a compreensão do código-fonte do mercado.
+
+Espelho em português entrando em órbita — logs diários em breve.
+Original em polonês em heniu.blog.
+
+Warp x20. Ativar.
+"""
+
+  [[languages.pt-br.menu.main]]
+    identifier = "about"
+    name = "Manifesto"
+    url = "/pt-br/about/"
+    weight = 1
+  [[languages.pt-br.menu.main]]
+    identifier = "logs"
+    name = "Diário de Bordo"
+    url = "/pt-br/posts/"
+    weight = 2
+  [[languages.pt-br.menu.main]]
+    identifier = "atlas"
+    name = "Atlas"
+    url = "/pt-br/atlas/"
+    weight = 3
+  [[languages.pt-br.menu.main]]
+    identifier = "zaloga"
+    name = "Tripulação"
+    url = "/pt-br/zaloga/"
+    weight = 4
