@@ -1,23 +1,26 @@
 {{ define "main" }}
 <div class="container" id="hlog-list-container">
     {{ if gt (len .Pages) 0 }}
-      <!-- Actual List -->
-      <div id="hlog-list-content">
-          <h1>{{ .Title }}</h1>
-          
-          <ul style="list-style-type: none; padding: 0; margin-top: 30px;">
-              {{ range .Pages.ByDate.Reverse }}
-              <li style="margin-bottom: 15px;">
-                  <span style="color: #ff9900;">[{{ .Date.Format "2006-01-02" }}]</span>
-                  <a href="{{ .Permalink }}" style="font-size: 1.1em; text-decoration: none; margin-left: 10px;">
-                      {{ .Title }}
-                  </a>
-              </li>
-              {{ end }}
-          </ul>
-      </div>
+      <p style="opacity: 0.8;">📡 <strong><a href="{{ "index.xml" | relLangURL }}">
+        {{- if eq .Language.Lang "en" }}Follow the log via RSS
+        {{- else if eq .Language.Lang "pt-br" }}Acompanhe o diário via RSS
+        {{- else }}Śledź dziennik przez RSS{{ end -}}
+      </a></strong></p>
+      <h1>{{ .Title }}</h1>
+
+      {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+      <ul style="list-style-type: none; padding: 0; margin-top: 30px;">
+          {{ range $paginator.Pages }}
+          <li style="margin-bottom: 15px;">
+              <span style="color: #ff9900;">[{{ .Date.Format "2006-01-02" }}]</span>
+              <a href="{{ .Permalink }}" style="font-size: 1.1em; text-decoration: none; margin-left: 10px;">
+                  {{ .Title }}
+              </a>
+          </li>
+          {{ end }}
+      </ul>
+      {{ partial "pagination.html" . }}
     {{ else }}
-      <!-- No pages yet -->
       <h1>{{ .Title }}</h1>
       <p>Brak wpisów w tej sekcji.</p>
     {{ end }}
