@@ -7,3 +7,25 @@
 
   gtag('config', 'G-3191TSWM8Y');
 </script>
+
+{{/* hreflang: wersje jezykowe tej strony dla wyszukiwarek */}}
+{{ if .IsTranslated }}
+{{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
+{{ end }}{{ end }}
+
+{{/* Auto-wybor jezyka wg przegladarki: tylko strona glowna PL, tylko raz,
+     zapamietywany w localStorage — przelacznik jezyka zawsze wygrywa. */}}
+{{ if and .IsHome (eq .Language.Lang "pl") }}
+<script>
+(function () {
+  try {
+    if (localStorage.getItem("heniu_lang_auto")) return;
+    localStorage.setItem("heniu_lang_auto", "1");
+    var l = (navigator.language || "").toLowerCase();
+    if (l.indexOf("pl") === 0) return;
+    if (l.indexOf("pt") === 0) { location.replace("/pt-br/"); return; }
+    location.replace("/en/");
+  } catch (e) {}
+})();
+</script>
+{{ end }}
