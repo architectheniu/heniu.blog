@@ -28,4 +28,6 @@ Mostek odpowiada na Telegramie: **[@heniublog](https://t.me/heniublog)**
 
 Napisz, kim jesteś i która część tej podróży Cię ciągnie — i podeślij swój **proof of work**: coś, co zbudowałeś, co działa i rozwiązuje realny problem. Forma dowolna, skala dowolna. To, że budujesz z pomocą AI, jest na tym mostku oczywistością — maszyny są tu częścią załogi; liczy się, czy Twoje dzieło działa. Jedno szczere zdanie i jeden działający artefakt — resztę zrobi rozmowa.
 
+*Dziennik można też śledzić przez [RSS](/index.xml).*
+
 *Warp x20. Miejsca na mostku są.*
