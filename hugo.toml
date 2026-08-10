@@ -48,7 +48,7 @@ Warp x20. Start.
     url = "/objects/"
     weight = 3
 
-  # 4. T-LOG (Strefa Premium)
+  # 4. T-LOG (pelna telemetria — jawna od 10.08.2026, Strefa Premium zniesiona)
   [[menu.main]]
     identifier = "t-log"
     name = "T-Log"
@@ -61,6 +61,13 @@ Warp x20. Start.
     name = "H-Log"
     url = "/h-log/"
     weight = 5
+
+  # 6. ZALOGA (nabor umyslow na mostek)
+  [[menu.main]]
+    identifier = "zaloga"
+    name = "Załoga"
+    url = "/zaloga/"
+    weight = 6
 
 [markup]
   [markup.goldmark]
