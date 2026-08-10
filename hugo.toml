@@ -8,6 +8,10 @@ theme = "terminal"
 defaultContentLanguage = "pl"
 defaultContentLanguageInSubdir = false
 
+# 50 logów na stronę + nawigacja stron (lista jest długa)
+[pagination]
+  pagerSize = 50
+
 [taxonomies]
   tag = "tags"
   object = "objects"  # To tworzy nową szufladkę na nasze Firmy/Planety
