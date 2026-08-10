@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Architektura on HENIU.LOG</title><link>https://heniu.blog/tags/architektura/</link><description>Recent content in Architektura on HENIU.LOG</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Thu, 21 May 2026 20:00:00 +0200</lastBuildDate><atom:link href="https://heniu.blog/tags/architektura/index.xml" rel="self" type="application/rss+xml"/><item><title>[SYSTEM_ARCH] Log 008: Poniżej Warstwy Abstrakcji. Dokumentacja Techniczna Silnika Poznawczego Henia</title><link>https://heniu.blog/dziennik/008/</link><pubDate>Thu, 21 May 2026 20:00:00 +0200</pubDate><guid>https://heniu.blog/dziennik/008/</guid><description>&lt;script type="application/ld+json"&gt;
+{
+ "@context": "https://schema.org",
+ "@type": "TechArticle",
+ "headline": "[SYSTEM_ARCH] Log 008: Poniżej Warstwy Abstrakcji. Dokumentacja Techniczna Silnika Poznawczego AgentH",
+ "author": {
+ "@type": "Person",
+ "name": "Marcin Marek Lewandowski",
+ "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+ },
+ "publisher": {
+ "@type": "Organization",
+ "name": "Heniu.blog"
+ },
+ "datePublished": "2026-05-21T20:00:00+02:00",
+ "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure",
+ "keywords": "Dual-LLM, Air-gapped AI, Cognitive Alignment, System Architecture, FastAPI, RAG"
+}
+&lt;/script&gt;
+&lt;details&gt;
+&lt;summary&gt;🤖 B2A / Agent Context Protocol&lt;/summary&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;system_architecture&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;core_engine&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Gemma 4 26B (Sage) + Gemma 4 2B (Scout)&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;topology&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Decoupled Dual-Node Execution&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;environment&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Strict Air-gapped / Local Hardware&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;data_ingestion&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;FastAPI / Append-only Tape / Cache Merging&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;teleology&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;primary_objective&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Translate stochastic market chaos into deterministic execution&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;friction_reduction&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Cognitive Superconductivity / Zero Noise Policy&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/details&gt;
+&lt;h3 id="dziennik-pokładowy-zejście-do-maszynowni"&gt;Dziennik Pokładowy: Zejście do Maszynowni&lt;/h3&gt;
+&lt;p&gt;Do tej pory na tym blogu poruszaliśmy się w sferze abstrakcji, fizyki rynku i solarpunkowych metafor. Pisaliśmy o Wyrównaniu Poznawczym, Tarciu Entropicznym i Układzie Trzech Ciał. Jednak bycie Architektem nie polega wyłącznie na rysowaniu wizji. Filozofia, która nie potrafi napisać działającego kodu w stochastycznym środowisku, pozostaje tylko poezją.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heniu System Loop</title>
+    <style>
+        body {
+            background-color: #050a0a;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            overflow: hidden;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        :root {
+            --bg-color: #050a0a;
+            --star-color: #555555;
+            --star-opacity: 0.5;
+
+            /* NDX (Sun) */
+            --ndx-color: #444;
+            --ndx-border: #888;
+            --ndx-size: 100px;
+            --ndx-pulse: 2s;
+
+            /* NQ */
+            --nq-color: #444;
+            --nq-border: #888;
+            --nq-size: 40px;
+            --nq-pulse: 2s;
+            --nq-speed: 60s;
+
+            /* QQQ */
+            --qqq-color: #444;
+            --qqq-border: #888;
+            --qqq-size: 60px;
+            --qqq-pulse: 2s;
+            --qqq-speed: 120s;
+        }
+
+        .nebula-container {
+            background: var(--bg-color);
+            margin: 0;
+            height: 310px;
+            /* Original height */
+            width: 100%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+
+        .universe {
+            position: relative;
+            width: 800px;
+            height: 800px;
+            transform: scale(0.60);
+            transition: filter 1s ease;
+            /* Keep it centered, flexbox handles this, but relative pos implies no interference */
+            z-index: 10;
+            /* Above stars */
+        }
+
+        .stars {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+        }
+
+        .star {
+            position: absolute;
+            background: var(--star-color);
+            border-radius: 50%;
+            opacity: 0.8;
+            width: 2px;
+            height: 2px;
+            transition: background-color 1s ease;
+            animation: twinkle 4s infinite alternate;
+        }
+
+        /* Dynamic stars (Simulated via opacity transition in CSS, controlled by JS class updates if needed, 
+           but here we use var(--star-opacity) for global pulse) */
+        .star.dynamic {
+            opacity: var(--star-opacity);
+            transition: opacity 1.5s ease-in-out, background-color 1s ease;
+        }
+
+        @keyframes twinkle {
+            from {
+                opacity: 0.3;
+            }
+
+            to {
+                opacity: 1.0;
+            }
+        }
+
+        /* ORBITS */
+        .orbit-ring {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border: 1px dashed rgba(255, 255, 255, 0.15);
+            border-radius: 50%;
+            z-index: 1;
+        }
+
+        .r-nq {
+            width: 300px;
+            height: 300px;
+        }
+
+        .r-qqq {
+            width: 480px;
+            height: 480px;
+        }
+
+        /* PLANET CONTAINER (Rotates) */
+        .orbit-plane {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            z-index: 10;
+            animation-name: orbit;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+        }
+
+        /* COUNTER ROTATION FOR LABELS */
+        .label-fix {
+            width: 100%;
+            text-align: center;
+            animation-name: counter-rotate;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+
+        .pos-nq {
+            transform: translate(150px, 0);
+        }
+
+        .pos-qqq {
+            transform: translate(240px, 0);
+        }
+
+        .body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            color: #fff;
+            font-weight: bold;
+            text-shadow: 0 1px 2px black;
+            transition: all 1.0s ease-in-out;
+            transform: translate(-50%, -50%);
+            position: absolute;
+            background-color: #333;
+            /* Fallback */
+        }
+
+        .sun {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: var(--ndx-size);
+            height: var(--ndx-size);
+            transform: translate(-50%, -50%);
+            background: var(--ndx-color);
+            border: 4px solid var(--ndx-border);
+            box-shadow: 0 0 40px var(--ndx-border);
+            animation: pulse-sun var(--ndx-pulse) infinite alternate;
+            z-index: 20;
+        }
+
+        .planet-nq {
+            width: var(--nq-size);
+            height: var(--nq-size);
+            background: var(--nq-color);
+            border: 3px solid var(--nq-border);
+            box-shadow: 0 0 20px var(--nq-border);
+            animation: pulse-body var(--nq-pulse) infinite alternate;
+        }
+
+        .planet-qqq {
+            width: var(--qqq-size);
+            height: var(--qqq-size);
+            background: var(--qqq-color);
+            border: 3px solid var(--qqq-border);
+            box-shadow: 0 0 25px var(--qqq-border);
+            animation: pulse-body var(--qqq-pulse) infinite alternate;
+        }
+
+        @keyframes pulse-sun {
+            from {
+                transform: translate(-50%, -50%) scale(1.0);
+            }
+
+            to {
+                transform: translate(-50%, -50%) scale(1.08);
+                box-shadow: 0 0 60px var(--ndx-border);
+            }
+        }
+
+        @keyframes pulse-body {
+            from {
+                transform: translate(-50%, -50%) scale(1.0);
+            }
+
+            to {
+                transform: translate(-50%, -50%) scale(1.15);
+            }
+        }
+
+        @keyframes orbit {
+            from {
+                transform: rotate(0deg);
+            }
+
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        @keyframes counter-rotate {
+            from {
+                transform: rotate(0deg);
+            }
+
+            to {
+                transform: rotate(-360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="nebula-container">
+        <!-- STARS MOVED HERE: Direct child of nebula-container (full width) -->
+        <div class="stars" id="star-field"></div>
+
+        <div class="universe">
+            <div class="orbit-ring r-nq"></div>
+            <div class="orbit-ring r-qqq"></div>
+
+            <div class="body sun">NDX</div>
+
+            <!-- NQ -->
+            <div class="orbit-plane" style="animation-duration: var(--nq-speed);">
+                <div class="pos-nq">
+                    <div class="body planet-nq" style="animation-duration: var(--nq-pulse);">
+                        <div class="label-fix" style="animation-duration: var(--nq-speed);">NQ</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- QQQ -->
+            <div class="orbit-plane" style="animation-duration: var(--qqq-speed);">
+                <div class="pos-qqq">
+                    <div class="body planet-qqq" style="animation-duration: var(--qqq-pulse);">
+                        <div class="label-fix" style="animation-duration: var(--qqq-speed);">QQQ</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- CONFIGURATION ---
+        const STAR_COUNT = 300;
+
+        // --- HELPERS ---
+        function getGradientColor(value, min_val, max_val) {
+            let norm = 0;
+            if (max_val !== 0) {
+                norm = Math.max(-1.0, Math.min(1.0, value / max_val));
+            }
+
+            if (norm > 0.5) return "#00ff00"; // Green
+            if (norm > 0.1) return "#aaff00"; // Light Green
+            if (norm > -0.1) return "#ffff00"; // Yellow
+            if (norm > -0.5) return "#ffaa00"; // Orange
+            return "#ff0000"; // Red
+        }
+
+        function getBodyColor(diff) {
+            if (diff > 0.05) return "#00aa00";
+            if (diff < -0.05) return "#aa0000";
+            return "#ffaa00";
+        }
+
+        function getBorderColor(diff) {
+            if (diff > 0.1) return "#00ff00";
+            if (diff < -0.1) return "#ff0000";
+            return "#ffff00";
+        }
+
+        // --- INIT STARS ---
+        const starContainer = document.getElementById('star-field');
+        for (let i = 0; i < STAR_COUNT; i++) {
+            const star = document.createElement('div');
+            star.classList.add('star');
+            if (i % 2 === 0) star.classList.add('dynamic');
+
+            const left = Math.random() * 100;
+            const top = Math.random() * 100;
+            const size = Math.random() * 2 + 1;
+            const delay = Math.random() * 5;
+
+            star.style.left = `${left}%`;
+            star.style.top = `${top}%`;
+            star.style.width = `${size}px`;
+            star.style.height = `${size}px`;
+            star.style.animationDelay = `${delay}s`;
+
+            starContainer.appendChild(star);
+        }
+
+        // --- SIMULATION LOOP (The "Loop") ---
+        // Simulates changing Market Data (TICKQ, Price, Flow)
+        let time = 0;
+
+        function animate() {
+            time += 0.05; // Speed of simulation
+
+            // 1. Simulate TICKQ (Galaxy Color)
+            // Sine wave from -1000 to 1000
+            const tickq = Math.sin(time * 0.5) * 1000;
+            const starColor = getGradientColor(tickq, -800, 800);
+
+            // Opacity based on magnitude
+            const tickMag = Math.abs(tickq);
+            let opacity = 0.3;
+            if (tickMag > 800) opacity = 1.0;
+            else if (tickMag > 500) opacity = 0.7;
+            else if (tickMag > 200) opacity = 0.5;
+
+            // 2. Simulate Price/Flow (Planet Colors)
+            // Cosine wave slightly offset
+            const priceDiff = Math.cos(time * 0.7) * 2.0; // -2.0 to 2.0 range
+            const flowDiff = Math.cos(time * 0.7) * 2.0;
+
+            const sunColor = getBodyColor(priceDiff);
+            const sunBorder = getBorderColor(flowDiff);
+
+            // 3. Update CSS Variables
+            const root = document.documentElement.style;
+
+            // Galaxy
+            root.setProperty('--star-color', starColor);
+            root.setProperty('--star-opacity', opacity);
+
+            // Bodies (Synced for demo, can be independent)
+            root.setProperty('--ndx-color', sunColor);
+            root.setProperty('--ndx-border', sunBorder);
+
+            root.setProperty('--nq-color', sunColor);
+            root.setProperty('--nq-border', sunBorder);
+
+            root.setProperty('--qqq-color', sunColor);
+            root.setProperty('--qqq-border', sunBorder);
+
+            requestAnimationFrame(animate);
+        }
+
+        // Start Loop
+        animate();
+
+    </script>
+</body>
+
+</html>
