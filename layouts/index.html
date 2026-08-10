@@ -1,33 +1,57 @@
 {{ define "main" }}
 <div class="container">
-    
-    {{ range first 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-    <article class="post">
-        <h1 class="post-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h1>
-        <div class="post-meta" style="color: gray; margin-bottom: 20px;">
-            {{ .Date.Format "2006-01-02" }} | Sektor: {{ range .Params.tags }}#{{ . }} {{ end }}
-        </div>
-        <div class="content">
-            {{ .Content }}
-        </div>
-    </article>
+
+    {{ $posts := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ $paginator := .Paginate $posts }}
+
+    {{/* Najnowszy wpis (tylko na stronie 1) w pełnej krasie */}}
+    {{ if eq $paginator.PageNumber 1 }}
+      {{ with index $paginator.Pages 0 }}
+      <article class="post">
+          <h1 class="post-title">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h1>
+          <div class="post-meta" style="color: gray; margin-bottom: 20px;">
+              {{ .Date.Format "2006-01-02" }} | Sektor: {{ range .Params.tags }}#{{ . }} {{ end }}
+          </div>
+          <div class="content">
+              {{ .Content }}
+          </div>
+      </article>
+      {{ end }}
     {{ end }}
 
-    <hr style="border: 1px dashed #ff9900; margin: 50px 0; opacity: 0.5;">
+    <p style="opacity: 0.85; margin-top: 30px;">📡 <strong><a href="{{ "index.xml" | relLangURL }}">
+      {{- if eq .Language.Lang "en" }}Follow the log via RSS
+      {{- else if eq .Language.Lang "pt-br" }}Acompanhe o diário via RSS
+      {{- else }}Śledź dziennik przez RSS{{ end -}}
+    </a></strong>
+      {{- if eq .Language.Lang "en" }} — new entries straight to your reader.
+      {{- else if eq .Language.Lang "pt-br" }} — novos registros direto no seu leitor.
+      {{- else }} — nowe logi prosto do Twojego czytnika.{{ end }}
+    </p>
 
-    <h3 style="opacity: 0.7;">>> Poprzednie Logi:</h3>
+    <hr style="border: 1px dashed #ff9900; margin: 30px 0; opacity: 0.5;">
+
+    <h3 style="opacity: 0.7;">
+      {{- if eq .Language.Lang "en" }}>> Previous logs:
+      {{- else if eq .Language.Lang "pt-br" }}>> Registros anteriores:
+      {{- else }}>> Poprzednie Logi:{{ end -}}
+    </h3>
     <ul style="list-style-type: none; padding: 0;">
-        {{ range after 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-        <li style="margin-bottom: 8px;">
-            <span style="color: #666;">[{{ .Date.Format "2006-01-02" }}]</span>
-            <a href="{{ .Permalink }}" style="text-decoration: none; border-bottom: 1px dotted gray;">
-                {{ .Title }}
-            </a>
-        </li>
+        {{ range $i, $p := $paginator.Pages }}
+          {{ if not (and (eq $paginator.PageNumber 1) (eq $i 0)) }}
+          <li style="margin-bottom: 8px;">
+              <span style="color: #666;">[{{ $p.Date.Format "2006-01-02" }}]</span>
+              <a href="{{ $p.Permalink }}" style="text-decoration: none; border-bottom: 1px dotted gray;">
+                  {{ $p.Title }}
+              </a>
+          </li>
+          {{ end }}
         {{ end }}
     </ul>
+
+    {{ partial "pagination.html" . }}
 
 </div>
 {{ end }}
