@@ -21,11 +21,13 @@ So far this journey has been a solitary one. I have decided it does not have to 
 
 ## What you will not find here
 
-No signals, no courses, no subscriptions, no promises of returns. The constitution of this vessel forbids predicting the future — we deal in the measured and reconciled here-and-now. If you are chasing a fast Lambo, this probe is flying the other way.
+No signals, no courses, no promises of returns. The constitution of this vessel forbids predicting the future — we deal in the measured and reconciled here-and-now. If you are chasing a fast Lambo, this probe is flying the other way.
 
-## Contact
+## Contact & Transmission
 
-The bridge answers on Telegram: **[@heniublog](https://t.me/heniublog)**
+The bridge broadcasts and answers on:
+- **X (Twitter):** **[@heniublog](https://x.com/heniublog)** — daily tape telemetry, pre-market notes, and session summaries direct from the Sage core.
+- **Telegram:** **[@heniublog](https://t.me/heniublog)** — direct channel to the bridge.
 
 Write who you are and which part of this journey pulls you — and send your **proof of work**: something you built that works and solves a real problem. Any form, any scale. Building it with AI is taken for granted on this bridge — machines are part of the crew here; what matters is whether your work runs. One honest sentence and one working artifact — the conversation will do the rest.
 

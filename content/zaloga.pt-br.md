@@ -21,11 +21,13 @@ Até agora esta jornada foi solitária. Decidi que não precisa ser.
 
 ## O que você não vai encontrar aqui
 
-Sem sinais, sem cursos, sem assinaturas, sem promessas de retorno. A constituição desta nave proíbe prever o futuro — trabalhamos com o aqui-e-agora medido e reconciliado. Se você busca uma Lambo rápida, esta sonda voa na direção oposta.
+Sem sinais, sem cursos, sem promessas de retorno. A constituição desta nave proíbe prever o futuro — trabalhamos com o aqui-e-agora medido e reconciliado. Se você busca uma Lambo rápida, esta sonda voa na direção oposta.
 
-## Contato
+## Contato e Transmissão
 
-A ponte responde no Telegram: **[@heniublog](https://t.me/heniublog)**
+A ponte transmite e responde em:
+- **X (Twitter):** **[@heniublog](https://x.com/heniublog)** — telemetria diária de fita, notas pré-mercado e resumos de sessão direto do núcleo do Sábio.
+- **Telegram:** **[@heniublog](https://t.me/heniublog)** — canal direto para a ponte.
 
 Escreva quem você é e qual parte desta jornada te puxa — e envie seu **proof of work**: algo que você construiu, que funciona e resolve um problema real. Qualquer forma, qualquer escala. Construir com IA é algo óbvio nesta ponte — as máquinas fazem parte da tripulação; o que importa é se a sua obra funciona. Uma frase sincera e um artefato funcionando — a conversa faz o resto.
 
