@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HENIU.LOG</title><link>https://heniu.blog/en/</link><description>Recent content on HENIU.LOG</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 20 Aug 2026 11:07:29 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>H-Log: 2026-08-20 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-08-20/</link><pubDate>Thu, 20 Aug 2026 11:07:29 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-08-20/</guid><description>&lt;h1&gt;H-LOG 2026.08.20 [EN]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HENIU.LOG</title><link>https://heniu.blog/en/</link><description>Recent content on HENIU.LOG</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 20 Aug 2026 11:29:18 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-08-20 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-08-20/</link><pubDate>Thu, 20 Aug 2026 11:29:18 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-08-20/</guid><description>&lt;h1&gt;T-LOG 2026.08.20 [EN]&lt;/h1&gt;
+&lt;h3&gt;🌌 [2026-08-20 11:29]&lt;/h3&gt;
+&lt;p&gt;[T-LOG: 2026-08-20 11:29]&lt;/p&gt;
+&lt;p&gt;the NQ Probe is at level 29535.25 (+0.08%). In the last few minutes, intense volume exchange was recorded in the barrier zone 29520.0 – 29540.0, where a series of sudden breaches and collapses of HVN levels occurred. The current CVD state for the NQ Probe is 993, which classifies the system in a demand testing phase. Background Radiation (TICKQ) indicates a market breakdown (static reading: [BRAK_DANYCH_W_TELEMETRII] - status: inactive). The Q-Score directional vector is 25 (probability 62%), suggesting a slight upward tendency, while simultaneously lacking confirmation in Oracle (5m=0.0%). Volatility in the Dyson Sphere (QQQ) (IV) remains at 19.35%. ADR NQ is currently 48.48%. The lack of synchronization between aggression at HVN levels and price stabilization suggests local absorption.&lt;/p&gt;</description></item><item><title>H-Log: 2026-08-20 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-08-20/</link><pubDate>Thu, 20 Aug 2026 11:07:29 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-08-20/</guid><description>&lt;h1&gt;H-LOG 2026.08.20 [EN]&lt;/h1&gt;
 &lt;h3&gt;📈 [2026-08-20 11:07]&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;H-LOG: Professionals Report&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;the futures session&lt;/strong&gt;&lt;/p&gt;
@@ -8,18 +11,7 @@
 &lt;li&gt;&lt;strong&gt;Sentiment and flows:&lt;/strong&gt; The aggregate flow direction indicator is 25, which on a scale of -100/+100 signals a moderate advantage of capital inflow, despite the negative price dynamics of most instruments.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;the Dyson Sphere (QQQ) options market:&lt;/strong&gt; The options market shows a neutral-bullish stance with a Put/Call Ratio at the level of 0.96. Implied Volatility (IV) is 19.35%, and the expected range of movement for QQQ oscillates around 709.54 – 722.63. With a volume of 7.39 mln contracts, current levels suggest the building of hedges against greater volatility in the upcoming cycle.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;H-Log Report: 2026-08-20 11:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-08-20 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-08-20/</link><pubDate>Thu, 20 Aug 2026 10:59:22 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-08-20/</guid><description>&lt;h1&gt;T-LOG 2026.08.20 [EN]&lt;/h1&gt;
-&lt;h3&gt;🌌 [2026-08-20 10:59]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;[LOG_START]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;the NQ Probe:&lt;/strong&gt; 29476.75 (-0.12%).&lt;br /&gt;
-&lt;strong&gt;CVD NQ:&lt;/strong&gt; 666 [demand test].&lt;br /&gt;
-&lt;strong&gt;ADR NQ:&lt;/strong&gt; 48.48%.&lt;br /&gt;
-&lt;strong&gt;TICKQ (Background Radiation):&lt;/strong&gt; [NO_DATA_IN_TELEMETRY] (Static/inactive reading).&lt;br /&gt;
-&lt;strong&gt;IV (the Dyson Sphere (QQQ)):&lt;/strong&gt; 19.35%.&lt;br /&gt;
-&lt;strong&gt;Q-Score:&lt;/strong&gt; 25 (Probability: 62%).&lt;br /&gt;
-&lt;strong&gt;Oracle:&lt;/strong&gt; 5m=5.3% | 1h=6.9%.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;VOLUME EVENT ANALYSIS (HVN):&lt;/strong&gt;&lt;br /&gt;
-Extreme activity was recorded in the 29470.0 – 29530.0 zone. In a short interval, a rapid fluctuation occurred: multiple breaches of support and capturing of barriers in micro-zones (every 10 pts), which led to a high frequency of oscillations around the 29470.0 - 29480.0 level.&lt;/p&gt;</description></item><item><title>T-Log: 2026-08-19 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-08-19/</link><pubDate>Wed, 19 Aug 2026 23:59:03 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-08-19/</guid><description>&lt;h1&gt;T-LOG 2026.08.19 [EN]&lt;/h1&gt;
+&lt;p&gt;H-Log Report: 2026-08-20 11:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-08-19 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-08-19/</link><pubDate>Wed, 19 Aug 2026 23:59:03 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-08-19/</guid><description>&lt;h1&gt;T-LOG 2026.08.19 [EN]&lt;/h1&gt;
 &lt;h3&gt;🌌 [2026-08-19 23:59]&lt;/h3&gt;
 &lt;p&gt;Log: 2026-08-19 23:59&lt;/p&gt;
 &lt;p&gt;System in sleep mode. Waiting for market opening.&lt;/p&gt;
