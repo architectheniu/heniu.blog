@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NDX CVD on Heniu.blog</title><link>https://heniu.blog/tags/ndx-cvd/</link><description>Recent content in NDX CVD on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://heniu.blog/tags/ndx-cvd/index.xml" rel="self" type="application/rss+xml"/><item><title>NDX CVD — Agregacja Delty Wolumenu Indeksu Kasowego</title><link>https://heniu.blog/atlas/ndx-cvd/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>https://heniu.blog/atlas/ndx-cvd/</guid><description>&lt;h1 id="ndx-cvd--agregacja-delty-wolumenu-indeksu"&gt;NDX CVD — Agregacja Delty Wolumenu Indeksu&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;W kosmologii Antigravity:&lt;/strong&gt; Paliwo Gwiazdy Centralnej (NDX).
-&lt;strong&gt;W języku klasycznym:&lt;/strong&gt; Agregowana, ważona skumulowana delta wolumenu (CVD) dla 100 spółek wchodzących w skład indeksu NASDAQ-100.&lt;/p&gt;
+&lt;strong&gt;W języku klasycznym:&lt;/strong&gt; Indeksowo ważona skumulowana delta wolumenu (CVD) dla 100 komponentów indeksu NASDAQ-100.&lt;/p&gt;
 &lt;h2 id="jak-powstaje-ndx-cvd"&gt;Jak powstaje NDX CVD&lt;/h2&gt;
-&lt;p&gt;Indeks NASDAQ-100 sam w sobie jest koszykiem papierów wartościowych, a nie pojedynczą akcją. Wskaźnik &lt;strong&gt;NDX CVD&lt;/strong&gt; w telemetrii Henia obliczany jest w następujący sposób:&lt;/p&gt;
+&lt;p&gt;Indeks NASDAQ-100 jest koszykiem papierów wartościowych, a nie pojedynczym instrumentem giełdowym. Wskaźnik &lt;strong&gt;NDX CVD&lt;/strong&gt; w telemetrii Henia obliczany jest w następujący sposób:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Feed transakcyjny:&lt;/strong&gt; Ciągły odczyt transakcji z giełd dla każdego ze 100 komponentów indeksu.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Klasyfikacja transakcji:&lt;/strong&gt; Zlecenia realizowane po cenie Ask (agresywny popyt) dodają wolumen; zlecenia po cenie Bid (agresywna podaż) odejmują wolumen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Agregacja i ważenie:&lt;/strong&gt; Wolumeny są sumowane w czasie rzeczywistym z uwzględnieniem wag komponentów w indeksie, tworząc jedną syntetyczną linię przepływu energii dla całego rynku kasowego.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reset sesyjny:&lt;/strong&gt; Linia CVD jest zerowana na otwarciu sesji kasowej o 9:30 ET (15:30 czasu polskiego), co pozwala mierzyć czysty bilans walki popytu i podaży dla bieżącego dnia.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Klasyfikacja transakcji (Tick Rule / BBO):&lt;/strong&gt; Transakcje zawarte po cenie Ask (agresywny popyt rynkowy) dodają wolumen (+); transakcje po cenie Bid (agresywna podaż rynkowa) odejmują wolumen (-).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ważenie indeksowe i agregacja:&lt;/strong&gt; Wolumeny komponentów są sumowane w czasie rzeczywistym z uwzględnieniem wag indeksowych:
+$$ \text{CVD}&lt;em&gt;{NDX} = \sum&lt;/em&gt;{i=1}^{100} w_i \cdot (\text{Vol}&lt;em&gt;{\text{Ask}, i} - \text{Vol}&lt;/em&gt;{\text{Bid}, i}) $$
+gdzie $w_i$ to waga spółki w indeksie. Dzięki temu ruchy megacapów (np. Apple, NVIDIA) mają proporcjonalny wpływ na wypadkowy wskaźnik, odzwierciedlając strukturę indeksu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reset sesyjny:&lt;/strong&gt; Linia CVD jest zerowana na otwarciu sesji kasowej o 9:30 ET (15:30 czasu polskiego), mierząc bilans agresji rynkowej dla bieżącej sesji spot.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="interpretacja-jednostek"&gt;Interpretacja jednostek&lt;/h2&gt;
-&lt;p&gt;Wartości podawane w raportach (np. &lt;code&gt;+162,49M&lt;/code&gt; lub &lt;code&gt;-175,43M&lt;/code&gt;) oznaczają sumaryczną liczbę akcji netto kupionych/sprzedanych agresywnie w trakcie trwania danej sesji.&lt;/p&gt;</description></item></channel></rss>
+&lt;h2 id="jednostka-i-interpretacja-semantyczna"&gt;Jednostka i interpretacja semantyczna&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jednostka:&lt;/strong&gt; Wartości podawane w raportach (np. &lt;code&gt;+162,49M&lt;/code&gt; lub &lt;code&gt;-175,43M&lt;/code&gt;) reprezentują &lt;strong&gt;NDX Weighted Flow Units (indeksowo ważone jednostki wolumenu agresywnego)&lt;/strong&gt;. Ze względu na ważenie wagami indeksu nie jest to surowa, prosta suma sztuk akcji, lecz znormalizowany wektor presji agresywnej.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CVD to NIE „napływ kapitału”:&lt;/strong&gt; W każdej transakcji giełdowej następuje symetryczna wymiana gotówki i akcji. CVD nie mierzy salda wpłat do systemu, lecz &lt;strong&gt;signed aggressive order flow&lt;/strong&gt; — informuje, która strona rynku (kupujący czy sprzedający) była bardziej zdeterminowana, by płacić spread i uderzać zleceniami rynkowymi w zlecenia oczekujące (limit).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dywergencja NDX / CVD:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Cena spada, a NDX CVD rośnie: pasywna absorpcja agresywnej sprzedaży przez zlecenia z limitem kupna (akumulacja w dołku).&lt;/li&gt;
+&lt;li&gt;Cena rośnie przy ujemnym CVD: pasywna dystrybucja zleceń sprzedaży w napływający popyt rynkowy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Karta Atlasu. Zero sygnałów — tylko fizyka Układu.&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>

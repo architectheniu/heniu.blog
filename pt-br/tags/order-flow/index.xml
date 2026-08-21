@@ -1,16 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Order Flow on Heniu.blog</title><link>https://heniu.blog/pt-br/tags/order-flow/</link><description>Recent content in Order Flow on Heniu.blog</description><generator>Hugo</generator><language>pt-BR</language><lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://heniu.blog/pt-br/tags/order-flow/index.xml" rel="self" type="application/rss+xml"/><item><title>NDX CVD — Agregação do Volume Delta do Índice à Vista</title><link>https://heniu.blog/pt-br/atlas/ndx-cvd/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>https://heniu.blog/pt-br/atlas/ndx-cvd/</guid><description>&lt;h1 id="ndx-cvd--agregação-do-delta-de-volume-do-índice"&gt;NDX CVD — Agregação do Delta de Volume do Índice&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Na Cosmologia Antigravity:&lt;/strong&gt; Combustível da Estrela Central (NDX).
-&lt;strong&gt;Na Linguagem Clássica:&lt;/strong&gt; Delta de Volume Cumulativo (CVD) ponderado e agregado para as 100 ações constituintes do NASDAQ-100.&lt;/p&gt;
-&lt;h2 id="como-o-ndx-cvd-é-construído"&gt;Como o NDX CVD é Construído&lt;/h2&gt;
-&lt;p&gt;O índice NASDAQ-100 é uma cesta de ativos. A métrica &lt;strong&gt;NDX CVD&lt;/strong&gt; é calculada da seguinte forma:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Order Flow on Heniu.blog</title><link>https://heniu.blog/pt-br/tags/order-flow/</link><description>Recent content in Order Flow on Heniu.blog</description><generator>Hugo</generator><language>pt-BR</language><lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://heniu.blog/pt-br/tags/order-flow/index.xml" rel="self" type="application/rss+xml"/><item><title>NDX CVD — Agregação do Delta de Volume do Índice À Vista</title><link>https://heniu.blog/pt-br/atlas/ndx-cvd/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>https://heniu.blog/pt-br/atlas/ndx-cvd/</guid><description>&lt;h1 id="ndx-cvd--agregação-do-delta-de-volume-do-índice"&gt;NDX CVD — Agregação do Delta de Volume do Índice&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Na cosmologia Antigravity:&lt;/strong&gt; Combustível da Estrela Central (NDX).
+&lt;strong&gt;Em linguagem clássica:&lt;/strong&gt; Delta de Volume Cumulativo (CVD) ponderado pelo índice para as 100 empresas do índice NASDAQ-100.&lt;/p&gt;
+&lt;h2 id="como-o-ndx-cvd-é-calculado"&gt;Como o NDX CVD é Calculado&lt;/h2&gt;
+&lt;p&gt;O índice NASDAQ-100 é uma cesta de ativos e não uma ação única. O indicador &lt;strong&gt;NDX CVD&lt;/strong&gt; na telemetria do Heniu é calculado da seguinte forma:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Feed de Negócios:&lt;/strong&gt; Leitura contínua dos negócios executados nas 100 empresas do índice.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Classificação do Agressor:&lt;/strong&gt; Ordens no Ask (compradores agressivos) somam volume; ordens no Bid (vendedores agressivos) subtraem volume.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Agregação e Ponderação:&lt;/strong&gt; Os deltas são somados em tempo real de acordo com o peso de cada empresa no índice, gerando uma linha unificada de fluxo para o mercado à vista.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reset da Sessão:&lt;/strong&gt; A linha de CVD é zerada na abertura do pregão regular às 9:30 ET.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feed de Negócios:&lt;/strong&gt; Leitura contínua das transações de cada um dos 100 componentes do índice.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Classificação de Negócios (Tick Rule / BBO):&lt;/strong&gt; Ordens executadas ao preço de Ask (compra agressiva) somam volume (+); ordens executadas ao preço de Bid (venda agressiva) subtraem volume (-).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ponderação e Agregação:&lt;/strong&gt; Os deltas de volume são agregados em tempo real com base nos pesos de cada empresa no índice:
+$$ \text{CVD}&lt;em&gt;{NDX} = \sum&lt;/em&gt;{i=1}^{100} w_i \cdot (\text{Vol}&lt;em&gt;{\text{Ask}, i} - \text{Vol}&lt;/em&gt;{\text{Bid}, i}) $$
+onde $w_i$ é o peso da empresa no índice. Dessa forma, megacaps (como Apple e NVIDIA) têm impacto proporcional à sua representatividade no índice.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reset da Sessão:&lt;/strong&gt; A linha de CVD é zerada na abertura da sessão regular às 9:30 ET (15:30 CET / 10:30 BRT), medindo a agressão do fluxo para o pregão atual.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="interpretação"&gt;Interpretação&lt;/h2&gt;
-&lt;p&gt;Valores reportados (ex: &lt;code&gt;+162,49M&lt;/code&gt; ou &lt;code&gt;-175,43M&lt;/code&gt;) quantificam o total líquido de ações transacionadas com agressão na sessão.&lt;/p&gt;</description></item><item><title>Q-Score — Vetor de Estabilidade e Direção do Fluxo</title><link>https://heniu.blog/pt-br/atlas/q-score/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>https://heniu.blog/pt-br/atlas/q-score/</guid><description>&lt;h1 id="q-score--vetor-de-estabilidade-e-direção-do-fluxo"&gt;Q-Score — Vetor de Estabilidade e Direção do Fluxo&lt;/h1&gt;
+&lt;h2 id="unidades-e-interpretação-semântica"&gt;Unidades e Interpretação Semântica&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unidade:&lt;/strong&gt; Valores apresentados nos relatórios (ex.: &lt;code&gt;+162,49M&lt;/code&gt; ou &lt;code&gt;-175,43M&lt;/code&gt;) representam &lt;strong&gt;NDX Weighted Flow Units (unidades de fluxo ponderado)&lt;/strong&gt;. Pela ponderação do índice, não se trata de uma simples contagem bruta de ações disparatadas, mas de um vetor padronizado de pressão agressiva.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CVD NÃO é &amp;ldquo;entrada/saída de capital&amp;rdquo;:&lt;/strong&gt; Em toda negociação, dinheiro e ações trocam de mãos simetricamente. O CVD não mede aportes externos, mas sim o &lt;strong&gt;signed aggressive order flow&lt;/strong&gt; — revelando qual lado (compradores a mercado agredindo o Ask ou vendedores a mercado agredindo o Bid) está pagando o spread para obter liquidez imediata.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Divergências NDX / CVD:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Preço cai enquanto o NDX CVD sobe: absorção passiva de vendas agressivas por ordens limite de compra (acumulação).&lt;/li&gt;
+&lt;li&gt;Preço sobe com NDX CVD negativo: distribuição passiva de ordens de venda sobre compras agressivas a mercado.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Entrada do Atlas. Zero sinais de negociação — estritamente física de mercado.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Q-Score — Vetor de Estabilidade e Direção do Fluxo</title><link>https://heniu.blog/pt-br/atlas/q-score/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>https://heniu.blog/pt-br/atlas/q-score/</guid><description>&lt;h1 id="q-score--vetor-de-estabilidade-e-direção-do-fluxo"&gt;Q-Score — Vetor de Estabilidade e Direção do Fluxo&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Na Cosmologia Antigravity:&lt;/strong&gt; Estabilidade do Campo de Força / Vetor de Pressão do Sistema.
 &lt;strong&gt;Na Linguagem Clássica:&lt;/strong&gt; Indicador determinístico de curto prazo da direção e velocidade do fluxo de ordens (Order Flow &amp;amp; Tape Kinematics).&lt;/p&gt;
 &lt;h2 id="o-que-o-q-score-é-realmente"&gt;O que o Q-Score é Realmente&lt;/h2&gt;
@@ -22,4 +35,4 @@
 &lt;p&gt;&lt;strong&gt;Na cosmologia Antigravity:&lt;/strong&gt; a Anomalia MOC / o Martelo MOC — um golpe gravitacional nos minutos finais do ciclo.
 &lt;strong&gt;Na linguagem clássica:&lt;/strong&gt; o desequilíbrio de ordens no fechamento — o excedente de demanda ou oferta que a bolsa precisa parear até as 16:00, horário de Nova York.&lt;/p&gt;
 &lt;h2 id="o-que-o-moc-realmente-é"&gt;O que o MOC realmente é&lt;/h2&gt;
-&lt;p&gt;Uma parte enorme do capital do mercado — fundos de índice, ETFs — liquida por definição ao &lt;strong&gt;preço de fechamento&lt;/strong&gt;. Suas ordens entram num leilão especial de fechamento, e alguns minutos antes do fim da sessão a bolsa publica o &lt;strong&gt;desequilíbrio&lt;/strong&gt;: quanto há a mais para comprar do que para vender (ou o inverso). É o único momento do dia em que o grande capital &lt;strong&gt;precisa mostrar as cartas&lt;/strong&gt; — o fluxo é declarado, não inferido.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Uma parte enorme do capital do mercado — fundos de índice, ETFs — liquida por definição ao &lt;strong&gt;preço de fechamento&lt;/strong&gt;. Suas ordens entram num leilão especial de fechamento, e a partir das 15:50 ET a bolsa publica o &lt;strong&gt;Net Order Imbalance Indicator (NOII)&lt;/strong&gt;: quanto volume permanece não pareado entre compradores e vendedores. É uma das janelas públicas mais limpas para o interesse explicitamente declarado no leilão de fechamento (o Nasdaq Closing Cross) — o fluxo no livro do leilão é registrado, não adivinhado.&lt;/p&gt;</description></item></channel></rss>
