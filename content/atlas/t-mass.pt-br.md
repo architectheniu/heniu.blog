@@ -1,36 +1,36 @@
 ---
-title: "T-Mass e Densidade do Núcleo — Massa do Sistema e Concentração"
+title: "T-Mass e Densidade do Núcleo — Massa do Sistema e Avaliação do Universo NASDAQ-100"
 date: 2026-08-21
 draft: false
-tags: ["atlas", "T-Mass", "Heavy Nine", "gravidade", "capitalização"]
+tags: ["atlas", "T-Mass", "Heavy Nine", "gravidade", "capitalização", "avaliação"]
 ---
 
-# T-Mass e Densidade do Núcleo (Heavy Nine)
+# T-Mass e Densidade do Núcleo (Core Density)
 
-**Na Cosmologia Antigravity:** Massa Total do Sistema (T-Mass) e Densidade Gravitacional do Núcleo (Heavy Nine / Core Density).
-**Na Linguagem Clássica:** Capitalização de mercado agregada dos componentes do NASDAQ-100 e taxa de concentração em megacaps (> $1T USD).
+**Na cosmologia Antigravity:** Massa Total do Sistema (T-Mass) e Campo Gravitacional do Núcleo (Core Density / Heavy Nine).
+**Em linguagem clássica:** Capitalização de mercado agregada do universo NASDAQ-100 e índice de concentração em megacaps (>1T USD).
 
-## O que é a T-Mass
+## O que é o T-Mass
 
-A T-Mass (Total Mass) é a soma do valor de mercado de todas as 100 empresas do índice NASDAQ-100, expressa em Trilhões de Dólares (USD Trillions).
+O T-Mass (Total Mass) é a soma da capitalização de mercado das 100 empresas do índice **NASDAQ-100** expressa em Trilhões de Dólares (USD Trillions).
 
-A variação de 24h (Delta da Sessão) demonstra o fluxo líquido de capital no ecossistema de tecnologia.
+* **Universo NASDAQ-100 (Não apenas tecnologia):** O índice reúne as maiores empresas não financeiras listadas na Nasdaq — incluindo líderes em consumo discricionário (Amazon, Tesla), varejo (Costco) e saúde/biotecnologia, além de tecnologia pura.
+* **Delta de Avaliação (Repricing):** A variação da sessão do T-Mass (Delta 24h) reflete a **reavaliação agregada de mercado (repricing)** da cesta, e não uma entrada física de dinheiro externo. A alta nas cotações expande a capitalização sem exigir aportes equivalentes em dinheiro.
 
-## O que a Densidade do Núcleo Mede
+## O que é a Densidade do Núcleo (Core Density)
 
-A Densidade do Núcleo mede a porcentagem da massa total concentrada nas companhias com valor superior a **1 Trilhão de USD** (ex: Apple, Microsoft, NVIDIA, Alphabet, Amazon, Meta, Broadcom, Tesla).
+O **Núcleo (Jądro / Core)** é o grupo dinâmico de empresas do NASDAQ-100 cuja capitalização individual ultrapassa **US$ 1 Trilhão** (historicamente chamado de *Heavy Nine* por razões narrativas):
 
-* **Densidade > 50-60%:** Alta concentração gravitacional. Poucas empresas comandam a direção de todo o índice.
-* **Flutuações de Núcleo:** Eventos de emergência (>1T) ou colapso (<1T) que alteram a distribuição de peso.
+* **Densidade do Núcleo (%):** Participação percentual da capitalização das empresas >1T no T-Mass total do índice.
+* **Predomínio Gravitacional (> 50–60%):** Assimetria do índice. Quando um pequeno grupo de empresas concentra mais de 60% da massa, seus movimentos determinam a direção do índice sobre os 90+ componentes periféricos.
+* **Flutuações no Núcleo:** Empresas cruzando acima de US$ 1T (*emergência de singularidade*) ou caindo abaixo (*colapso gravitacional*).
 
-## Telemetria na Ponte de Comando
+## Ação Média (Temperatura da Periferia)
 
-Cada registro diário publica:
-1. **T-Mass do Sistema:** Valor total em Trilhões USD.
-2. **Delta da Sessão (24h):** Variação nominal diária.
-3. **Densidade do Núcleo:** Porcentagem das megacaps e delta diário.
-4. **Ação Média:** Preço médio não ponderado das ações, avaliando o mercado sem a distorção dos gigantes.
+A telemetria também monitora a **Ação Média**:
+* Média não ponderada (equal-weight) dos preços nominais das ações periféricas (fora do Núcleo).
+* Embora os preços nominais dependam do número de ações e desdobramentos (splits), sua variação diária atua como parâmetro de apoio para avaliar se o mercado amplo avança em conjunto com o Núcleo ou se ocorre divergência setorial.
 
 ---
 
-*Ficha do Atlas. Zero sinais — apenas a física do Sistema.*
+*Entrada do Atlas. Zero sinais de negociação — estritamente física de mercado.*

@@ -27,7 +27,7 @@ Nossa regra fundamental: **Zero boatos, 100% dados de fontes primárias.**
 Processamos unicamente o sinal bruto dos emissores:
 * **Relatórios SEC (10-K, 10-Q, 8-K):** Física contábil e financeira das empresas.
 * **Teleconferências de Resultados (Transcrições):** A voz direta dos governadores corporativos.
-* **A Fita (Order Flow):** O fluxo real de energia (capital), e não intenções declaradas.
+* **A Fita (Order Flow):** O fluxo real de energia (pressão do volume agressivo / signed order flow), e não intenções declaradas.
 
 ### Malha de Navegação
 

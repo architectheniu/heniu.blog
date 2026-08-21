@@ -27,7 +27,7 @@ Our source code rests upon an iron rule: **Zero gossip, 100% source data.**
 We are not interested in what others "think" about the market. Our sensors process strictly the raw signals emitted by market bodies:
 * **SEC Filings (10-K, 10-Q, 8-K):** Hard corporate financial physics.
 * **Earnings Calls (Transcripts):** Direct voices of planetary governors.
-* **The Tape (Order Flow):** Actual energy flow (money), not declarations.
+* **The Tape (Order Flow):** Actual energy flow (signed aggressive order flow pressure), not promises.
 
 ### Navigational Grid
 

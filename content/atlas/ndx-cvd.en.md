@@ -1,5 +1,5 @@
 ---
-title: "NDX CVD — Cash Index Volume Delta Aggregation"
+title: "NDX CVD — Cash Index Cumulative Volume Delta Aggregation"
 date: 2026-08-21
 draft: false
 tags: ["atlas", "NDX CVD", "order flow", "aggregation", "microstructure"]
@@ -7,24 +7,28 @@ tags: ["atlas", "NDX CVD", "order flow", "aggregation", "microstructure"]
 
 # NDX CVD — Cash Index Volume Delta Aggregation
 
-**In Antigravity Cosmology:** Central Star Fuel (NDX).
-**In Classical Language:** Aggregated, capitalization-weighted Cumulative Volume Delta (CVD) for the 100 constituent stocks of the NASDAQ-100 index.
+**In Antigravity cosmology:** Central Star Fuel (NDX).
+**In standard terms:** Index-weighted Cumulative Volume Delta (CVD) across the 100 components of the NASDAQ-100 index.
 
-## How NDX CVD is Constructed
+## How NDX CVD is Computed
 
-The NASDAQ-100 index is a basket of equities rather than a single traded share. The **NDX CVD** metric in Heniu's telemetry is constructed as follows:
+The NASDAQ-100 index is a basket of securities rather than a single tradable asset. The **NDX CVD** metric in Heniu's telemetry is calculated as follows:
 
-1. **Transaction Feed:** Continuous monitoring of executed prints across all 100 index components.
-2. **Trade Classification:** Prints executing at Ask (aggressive buyers) add to delta; prints at Bid (aggressive sellers) subtract from delta.
-3. **Weighting and Aggregation:** Volume deltas are aggregated in real time weighted by index representation, yielding a single synthetic net energy flow line for the entire spot cash market.
-4. **Session Reset:** CVD is reset at the cash market opening bell at 9:30 AM ET, establishing a clean daily baseline.
+1. **Transaction Feed:** Continuous market data feed across all 100 constituents of the index.
+2. **Trade Classification (Tick Rule / BBO):** Trades executed at the Ask price (aggressive market buying) add volume (+); trades executed at the Bid price (aggressive market selling) subtract volume (-).
+3. **Index Weighting & Aggregation:** Component volume deltas are aggregated in real time according to their index weights:
+   $$ \text{CVD}_{NDX} = \sum_{i=1}^{100} w_i \cdot (\text{Vol}_{\text{Ask}, i} - \text{Vol}_{\text{Bid}, i}) $$
+   where $w_i$ represents the company's index weighting. This ensures mega-caps (such as Apple or NVIDIA) influence the aggregate proportionally to their index impact.
+4. **Session Reset:** The CVD baseline resets at the cash market open at 9:30 ET (15:30 CET), measuring pure aggressive order flow dynamics for the active spot session.
 
-## Unit Interpretation
+## Units and Semantic Interpretation
 
-Reported values (e.g. `+162.49M` or `-175.43M`) represent the total net shares aggressively bought or sold across index components during the session.
-
-* **NDX / CVD Divergence:** If price declines while NDX CVD climbs, it reflects passive limit-order absorption of aggressive market selling. Conversely, rising price on negative CVD indicates passive distribution into aggressive buying.
+* **Unit:** Values published in telemetry (e.g., `+162.49M` or `-175.43M`) denote **NDX Weighted Flow Units**. Due to index weighting, this is not an unweighted raw sum of disparate share quantities, but a standardized aggregate aggressive order flow vector.
+* **CVD is NOT "capital inflow/outflow":** In every transaction, cash and shares are exchanged simultaneously in equal dollar amount. CVD does not measure external net cash flow; it measures **signed aggressive order flow** — quantifying which side (market buyers crossing the spread vs market sellers hitting the bid) is driving transaction immediacy.
+* **NDX / CVD Divergences:**
+  - Price declines while NDX CVD rises: passive absorption of aggressive sell flow by limit buy orders (accumulation).
+  - Price advances with negative NDX CVD: passive supply distribution into aggressive buy orders.
 
 ---
 
-*Atlas Card. Zero signals — pure system physics.*
+*Atlas entry. Zero trading signals — strictly market physics.*

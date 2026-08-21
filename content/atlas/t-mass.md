@@ -1,35 +1,35 @@
 ---
-title: "T-Mass i Gęstość Jądra — masa układu i koncentracja kapitału"
+title: "T-Mass i Gęstość Jądra — masa układu i wycena uniwersum NASDAQ-100"
 date: 2026-08-21
 draft: false
-tags: ["atlas", "T-Mass", "Heavy Nine", "grawitacja", "kapitalizacja"]
+tags: ["atlas", "T-Mass", "Heavy Nine", "grawitacja", "kapitalizacja", "wycena"]
 ---
 
-# T-Mass i Gęstość Jądra (Heavy Nine)
+# T-Mass i Gęstość Jądra (Core Density)
 
-**W kosmologii Antigravity:** Masa Całkowita Układu (T-Mass) oraz Pole Grawitacyjne Jądra (Heavy Nine / Core Density).
-**W języku klasycznym:** Łączna kapitalizacja rynkowa spółek wchodzących w skład indeksu NASDAQ-100 oraz wskaźnik koncentracji kapitału w megacapach (>1T USD).
+**W kosmologii Antigravity:** Masa Całkowita Układu (T-Mass) oraz Pole Grawitacyjne Jądra (Core Density / Grawitacyjna Dziewiątka).
+**W języku klasycznym:** Zagregowana kapitalizacja rynkowa uniwersum NASDAQ-100 oraz wskaźnik koncentracji wyceny w megacapach (>1T USD).
 
 ## Czym jest T-Mass
 
-T-Mass (Total Mass) to suma bieżących wycen rynkowych wszystkich 100 komponentów NASDAQ-100 wyrażona w trylionach dolarów amerykańskich (USD Trillions). 
+T-Mass (Total Mass) to suma bieżącej kapitalizacji rynkowej 100 emitentów wchodzących w skład indeksu **NASDAQ-100** wyrażona w trylionach dolarów amerykańskich (USD Trillions). 
 
-Zmiana T-Mass w ujęciu sesyjnym (Delta Sesyjna) pokazuje realny napływ lub odpływ netto wartości z całego sektora technologicznego.
+* **Uniwersum NASDAQ-100, a nie tylko technologia:** W skład indeksu wchodzą największe spółki niefinansowe notowane na Nasdaq — obok gigantów technologicznych znajdują się tu spółki dóbr konsumpcyjnych (np. Amazon, Tesla), handlu detalicznego (Costco) czy biotechnologii i przemysłu.
+* **Delta wyceny rynkowej (Repricing):** Sesyjna zmiana T-Mass (Delta 24h) mierzy **zmianę łącznej wyceny rynkowej (repricing)** koszyka, a nie zewnętrzny napływ gotówki netto do spółek. Wzrost kursu spółki powiększa jej rynkową kapitalizację bez konieczności fizycznego wpłacania równowartości tej kwoty przez inwestorów.
 
 ## Czym jest Gęstość Jądra (Core Density)
 
-Gęstość Jądra to procentowy udział w całkowitej masie indeksu spółek o kapitalizacji przekraczającej **1 bilion (1T) USD** — tzw. Grawitacyjnej Dziewiątki (np. Apple, Microsoft, NVIDIA, Alphabet, Amazon, Meta, Broadcom, Tesla).
+**Jądro (Core)** to dynamiczny zbiór spółek z uniwersum NASDAQ-100, których jednostkowa wycena rynkowa przekracza **1 bilion (1T) USD** (narracyjnie określany jako *Grawitacyjna Dziewiątka / Heavy Nine* ze względów historycznych):
 
-* **Gęstość > 50-60%:** Ekstremalna koncentracja grawitacyjna. Kilka największych podmiotów decyduje o trajektorii całego indeksu, podczas gdy pozostałe 90 spółek ma znikomy wpływ na kierunek.
-* **Fluktuacja składu Jądra:** Zdarzenie, w którym spółka przekracza próg 1T USD (Emergencja nowej osobliwości) lub spada poniżej tej granicy (Kolaps/Zapadnięcie).
+* **Gęstość Jądra (%):** Udział procentowy łącznej kapitalizacji spółek >1T USD w całkowitym T-Mass indeksu.
+* **Wpływ grawitacyjny (> 50–60%):** Skrajna asymetria indeksu. Jeśli garść spółek z Jądra skupia ponad 60% masy całego indeksu, ich dynamika dominuje nad zachowaniem pozostałych 90+ spółek peryferyjnych.
+* **Fluktuacja składu Jądra:** Wejście nowej spółki powyżej progu 1T USD (*emergencja osobliwości*) lub spadek poniżej 1T USD (*zapadnięcie/kolaps grawitacyjny*).
 
-## Jak to mierzymy na mostku
+## Średnia Akcja (Temperatura Peryferii)
 
-W telemetrii każdego logu publikujemy:
-1. **T-Mass Układu:** Całkowita wartość w bilionach/trylionach USD.
-2. **Delta Sesyjna (24h):** Zmiana nominalna od zamknięcia poprzedniej sesji.
-3. **Gęstość Jądra:** Udział procentowy megacapów wraz ze zmianą sesyjną.
-4. **Średnia Akcja (Temperatura Peryferii):** Średnia nieważona cena akcji pozostałych spółek, pozwalająca ocenić stan szerokiego rynku z pominięciem grawitacji gigantów.
+W telemetrii Heniu publikuje również **Średnią Akcję**:
+* Jest to nieważona (equal-weight) średnia cena nominalna akcji spółek peryferyjnych (spoza Jądra).
+* Choć cena nominalna zależy od liczby wyemitowanych akcji i splitów, jej sesyjna dynamika (delta) służy na mostku jako bazowy wskaźnik sprawdzający, czy peryferia poruszają się synchronicznie z Jądrem, czy też następuje rozwarstwienie (np. wzrost indeksu ciągnięty wyłącznie przez megacapy przy spadkach szerokiego koszyka).
 
 ---
 

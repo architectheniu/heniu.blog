@@ -8,7 +8,7 @@ tags: ["atlas", "Q-Score", "order flow", "microstructure", "kinematics"]
 # Q-Score — Stability Vector and Flow Direction
 
 **In Antigravity Cosmology:** Force Field Stability / System Pressure Vector.
-**In Classical Language:** An integrated short-term indicator of net capital flow direction and momentum (Order Flow & Tape Kinematics).
+**In Classical Language:** An integrated short-term indicator of net aggressive order flow direction and momentum (Order Flow & Tape Kinematics).
 
 ## What Q-Score Really Is
 

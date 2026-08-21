@@ -12,13 +12,13 @@ tags: ["atlas", "MOC", "order flow", "mikrostruktura"]
 
 ## Czym MOC jest naprawdę
 
-Ogromna część kapitału na rynku — fundusze indeksowe, ETF-y — z definicji rozlicza się po **cenie zamknięcia**. Ich zlecenia trafiają do specjalnej aukcji zamykającej, a giełda kilka minut przed końcem sesji publikuje **nierównowagę**: o ile więcej jest do kupienia niż do sprzedania (albo odwrotnie). To jedyny moment dnia, w którym wielki kapitał **musi pokazać rękę** — przepływ jest zadeklarowany, nie domyślany.
+Ogromna część kapitału na rynku — fundusze indeksowe, ETF-y — z definicji rozlicza się po **cenie zamknięcia**. Ich zlecenia trafiają do specjalnej aukcji zamykającej, a giełda od 15:50 ET publikuje **nierównowagę (NOII - Net Order Imbalance Indicator)**: o ile więcej jest wolumenu do kupienia niż do sprzedania (albo odwrotnie). To jedno z najczystszych publicznych okien na jawnie zadeklarowany wolumen aukcji zamknięcia (Nasdaq Closing Cross) — przepływ w księdze aukcyjnej jest zadeklarowany, a nie domyślany.
 
 Dlatego okno MOC bywa najgęstszą grawitacyjnie chwilą sesji: dziesiątki lub setki milionów akcji szukają drugiej strony w kilka minut. Cena zamknięcia, która z tego wynika, jest punktem odniesienia dla całego następnego dnia.
 
 ## Jak to mierzymy na mostku
 
-Heniu odczytuje wartość netto nierównowagi w oknie MOC i traktuje ją progowo — progi są zapisane w konfiguracji na sztywno: przewaga rzędu ±50 mln to silny sygnał kierunkowej presji zamknięcia, a ±150 mln to zjawisko klasy osobliwości („Młot MOC"). Odczyt wpływa na opis wektora układu od ~15:50 czasu giełdy aż w noc — bo presja zamknięcia opisuje też nastawienie, z jakim kapitał wchodzi w kolejną dobę.
+Heniu odczytuje wartość netto nierównowagi w oknie MOC i traktuje ją progowo — progi są zapisane w konfiguracji na sztywno: przewaga rzędu ±50 mln to silny sygnał kierunkowej presji zamknięcia, a ±150 mln to zjawisko klasy osobliwości („Młot MOC"). Odczyt wpływa na opis wektora układu od ~15:50 czasu giełdy aż w noc — dokumentując stan bilansu zleceń na zamknięciu sesji (closing order interest).
 
 ## Czego MOC nie robi
 

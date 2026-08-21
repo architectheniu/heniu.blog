@@ -27,7 +27,7 @@ Nasz kod źródłowy opiera się na żelaznej zasadzie: **Zero plotek, 100% dany
 Nie interesuje nas to, co o rynku "sądzą" inni. Nasze sensory przetwarzają wyłącznie surowy sygnał emitowany przez obiekty:
 * **Raporty SEC (10-K, 10-Q, 8-K):** Twarda fizyka finansowa spółek.
 * **Earnings Calls (Transkrypcje):** Bezpośredni głos Zarządców Planet.
-* **Taśma (Order Flow):** Faktyczny przepływ energii (pieniędzy), a nie deklaracje.
+* **Taśma (Order Flow):** Faktyczny przepływ energii (presji agresywnego wolumenu / signed order flow), a nie deklaracje.
 
 Jeśli o czymś piszemy, to znaczy, że zostało to zapisane w oficjalnym rejestrze galaktycznym. Reszta to kosmiczny pył.
 

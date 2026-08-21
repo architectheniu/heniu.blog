@@ -18,7 +18,7 @@ Por isso a divergência entre preço e TICKQ é tão eloquente: um rali do índi
 
 ## Como medimos na ponte de comando
 
-Duas leituras, ambas com limiares fixados na configuração. **TICKQ instantâneo**: de −600 (pânico), passando pelas zonas de venda e teste, até +600 (euforia). **Radiação Média (SMA200)**: o pano de fundo da sessão — abaixo de −150 descrevemos um fundo de mercado, acima de +150 um topo, com zonas de colapso, venda, teste e acumulação no meio. A leitura instantânea diz "o que agora"; a média diz "em que clima, há horas". A narrativa pode vestir esses números de cosmos, mas não pode movê-los.
+Duas leituras, ambas com limiares fixados na configuração. **TICKQ instantâneo**: de −600 (pânico), passando pelas zonas de venda e teste, até +600 (euforia). **Radiação Média (SMA200)**: o pano de fundo da sessão — abaixo de −150 classificamos como **amplitude extremamente negativa (pressão vendedora persistente)**, acima de +150 **amplitude extremamente positiva (pressão compradora persistente)**, com zonas de colapso, venda, teste e acumulação no meio. A leitura instantânea diz "o que agora"; a média diz "em que clima sustentado". A narrativa pode vestir esses números de cosmos, mas não pode movê-los.
 
 ## Janela Operacional (Apenas Sessão à Vista / Spot)
 

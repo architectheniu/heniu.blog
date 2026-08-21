@@ -8,7 +8,7 @@ tags: ["atlas", "Q-Score", "order flow", "mikrostruktura", "kinematyka"]
 # Q-Score — wektor stabilności i siły przepływu
 
 **W kosmologii Antigravity:** Stabilność Pola Siłowego / Wektor Ciśnienia Układu.
-**W języku klasycznym:** Zintegrowany, krótkoterminowy wskaźnik wypadkowego kierunku i dynamiki napływu kapitału (Order Flow & Tape Kinematics).
+**W języku klasycznym:** Zintegrowany, krótkoterminowy wskaźnik wypadkowego kierunku i dynamiki presji agresywnego wolumenu (Order Flow & Tape Kinematics).
 
 ## Czym Q-Score jest naprawdę
 

@@ -18,7 +18,7 @@ That is why a divergence between price and TICKQ is so telling: an index rally o
 
 ## How we measure it on the bridge
 
-Two readings, both with thresholds hard-coded in the configuration. **Instantaneous TICKQ**: from −600 (panic) through sell-off and testing zones up to +600 (euphoria). **Mean Radiation (SMA200)**: the session's backdrop — below −150 we describe a market bottom, above +150 a market top, with zones of breakdown, sell-off, testing and accumulation in between. The instantaneous reading says "what now"; the average says "in what climate, for hours". The narrative may dress these numbers in cosmos, but it may not move them.
+Two readings, both with thresholds hard-coded in the configuration. **Instantaneous TICKQ**: from −600 (panic) through sell-off and testing zones up to +600 (euphoria). **Mean Radiation (SMA200)**: the session's backdrop — below −150 we classify **extreme negative breadth (persistent selling pressure)**, above +150 **extreme positive breadth (persistent buying pressure)**, with zones of breakdown, sell-off, testing and accumulation in between. The instantaneous reading says "what now"; the average says "under what sustained atmospheric climate". The narrative may dress these numbers in cosmos, but it may not move them.
 
 ## Operating Window (Spot Session Only)
 
