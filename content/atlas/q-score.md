@@ -23,7 +23,7 @@ W telemetrii Henia Q-Score podsumowuje stan bilansu sił:
 * **Wartości ujemne (< -20):** Agresywna sprzedaż dominuje arkusz; presja podażowa.
 * **Strefa neutralna (-20 do +20):** Równowaga sił, fluktuacja bez wyraźnego dominatora wolumenowego.
 
-Pojawiający się w starszych logach odczyt вероятnościowy (np. „prawdopodobieństwo kierunku 62%”) to heurystyczne mapowanie natężenia wektora pędu — nie jest to jednak obietnica statystyczna ani model predykcyjny.
+Pojawiający się w starszych logach odczyt probabilistyczny (np. „prawdopodobieństwo kierunku 62%”) to heurystyczne mapowanie natężenia wektora pędu — nie jest to jednak obietnica statystyczna ani model predykcyjny.
 
 ## Czego Q-Score nie robi
 

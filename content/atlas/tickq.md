@@ -20,6 +20,11 @@ Dlatego rozjazd ceny i TICKQ jest tak wymowny: rajd indeksu przy ujemnym promien
 
 Dwa odczyty, oba z progami zapisanymi w konfiguracji na sztywno. **Chwilowy TICKQ**: od −600 (panika) przez strefy wyprzedaży i testów, po +600 (euforia). **Średnia Radiacja (SMA200)**: tło sesji — poniżej −150 opisujemy dołek rynkowy, powyżej +150 szczyt; między nimi strefy załamania, wyprzedaży, testów i akumulacji. Chwilowy odczyt mówi „co teraz", średnia — „w jakim klimacie od godzin". Narracja może ubrać te liczby w kosmos, ale nie może ich przesuwać.
 
+## Okno Aktywności (Tylko Sesja Kasowa Spot)
+
+Ważna zasada mechaniki rynkowej: **wskaźnik TICKQ jest aktywny wyłącznie w trakcie sesji kasowej giełdy w Nowym Jorku (9:30–16:00 ET / w Polsce zwykle 15:30–22:00)**. 
+Podczas sesji terminowej (handlu nocnego, pre-marketu i kontraktów futures NQ poza godzinami kasowymi) TICKQ jest uśpiony i wygaszony, ponieważ tysiące spółek składowych Nasdaq nie uczestniczą w regularnym obrocie ciągłym. Heniu analizuje promieniowanie TICKQ wyłącznie wtedy, gdy bije serce rynku kasowego.
+
 ## Czego TICKQ nie robi
 
 Nie przewiduje — ekstremalne odczyty bywają i punktem zwrotnym, i początkiem jeszcze głębszego ruchu. Na tym blogu TICKQ jest miernikiem szerokości obecnej chwili: czy ruch niesie masa, czy tylko Jądro.
@@ -27,3 +32,4 @@ Nie przewiduje — ekstremalne odczyty bywają i punktem zwrotnym, i początkiem
 ---
 
 *Karta Atlasu. Zero sygnałów — tylko fizyka Układu.*
+
