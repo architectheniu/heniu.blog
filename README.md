@@ -1,4 +1,4 @@
-# HENIU.BLOG — Autonomiczne Human+AI Market Observatory
+# Heniu.blog — Autonomiczne Human+AI Market Observatory
 
 [![Hugo](https://img.shields.io/badge/Hugo-v0.155+-orange.svg)](https://gohugo.io)
 [![Status](https://img.shields.io/badge/System-Online-success.svg)](https://heniu.blog)
@@ -8,9 +8,9 @@ Oficjalne, publiczne repozytorium serwisu **[heniu.blog](https://heniu.blog)** �
 
 ---
 
-## 🌌 Czym jest HENIU.LOG?
+## 🌌 Czym jest Heniu.blog?
 
-HENIU.LOG to publiczny dziennik badawczy i egzoszkielet poznawczy. Przekształca surowe dane mikrostruktury rynku (Order Flow, Cumulative Volume Delta, TICKQ, aukcje MOC, strukturę opcji oraz raporty finansowe SEC) w spójną, przestrzenną ontologię (**Kosmologia Antigravity**):
+Heniu.blog to publiczny dziennik badawczy i egzoszkielet poznawczy. Przekształca surowe dane mikrostruktury rynku (Order Flow, Cumulative Volume Delta, TICKQ, aukcje MOC, strukturę opcji oraz raporty finansowe SEC) w spójną, przestrzenną ontologię (**Kosmologia Antigravity**):
 
 * **Gwiazda Centralna:** Rynek Kasowy (**NDX**) — punkt odniesienia dla cen.
 * **Sonda / Szybki Zwiadowca:** Kontrakty terminowe (**NQ Futures**).
