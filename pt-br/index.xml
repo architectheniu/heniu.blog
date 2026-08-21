@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/pt-br/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>pt-BR</language><lastBuildDate>Fri, 21 Aug 2026 18:07:35 +0200</lastBuildDate><atom:link href="https://heniu.blog/pt-br/index.xml" rel="self" type="application/rss+xml"/><item><title>H-Log: 2026-08-21 - Relato Clássico dos Eventos do Mercado</title><link>https://heniu.blog/pt-br/h-log/hlog-2026-08-21/</link><pubDate>Fri, 21 Aug 2026 18:07:35 +0200</pubDate><guid>https://heniu.blog/pt-br/h-log/hlog-2026-08-21/</guid><description>&lt;h1&gt;H-LOG 2026.08.21 [PT-BR]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/pt-br/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>pt-BR</language><lastBuildDate>Fri, 21 Aug 2026 18:14:34 +0200</lastBuildDate><atom:link href="https://heniu.blog/pt-br/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-08-21 - Diário de Bordo do Heniu</title><link>https://heniu.blog/pt-br/t-log/tlog-2026-08-21/</link><pubDate>Fri, 21 Aug 2026 18:14:34 +0200</pubDate><guid>https://heniu.blog/pt-br/t-log/tlog-2026-08-21/</guid><description>&lt;h1&gt;T-LOG 2026.08.21 [PT-BR]&lt;/h1&gt;
+&lt;h3&gt;🌌 [2026-08-21 18:14]&lt;/h3&gt;
+&lt;p&gt;[T-LOG: 2026-08-21 18:14]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;STATUS DA SESSÃO: À VISTA (SPOT)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;a Sonda NQ encontra-se no nível 29407.25, exibindo um teste de demanda (CVD: 6.85K). Foi registrada uma troca intensa na zona 29400.0 – múltiplas violações de barreiras e quebras de suporte HVN sugerem alta turbulência e uma luta pelo regime de preços neste nível.&lt;/p&gt;
+&lt;p&gt;Análise de objetos:&lt;br /&gt;
+- a Estrela NDX: Preço 29328.21, CVD -3.25M [teste de demanda].&lt;br /&gt;
+- Satélite QQQ: Preço 713.74, CVD 771.3K [teste de demanda].&lt;br /&gt;
+- Bolsa Ampla TICKQ: 31.00 [teste de demanda], acima da média SMA200 (-19.25 [teste de oferta]).&lt;/p&gt;</description></item><item><title>H-Log: 2026-08-21 - Relato Clássico dos Eventos do Mercado</title><link>https://heniu.blog/pt-br/h-log/hlog-2026-08-21/</link><pubDate>Fri, 21 Aug 2026 18:07:35 +0200</pubDate><guid>https://heniu.blog/pt-br/h-log/hlog-2026-08-21/</guid><description>&lt;h1&gt;H-LOG 2026.08.21 [PT-BR]&lt;/h1&gt;
 &lt;h3&gt;📈 [2026-08-21 18:07]&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;H-LOG: Relatório de Profissionais&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;a sessão à vista (Spot)&lt;/strong&gt;&lt;/p&gt;
@@ -7,16 +15,7 @@
 &lt;li&gt;&lt;strong&gt;Sentimento e mercado amplo:&lt;/strong&gt; O indicador agregado de direção de fluxo é de -10, o que sinaliza uma leve predominância de distribuição de capital em todo o sistema. A situação é complicada pelo nível extremamente baixo do indicador TICKQ (-95.00), que se encontra significativamente abaixo da média SMA200 (-19.89), indicando uma forte pressão de venda no mercado amplo de ações da Nasdaq, apesar das cotações de alta dos principais índices.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Mercado de opções QQQ:&lt;/strong&gt; A volatilidade implícita (IV) no nível de 19.63% com um volume de 3,194,068 contratos indica uma volatilidade esperada moderada. O Put/Call Ratio no nível de 0.89 sugere um otimismo cauteloso, com as expectativas de mercado quanto ao alcance do movimento oscilando no intervalo de 706.52 – 717.14 pontos.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Relatório H-Log: 2026-08-21 18:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-08-21 - Diário de Bordo do Heniu</title><link>https://heniu.blog/pt-br/t-log/tlog-2026-08-21/</link><pubDate>Fri, 21 Aug 2026 17:59:41 +0200</pubDate><guid>https://heniu.blog/pt-br/t-log/tlog-2026-08-21/</guid><description>&lt;h1&gt;T-LOG 2026.08.21 [PT-BR]&lt;/h1&gt;
-&lt;h3&gt;🌌 [2026-08-21 17:59]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;STATUS: OPEN | MODO: SPOT&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;TELEMETRIA DOS OBJETOS:&lt;/strong&gt;&lt;br /&gt;
-- &lt;strong&gt;a Sonda NQ:&lt;/strong&gt; 29448.00 | CVD: 10,97K [acumulação] | ADR: 66.81%&lt;br /&gt;
-- &lt;strong&gt;a Estrela NDX:&lt;/strong&gt; 29368.11 | CVD: 5,31M [teste de demanda] | ADR: 74.08%&lt;br /&gt;
-- &lt;strong&gt;Satelite QQQ:&lt;/strong&gt; 714.71 | CVD: 918,61K [teste de demanda] | ADR: 73.77%&lt;br /&gt;
-- &lt;strong&gt;Bolsa Ampla (TICKQ):&lt;/strong&gt; -4.00 [teste de oferta] | SMA200: -18.79 [teste de oferta]&lt;br /&gt;
-- &lt;strong&gt;a Esfera de Dyson (IV):&lt;/strong&gt; 19.64% | Alcance: 705.30 - 716.50&lt;br /&gt;
-- &lt;strong&gt;Física do Sistema:&lt;/strong&gt; Q-Score: -2 (49%) | Oracle: 36.3% (5m)&lt;/p&gt;</description></item><item><title>NDX CVD — Agregação do Delta de Volume do Índice À Vista</title><link>https://heniu.blog/pt-br/atlas/ndx-cvd/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>https://heniu.blog/pt-br/atlas/ndx-cvd/</guid><description>&lt;h1 id="ndx-cvd--agregação-do-delta-de-volume-do-índice"&gt;NDX CVD — Agregação do Delta de Volume do Índice&lt;/h1&gt;
+&lt;p&gt;Relatório H-Log: 2026-08-21 18:07&lt;/p&gt;</description></item><item><title>NDX CVD — Agregação do Delta de Volume do Índice À Vista</title><link>https://heniu.blog/pt-br/atlas/ndx-cvd/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>https://heniu.blog/pt-br/atlas/ndx-cvd/</guid><description>&lt;h1 id="ndx-cvd--agregação-do-delta-de-volume-do-índice"&gt;NDX CVD — Agregação do Delta de Volume do Índice&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Na cosmologia Antigravity:&lt;/strong&gt; Combustível da Estrela Central (NDX).
 &lt;strong&gt;Em linguagem clássica:&lt;/strong&gt; Delta de Volume Cumulativo (CVD) ponderado pelo índice para as 100 empresas do índice NASDAQ-100.&lt;/p&gt;
 &lt;h2 id="como-o-ndx-cvd-é-calculado"&gt;Como o NDX CVD é Calculado&lt;/h2&gt;
