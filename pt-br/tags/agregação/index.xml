@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agregação on HENIU.LOG</title><link>https://heniu.blog/pt-br/tags/agrega%C3%A7%C3%A3o/</link><description>Recent content in Agregação on HENIU.LOG</description><generator>Hugo</generator><language>pt-BR</language><lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://heniu.blog/pt-br/tags/agrega%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml"/><item><title>NDX CVD — Agregação do Volume Delta do Índice à Vista</title><link>https://heniu.blog/pt-br/atlas/ndx-cvd/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><guid>https://heniu.blog/pt-br/atlas/ndx-cvd/</guid><description>&lt;h1 id="ndx-cvd--agregação-do-delta-de-volume-do-índice"&gt;NDX CVD — Agregação do Delta de Volume do Índice&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Na Cosmologia Antigravity:&lt;/strong&gt; Combustível da Estrela Central (NDX).
+&lt;strong&gt;Na Linguagem Clássica:&lt;/strong&gt; Delta de Volume Cumulativo (CVD) ponderado e agregado para as 100 ações constituintes do NASDAQ-100.&lt;/p&gt;
+&lt;h2 id="como-o-ndx-cvd-é-construído"&gt;Como o NDX CVD é Construído&lt;/h2&gt;
+&lt;p&gt;O índice NASDAQ-100 é uma cesta de ativos. A métrica &lt;strong&gt;NDX CVD&lt;/strong&gt; é calculada da seguinte forma:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Feed de Negócios:&lt;/strong&gt; Leitura contínua dos negócios executados nas 100 empresas do índice.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Classificação do Agressor:&lt;/strong&gt; Ordens no Ask (compradores agressivos) somam volume; ordens no Bid (vendedores agressivos) subtraem volume.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Agregação e Ponderação:&lt;/strong&gt; Os deltas são somados em tempo real de acordo com o peso de cada empresa no índice, gerando uma linha unificada de fluxo para o mercado à vista.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reset da Sessão:&lt;/strong&gt; A linha de CVD é zerada na abertura do pregão regular às 9:30 ET.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="interpretação"&gt;Interpretação&lt;/h2&gt;
+&lt;p&gt;Valores reportados (ex: &lt;code&gt;+162,49M&lt;/code&gt; ou &lt;code&gt;-175,43M&lt;/code&gt;) quantificam o total líquido de ações transacionadas com agressão na sessão.&lt;/p&gt;</description></item></channel></rss>
