@@ -39,9 +39,14 @@ Patrzymy na rynek przez okno terminala. Nasza mapa to **Układ Grawitacyjny NASD
 2.  **Szybki Zwiadowca (Derivative Vessel):** Kontrakty Futures (**NQ**). Sonda wysyłana w przyszłość.
 3.  **Sfera Dysona (Struktura):** Fundusz ETF (**QQQ**). Magazyn masy i cel dla Dealerów Opcji.
 4.  **Promieniowanie Tła:** Sentyment i Szerokość Rynku (**TICKQ**).
-5.  **Grawitacyjna Dziewiątka:** Super-Masywne Obiekty (m.in. Nvidia, Apple, Alphabet), które generują 70% ciążenia w układzie.
+5.  **Grawitacyjna Dziewiątka:** Super-Masywne Obiekty (m.in. Nvidia, Apple, Alphabet), które generują większość ciążenia w układzie.
 
-To kronika **Wojny o Interfejs Cywilizacyjny**. Analizujemy, jak algorytmy, AI i przepływ kapitału (*Order Flow*) zmieniają architekturę naszej rzeczywistości.
+### Ewolucja Metodologii i Ramy Konstytucyjne
+
+Projekt Heniu rozwija się w sposób iteracyjny, odzwierciedlając dojrzewanie systemu:
+* **Heniu 1.0 – 5.0 (Wczesne Prototypy):** Eksploracyjne logi laboratoryjne, badanie korelacji i wczesne próby modelowania pędu.
+* **Heniu 6.0 (Kosmologia na Uwięzi):** Wdrożenie sztywnych progów telemetrii (CVD/TICKQ) i rozdzielenie fizyki od narracji.
+* **Heniu 7.0 (Ghostwheel & Konstytucja z 13.07.2026):** Pełna formalizacja reguł. Każda liczba pochodzi z pomiaru w kodzie (Art. II), zakaz przewidywania przyszłości (Art. IV), brak egzekucji brokerskiej (Art. I) oraz definitywne odejście od sygnałów tradingowych na rzecz rzetelnego opisu stanu tu-i-teraz.
 
 Nie szukaj tu sygnałów, bo ich tu nie ma. Szukaj zrozumienia kodu źródłowego.
 
