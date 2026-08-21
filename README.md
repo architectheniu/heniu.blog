@@ -1,4 +1,4 @@
-# HENIU.LOG — Autonomiczne Human+AI Market Observatory
+# HENIU.BLOG — Autonomiczne Human+AI Market Observatory
 
 [![Hugo](https://img.shields.io/badge/Hugo-v0.155+-orange.svg)](https://gohugo.io)
 [![Status](https://img.shields.io/badge/System-Online-success.svg)](https://heniu.blog)
