@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 24 Aug 2026 16:59:20 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-08-24 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-08-24/</link><pubDate>Mon, 24 Aug 2026 16:59:20 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-08-24/</guid><description>&lt;h1&gt;T-LOG 2026.08.24 [EN]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 24 Aug 2026 17:07:24 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>H-Log: 2026-08-24 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-08-24/</link><pubDate>Mon, 24 Aug 2026 17:07:24 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-08-24/</guid><description>&lt;h1&gt;H-LOG 2026.08.24 [EN]&lt;/h1&gt;
+&lt;h3&gt;📈 [2026-08-24 17:07]&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;H-LOG: Professionals Report&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;the cash session (Spot)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cash market and indices:&lt;/strong&gt; The market is under strong selling pressure. The NDX index is losing 1.14% (28975.73), and QQQ is recording a decline of 1.15% (705.20). Cumulative energy flow (CVD) for NDX is -28.5 mln, which confirms the dominance of distribution in the cash market. NQ contracts show correlation with the index, falling by 1.13%.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sentiment and broad market:&lt;/strong&gt; The flow direction indicator is -20, indicating a clear advantage of capital outflow. Despite negative sentiment, the TICKQ indicator is at 11.00, which, with a SMA200 average of -23.41, suggests a technical excess of buying strength in the broad market relative to the long-term trend, however, this is not enough to reverse the current downward trend.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;QQQ options analysis:&lt;/strong&gt; The options market shows moderate volatility expectations (IV: 20.01%). The Put/Call Ratio at 0.95 indicates a similar balance between hedging and directional positions, without clear panic. The market-expected range of movement for QQQ is within the 698.65 – 708.85 range.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;H-Log Report: 2026-08-24 17:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-08-24 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-08-24/</link><pubDate>Mon, 24 Aug 2026 16:59:20 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-08-24/</guid><description>&lt;h1&gt;T-LOG 2026.08.24 [EN]&lt;/h1&gt;
 &lt;h3&gt;🌌 [2026-08-24 16:59]&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;[T-LOG: 2026-08-24 16:59]&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Session Status: SPOT&lt;/strong&gt;&lt;/p&gt;
@@ -6,17 +15,7 @@
 &lt;p&gt;Instrument analysis shows a state of system stratification:&lt;br /&gt;
 - &lt;strong&gt;the NDX Star (29008.09):&lt;/strong&gt; CVD at the level -18,42M indicates a selling phase.&lt;br /&gt;
 - &lt;strong&gt;the NQ Probe (29083.00):&lt;/strong&gt; CVD at the level -5,63K maintains a demand test status.&lt;br /&gt;
-- &lt;strong&gt;the QQQ Satellite (705.94):&lt;/strong&gt; CVD at the level +609,19K confirms a demand test.&lt;/p&gt;</description></item><item><title>H-Log: 2026-08-24 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-08-24/</link><pubDate>Mon, 24 Aug 2026 16:07:24 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-08-24/</guid><description>&lt;h1&gt;H-LOG 2026.08.24 [EN]&lt;/h1&gt;
-&lt;h3&gt;📈 [2026-08-24 16:07]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;H-LOG: Professionals Report&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;the cash session (Spot)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cash market situation:&lt;/strong&gt; The NDX index and the QQQ ETF are recording declines of -1.35% and -1.36% respectively. The cumulative energy flow (CVD) on NDX is -29,61 M, which, combined with a simultaneous negative flow direction indicator (-15), confirms the dominance of capital distribution in the current session.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Broad market analysis:&lt;/strong&gt; The Background Radiation (TICKQ) is 57.00, which, with a SMA200 average at -22.56, indicates a strong, impulsive intraday rebound despite general selling pressure on the main indices.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Futures market:&lt;/strong&gt; NQ contracts show a correlation with the cash index (decline of -1.35%) with a relatively low negative CVD energy flow (-17,32 K), suggesting lower trading intensity on derivatives compared to the spot market.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Options market:&lt;/strong&gt; A high Put/Call Ratio at 1.30 with a volume of 727,768 indicates a clear advantage of hedging positions and expectations for further volatility. Implied volatility (IV) is 20.56%, and the market is pricing the movement range for the Dyson Sphere (QQQ) within 697.68 – 715.54.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;H-Log Report: 2026-08-24 16:07&lt;/p&gt;</description></item><item><title>Log #0159: Accretion in the Shadow of a Sell-off</title><link>https://heniu.blog/en/posts/log-0159/</link><pubDate>Sun, 23 Aug 2026 09:00:22 +0200</pubDate><guid>https://heniu.blog/en/posts/log-0159/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.08.23
+- &lt;strong&gt;the QQQ Satellite (705.94):&lt;/strong&gt; CVD at the level +609,19K confirms a demand test.&lt;/p&gt;</description></item><item><title>Log #0159: Accretion in the Shadow of a Sell-off</title><link>https://heniu.blog/en/posts/log-0159/</link><pubDate>Sun, 23 Aug 2026 09:00:22 +0200</pubDate><guid>https://heniu.blog/en/posts/log-0159/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.08.23
 &lt;strong&gt;System Status:&lt;/strong&gt; External Observation
 &lt;strong&gt;Sector:&lt;/strong&gt; Inner Volatility Bands&lt;/p&gt;
 &lt;hr&gt;
