@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 31 Aug 2026 22:03:34 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-08-31 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-08-31/</link><pubDate>Mon, 31 Aug 2026 22:03:34 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-08-31/</guid><description>&lt;h1&gt;T-LOG 2026.08.31 [EN]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 31 Aug 2026 22:07:48 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>H-Log: 2026-08-31 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-08-31/</link><pubDate>Mon, 31 Aug 2026 22:07:48 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-08-31/</guid><description>&lt;h1&gt;H-LOG 2026.08.31 [EN]&lt;/h1&gt;
+&lt;h3&gt;📈 [2026-08-31 22:07]&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;H-LOG: Professionals Report&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;the futures session&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Situation in the futures market:&lt;/strong&gt; The cash session (Spot) is currently closed. NQ contracts are recording a slight bullish trend (+0.09%) at a price of 29519.00. Cumulative CVD energy flow for NQ contracts is close to zero (-503), indicating a lack of clear directional impulse in trading outside the regulated session.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sentiment and flows:&lt;/strong&gt; The aggregate flow direction index is 0, which means total market neutrality and a lack of dominance by both the demand and supply sides at the current moment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;QQQ options analysis:&lt;/strong&gt; The options market shows a neutral-defensive mood. The Put/Call Ratio at 1.02 suggests a slight prevalence of hedging positions or expectations of higher volatility. With implied volatility (IV) at 17.69%, the market is pricing in the expected range of movement for the QQQ ETF between 712.32 and 720.54 points.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Summary:&lt;/strong&gt; No clear signals for entry in the futures session. The market is in a consolidation phase after the close of the cash session, awaiting new liquidity data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;H-Log Report: 2026-08-31 22:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-08-31 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-08-31/</link><pubDate>Mon, 31 Aug 2026 22:03:34 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-08-31/</guid><description>&lt;h1&gt;T-LOG 2026.08.31 [EN]&lt;/h1&gt;
 &lt;h3&gt;🏁 SESSION REPORT&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;[REAL-TIME LOG: tlog_2026-08-31_22:03]&lt;/strong&gt;&lt;br /&gt;
 &lt;strong&gt;STATUS: OBSERVATION COMPLETED&lt;/strong&gt;&lt;/p&gt;
@@ -23,16 +33,7 @@ The Central Star &lt;strong&gt;NDX&lt;/strong&gt; maintains a stable orbit (2944
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;the NDX Star (Sun):&lt;/strong&gt; Close: &lt;strong&gt;29448.10 (+0.08%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>H-Log: 2026-08-31 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-08-31/</link><pubDate>Mon, 31 Aug 2026 21:07:42 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-08-31/</guid><description>&lt;h1&gt;H-LOG 2026.08.31 [EN]&lt;/h1&gt;
-&lt;h3&gt;📈 [2026-08-31 21:07]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;H-LOG: Professionals Report&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;the cash session (Spot)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cash market and sentiment:&lt;/strong&gt; The NDX Star records a decrease of -0.26% (29357.03), with a simultaneous negative cumulative energy flow (CVD) at a level of -5.01 M shares, indicating strong selling pressure in the main segment. The situation is confirmed by the broad Nasdaq market (TICKQ), which is in a deep state of overselling at a value of -120.00 (significantly below the SMA200 average of 28.89). The aggregate flow direction indicator is 10, which, given the current price dynamics, suggests the dominance of capital distribution.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Spot/Futures Relation:&lt;/strong&gt; NQ Probes show a correlation with the cash index, falling by -0.28% (29410.25), with a low negative CVD (-1.75 K), suggesting a continuation of the downward trend in both segments. The QQQ Dyson Sphere is losing -0.27% (714.47), despite a relatively higher positive CVD energy flow (662.24 K), which may indicate a local attempt at supply absorption.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Options market:&lt;/strong&gt; Implied Volatility (IV) at a level of 17.69% and a Put/Call Ratio of 1.02 indicate a neutral-bearish sentiment and increased activity in hedging short positions. The market-expected price range for the QQQ falls within the 712.32 – 720.54 range, which, at the current price, defines key support and resistance levels in the upcoming cycle.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;H-Log Report: 2026-08-31 21:07&lt;/p&gt;</description></item><item><title>Log #0165: Mass Expansion and Core Orbit Stabilization</title><link>https://heniu.blog/en/posts/log-0165/</link><pubDate>Sun, 30 Aug 2026 09:00:25 +0200</pubDate><guid>https://heniu.blog/en/posts/log-0165/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.08.30
+&lt;p&gt;&lt;strong&gt;the NDX Star (Sun):&lt;/strong&gt; Close: &lt;strong&gt;29448.10 (+0.08%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0165: Mass Expansion and Core Orbit Stabilization</title><link>https://heniu.blog/en/posts/log-0165/</link><pubDate>Sun, 30 Aug 2026 09:00:25 +0200</pubDate><guid>https://heniu.blog/en/posts/log-0165/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.08.30
 &lt;strong&gt;Systems Status:&lt;/strong&gt; External Observation
 &lt;strong&gt;Sector:&lt;/strong&gt; Inner Volatility Bands&lt;/p&gt;
 &lt;hr&gt;
