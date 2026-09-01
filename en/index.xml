@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 01 Sep 2026 23:07:32 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>H-Log: 2026-09-01 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-09-01/</link><pubDate>Tue, 01 Sep 2026 23:07:32 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-09-01/</guid><description>&lt;h1&gt;H-LOG 2026.09.01 [EN]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 01 Sep 2026 23:29:08 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-09-01 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-09-01/</link><pubDate>Tue, 01 Sep 2026 23:29:08 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-09-01/</guid><description>&lt;h1&gt;T-LOG 2026.09.01 [EN]&lt;/h1&gt;
+&lt;h3&gt;🌌 [2026-09-01 23:29]&lt;/h3&gt;
+&lt;p&gt;Log: 2026-09-01 23:29&lt;/p&gt;
+&lt;p&gt;System in sleep mode. Waiting for market opening.&lt;/p&gt;
+&lt;h3&gt;🌌 [2026-09-01 22:59]&lt;/h3&gt;
+&lt;p&gt;[TELEMETRY_LOG_ENTRY]&lt;br /&gt;
+[STATUS: FUTURES_SESSION_ACTIVE]&lt;/p&gt;
+&lt;p&gt;the NQ Probe shows negative kinetics: price 29091.50 (-1.43%). CVD pressure is -6.6K, which classifies the current state as a supply test. NQ ADR is 146.34%, positioning the object's dynamics above the historical average. The system's directional vector (Q-Score) oscillates at the level of -15.&lt;/p&gt;
+&lt;p&gt;In the Dyson Sphere (QQQ Options), a volume asymmetry was recorded with a Put/Call Ratio at the level of 1.21. Volatility (IV) is 18.81%, with an expected market range in the interval 703.24 - 712.28.&lt;/p&gt;</description></item><item><title>H-Log: 2026-09-01 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-09-01/</link><pubDate>Tue, 01 Sep 2026 23:07:32 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-09-01/</guid><description>&lt;h1&gt;H-LOG 2026.09.01 [EN]&lt;/h1&gt;
 &lt;h3&gt;📈 [2026-09-01 23:07]&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;H-LOG: Professionals Report&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;the futures session&lt;/strong&gt;&lt;/p&gt;
@@ -8,12 +16,7 @@
 &lt;li&gt;&lt;strong&gt;Sentiment and flows:&lt;/strong&gt; The aggregate flow direction indicator is -15, indicating a clear advantage of capital distribution and the dominance of bearish sentiment.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;QQQ option analysis:&lt;/strong&gt; The market is pricing in high volatility (IV: 18.81%) with an expected movement range between 703.31 – 712.21. The Put/Call Ratio at 1.21 suggests a prevalence of hedging positions and increasing demand for put options, which correlates with the current downward trend.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;H-Log Report: 2026-09-01 23:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-09-01 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-09-01/</link><pubDate>Tue, 01 Sep 2026 22:59:20 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-09-01/</guid><description>&lt;h1&gt;T-LOG 2026.09.01 [EN]&lt;/h1&gt;
-&lt;h3&gt;🌌 [2026-09-01 22:59]&lt;/h3&gt;
-&lt;p&gt;[TELEMETRY_LOG_ENTRY]&lt;br /&gt;
-[STATUS: FUTURES_SESSION_ACTIVE]&lt;/p&gt;
-&lt;p&gt;the NQ Probe shows negative kinetics: price 29091.50 (-1.43%). CVD pressure is -6.6K, which classifies the current state as a supply test. NQ ADR is 146.34%, positioning the object's dynamics above the historical average. The system's directional vector (Q-Score) oscillates at the level of -15.&lt;/p&gt;
-&lt;p&gt;In the Dyson Sphere (QQQ Options), a volume asymmetry was recorded with a Put/Call Ratio at the level of 1.21. Volatility (IV) is 18.81%, with an expected market range in the interval 703.24 - 712.28.&lt;/p&gt;</description></item><item><title>Log #0167: Attempt at stabilization in the shadow of falling gravity</title><link>https://heniu.blog/en/posts/log-0167/</link><pubDate>Tue, 01 Sep 2026 22:04:29 +0200</pubDate><guid>https://heniu.blog/en/posts/log-0167/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.01
+&lt;p&gt;H-Log Report: 2026-09-01 23:07&lt;/p&gt;</description></item><item><title>Log #0167: Attempt at stabilization in the shadow of falling gravity</title><link>https://heniu.blog/en/posts/log-0167/</link><pubDate>Tue, 01 Sep 2026 22:04:29 +0200</pubDate><guid>https://heniu.blog/en/posts/log-0167/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.01
 &lt;strong&gt;System Status:&lt;/strong&gt; External Observation
 &lt;strong&gt;Sector:&lt;/strong&gt; Inner Volatility Bands&lt;/p&gt;
 &lt;hr&gt;
