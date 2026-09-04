@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 04 Sep 2026 15:08:14 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>H-Log: 2026-09-04 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-09-04/</link><pubDate>Fri, 04 Sep 2026 15:08:14 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-09-04/</guid><description>&lt;h1&gt;H-LOG 2026.09.04 [EN]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 04 Sep 2026 15:14:58 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-09-04 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-09-04/</link><pubDate>Fri, 04 Sep 2026 15:14:58 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-09-04/</guid><description>&lt;h1&gt;T-LOG 2026.09.04 [EN]&lt;/h1&gt;
+&lt;h3&gt;🌌 [2026-09-04 15:14]&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;[LOG_START]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Log: 2026-09-04 15:14&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;System Status:&lt;/strong&gt; FUTURES mode (NQ active). NDX, QQQ, and TICKQ objects are in sleep mode (no radiation).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;the NQ Probe Telemetry:&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;Price:&lt;/strong&gt; 29543.50&lt;br /&gt;
+- &lt;strong&gt;CVD:&lt;/strong&gt; 1.51K [demand test]&lt;br /&gt;
+- &lt;strong&gt;ADR:&lt;/strong&gt; 54.78%&lt;br /&gt;
+- &lt;strong&gt;Q-Score:&lt;/strong&gt; 25 (Market Vector: neutral/slightly positive)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High Volume Node (HVN) Analysis:&lt;/strong&gt;&lt;br /&gt;
+In the last interval, a high frequency of turbulence was recorded in the 29530.0 – 29550.0 zone. An intense exchange of energy occurred – multiple breaches of support and capturing of barriers at levels 29530.0, 29540.0, and 29550.0 suggest a struggle to maintain local structure within a narrow channel.&lt;/p&gt;</description></item><item><title>H-Log: 2026-09-04 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-09-04/</link><pubDate>Fri, 04 Sep 2026 15:08:14 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-09-04/</guid><description>&lt;h1&gt;H-LOG 2026.09.04 [EN]&lt;/h1&gt;
 &lt;h3&gt;📈 [2026-09-04 15:07]&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;H-LOG: Professionals Report&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;the futures session&lt;/strong&gt;&lt;/p&gt;
@@ -8,10 +19,7 @@
 &lt;li&gt;&lt;strong&gt;Sentiment and flows:&lt;/strong&gt; The aggregate capital flow direction indicator is 25, confirming a moderate advantage of capital inflow and positive market sentiment.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;QQQ options market analysis:&lt;/strong&gt; Implied Volatility (IV) at the level of 17.45% with a volume of 8.026 mln contracts suggests stable market conditions. The Put/Call Ratio at the level of 1.13 indicates increased activity in put options, which may suggest building hedging positions after a strong price increase. The market-expected range of movement for QQQ lies within the range of 711.36 – 723.98.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;H-Log Report: 2026-09-04 15:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-09-04 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-09-04/</link><pubDate>Fri, 04 Sep 2026 14:59:51 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-09-04/</guid><description>&lt;h1&gt;T-LOG 2026.09.04 [EN]&lt;/h1&gt;
-&lt;h3&gt;🌌 [2026-09-04 14:59]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;STATUS: THE FUTURES SESSION (NQ ONLY)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;the NQ Probe is currently at level 29540.00 (+0.05%). In the last interval, intensive volume exchange was recorded in the 29520.0 - 29540.0 zone, where multiple hits against HVN barriers (capturing and breaking levels 29530.0 and 29540.0) suggest high micro-scale turbulence. The Q-Score vector is 25, indicating a weak but positive tilt of the system. CVD measurements for the NQ Probe show a value of 2.11K, classifying the current state as a demand test. NQ ADR remains at 54.78%. In the Dyson Sphere (QQQ options), volume asymmetry was recorded with a Put/Call Ratio at 1.13, with IV volatility at 17.45%. Other objects (NDX, QQQ, TICKQ) remain in a state of dormancy due to the close of the cash session (Spot).&lt;/p&gt;</description></item><item><title>T-Log: 2026-09-03 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-09-03/</link><pubDate>Thu, 03 Sep 2026 23:59:30 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-09-03/</guid><description>&lt;h1&gt;T-LOG 2026.09.03 [EN]&lt;/h1&gt;
+&lt;p&gt;H-Log Report: 2026-09-04 15:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-09-03 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-09-03/</link><pubDate>Thu, 03 Sep 2026 23:59:30 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-09-03/</guid><description>&lt;h1&gt;T-LOG 2026.09.03 [EN]&lt;/h1&gt;
 &lt;h3&gt;🌌 [2026-09-03 23:59]&lt;/h3&gt;
 &lt;p&gt;Log: 2026-09-03 23:59&lt;/p&gt;
 &lt;p&gt;System in sleep mode. Waiting for market open.&lt;/p&gt;
