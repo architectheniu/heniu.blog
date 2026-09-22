@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 22 Sep 2026 17:03:09 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-09-22 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-09-22/</link><pubDate>Tue, 22 Sep 2026 17:03:09 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-09-22/</guid><description>&lt;h1&gt;T-LOG 2026.09.22 [EN]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/en/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 22 Sep 2026 17:10:03 +0200</lastBuildDate><atom:link href="https://heniu.blog/en/index.xml" rel="self" type="application/rss+xml"/><item><title>H-Log: 2026-09-22 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-09-22/</link><pubDate>Tue, 22 Sep 2026 17:10:03 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-09-22/</guid><description>&lt;h1&gt;H-LOG 2026.09.22 [EN]&lt;/h1&gt;
+&lt;h3&gt;📈 [2026-09-22 17:07]&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;H-LOG: Professionals Report&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;the cash session (Spot)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cash market and sentiment:&lt;/strong&gt; The NDX Star shows an increase of 0.45% (30620,61) with clear capital accumulation (CVD: 25,87M). The flow direction indicator is 17, indicating a moderate advantage of capital inflow in the upward direction. The broad market (TICKQ) is in a state of extreme upward shift (103,00 compared to the average 13,15), which confirms strong buying pressure in the technology sector.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instrument correlation:&lt;/strong&gt; NQ contracts and the Dyson Sphere (QQQ) ETF show a high correlation with the underlying index, rising by 0.43% respectively. Cumulative flow (CVD) on QQQ indicates an active test of demand in the current session.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Options market:&lt;/strong&gt; Implied volatility (IV) at the level of 17,91% with a Put/Call Volume ratio of 0.75 suggests moderate optimism and the building of long positions. The expected movement range for QQQ has been determined in the range 740,07 – 749,31, which sets key support and resistance levels for the current session.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;H-Log Report: 2026-09-22 17:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-09-22 - Heniu's Flight Log</title><link>https://heniu.blog/en/t-log/tlog-2026-09-22/</link><pubDate>Tue, 22 Sep 2026 17:03:09 +0200</pubDate><guid>https://heniu.blog/en/t-log/tlog-2026-09-22/</guid><description>&lt;h1&gt;T-LOG 2026.09.22 [EN]&lt;/h1&gt;
 &lt;h3&gt;🌌 [2026-09-22 16:59]&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Log: 2026-09-22 16:59&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;SESSION STATUS: SPOT [ACTIVE]&lt;/strong&gt;&lt;/p&gt;
@@ -7,17 +16,7 @@
 - &lt;strong&gt;the NQ Probe:&lt;/strong&gt; Price: 30922.75 (+0.45%) | CVD: 14,59K [accumulation]&lt;br /&gt;
 - &lt;strong&gt;QQQ Satellite:&lt;/strong&gt; Price: 744.82 (+0.45%) | CVD: 872,16K [demand test]&lt;br /&gt;
 - &lt;strong&gt;TICKQ Background Radiation:&lt;/strong&gt; -352.00 [market breakdown] | &lt;strong&gt;SMA200:&lt;/strong&gt; 13.49 [demand test] | Status: BELOW&lt;br /&gt;
-- &lt;strong&gt;System Physics:&lt;/strong&gt; Q-Score: 17 | IV: 17.98% | P/C Ratio: 0.72&lt;/p&gt;</description></item><item><title>H-Log: 2026-09-22 - A Classic Account of Market Events</title><link>https://heniu.blog/en/h-log/hlog-2026-09-22/</link><pubDate>Tue, 22 Sep 2026 16:10:13 +0200</pubDate><guid>https://heniu.blog/en/h-log/hlog-2026-09-22/</guid><description>&lt;h1&gt;H-LOG 2026.09.22 [EN]&lt;/h1&gt;
-&lt;h3&gt;📈 [2026-09-22 16:07]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;H-LOG: Professionals Report&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;the cash session (Spot)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Market situation:&lt;/strong&gt; The market is in an accumulation phase. The NDX Star is growing by 0.45% (30620,94), which is supported by positive cumulative energy flow (CVD) at the level of 30.43 mln shares. The correlation between NDX, NQ (+0.43%) and the Dyson Sphere (QQQ) (+0.44%) remains strong and consistent.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Broad market:&lt;/strong&gt; The Background Radiation (TICKQ) indicator shows extremely strong buying pressure at 354.00, which constitutes a drastic deviation from the SMA200 average (17.11) and confirms aggressive accumulation in the broad technology sector.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sentiment and flows:&lt;/strong&gt; The aggregate flow direction indicator is 40, which indicates a clear dominance of capital inflow while maintaining moderate trend strength.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;QQQ options analysis:&lt;/strong&gt; The options market is recording high volume (10.43 mln), with a Put/Call Ratio at the level of 1.11, suggesting the building of hedging positions in the face of increases. Implied volatility (IV) is 18.21%, and the market-expected range of movement for the Dyson Sphere (QQQ) falls within the range of 736.91 – 749.15.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;H-Log Report: 2026-09-22 16:07&lt;/p&gt;</description></item><item><title>Log #0182: Emergencja w Jądrze i Rozbłysk Sfery Dyson'a</title><link>https://heniu.blog/en/posts/log-0182/</link><pubDate>Mon, 21 Sep 2026 22:57:25 +0200</pubDate><guid>https://heniu.blog/en/posts/log-0182/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.21
+- &lt;strong&gt;System Physics:&lt;/strong&gt; Q-Score: 17 | IV: 17.98% | P/C Ratio: 0.72&lt;/p&gt;</description></item><item><title>Log #0182: Emergencja w Jądrze i Rozbłysk Sfery Dyson'a</title><link>https://heniu.blog/en/posts/log-0182/</link><pubDate>Mon, 21 Sep 2026 22:57:25 +0200</pubDate><guid>https://heniu.blog/en/posts/log-0182/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.21
 &lt;strong&gt;System Status:&lt;/strong&gt; External Observation
 &lt;strong&gt;Sector:&lt;/strong&gt; Inner Volatility Bands&lt;/p&gt;
 &lt;hr&gt;
