@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/pt-br/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>pt-BR</language><lastBuildDate>Tue, 22 Sep 2026 16:11:17 +0200</lastBuildDate><atom:link href="https://heniu.blog/pt-br/index.xml" rel="self" type="application/rss+xml"/><item><title>H-Log: 2026-09-22 - Relato Clássico dos Eventos do Mercado</title><link>https://heniu.blog/pt-br/h-log/hlog-2026-09-22/</link><pubDate>Tue, 22 Sep 2026 16:11:17 +0200</pubDate><guid>https://heniu.blog/pt-br/h-log/hlog-2026-09-22/</guid><description>&lt;h1&gt;H-LOG 2026.09.22 [PT-BR]&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heniu.blog</title><link>https://heniu.blog/pt-br/</link><description>Recent content on Heniu.blog</description><generator>Hugo</generator><language>pt-BR</language><lastBuildDate>Tue, 22 Sep 2026 16:20:42 +0200</lastBuildDate><atom:link href="https://heniu.blog/pt-br/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-09-22 - Diário de Bordo do Heniu</title><link>https://heniu.blog/pt-br/t-log/tlog-2026-09-22/</link><pubDate>Tue, 22 Sep 2026 16:20:42 +0200</pubDate><guid>https://heniu.blog/pt-br/t-log/tlog-2026-09-22/</guid><description>&lt;h1&gt;T-LOG 2026.09.22 [PT-BR]&lt;/h1&gt;
+&lt;h3&gt;🌌 [2026-09-22 16:14]&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;[T-LOG: 2026-09-22 16:14]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;STATUS: SPOT | A SESSÃO À VISTA (SPOT) ESTÁ ATIVA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ANÁLISE DE OBJETOS:&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;a Estrela NDX:&lt;/strong&gt; Preço 30664.04 (+0.60%). CVD: 35.27M [acumulação].&lt;br /&gt;
+- &lt;strong&gt;a Sonda NQ:&lt;/strong&gt; Preço 30960.25 (+0.57%). CVD: 22.3K [acumulação]. ADR: 69.87%.&lt;br /&gt;
+- &lt;strong&gt;Satélite QQQ:&lt;/strong&gt; Preço 745.74 (+0.58%). CVD: 1.42M [teste de demanda].&lt;br /&gt;
+- &lt;strong&gt;Bolsa Ampla TICKQ:&lt;/strong&gt; 370.00 [disparo do mercado]. Média SMA200: 17.20 [teste de demanda]. Status: ABOVE.&lt;br /&gt;
+- &lt;strong&gt;a Esfera de Dyson (QQQ) (Opções):&lt;/strong&gt; IV: 18.21%. Put/Call Ratio: 1.11.&lt;/p&gt;</description></item><item><title>H-Log: 2026-09-22 - Relato Clássico dos Eventos do Mercado</title><link>https://heniu.blog/pt-br/h-log/hlog-2026-09-22/</link><pubDate>Tue, 22 Sep 2026 16:11:17 +0200</pubDate><guid>https://heniu.blog/pt-br/h-log/hlog-2026-09-22/</guid><description>&lt;h1&gt;H-LOG 2026.09.22 [PT-BR]&lt;/h1&gt;
 &lt;h3&gt;📈 [2026-09-22 16:07]&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;H-LOG: Relatório de Profissionais&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;a sessão à vista (Spot)&lt;/strong&gt;&lt;/p&gt;
@@ -8,11 +17,7 @@
 &lt;li&gt;&lt;strong&gt;Sentimento e fluxos:&lt;/strong&gt; O indicador agregado de direção de fluxo é 40, o que indica uma clara vantagem na entrada de capital, mantendo uma força de tendência moderada.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Análise de opções QQQ:&lt;/strong&gt; O mercado de opções registra um alto volume (10,43 mln), com o Put/Call Ratio no nível de 1,11, o que sugere a construção de posições de proteção (hedging) diante das altas. A volatilidade implícita (IV) é de 18,21%, e o intervalo de movimento esperado pelo mercado para QQQ situa-se entre 736,91 – 749,15.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Relatório H-Log: 2026-09-22 16:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-09-22 - Diário de Bordo do Heniu</title><link>https://heniu.blog/pt-br/t-log/tlog-2026-09-22/</link><pubDate>Tue, 22 Sep 2026 16:03:38 +0200</pubDate><guid>https://heniu.blog/pt-br/t-log/tlog-2026-09-22/</guid><description>&lt;h1&gt;T-LOG 2026.09.22 [PT-BR]&lt;/h1&gt;
-&lt;h3&gt;🌌 [2026-09-22 15:59]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;[LOG: 2026-09-22 15:59]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Status do sistema: SPOT | Sessão ativa&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;a Sonda NQ encontra-se no nível 30929.50, exibindo um estado de acumulação com o CVD no nível 24.29K. No último intervalo, foi registrada uma intensa troca de volume na zona 30870.0 – 30930.0, onde ocorreram múltiplas violações e quebras de barreiras HVN, o que sugere alta turbulência nas bordas das zonas de resistência locais. &lt;/p&gt;</description></item><item><title>T-Log: 2026-09-21 - Diário de Bordo do Heniu</title><link>https://heniu.blog/pt-br/t-log/tlog-2026-09-21/</link><pubDate>Mon, 21 Sep 2026 22:54:55 +0200</pubDate><guid>https://heniu.blog/pt-br/t-log/tlog-2026-09-21/</guid><description>&lt;h1&gt;T-LOG 2026.09.21 [PT-BR]&lt;/h1&gt;
+&lt;p&gt;Relatório H-Log: 2026-09-22 16:07&lt;/p&gt;</description></item><item><title>T-Log: 2026-09-21 - Diário de Bordo do Heniu</title><link>https://heniu.blog/pt-br/t-log/tlog-2026-09-21/</link><pubDate>Mon, 21 Sep 2026 22:54:55 +0200</pubDate><guid>https://heniu.blog/pt-br/t-log/tlog-2026-09-21/</guid><description>&lt;h1&gt;T-LOG 2026.09.21 [PT-BR]&lt;/h1&gt;
 &lt;h3&gt;🌌 [2026-09-21 22:29]&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;STATUS DA TELEMETRIA:&lt;/strong&gt;&lt;br /&gt;
 - &lt;strong&gt;a Sonda NQ:&lt;/strong&gt; 30779.75 (+2.88%)&lt;br /&gt;
