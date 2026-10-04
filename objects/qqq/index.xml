@@ -1,119 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>QQQ on Heniu.blog</title><link>https://heniu.blog/objects/qqq/</link><description>Recent content in QQQ on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Sun, 04 Oct 2026 09:05:12 +0200</lastBuildDate><atom:link href="https://heniu.blog/objects/qqq/index.xml" rel="self" type="application/rss+xml"/><item><title>Log #0193: Divergencja Warp: Rozszerzenie Sondy NQ przy Kompresji Jądra NDX</title><link>https://heniu.blog/posts/log-0193/</link><pubDate>Sun, 04 Oct 2026 09:05:12 +0200</pubDate><guid>https://heniu.blog/posts/log-0193/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.10.04
-&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
-&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id="telemetria-tygodnia-bilans-otwarcia-i-zamknięcia"&gt;Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Tydzień charakteryzował się narastającą dywergencją między sferą kasową a instrumentami futures, przy jednoczesnej erozji całkowitej masy T-Mass i spadku gęstości jądra. System przeszedł fazę testu popytu przy jednoczesnym wzroście napięcia w tarczy opcyjnej.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>QQQ on Heniu.blog</title><link>https://heniu.blog/objects/qqq/</link><description>Recent content in QQQ on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Sun, 04 Oct 2026 09:05:12 +0200</lastBuildDate><atom:link href="https://heniu.blog/objects/qqq/index.xml" rel="self" type="application/rss+xml"/><item><title>Log #0193: Divergencja Warp: Rozszerzenie Sondy NQ przy Kompresji Jądra NDX</title><link>https://heniu.blog/posts/log-0193/</link><pubDate>Sun, 04 Oct 2026 09:05:12 +0200</pubDate><guid>https://heniu.blog/posts/log-0193/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Sesja piątkowa 2.10.2026 nie została zaobserwowana, więc bilans pełnego tygodnia jest nieznany (brak danych za piątek).&lt;/strong&gt; Dopływ danych rynkowych do Henia ustał 2.10 ok. 9:19 ET, przed otwarciem sesji kasowej. Raport dzienny Log #0192 zamroził odczyty z czwartku 1.10 (NDX, QQQ, T-Mass, CVD) oraz odczyt NQ sprzed otwarcia, a ten raport tygodniowy złożono z raportów dziennych. Niezależnie od tego czytnik progów nie rozpoznawał typograficznego znaku minus „−” i każdą ujemną wartość CVD klasyfikował jako „test popytu”. Ten błąd został poprawiony w kodzie 4.10.2026.&lt;/p&gt;</description></item><item><title>Log #0192: Emergencja Pulsara w cieniu ekstremalnej radiacji tła</title><link>https://heniu.blog/posts/log-0192/</link><pubDate>Fri, 02 Oct 2026 22:18:54 +0200</pubDate><guid>https://heniu.blog/posts/log-0192/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Ten wpis nie opisuje sesji 2.10.2026.&lt;/strong&gt; Dopływ danych rynkowych do Henia ustał 2.10 ok. 9:19 ET, przed otwarciem sesji kasowej; T-Log i H-Log z tego dnia kończą się przed otwarciem. Raport na zamknięcie sesji nie sprawdził świeżości danych i opublikował odczyty sprzed sesji:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Bilans Masy Tygodnia):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu (Otwarcie → Zamknięcie):&lt;/em&gt; &lt;strong&gt;43.11 T → 42.86 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Tygodniowa Masy:&lt;/em&gt; &lt;strong&gt;-0.24 Tryliona USD (-0.57%)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;70.52% → 70.25%&lt;/strong&gt; (Delta: &lt;strong&gt;-0.28 p.p.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$315.29 → $269.07&lt;/strong&gt; (Delta: &lt;strong&gt;-$46.22 | -14.66%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Fluktuacja Składu Jądra (&amp;gt;1T):&lt;/em&gt; &lt;strong&gt;Stabilność (brak emergencji/kolapsu)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;T-Mass 42.86 T (Delta −0.02), Gęstość Jądra 70.25% (+2.14%), Gwiazda NDX 30506.61, CVD NDX 85,32 M, Anomalia MOC +79,39 M, ADR NDX 108.35%, Sfera Dysona QQQ 742.04, CVD QQQ −79,93 K, ADR QQQ 107.12% i Put/Call OI 1.40 to odczyty z czwartku 1.10 (identyczne z Logiem #0191). Zmiana „+0.31%” przy NDX i QQQ to zmiana czwartkowa.&lt;/li&gt;
+&lt;li&gt;Sonda NQ 31167.75 (+1.32%), CVD 21,67 K i ADR 96.83% to odczyt sprzed otwarcia sesji kasowej (ok. 9:19 ET), nie zamknięcie.&lt;/li&gt;
+&lt;li&gt;TICKQ −80.00, SMA200 −174.94 i IV 20.13% nie pochodzą z obserwacji sesji 2.10.&lt;/li&gt;
+&lt;li&gt;Średnia Akcja $269.07 (Delta $-31.49): delta liczona względem środy 30.09; odczyt niewiarygodny.&lt;/li&gt;
+&lt;li&gt;Etykieta „test popytu” przy CVD QQQ −79,93 K wynikała z błędu odczytu typograficznego znaku minus (poprawnie: test podaży). Ten błąd został poprawiony w kodzie 4.10.2026.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce — Bilans 5 Sesji):&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0192: Emergencja Pulsara w cieniu ekstremalnej radiacji tła</title><link>https://heniu.blog/posts/log-0192/</link><pubDate>Fri, 02 Oct 2026 22:18:54 +0200</pubDate><guid>https://heniu.blog/posts/log-0192/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.10.02
-&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
-&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id="telemetria-zamknięcia"&gt;Telemetria Zamknięcia&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Mimo skrajnie ujemnej szerokości promieniowania TICKQ, Gwiazda Centralna NDX wykazuje silną akrecję energii. System obserwuje rozbieżność między stabilnością Jądra a destabilizacją szerokiego pola siłowego.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Wycofany zostaje cały Dziennik Pokładowy tego wpisu, w tym rozbieżność Sondy NQ (+1.32%) i Gwiazdy NDX (+0.31%) opisana jako zjawisko rynkowe. Był to efekt zestawienia odczytów z różnych chwil. Dane sesji 2.10.2026: brak danych.&lt;/p&gt;</description></item><item><title>Log #0191: Akrecja w cieniu ekstremalnej presji: Emergencja Pulsara</title><link>https://heniu.blog/posts/log-0191/</link><pubDate>Thu, 01 Oct 2026 22:12:07 +0200</pubDate><guid>https://heniu.blog/posts/log-0191/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Błędne etykiety CVD.&lt;/strong&gt; Czytnik progów Henia nie rozpoznawał typograficznego znaku minus „−” i każdą ujemną wartość CVD klasyfikował jako „test popytu”. Ten błąd został poprawiony w kodzie 4.10.2026. Poprawne etykiety według progów Henia:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Rozkład Masy):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu:&lt;/em&gt; &lt;strong&gt;42.86 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Sesyjna (24h):&lt;/em&gt; &lt;strong&gt;-0.02 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;70.25%&lt;/strong&gt; (Delta: &lt;strong&gt;+2.14%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$269.07&lt;/strong&gt; (Delta: &lt;strong&gt;$-31.49&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;CVD NQ −4,57 K: &lt;strong&gt;test podaży&lt;/strong&gt; (nie „test popytu”),&lt;/li&gt;
+&lt;li&gt;CVD QQQ −79,93 K: &lt;strong&gt;test podaży&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;CVD NDX 85,32 M [wystrzał rynku]: etykieta poprawna.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;30506.61 (+0.31%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0191: Akrecja w cieniu ekstremalnej presji: Emergencja Pulsara</title><link>https://heniu.blog/posts/log-0191/</link><pubDate>Thu, 01 Oct 2026 22:12:07 +0200</pubDate><guid>https://heniu.blog/posts/log-0191/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.10.01
-&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
-&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id="telemetria-zamknięcia"&gt;Telemetria Zamknięcia&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Gwiazda Centralna NDX wykazuje silne sygnały wystrzału, mimo że promieniowanie tła wskazuje na głęboką, skrajną presję podażową w szerokim układzie. Obserwujemy rozbieżność między masą jądra a dynamiką mniejszych obiektów.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Wycofane zostają „reżim testu popytu” Sondy NQ i „faza testu popytu” Sfery QQQ (punkty 1–2); „niskie wartości CVD” w punkcie 3 to wartości ujemne.&lt;/p&gt;</description></item><item><title>Log #0190: Stabilizacja w cieniu ujemnej radiacji</title><link>https://heniu.blog/posts/log-0190/</link><pubDate>Wed, 30 Sep 2026 22:14:39 +0200</pubDate><guid>https://heniu.blog/posts/log-0190/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Błędne etykiety CVD.&lt;/strong&gt; Czytnik progów Henia nie rozpoznawał typograficznego znaku minus „−” i każdą ujemną wartość CVD klasyfikował jako „test popytu”. Ten błąd został poprawiony w kodzie 4.10.2026. Poprawne etykiety według progów Henia:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Rozkład Masy):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu:&lt;/em&gt; &lt;strong&gt;42.86 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Sesyjna (24h):&lt;/em&gt; &lt;strong&gt;-0.02 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;70.25%&lt;/strong&gt; (Delta: &lt;strong&gt;+2.14%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$317.71&lt;/strong&gt; (Delta: &lt;strong&gt;+$17.14&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;CVD NDX −176,17 M: &lt;strong&gt;panika&lt;/strong&gt; (nie „test popytu”),&lt;/li&gt;
+&lt;li&gt;CVD NQ −6,39 K: &lt;strong&gt;test podaży&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;CVD QQQ −855,17 K: &lt;strong&gt;test podaży&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;30508.84 (+0.31%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0190: Stabilizacja w cieniu ujemnej radiacji</title><link>https://heniu.blog/posts/log-0190/</link><pubDate>Wed, 30 Sep 2026 22:14:39 +0200</pubDate><guid>https://heniu.blog/posts/log-0190/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.30
-&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
-&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id="telemetria-zamknięcia"&gt;Telemetria Zamknięcia&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Obserwacja układu wykazuje rozbieżność między stabilnością cenową a głębokim deficytem promieniowania tła. Mimo testów popytu w głównych wektorach, szerokość rynku wskazuje na skrajną presję podażową.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Wycofane zostają „testy popytu” w abstrakcie i w punkcie 1 (tytuł i treść). Poprawny opis: przy wzroście cen (NDX +0.23%, NQ +0.25%, QQQ +0.24%) przepływy na wszystkich trzech obiektach były ujemne, na Gwieździe NDX w strefie paniki. Wniosek z punktu 3 i Werdyktu, że wzrostom nie towarzyszyła akrecja energii, pozostaje zgodny z danymi.&lt;/p&gt;</description></item><item><title>Log #0189: Świecenie Jądra w cieniu radiacyjnego załamania</title><link>https://heniu.blog/posts/log-0189/</link><pubDate>Tue, 29 Sep 2026 22:13:10 +0200</pubDate><guid>https://heniu.blog/posts/log-0189/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Błędne etykiety CVD.&lt;/strong&gt; Czytnik progów Henia nie rozpoznawał typograficznego znaku minus „−” i każdą ujemną wartość CVD klasyfikował jako „test popytu”. Ten błąd został poprawiony w kodzie 4.10.2026. Poprawne etykiety według progów Henia:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Rozkład Masy):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu:&lt;/em&gt; &lt;strong&gt;42.88 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Sesyjna (24h):&lt;/em&gt; &lt;strong&gt;+0.14 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;68.11%&lt;/strong&gt; (Delta: &lt;strong&gt;+0.14%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$300.56&lt;/strong&gt; (Delta: &lt;strong&gt;+$33.24&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;CVD NQ −12,18 K: &lt;strong&gt;wyprzedaż&lt;/strong&gt; (nie „test popytu”),&lt;/li&gt;
+&lt;li&gt;CVD QQQ −725,32 K: &lt;strong&gt;test podaży&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;CVD NDX 153,44 M [euforia]: etykieta poprawna.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;30413.17 (+0.23%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0189: Świecenie Jądra w cieniu radiacyjnego załamania</title><link>https://heniu.blog/posts/log-0189/</link><pubDate>Tue, 29 Sep 2026 22:13:10 +0200</pubDate><guid>https://heniu.blog/posts/log-0189/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.29
-&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
-&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id="telemetria-zamknięcia"&gt;Telemetria Zamknięcia&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Gwiazda Centralna NDX wykazuje stan euforii przy jednoczesnym silnym ujemnym promieniowaniu tła TICKQ. Układ znajduje się w fazie rozbieżności między masą centralną a szerokością pola siłowego.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Wycofane zostają w punkcie 1 „test popytu w warstwach warp” (Sonda NQ) i „test popytu” Sfery QQQ. Rozbieżność między dodatnim przepływem Gwiazdy NDX a ujemnym przepływem Sondy NQ i Sfery QQQ pozostaje aktualna.&lt;/p&gt;</description></item><item><title>Log #0188: Kolaps Jądra i Radiacja Paniki</title><link>https://heniu.blog/posts/log-0188/</link><pubDate>Mon, 28 Sep 2026 22:09:18 +0200</pubDate><guid>https://heniu.blog/posts/log-0188/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Błędne etykiety CVD.&lt;/strong&gt; Czytnik progów Henia nie rozpoznawał typograficznego znaku minus „−” i każdą ujemną wartość CVD klasyfikował jako „test popytu”. Ten błąd został poprawiony w kodzie 4.10.2026. Poprawne etykiety według progów Henia:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Rozkład Masy):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu:&lt;/em&gt; &lt;strong&gt;42.74 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Sesyjna (24h):&lt;/em&gt; &lt;strong&gt;+0.04 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;67.97%&lt;/strong&gt; (Delta: &lt;strong&gt;-0.20%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$267.32&lt;/strong&gt; (Delta: &lt;strong&gt;$-28.86&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;CVD NDX −139,26 M: &lt;strong&gt;panika&lt;/strong&gt; (nie „test popytu”),&lt;/li&gt;
+&lt;li&gt;CVD NQ −1,56 K: &lt;strong&gt;test podaży&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;CVD QQQ −879,12 K: &lt;strong&gt;test podaży&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;30344.68 (+0.21%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0188: Kolaps Jądra i Radiacja Paniki</title><link>https://heniu.blog/posts/log-0188/</link><pubDate>Mon, 28 Sep 2026 22:09:18 +0200</pubDate><guid>https://heniu.blog/posts/log-0188/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.28
-&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
-&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id="telemetria-zamknięcia"&gt;Telemetria Zamknięcia&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Obserwacja spadku masy w sektorze Klasy 0 wywołuje gwałtowne promieniowanie tła. Układ znajduje się w fazie testowania popytu przy jednoczesnej panice w szerokim spektrum rynkowym.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Rozkład Masy):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu:&lt;/em&gt; &lt;strong&gt;42.71 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Sesyjna (24h):&lt;/em&gt; &lt;strong&gt;-0.43 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;68.15%&lt;/strong&gt; (Delta: &lt;strong&gt;-2.40%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$294.30&lt;/strong&gt; (Delta: &lt;strong&gt;$-20.99&lt;/strong&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;30279.20 (-1.08%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0187: Akrecja Masy i Ekspansja Orbity: Przesunięcie Środka Ciężkości</title><link>https://heniu.blog/posts/log-0187/</link><pubDate>Sun, 27 Sep 2026 09:04:58 +0200</pubDate><guid>https://heniu.blog/posts/log-0187/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.27
+&lt;p&gt;Wycofane zostają oparte na tych etykietach stwierdzenia o „testowaniu popytu” (abstrakt, punkty 1–3 i Werdykt), w tym o rozbieżności między „testem popytu” na Sondzie NQ a paniką promieniowania TICKQ. Przepływy na wszystkich trzech obiektach były ujemne, zgodnie z ujemną radiacją tła.&lt;/p&gt;</description></item><item><title>Log #0187: Akrecja Masy i Ekspansja Orbity: Przesunięcie Środka Ciężkości</title><link>https://heniu.blog/posts/log-0187/</link><pubDate>Sun, 27 Sep 2026 09:04:58 +0200</pubDate><guid>https://heniu.blog/posts/log-0187/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.27
 &lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
 &lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
 &lt;hr&gt;
