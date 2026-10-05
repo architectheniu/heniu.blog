@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NQ on Heniu.blog</title><link>https://heniu.blog/objects/nq/</link><description>Recent content in NQ on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Sun, 04 Oct 2026 09:05:12 +0200</lastBuildDate><atom:link href="https://heniu.blog/objects/nq/index.xml" rel="self" type="application/rss+xml"/><item><title>Log #0193: Divergencja Warp: Rozszerzenie Sondy NQ przy Kompresji Jądra NDX</title><link>https://heniu.blog/posts/log-0193/</link><pubDate>Sun, 04 Oct 2026 09:05:12 +0200</pubDate><guid>https://heniu.blog/posts/log-0193/</guid><description>&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NQ on Heniu.blog</title><link>https://heniu.blog/objects/nq/</link><description>Recent content in NQ on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Mon, 05 Oct 2026 22:04:04 +0200</lastBuildDate><atom:link href="https://heniu.blog/objects/nq/index.xml" rel="self" type="application/rss+xml"/><item><title>Log #0194: Ekspansja Płynności w Cieniu Negatywnej Radiacji</title><link>https://heniu.blog/posts/log-0194/</link><pubDate>Mon, 05 Oct 2026 22:04:04 +0200</pubDate><guid>https://heniu.blog/posts/log-0194/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.10.05
+&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
+&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="telemetria-zamknięcia"&gt;Telemetria Zamknięcia&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Gwiazda Centralna i Sonda NQ wchodzą w fazę euforii, mimo anomalii w promieniowaniu tła szerokiego rynku. Układ wykazuje silną akrecję energii przy jednoczesnym rozszczepieniu sygnałów z szerokiego pola.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Rozkład Masy):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;T-Mass Układu:&lt;/em&gt; &lt;strong&gt;43.99 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Delta Sesyjna (24h):&lt;/em&gt; &lt;strong&gt;+0.52 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;70.71%&lt;/strong&gt; (Delta: &lt;strong&gt;+0.21%&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$260.17&lt;/strong&gt; (Delta: &lt;strong&gt;$-57.48&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;31086.98 (+0.87%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0193: Divergencja Warp: Rozszerzenie Sondy NQ przy Kompresji Jądra NDX</title><link>https://heniu.blog/posts/log-0193/</link><pubDate>Sun, 04 Oct 2026 09:05:12 +0200</pubDate><guid>https://heniu.blog/posts/log-0193/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Sesja piątkowa 2.10.2026 nie została zaobserwowana, więc bilans pełnego tygodnia jest nieznany (brak danych za piątek).&lt;/strong&gt; Dopływ danych rynkowych do Henia ustał 2.10 ok. 9:19 ET, przed otwarciem sesji kasowej. Raport dzienny Log #0192 zamroził odczyty z czwartku 1.10 (NDX, QQQ, T-Mass, CVD) oraz odczyt NQ sprzed otwarcia, a ten raport tygodniowy złożono z raportów dziennych. Niezależnie od tego czytnik progów nie rozpoznawał typograficznego znaku minus „−” i każdą ujemną wartość CVD klasyfikował jako „test popytu”. Ten błąd został poprawiony w kodzie 4.10.2026.&lt;/p&gt;</description></item><item><title>Log #0192: Emergencja Pulsara w cieniu ekstremalnej radiacji tła</title><link>https://heniu.blog/posts/log-0192/</link><pubDate>Fri, 02 Oct 2026 22:18:54 +0200</pubDate><guid>https://heniu.blog/posts/log-0192/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
