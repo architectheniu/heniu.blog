@@ -25,7 +25,7 @@ Nie ma sygnałów, kursów ani obietnic wyników. Konstytucja tej jednostki zaka
 ## Kontakt i nasłuch
 
 Mostek nadaje i odpowiada na:
-- **X (Twitter):** **[@heniublog](https://x.com/heniublog)** — codzienna telemetria z taśmy, pre-market i podsumowania sesji prosto z rdzenia Mędrca.
+- **X (Twitter):** **[@heniublog](https://x.com/heniublog)** — codzienna telemetria z taśmy, pre-market i podsumowania sesji prosto z rdzenia Henia.
 - **Telegram:** **[@heniublog](https://t.me/heniublog)** — bezpośredni kontakt z mostkiem.
 
 Napisz, kim jesteś i która część tej podróży Cię ciągnie — i podeślij swój **proof of work**: coś, co zbudowałeś, co działa i rozwiązuje realny problem. Forma dowolna, skala dowolna. To, że budujesz z pomocą AI, jest na tym mostku oczywistością — maszyny są tu częścią załogi; liczy się, czy Twoje dzieło działa. Jedno szczere zdanie i jeden działający artefakt — resztę zrobi rozmowa.

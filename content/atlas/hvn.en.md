@@ -24,22 +24,22 @@ Contracts, company shares and fund shares are different units, so Heniu does not
 
 ## How we measure it on the bridge
 
-- **Common axis:** the NDX index level, in steps of 10 points. Heniu converts the NQ price to this axis through the basis (NQ − NDX) and the QQQ price through the ratio (NDX / QQQ). Both relations are measured live during the cash session — the median of the last 600 measurements — and kept overnight.
+- **Common axis:** the NDX index level, in steps of 10 points. Heniu converts the NQ price to this axis through the basis (NQ − NDX) and the QQQ price through the ratio (NDX / QQQ). Both relations are measured live during the cash session and kept overnight.
 - **Hours:** NQ counts during CME trading hours; NDX and QQQ during the cash session.
-- **Volume:** the volume of the current 15-minute candle, read from the TradingView screen by a browser extension. The candle grows for 15 minutes; Heniu adds each increase in its volume to the level where price stood at that moment, and only along the longest non-decreasing run of readings, so momentary reading spikes (e.g. 1,560 → 16,720 → 1,560) never enter the profile.
+- **Volume:** the volume of 15-minute candles, spread across the levels where price stood while the trades came in.
 - **Window:** the last 5 CME trading days; a trading day starts at 18:00 New York time.
 - **Node:** a level that is the strongest within 2 levels on either side (±20 points) and holds at least half the share of the strongest level in the whole profile.
-- **Breakout:** price (on the NDX axis) must stand at least 5 points beyond the level. Breakouts alternate (up, then down), at most once every 10 minutes per level. Heniu accepts an NQ price jump of more than 60 points only once it has held for 2 minutes — a fuse against reading errors.
+- **Breakout:** price must stand at least 5 points beyond the level. Breakouts alternate (up, then down), at most once every 10 minutes per level.
 
 ## How HVNs show up in the Logs
 
-The bridge records three kinds of events, and the Sage notes them in the next T-Log:
+Heniu records three kinds of events in the next T-Log:
 
 - **new node** — e.g. "HVN node at NDX level 30660 (NQ ≈ 30887)", with each of the three markets' share of 5-day volume;
 - **barrier taken** — a node broken to the upside;
 - **support overturned** — a node broken to the downside.
 
-The level always sits on the NDX axis; the brackets give its approximate NQ equivalent, because the basis between the contract and the index changes from day to day. When events touch several neighbouring levels, the Sage merges them into a zone, e.g. "30690 – 30730".
+The level always sits on the NDX axis; the brackets give its approximate NQ equivalent, because the basis between the contract and the index changes from day to day. When events touch several neighbouring levels, Heniu merges them into a zone, e.g. "30690 – 30730".
 
 ## What an HVN does not do
 
