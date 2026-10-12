@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
   fullWidthTheme = false
   centerTheme = true
   # Na stronie głównej wyświetlamy TYLKO Logi (posts). Obiekty są osobno.
-  mainSections = ["posts"]
+  mainSections = ["posts", "f-log"]
   # Przełącznik języka w nagłówku (obok logo/Terminala)
   showLanguageSelector = true
 
@@ -76,15 +76,20 @@ Warp x20. Start.
     url = "/h-log/"
     weight = 5
   [[languages.pl.menu.main]]
+    identifier = "f-log"
+    name = "F-Log"
+    url = "/f-log/"
+    weight = 6
+  [[languages.pl.menu.main]]
     identifier = "atlas"
     name = "Atlas"
     url = "/atlas/"
-    weight = 6
+    weight = 7
   [[languages.pl.menu.main]]
     identifier = "zaloga"
     name = "Załoga"
     url = "/zaloga/"
-    weight = 7
+    weight = 8
 
 # ==================== ENGLISH (mirror) ====================
 [languages.en]
@@ -130,15 +135,20 @@ Warp x20. Engage.
     url = "/en/h-log/"
     weight = 4
   [[languages.en.menu.main]]
+    identifier = "f-log"
+    name = "F-Log"
+    url = "/en/f-log/"
+    weight = 5
+  [[languages.en.menu.main]]
     identifier = "atlas"
     name = "Atlas"
     url = "/en/atlas/"
-    weight = 5
+    weight = 6
   [[languages.en.menu.main]]
     identifier = "zaloga"
     name = "The Crew"
     url = "/en/zaloga/"
-    weight = 6
+    weight = 7
 
 # ==================== PORTUGUES (Brasil) ====================
 [languages.pt-br]
@@ -184,12 +194,17 @@ Warp x20. Ativar.
     url = "/pt-br/h-log/"
     weight = 4
   [[languages.pt-br.menu.main]]
+    identifier = "f-log"
+    name = "F-Log"
+    url = "/pt-br/f-log/"
+    weight = 5
+  [[languages.pt-br.menu.main]]
     identifier = "atlas"
     name = "Atlas"
     url = "/pt-br/atlas/"
-    weight = 5
+    weight = 6
   [[languages.pt-br.menu.main]]
     identifier = "zaloga"
     name = "Tripulação"
     url = "/pt-br/zaloga/"
-    weight = 6
+    weight = 7
