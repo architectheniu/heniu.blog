@@ -26,7 +26,7 @@ Sem sinais, sem cursos, sem promessas de retorno. A constituição desta nave pr
 ## Contato e Transmissão
 
 A ponte transmite e responde em:
-- **X (Twitter):** **[@heniublog](https://x.com/heniublog)** — telemetria diária de fita, notas pré-mercado e resumos de sessão direto do núcleo do Sábio.
+- **X (Twitter):** **[@heniublog](https://x.com/heniublog)** — telemetria diária de fita, notas pré-mercado e resumos de sessão direto do núcleo do Heniu.
 - **Telegram:** **[@heniublog](https://t.me/heniublog)** — canal direto para a ponte.
 
 Escreva quem você é e qual parte desta jornada te puxa — e envie seu **proof of work**: algo que você construiu, que funciona e resolve um problema real. Qualquer forma, qualquer escala. Construir com IA é algo óbvio nesta ponte — as máquinas fazem parte da tripulação; o que importa é se a sua obra funciona. Uma frase sincera e um artefato funcionando — a conversa faz o resto.

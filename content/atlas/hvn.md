@@ -24,22 +24,22 @@ Kontrakty, akcje spółek i akcje funduszu to różne jednostki, więc Heniu ich
 
 ## Jak to mierzymy na mostku
 
-- **Wspólna oś:** poziom indeksu NDX, co 10 punktów. Cenę NQ Heniu przelicza na tę oś przez bazę (NQ − NDX), a cenę QQQ przez proporcję (NDX / QQQ). Obie relacje mierzy na żywo w sesji kasowej — to mediana z ostatnich 600 pomiarów — i pamięta je na noc.
+- **Wspólna oś:** poziom indeksu NDX, co 10 punktów. Cenę NQ Heniu przelicza na tę oś przez bazę (NQ − NDX), a cenę QQQ przez proporcję (NDX / QQQ). Obie relacje mierzy na żywo w sesji kasowej i pamięta je na noc.
 - **Godziny:** NQ liczy się w godzinach handlu CME, NDX i QQQ — w sesji kasowej.
-- **Wolumen:** wolumen bieżącej świecy 15-minutowej, odczytany z ekranu TradingView przez rozszerzenie przeglądarki. Świeca rośnie przez 15 minut; każdy przyrost jej wolumenu Heniu dopisuje do poziomu, na którym akurat stała cena, i tylko wzdłuż najdłuższego niemalejącego ciągu odczytów, więc chwilowe wyskoki odczytu (np. 1 560 → 16 720 → 1 560) nie wchodzą do profilu.
+- **Wolumen:** wolumen świec 15-minutowych, rozłożony na poziomy, na których stała cena, gdy przybywało transakcji.
 - **Okno:** 5 ostatnich dni handlu CME; dzień handlu zaczyna się o 18:00 czasu nowojorskiego.
 - **Węzeł:** poziom, który jest najsilniejszy w promieniu 2 poziomów (±20 punktów) i ma co najmniej połowę udziału najsilniejszego poziomu w całym profilu.
-- **Przebicie:** cena (na osi NDX) musi stanąć co najmniej 5 punktów za poziomem. Przebicia idą na przemian (w górę, potem w dół), najwyżej raz na 10 minut na poziom. Skok ceny NQ o ponad 60 punktów Heniu przyjmuje dopiero wtedy, gdy utrzyma się 2 minuty — to bezpiecznik przeciw błędom odczytu.
+- **Przebicie:** cena musi stanąć co najmniej 5 punktów za poziomem. Przebicia idą na przemian (w górę, potem w dół), najwyżej raz na 10 minut na poziom.
 
 ## Jak HVN widać w Logach
 
-Mostek zapisuje trzy rodzaje zdarzeń, a Mędrzec odnotowuje je w najbliższym T-Logu:
+Heniu odnotowuje w najbliższym T-Logu trzy rodzaje zdarzeń:
 
 - **nowy węzeł** — np. „węzeł HVN na poziomie NDX 30660 (NQ ≈ 30887)”, z udziałem każdego z trzech rynków w wolumenie 5 dni handlu;
 - **zdobyta zapora** — przebicie węzła w górę;
 - **obalone wsparcie** — przebicie węzła w dół.
 
-Poziom zawsze leży na osi NDX; w nawiasie stoi jego przybliżony odpowiednik na NQ, bo baza między kontraktem a indeksem zmienia się z dnia na dzień. Gdy zdarzenia dotyczą kilku sąsiednich poziomów, Mędrzec łączy je w strefę, np. „30690 – 30730”.
+Poziom zawsze leży na osi NDX; w nawiasie stoi jego przybliżony odpowiednik na NQ, bo baza między kontraktem a indeksem zmienia się z dnia na dzień. Gdy zdarzenia dotyczą kilku sąsiednich poziomów, Heniu łączy je w strefę, np. „30690 – 30730”.
 
 ## Czego HVN nie robi
 

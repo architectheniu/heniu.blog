@@ -24,22 +24,22 @@ Contratos, ações de empresas e cotas de fundo são unidades diferentes, por is
 
 ## Como medimos na ponte de comando
 
-- **Eixo comum:** o nível do índice NDX, de 10 em 10 pontos. O Heniu converte o preço do NQ para esse eixo pela base (NQ − NDX) e o preço do QQQ pela proporção (NDX / QQQ). As duas relações são medidas ao vivo na sessão à vista — a mediana das últimas 600 medições — e guardadas para a noite.
+- **Eixo comum:** o nível do índice NDX, de 10 em 10 pontos. O Heniu converte o preço do NQ para esse eixo pela base (NQ − NDX) e o preço do QQQ pela proporção (NDX / QQQ). As duas relações são medidas ao vivo na sessão à vista e guardadas para a noite.
 - **Horários:** o NQ conta no horário de negociação da CME; o NDX e o QQQ, na sessão à vista.
-- **Volume:** o volume do candle de 15 minutos em curso, lido da tela do TradingView por uma extensão do navegador. O candle cresce durante 15 minutos; o Heniu soma cada aumento do seu volume ao nível em que o preço estava naquele momento, e só ao longo da mais longa sequência não decrescente de leituras, por isso picos momentâneos de leitura (por ex. 1.560 → 16.720 → 1.560) nunca entram no perfil.
+- **Volume:** o volume dos candles de 15 minutos, distribuído pelos níveis em que o preço estava enquanto os negócios aconteciam.
 - **Janela:** os últimos 5 dias de negociação da CME; o dia de negociação começa às 18:00, horário de Nova York.
 - **Nó:** um nível que é o mais forte num raio de 2 níveis para cada lado (±20 pontos) e tem pelo menos metade da participação do nível mais forte de todo o perfil.
-- **Rompimento:** o preço (no eixo NDX) precisa ficar pelo menos 5 pontos além do nível. Os rompimentos se alternam (para cima, depois para baixo), no máximo uma vez a cada 10 minutos por nível. O Heniu aceita um salto do preço do NQ de mais de 60 pontos só depois que ele se mantém por 2 minutos — um fusível contra erros de leitura.
+- **Rompimento:** o preço precisa ficar pelo menos 5 pontos além do nível. Os rompimentos se alternam (para cima, depois para baixo), no máximo uma vez a cada 10 minutos por nível.
 
 ## Como os HVN aparecem nos Logs
 
-A ponte registra três tipos de eventos, e o Sábio os anota no T-Log seguinte:
+O Heniu registra três tipos de eventos no T-Log seguinte:
 
 - **novo nó** — por ex. "nó HVN no nível NDX 30660 (NQ ≈ 30887)", com a participação de cada um dos três mercados no volume de 5 dias;
 - **barreira conquistada** — um nó rompido para cima;
 - **suporte derrubado** — um nó rompido para baixo.
 
-O nível está sempre no eixo NDX; entre parênteses vem o seu equivalente aproximado no NQ, porque a base entre o contrato e o índice muda de um dia para outro. Quando os eventos tocam vários níveis vizinhos, o Sábio os junta numa zona, por ex. "30690 – 30730".
+O nível está sempre no eixo NDX; entre parênteses vem o seu equivalente aproximado no NQ, porque a base entre o contrato e o índice muda de um dia para outro. Quando os eventos tocam vários níveis vizinhos, o Heniu os junta numa zona, por ex. "30690 – 30730".
 
 ## O que um HVN não faz
 
