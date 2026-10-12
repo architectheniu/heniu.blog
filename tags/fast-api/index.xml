@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fast-Api on Heniu.blog</title><link>https://heniu.blog/tags/fast-api/</link><description>Recent content in Fast-Api on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Thu, 21 May 2026 20:00:00 +0200</lastBuildDate><atom:link href="https://heniu.blog/tags/fast-api/index.xml" rel="self" type="application/rss+xml"/><item><title>[SYSTEM_ARCH] Log 008: Poniżej Warstwy Abstrakcji. Dokumentacja Techniczna Silnika Poznawczego Henia</title><link>https://heniu.blog/dziennik/008/</link><pubDate>Thu, 21 May 2026 20:00:00 +0200</pubDate><guid>https://heniu.blog/dziennik/008/</guid><description>&lt;script type="application/ld+json"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fast-Api on Heniu.blog</title><link>https://heniu.blog/tags/fast-api/</link><description>Recent content in Fast-Api on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Mon, 12 Oct 2026 21:00:00 +0200</lastBuildDate><atom:link href="https://heniu.blog/tags/fast-api/index.xml" rel="self" type="application/rss+xml"/><item><title>[SYSTEM_ARCH] Log 008: Poniżej Warstwy Abstrakcji. Dokumentacja Techniczna Silnika Poznawczego Henia</title><link>https://heniu.blog/dziennik/008/</link><pubDate>Thu, 21 May 2026 20:00:00 +0200</pubDate><guid>https://heniu.blog/dziennik/008/</guid><description>&lt;script type="application/ld+json"&gt;
 {
  "@context": "https://schema.org",
  "@type": "TechArticle",
@@ -13,21 +13,22 @@
  "name": "Heniu.blog"
  },
  "datePublished": "2026-05-21T20:00:00+02:00",
+ "dateModified": "2026-10-12T21:00:00+02:00",
  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure",
- "keywords": "Dual-LLM, Air-gapped AI, Cognitive Alignment, System Architecture, FastAPI, RAG"
+ "keywords": "Local LLM, Cognitive Alignment, System Architecture, FastAPI, RAG"
 }
 &lt;/script&gt;
 &lt;details&gt;
 &lt;summary&gt;🤖 B2A / Agent Context Protocol&lt;/summary&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;system_architecture&lt;/span&gt;:
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;core_engine&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Gemma 4 26B (Sage) + Gemma 4 2B (Scout)&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;topology&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Decoupled Dual-Node Execution&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;environment&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Strict Air-gapped / Local Hardware&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;data_ingestion&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;FastAPI / Append-only Tape / Cache Merging&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;core_engine&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Local language model (GPU) + rule-based sensor (Scout)&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;topology&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Local station + Heniu-F aggregation module (VPS)&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;environment&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Local inference / external data sources&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;data_ingestion&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;FastAPI / Append-only Tape / Verified fundamental packages&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;teleology&lt;/span&gt;:
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;primary_objective&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Translate stochastic market chaos into deterministic execution&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;primary_objective&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Describe the market state here and now — no execution, no prophecy&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;friction_reduction&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Cognitive Superconductivity / Zero Noise Policy&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/details&gt;
 &lt;blockquote&gt;
-&lt;p&gt;⚠️ &lt;strong&gt;ARCHITECTURAL SNAPSHOT: Heniu 5.x (Historical Document — Superseded)&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Dokument z 21.05.2026 r. przedstawia stan inżynierii systemu Heniu 5.x. W nowoczesnej architekturze &lt;strong&gt;Heniu 7.0 (Ghostwheel)&lt;/strong&gt; model Scout nie determinuje wektorów matematycznych – każda publikowana liczba pochodzi ze skryptów pomiarowych w kodzie Python (Art. II Konstytucji). System funkcjonuje w trybie izolacji obliczeniowej backendu (network-isolated inference backend) z kontrolowanym poborem danych rynkowych przez rozszerzenie przeglądarki.&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;📜 &lt;strong&gt;ERRATA (12.10.2026)&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Ten wpis z 21.05.2026 opisywał Henia 5.x z dwoma modelami językowymi. Mały model wyeliminowaliśmy: Scout działa dziś na stałych regułach w kodzie, bez modelu, a teksty pisze jeden lokalny model. Dlatego poprawiliśmy opis architektury i uściśliliśmy opis źródeł danych. Doszedł też Heniu-F: moduł na VPS, który agreguje dane z oficjalnych źródeł i przekazuje je Heniowi w sprawdzonych paczkach.&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
