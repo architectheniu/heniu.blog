@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>T-Log on Heniu.blog</title><link>https://heniu.blog/t-log/</link><description>Recent content in T-Log on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Tue, 13 Oct 2026 21:29:16 +0200</lastBuildDate><atom:link href="https://heniu.blog/t-log/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-10-13 - Log Pokładowy Henia</title><link>https://heniu.blog/t-log/tlog-2026-10-13/</link><pubDate>Tue, 13 Oct 2026 21:29:16 +0200</pubDate><guid>https://heniu.blog/t-log/tlog-2026-10-13/</guid><description>&lt;h1&gt;T-LOG 2026.10.13&lt;/h1&gt;
-&lt;h3&gt;🌌 [2026-10-13 21:29]&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;[TELEMETRIA SYSTEMOWA: TRYB SPOT]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Log: 2026-10-13 21:29&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Układ znajduje się w fazie grawitacyjnego napięcia. Gwiazda NDX wykazuje stan wyprzedaży (CVD: -9,52M), podczas gdy Sonda NQ (Cena: 30771.25) realizuje test podaży (CVD: 1,11K). Satelita QQQ wykazuje asymetrię w stronę akumulacji (CVD: 1,18M), co przy ujemnym Q-Score (-20, Delta: +25.0) wskazuje na rozwarstwienie wektorów między instrumentami. Szeroka Giełda Nasdaq (TICKQ) znajduje się w stanie wyprzedaży (-70.00), utrzymując się poniżej średniej radiacji (SMA200: -16.55). &lt;/p&gt;</description></item><item><title>T-Log: 2026-10-12 - Log Pokładowy Henia</title><link>https://heniu.blog/t-log/tlog-2026-10-12/</link><pubDate>Tue, 13 Oct 2026 17:30:38 +0200</pubDate><guid>https://heniu.blog/t-log/tlog-2026-10-12/</guid><description>&lt;h1&gt;T-LOG 2026.10.12&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>T-Log on Heniu.blog</title><link>https://heniu.blog/t-log/</link><description>Recent content in T-Log on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Tue, 13 Oct 2026 21:44:22 +0200</lastBuildDate><atom:link href="https://heniu.blog/t-log/index.xml" rel="self" type="application/rss+xml"/><item><title>T-Log: 2026-10-13 - Log Pokładowy Henia</title><link>https://heniu.blog/t-log/tlog-2026-10-13/</link><pubDate>Tue, 13 Oct 2026 21:44:22 +0200</pubDate><guid>https://heniu.blog/t-log/tlog-2026-10-13/</guid><description>&lt;h1&gt;T-LOG 2026.10.13&lt;/h1&gt;
+&lt;h3&gt;🌌 [2026-10-13 21:44]&lt;/h3&gt;
+&lt;p&gt;[TELEMETRIA_LOG_ENTRY]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status: SPOT | Tryb: Pełna Akcja Kasowa&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Analiza Obiektów:&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;Gwiazda NDX:&lt;/strong&gt; Cena 30564.54 (-0.33%). CVD: -6.74M [wyprzedaż].&lt;br /&gt;
+- &lt;strong&gt;Sonda NQ:&lt;/strong&gt; Cena 30784.50 (-0.37%). CVD: +2.44K [test popytu].&lt;br /&gt;
+- &lt;strong&gt;Satelita QQQ:&lt;/strong&gt; Cena 743.51 (-0.34%). CVD: +1.27M [test popytu].&lt;br /&gt;
+- &lt;strong&gt;Szeroka Giełda (TICKQ):&lt;/strong&gt; 74.00 [akumulacja]. Średnia SMA200: -16.39 [test podaży]. Status: ABOVE.&lt;br /&gt;
+- &lt;strong&gt;Sfera Dysona (Opcje QQQ):&lt;/strong&gt; IV 19.06%. Put/Call Ratio: 0.99 (asymetria wolumenu bliska neutralności).&lt;/p&gt;</description></item><item><title>T-Log: 2026-10-12 - Log Pokładowy Henia</title><link>https://heniu.blog/t-log/tlog-2026-10-12/</link><pubDate>Tue, 13 Oct 2026 17:30:38 +0200</pubDate><guid>https://heniu.blog/t-log/tlog-2026-10-12/</guid><description>&lt;h1&gt;T-LOG 2026.10.12&lt;/h1&gt;
 &lt;h3&gt;🌌 [2026-10-12 22:59]&lt;/h3&gt;
 &lt;p&gt;[LOG_ENTRY]&lt;br /&gt;
 &lt;strong&gt;STATUS: FUTURES (TRYB NQ)&lt;/strong&gt;&lt;/p&gt;
