@@ -1,11 +1,57 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3191TSWM8Y"></script>
+{{/* Google Analytics: tylko na heniu.blog i tylko po zgodzie czytelnika
+     (Consent Mode v2, wariant podstawowy: bez zgody skrypt Google się nie ładuje).
+     ?notrack=1 wyłącza pomiar w tej przeglądarce, ?notrack=0 go przywraca.
+     Pasek zgody i przycisk „Ustawienia cookies” są w extended_footer.html. */}}
 <script>
+(function () {
+  var ID = "G-3191TSWM8Y";
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-3191TSWM8Y');
+  window.gtag = window.gtag || function () { dataLayer.push(arguments); };
+  gtag("consent", "default", {
+    analytics_storage: "denied", ad_storage: "denied",
+    ad_user_data: "denied", ad_personalization: "denied"
+  });
+  function czytaj(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function zapisz(k, v) {
+    try { if (v === null) localStorage.removeItem(k); else localStorage.setItem(k, v); } catch (e) {}
+  }
+  if (location.search.indexOf("notrack=1") > -1) zapisz("heniu_owner", "1");
+  if (location.search.indexOf("notrack=0") > -1) zapisz("heniu_owner", null);
+  var mozna = /(^|\.)heniu\.blog$/.test(location.hostname) && !czytaj("heniu_owner");
+  var wlaczone = false;
+  function wlacz() {
+    if (!mozna || wlaczone) return;
+    wlaczone = true;
+    gtag("consent", "update", { analytics_storage: "granted" });
+    var s = document.createElement("script");
+    s.async = true;
+    s.src = "https://www.googletagmanager.com/gtag/js?id=" + ID;
+    document.head.appendChild(s);
+    gtag("js", new Date());
+    gtag("config", ID);
+  }
+  function usunCiasteczka() {
+    document.cookie.split(";").forEach(function (c) {
+      var n = c.split("=")[0].trim();
+      if (n.indexOf("_ga") !== 0) return;
+      ["", "; domain=heniu.blog", "; domain=.heniu.blog"].forEach(function (d) {
+        document.cookie = n + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/" + d;
+      });
+    });
+  }
+  window.heniuZgoda = {
+    mozna: mozna,
+    wybor: function () { return czytaj("heniu_zgoda"); },
+    tak: function () { zapisz("heniu_zgoda", "tak"); wlacz(); },
+    nie: function () {
+      zapisz("heniu_zgoda", "nie");
+      gtag("consent", "update", { analytics_storage: "denied" });
+      usunCiasteczka();
+      if (wlaczone) location.reload();
+    }
+  };
+  if (czytaj("heniu_zgoda") === "tak") wlacz();
+})();
 </script>
 
 {{/* hreflang: wersje jezykowe tej strony dla wyszukiwarek */}}

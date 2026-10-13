@@ -1,6 +1,8 @@
 baseURL = "https://heniu.blog/"
 title = "Heniu.blog"
 theme = "terminal"
+# robots.txt z layouts/robots.txt: wszystkie roboty, także AI (13.10.2026)
+enableRobotsTXT = true
 
 # --- WIELOJEZYCZNOSC (od 10.08.2026) ---
 # PL = jezyk kanoniczny, bez prefiksu (stare adresy bez zmian).
