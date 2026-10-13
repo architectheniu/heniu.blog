@@ -1,1 +1,43 @@
 <!-- Stopka rozszerzona: RSS przeniesiony nad listę logów (10.08.2026, decyzja Architekta). -->
+{{/* Pasek zgody na cookies (13.10.2026). Logika zgody: extended_head.html (window.heniuZgoda). */}}
+{{- $teksty := dict
+  "pl" (dict "tekst" "Heniu.blog może liczyć odwiedziny przez Google Analytics, które zapisuje pliki cookie. Bez Twojej zgody nic nie jest zapisywane." "tak" "Akceptuję" "nie" "Odrzucam" "ustawienia" "Ustawienia cookies" "etykieta" "Zgoda na pliki cookie")
+  "en" (dict "tekst" "Heniu.blog can count visits with Google Analytics, which stores cookies. Nothing is stored without your consent." "tak" "Accept" "nie" "Decline" "ustawienia" "Cookie settings" "etykieta" "Cookie consent")
+  "pt-br" (dict "tekst" "O Heniu.blog pode contar as visitas com o Google Analytics, que grava cookies. Sem o seu consentimento, nada é gravado." "tak" "Aceito" "nie" "Recuso" "ustawienia" "Configurações de cookies" "etykieta" "Consentimento de cookies") -}}
+{{- $t := index $teksty .Site.Language.Lang | default (index $teksty "pl") }}
+<div id="heniu-zgoda" class="heniu-zgoda" role="region" aria-label="{{ $t.etykieta }}" hidden>
+  <p>{{ $t.tekst }}</p>
+  <div class="heniu-zgoda__przyciski">
+    <button type="button" data-zgoda="tak">{{ $t.tak }}</button>
+    <button type="button" data-zgoda="nie">{{ $t.nie }}</button>
+  </div>
+</div>
+<p class="heniu-zgoda__stopka" hidden><button type="button" id="heniu-zgoda-ustawienia">{{ $t.ustawienia }}</button></p>
+<style>
+.heniu-zgoda{position:fixed;left:12px;right:12px;bottom:12px;z-index:1000;max-width:640px;margin:0 auto;padding:12px 14px;background:var(--background,#1a170f);color:var(--foreground,#eceae5);border:1px solid var(--accent,#eec35e);box-shadow:0 4px 18px rgba(0,0,0,.45);font-size:.9rem;line-height:1.45}
+.heniu-zgoda[hidden],.heniu-zgoda__stopka[hidden]{display:none}
+.heniu-zgoda p{margin:0 0 10px}
+.heniu-zgoda__przyciski{display:flex;flex-wrap:wrap;gap:10px}
+.heniu-zgoda button{font:inherit;cursor:pointer;padding:6px 14px;border:1px solid var(--accent,#eec35e);background:transparent;color:var(--foreground,#eceae5)}
+.heniu-zgoda button[data-zgoda="tak"]{background:var(--accent,#eec35e);color:var(--background,#1a170f)}
+.heniu-zgoda__stopka{text-align:center;margin:0 0 18px;font-size:.8rem;opacity:.75}
+.heniu-zgoda__stopka button{font:inherit;cursor:pointer;background:none;border:0;padding:0;color:inherit;text-decoration:underline}
+</style>
+<script>
+(function () {
+  var z = window.heniuZgoda, pasek = document.getElementById("heniu-zgoda"),
+      stopka = document.querySelector(".heniu-zgoda__stopka");
+  if (!z || !z.mozna || !pasek) return;
+  if (stopka) stopka.hidden = false;
+  if (!z.wybor()) pasek.hidden = false;
+  pasek.addEventListener("click", function (e) {
+    var b = e.target.closest("button[data-zgoda]");
+    if (!b) return;
+    pasek.hidden = true;
+    if (b.getAttribute("data-zgoda") === "tak") z.tak(); else z.nie();
+  });
+  document.getElementById("heniu-zgoda-ustawienia").addEventListener("click", function () {
+    pasek.hidden = false;
+  });
+})();
+</script>
