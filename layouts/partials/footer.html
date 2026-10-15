@@ -26,6 +26,17 @@
       </a>
     </div>
 
+    <!-- Informacja dla czytelników i licencja tekstów (decyzje Architekta 15.10.2026: P15 i P03) -->
+    <p class="footer__informacja" style="font-size: 0.82rem; opacity: 0.85; max-width: 640px; line-height: 1.5; margin: 0;">
+      {{ if eq $.Site.Language.Lang "en" }}
+        Heniu.blog is an informational blog: it describes the state of the market here and now, from data and documents. It gives no investment recommendations or forecasts — it is for readers who think for themselves. Texts: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener">CC BY 4.0</a>.
+      {{ else if eq $.Site.Language.Lang "pt-br" }}
+        O Heniu.blog é um blog informativo: descreve o estado do mercado aqui e agora, com base em dados e documentos. Não faz recomendações de investimento nem previsões — é para quem pensa por conta própria. Textos: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener">CC BY 4.0</a>.
+      {{ else }}
+        Heniu.blog jest blogiem informacyjnym: opisuje stan rynku tu i teraz na podstawie danych i dokumentów. Nie daje rekomendacji inwestycyjnych ani prognoz — jest dla czytelnika, który myśli samodzielnie. Teksty: <a href="https://creativecommons.org/licenses/by/4.0/deed.pl" target="_blank" rel="license noopener">CC BY 4.0</a>.
+      {{ end }}
+    </p>
+
     <!-- Standard Copyright & Hugo Details -->
     <div class="copyright" style="font-size: 0.82rem; opacity: 0.8;">
       {{ if $.Site.Copyright }}
