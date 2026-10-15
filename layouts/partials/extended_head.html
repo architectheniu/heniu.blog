@@ -54,17 +54,20 @@
 })();
 </script>
 
-{{/* hreflang: wersje jezykowe tej strony dla wyszukiwarek */}}
+{{/* hreflang: wersje jezykowe tej strony dla wyszukiwarek; x-default = wersja polska (SEO, 15.10.2026) */}}
 {{ if .IsTranslated }}
 {{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
-{{ end }}{{ end }}
+{{ end }}{{ range .AllTranslations }}{{ if eq .Language.Lang "pl" }}<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ end }}{{ end }}{{ end }}
 
 {{/* Auto-wybor jezyka wg przegladarki: tylko strona glowna PL, tylko raz,
-     zapamietywany w localStorage — przelacznik jezyka zawsze wygrywa. */}}
+     zapamietywany w localStorage — przelacznik jezyka zawsze wygrywa.
+     Roboty wyszukiwarek nie sa przekierowywane: inaczej widza / i /en/ jako ta sama strone (15.10.2026). */}}
 {{ if and .IsHome (eq .Language.Lang "pl") }}
 <script>
 (function () {
   try {
+    if (navigator.webdriver || /bot|crawl|spider|slurp|preview|lighthouse|facebookexternalhit/i.test(navigator.userAgent)) return;
     if (localStorage.getItem("heniu_lang_auto")) return;
     localStorage.setItem("heniu_lang_auto", "1");
     var l = (navigator.language || "").toLowerCase();

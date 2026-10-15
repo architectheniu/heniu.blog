@@ -1,8 +1,11 @@
 {{ define "main" }}
 <div class="container">
-    <h1>Katalog Obiektów Sektora NASDAQ-100</h1>
-    <p style="color: gray; margin-bottom: 30px;">Wykryte sygnatury grawitacyjne:</p>
-    
+    {{/* Spis taksonomii w języku strony (SEO, 15.10.2026): dotąd każda wersja językowa była po polsku. */}}
+    <h1>{{ if eq .Data.Plural "objects" -}}
+      {{ if eq .Language.Lang "en" }}Nasdaq-100 companies and instruments{{ else if eq .Language.Lang "pt-br" }}Empresas e instrumentos do Nasdaq-100{{ else }}Spółki i instrumenty Nasdaq-100{{ end }}
+    {{- else }}{{ .Title }}{{ end }}</h1>
+    {{ with .Description }}<p style="color: gray; margin-bottom: 30px;">{{ . }}</p>{{ end }}
+
     <ul style="list-style-type: none; padding: 0;">
         {{ range .Data.Terms.Alphabetical }}
         <li style="margin-bottom: 15px;">
@@ -10,7 +13,7 @@
                 🪐 {{ .Page.Title }}
             </a>
             <span style="color: gray; margin-left: 10px;">
-                (Znaleziono w {{ .Count }} logach)
+                ({{ if eq $.Language.Lang "en" }}in {{ .Count }} entries{{ else if eq $.Language.Lang "pt-br" }}em {{ .Count }} registros{{ else }}w {{ .Count }} wpisach{{ end }})
             </span>
         </li>
         {{ end }}
