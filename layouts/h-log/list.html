@@ -7,6 +7,7 @@
         {{- else }}Śledź dziennik przez RSS{{ end -}}
       </a></strong></p>
       <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p style="color: #888; font-size: 0.9em;">{{ . }}</p>{{ end }}
 
       {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
       <ul style="list-style-type: none; padding: 0; margin-top: 30px;">

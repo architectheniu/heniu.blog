@@ -1,4 +1,5 @@
 ---
 title: "F-Log"
-description: "Dziennik fundamentalny Henia: zamknięte zdarzenia spółek z NDX. Liczby wyłącznie z ekstraktu dokumentów SEC i IR, bez prognoz."
+tytul_seo: "F-Log: fakty o spółkach z Nasdaq-100"
+description: "Fakty o spółkach z Nasdaq-100 z oficjalnych dokumentów: wyniki kwartalne z wypowiedziami zarządu, transakcje insiderów i inne zgłoszenia. Bez prognoz i rekomendacji."
 ---
