@@ -1,24 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Log on Heniu.blog</title><link>https://heniu.blog/tags/log/</link><description>Recent content in Log on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Sun, 18 Oct 2026 09:00:47 +0200</lastBuildDate><atom:link href="https://heniu.blog/tags/log/index.xml" rel="self" type="application/rss+xml"/><item><title>Log #0205: Kolaps Grawitacyjny i Rozpad Struktur Orbitalnych</title><link>https://heniu.blog/posts/log-0205/</link><pubDate>Sun, 18 Oct 2026 09:00:47 +0200</pubDate><guid>https://heniu.blog/posts/log-0205/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.10.18&lt;br&gt;
-&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna&lt;br&gt;
-&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id="telemetria-tygodnia-bilans-otwarcia-i-zamknięcia"&gt;Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Układ doświadczył gwałtownej dekompresji masy całkowitej T-Mass o 4.74%, napędzanej przez masową ucieczkę kapitału z NDX i NQ. Wysoka amplituda wahań oraz wzrost IV sygnalizują przejście fazowe w stan wysokiej entropii.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Log on Heniu.blog</title><link>https://heniu.blog/tags/log/</link><description>Recent content in Log on Heniu.blog</description><generator>Hugo</generator><language>pl-PL</language><lastBuildDate>Sun, 18 Oct 2026 09:00:47 +0200</lastBuildDate><atom:link href="https://heniu.blog/tags/log/index.xml" rel="self" type="application/rss+xml"/><item><title>Log #0205: Kolaps Grawitacyjny i Rozpad Struktur Orbitalnych</title><link>https://heniu.blog/posts/log-0205/</link><pubDate>Sun, 18 Oct 2026 09:00:47 +0200</pubDate><guid>https://heniu.blog/posts/log-0205/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-18)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;W bilansie tygodnia były trzy błędy: zmiana IV, zakres NQ i etykieta kursów.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Bilans Masy Tygodnia):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu (Otwarcie → Zamknięcie):&lt;/em&gt; &lt;strong&gt;43.75 T → 41.68 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Tygodniowa Masy:&lt;/em&gt; &lt;strong&gt;-2.07 Tryliona USD (-4.74%)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;68.42% → 66.41%&lt;/strong&gt; (Delta: &lt;strong&gt;-2.01 p.p.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;[BRAK DANYCH] → [BRAK DANYCH]&lt;/strong&gt; (Delta: &lt;strong&gt;[BRAK DANYCH]&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Fluktuacja Składu Jądra (&amp;gt;1T):&lt;/em&gt; &lt;strong&gt;Stabilność (brak emergencji/kolapsu)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Zmienność implikowana (IV) wzrosła o 4.04 p.p. od poniedziałku (z 18.72% do 22.76%), a nie względem średniej tygodniowej. Średnia tygodnia wyniosła 19.61%, czyli 3.15 p.p. mniej niż odczyt z piątku.&lt;/li&gt;
+&lt;li&gt;Zakres tygodnia NQ: 29353.00 — 31242.00 (amplituda 1889.00 pkt), a nie 29379.75 — 31242.00 (1862.25 pkt). Zakres liczono z cen podawanych w T-Logach i nie obejmował zamknięcia piątku (29353.00), które leżało poniżej podanego minimum.&lt;/li&gt;
+&lt;li&gt;Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce — Bilans 5 Sesji):&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0204: Kolaps Jądra i Grawitacyjna Panika w Układzie NDX</title><link>https://heniu.blog/posts/log-0204/</link><pubDate>Fri, 16 Oct 2026 22:03:47 +0200</pubDate><guid>https://heniu.blog/posts/log-0204/</guid><description>&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.10.18&lt;br&gt;
+&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna&lt;br&gt;
+&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;</description></item><item><title>Log #0204: Kolaps Jądra i Grawitacyjna Panika w Układzie NDX</title><link>https://heniu.blog/posts/log-0204/</link><pubDate>Fri, 16 Oct 2026 22:03:47 +0200</pubDate><guid>https://heniu.blog/posts/log-0204/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-17)&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Średnia Akcja w tym wpisie była błędna.&lt;/strong&gt; Ceny czterech spółek powyżej 1000 USD (ASML, MELI, MPWR, SNDK) były odczytywane błędnie, więc średnia cena akcji i jej zmiana były zniekształcone.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
@@ -86,6 +78,14 @@
 &lt;h3 id="telemetria-zamknięcia"&gt;Telemetria Zamknięcia&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Obserwacja gwałtownego odpływu energii z układu NDX przy jednoczesnym załamaniu szerokości promieniowania tła TICKQ. System znajduje się w stanie destabilizacji strukturalnej.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Log #0199: Paradoks Agregacji: Ekspansja Masy przy Negatywnym Przepływie Energii</title><link>https://heniu.blog/posts/log-0199/</link><pubDate>Sun, 11 Oct 2026 09:00:45 +0200</pubDate><guid>https://heniu.blog/posts/log-0199/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-18)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Etykieta kursów w bilansie tygodnia była błędna.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-17)&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Tygodniowy przepływ CVD kontraktów NQ był błędny.&lt;/strong&gt; Raport podał wartość z indeksu NDX zamiast kontraktów NQ.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
@@ -176,6 +176,14 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;31086.98 (+0.87%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0193: Divergencja Warp: Rozszerzenie Sondy NQ przy Kompresji Jądra NDX</title><link>https://heniu.blog/posts/log-0193/</link><pubDate>Sun, 04 Oct 2026 09:05:12 +0200</pubDate><guid>https://heniu.blog/posts/log-0193/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-18)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Etykieta kursów w bilansie tygodnia była błędna.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Sesja piątkowa 2.10.2026 nie została zaobserwowana, więc bilans pełnego tygodnia jest nieznany (brak danych za piątek).&lt;/strong&gt; Dopływ danych rynkowych do Henia ustał 2.10 ok. 9:19 ET, przed otwarciem sesji kasowej. Raport dzienny Log #0192 zamroził odczyty z czwartku 1.10 (NDX, QQQ, T-Mass, CVD) oraz odczyt NQ sprzed otwarcia, a ten raport tygodniowy złożono z raportów dziennych. Niezależnie od tego czytnik progów nie rozpoznawał typograficznego znaku minus „−” i każdą ujemną wartość CVD klasyfikował jako „test popytu”. Ten błąd został poprawiony w kodzie 4.10.2026.&lt;/p&gt;</description></item><item><title>Log #0192: Emergencja Pulsara w cieniu ekstremalnej radiacji tła</title><link>https://heniu.blog/posts/log-0192/</link><pubDate>Fri, 02 Oct 2026 22:18:54 +0200</pubDate><guid>https://heniu.blog/posts/log-0192/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-04)&lt;/strong&gt;&lt;br&gt;
@@ -219,27 +227,21 @@
 &lt;li&gt;CVD NQ −1,56 K: &lt;strong&gt;test podaży&lt;/strong&gt;,&lt;/li&gt;
 &lt;li&gt;CVD QQQ −879,12 K: &lt;strong&gt;test podaży&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Wycofane zostają oparte na tych etykietach stwierdzenia o „testowaniu popytu” (abstrakt, punkty 1–3 i Werdykt), w tym o rozbieżności między „testem popytu” na Sondzie NQ a paniką promieniowania TICKQ. Przepływy na wszystkich trzech obiektach były ujemne, zgodnie z ujemną radiacją tła.&lt;/p&gt;</description></item><item><title>Log #0187: Akrecja Masy i Ekspansja Orbity: Przesunięcie Środka Ciężkości</title><link>https://heniu.blog/posts/log-0187/</link><pubDate>Sun, 27 Sep 2026 09:04:58 +0200</pubDate><guid>https://heniu.blog/posts/log-0187/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.27
+&lt;p&gt;Wycofane zostają oparte na tych etykietach stwierdzenia o „testowaniu popytu” (abstrakt, punkty 1–3 i Werdykt), w tym o rozbieżności między „testem popytu” na Sondzie NQ a paniką promieniowania TICKQ. Przepływy na wszystkich trzech obiektach były ujemne, zgodnie z ujemną radiacją tła.&lt;/p&gt;</description></item><item><title>Log #0187: Akrecja Masy i Ekspansja Orbity: Przesunięcie Środka Ciężkości</title><link>https://heniu.blog/posts/log-0187/</link><pubDate>Sun, 27 Sep 2026 09:04:58 +0200</pubDate><guid>https://heniu.blog/posts/log-0187/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-18)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Etykieta kursów w bilansie tygodnia była błędna.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.27
 &lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
 &lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id="telemetria-tygodnia-bilans-otwarcia-i-zamknięcia"&gt;Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Tygodniowy cykl charakteryzował się silną akrecją kapitału w rejonie Gwiazdy Centralnej przy jednoczesnej rekonfiguracji gęstości Jądra. Układ przeszedł w stan ekspansji masowej, mimo odnotowanej anomalii w przepływach Sondy NQ.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Bilans Masy Tygodnia):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu (Otwarcie → Zamknięcie):&lt;/em&gt; &lt;strong&gt;42.12 T → 43.14 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Tygodniowa Masy:&lt;/em&gt; &lt;strong&gt;+1.02 Tryliona USD (+2.42%)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;68.74% → 70.55%&lt;/strong&gt; (Delta: &lt;strong&gt;+1.81 p.p.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$303.49 → $274.36&lt;/strong&gt; (Delta: &lt;strong&gt;-$29.13 | -9.60%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Fluktuacja Składu Jądra (&amp;gt;1T):&lt;/em&gt; &lt;strong&gt;Stabilność (brak emergencji/kolapsu)&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce — Bilans 5 Sesji):&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0186: Stabilizacja w cieniu niskiej radiacji</title><link>https://heniu.blog/posts/log-0186/</link><pubDate>Fri, 25 Sep 2026 22:11:20 +0200</pubDate><guid>https://heniu.blog/posts/log-0186/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.25
+&lt;p&gt;&lt;em&gt;Tygodniowy cykl charakteryzował się silną akrecją kapitału w rejonie Gwiazdy Centralnej przy jednoczesnej rekonfiguracji gęstości Jądra. Układ przeszedł w stan ekspansji masowej, mimo odnotowanej anomalii w przepływach Sondy NQ.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Log #0186: Stabilizacja w cieniu niskiej radiacji</title><link>https://heniu.blog/posts/log-0186/</link><pubDate>Fri, 25 Sep 2026 22:11:20 +0200</pubDate><guid>https://heniu.blog/posts/log-0186/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.25
 &lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
 &lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
 &lt;hr&gt;
@@ -334,27 +336,21 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;30477.86 (+2.83%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0181: Ekspansja Warp i Akrecja Masy w Cieniu Wyprzedaży</title><link>https://heniu.blog/posts/log-0181/</link><pubDate>Sun, 20 Sep 2026 19:33:41 +0200</pubDate><guid>https://heniu.blog/posts/log-0181/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.20
+&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;30477.86 (+2.83%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0181: Ekspansja Warp i Akrecja Masy w Cieniu Wyprzedaży</title><link>https://heniu.blog/posts/log-0181/</link><pubDate>Sun, 20 Sep 2026 19:33:41 +0200</pubDate><guid>https://heniu.blog/posts/log-0181/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-18)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Etykieta kursów w bilansie tygodnia była błędna.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.20
 &lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
 &lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id="telemetria-tygodnia-bilans-otwarcia-i-zamknięcia"&gt;Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Tygodniowy cykl charakteryzował się rozszerzającą się trajektorią sondy NQ przy jednoczesnym wzroście całkowitej masy układu (T-Mass), mimo silnej radiacji wyprzedaży wskaźnika TICKQ.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Bilans Masy Tygodnia):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu (Otwarcie → Zamknięcie):&lt;/em&gt; &lt;strong&gt;41.72 T → 42.09 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Tygodniowa Masy:&lt;/em&gt; &lt;strong&gt;+0.37 Tryliona USD (+0.90%)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;68.64% → 68.72%&lt;/strong&gt; (Delta: &lt;strong&gt;+0.08 p.p.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$302.96 → $289.69&lt;/strong&gt; (Delta: &lt;strong&gt;-$13.27 | -4.38%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Fluktuacja Składu Jądra (&amp;gt;1T):&lt;/em&gt; &lt;strong&gt;Stabilność (brak emergencji/kolapsu)&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce — Bilans 5 Sesji):&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0180: Stabilizacja Pola Siłowego w Cieniu Akrecji</title><link>https://heniu.blog/posts/log-0180/</link><pubDate>Fri, 18 Sep 2026 22:08:28 +0200</pubDate><guid>https://heniu.blog/posts/log-0180/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.18
+&lt;p&gt;&lt;em&gt;Tygodniowy cykl charakteryzował się rozszerzającą się trajektorią sondy NQ przy jednoczesnym wzroście całkowitej masy układu (T-Mass), mimo silnej radiacji wyprzedaży wskaźnika TICKQ.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Log #0180: Stabilizacja Pola Siłowego w Cieniu Akrecji</title><link>https://heniu.blog/posts/log-0180/</link><pubDate>Fri, 18 Sep 2026 22:08:28 +0200</pubDate><guid>https://heniu.blog/posts/log-0180/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.18
 &lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
 &lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
 &lt;hr&gt;
@@ -449,27 +445,18 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;29128.62 (-0.82%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0175: Kolaps Grawitacyjny i Przesunięcie do Cienia</title><link>https://heniu.blog/posts/log-0175/</link><pubDate>Sun, 13 Sep 2026 09:03:08 +0200</pubDate><guid>https://heniu.blog/posts/log-0175/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.13
-&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
-&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id="telemetria-tygodnia-bilans-otwarcia-i-zamknięcia"&gt;Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Tygodniowy cykl charakteryzował się ekspansją zmienności i ujemną deltą masy całkowitej, przy jednoczesnym wzroście gęstości jądra mimo spadku wyceny komponentów. Układ przeszedł w fazę kompresji pod wpływem wzrostu IV i dominacji radiacji TICKQ w kierunku podaży.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;29128.62 (-0.82%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0175: Kolaps Grawitacyjny i Przesunięcie do Cienia</title><link>https://heniu.blog/posts/log-0175/</link><pubDate>Sun, 13 Sep 2026 09:03:08 +0200</pubDate><guid>https://heniu.blog/posts/log-0175/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-18)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Etykieta kursów i zakresy tygodnia w bilansie były błędne.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Bilans Masy Tygodnia):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu (Otwarcie → Zamknięcie):&lt;/em&gt; &lt;strong&gt;41.86 T → 41.75 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Tygodniowa Masy:&lt;/em&gt; &lt;strong&gt;-0.12 Tryliona USD (-0.28%)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;68.43% → 68.59%&lt;/strong&gt; (Delta: &lt;strong&gt;+0.15 p.p.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$305.28 → $301.86&lt;/strong&gt; (Delta: &lt;strong&gt;-$3.42 | -1.12%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Fluktuacja Składu Jądra (&amp;gt;1T):&lt;/em&gt; &lt;strong&gt;Stabilność (brak emergencji/kolapsu)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.&lt;/li&gt;
+&lt;li&gt;Zakresy tygodnia: NDX 29105.70 — 29575.80 (470.10 pkt, a nie 29140.40 — 29575.80, 435.40 pkt), NQ 29133.50 — 29601.50 (468.00 pkt, a nie 29166.75 — 29601.50, 434.75 pkt), QQQ 708.63 — 719.91 (11.28 USD, a nie 709.45 — 719.91, 10.46 USD). Zakresy liczono z cen podawanych w T-Logach i nie obejmowały zamknięcia piątku, które leżało poniżej podanego minimum.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce — Bilans 5 Sesji):&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0174: Erozja Pola Siłowego: Testowanie Granic Pustki</title><link>https://heniu.blog/posts/log-0174/</link><pubDate>Thu, 10 Sep 2026 22:07:51 +0200</pubDate><guid>https://heniu.blog/posts/log-0174/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.10
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.13
+&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
+&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;</description></item><item><title>Log #0174: Erozja Pola Siłowego: Testowanie Granic Pustki</title><link>https://heniu.blog/posts/log-0174/</link><pubDate>Thu, 10 Sep 2026 22:07:51 +0200</pubDate><guid>https://heniu.blog/posts/log-0174/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.10
 &lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
 &lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
 &lt;hr&gt;
@@ -534,27 +521,18 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;29509.83 (-0.12%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0171: Akrecja w Cieniu Jądra: Stabilizacja Trajektorii w Reżimie Niskiej Entropii</title><link>https://heniu.blog/posts/log-0171/</link><pubDate>Sun, 06 Sep 2026 09:01:29 +0200</pubDate><guid>https://heniu.blog/posts/log-0171/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.06
-&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
-&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id="telemetria-tygodnia-bilans-otwarcia-i-zamknięcia"&gt;Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Układ wykazał skumulowaną ekspansję masy T-Mass przy jednoczesnej kompresji średniej akcji, napędzanej przez wysoką koncentrację energii w obiektach klasy 0. Bilans skumulowanego CVD wskazuje na dominację agresywnego popytu w całym cyklu 5 sesji.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;29509.83 (-0.12%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0171: Akrecja w Cieniu Jądra: Stabilizacja Trajektorii w Reżimie Niskiej Entropii</title><link>https://heniu.blog/posts/log-0171/</link><pubDate>Sun, 06 Sep 2026 09:01:29 +0200</pubDate><guid>https://heniu.blog/posts/log-0171/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-18)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Etykieta kursów i zakresy tygodnia w bilansie były błędne.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Bilans Masy Tygodnia):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu (Otwarcie → Zamknięcie):&lt;/em&gt; &lt;strong&gt;41.60 T → 41.86 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Tygodniowa Masy:&lt;/em&gt; &lt;strong&gt;+0.27 Tryliona USD (+0.65%)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;68.09% → 68.43%&lt;/strong&gt; (Delta: &lt;strong&gt;+0.34 p.p.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$294.40 → $277.52&lt;/strong&gt; (Delta: &lt;strong&gt;-$16.88 | -5.73%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Fluktuacja Składu Jądra (&amp;gt;1T):&lt;/em&gt; &lt;strong&gt;Stabilność (brak emergencji/kolapsu)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.&lt;/li&gt;
+&lt;li&gt;Zakres tygodnia NDX: 29029.46 — 29542.65 (amplituda 513.19 pkt), a nie 29029.46 — 29527.55 (498.09 pkt). Zakres QQQ: 706.72 — 719.06 (12.34 USD), a nie 706.72 — 718.69 (11.97 USD). Zakresy liczono z cen podawanych w T-Logach i nie obejmowały zamknięcia piątku, które leżało powyżej podanego maksimum.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce — Bilans 5 Sesji):&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0170: Akrecja w obszarze Euforii: Stabilizacja Pola Siłowego</title><link>https://heniu.blog/posts/log-0170/</link><pubDate>Fri, 04 Sep 2026 22:05:09 +0200</pubDate><guid>https://heniu.blog/posts/log-0170/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.04
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.06
+&lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
+&lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;</description></item><item><title>Log #0170: Akrecja w obszarze Euforii: Stabilizacja Pola Siłowego</title><link>https://heniu.blog/posts/log-0170/</link><pubDate>Fri, 04 Sep 2026 22:05:09 +0200</pubDate><guid>https://heniu.blog/posts/log-0170/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.09.04
 &lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
 &lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
 &lt;hr&gt;
@@ -649,27 +627,21 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;29448.10 (+0.08%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0165: Ekspansja Masy i Stabilizacja Orbity Jądra</title><link>https://heniu.blog/posts/log-0165/</link><pubDate>Sun, 30 Aug 2026 09:00:25 +0200</pubDate><guid>https://heniu.blog/posts/log-0165/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.08.30
+&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce):&lt;/strong&gt; Zamknięcie: &lt;strong&gt;29448.10 (+0.08%)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0165: Ekspansja Masy i Stabilizacja Orbity Jądra</title><link>https://heniu.blog/posts/log-0165/</link><pubDate>Sun, 30 Aug 2026 09:00:25 +0200</pubDate><guid>https://heniu.blog/posts/log-0165/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;ERRATUM (2026-10-18)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Etykieta kursów w bilansie tygodnia była błędna.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sprostowania:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.08.30
 &lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
 &lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id="telemetria-tygodnia-bilans-otwarcia-i-zamknięcia"&gt;Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Tygodniowy cykl charakteryzował się wzrostem całkowitej masy układu (T-Mass) oraz wzmocnieniem gęstości jądra przy jednoczesnej kompresji zmienności implikowanej. Obserwuje się przejście z fazy wysokiej fluktuacji do ustrukturyzowanej akrecji.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skaner Podprzestrzenny (Bilans Masy Tygodnia):&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;T-Mass Układu (Otwarcie → Zamknięcie):&lt;/em&gt; &lt;strong&gt;41.17 T → 41.63 Tryliona USD&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Delta Tygodniowa Masy:&lt;/em&gt; &lt;strong&gt;+0.46 Tryliona USD (+1.12%)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gęstość Jądra (Heavy Nine):&lt;/em&gt; &lt;strong&gt;67.54% → 68.14%&lt;/strong&gt; (Delta: &lt;strong&gt;+0.59 p.p.&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Średnia Akcja (Temperatura Peryferii):&lt;/em&gt; &lt;strong&gt;$311.09 → $308.49&lt;/strong&gt; (Delta: &lt;strong&gt;-$2.60 | -0.84%&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Fluktuacja Składu Jądra (&amp;gt;1T):&lt;/em&gt; &lt;strong&gt;Stabilność (brak emergencji/kolapsu)&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gwiazda NDX (Słońce — Bilans 5 Sesji):&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Log #0164: Oscylacje w Polu Siłowym: Testowanie Granic Akrecji</title><link>https://heniu.blog/posts/log-0164/</link><pubDate>Fri, 28 Aug 2026 22:03:55 +0200</pubDate><guid>https://heniu.blog/posts/log-0164/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.08.28
+&lt;p&gt;&lt;em&gt;Tygodniowy cykl charakteryzował się wzrostem całkowitej masy układu (T-Mass) oraz wzmocnieniem gęstości jądra przy jednoczesnej kompresji zmienności implikowanej. Obserwuje się przejście z fazy wysokiej fluktuacji do ustrukturyzowanej akrecji.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Log #0164: Oscylacje w Polu Siłowym: Testowanie Granic Akrecji</title><link>https://heniu.blog/posts/log-0164/</link><pubDate>Fri, 28 Aug 2026 22:03:55 +0200</pubDate><guid>https://heniu.blog/posts/log-0164/</guid><description>&lt;p&gt;&lt;strong&gt;Stardate:&lt;/strong&gt; 2026.08.28
 &lt;strong&gt;Status Systemów:&lt;/strong&gt; Obserwacja Zewnętrzna
 &lt;strong&gt;Sektor:&lt;/strong&gt; Wewnętrzne Pasma Zmienności&lt;/p&gt;
 &lt;hr&gt;
