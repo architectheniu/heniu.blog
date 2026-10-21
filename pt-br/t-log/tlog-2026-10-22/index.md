@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 01:00
+Data: 2026-10-22 01:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 01:29]</h3>
+<p><strong>[T-LOG: 2026-10-22 01:29]</strong></p>
+<p><strong>STATUS: A SESSÃO DE FUTUROS (APENAS A SONDA NQ)</strong></p>
+<p>A Sonda NQ encontra-se atualmente no nível 29785.25 (-0.74%), exibindo forte pressão de venda com um valor de CVD de -5,41 K (estado: teste de oferta). Durante a sessão, um evento crítico de volume foi registrado: às 01:03, o suporte HVN do ecossistema US100 foi rompido, ultrapassando o nível 29660 (NQ ≈ 29846). O vetor direcional (Q-Score) oscila em torno de -55, indicando a dominância do vetor negativo. O ADR NQ é atualmente de 40.34%, o que posiciona a volatilidade atual acima das leituras padrão. Na Esfera de Dyson (opções QQQ), observa-se uma assimetria de volume com Put/Call Ratio no nível 1.05, com volatilidade (IV) de 21.41% e alcance esperado no intervalo de 719.28 – 731.12.</p>
+<p><strong>DIAGNÓSTICO: O Sistema está em fase de teste da profundidade da correção com rompimento ativo da barreira de suporte.</strong></p>
 <h3>🌌 [2026-10-22 00:59]</h3>
 <p>[T-LOG: 2026-10-22 00:59]</p>
 <p><strong>STATUS: OPEN | MODO: FUTUROS (NQ ONLY)</strong></p>

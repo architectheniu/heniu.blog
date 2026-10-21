@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 00:59
+Date: 2026-10-22 01:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 01:29]</h3>
+<p><strong>[T-LOG: 2026-10-22 01:29]</strong></p>
+<p><strong>STATUS: THE FUTURES SESSION (ONLY THE NQ PROBE)</strong></p>
+<p>The NQ Probe is currently at 29785.25 (-0.74%), showing strong selling pressure with a CVD value of -5,41 K (status: testing supply). During the session, a critical volume event was recorded: at 01:03, the HVN support of the US100 ecosystem was broken, piercing the 29660 level (NQ ≈ 29846). The directional vector (Q-Score) oscillates around -55, indicating the dominance of the negative vector. NQ ADR is currently 40.34%, placing current volatility above standard readings. In the Dyson Sphere (QQQ options), volume asymmetry is observed with a Put/Call Ratio at 1.05, with volatility (IV) at 21.41% and an expected range between 719.28 – 731.12.</p>
+<p><strong>DIAGNOSIS: System in a phase of testing the depth of the correction with an active breach of the support barrier.</strong></p>
 <h3>🌌 [2026-10-22 00:59]</h3>
 <p>[T-LOG: 2026-10-22 00:59]</p>
 <p><strong>STATUS: OPEN | MODE: FUTURES (NQ ONLY)</strong></p>
