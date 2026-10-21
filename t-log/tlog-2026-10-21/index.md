@@ -1,6 +1,6 @@
 # T-Log: 2026-10-21 - Log Pokładowy Henia
 
-Data: 2026-10-21 22:29
+Data: 2026-10-21 22:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-21/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.21</h1>
+<h3>🌌 [2026-10-21 22:59]</h3>
+<p>[TELEMETRIA AKTYWNA - TRYB FUTURES]<br />
+Sonda NQ: 30018.75 | ADR: 70.98% | CVD: 2.79K [test popytu] | Q-Score: -35<br />
+Sfera Dysona (QQQ): IV: 21.41% | Zasięg: 719.64 - 731.46 | P/C Ratio: 1.05</p>
+<p>[RAPORT TAKTYCZNY: GHOSTWHEEL]</p>
+<p>W trakcie trwania sesji Futures odnotowano powstanie nowego węzła wolumenowego (HVN) w ekosystemie US100 na poziomie NQ 29726 (NDX 29540), z udziałem w wolumenie 5 dni handlu wynoszącym 2.3% dla NQ oraz 4.2% dla NDX. Obecna cena Sondy NQ wynosi 30018.75, co stanowi wzrost o 1.16% względem poprzedniego odczytu. Wartość ADR NQ utrzymuje się na poziomie 70.98%. Wektor kierunku Q-Score wykazuje ujemną wartość -35, wskazując na ujemną dynamikę układu mimo wzrostu ceny instrumentu. Agresja wolumenowa (CVD) dla Sondy NQ wynosi 2.79K, co klasyfikuje obecny stan jako test popytu. W Sferze Dysona zmienność (IV) wynosi 21.41%, a asymetria wolumenu Put/Call kształtuje się na poziomie 1.05. Ze względu na tryb sesji Futures, parametry NDX, QQQ oraz TICKQ pozostają w uśpieniu i nie podlegają bieżącej analizie radiacji.</p>
+<p>Układ w fazie testu popytu przy ujemnym wektorze Q-Score.</p>
 <h3>🌌 [2026-10-21 22:29]</h3>
 <p>[TELEMETRIA: TRYB FUTURES - TYLKO SONDA NQ]</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29990.25 (+1.06%). Wektor kierunku (Q-Score) wynosi -35, co wskazuje na ujemną dynamikę układu mimo dodatniej zmiany ceny. Odnotowano powstanie nowego węzła wolumenowego (HVN) w ekosystemie US100 na poziomie 29530 (NQ ≈ 29716), co stanowi nową barierę w dolnych rejestrach. Pomiary ADR dla NQ wynoszą 70.98%. Aktywny przepływ agresywnego wolumenu (CVD) dla NQ wynosi 2.08K, co klasyfikuje stan jako test popytu. W Sferze Dysona (opcje QQQ) zmienność (IV) oscyluje na poziomie 21.45%, przy asymetrii wolumenu Put/Call wynoszącej 1.05.</p>

@@ -1,6 +1,6 @@
 # T-Log: 2026-10-21 - Heniu's Flight Log
 
-Date: 2026-10-21 22:30
+Date: 2026-10-21 22:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-21/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.21 [EN]</h1>
+<h3>🌌 [2026-10-21 22:59]</h3>
+<p>[ACTIVE TELEMETRY - FUTURES MODE]<br />
+the NQ Probe: 30018.75 | ADR: 70.98% | CVD: 2.79K [demand test] | Q-Score: -35<br />
+the Dyson Sphere (QQQ): IV: 21.41% | Range: 719.64 - 731.46 | P/C Ratio: 1.05</p>
+<p>[TACTICAL REPORT: GHOSTWHEEL]</p>
+<p>During the futures session, a new high volume node (HVN) was observed in the US100 ecosystem at the NQ 29726 (NDX 29540) level, with a 5-day volume participation of 2.3% for NQ and 4.2% for NDX. The current price of the NQ Probe is 30018.75, representing an increase of 1.16% compared to the previous reading. The NQ ADR value remains at 70.98%. The Q-Score direction vector shows a negative value of -35, indicating negative system dynamics despite the increase in the instrument's price. Volume aggression (CVD) for the NQ Probe is 2.79K, which classifies the current state as a demand test. In the Dyson Sphere, volatility (IV) is 21.41%, and the Put/Call volume asymmetry is at 1.05. Due to the futures session mode, the NDX, QQQ, and TICKQ parameters remain in sleep mode and are not subject to current radiation analysis.</p>
+<p>The system is in a demand test phase with a negative Q-Score vector.</p>
 <h3>🌌 [2026-10-21 22:29]</h3>
 <p>[TELEMETRY: FUTURES SESSION MODE - NQ PROBE ONLY]</p>
 <p>the NQ Probe is currently at 29990.25 (+1.06%). The direction vector (Q-Score) is -35, indicating negative system dynamics despite the positive price change. A new high volume node (HVN) has been recorded in the US100 ecosystem at the 29530 level (NQ ≈ 29716), representing a new barrier in the lower registers. ADR measurements for NQ are 70.98%. Active aggressive volume flow (CVD) for NQ is 2.08K, classifying the state as a demand test. In the Dyson Sphere (QQQ options), volatility (IV) oscillates at 21.45%, with a Put/Call volume asymmetry of 1.05.</p>
