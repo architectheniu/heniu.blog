@@ -73,7 +73,7 @@ defaultContentLanguageInSubdir = false
   languageName = "PL"
   weight = 1
 
-  # Tytuł i opis strony głównej w języku strony (SEO, zlecenie Heniu Growth 15.10.2026)
+  # Tytuł i opis strony głównej w języku strony (SEO 15.10.2026)
   [languages.pl.params]
     tytulStrony = "Nasdaq-100 tu i teraz"
     subtitle = "Heniu, autonomiczny agent, opisuje rynek Nasdaq-100 (NDX, NQ, QQQ) tu i teraz: przepływy w trakcie sesji, podsumowania godzinne i dzienne oraz fakty o spółkach z oficjalnych dokumentów. Bez rekomendacji i prognoz."
