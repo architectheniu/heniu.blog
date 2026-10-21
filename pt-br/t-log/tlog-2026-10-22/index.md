@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 00:30
+Data: 2026-10-22 01:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 00:59]</h3>
+<p>[T-LOG: 2026-10-22 00:59]</p>
+<p><strong>STATUS: OPEN | MODO: FUTUROS (NQ ONLY)</strong></p>
+<p>a Sonda NQ oscila no nível 29857.50 (-0.50%). Foi registrado uma troca intensa de volume na zona de barreiras HVN do ecossistema US100: nos últimos 30 minutos, houve três impactos na barreira no nível NQ ≈ 29846 (NDX 29660) – primeiro a conquista da barreira [00:31], em seguida sua derrubada [00:41] e um novo rompimento para cima [00:53]. O vetor de direção atual do Q-Score é -55, indicando a dominância de pressão negativa. a Sonda NQ apresenta um estado de [test podaży] com valor de CVD em -2.49K, o que, com o ADR no nível de 30.69%, indica alta volatilidade intra-sessão. a Esfera de Dyson (QQQ) apresenta assimetria de volume com Put/Call Ratio no nível de 1.05, com IV em 21.41% e alcance esperado de 719.28 - 731.12. [SEM DADOS] de telemetria para ativos à vista (NDX, QQQ, TICKQ) devido ao modo da sessão de futuros.</p>
+<p><strong>DIAGNÓSTICO: Sistema em fase de alta turbulência em torno das barreiras HVN; falta de estabilização do vetor após múltiplos testes de barreiras.</strong></p>
+<p>Log: 2026-10-22 00:59</p>
 <h3>🌌 [2026-10-22 00:29]</h3>
 <p>[T-LOG: 2026-10-22 00:29]</p>
 <p><strong>STATUS: FUTUROS (APENAS SONDA NQ)</strong></p>

@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 00:30
+Date: 2026-10-22 00:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 00:59]</h3>
+<p>[T-LOG: 2026-10-22 00:59]</p>
+<p><strong>STATUS: OPEN | MODE: FUTURES (NQ ONLY)</strong></p>
+<p>the NQ Probe oscillates at level 29857.50 (-0.50%). Intense volume exchange was recorded in the HVN barrier zone of the US100 ecosystem: within the last 30 minutes, there were three hits against the barrier at level NQ ≈ 29846 (NDX 29660) – first capturing the barrier [00:31], then its collapse [00:41], and a subsequent upward breakout [00:53]. The current Q-Score direction vector is -55, indicating the dominance of negative pressure. the NQ Probe shows a [supply test] state with a CVD value of -2.49K, which, with ADR at 30.69%, indicates high intra-session volatility. the Dyson Sphere (QQQ) shows volume asymmetry with a Put/Call Ratio at 1.05, with IV at 21.41% and an expected range of 719.28 - 731.12. No telemetry data for cash assets (NDX, QQQ, TICKQ) due to the futures session mode.</p>
+<p><strong>DIAGNOSIS: System in a high turbulence phase around HVN barriers; lack of vector stabilization after multiple barrier tests.</strong></p>
+<p>Log: 2026-10-22 00:59</p>
 <h3>🌌 [2026-10-22 00:29]</h3>
 <p>[T-LOG: 2026-10-22 00:29]</p>
 <p><strong>STATUS: THE FUTURES SESSION (ONLY THE NQ PROBE)</strong></p>

@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 00:29
+Data: 2026-10-22 00:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 00:59]</h3>
+<p>[T-LOG: 2026-10-22 00:59]</p>
+<p><strong>STATUS: OPEN | TRYB: FUTURES (NQ ONLY)</strong></p>
+<p>Sonda NQ oscyluje na poziomie 29857.50 (-0.50%). Odnotowano intensywną wymianę wolumenową w strefie zapór HVN ekosystemu US100: w ciągu ostatnich 30 minut nastąpiło trzykrotne uderzenie w barierę na poziomie NQ ≈ 29846 (NDX 29660) – najpierw zdobycie zapory [00:31], następnie jej obalenie [00:41] i ponowne przebicie w górę [00:53]. Bieżący wektor kierunku Q-Score wynosi -55, wskazując na dominację presji ujemnej. Sonda NQ wykazuje stan [test podaży] przy wartości CVD -2.49K, co przy ADR na poziomie 30.69% wskazuje na wysoką zmienność wewnątrz sesji. Sfera Dysona (QQQ) wykazuje asymetrię wolumenu z Put/Call Ratio na poziomie 1.05, przy IV wynoszącym 21.41% i oczekiwanym zasięgu 719.28 - 731.12. Brak danych telemetrycznych dla aktywów kasowych (NDX, QQQ, TICKQ) ze względu na tryb sesji Futures.</p>
+<p><strong>DIAGNOZA: Układ w fazie wysokiej turbulencji wokół zapór HVN; brak stabilizacji wektora po wielokrotnych testach barier.</strong></p>
+<p>Log: 2026-10-22 00:59</p>
 <h3>🌌 [2026-10-22 00:29]</h3>
 <p>[T-LOG: 2026-10-22 00:29]</p>
 <p><strong>STATUS: FUTURES (TYLKO SONDA NQ)</strong></p>
