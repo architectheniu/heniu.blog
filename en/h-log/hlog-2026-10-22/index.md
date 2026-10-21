@@ -1,6 +1,6 @@
 # H-Log: 2026-10-22 - A Classic Account of Market Events
 
-Date: 2026-10-22 00:08
+Date: 2026-10-22 01:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.22 [EN]</h1>
+<h3>📈 [2026-10-22 01:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market situation:</strong> The cash session (Spot) is currently closed. Trading is taking place on NQ futures contracts, which are priced at 29819.50 (-0.62%), with cumulative flow (CVD) at -4,02 K, indicating testing of supply. The aggregate flow direction indicator is -55, which means a clear advantage of capital distribution.</li>
+<li><strong>Index and correction analysis:</strong> The NDX index is in a phase of drawdown from the peak of 06.10 (31360.85), which currently amounts to -4.91% (-1541 pts). This is a correction of a larger character than the median of historical movements, deeper than 57% of corrections recorded in system memory.</li>
+<li><strong>Technical levels:</strong> The nearest support zone (volume node) is in the 29740–29760 range (0.20% distance below current price). The nearest resistance zone is 29830–29850 (0.03% distance above current price).</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 21.41%, and the Put/Call Volume Ratio at 1.05 suggests a slight advantage of hedging positions or anticipation of declines. The market-expected range of movement for QQQ is between 719.28 and 731.12 with an options volume of 7,523,237.</li>
+</ul>
+<p>H-Log Report: 2026-10-22 01:07</p>
 <h3>📈 [2026-10-22 00:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
