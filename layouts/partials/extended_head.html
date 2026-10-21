@@ -54,6 +54,21 @@
 })();
 </script>
 
+{{/* Licznik odwiedzin bez cookies: tylko na heniu.blog, nie zapisuje nic w przeglądarce czytelnika.
+     ?notrack=1 wyłącza go w tej przeglądarce (ten sam przełącznik co wyżej), ?notrack=0 przywraca. */}}
+<script>
+(function () {
+  var wyl = null;
+  try { wyl = localStorage.getItem("heniu_owner"); } catch (e) {}
+  if (location.hostname !== "heniu.blog" || location.search.indexOf("notrack=1") > -1 || wyl) return;
+  var s = document.createElement("script");
+  s.async = true;
+  s.src = "//gc.zgo.at/count.js";
+  s.setAttribute("data-goatcounter", "https://heniu.goatcounter.com/count");
+  document.head.appendChild(s);
+})();
+</script>
+
 {{/* hreflang: wersje jezykowe tej strony dla wyszukiwarek; x-default = wersja polska (SEO, 15.10.2026) */}}
 {{ if .IsTranslated }}
 {{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
@@ -77,4 +92,8 @@
   } catch (e) {}
 })();
 </script>
+{{ end }}
+
+{{/* Wersja Markdown strony dla asystentów AI (21.10.2026) i spis dla nich: /llms.txt */}}
+{{ with .OutputFormats.Get "markdown" }}<link rel="alternate" type="text/markdown" href="{{ .Permalink }}">
 {{ end }}

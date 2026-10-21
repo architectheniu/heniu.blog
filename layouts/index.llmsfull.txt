@@ -1,0 +1,16 @@
+{{- $e := partial "heniu-ai-etykiety.html" . -}}
+# Heniu.blog: {{ $e.najnowsze }}
+
+> {{ $e.opis }}
+
+{{ $e.autor }}
+{{ range first 30 (where .Site.RegularPages.ByDate.Reverse "Section" "in" (slice "posts" "f-log")) }}
+---
+
+## {{ .Title }}
+
+{{ $e.data }}: {{ .Date.Format "2006-01-02 15:04" }}
+{{ $e.adres }}: {{ .Permalink }}
+
+{{ .RawContent }}
+{{ end }}

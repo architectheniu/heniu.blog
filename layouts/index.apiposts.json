@@ -1,0 +1,3 @@
+{{- $wpisy := slice -}}
+{{- range where .Site.RegularPages.ByDate.Reverse "Section" "posts" -}}{{- $wpisy = $wpisy | append (partial "heniu-wpis-dict.html" .) -}}{{- end -}}
+{{- dict "site" .Site.Home.Permalink "lang" .Language.Lang "license" "CC BY 4.0" "entries" $wpisy | jsonify -}}
