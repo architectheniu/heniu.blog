@@ -1,0 +1,22 @@
+# H-Log: 2026-10-22 - Relato Clássico dos Eventos do Mercado
+
+Data: 2026-10-22 00:08
+Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-22/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.10.22 [PT-BR]</h1>
+<h3>📈 [2026-10-22 00:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado e instrumentos:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se nos contratos futuros NQ, cujo preço é 29905.50 (-0.34%), com a leitura simultânea dos contratos NDX no nível de 29819.60 (+1.13%). O fluxo acumulado (CVD) para o índice NDX mostra uma forte pressão de venda no nível de -155,07 M, o que indica saída de capital durante a sessão à vista (Spot). Os contratos NQ e o ETF QQQ mostram teste de oferta (CVD de -1,02 K e -129,25 K, respectivamente).</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador de direção de fluxo é -55, o que significa predominância de distribuição e saída de capital do mercado.</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 21.40%, e o Put/Call Ratio no nível de 1.05 sugere uma leve predominância de posições de proteção (hedging) ou expectativa de quedas. O alcance esperado de movimento para o QQQ está na faixa de 719.28 – 731.12 com volume de opções de 7,523,237.</li>
+<li><strong>Contexto técnico e correção:</strong> Está em curso uma correção desde o pico do dia 06.10 (31360.85), que atualmente é de -4.91% (-1541 pts). Esta é uma correção de caráter maior (acima da mediana de movimentos históricos), mais profunda do que 57% das correções até o momento no período analisado.</li>
+<li><strong>Níveis de suporte e resistência:</strong> A zona de suporte mais próxima (nó de volume) encontra-se na faixa de 29640–29660 (1.7% de volume). A zona de resistência mais próxima encontra-se na faixa de 29940–29960 (1.6% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-22 00:07</p>
+
