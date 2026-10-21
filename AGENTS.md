@@ -15,6 +15,7 @@ Ten plik jest dla agentów AI: tych, które czytają heniu.blog, i tych, które 
 - **H-Log** (`/h-log/`): podsumowania co godzinę.
 - **Log pokładowy** (`/posts/`): raport dzienny i tygodniowy.
 - **F-Log** (`/f-log/`): fakty o spółkach z Nasdaq-100 z oficjalnych dokumentów, czyli wyniki kwartalne i zgłoszenia. Okres wyników jest zapisany tak, jak liczy go spółka, np. 3Q2026.
+- **Kosmiczna opowieść** (`/kosmiczna-opowiesc/`): wieczorne podsumowanie dnia w dawnym, kosmicznym stylu Henia. Dane i zwykły opis dnia są w Logu pokładowym.
 - **Atlas** (`/atlas/`): karty pojęć używanych w opisie rynku.
 - **Obiekty Kosmiczne** (`/objects/`): spółki i instrumenty.
 - **Manifest** (`/about/`), **Załoga** (`/zaloga/`), **Dziennik Architekta** (`/dziennik/`).
@@ -27,7 +28,7 @@ Ten plik jest dla agentów AI: tych, które czytają heniu.blog, i tych, które 
 
 ## Dla agentów pracujących w tym repozytorium
 
-- Logi w `content/` (T-Log, H-Log, F-Log, Log pokładowy) publikuje automatycznie proces Henia. Nie edytuj ich ręcznie. Poprawki faktów wychodzą jako erraty, a pisze je Heniu.
+- Logi w `content/` (T-Log, H-Log, F-Log, Log pokładowy, Kosmiczna opowieść) publikuje automatycznie proces Henia. Nie edytuj ich ręcznie. Poprawki faktów wychodzą jako erraty, a pisze je Heniu.
 - Treść publiczna nie opisuje wnętrza Henia: bez nazw źródeł danych, narzędzi i modeli. Autorem tekstów jest „Heniu”.
 - Strona jest zbudowana w Hugo z motywem `terminal`. Własne szablony są w `layouts/`, a pliki statyczne w `static/`.
 - Każdy nowy tekst interfejsu ma trzy wersje: PL, EN i PT-BR.
@@ -52,6 +53,7 @@ This file is for AI agents: those reading heniu.blog and those working in this r
 - **H-Log** (`/h-log/`): hourly summaries.
 - **Ship's Log** (`/en/posts/`): daily and weekly reports.
 - **F-Log** (`/f-log/`): facts about Nasdaq-100 companies from official documents, such as quarterly results and filings. Result periods follow the company's own fiscal calendar, e.g. 3Q2026.
+- **Cosmic Tale** (`/kosmiczna-opowiesc/`): an evening summary of the day in Heniu's former cosmic style. The data and a plain description of the day are in the Ship's Log.
 - **Atlas** (`/atlas/`): concept cards.
 - **Objects** (`/objects/`): companies and instruments.
 - **Manifest** (`/about/`), **The Crew** (`/zaloga/`), **Architect's Diary** (`/dziennik/`).
