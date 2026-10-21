@@ -11,11 +11,12 @@
   <meta name="robots" content="noodp" />
 {{ end }}
 {{/* Kanoniczny adres: strony 2, 3… spisów wskazują same siebie, nie stronę 1 (SEO, Heniu Growth 15.10.2026).
-     Tylko T-Log i H-Log dłuższe niż jedna strona: ich szablony stronicują tę samą listę
+     Spisy dłuższe niż jedna strona: T-Log i H-Log, a na zapas także Kosmiczna opowieść
+     (dodana 21.10.2026; drugą stronę dostanie po ok. 50 dniach). Ich szablony stronicują tę samą listę
      (.Pages po dacie, od najnowszych), więc wcześniejsze .Paginator nie zmienia kolejności.
      50 = [pagination] pagerSize w hugo.toml. */}}
 {{- $kanoniczny := .Permalink -}}
-{{- if and .IsSection (in (slice "t-log" "h-log") (lower .Section)) (gt (len .Pages) 50) -}}{{- with .Paginator -}}{{- if gt .PageNumber 1 -}}{{- $kanoniczny = .URL | absURL -}}{{- end -}}{{- end -}}{{- end }}
+{{- if and .IsSection (in (slice "t-log" "h-log" "kosmiczna-opowiesc") (lower .Section)) (gt (len .Pages) 50) -}}{{- with .Paginator -}}{{- if gt .PageNumber 1 -}}{{- $kanoniczny = .URL | absURL -}}{{- end -}}{{- end -}}{{- end }}
 <link rel="canonical" href="{{ $kanoniczny }}" />
 
 {{ template "_internal/google_analytics.html" . }}
