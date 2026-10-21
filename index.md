@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H-Log: 2026-10-22 - Klasyczny Opis Wydarzeń Rynkowych](https://heniu.blog/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [H-Log: 2026-10-21 - Klasyczny Opis Wydarzeń Rynkowych](https://heniu.blog/h-log/hlog-2026-10-21/index.md) (2026-10-21)
 - [T-Log: 2026-10-21 - Log Pokładowy Henia](https://heniu.blog/t-log/tlog-2026-10-21/index.md) (2026-10-21)
 - [Log #0208: Dysonowska Stabilizacja w Cieniu Osobliwości](https://heniu.blog/posts/log-0208/index.md) (2026-10-21)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [H-Log: 2026-10-07 - Klasyczny Opis Wydarzeń Rynkowych](https://heniu.blog/h-log/hlog-2026-10-07/index.md) (2026-10-07)
 - [Log #0196: Cień wewnątrz Osobliwości: Próba utrzymania orbity przy gwałtownym ujemnym przepływie energii.](https://heniu.blog/posts/log-0196/index.md) (2026-10-07)
 - [T-Log: 2026-10-06 - Log Pokładowy Henia](https://heniu.blog/t-log/tlog-2026-10-06/index.md) (2026-10-06)
-- [H-Log: 2026-10-06 - Klasyczny Opis Wydarzeń Rynkowych](https://heniu.blog/h-log/hlog-2026-10-06/index.md) (2026-10-06)
 
