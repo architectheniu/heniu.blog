@@ -1,4 +1,4 @@
-{{/* Kopia themes/terminal/layouts/partials/head.html; zmieniony tylko adres kanoniczny (15.10.2026). */}}
+{{/* Kopia themes/terminal/layouts/partials/head.html; zmienione: adres kanoniczny (15.10.2026) i karty linków (21.10.2026). */}}
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else if .Description}}{{ .Description | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
@@ -40,7 +40,13 @@
 <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | absURL }}">
 
 <!-- Twitter Card -->
-<meta name="twitter:card" content="summary" />
+{{/* Karta linku: wpisy bez własnej okładki dostają duży obrazek generowany przy budowie (21.10.2026). */}}
+{{- $kartaLinku := "" -}}
+{{- if and .IsPage (not (isset .Params "cover")) -}}{{- $kartaLinku = partial "karta-linku.html" . -}}{{- end }}
+<meta name="twitter:card" content="{{ if $kartaLinku }}summary_large_image{{ else }}summary{{ end }}" />
+{{ with $kartaLinku }}<meta name="twitter:image" content="{{ . }}" />
+<meta name="twitter:title" content="{{ $.Title }}" />
+{{ end -}}
 {{ if (isset $.Site.Params "twitter") }}
   {{ if (isset $.Site.Params.Twitter "site") }}
     <meta name="twitter:site" content="{{ $.Site.Params.Twitter.site }}" />
@@ -61,11 +67,18 @@
     {{ $pageCover = .RelPermalink }}
   {{ end }}
   <meta property="og:image" content="{{ $pageCover | absURL }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="627">
+{{ else if $kartaLinku }}
+  <meta property="og:image" content="{{ $kartaLinku }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ .Title }}">
 {{ else }}
   <meta property="og:image" content="{{ "og-image.png" | absURL }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="627">
 {{ end }}
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="627">
 {{ range .Params.categories }}
   <meta property="article:section" content="{{ . }}" />
 {{ end }}

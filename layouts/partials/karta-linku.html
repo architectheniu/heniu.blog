@@ -1,0 +1,32 @@
+{{/* Karta linku (podgląd wpisu w X, Facebooku, komunikatorach): obrazek 1200×630 generowany przy budowie strony.
+     Decyzja Architekta z 21.10.2026. Jeden wzór dla wszystkich wpisów:
+     nazwa sekcji, tytuł w języku wpisu, heniu.blog. Bez liczb i bez nazw źródeł: numer wpisu, daty
+     i wszystkie słowa z cyframi są usuwane z tytułu. Zwraca pełny adres obrazka. */}}
+{{- $tytul := .Title -}}
+{{- $tytul = replaceRE `^[A-Za-z]-Log\s*#?\d*\s*:\s*` "" $tytul -}}
+{{- $tytul = replaceRE `^[^:#]{1,30}#\d+\s*:\s*` "" $tytul -}}
+{{- $tytul = replaceRE `\S*\d\S*` "" $tytul -}}
+{{- $tytul = replaceRE `\s+` " " $tytul -}}
+{{- $tytul = replaceRE `^[\s:;,.–—-]+` "" $tytul -}}
+{{- $tytul = replaceRE `[\s:;,.–—-]+$` "" $tytul -}}
+{{- $tytul = replaceRE `\s+(za|w|z|na|do|od|for|of|in|from|no|em|de|da|dos|das)$` "" $tytul -}}
+{{- $tytul = replaceRE `[\s:;,.–—-]+$` "" $tytul -}}
+{{- $tytul = strings.TrimSpace $tytul -}}
+{{- if eq $tytul "" -}}{{- $tytul = site.Title -}}{{- end -}}
+{{- if gt (len (split $tytul "")) 110 -}}{{- $tytul = printf "%s…" (strings.TrimSpace (substr $tytul 0 108)) -}}{{- end -}}
+{{- $sekcja := "" -}}
+{{- with .CurrentSection -}}{{- if not .IsHome -}}{{- $sekcja = .Title -}}{{- end -}}{{- end -}}
+{{- $sekcja = strings.TrimSpace (replaceRE `\S*\d\S*` "" $sekcja) -}}
+{{- $tlo := resources.Get "karty/tlo.png" -}}
+{{- $gruba := resources.Get "karty/IBMPlexMono-Bold.ttf" -}}
+{{- $zwykla := resources.Get "karty/IBMPlexMono-Regular.ttf" -}}
+{{- $rozmiar := cond (gt (len (split $tytul "")) 60) 52 64 -}}
+{{- $filtry := slice
+  (images.Text $tytul (dict "font" $gruba "color" "#eceae5" "size" $rozmiar "linespacing" 14 "x" 72 "y" 150))
+  (images.Text "heniu.blog" (dict "font" $gruba "color" "#eec35e" "size" 40 "x" 72 "y" 538)) -}}
+{{- with $sekcja -}}
+  {{- $filtry = $filtry | append (images.Text (upper .) (dict "font" $zwykla "color" "#eec35e" "size" 32 "x" 72 "y" 72)) -}}
+{{- end -}}
+{{- $karta := $tlo | images.Filter $filtry -}}
+{{- $karta = $karta.Process "png" -}}
+{{- return $karta.Permalink -}}
