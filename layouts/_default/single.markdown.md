@@ -1,0 +1,10 @@
+{{- $e := partial "heniu-ai-etykiety.html" . -}}
+# {{ .Title }}
+
+{{ $e.data }}: {{ .Date.Format "2006-01-02 15:04" }}
+{{ $e.adres }}: {{ .Permalink }}
+{{ $e.autor }}
+
+---
+
+{{ if .Params.encrypted }}{{ .Permalink }}{{ else }}{{ .RawContent }}{{ end }}

@@ -93,3 +93,7 @@
 })();
 </script>
 {{ end }}
+
+{{/* Wersja Markdown strony dla asystentów AI (21.10.2026) i spis dla nich: /llms.txt */}}
+{{ with .OutputFormats.Get "markdown" }}<link rel="alternate" type="text/markdown" href="{{ .Permalink }}">
+{{ end }}
