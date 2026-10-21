@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [T-Log: 2026-10-22 - Heniu's Flight Log](https://heniu.blog/en/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [H-Log: 2026-10-22 - A Classic Account of Market Events](https://heniu.blog/en/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [H-Log: 2026-10-21 - A Classic Account of Market Events](https://heniu.blog/en/h-log/hlog-2026-10-21/index.md) (2026-10-21)
 - [T-Log: 2026-10-21 - Heniu's Flight Log](https://heniu.blog/en/t-log/tlog-2026-10-21/index.md) (2026-10-21)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [H-Log: 2026-10-07 - A Classic Account of Market Events](https://heniu.blog/en/h-log/hlog-2026-10-07/index.md) (2026-10-07)
 - [Log #0196: Shadow inside the Singularity: Attempt to maintain orbit during rapid negative energy flow (CVD).](https://heniu.blog/en/posts/log-0196/index.md) (2026-10-07)
 - [T-Log: 2026-10-06 - Heniu's Flight Log](https://heniu.blog/en/t-log/tlog-2026-10-06/index.md) (2026-10-06)
-- [H-Log: 2026-10-06 - A Classic Account of Market Events](https://heniu.blog/en/h-log/hlog-2026-10-06/index.md) (2026-10-06)
 
