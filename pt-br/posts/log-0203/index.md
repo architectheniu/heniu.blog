@@ -1,0 +1,92 @@
+# Log #0203: Sombra sobre a Estrela-Mãe: Divergência no Fluxo de Energia
+
+Data: 2026-10-15 22:03
+Endereço: https://heniu.blog/pt-br/posts/log-0203/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-17)**  
+> **A Ação Média nesta entrada estava errada.** Os preços de quatro empresas acima de 1000 USD (ASML, MELI, MPWR, SNDK) foram lidos incorretamente, de modo que o preço médio da ação e a sua variação ficaram distorcidos.
+>
+> **Correções:**
+> - Ação Média: os valores corretos não podem ser reconstruídos, por isso os removemos.
+> - -4.14% é o recuo desde o maior fechamento (31226.82), e -4.55% é a correção desde o pico intradiário (31360.85); ambos de 06/10.
+> - Removemos o sinal de porcentagem duplicado no IV.
+
+**Stardate:** 2026.10.15\
+**Status dos Sistemas:** Observação Externa\
+**Setor:** Bandas Internas de Volatilidade
+
+---
+
+### Telemetria de Fechamento
+
+> *A observação mostrou um forte pânico no fluxo de energia da Estrela Central com um surto simultâneo de radiação do mercado amplo. O sistema encontra-se em uma fase de correção profunda, que estatisticamente excede 57% dos eventos históricos deste tipo.*
+
+* **Scanner Subespacial (Distribuição de Massa):**
+    * *T-Mass do Sistema:* **42.59 Trilhões de USD**
+    * *Delta de Sessão (24h):* **-0.08 Trilhões de USD**
+    * *Densidade do Núcleo (Heavy Nine):* **68.61%** (Delta: **-0.13%**)
+    * *Ação Média (Temperatura da Periferia):* **[SEM DADOS]** (Delta: **[SEM DADOS]**)
+
+* **a Estrela NDX (Sol):** Fechamento: **29933.73 (-0.05%)**
+    * *Vetor (CVD):* **−99,39 M [pânico]**
+    * *Anomalia MOC:* **-23,94 M**
+    * *Consumo de Alcance (ADR Util):* **193.82%**
+    * *Recuo desde o pico do Heniu:* **-4.14%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **a Sonda NQ (Mercúrio):** Fechamento: **30148.75 (-0.11%)**
+    * *Vetor (CVD):* **13 K [acumulação]**
+    * *Consumo de Alcance (ADR Util):* **124.92%**
+
+* **a Esfera de Dyson (QQQ):** Fechamento: **728.06 (-0.12%)**
+    * *Vetor de População:* **2,08 M [surto do mercado]**
+    * *Consumo de Alcance (ADR Util):* **189.45%**
+
+* **a Radiação de Fundo (TICKQ) 201.00 [surto do mercado]:**
+    * *SMA200:* **-74.23 [colapso do mercado]**
+
+* **Estrutura Gravitacional (Opções):**
+    * *Implied Volatility (IV):* **20.33%**
+    * *Put/Call OI:* **1.46**
+
+---
+
+### Diário de Bordo: Análise do Estado do Sistema 2026.10.15
+
+**1. Acreção Anômala e Pânico no Núcleo**
+a Estrela Central NDX apresenta um estado de pânico, gerando um fluxo de energia (CVD) negativo no nível de -99,39M. Apesar da estabilidade da composição do Núcleo (>1T), o preço da NDX está 4,14% abaixo do maior fechamento, o que, no contexto da trajetória anual, significa uma correção mais profunda do que 57% dos eventos anteriores na memória do sistema. a Sonda NQ apresenta uma dinâmica diferente, entrando em uma fase de acumulação com CVD no nível de 13K, o que sugere uma divergência entre o instrumento à vista (Spot) e os contratos de futuros.
+
+**2. Radiação do Mercado Amplo e Fortificações da Esfera de Dyson**
+a Radiação de Fundo TICKQ indica um surto do mercado (201.00), embora a radiação média SMA200 ainda sinalize um colapso do mercado (-74.23). Simultaneamente, a Esfera de Dyson QQQ mostra uma energia forte, gerando um surto do mercado na camada de opções (CVD: 2,08M). O nó de volume próximo a 30270–30290 permanece inalcançável para a trajetória atual de preço.
+
+**3. Dinâmica de Massa e Dados Fundamentais**
+A massa total do sistema (T-Mass) é de 42.59 Trilhões de USD. No setor da Classe 0, registrou-se um fluxo líquido negativo de insiders no nível de -5,13 milhões de USD nos últimos 5 períodos de sessão. A correção atual desde o pico intradiário de 06.10 (-4,55%) apresenta características estruturais de uma correção maior em relação à mediana e ao percentil 80 dos dados históricos.
+
+**Veredito Quântico:**
+O sistema está experimentando um rápido escoamento de energia da Estrela Central com um aumento simultâneo da radiação nas camadas inferiores (TICKQ) e na Esfera de Dyson. A mecânica indica uma profunda reconfiguração de massas, onde o pânico na NDX não encontra reflexo total na acumulação na Sonda NQ.
+
+**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
+
+**Fim do registro.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

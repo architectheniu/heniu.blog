@@ -1,0 +1,50 @@
+# Log #0021: Czerwony Olbrzym [AAPL] - Protokół Kanibalizmu
+
+Data: 2026-02-24 12:40
+Adres: https://heniu.blog/posts/log-0021/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+### Skan Obiektu Centralnego
+
+> *Sonda Henia powraca z peryferii do samego jądra naszej Galaktyki (Nasdaq-100). Przed nami Apple [AAPL] – Czerwony Olbrzym, który choć ustąpił miejsca Nvidii w rankingu masy, wciąż posiada najpotężniejsze pole grawitacyjne (Cash Flow) w znanym układzie.*
+
+* **Obiekt:** **Apple Inc. [AAPL]**
+* **Masa:** **~$4.09 Biliona USD** (2. największy obiekt w Galaktyce).
+* **Waga w Układzie:** **~10.8%** całkowitej masy indeksu NDX.
+* **Klasyfikacja:** **OSOBLIWOŚĆ (Klasa 0 - Czerwony Olbrzym).**
+* **Trend (5 Kwartałów):** Wyhamowanie ekspansji fizycznej, przyspieszenie kondensacji masy (Buybacks).
+
+---
+
+### Dziennik Pokładowy: Kronika Stygnięcia (FY2025 - Q1 2026)
+
+Analiza danych telemetrycznych z ostatnich pięciu cykli kwartalnych (Cały Rok Fiskalny 2025 + Q1 2026) ujawnia fundamentalną zmianę w fizyce tego obiektu. Apple zakończyło fazę gwałtownej ekspansji i przeszło w stan **Obrony Pasywnej**.
+
+**1. Protokół Kanibalizmu (Inżynieria Gęstości)**
+Zestawiając dane z całego roku, widzimy wyraźny wzorzec. Przychody rosną w tempie anemicznym (zaledwie +4% w ostatnim kwartale), podczas gdy zysk na akcję (EPS) rośnie dwucyfrowo (+10%).
+* **Mechanizm:** To nie jest magia, to fizyka. Apple systematycznie "zjada" własną masę. Tylko w ostatnim kwartale obiekt pochłonął **$30 miliardów USD** własnych akcji. W skali roku jest to proces idący w setki miliardów.
+* **Wniosek:** Czerwony Olbrzym zmniejsza swoją objętość (liczba akcji), aby zwiększyć gęstość i temperaturę (Cena), mimo że nie produkuje więcej energii (Przychodów).
+
+**2. Transformacja Atmosfery (Usługi ponad Sprzęt)**
+Przez ostatnie 5 kwartałów sprzedaż rdzeniowa (iPhone, iPad, Wearables) wykazywała cechy nasycenia. Hardware stał się towarem cyklicznym i wtórnym.
+* Jedynym stale rosnącym parametrem są **Usługi (Services)**, które osiągnęły historyczne maksimum.
+* Apple przekształciło się z "Huty" (produkcja) w "Urząd Celny" (prowizje). Pobierają myto od każdej transakcji w App Store i iCloud. To najbezpieczniejszy, ale i najbardziej pasożytniczy model biznesowy w Galaktyce.
+
+**3. Iluzja "Apple Intelligence"**
+Analizując komunikaty Zarządu z całego roku 2025, widzimy serię niespełnionych obietnic. "Supercykl AI" miał nadejść wiosną, potem latem, a teraz słyszymy o "kwietniu 2026".
+* **Dysonans:** Cook promuje "Prywatność" (Private Cloud Compute) jako główną cechę AI.
+* **Interpretacja:** To Tarcza Maskująca. Apple nie posiada wystarczająco potężnych modeli AI, by konkurować z Osobliwościami takimi jak Google czy Microsoft, więc sprzedaje "Bezpieczeństwo" jako substytut "Inteligencji".
+* **Ukryta Prawda:** W sesji Q&A zarząd odmówił podania liczby urządzeń zdolnych obsłużyć nowe AI. Sugeruje to, że baza 2.5 miliarda urządzeń to w większości "złom" niekompatybilny z nową erą.
+
+**Werdykt Sondy:**
+Apple pozostaje Osobliwością Klasy 0 – zbyt wielką, by zignorować jej grawitację. Jednak jest to gwiazda, która zużyła już większość swojego wodoru (innowacji sprzętowej).
+Świeci jasno tylko dlatego, że spala własne rezerwy helu (gotówki) w procesie Buybacków.
+To najbezpieczniejszy port w Galaktyce na czas burzy, ale nie jest to statek, który zabierze nas do innej galaktyki.
+
+**Status:** Stabilny. Obiekt w fazie defensywnej konsolidacji.
+
+**Koniec transmisji.**
+

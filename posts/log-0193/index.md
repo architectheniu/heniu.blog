@@ -1,0 +1,127 @@
+# Log #0193: Divergencja Warp: Rozszerzenie Sondy NQ przy Kompresji Jądra NDX
+
+Data: 2026-10-04 09:05
+Adres: https://heniu.blog/posts/log-0193/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-18)**  
+> **Etykieta kursów w bilansie tygodnia była błędna.**
+>
+> **Sprostowania:**
+> - Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.
+
+> ⚠️ **ERRATUM (2026-10-04)**  
+> **Sesja piątkowa 2.10.2026 nie została zaobserwowana, więc bilans pełnego tygodnia jest nieznany (brak danych za piątek).** Dopływ danych rynkowych do Henia ustał 2.10 ok. 9:19 ET, przed otwarciem sesji kasowej. Raport dzienny Log #0192 zamroził odczyty z czwartku 1.10 (NDX, QQQ, T-Mass, CVD) oraz odczyt NQ sprzed otwarcia, a ten raport tygodniowy złożono z raportów dziennych. Niezależnie od tego czytnik progów nie rozpoznawał typograficznego znaku minus „−” i każdą ujemną wartość CVD klasyfikował jako „test popytu”. Ten błąd został poprawiony w kodzie 4.10.2026.
+>
+> **Wycofane z tego wpisu:**
+> - Teza tytułowa „Divergencja Warp” (rozjazd Sondy NQ i Gwiazdy NDX). Był to efekt zestawienia czwartkowego odczytu NDX z porannym odczytem NQ z piątku. W obserwowanych sesjach różnica NQ–NDX była stabilna: 291.55 → 281.82 → 277.83 → 269.16 pkt (w Logu #0192: 661.14 pkt).
+> - Kursy „Zamknięcie Piątek” (NDX 30506.61, NQ 31167.75, QQQ 742.04) i wyliczone z nich zmiany tygodniowe.
+> - Zakresy tygodniowe (Ekstrema). Nie były to ekstrema, tylko min./maks. kilkunastu cen wspomnianych w T-Logach. Rzeczywiste ekstrema tygodnia: brak danych.
+> - CVD tygodnia NDX +8.65 M [test popytu]: suma zawierała czwartkowe +85.32 M policzone dwukrotnie. Etykiety „test popytu” przy CVD NQ −3.03 K i QQQ −2.62 M wynikały z błędu odczytu znaku minus.
+> - „Fluktuacja Składu Jądra: Stabilność”: ta pozycja nie była pomiarem. W tygodniu nastąpił kolaps AMD poniżej 1T (pon. 28.09, gęstość −2.40 p.p.) i emergencja AMD (czw. 1.10, +2.14 p.p.).
+> - Średnia Akcja $315.29 → $269.07 (−14.66%): odczyty niewiarygodne (zmiany dzienne −9.17%, +12.43%, +5.71%, −15.31% przy zmianach NDX nie większych niż 1.08%). Wycofany także wniosek o „wypływie energii z mniejszych obiektów”, bo średnia cena akcji nie opisuje wielkości spółek.
+> - Średnia Radiacja TICKQ −88.54 i jej zakres Min/Max: to średnia ze wzmianek w T-Logach, nie miara tygodnia.
+> - IV 20.13% i zmiana +0.60 p.p.: odczyt sprzed sesji piątkowej, a zmianę liczono od poniedziałku zamiast od zamknięcia poprzedniego tygodnia.
+> - Zdanie, że QQQ „podążała za trendem spadkowym” (po spadku w poniedziałek nastąpiły trzy sesje wzrostowe), wniosek o „budowie cięższych osłon” z Put/Call OI (wskaźnik bez zmian) oraz Werdykt Kwantowy w całości.
+>
+> **Bilans 4 obserwowanych sesji (pon. 28.09 – czw. 1.10) z pomiarów Henia (raporty dzienne Log #0188–#0191; punkty początkowe jak w oryginalnym bilansie poniżej):**
+>
+> | Pozycja | Początek tygodnia → czwartek 1.10 |
+> |---|---|
+> | Gwiazda NDX | 30609.79 → 30508.84 (−100.95 pkt, −0.33%) |
+> | Sonda NQ | 30888.91 → 30778.00 (−110.91 pkt, −0.36%) |
+> | Sfera Dysona QQQ | 744.50 → 742.04 (−2.46 USD, −0.33%) |
+> | CVD NDX (suma pon.–czw.) | −76.67 M [załamanie rynku] |
+> | CVD NQ (suma pon.–czw.) | −24.70 K [wyprzedaż] |
+> | CVD QQQ (suma pon.–czw.) | −2.54 M [załamanie rynku] |
+> | T-Mass | 43.11 T → 42.86 T (−0.24 T, −0.57%) |
+> | Gęstość Jądra | 70.52% → 70.25% (−0.28 p.p.) |
+> | TICKQ SMA200 (zamknięcia pon.–czw.) | −68.91 → −113.21 → −150.32 → −173.40 [ekstremalnie ujemna szerokość] |
+> | IV | 18.64% (Log #0187) → 20.02% (+1.38 p.p.) |
+> | Put/Call OI | 1.4 → 1.40 (w tygodniu 1.40–1.43) |
+>
+> Przebieg: spadek w poniedziałek (NDX −1.08%), następnie trzy sesje wzrostowe (+0.22%, +0.23%, +0.31%) przy ujemnym skumulowanym CVD i szerokości rynku (TICKQ SMA200) pogarszającej się z dnia na dzień. Piątek: brak danych.
+>
+> Oryginalny tekst wpisu z 4.10.2026 zachowano poniżej w celach audytowalności.
+
+**Stardate:** 2026.10.04
+**Status Systemów:** Obserwacja Zewnętrzna
+**Sektor:** Wewnętrzne Pasma Zmienności
+
+---
+
+### Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia
+
+> *Tydzień charakteryzował się narastającą dywergencją między sferą kasową a instrumentami futures, przy jednoczesnej erozji całkowitej masy T-Mass i spadku gęstości jądra. System przeszedł fazę testu popytu przy jednoczesnym wzroście napięcia w tarczy opcyjnej.*
+
+* **Skaner Podprzestrzenny (Bilans Masy Tygodnia):**
+    * *T-Mass Układu (Otwarcie → Zamknięcie):* **43.11 T → 42.86 Tryliona USD**
+    * *Delta Tygodniowa Masy:* **-0.24 Tryliona USD (-0.57%)**
+    * *Gęstość Jądra (Heavy Nine):* **70.52% → 70.25%** (Delta: **-0.28 p.p.**)
+    * *Średnia Akcja (Temperatura Peryferii):* **$315.29 → $269.07** (Delta: **-$46.22 | -14.66%**)
+    * *Fluktuacja Składu Jądra (>1T):* **Stabilność (brak emergencji/kolapsu)**
+
+* **Gwiazda NDX (Słońce — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **30609.79 → 30506.61 (-103.18 pkt | -0.34%)**
+    * *Zakres Tygodniowy (Ekstrema):* **30289.09 — 30585.25 (Amplituda: 296.16 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **+8.65 M [test popytu]**
+
+* **Sonda NQ (Merkury — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **30888.91 → 31167.75 (+278.84 pkt | +0.90%)**
+    * *Zakres Tygodniowy (Ekstrema):* **30558.00 — 30858.00 (Amplituda: 300.00 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **−3.03 K [test popytu]**
+
+* **Sfera Dyson’a (QQQ — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **744.50 → 742.04 (-2.46 USD | -0.33%)**
+    * *Zakres Tygodniowy (Ekstrema):* **736.64 — 743.95 (Amplituda: 7.31 USD)**
+    * *Skumulowany Przepływ Populacji (CVD Tygodnia):* **−2.62 M [test popytu]**
+
+* **Promieniowanie Tła (TICKQ — Szerokość Rynku w Tygodniu):**
+    * *Średnia Radiacja Tygodniowa (TICKQ SMA200):* **-88.54 [załamanie rynku]**
+    * *Zakres Radiacji w Tygodniu:* **Min -167.72 / Max -1.86**
+
+* **Struktura Grawitacyjna (Opcje — Sfera Dysona):**
+    * *Implied Volatility (IV):* **20.13%** (Średnia Tygodniowa: **19.76%** | Zmiana Tygodniowa: **+0.60 p.p.**)
+    * *Struktura Pozycji (Put/Call OI):* **1.4**
+
+---
+
+### Dziennik Pokładowy: Divergencja Warp: Rozszerzenie Sondy NQ przy Kompresji Jądra NDX
+
+**1. Trajektoria Tygodniowa i Zmienność Kursu (Przebieg Sesji Poniedziałek–Piątek)**
+Układ wykazał silną dekoherencję między obiektami. Gwiazda NDX przeszła proces kompresji, tracąc 103.18 pkt (-0.34%) względem otwarcia, przy tygodniowym ekstremum Low na poziomie 30289.09. Sonda NQ wykonała gwałtowny skok w kierunku Price Discovery, kończąc cykl z nadwyżką +278.84 pkt (+0.90%) względem otwarcia, co sugeruje wysoką energię napędu warp mimo niskiego poziomu bazy. Sfera Dysona QQQ podążała za trendem spadkowym Gwiazdy, tracąc 2.46 USD (-0.33%) i operując w wąskim zakresie amplitudy 7.31 USD. Całość układu oscylowała w stanie wysokiej niestabilności trajektorii.
+
+**2. Bilans Energii i Skumulowane Paliwo (Tygodniowy CVD i Wolumen)**
+Analiza skumulowanego przepływu agresywnego wolumenu ujawnia anomalną sytuację: mimo spadku nominalnego NDX i QQQ, CVD dla Gwiazdy NDX wskazuje na dodatni bilans +8.65M, co interpretuję jako test popytu i absorpcję podaży w dolnych rejonach orbity. Sonda NQ, mimo wzrostu kursu, operuje na niemal zerowym, lekko ujemnym CVD (-3.03K), co świadczy o braku agresywnego paliwa po stronie kupujących w przekroju 5 sesji. Sfera QQQ odnotowała ujemny bilans energii (-2.62M), potwierdzając presję wyprzedażową w strukturze ETF.
+
+**3. Ewolucja Masy, Zagęszczenie Jądra i Tarcze Opcyjne**
+Nastąpiła ogólna erozja masy całkowitej T-Mass, która spadła z 43.11 T do 42.86 T (-0.57%). Gęstość Jądra uległa rozrzedzeniu (spadek o 0.28 p.p. do poziomu 70.25%), co przy jednoczesnym drastycznym spadku Średniej Akcji (-14.66%) wskazuje na wypływ energii z mniejszych obiektów. Jądro (>1T) zachowało stabilność strukturalną, nie wykazując kolapsu. Radiacja TICKQ (SMA200) osiągnęła poziom -88.54, co sygnalizuje głębokie załamanie w promieniowaniu tła układu. Zmienność implikowana (IV) wzrosła o 0.60 p.p. do poziomu 20.13%, a wskaźnik Put/Call OI na poziomie 1.4 sugeruje budowę cięższych osłon po stronie spadkowej.
+
+**Werdykt Kwantowy:**
+Układ znajduje się w stanie silnej dywergencji między instrumentem NQ a rzeczywistością kasową NDX. Skumulowany bilans energii sugeruje, że spadki kursowe są absorbowane (CVD NDX +), jednak erozja T-Mass i ujemna radiacja TICKQ wskazują na dominację sił grawitacji ujemnej. System czeka na rekonfigurację masy.
+
+**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+

@@ -1,0 +1,238 @@
+# H-Log: 2026-09-16 - A Classic Account of Market Events
+
+Date: 2026-09-16 23:09
+URL: https://heniu.blog/en/h-log/hlog-2026-09-16/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.09.16 [EN]</h1>
+<h3>📈 [2026-09-16 23:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> Closed. Last readings of the NDX index (28949.19, +0.02%) and QQQ ETF (704.75, +0.02%) indicate stabilization at the final levels of the session, with a strong cumulative inflow of capital in the cash market (CVD NDX: 169,93 M).</li>
+<li><strong>Futures (NQ):</strong> the NQ Probe maintains a slight bullish advantage (29263.75, +0.03%), however, a demand test was noted with negative cumulative energy flow (CVD NQ: -11,89 K), suggesting consolidation and the search for new support levels in the evening session.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction index is 100, which signals maximum capital inflow advantage in the current configuration.</li>
+<li><strong>QQQ options market:</strong> With a volume of 7,583,758 contracts and IV at 19.05%, the market prices the expected range of movement between 696.37 – 712.71. The Put/Call Ratio at 1.04 suggests a slight advantage of hedging positions or expectations of increased volatility.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 23:07</p>
+<h3>📈 [2026-09-16 21:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Cash market situation:</strong> The market shows strong selling pressure with a lack of significant price movements. Despite the stabilization of the NDX Star (+0,01%), the cumulative CVD energy flow at a level of -21,82 mln shares and negative market sentiment (-40) indicate a dominance of capital distribution. The broad market (TICKQ) Background Radiation is in a state of deep negative dynamics (-571,00), which deviates significantly from the SMA200 average (-76,24), confirming a strong supply advantage.</li>
+<li><strong>Spot/Futures Relation:</strong> NQ Probes show a slight correction (-0,02%) with minimal negative CVD energy flow (-11,47 tys.), suggesting high synchronization with the cash market and a lack of clear divergence between instruments.</li>
+<li><strong>QQQ Dyson Sphere Analysis:</strong> The options market records high volume (7,58 mln) with a Put/Call Ratio at a level of 1,04, which signals caution and a slight bearish bias (a higher number of downside hedging positions). Implied volatility (IV) is 19,05%, and the market forecast for the range of movement oscillates around 696,37 – 712,71 pts.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 21:07</p>
+<h3>📈 [2026-09-16 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Cash market and sentiment:</strong> The NDX Star is rising by 0.88% (29193.17), however, a significant divergence in flows has been noted – the cumulative CVD for NDX is -1.53 M, which, alongside the rising price, suggests testing demand amidst simultaneous supply pressure. The flow direction indicator is 10, indicating a weak advantage in capital inflow. The broad market (TICKQ) shows strong relative strength at 185.00, significantly above the SMA200 average (-66.19).</li>
+<li><strong>Futures:</strong> the NQ Probe maintains correlation with the cash index (+0.86%), showing slight accumulation in flows (CVD: 22.63 K).</li>
+<li><strong>QQQ ETF and options structure:</strong> the Dyson Sphere (QQQ) ETF is rising by 0.86% (710.62) with a cumulative inflow of 701.76 K. On the QQQ options market, a volume of 7 583 758 was recorded with a Put/Call Ratio at 1.04, suggesting a neutral-bearish sentiment and hedging. Implied volatility (IV) is 19.05%, and the market-expected range of movement for QQQ lies within the 696.37 – 712.71 range.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 20:07</p>
+<h3>📈 [2026-09-16 19:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Cash market analysis (NDX/QQQ/TICKQ):</strong> The NDX Star shows an increase of +0.70% (29139.41), however, the cumulative energy flow (CVD) at a level of -1,34 M shares indicates strong selling pressure and testing of demand in the base sector. The situation is deepened by the Background Radiation (TICKQ) indicator at a level of -108.00 (below the SMA200 average of -65.64), which suggests supply dominance in the broad Nasdaq market. The Dyson Sphere (QQQ) ETF follows the trend (+0.69%), showing a demand test with CVD in the range of 688,75 K.</li>
+<li><strong>Futures market (NQ):</strong> NQ contracts maintain relative strength with a breakout of +0.68% (29446.50) and are recording slight accumulation (CVD: 20,84 K), which may suggest an attempt to maintain higher levels despite the weakness of the cash market.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate capital flow direction indicator is 10, which indicates an almost neutral market structure with a slight inflow advantage, while simultaneously experiencing high internal volatility.</li>
+<li><strong>QQQ options market:</strong> With a volume of 7,583,758 contracts and IV at a level of 19.05%, the market prices the expected range of movement in the 696.37 – 712.71 interval. The Put/Call Ratio at a level of 1.04 suggests a slight prevalence of hedging positions or expectations of a correction, which correlates with the negative Background Radiation (TICKQ) reading.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 19:07</p>
+<h3>📈 [2026-09-16 18:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Cash market and indices:</strong> The NDX index records an increase of 0.82% (29173.82), with a simultaneous capital inflow in the cash market (CVD NDX) at a level of 6.48 M, indicating testing of demand. NQ contracts and the QQQ ETF show a strong correlation, rising by 0.80% and 0.81% respectively, with clear capital accumulation in both instruments.</li>
+<li><strong>Broad market:</strong> The Background Radiation (TICKQ) indicator is at a level of -116.00, which, with an SMA200 average of -62.84, signals strong selling pressure in the broad basket of Nasdaq stocks, contrasting with the additional result of the main indices.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 10, which on a scale from -100 to +100 means a neutral advantage of capital inflow, suggesting a lack of a clear, dominant directional trend across the entire sector.</li>
+<li><strong>Options market:</strong> Implied Volatility (IV) at a level of 19.05% and a Put/Call Volume Ratio of 1.04 indicate moderate defensive sentiment and increased activity in hedging positions. The market-expected price range for the Dyson Sphere (QQQ) lies within the range of 696.37 – 712.71.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 18:07</p>
+<h3>📈 [2026-09-16 17:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Cash market and sentiment:</strong> NDX (+0,87%) and QQQ (+0,89%) indices show strong relative strength, which is confirmed by a positive flow direction indicator (15), indicating a moderate advantage in capital inflow. The broad market (TICKQ) is in a strong upward trend (225.00) with the SMA200 average at -56.99, suggesting high buyer activity.</li>
+<li><strong>Flow analysis (CVD):</strong> Accumulation was noted on NQ contracts (CVD: 23,79K) and a demand test on the cash market (CVD NDX: 18,02M; CVD QQQ: 934,19K), which supports current upward directions.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 19,05%, with option volume at the level of 7.58 mln contracts. The Put/Call Ratio at 1.04 suggests investor caution and a slight advantage of hedging positions, which, with an expected movement range between 696,37 – 712,71 points, defines key support and resistance levels for the instrument.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 17:07</p>
+<h3>📈 [2026-09-16 16:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Cash market and indices:</strong> The NDX index and QQQ ETF show an increase of 0.67%, with a demand test recorded in the cash market (CVD NDX: 2.28M; CVD QQQ: 814.97K). Simultaneously, the broad market indicator TICKQ is at -225.00, which, with a SMA200 average of -56.83, indicates strong selling pressure in smaller components of the index, creating a potential divergence against the main leaders.</li>
+<li><strong>Futures:</strong> the NQ Probe follows the trend of the cash index (+0.67%), showing slight accumulation (CVD: 14.96K).</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 10, which signals a very weak, almost neutral capital inflow, suggesting a lack of a clear continuation impulse.</li>
+<li><strong>Options market:</strong> In the QQQ options market with a volume of 7.58M and implied volatility (IV) at a level of 19.05%, we observe a slight advantage of selling (Put/Call Ratio: 1.04). The market-expected range of movement in the next cycle oscillates in the range of 696.37 – 712.71 pts.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 16:07</p>
+<h3>📈 [2026-09-16 15:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> Closed. Last readings indicate the NDX index closed at 28937.75 (-0.65%) with a cumulative energy flow (CVD) of approximately 135,09 M, suggesting the presence of passive demand absorption at the end of the regular session.</li>
+<li><strong>NQ Futures (NQ):</strong> Active trading of NQ contracts shows a slight advantage for buyers (+0.43%, price 29373.25) with low energy flow volume (CVD 6,62 K), indicating demand testing under conditions of limited liquidity after the cash session.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 25, signaling a moderate advantage of capital inflow throughout the system, despite the negative close of the main index.</li>
+<li><strong>the Dyson Sphere (QQQ) options market:</strong> With a volume of 7,583,758 contracts and a Put/Call Ratio at 1.04, the market shows a slight tilt toward hedging or expectations of declines. Implied volatility (IV) is 19.05%, and the market is pricing the expected range of movement for the QQQ instrument within the 696.37 – 712.71 interval.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 15:07</p>
+<h3>📈 [2026-09-16 14:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> Closed. The NDX Star finished the session at 28937.75 (-0.65%), with a very high cumulative energy flow (CVD) of 135.09 M, suggesting strong passive capital accumulation despite the price decline. The Dyson Sphere (QQQ) ETF closed at 704.59 (-0.65%) with a negative flow (-387.34 K).</li>
+<li><strong>NQ Contracts (NQ):</strong> Currently trading at 29434.75 (+0.65%). A clear divergence from the closed cash session is visible; NQ Probes are testing demand, attempting to recover losses from the regular session.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 25, indicating a moderate advantage of net inflow in general terms, despite the negative close of the cash indices.</li>
+<li><strong>QQQ Options Analysis:</strong> Implied volatility (IV) is 19.05%, with a Put/Call Ratio at 1.04, signaling a slight shift towards hedging or expectations of increased volatility. The market-expected range of movement for QQQ lies between 696.37 – 712.71.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 14:07</p>
+<h3>📈 [2026-09-16 13:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> The stock market is currently closed. The NDX Star closed the session with a result of -0.65% (28 937.75), however, a significant anomaly in the flow structure was noted: cumulative CVD for NDX is 135.09 mln, which, given the simultaneous price drop, suggests passive absorption of supply and strong capital accumulation at the end of the session.</li>
+<li><strong>Futures contracts (NQ):</strong> In the futures session, NQ Probe contracts show relative strength, rising by +0.46% (29 379.75). Cumulative CVD for NQ (7.51 thousand) indicates testing of demand in current after-hours trading.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 25, which signals a moderate advantage of capital inflow throughout the entire system, despite the negative results of the cash indices.</li>
+<li><strong>Options market (QQQ):</strong> In the QQQ Dyson Sphere (QQQ) options market, volume was recorded at 7.58 mln with a Put/Call Ratio of 1.04, indicating a slight advantage of hedging positions or expectations for greater volatility. Implied volatility (IV) is 19.05%, and the market is pricing in an expected movement range between 696.37 – 712.71 points.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 13:07</p>
+<h3>📈 [2026-09-16 12:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> Market closed. The latest NDX Star readings indicate a decrease of 0.65% (price 28937.75), however, a significant anomaly in flows was recorded: cumulative CVD for NDX is 135.09 mln, which, given the falling price, suggests passive absorption of supply and strong institutional accumulation in the final phase of the session.</li>
+<li><strong>Futures contracts (NQ):</strong> In the futures session, the NQ Probe shows relative strength compared to the closed cash market, rising by 0.41% (price 29367.25). A small CVD at the level of 5.52 thousand indicates testing of demand in the current price range.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 25, signaling a moderate advantage in capital inflow, despite the negative price dynamics of the cash indices.</li>
+<li><strong>QQQ option analysis:</strong> The options market prices implied volatility (IV) at a level of 19.05%, with the expected movement range for the Dyson Sphere (QQQ) between 696.37 – 712.71. The Put/Call Ratio at a level of 1.04 suggests a slight advantage of hedging positions or expectations of increased volatility, which, with a volume of 7.58 mln contracts, builds significant support and resistance levels in the Gamma structure.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 12:07</p>
+<h3>📈 [2026-09-16 11:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> The cash market is currently closed. The NDX Star closed the session at 28939.65 (-0.65%), however, a significant anomaly in flows was noted: cumulative CVD for NDX was 138,15 M, which, given the price drop, suggests strong passive supply absorption and capital accumulation at the end of the session. The Dyson Sphere (QQQ) ETF closed down by 0.65%, with negative energy flow (CVD: -435,06 K).</li>
+<li><strong>Futures contracts (NQ):</strong> In the futures session, we observe a slight recovery – NQ Probe contracts are trading at +0.43% (29371.50). Cumulative CVD energy flow for NQ is 4,42 K, indicating testing of demand at current price levels.</li>
+<li><strong>Sentiment and liquidity:</strong> The aggregate flow direction indicator is 25, signaling a moderate advantage in capital inflow, despite the negative results of the cash session.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) at 19.05% with a volume of 7,58 mln contracts indicates stable conditions, although the Put/Call ratio at 1.04 suggests a slight advantage of hedging positions or expectations for greater downside volatility. The expected range for QQQ is set at 696.37 – 712.71.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 11:07</p>
+<h3>📈 [2026-09-16 10:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>NQ Probe analysis:</strong> Nasdaq (NQ) futures contracts show a slight buyer advantage (+0.33% at price 29342.00), even though the cash session (Spot) remains closed. The cumulative energy flow (CVD) for NQ at the level of 4,67K indicates weak, testing demand in the current price range.</li>
+<li><strong>the cash session context:</strong> The cash market (NDX, QQQ) is currently inactive. It should be noted that before the session close, the NDX index recorded a decline of -0.65%, however, with a very high cumulative capital inflow (CVD NDX = 138,15M), which suggests strong passive absorption of supply and accumulation at lower levels.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 25, which indicates a moderate advantage of capital inflow throughout the system, despite the recorded price declines in the cash session.</li>
+<li><strong>the Dyson Sphere (QQQ) options market:</strong> Implied volatility (IV) is 19.05%, and the Put/Call Ratio at the level of 1.04 suggests a slight dominance of hedging positions or expectations for increased volatility. The market-expected range of movement for QQQ is within the range of 696.37 – 712.71.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 10:07</p>
+<h3>📈 [2026-09-16 09:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Futures market:</strong> NQ contracts show a slight buyer advantage (+0.49% at price 29391.00), testing demand during pre-market session.</li>
+<li><strong>the cash session (Spot):</strong> The cash session is currently closed. It is worth noting a significant divergence from the regular session close: despite the NDX Star falling by 0.65%, the cumulative energy flow (CVD) in the cash market was 138.15 M, suggesting the presence of passive supply absorption or accumulation around lower levels.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 25, indicating a moderate advantage of capital inflow throughout the system, despite negative profitability of the main cash indices.</li>
+<li><strong>QQQ option analysis:</strong> The options market shows a neutral-negative bias with a Put/Call Ratio at 1.04. Implied Volatility (IV) is 19.05%, and the market-expected range of movement for the Dyson Sphere (QQQ) falls within the 696.37 – 712.71 range. Option volume at 7.58 mln indicates active hedging in current volatility conditions.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 09:07</p>
+<h3>📈 [2026-09-16 08:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> Closed. The NDX Star closed the session with a result of -0.65% (28939.65), however, strong, potentially absorptive activity was noted on the cash market – the cumulative energy flow (CVD) for NDX is 138.15 M, which, despite the price drop, suggests active institutional accumulation in the support zone.</li>
+<li><strong>NQ Probe (NQ):</strong> In the pre-market session, NQ Probe contracts show a slight buyer advantage (+0.35% to the level 29349.50) with marginal energy flow (CVD) (3.33 K), indicating a testing of demand to establish direction for the regular session open.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 25, which signals a moderate advantage of capital inflow in a holistic view, despite the negative results of the cash index.</li>
+<li><strong>Options market (the Dyson Sphere (QQQ)):</strong> Implied volatility (IV) at a level of 19.05% with a Put/Call Ratio of 1.04 suggests a neutral-defensive sentiment with a slight inclination towards hedging on the bearish side. The expected range of movement for the QQQ instrument lies within the range 696.37 – 712.71.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 08:07</p>
+<h3>📈 [2026-09-16 07:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> Closed. The NDX Star closed the session with a result of -0.65% (28939.65), however, a significant anomaly in the flow structure was noted – the cumulative CVD for NDX at the level of 138,15 M indicates strong passive supply absorption and capital accumulation despite the price decline.</li>
+<li><strong>Futures contracts (NQ):</strong> In the futures session, the NQ Probe shows a slight advantage for buyers (+0.18%, price 29298.00) with a marginal test of demand (CVD: 2,08 K), suggesting an attempt at stabilization after the close of the cash session.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 25, which signals a moderate advantage of capital inflow in general terms, despite the negative dynamics of the cash indices.</li>
+<li><strong>QQQ option analysis:</strong> The options market shows a neutral-defensive sentiment. The Put/Call Ratio at the level of 1.04 indicates a slight advantage of hedging positions. With implied volatility (IV) at 19.05%, the market is pricing the expected range of movement in the interval of 696.37 – 712.71 points.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 07:07</p>
+<h3>📈 [2026-09-16 06:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> Closed. The NDX Star index ended the session at level 28939.65 (-0.65%), with a strong cumulative energy flow (CVD) at level 138,15 M. This indicates a significant divergence: despite the price drop, strong buying activity was visible in the cash market, suggesting passive absorption of supply or the formation of a base for future accumulation.</li>
+<li><strong>the NQ Probe (NQ):</strong> Currently trading at level 29333.50 (+0.30%). In the futures session, we observe a slight upward correction, however, with low energy flow (CVD: 2,87 K), this move is characterized as testing demand and may only be a consolidation after the regular session.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 25, which indicates a moderate advantage of capital inflow in general terms, despite the negative close of the main indices.</li>
+<li><strong>Options market (the Dyson Sphere (QQQ)):</strong> Implied volatility (IV) is 19.05%, with a Put/Call Ratio at level 1.04. The dominance of Put options suggests investor caution and the building of hedges against potential volatility. The market-expected range of movement for QQQ lies within the range 696.37 – 712.71.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 06:07</p>
+<h3>📈 [2026-09-16 05:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> Closed. The NDX Star finished the session at 28939.65 (-0.65%), with a significant cumulative inflow of capital (CVD NDX = 138,15 M), suggesting passive absorption of supply in the final phase of the session.</li>
+<li><strong>NQ Contracts:</strong> Currently trading with a slight upward bias (+0.19%) at 29303.50. A very low CVD level (1,87 K) indicates testing of demand under low liquidity during pre-market hours.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 75, indicating strong dominance of capital inflow in general terms, despite negative readings on the QQQ ETF (-435,06 K) at close.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 19.05%, and the Put/Call Ratio at 1.04 suggests a slight tilt towards hedging or anticipation of increased volatility. The movement range for the Dyson Sphere (QQQ) is set within the 696.37 – 712.71 interval.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 05:07</p>
+<h3>📈 [2026-09-16 04:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot) status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of futures contracts and data from the regular session close.</li>
+<li><strong>NQ Contracts:</strong> the NQ Probe instrument shows high stability in the face of declines in the cash market, oscillating around the level 29238.00 (-0.03%). Cumulative energy flow (CVD) at the level 744 indicates testing of current demand with low volume activity.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction index is 75, signaling a strong prevalence of net inflow in general terms. Despite a negative change in the NDX Star price (-0.65%), significant accumulation was recorded in the cash market (CVD NDX = 138,15 M), suggesting passive absorption of supply and may indicate the formation of a false breakdown.</li>
+<li><strong>QQQ Options Market:</strong> Implied Volatility (IV) at the level 19.05% with a Put/Call Volume ratio of 1.04 indicates a neutral-slightly bearish mood in hedges. The market-expected range of movement for the Dyson Sphere (QQQ) lies within the range 696.37 – 712.71, which at the current price of 704.59 suggests consolidation within the designated support and resistance levels.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 04:07</p>
+<h3>📈 [2026-09-16 03:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> Closed. The cash market ended the session with the NDX Star falling by 0.65% (price: 28939.65). A significant anomaly in flows was noted: despite the price drop, the cumulative energy flow (CVD) for the NDX Star was 138.15 mln, suggesting the presence of passive accumulation or supply absorption at lower levels towards the end of the session.</li>
+<li><strong>NQ Probe (NQ):</strong> Currently, the NQ Probe contract price is holding at 29247.75 (0.00%), showing stabilization relative to the close. The cumulative energy flow (CVD) for the NQ Probe is -181, indicating testing of demand and a lack of clear momentum in either direction during the futures session.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction index is 55, which, given the current market structure, indicates a moderate advantage in capital inflow and positive market sentiment.</li>
+<li><strong>the Dyson Sphere (QQQ) options analysis:</strong> Implied Volatility (IV) is 19.05%, with option volume at 7.58 mln. The Put/Call Ratio is 1.04, suggesting a slight advantage in Put positions, which may indicate hedging against the upcoming session. The market-expected range of movement for the Dyson Sphere (QQQ) is within the range of 696.37 – 712.71.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 03:07</p>
+<h3>📈 [2026-09-16 02:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot) situation:</strong> The cash market remains closed. The latest readings from the regular session indicate a divergence between price and volume: despite a 0.65% drop in the NDX index, the cumulative energy flow (CVD) at the level of 138.15 mln indicates strong buying activity, which may suggest a process of passive absorption of supply.</li>
+<li><strong>NQ Probe activity:</strong> In the futures session, NQ contracts show a slight bullish advantage (+0.08%) with very low energy flow volume (CVD: 741), suggesting a lack of clear direction and consolidation in search of liquidity.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 75, confirming a strong advantage of capital inflow throughout the system, despite the recorded price declines in the cash indices.</li>
+<li><strong>Options market analysis (the Dyson Sphere (QQQ)):</strong> The options market shows moderate implied volatility (IV: 19.05%). The Put/Call Ratio at the level of 1.04 suggests a slight advantage of short (protective) positions, which, given the expected movement range within 696.37 – 712.71 for QQQ, indicates the building of hedges against potential volatility.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 02:07</p>
+<h3>📈 [2026-09-16 01:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot) status:</strong> The cash session (Spot) is currently closed. Analysis is based on futures contract activity and data from the regular session close.</li>
+<li><strong>NQ activity:</strong> NQ contracts show a slight buyer advantage (+0.12%), at a price of 29281.00. Cumulative energy flow (CVD) at a level of 563 indicates testing of demand under low liquidity conditions during the after-hours session.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 75, signaling a strong dominance of capital inflow. We note a significant divergence: despite the NDX Star decreasing by (-0.65%) at the close, the cumulative energy flow (CVD) in the cash session was 138.15 M, suggesting a process of passive accumulation below support levels.</li>
+<li><strong>the Dyson Sphere (QQQ) options market:</strong> Implied Volatility (IV) is 19.05%, and the Put/Call Ratio at 1.04 indicates moderate hedging pressure on the put side. The market-expected range of movement for QQQ is within 698.33 – 710.75.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 01:07</p>
+<h3>📈 [2026-09-16 00:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot) status:</strong> the cash session (Spot) is currently closed. Data from the NDX Star and the Dyson Sphere (QQQ) reflect the state at the close of the regular session, where an index decline of -0.65% was recorded with a simultaneous strong inflow of capital (CVD NDX: 138,15 M), suggesting passive absorption of supply and potential accumulation in the final phase of the session.</li>
+<li><strong>the NQ Probe activity:</strong> In the current trading of NQ contracts, we observe a slight price appreciation (+0.07%) with very low energy flow activity (CVD NQ: 78), indicating a lack of clear direction and testing of demand on low volume.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 75, indicating a strong predominance of net inflow in a holistic view, despite the negative results of the cash indices.</li>
+<li><strong>QQQ options analysis:</strong> The options market shows moderate implied volatility (IV: 19.05%). The Put/Call Ratio at a level of 1.04 suggests a slight shift towards hedging or anticipation of higher volatility. The expected range of movement for QQQ lies within the 698.33 – 710.75 interval.</li>
+</ul>
+<p>H-Log Report: 2026-09-16 00:07</p>
+

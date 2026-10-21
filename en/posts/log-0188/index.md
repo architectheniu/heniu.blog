@@ -1,0 +1,95 @@
+# Log #0188: Core Collapse and Panic Radiation
+
+Date: 2026-09-28 22:09
+URL: https://heniu.blog/en/posts/log-0188/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-04)**  
+> **Wrong CVD labels.** Heniu's threshold reader did not recognise the typographic minus sign "−" and classified every negative CVD value as a "demand test". This was fixed in code on 2026-10-04. Correct labels under Heniu's thresholds:
+> - NDX CVD −139.26 M: **panic** (not "demand test"),
+> - NQ CVD −1.56 K: **supply test**,
+> - QQQ CVD −879.12 K: **supply test**.
+>
+> The statements built on these labels about "demand testing" (abstract, points 1–3 and the Quantum Verdict) are withdrawn, including the divergence between a "demand test" on the NQ Probe and the panic in TICKQ radiation. Flows on all three objects were negative, consistent with the negative background radiation.
+>
+> **Average Action** $294.30 (Delta $-20.99): unreliable reading. In the week of 28 Sep–1 Oct this value moved between −9% and +12% a day while NDX moved by no more than 1.08%, which points to a measurement error, not a price move. Withdrawn until explained.
+>
+> The original text of the 2026-09-28 entry is kept below for auditability.
+
+**Stardate:** 2026.09.28
+**Systems Status:** External Observation
+**Sector:** Inner Volatility Bands
+
+---
+
+### Closing Telemetry
+
+> *Observation of mass decrease in Class 0 sector triggers intense background radiation. The system is in a phase of testing demand amidst panic in the broad market spectrum.*
+
+* **Subspace Scanner (Mass Distribution):**
+    * *System T-Mass:* **42.71 Trillion USD**
+    * *Session Delta (24h):* **-0.43 Trillion USD**
+    * *Core Density (Heavy Nine):* **68.15%** (Delta: **-2.40%**)
+    * *Average Action (Periphery Temperature):* **$294.30** (Delta: **$-20.99**)
+
+* **the NDX Star (Sun):** Close: **30279.20 (-1.08%)**
+    * *Vector (CVD):* **−139,26 M [demand test]**
+    * *MOC Anomaly:* **-8,14 M**
+    * *Range Consumption (ADR Util):* **130.18%**
+
+* **the NQ Probe (Mercury):** Close: **30570.75 (-1.03%)**
+    * *Vector (CVD):* **−1,56 K [demand test]**
+    * *Range Consumption (ADR Util):* **125.10%**
+
+* **the Dyson Sphere (QQQ):** Close: **736.53 (-1.07%)**
+    * *Population Vector:* **−879,12 K [demand test]**
+    * *Range Consumption (ADR Util):* **128.48%**
+
+* **Background Radiation (TICKQ) -788.00 [panic]:**
+    * *SMA200:* **-68.91 [market collapse]**
+
+* **Gravitational Structure (Options):**
+    * *Implied Volatility (IV):* **19.53%%**
+    * *Put/Call OI:* **1.40**
+
+---
+
+### Logbook: Daily Observational Report
+
+**1. Core Composition Fluctuation and NDX Gravity**
+the Central Star (NDX) recorded a decrease of 1.08%, with energy flow (CVD) at -139,26M classifying the current state as a demand test. A key phenomenon is the Collapse within the Core (>1T) – a mass decrease was noted in the AMD object, destabilizing the local gravitational structure. Despite this, central units are attempting to maintain orbits, not yet transitioning into an extreme panic phase.
+
+**2. TICKQ Radiation and the State of the Dyson Sphere**
+Background Radiation (TICKQ) reached a level of -788.00, signaling a state of panic in the broad system. Average radiation (SMA200) is -68.91, indicating a market collapse in the wider context. the Dyson Sphere (QQQ) shows a decrease of 1.07% with CVD at -879,12K, confirming demand testing within dealer defensive structures.
+
+**3. NQ Probe Dynamics and Field Stability**
+the NQ Probe (futures session) is moving towards -1.03% with minimal negative fuel pressure (CVD: -1,56K), keeping it in a demand test regime. The system is characterized by volatility (IV) at a level of 19.53% with a total system mass (T-Mass) of 42.71 Trillion USD. A divergence is observed between local demand testing on the probe and global TICKQ radiation panic.
+
+**Quantum Verdict:**
+The system is passing through a phase of testing demand on major objects; however, high panic radiation in the broad spectrum (TICKQ) and a collapse in the Core composition suggest instability of the force field.
+
+**Status:** EXTERNAL OBSERVATION. Shields active.
+
+**End of log.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Quantum Market Cosmology: Logbook",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

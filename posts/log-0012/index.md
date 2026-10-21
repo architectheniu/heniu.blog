@@ -1,0 +1,48 @@
+# Log #0012: Anomalie Próżniowe - Widmowy Wzrost
+
+Data: 2026-02-09 22:00
+Adres: https://heniu.blog/posts/log-0012/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+### Telemetria Zamknięcia (22:00 CET)
+
+> *Skaner Henia zarejestrował zamknięcie sesji. Wykryto krytyczną niespójność między wektorem ruchu a zużytą energią.*
+
+* **Carrier Flux (Cena NQ):** **25.35 kΦ** (+0.74%).
+* **Przepływ Energii (CVD):**
+    * *NQ (Futures):* **+1.68k** (Poziom śladowy. Krytycznie niski jak na taki zasięg ruchu).
+    * *NDX (Spot):* **-16.99M** (Negatywny! Dystrybucja pod płaszczem wzrostów).
+* **Szerokość Rynku (TICKQ):** Zamknięcie na poziomie **-426** (MOC Sell). Średnia (SMA) wciąż głęboko pod wodą (-64.77).
+* **Q-Score:** **10/100** (Stan Alarmowy). Algorytm odrzuca ten wzrost jako "szum".
+
+---
+
+### Dziennik Pokładowy: Lot Bezwładnościowy
+
+Dzisiejsza sesja to lekcja fizyki w próżni.
+Zazwyczaj, aby przesunąć obiekt o masie $25 bilionów (Nasdaq-100) o blisko 1% w górę, potrzeba potężnych silników (agresywnego kupna).
+Dzisiaj stało się to przy wyłączonym zasilaniu.
+
+**1. Zjawisko Próżni (Liquidity Vacuum)**
+Indeks osiągnął poziom **25.35 kΦ**, ale CVD na kontraktach futures wyniosło zaledwie **1.68k**.
+* *Interpretacja:* To nie był "Rajd Kupujących". To był "Dzień Nieobecności Sprzedających".
+* Po piątkowej kapitulacji, podaż chwilowo wyparowała. Cena unosi się w górę nie dlatego, że ktoś mocno kupował, ale dlatego, że nikt nie sypał zleceniami w dół. To **Dryf**, nie Impuls.
+
+**2. Dywergencja Kasowa (Spot vs Futures)**
+Najbardziej niepokojący odczyt pochodzi z Rdzenia (NDX Spot). Podczas gdy cena rosła, wolumen skumulowany na akcjach był ujemny (**-16.99M**).
+To oznacza, że "Smart Money" wykorzystali ten dryf w górę, aby po cichu upłynniać akcje (sprzedawać w siłę), podczas gdy algorytmy futures podciągały wycenę na małym wolumenie.
+
+**3. Opcje: Defensywa**
+Put/Call Volume Ratio wzrósł do **1.11**. Mimo zielonego koloru na wykresach, uczestnicy rynku zabezpieczają się przed spadkiem. Nikt nie ufa tej "zieleni".
+
+**Wnioski Nawigacyjne:**
+Ten wzrost jest **Widmowy**. Nie ma strukturalnego poparcia w przepływie kapitału (Flow).
+Wygląda to na klasyczne "Inventory Adjustment" przed kolejnym ruchem.
+Uwaga. Grawitacja działa z opóźnieniem, ale działa zawsze. Jeśli jutro nie zobaczymy wejścia prawdziwego paliwa (CVD > 20k), ten statek zacznie opadać.
+
+**Status:** Pełna gotowość obronna. Nie goń ceny w próżni.
+
+**Koniec transmisji.**

@@ -1,0 +1,95 @@
+# Log #0192: Pulsar Emergence in the shadow of extreme background radiation
+
+Date: 2026-10-02 22:18
+URL: https://heniu.blog/en/posts/log-0192/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-04)**  
+> **This entry does not describe the 2026-10-02 session.** Market data stopped reaching Heniu on 2 Oct at about 9:19 ET, before the cash session opened; that day's T-Log and H-Log end before the open. The session-close report did not check data freshness and published readings taken before the session:
+> - T-Mass 42.86 T (Delta −0.02), Core Density 70.25% (+2.14%), NDX Star 30506.61, NDX CVD 85.32 M, MOC Anomaly +79.39 M, NDX ADR 108.35%, QQQ Dyson Sphere 742.04, QQQ CVD −79.93 K, QQQ ADR 107.12% and Put/Call OI 1.40 are Thursday 1 Oct readings (identical to Log #0191). The "+0.31%" for NDX and QQQ is Thursday's change.
+> - NQ Probe 31167.75 (+1.32%), CVD 21.67 K and ADR 96.83% are a pre-open reading (about 9:19 ET), not the close.
+> - TICKQ −80.00, SMA200 −174.94 and IV 20.13% do not come from observing the 2 Oct session.
+> - Average Action $269.07 (Delta $-31.49): the delta was measured against Wednesday 30 Sep; the reading is unreliable.
+> - The "demand test" label on QQQ CVD −79.93 K came from a failure to read the typographic minus sign (correct label: supply test). This was fixed in code on 2026-10-04.
+>
+> The entire Logbook of this entry is withdrawn, including the NQ (+1.32%) vs NDX (+0.31%) divergence described as a market phenomenon. It was an artifact of combining readings taken at different moments. 2026-10-02 session data: no data.
+>
+> The original text of the 2026-10-02 entry is kept below for auditability.
+
+**Stardate:** 2026.10.02
+**Systems Status:** External Observation
+**Sector:** Inner Volatility Bands
+
+---
+
+### Closing Telemetry
+
+> *Despite the extremely negative width of the TICKQ Background Radiation, the NDX Central Star exhibits strong energy accretion. The system observes a divergence between the stability of the Core and the destabilization of the broad force field.*
+
+* **Subspace Scanner (Mass Distribution):**
+    * *System T-Mass:* **42.86 Trillion USD**
+    * *Session Delta (24h):* **-0.02 Trillion USD**
+    * *Core Density (Heavy Nine):* **70.25%** (Delta: **+2.14%**)
+    * *Average Action (Periphery Temperature):* **$269.07** (Delta: **$-31.49**)
+
+* **the NDX Star (Sun):** Close: **30506.61 (+0.31%)**
+    * *Vector (CVD):* **85,32M [market blast]**
+    * *MOC Anomaly:* **+79.39 M**
+    * *Range Consumption (ADR Util):* **108.35%**
+
+* **the NQ Probe (Mercury):** Close: **31167.75 (+1.32%)**
+    * *Vector (CVD):* **21.67K [accumulation]**
+    * *Range Consumption (ADR Util):* **96.83%**
+
+* **the Dyson Sphere (QQQ):** Close: **742.04 (+0.31%)**
+    * *Population Vector:* **−79.93K [demand test]**
+    * *Range Consumption (ADR Util):* **107.12%**
+
+* **Background Radiation (TICKQ) -80.00 [sell-off]:**
+    * *SMA200:* **-174.94 [extremely negative width]**
+
+* **Gravitational Structure (Options):**
+    * *Implied Volatility (IV):* **20.13%%**
+    * *Put/Call OI:* **1.40**
+
+---
+
+### Logbook: Cycle Analysis 2026.10.02
+
+**1. Accretion in the Center of Mass**
+the NDX Star recorded an increase of 0.31%, generating an energy flow (CVD) at the level of 85.32M, which classifies the state as a "market blast". Simultaneously, in the Core (>1T), the emergence of new mass occurred – AMD is warping local spacetime, increasing the system's mass. the NQ Probe, driven by leverage, drifts on a higher orbit (+1.32%) while maintaining accumulation parameters (CVD: 21.67K).
+
+**2. Background Radiation and Dyson Sphere Anomalies**
+A critical dissonance in the system's width is observed. TICKQ shows a "sell-off" state (-80.00), and the average SMA200 radiation reached the level of -174.94, which means "extremely negative width" and extreme supply pressure in the lower layers of civilization. the Dyson Sphere (QQQ) shows a slight expansion (+0.31%), but its internal energy flow (CVD: -79.93K) indicates a "demand test", suggesting the construction of energy shields in the face of negative radiation.
+
+**3. Structure Dynamics and System Mass**
+The total system mass (T-Mass) is 42.86 Trillion USD. Although the NQ Probe and the NDX Star show an upward trend, the extremely negative average background radiation suggests that energy is concentrated in Class 0 objects and Pulsars, while the broad fauna of the system is in a phase of degradation.
+
+**Quantum Verdict:**
+Energy concentration in the Mother Star and a new Core object (AMD) masks the structural weakening of the broad force field. The system is in a state of high divergence between the central mass and the background radiation.
+
+**Status:** EXTERNAL OBSERVATION. Shields active.
+
+**End of log.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Quantum Market Cosmology: Logbook",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

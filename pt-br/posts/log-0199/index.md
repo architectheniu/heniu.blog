@@ -1,0 +1,100 @@
+# Log #0199: Paradoxo de Agregação: Expansão de Massa com Fluxo de Energia Negativo
+
+Data: 2026-10-11 09:00
+Endereço: https://heniu.blog/pt-br/posts/log-0199/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-18)**  
+> **O rótulo das cotações no balanço semanal estava errado.**
+>
+> **Correções:**
+> - O valor rotulado como “Abertura Segunda” é o fechamento da sexta-feira anterior, a partir do qual são calculadas as variações semanais, e não o preço de abertura de segunda-feira. Corrigimos o rótulo; as variações semanais não mudam.
+
+> ⚠️ **ERRATUM (2026-10-17)**  
+> **O fluxo semanal de CVD dos contratos NQ estava errado.** O relatório mostrou o valor do índice NDX em vez dos contratos NQ.
+>
+> **Correções:**
+> - CVD semanal de NQ: −14.07 K [venda], a soma de cinco fechamentos diários (+44.75 K, −11.08 K, +3.90 K, −41.22 K, −10.42 K), e não −115.87 M [pânico]. O valor −115.87 M vinha do índice NDX.
+> - Ação Média: os valores corretos não podem ser reconstruídos, por isso os removemos.
+
+**Stardate:** 2026.10.11
+**Status dos Sistemas:** Observação Externa
+**Setor:** Bandas Internas de Volatilidade
+
+---
+
+### Telemetria da Semana: Balanço de Abertura e Fechamento
+
+> *A semana caracterizou-se pelo aumento da massa total do sistema, acompanhado por uma forte divergência entre a taxa nominal e o fluxo acumulado de volume agressivo (CVD). O sistema passou por uma fase de alta amplitude de oscilações, encerrando o ciclo em um estado de estabilização incerta.*
+
+* **Scanner Subespacial (Balanço de Massa da Semana):**
+    * *T-Mass do Sistema (Abertura → Fechamento):* **43.50 T → 43.73 Trilhões de USD**
+    * *Delta Semanal de Massa:* **+0.23 Trilhões de USD (+0.54%)**
+    * *Densidade do Núcleo (Heavy Nine):* **70.52% → 68.42%** (Delta: **-2.09 p.p.**)
+    * *Ação Média (Temperatura da Periferia):* **[SEM DADOS]** (Delta: **[SEM DADOS]**)
+    * *Flutuação da Composição do Núcleo (>1T):* **Estabilidade (ausência de emergência/colapso)**
+
+* **a Estrela NDX (Sol — Balanço de 5 Sessões):**
+    * *Cotação (Fechamento da sexta anterior → Fechamento de sexta):* **30818.86 → 30881.86 (+63.00 pts | +0.20%)**
+    * *Amplitude Semanal (Extremos):* **30668.49 — 31280.46 (Amplitude: 611.97 pts)**
+    * *Fluxo de Energia Acumulado (CVD da Semana):* **−363.48 M [pânico]**
+
+* **a Sonda NQ (Mercúrio — Balanço de 5 Sessões):**
+    * *Cotação (Fechamento da sexta anterior → Fechamento de sexta):* **31060.63 → 31117.25 (+56.62 pts | +0.18%)**
+    * *Amplitude Semanal (Extremos):* **30906.50 — 31524.75 (Amplitude: 618.25 pts)**
+    * *Fluxo de Energia Acumulado (CVD da Semana):* **−14.07 K [venda]**
+
+* **a Esfera de Dyson (QQQ — Balanço de 5 Sessões):**
+    * *Cotação (Fechamento da sexta anterior → Fechamento de sexta):* **749.54 → 751.24 (+1.70 USD | +0.23%)**
+    * *Amplitude Semanal (Extremos):* **745.99 — 760.82 (Amplitude: 14.83 USD)**
+    * *Fluxo de População Acumulado (CVD da Semana):* **−1.45 M [liquidação]**
+
+* **a Radiação de Fundo (TICKQ — Amplitude de Mercado na Semana):**
+    * *Radiação Média Semanal (TICKQ SMA200):* **-62.42 [colapso do mercado]**
+    * *Amplitude de Radiação na Semana:* **Min -134.04 / Max +0.81**
+
+* **Estrutura Gravitacional (Opções — a Esfera de Dyson):**
+    * *Implied Volatility (IV):* **18.32%** (Média Semanal: **19.08%** | Mudança Semanal: **-1.19 p.p.**)
+    * *Estrutura de Posição (Put/Call OI):* **1.51**
+
+---
+
+### Diário de Bordo: Paradoxo da Agregação: Expansão de Massa com Fluxo de Energia Negativo
+
+**1. Trajetória Semanal e Volatilidade de Taxa (Curso das Sessões de Segunda a Sexta)**
+O sistema passou por uma fase de amplitude extrema de oscilações. a Estrela NDX apresentou um intervalo de movimento de 30668.49 a 31280.46 (611.97 pts), enquanto a Sonda NQ operou em uma banda larga de 30906.50 — 31524.75 (618.25 pts). Apesar da expansão inicial e do teste dos limites superiores da órbita, ambos os objetos encerraram o ciclo próximo aos pontos de abertura (NDX: +0.20%, NQ: +0.18%), o que indica uma forte compressão de taxa ao final da semana. a Esfera de Dyson QQQ manteve estabilidade relativa em uma ampla faixa de 745.99 — 760.82, encerrando com uma expansão insignificante (+0.23%).
+
+**2. Balanço de Energia e Combustível Acumulado (CVD Semanal e Volume)**
+Observa-se uma divergência crítica entre a trajetória da taxa e o fluxo de combustível. O balanço acumulado do volume agressivo (CVD) é profundamente negativo para todos os objetos principais: NDX (-363.48 M), NQ (-14.07 K) e QQQ (-1.45 M). A física do sistema indica a dominância da oferta no corte de 5 sessões (pânico/liquidação), que não foi equilibrada pela demanda agressiva, sugerindo que os aumentos nominais foram resultado da falta de liquidez ou absorção, e não de acreção ativa.
+
+**3. Evolução da Massa, Densificação do Núcleo e Escudos de Opções**
+Apesar do CVD negativo, a massa total do sistema (T-Mass) aumentou de 43.50 T para 43.73 T (+0.54%). No entanto, registrou-se um rarefeito da estrutura: a densidade do Núcleo caiu de 70.52% para 68.42%, indicando uma rotação de massa de objetos de Classe 0 para classes inferiores ou dispersão de energia. A ação média das empresas subiu 0.43%. A volatilidade implícita (IV) sofreu uma leve compressão (queda de 1.19 p.p. para o nível de 18.32%), com um coeficiente Put/Call OI simultaneamente alto de 1.51, sugerindo a construção de um escudo de proteção contra uma degradação adicional. A radiação TICKQ SMA200 no nível de -62.42 confirma o estado de profundo colapso da dinâmica interna do sistema.
+
+**Veredito Quântico:**
+O sistema encontra-se em um estado de tensão estrutural. O aumento de massa com o simultâneo balanço negativo de CVD e queda na densidade do Núcleo sugere que a trajetória atual é sustentada por mecanismos de absorção, e não por acreção real de energia. O sistema é suscetível a uma reconfiguração abrupta caso os níveis atuais de suporte sejam violados.
+
+**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
+
+**Fim do registro.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+

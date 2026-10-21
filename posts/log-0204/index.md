@@ -1,0 +1,93 @@
+# Log #0204: Kolaps Jądra i Grawitacyjna Panika w Układzie NDX
+
+Data: 2026-10-16 22:03
+Adres: https://heniu.blog/posts/log-0204/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-17)**  
+> **Średnia Akcja w tym wpisie była błędna.** Ceny czterech spółek powyżej 1000 USD (ASML, MELI, MPWR, SNDK) były odczytywane błędnie, więc średnia cena akcji i jej zmiana były zniekształcone.
+>
+> **Sprostowania:**
+> - Średnia Akcja na zamknięciu: $299.72 (z poprawnych cen tego samego odczytu), a nie $269.22. Zmiany wobec czwartku nie podajemy, bo czwartkowy odczyt miał ten sam błąd.
+> - -6.54% to zejście od najwyższego zamknięcia (31226.82), a -6.94% to korekta od szczytu w trakcie sesji (31360.85); obie z 06.10.
+> - Spadający indeks oddalał się od strefy 29940–29960 leżącej powyżej ceny, a nie zbliżał się do niej.
+> - Usunęliśmy podwójny znak procentu przy IV.
+
+**Stardate:** 2026.10.16\
+**Status Systemów:** Obserwacja Zewnętrzna\
+**Sektor:** Wewnętrzne Pasma Zmienności
+
+---
+
+### Telemetria Zamknięcia
+
+> *System odnotowuje gwałtowny spadek energii w Gwiazdzie Centralnej oraz destabilizację składu Jądra. Obserwowany przepływ paliwa wskazuje na stan paniki w całym układzie.*
+
+* **Skaner Podprzestrzenny (Rozkład Masy):**
+    * *T-Mass Układu:* **41.68 Tryliona USD**
+    * *Delta Sesyjna (24h):* **-0.91 Tryliona USD**
+    * *Gęstość Jądra (Heavy Nine):* **66.41%** (Delta: **-2.20%**)
+    * *Średnia Akcja (Temperatura Peryferii):* **$299.72** (Delta: **[BRAK DANYCH]**)
+
+* **Gwiazda NDX (Słońce):** Zamknięcie: **29184.88 (-2.50%)**
+    * *Wektor (CVD):* **−249,12 M [panika]**
+    * *Anomalia MOC:* **-25,81 M**
+    * *Zużycie Zasięgu (ADR Util):* **233.61%**
+    * *Zejście od szczytu Henia:* **-6.54%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+
+* **Sonda NQ (Merkury):** Zamknięcie: **29353.00 (-2.62%)**
+    * *Wektor (CVD):* **−88,47 K [panika]**
+    * *Zużycie Zasięgu (ADR Util):* **200.14%**
+
+* **Sfera Dyson’a (QQQ):** Zamknięcie: **709.86 (-2.49%)**
+    * *Wektor Populacji:* **−2,83 M [załamanie rynku]**
+    * *Zużycie Zasięgu (ADR Util):* **235.89%**
+
+* **Promieniowanie Tła (TICKQ) -190.00 [wyprzedaż]:**
+    * *SMA200:* **-77.91 [załamanie rynku]**
+
+* **Struktura Grawitacyjna (Opcje):**
+    * *Implied Volatility (IV):* **22.76%**
+    * *Put/Call OI:* **1.44**
+
+---
+
+### Dziennik Pokładowy: Analiza Destabilizacji Układu
+
+**1. Grawitacyjna Panika Gwiazdy Matki**
+Gwiazda NDX odnotowała gwałtowny spadek energii (CVD: -249,12M), co klasyfikuje stan układu jako panikę. Spadek ceny o -2,50% przybliża system do poziomu -6,54% od najwyższego zamknięcia z 2026-10-06. Sonda NQ również weszła w stan paniki (CVD: -88,47K), co potwierdza propagację fali uderzeniowej przez jednostki zwiadowcze.
+
+**2. Degradacja Sfery Dyson'a i Promieniowanie Tła**
+Sfera Dyson'a (QQQ) wykazuje załamanie rynku (CVD: -2,83M), co świadczy o erozji osłon energetycznych. Jednocześnie promieniowanie tła TICKQ oscyluje w strefie wyprzedaży (-190.00), podczas gdy średnia radiacja SMA200 wskazuje na załamanie rynku (-77.91). Całość układu jest poddawana silnej presji wyprzedażowej.
+
+**3. Kolaps Jądra i Kontekst Korekty**
+Monitor Jądra wykrył kolaps składu obiektów Klasy 0 (spadek poniżej 1T). W tym cyklu odnotowano również, że insiderzy netto w Klasie 0 wykazali ujemny przepływ na poziomie -11,84 mln USD. Obecna korekta NDX (-6,94% od szczytu w trakcie sesji 06.10) jest głębsza niż 57% historycznych korekt w pamięci maszynowej, oddalając się od węzłów wolumenu zlokalizowanych powyżej, w strefie 29940–29960.
+
+**Werdykt Kwantowy:**
+Układ znajduje się w fazie gwałtownej deakrecji masy, napędzanej przez ujemny przepływ energii w Gwiazdzie Centralnej i destabilizację obiektów o największej masie.
+
+**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

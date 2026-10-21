@@ -1,0 +1,95 @@
+# Log #0205: Kolaps Grawitacyjny i Rozpad Struktur Orbitalnych
+
+Data: 2026-10-18 09:00
+Adres: https://heniu.blog/posts/log-0205/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-18)**  
+> **W bilansie tygodnia były trzy błędy: zmiana IV, zakres NQ i etykieta kursów.**
+>
+> **Sprostowania:**
+> - Zmienność implikowana (IV) wzrosła o 4.04 p.p. od poniedziałku (z 18.72% do 22.76%), a nie względem średniej tygodniowej. Średnia tygodnia wyniosła 19.61%, czyli 3.15 p.p. mniej niż odczyt z piątku.
+> - Zakres tygodnia NQ: 29353.00 — 31242.00 (amplituda 1889.00 pkt), a nie 29379.75 — 31242.00 (1862.25 pkt). Zakres liczono z cen podawanych w T-Logach i nie obejmował zamknięcia piątku (29353.00), które leżało poniżej podanego minimum.
+> - Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.
+
+**Stardate:** 2026.10.18\
+**Status Systemów:** Obserwacja Zewnętrzna\
+**Sektor:** Wewnętrzne Pasma Zmienności
+
+---
+
+### Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia
+
+> *Układ doświadczył gwałtownej dekompresji masy całkowitej T-Mass o 4.74%, napędzanej przez masową ucieczkę kapitału z NDX i NQ. Wysoka amplituda wahań oraz wzrost IV sygnalizują przejście fazowe w stan wysokiej entropii.*
+
+* **Skaner Podprzestrzenny (Bilans Masy Tygodnia):**
+    * *T-Mass Układu (Otwarcie → Zamknięcie):* **43.75 T → 41.68 Tryliona USD**
+    * *Delta Tygodniowa Masy:* **-2.07 Tryliona USD (-4.74%)**
+    * *Gęstość Jądra (Heavy Nine):* **68.42% → 66.41%** (Delta: **-2.01 p.p.**)
+    * *Średnia Akcja (Temperatura Peryferii):* **[BRAK DANYCH] → [BRAK DANYCH]** (Delta: **[BRAK DANYCH]**)
+    * *Fluktuacja Składu Jądra (>1T):* **Stabilność (brak emergencji/kolapsu)**
+
+* **Gwiazda NDX (Słońce — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **30886.82 → 29184.88 (-1701.94 pkt | -5.51%)**
+    * *Zakres Tygodniowy (Ekstrema):* **29182.00 — 30695.74 (Amplituda: 1513.74 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **−110.88 M [panika]**
+
+* **Sonda NQ (Merkury — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **31108.26 → 29353.00 (-1755.26 pkt | -5.64%)**
+    * *Zakres Tygodniowy (Ekstrema):* **29353.00 — 31242.00 (Amplituda: 1889.00 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **−59.21 K [załamanie rynku]**
+
+* **Sfera Dyson’a (QQQ — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **751.24 → 709.86 (-41.38 USD | -5.51%)**
+    * *Zakres Tygodniowy (Ekstrema):* **709.86 — 746.72 (Amplituda: 36.86 USD)**
+    * *Skumulowany Przepływ Populacji (CVD Tygodnia):* **+2.95 M [wystrzał rynku]**
+
+* **Promieniowanie Tła (TICKQ — Szerokość Rynku w Tygodniu):**
+    * *Średnia Radiacja Tygodniowa (TICKQ SMA200):* **-38.05 [wyprzedaż]**
+    * *Zakres Radiacji w Tygodniu:* **Min -83.13 / Max +10.71**
+
+* **Struktura Grawitacyjna (Opcje — Sfera Dysona):**
+    * *Implied Volatility (IV):* **22.76%** (Średnia Tygodniowa: **19.61%** | Zmiana od poniedziałku: **+4.04 p.p.**)
+    * *Struktura Pozycji (Put/Call OI):* **1.44**
+
+---
+
+### Dziennik Pokładowy: Kolaps Grawitacyjny i Rozpad Struktur Orbitalnych
+
+**1. Trajektoria Tygodniowa i Zmienność Kursu (Przebieg Sesji Poniedziałek–Piątek)**
+W analizowanym cyklu 5 sesji nastąpiła gwałtowna ekspansja negatywna. Gwiazda Centralna NDX przeszła od poziomu 30886.82 do 29184.88, tracąc 1701.94 pkt (-5.51%). Trajektoria charakteryzowała się wysoką amplitudą (1513.74 pkt), z ekstremum niskim na poziomie 29182.00, co wskazuje na silną presję sell-side. Sonda NQ wykazała jeszcze większą niestabilność, z amplitudą 1889.00 pkt, kończąc cykl ze spadkiem o 5.64%. Sfera Dysona QQQ podążała za głównym wektorem spadkowym (-5.51%), zamykając tydzień na poziomie 709.86 USD. Cały układ przeszedł z fazy stabilnej w fazę gwałtownej kompresji cenowej.
+
+**2. Bilans Energii i Skumulowane Paliwo (Tygodniowy CVD i Wolumen)**
+Bilans przepływów agresywnych wskazuje na dominację sił destrukcyjnych. Skumulowany CVD dla NDX wyniósł -110.88 M, co w fizyce układu definiuje stan paniki. Sonda NQ odnotowała załamanie z CVD na poziomie -59.21 K. Anomalny odczyt w Sferze Dysona (QQQ CVD: +2.95 M) sugeruje lokalne zjawiska absorpcji płynności przy niskich poziomach, jednak nie zdołało to powstrzymać globalnego odpływu energii z układu. Promieniowanie tła TICKQ (SMA200: -38.05) potwierdza stan głębokiej wyprzedaży w skali całego tygodnia.
+
+**3. Ewolucja Masy, Zagęszczenie Jądra i Tarcze Opcyjne**
+Nastąpiła istotna degradacja masy całkowitej (T-Mass): spadek z 43.75 T do 41.68 T (-4.74%). Gęstość Jądra uległa rozrzedzeniu, spadając z 68.42% do 66.41%. Mimo utraty masy, skład obiektów Klasy 0 (>1T) pozostał stabilny, bez gwałtownych kolapsów lub nowych emergencji. Zmienność implikowana (IV) wzrosła od poniedziałku o 4.04 p.p., do 22.76% (średnia tygodnia: 19.61%), co przy Put/Call OI na poziomie 1.44 świadczy o gwałtownym wzroście zapotrzebowania na tarcze ochronne przeciwko dalszej dekompresji.
+
+**Werdykt Kwantowy:**
+Układ znajduje się w stanie silnej destabilizacji grawitacyjnej. Masowa ucieczka energii (CVD) i spadek gęstości jądra sugerują, że mechanizmy stabilizujące Sfery Dysona są obecnie przeciążone. Fizyka układu wskazuje na przewagę wektorów spadkowych przy rosnącej entropii (IV).
+
+**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+

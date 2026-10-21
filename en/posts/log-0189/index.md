@@ -1,0 +1,95 @@
+# Log #0189: Core Glow in the shadow of a radiative collapse
+
+Date: 2026-09-29 22:13
+URL: https://heniu.blog/en/posts/log-0189/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-04)**  
+> **Wrong CVD labels.** Heniu's threshold reader did not recognise the typographic minus sign "−" and classified every negative CVD value as a "demand test". This was fixed in code on 2026-10-04. Correct labels under Heniu's thresholds:
+> - NQ CVD −12.18 K: **sell-off** (not "demand test"),
+> - QQQ CVD −725.32 K: **supply test**,
+> - NDX CVD 153.44 M [euphoria]: label correct.
+>
+> Point 1's "demand test in the warp layers" (NQ Probe) and the QQQ Sphere's "demand test" are withdrawn. The divergence between the positive flow of the NDX Star and the negative flows of the NQ Probe and the QQQ Sphere still stands.
+>
+> **Average Action** $267.32 (Delta $-28.86): unreliable reading. In the week of 28 Sep–1 Oct this value moved between −9% and +12% a day while NDX moved by no more than 1.08%, which points to a measurement error, not a price move. The delta also disagrees with the previous reading ($294.30 → $267.32 is −$26.98). Withdrawn until explained.
+>
+> The original text of the 2026-09-29 entry is kept below for auditability.
+
+**Stardate:** 2026.09.29
+**Systems Status:** External Observation
+**Sector:** Inner Volatility Bands
+
+---
+
+### Closing Telemetry
+
+> *The NDX Central Star exhibits a state of euphoria amidst strong negative Background Radiation (TICKQ). The system is in a phase of divergence between the central mass and the width of the force field.*
+
+* **Subspace Scanner (Mass Distribution):**
+    * *System T-Mass:* **42.74 Trillion USD**
+    * *Session Delta (24h):* **+0.04 Trillion USD**
+    * *Core Density (Heavy Nine):* **67.97%** (Delta: **-0.20%**)
+    * *Average Action (Periphery Temperature):* **$267.32** (Delta: **$-28.86**)
+
+* **the NDX Star (Sun):** Close: **30344.68 (+0.21%)**
+    * *Vector (CVD):* **153,44 M [euphoria]**
+    * *MOC Anomaly:* **+19,03 M**
+    * *Range Consumption (ADR Util):* **61.28%**
+
+* **the NQ Probe (Mercury):** Close: **30626.50 (+0.20%)**
+    * *Vector (CVD):* **−12,18 K [demand test]**
+    * *Range Consumption (ADR Util):* **75.67%**
+
+* **the Dyson Sphere (QQQ):** Close: **737.98 (+0.20%)**
+    * *Population Vector:* **−725,32 K [demand test]**
+    * *Range Consumption (ADR Util):* **66.58%**
+
+* **Background Radiation (TICKQ) -436.00 [market breakdown]:**
+    * *SMA200:* **-113.21 [market breakdown]**
+
+* **Gravitational Structure (Options):**
+    * *Implied Volatility (IV):* **19.60%%**
+    * *Put/Call OI:* **1.42**
+
+---
+
+### Logbook: Cycle Analysis 2026.09.29
+
+**1. Accretion in the Mass Center**
+the NDX Central Star recorded an increase of 0.21%, generating an energy flow (CVD) at the level of 153,44M. The system classifies this state as euphoria. Nevertheless, a divergence is observed with the reconnaissance unit: the NQ Probe, despite a 0.20% increase, shows negative energy flow (-12,18K), indicating a demand test in the warp layers. the Dyson Sphere (QQQ) maintains stability (+0.20%) while simultaneously undergoing a demand test (-725,32K).
+
+**2. Radiation and destabilization of the broad market field**
+Background Radiation (TICKQ) shows a deep market breakdown at the level of -436.00. Average radiation (SMA 200) confirms this trend, oscillating in the breakdown zone at -113.21. There is a clear dissonance between the brightness of the NDX Star and the condition of the broad system; energy is concentrating in singularities, while smaller objects emit signals of degradation.
+
+**3. Core Composition Stability and System Mass**
+The total system mass (T-Mass) is 42.74 Trillion USD. The Core Monitor (>1T) reports full stability — no emergence of new singularities or collapse of existing Class 0 structures. Composition fluctuations are minimal, suggesting that the current euphoria on NDX is driven by existing, powerful masses, rather than new accretion of gases from the Liquidity Nebula.
+
+**Quantum Verdict:**
+The system is in a state of strong energy concentration in the center, simultaneous with the breakdown of broad background radiation. A separation of the Mother Star's dynamics from the rest of the orbital system is occurring.
+
+**Status:** EXTERNAL OBSERVATION. Shields active.
+
+**End of log.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Quantum Market Cosmology: Logbook",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

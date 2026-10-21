@@ -1,0 +1,100 @@
+# Log #0199: Paradoks Agregacji: Ekspansja Masy przy Negatywnym Przepływie Energii
+
+Data: 2026-10-11 09:00
+Adres: https://heniu.blog/posts/log-0199/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-18)**  
+> **Etykieta kursów w bilansie tygodnia była błędna.**
+>
+> **Sprostowania:**
+> - Wartość opisana jako „Otwarcie Poniedziałek” to zamknięcie poprzedniego piątku, od którego liczone są zmiany tygodniowe, a nie cena otwarcia w poniedziałek. Poprawiliśmy etykietę; zmiany tygodniowe się nie zmieniają.
+
+> ⚠️ **ERRATUM (2026-10-17)**  
+> **Tygodniowy przepływ CVD kontraktów NQ był błędny.** Raport podał wartość z indeksu NDX zamiast kontraktów NQ.
+>
+> **Sprostowania:**
+> - CVD Tygodnia NQ: −14.07 K [wyprzedaż], suma pięciu dziennych zamknięć (+44.75 K, −11.08 K, +3.90 K, −41.22 K, −10.42 K), a nie −115.87 M [panika]. Wartość −115.87 M pochodziła z indeksu NDX.
+> - Średnia Akcja: poprawnych wartości nie da się odtworzyć, więc je usunęliśmy.
+
+**Stardate:** 2026.10.11
+**Status Systemów:** Obserwacja Zewnętrzna
+**Sektor:** Wewnętrzne Pasma Zmienności
+
+---
+
+### Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia
+
+> *Tydzień charakteryzował się wzrostem całkowitej masy układu przy jednoczesnej silnej dywergencji między nominalnym kursem a skumulowanym przepływem agresywnego wolumenu (CVD). System przeszedł fazę wysokiej amplitudy wahań, kończąc cykl w stanie niepewnej stabilizacji.*
+
+* **Skaner Podprzestrzenny (Bilans Masy Tygodnia):**
+    * *T-Mass Układu (Otwarcie → Zamknięcie):* **43.50 T → 43.73 Tryliona USD**
+    * *Delta Tygodniowa Masy:* **+0.23 Tryliona USD (+0.54%)**
+    * *Gęstość Jądra (Heavy Nine):* **70.52% → 68.42%** (Delta: **-2.09 p.p.**)
+    * *Średnia Akcja (Temperatura Peryferii):* **[BRAK DANYCH]** (Delta: **[BRAK DANYCH]**)
+    * *Fluktuacja Składu Jądra (>1T):* **Stabilność (brak emergencji/kolapsu)**
+
+* **Gwiazda NDX (Słońce — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **30818.86 → 30881.86 (+63.00 pkt | +0.20%)**
+    * *Zakres Tygodniowy (Ekstrema):* **30668.49 — 31280.46 (Amplituda: 611.97 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **−363.48 M [panika]**
+
+* **Sonda NQ (Merkury — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **31060.63 → 31117.25 (+56.62 pkt | +0.18%)**
+    * *Zakres Tygodniowy (Ekstrema):* **30906.50 — 31524.75 (Amplituda: 618.25 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **−14.07 K [wyprzedaż]**
+
+* **Sfera Dyson’a (QQQ — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **749.54 → 751.24 (+1.70 USD | +0.23%)**
+    * *Zakres Tygodniowy (Ekstrema):* **745.99 — 760.82 (Amplituda: 14.83 USD)**
+    * *Skumulowany Przepływ Populacji (CVD Tygodnia):* **−1.45 M [wyprzedaż]**
+
+* **Promieniowanie Tła (TICKQ — Szerokość Rynku w Tygodniu):**
+    * *Średnia Radiacja Tygodniowa (TICKQ SMA200):* **-62.42 [załamanie rynku]**
+    * *Zakres Radiacji w Tygodniu:* **Min -134.04 / Max +0.81**
+
+* **Struktura Grawitacyjna (Opcje — Sfera Dysona):**
+    * *Implied Volatility (IV):* **18.32%** (Średnia Tygodniowa: **19.08%** | Zmiana Tygodniowa: **-1.19 p.p.**)
+    * *Struktura Pozycji (Put/Call OI):* **1.51**
+
+---
+
+### Dziennik Pokładowy: Paradoks Agregacji: Ekspansja Masy przy Negatywnym Przepływie Energii
+
+**1. Trajektoria Tygodniowa i Zmienność Kursu (Przebieg Sesji Poniedziałek–Piątek)**
+Układ przeszedł przez fazę ekstremalnej amplitudy wahań. Gwiazda NDX wykazała zakres ruchu od 30668.49 do 31280.46 (611.97 pkt), podczas gdy Sonda NQ operowała w szerokim pasmie 30906.50 — 31524.75 (618.25 pkt). Mimo początkowej ekspansji i testowania górnych granic orbity, oba obiekty zakończyły cykl w pobliżu punktów otwarcia (NDX: +0.20%, NQ: +0.18%), co świadczy o silnej kompresji kursu pod koniec tygodnia. Sfera Dysona QQQ zachowała relatywną stabilność w szerokim zakresie 745.99 — 760.82, kończąc z nieznaczną ekspansją (+0.23%).
+
+**2. Bilans Energii i Skumulowane Paliwo (Tygodniowy CVD i Wolumen)**
+Obserwuje się krytyczną dywergencję między trajektorią kursu a przepływem paliwa. Skumulowany bilans agresywnego wolumenu (CVD) jest głęboko ujemny dla wszystkich kluczowych obiektów: NDX (-363.48 M), NQ (-14.07 K) oraz QQQ (-1.45 M). Fizyka układu wskazuje na dominację podaży w przekroju 5 sesji (panika/wyprzedaż), która nie została zrównoważona przez agresywny popyt, co sugeruje, że wzrosty nominalne były wynikiem braku płynności lub absorpcji, a nie aktywnej akrecji.
+
+**3. Ewolucja Masy, Zagęszczenie Jądra i Tarcze Opcyjne**
+Mimo ujemnego CVD, całkowita masa układu (T-Mass) wzrosła z 43.50 T do 43.73 T (+0.54%). Odnotowano jednak rozrzedzenie struktury: gęstość Jądra spadła z 70.52% do 68.42%, co wskazuje na rotację masy z obiektów Klasy 0 ku niższym klasom lub rozproszenie energii. Średnia akcja spółek wzrosła o 0.43%. Zmienność implikowana (IV) uległa lekkiej kompresji (spadek o 1.19 p.p. do poziomu 18.32%), przy jednoczesnym wysokim współczynniku Put/Call OI na poziomie 1.51, co sugeruje budowę tarczy ochronnej przed dalszą degradacją. Radiacja TICKQ SMA200 na poziomie -62.42 potwierdza stan głębokiego załamania wewnętrznej dynamiki układu.
+
+**Werdykt Kwantowy:**
+Układ znajduje się w stanie strukturalnego napięcia. Wzrost masy przy jednoczesnym ujemnym bilansie CVD i spadku gęstości Jądra sugeruje, że obecna trajektoria jest podtrzymywana przez mechanizmy absorpcyjne, a nie realną akrecję energii. System jest podatny na gwałtowną rekonfigurację w przypadku naruszenia obecnych poziomów wsparcia.
+
+**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+

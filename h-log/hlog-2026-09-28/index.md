@@ -1,0 +1,233 @@
+# H-Log: 2026-09-28 - Klasyczny Opis Wydarzeń Rynkowych
+
+Data: 2026-09-28 23:08
+Adres: https://heniu.blog/h-log/hlog-2026-09-28/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.09.28</h1>
+<h3>📈 [2026-09-28 zamknięcie]</h3>
+<p><strong>H-LOG: Podsumowanie sesji kasowej</strong></p>
+<p>Jest to podsumowanie sesji kasowej (Spot) z 2026-09-28.</p>
+<p>Gwiazda NDX straciła jasność o 1.08%, zamykając się na poziomie 30279.20, przy ujemnym przepływie energii CVD wynoszącym −139,26 M. Sonda NQ weszła na niższą orbitę (-1.03%) z zamknięciem 30570.75, podczas gdy struktura QQQ osłabiła się o 1.07% do poziomu 736.53. Wszystkie obiekty przekroczyły swój dzienny zasięg (ADR), osiągając wartości powyżej 125%. Promieniowanie tła TICKQ na zamknięciu wyniosło -788.00, co przy SMA200 na poziomie -68.91 wskazuje na głęboką dekompresję układu. W sektorze opcji odnotowano Put/Call OI na poziomie 1.40 oraz zmienność implikowaną QQQ (IV) wynoszącą 19.53%.</p>
+<p>Raport H-Log: podsumowanie sesji 2026-09-28</p>
+<h3>📈 [2026-09-28 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Analiza indeksów i przepływów:</strong> Rynek znajduje się pod silną presją podażową. Indeks NDX traci 0,95% (30318,31), przy jednoczesnym ujemnym przepływie skumulowanym (CVD) na poziomie -8,1 M, co potwierdza dominację dystrybucji w segmencie kasowym. Sytuację pogłębia QQQ (-0,96%) z wyraźnym odpływem kapitału (-677,93 K) oraz skrajnie negatywny odczyt wskaźnika TICKQ (-683,00), znacząco odbiegający od średniej SMA200 (-60,00), co wskazuje na panikę w szerokim rynku Nasdaq.</li>
+<li><strong>Sentyment i korelacja:</strong> Zbiorczy sentyment przepływu kapitału wynosi -20, co sygnalizuje przewagę wypływu środków. Widoczna jest korelacja spadkowa między rynkiem kasowym a kontraktami NQ (-0,94%), choć w kontraktach futures odnotowano minimalną, niemal neutralną aktywność CVD (1,71 K), co może sugerować próbę stabilizacji na instrumentach pochodnych przy jednoczesnej wyprzedaży akcji.</li>
+<li><strong>Rynek opcji i zabezpieczeń:</strong> W sektorze opcji QQQ odnotowano dominację pozycji typu Put (PCR 1,10) przy wolumenie 8,46 mln kontraktów, co wskazuje na budowanie zabezpieczeń przed dalszymi spadkami. Implikowana zmienność (IV) na poziomie 19,54% oraz oczekiwany zakres ruchu (733,27 – 743,47) sugerują, że rynek wycenia obecne poziomy jako strefę wysokiej niepewności, z tendencją do poszukiwania wsparcia w dolnych rejestrach przedziału.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 21:07</p>
+<h3>📈 [2026-09-28 20:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Analiza indeksów i przepływów:</strong> Rynek znajduje się w fazie silnej dystrybucji. Indeks NDX (-0.85%) oraz QQQ (-0.86%) odnotowują wyraźne spadki, co znajduje potwierdzenie w ujemnym skumulowanym przepływie (CVD) na rynku kasowym: -11,7M dla NDX oraz -604,69K dla QQQ. Wskaźnik kierunku przepływów wynosi -20, co potwierdza dominację presji podażowej nad popytową.</li>
+<li><strong>Szeroki rynek:</strong> Skrajnie negatywny odczyt wskaźnika TICKQ na poziomie -341.00 (przy średniej SMA200 wynoszącej -54.78) wskazuje na głęboką, systemową wyprzedaż w szerokim sektorze Nasdaq.</li>
+<li><strong>Relacja Spot/Futures:</strong> Kontrakty NQ wykazują lekką dywergencję względem rynku kasowego, spadając o -0.85% przy niemal neutralnym CVD (869), co sugeruje brak istotnej aktywności kupujących w instrumentach pochodnych przy jednoczesnym silnym odpływie kapitału z akcji bazowych.</li>
+<li><strong>Rynek opcji:</strong> Wysoki wskaźnik Put/Call Ratio na poziomie 1.12 przy wolumenie 7,811,257 wskazuje na przewagę pozycji zabezpieczających (hedging) i wzrost nastrojów spadkowych. Przy zmienności implikowanej (IV) na poziomie 19.56%, rynek wycenia oczekiwany zasięg ruchu QQQ w przedziale 731.26 – 742.26.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 20:07</p>
+<h3>📈 [2026-09-28 19:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Dynamika indeksów i przepływów:</strong> Rynek znajduje się pod silną presją sprzedażową. Indeks NDX oraz ETF QQQ odnotowują spadki na poziomie -1.00%, co znajduje odzwierciedlenie w ujemnym skumulowanym przepływie (CVD) dla NDX wynoszącym -25,66 M oraz dla QQQ na poziomie -603,26 K. Kontrakty NQ wykazują korelację z rynkiem kasowym, spadając o 0,99% przy CVD -2,6 K.</li>
+<li><strong>Sentyment i szeroki rynek:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -40, co potwierdza wyraźną przewagę dystrybucji kapitału w bieżącym cyklu. Wskaźnik TICKQ na poziomie -61.00, znajdujący się poniżej średniej SMA200 (-47.01), sygnalizuje silną, negatywną dynamikę w szerokim sektorze Nasdaq.</li>
+<li><strong>Analiza rynku opcji:</strong> Rynek opcji QQQ wskazuje na wzrost nastrojów defensywnych – wskaźnik Put/Call Ratio wynosi 1.15, co sugeruje przewagę pozycji zabezpieczających (hedging) oraz oczekiwania na dalszą zmienność. Przy implikowanej zmienności (IV) na poziomie 19.68% i wolumenie 6,552,807, rynek wycenia oczekiwany zasięg ruchu w przedziale od 729.65 do 740.91 punktów.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 19:07</p>
+<h3>📈 [2026-09-28 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Analiza indeksów i przepływów:</strong> Rynek znajduje się w fazie wyraźnej dystrybucji. Indeks NDX (-1.23%) oraz QQQ (-1.23%) odnotowują spadki, co znajduje potwierdzenie w ujemnych przepływach skumulowanych (CVD NDX: -43,97 M; QQQ: -1,89 M). Wskaźnik kierunku przepływów rynkowych wynosi -35, co potwierdza dominację podaży nad popytem w bieżącej sesji.</li>
+<li><strong>Korelacja NQ:</strong> Kontrakty futures NQ wykazują wysoką korelację z rynkiem kasowym, spadając o 1.22% przy marginalnie niższym ujemnym CVD (-23,95 K), co sugeruje spójność ruchu w obu segmentach.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi 10.00, co przy średniej SMA200 na poziomie -38.22 wskazuje na chwilową, techniczną poprawkę wewnątrz szerszego trendu spadkowego, niemniej nie zmienia to ogólnego, negatywnego sentymentu.</li>
+<li><strong>Rynek opcji:</strong> Wysoki współczynnik Put/Call Ratio na poziomie 1.28 przy wolumenie 4,854,451 wskazuje na wzrost zabezpieczeń (hedgingu) lub oczekiwania na dalszą presję spadkową. Zmienność implikowana (IV) na poziomie 19.79% oraz oczekiwany przez rynek zasięg ruchu dla QQQ (729.27 – 740.01) sugerują koncentrację zmienności w okolicach kluczowych poziomów wsparcia.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 18:07</p>
+<h3>📈 [2026-09-28 17:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Rynek znajduje się w silnej fazie dystrybucji. Indeks NDX oraz kontrakty NQ odnotowują spadek o 1,39%, co jest potwierdzane przez ujemny skumulowany przepływ (CVD) na wszystkich instrumentach: NDX (-53,27 M), QQQ (-2,19 M) oraz NQ (-30,15 K). Wskaźnik kierunku przepływów wynosi -27, co potwierdza wyraźną przewagę sprzedaży nad kupnem.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi -153,00, co przy średniej SMA200 na poziomie -31,35 wskazuje na skrajnie negatywny sentyment i silną presję podażową w szerokim koszyku akcji Nasdaq.</li>
+<li><strong>Rynek opcji:</strong> Na rynku opcji QQQ odnotowano dominację pozycji krótkich (Put/Call Ratio = 1,23) przy wolumenie przekraczającym 2,5 mln kontraktów. Implikowana zmienność (IV) na poziomie 19,55% oraz oczekiwany zasięg ruchu w przedziale 731,92 – 742,42 sugerują budowę zabezpieczeń przed dalszą deprecjacją i przygotowanie na zwiększoną zmienność w najbliższym cyklu.</li>
+<li><strong>Podsumowanie:</strong> Brak oznak absorpcji popytu; rynek realizuje trend spadkowy przy silnym wsparciu płynności po stronie podaży.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 17:07</p>
+<h3>📈 [2026-09-28 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Analiza Indeksów i Przepływów:</strong> Rynek znajduje się pod silną presją sprzedażową. Indeks NDX (-0.97%) oraz NQ (-0.98%) wykazują niemal identyczną dynamikę spadkową. Skumulowany przepływ (CVD) na NDX wynosi -23,45 M, co przy jednoczesnym spadku ceny sugeruje aktywną dystrybucję kapitału. Zbiorczy wskaźnik kierunku przepływów na poziomie -15 potwierdza przewagę podaży w całym układzie.</li>
+<li><strong>Szeroki Rynek (TICKQ):</strong> Wskaźnik TICKQ wynosi 317.00, co przy średniej SMA200 na poziomie -33.20 wskazuje na silne, krótkoterminowe odchylenie od trendu, sugerujące próbę lokalnego odbicia wewnątrz spadkowej struktury.</li>
+<li><strong>Rynek Opcji (QQQ):</strong> Rynek zabezpieczeń jest nastawiony na spadki – wskaźnik Put/Call Ratio wynosi 1.26, co przy wolumenie 304,485 kontraktów świadczy o dominacji pozycji hedgingowych lub spekulacyjnych na spadki. Implikowana zmienność (IV) na poziomie 19.98% wskazuje na oczekiwanie przez rynek większej dynamiki ruchów, przy zakładanym zasięgu instrumentu QQQ w przedziale 733.96 – 745.02.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 16:07</p>
+<h3>📈 [2026-09-28 15:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty indeksu NDX (+0,42%) oraz ETF QQQ (+0,46%) wskazują na zamknięcie sesji z przewagą akumulacji (CVD NDX: 31,3M).</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Sonda NQ znajduje się obecnie w trendzie spadkowym (-0,60%), przy skumulowanym przepływie CVD na poziomie 510, co sugeruje testowanie popytu w bieżącym handlu poza sesją główną.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów kapitału wynosi 0, co oznacza brak wyraźnej dominacji jednej ze stron i stan neutralny w obecnym oknie czasowym.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) na poziomie 19,22% przy wolumenie 8,7M kontraktów wskazuje na umiarkowane oczekiwania zmienności. Wskaźnik Put/Call Ratio (0,98) sugeruje zrównoważone nastroje, a rynek wycenia zakres ruchu w przedziale 737,33 – 751,67 punktów.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 15:07</p>
+<h3>📈 [2026-09-28 14:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kontraktów terminowych:</strong> Kontrakty NQ wykazują presję podażową, spadając o 0,59% do poziomu 30703.50. Skumulowany przepływ (CVD) dla NQ jest bliski zeru (-38), co sugeruje testowanie popytu przy braku wyraźnego impulsu kierunkowego w samym handlu terminowym.</li>
+<li><strong>Rynek kasowy (Spot):</strong> Sesja kasowa jest zamknięta. Warto odnotować, że na zamknięciu indeks NDX wykazał silną akumulację (CVD: 31,3 M) przy wzroście ceny o 0,42%, co może sugerować pasywną absorpcję podaży pod koniec sesji regularnej.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co wskazuje na umiarkowaną przewagę dystrybucji kapitału w całym systemie.</li>
+<li><strong>Analiza opcji QQQ:</strong> Rynek opcji wykazuje neutralny sentyment z lekkim skłonem ku stronę niedźwiedzi (Put/Call Ratio: 0,98). Przy zmienności implikowanej (IV) na poziomie 19,22% oraz wolumenie 8,7 mln, rynek wycenia oczekiwany zakres ruchu instrumentu QQQ w przedziale 739,23 – 749,77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 14:07</p>
+<h3>📈 [2026-09-28 13:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty NDX (+0,42%) oraz QQQ (+0,46%) wskazują na zamknięcie sesji z przewagą akumulacji na indeksie bazowym (CVD NDX: 31,3 M), przy jednoczesnym testowaniu popytu na ETF (CVD QQQ: -76,58 K).</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Sonda NQ wykazuje słabość względem zamknięcia sesji kasowej, spadając o 0,92% przy ujemnym przepływie skumulowanym (-4,71 K), co sugeruje presję podażową w handlu poza sesją główną.</li>
+<li><strong>Sentyment i płynność:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co sygnalizuje przewagę dystrybucji kapitału w bieżącym momencie.</li>
+<li><strong>Analiza opcji QQQ:</strong> Rynek opcji wycenia zmienność implikowaną (IV) na poziomie 19,22%. Przy wskaźniku Put/Call Ratio na poziomie 0,98, nastroje pozostają zbliżone do neutralnych z lekkim nachyleniem w stronę zabezpieczeń (hedgingu). Oczekiwany przez rynek zakres ruchu dla QQQ mieści się w przedziale 739,23 – 749,77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 13:07</p>
+<h3>📈 [2026-09-28 12:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty indeksu NDX wskazują na wzrost ceny o 0,42% przy silnej akumulacji (CVD: 31,3M), co sugeruje pasywną absorpcję podaży przed zamknięciem sesji.</li>
+<li><strong>Kontrakty NQ:</strong> W sesji futures obserwujemy presję podażową. Cena kontraktów spada o 0,98% (30586.75), a skumulowany przepływ (CVD) wynosi -7,24K, co wskazuje na testowanie popytu w bieżącym handlu.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co sygnalizuje przewagę dystrybucji kapitału w bieżącym okienku czasowym.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) na poziomie 19,22% przy stosunku Put/Call Volume wynoszącym 0,98 sugeruje neutralne nastawienie rynku z lekką tendencją do budowania zabezpieczeń. Oczekiwany zakres ruchu dla QQQ mieści się w przedziale 739,23 – 749,77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 12:07</p>
+<h3>📈 [2026-09-28 11:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kontraktów terminowych:</strong> Sonda NQ wykazuje silną presję sprzedażową, tracąc 1.04% (cena: 30566.75). Skumulowany przepływ (CVD) na poziomie -7,42K sugeruje testowanie popytu w obecnym trendzie spadkowym.</li>
+<li><strong>Rynek kasowy (Spot):</strong> Sesja kasowa jest zamknięta. Należy odnotować, że mimo zamknięcia sesji, ostatnie dane z rynku kasowego (NDX) wskazywały na akumulację przy wzroście ceny o 0.42% (CVD: 31,3M), co tworzy dywergencję względem obecnych spadków na kontraktach futures.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co sygnalizuje przewagę dystrybucji kapitału i negatywny sentyment w bieżącym oknie czasowym.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) na poziomie 19.22% przy wolumenie 8,7 mln kontraktów wskazuje na umiarkowane oczekiwania co do amplitudy ruchu. Put/Call Ratio wynoszący 0.98 sugeruje bliski balans między stroną kupującą a sprzedającą, przy oczekiwanym przez rynek zakresie ruchu QQQ w przedziale 739.23 – 749.77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 11:07</p>
+<h3>📈 [2026-09-28 10:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kontraktów terminowych:</strong> Sonda NQ wykazuje presję podażową, spadając o 0,95% do poziomu 30595.75. Skumulowany przepływ (CVD) na kontraktach wynosi -7,11K, co wskazuje na testowanie popytu w bieżącej sesji.</li>
+<li><strong>Rynek kasowy (Spot):</strong> Sesja kasowa pozostaje zamknięta. Warto zauważyć rozbieżność (divergence) między zamknięciem sesji a obecnym obrotem futures – indeks NDX zamknął się na poziomie 30603.53 (+0,42%) przy silnej akumulacji (CVD: 31,3M), podczas gdy kontrakty NQ obecnie tracą wartość.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co sygnalizuje umiarkowaną przewagę dystrybucji kapitału w bieżącym oknie czasowym.</li>
+<li><strong>Analiza opcji QQQ:</strong> Rynek opcji wykazuje neutralno-obronny sentyment (Put/Call Ratio: 0,98) przy wysokim wolumenie 8,7 mln kontraktów. Zmienność implikowana (IV) na poziomie 19,22% oraz oczekiwany przedział ruchu (739,23 – 749,77) sugerują konsolidację w tych granicach i budowanie osłon (hedgingu) w okolicach obecnych poziomów wsparcia ETF.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 10:07</p>
+<h3>📈 [2026-09-28 09:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot) jest obecnie zamknięty.</strong> Analiza opiera się na aktywności kontraktów terminowych oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Kontrakty NQ wykazują presję sprzedażową</strong>, spadając o 0,89% przy ujemnym przepływie skumulowanym (CVD: -6,19K), co wskazuje na testowanie popytu w bieżącym handlu poza sesją.</li>
+<li><strong>Divergencja na rynku kasowym:</strong> Mimo zamknięcia sesji, dane z NDX wykazują silną akumulację (CVD: 31,3M) przy wzroście indeksu o 0,42%, co sugeruje pasywną absorpcję podaży przed zamknięciem.</li>
+<li><strong>Sentyment i opcje:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co sygnalizuje przewagę dystrybucji kapitału. Rynek opcji QQQ przy wolumenie 8,7 mln i współczynniku Put/Call na poziomie 0,98 wskazuje na zbliżoną równowagę między zabezpieczeniami a ekspozycją na wzrosty. Implikowana zmienność (IV) na poziomie 19,22% sugeruje oczekiwany ruch w przedziale 739,23 – 749,77 punktów dla QQQ.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 09:07</p>
+<h3>📈 [2026-09-28 08:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku kasowego:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Ostatnie odczyty indeksu NDX (+0,42%) oraz ETF QQQ (+0,46%) wskazują na zamknięcie sesji z przewagą akumulacji (CVD NDX: 31,3M), jednak w obecnej sesji futures głównym punktem odniesienia pozostaje handel kontraktami terminowymi.</li>
+<li><strong>Analiza kontraktów NQ:</strong> Kontrakty NQ wykazują presję podażową, spadając o 0,77% przy cenie 30650.50. Skumulowany przepływ (CVD) na poziomie -4,98K sugeruje testowanie popytu w obecnym przedziale cenowym.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co sygnalizuje lekką przewagę dystrybucji kapitału w bieżącym obrocie.</li>
+<li><strong>Rynek opcji QQQ:</strong> Implikowana zmienność (IV) na poziomie 19,22% przy wolumenie 8,7 mln kontraktów wskazuje na stabilną strukturę rynku. Put/Call Ratio wynoszący 0,98 sugeruje wyrównany sentyment między kupującymi a sprzedającymi, przy oczekiwanym przez rynek zakresie ruchu dla QQQ w przedziale 739,23 – 749,77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 08:07</p>
+<h3>📈 [2026-09-28 07:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty indeksu NDX wskazują na wzrost ceny o 0,42% przy silnej akumulacji (CVD: 31,3M), co sugeruje pasywną absorpcję podaży przed zamknięciem sesji.</li>
+<li><strong>Kontrakty NQ:</strong> Sonda terminowa wykazuje presję sprzedażową; cena kontraktów spadła o 0,67% (30680.75), a skumulowany przepływ (CVD) wynosi -3,72K, co wskazuje na testowanie bieżącego popytu w sesji przedsesyjnej.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co sygnalizuje przewagę dystrybucji i ujemny sentyment rynkowy w bieżącym oknie czasowym.</li>
+<li><strong>Rynek opcji QQQ:</strong> Implikowana zmienność (IV) na poziomie 19,22% przy wolumenie 8,7 mln kontraktów wskazuje na umiarkowane oczekiwania co do zmienności. Put/Call Ratio na poziomie 0,98 sugeruje bliską równowagę między zabezpieczeniami a ekspozycją na wzrosty, przy oczekiwanym przedziale ruchu dla QQQ w granicach 739,23 – 749,77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 07:07</p>
+<h3>📈 [2026-09-28 06:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty indeksu NDX (+0,42%) oraz ETF QQQ (+0,46%) wskazują na zamknięcie sesji regularnej w trendzie wzrostowym, przy silnej akumulacji kapitału w NDX (CVD: 31,3M).</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Obecnie odnotowuje się presję podażową. Cena NQ znajduje się na poziomie 30654,00 (-0,76%), co przy ujemnym przepływie skumulowanym (CVD: -4,54K) sugeruje testowanie popytu w ramach sesji przedsesyjnej.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co wskazuje na dominację dystrybucji kapitału w bieżącym oknie czasowym.</li>
+<li><strong>Rynek opcji (QQQ):</strong> Zmienność implikowana (IV) na poziomie 19,22% przy stosunku Put/Call Volume na poziomie 0,98 sugeruje neutralny, lekko ostrożny sentyment. Rynek wycenia oczekiwany zasięg ruchu w przedziale 739,23 – 749,77 punktów, co wyznacza kluczowe strefy wsparcia i oporu dla instrumentu bazowego.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 06:07</p>
+<h3>📈 [2026-09-28 05:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty indeksu NDX (30608.13, +0.42%) oraz ETF QQQ (744.45, +0.46%) wskazują na zamknięcie sesji z przewagą akumulacji na rynku kasowym (CVD NDX: 31,3 M).</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Obecnie sesja futures wykazuje presję podażową. NQ znajduje się na poziomie 30697.00 (-0.62%), przy ujemnym przepływie skumulowanym (CVD: -2,58 K), co sugeruje testowanie popytu w trakcie trwania handlu poza sesją regularną.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co sygnalizuje lekką przewagę dystrybucji kapitału w bieżącym momencie.</li>
+<li><strong>Analiza opcji QQQ:</strong> Rynek opcji wykazuje neutralny sentyment z lekką przewagą sprzedaży opcji put (Put/Call Ratio: 0.98). Zmienność implikowana (IV) na poziomie 19.22% oraz wolumen 8,7 mln kontraktów sugerują stabilizację oczekiwań. Zakres ruchu dla QQQ jest obecnie definiowany w przedziale 739.23 – 749.77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 05:07</p>
+<h3>📈 [2026-09-28 04:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty indeksu NDX (30608.13, +0.42%) oraz ETF QQQ (744.45, +0.46%) wskazują na zamknięcie sesji z przewagą akumulacji w indeksie bazowym (CVD NDX: 31,3 M).</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Obecnie odnotowuje się presję podażową na kontraktach NQ (30728.50, -0.52%) przy ujemnym przepływie skumulowanym (CVD: -1,96 K), co sugeruje testowanie poziomów wsparcia w handlu poza sesją regularną.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co sygnalizuje umiarkowaną przewagę dystrybucji kapitału w obecnym oknie czasowym.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) na poziomie 19.22% przy współczynniku Put/Call Ratio wynoszącym 0.98 sugeruje neutralny sentyment z lekkim nachyleniem w stronę zabezpieczeń (hedgingu). Rynek wycenia oczekiwany zasięg ruchu w przedziale 739.23 – 749.77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 04:07</p>
+<h3>📈 [2026-09-28 03:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty indeksu NDX (+0,42%) oraz ETF QQQ (+0,46%) wskazują na zamknięcie sesji z przewagą akumulacji, przy czym skumulowany przepływ (CVD) dla NDX na poziomie 31,3M potwierdza napływ kapitału w sektorze.</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> W bieżącym handlu poza sesją główną obserwuje się lekką presję podażową (cena -0,30%), przy czym skumulowany przepływ (CVD) na poziomie 225 wskazuje na neutralny test popytu.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów kapitału wynosi 0, co oznacza całkowitą równowagę między siłami kupna i sprzedaży w obecnym momencie.</li>
+<li><strong>Rynek opcji (QQQ):</strong> Zmienność implikowana (IV) na poziomie 19,22% przy wolumenie 8,7 mln kontraktów sugeruje umiarkowane oczekiwania co do dynamiki rynku. Współczynnik Put/Call na poziomie 0,98 wskazuje na zbliżoną liczebność pozycji zabezpieczających i spekulacyjnych, a rynek wycenia zakres ruchu w przedziale 739,23 – 749,77 pkt.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 03:07</p>
+<h3>📈 [2026-09-28 02:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty indeksu NDX (+0,42%) oraz ETF QQQ (+0,46%) wskazują na domknięcie sesji z przewagą akumulacji na rynku kasowym (CVD NDX: 31,3 M).</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Obecnie odnotowuje się lekką presję podażową (cena -0,05%), przy bardzo niskim wolumenie przepływu (CVD: 1,07 K), co sugeruje testowanie popytu w warunkach ograniczonej płynności poza sesją regularną.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 0, co oznacza neutralny sentyment rynkowy i brak wyraźnej dominacji jednej ze stron w obecnym momencie.</li>
+<li><strong>Analiza opcji QQQ:</strong> Implikowana zmienność (IV) na poziomie 19,22% przy stosunku Put/Call Volume wynoszącym 0,98 wskazuje na wyważone nastroje i brak gwałtownych oczekiwań na skrajne ruchy. Zakres oczekiwanego ruchu dla QQQ kształtuje się w przedziale 739,23 – 749,77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 02:07</p>
+<h3>📈 [2026-09-28 01:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Ostatnie odczyty indeksu NDX (+0,42%) oraz ETF QQQ (+0,46%) wskazują na zamknięcie sesji z przewagą akumulacji w sektorze bazowym (CVD NDX: 31,3M).</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Obecnie odnotowuje się lekką presję podażową (cena -0,30%; CVD: -1,13K), co sugeruje testowanie poziomów popytu w handlu poza sesją regularną.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co wskazuje na umiarkowaną przewagę dystrybucji kapitału w bieżącym mikro-oknie czasowym.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) na poziomie 19,22% przy wolumenie 8,7 mln kontraktów sugeruje stabilizację oczekiwań. Współczynnik Put/Call na poziomie 0,98 wskazuje na bliski balans między zabezpieczeniami a pozycjami długimi, przy oczekiwanym przez rynek przedziale ruchu dla QQQ w granicach 739,23 – 749,77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 01:07</p>
+<h3>📈 [2026-09-28 00:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Dane z sesji regularnej wskazują na silną akumulację na indeksie NDX (CVD: 31,3M) przy wzroście ceny o 0,42%, co sugeruje stabilną bazę pod przyszłe sesje.</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Obecnie odnotowuje lekką korektę (-0,11%) przy cenie 30855.25. Skumulowany przepływ (CVD) na poziomie 25 wskazuje na testowanie popytu w warunkach niskiej aktywności wewnątrz sesji terminowej.</li>
+<li><strong>Sentyment i płynność:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 0, co oznacza brak wyraźnej dominacji jednej ze stron (neutralny sentyment).</li>
+<li><strong>Rynek opcji (QQQ):</strong> Implikowana zmienność (IV) wynosi 19,22%, a wskaźnik Put/Call Ratio na poziomie 0,98 sugeruje zbliżoną równowagę między zabezpieczeniami a ekspozycją na wzrosty. Oczekiwany zakres ruchu dla QQQ mieści się w przedziale 739.23 – 749.77.</li>
+</ul>
+<p>Raport H-Log: 2026-09-28 00:07</p>
+

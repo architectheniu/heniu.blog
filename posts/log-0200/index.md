@@ -1,0 +1,91 @@
+# Log #0200: Zapadanie się pola grawitacyjnego Gwiazdy Centralnej
+
+Data: 2026-10-12 22:03
+Adres: https://heniu.blog/posts/log-0200/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-17)**  
+> **Średnia Akcja w tym wpisie była błędna.** Ceny czterech spółek powyżej 1000 USD (ASML, MELI, MPWR, SNDK) były odczytywane błędnie, więc średnia cena akcji i jej zmiana były zniekształcone.
+>
+> **Sprostowania:**
+> - Średnia Akcja: poprawnych wartości nie da się odtworzyć, więc je usunęliśmy.
+> - Usunęliśmy podwójny znak procentu przy IV.
+
+**Stardate:** 2026.10.12\
+**Status Systemów:** Obserwacja Zewnętrzna\
+**Sektor:** Wewnętrzne Pasma Zmienności
+
+---
+
+### Telemetria Zamknięcia
+
+> *Obserwacja gwałtownego odpływu energii z układu NDX przy jednoczesnym załamaniu szerokości promieniowania tła TICKQ. System znajduje się w stanie destabilizacji strukturalnej.*
+
+* **Skaner Podprzestrzenny (Rozkład Masy):**
+    * *T-Mass Układu:* **43.59 Tryliona USD**
+    * *Delta Sesyjna (24h):* **-0.16 Tryliona USD**
+    * *Gęstość Jądra (Heavy Nine):* **68.66%** (Delta: **+0.24%**)
+    * *Średnia Akcja (Temperatura Peryferii):* **[BRAK DANYCH]** (Delta: **[BRAK DANYCH]**)
+
+* **Gwiazda NDX (Słońce):** Zamknięcie: **30667.52 (-0.71%)**
+    * *Wektor (CVD):* **−110,59 M [panika]**
+    * *Anomalia MOC:* **+18,56 M**
+    * *Zużycie Zasięgu (ADR Util):* **66.27%**
+    * *Zejście od szczytu Henia:* **-1.79%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+
+* **Sonda NQ (Merkury):** Zamknięcie: **30890.50 (-0.70%)**
+    * *Wektor (CVD):* **−2,51 K [test podaży]**
+    * *Zużycie Zasięgu (ADR Util):* **101.02%**
+
+* **Sfera Dyson’a (QQQ):** Zamknięcie: **745.98 (-0.70%)**
+    * *Wektor Populacji:* **147,56 K [test popytu]**
+    * *Zużycie Zasięgu (ADR Util):* **66.94%**
+
+* **Promieniowanie Tła (TICKQ) -522.00 [załamanie rynku]:**
+    * *SMA200:* **-3.19 [test podaży]**
+
+* **Struktura Grawitacyjna (Opcje):**
+    * *Implied Volatility (IV):* **18.72%**
+    * *Put/Call OI:* **1.50**
+
+---
+
+### Dziennik Pokładowy: Zapadanie się pola grawitacyjnego Gwiazdy Centralnej
+
+**1. Wyciek energii z Gwiazdy Centralnej**
+Gwiazda NDX odnotowała spadek o 0,71%, co przy skumulowanym spadku od szczytu o 1,79% sygnalizuje osłabienie pola siłowego. Przepływ energii (CVD) dla NDX osiągnął poziom -110,59M, co klasyfikuje stan układu jako panika. Sonda NQ potwierdza ten trend, wykazując spadek o 0,70% i przebywając w fazie testu podaży (CVD: -2,51K).
+
+**2. Radiacja szerokiego rynku i Sfera Dyson'a**
+Promieniowanie tła TICKQ spadło do poziomu -522, co wskazuje na załamanie rynku w skali szerokiej, podczas gdy średnia radiacja SMA200 znajduje się w fazie testu podaży (-3,19). Sfera Dyson'a (QQQ) wykazuje jednak anomalną odporność – mimo spadku ceny o 0,70%, lokalny przepływ energii (CVD) wynosi 147,56K, co wskazuje na test popytu wewnątrz struktury opcyjnej.
+
+**3. Stabilność Jądra i dane fundamentalne**
+Masa całkowita układu (T-Mass) wynosi 43,59 Tryliona USD, a fluktuacja składu Jądra pozostaje stabilna, bez wykrycia kolapsu osobliwości Klasy 0. W polach fundamentalnych odnotowano netto ujemne działania insiderów w Klasie 0 na poziomie -1,94 M USD w ciągu ostatnich 5 sesji.
+
+**Werdykt Kwantowy:**
+Układ doświadcza gwałtownego odpływu paliwa z centrum masy (NDX), co wywołuje załamanie w szerokim promieniowaniu (TICKQ), przy jednoczesnej próbie stabilizacji energetycznej wewnątrz Sfery Dyson'a (QQQ).
+
+**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

@@ -1,0 +1,95 @@
+# Log #0188: Colapso do Núcleo e Radiação de Pânico
+
+Data: 2026-09-28 22:09
+Endereço: https://heniu.blog/pt-br/posts/log-0188/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATA (2026-10-04)**  
+> **Rótulos de CVD incorretos.** O leitor de limiares do Heniu não reconhecia o sinal de menos tipográfico "−" e classificava todo valor negativo de CVD como "teste de demanda". O erro foi corrigido no código em 2026-10-04. Rótulos corretos segundo os limiares do Heniu:
+> - CVD NDX −139,26 M: **pânico** (não "teste de demanda"),
+> - CVD NQ −1,56 K: **teste de oferta**,
+> - CVD QQQ −879,12 K: **teste de oferta**.
+>
+> Ficam retiradas as afirmações baseadas nesses rótulos sobre "teste de demanda" (resumo, pontos 1–3 e Veredito Quântico), incluindo a divergência entre um "teste de demanda" na Sonda NQ e o pânico da radiação TICKQ. Os fluxos nos três objetos foram negativos, em linha com a radiação de fundo negativa.
+>
+> **Ação Média** $294.30 (Delta $-20.99): leitura não confiável. Na semana de 28/9 a 1/10 esse valor variou entre −9% e +12% ao dia, enquanto o NDX se moveu no máximo 1.08%, o que indica erro de medição, não movimento de preços. Item retirado até ser esclarecido.
+>
+> O texto original da entrada de 2026-09-28 foi mantido abaixo para fins de auditoria.
+
+**Stardate:** 2026.09.28
+**Status dos Sistemas:** Observação Externa
+**Setor:** Bandas Internas de Volatilidade
+
+---
+
+### Telemetria de Fechamento
+
+> *A observação da queda de massa no setor de Classe 0 provoca uma intensa radiação de fundo. O sistema encontra-se em fase de teste de demanda com pânico simultâneo em um amplo espectro de mercado.*
+
+* **Scanner Subespacial (Distribuição de Massa):**
+    * *T-Mass do Sistema:* **42.71 Trilhões de USD**
+    * *Delta de Sessão (24h):* **-0.43 Trilhões de USD**
+    * *Densidade do Núcleo (Heavy Nine):* **68.15%** (Delta: **-2.40%**)
+    * *Ação Média (Temperatura da Periferia):* **$294.30** (Delta: **$-20.99**)
+
+* **a Estrela NDX (Sol):** Fechamento: **30279.20 (-1.08%)**
+    * *Vetor (CVD):* **−139,26 M [teste de demanda]**
+    * *Anomalia MOC:* **-8,14 M**
+    * *Consumo de Alcance (ADR Util):* **130.18%**
+
+* **a Sonda NQ (Mercúrio):** Fechamento: **30570.75 (-1.03%)**
+    * *Vetor (CVD):* **−1,56 K [teste de demanda]**
+    * *Consumo de Alcance (ADR Util):* **125.10%**
+
+* **a Esfera de Dyson (QQQ):** Fechamento: **736.53 (-1.07%)**
+    * *Vetor de População:* **−879,12 K [teste de demanda]**
+    * *Consumo de Alcance (ADR Util):* **128.48%**
+
+* **a Radiação de Fundo (TICKQ) -788.00 [pânico]:**
+    * *SMA200:* **-68.91 [colapso do mercado]**
+
+* **Estrutura Gravitacional (Opções):**
+    * *Implied Volatility (IV):* **19.53%%**
+    * *Put/Call OI:* **1.40**
+
+---
+
+### Diário de Bordo: RELATÓRIO DE SESSÃO
+
+**1. Flutuação da Composição do Núcleo e Gravidade NDX**
+a Estrela Central (NDX) registrou uma queda de 1.08%, com o fluxo de energia (CVD) em -139,26M classificando o estado atual como um teste de demanda. O fenômeno crucial é o Colapso dentro do Núcleo (>1T) – foi registrada uma queda de massa no objeto AMD, o que desestabiliza a estrutura gravitacional local. Apesar disso, as unidades centrais tentam manter suas órbitas, sem entrar ainda em uma fase de pânico extremo.
+
+**2. Radiação TICKQ e Estado da Esfera de Dyson**
+a Radiação de Fundo (TICKQ) atingiu o nível de -788.00, o que sinaliza um estado de pânico no sistema amplo. A radiação média (SMA200) é de -68.91, indicando um colapso do mercado em um contexto mais amplo. a Esfera de Dyson (QQQ) mostra uma queda de 1.07% com CVD no nível de -879,12K, o que confirma o teste de demanda nas estruturas defensivas dos dealers.
+
+**3. Dinâmica da Sonda NQ e Estabilidade do Campo**
+a Sonda NQ (sessão de futuros) move-se em direção a -1.03% com pressão mínima negativa de combustível (CVD: -1,56K), o que a mantém no regime de teste de demanda. O sistema caracteriza-se por uma volatilidade (IV) no nível de 19.53% com a massa total do sistema (T-Mass) em 42.71 Trilhões de USD. Observa-se uma divergência entre o teste de demanda local na sonda e o pânico global da radiação TICKQ.
+
+**Veredito Quântico:**
+O sistema está passando por uma fase de teste de demanda nos principais objetos, porém a alta radiação de pânico no amplo espectro (TICKQ) e o colapso na composição do Núcleo sugerem instabilidade no campo de força.
+
+**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
+
+**Fim do registro.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

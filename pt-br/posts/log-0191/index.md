@@ -1,0 +1,97 @@
+# Log #0191: Acreção na sombra de pressão extrema: Emergência de um Pulsar
+
+Data: 2026-10-01 22:12
+Endereço: https://heniu.blog/pt-br/posts/log-0191/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATA (2026-10-04)**  
+> **Rótulos de CVD incorretos.** O leitor de limiares do Heniu não reconhecia o sinal de menos tipográfico "−" e classificava todo valor negativo de CVD como "teste de demanda". O erro foi corrigido no código em 2026-10-04. Rótulos corretos segundo os limiares do Heniu:
+> - CVD NQ −4,57 K: **teste de oferta** (não "teste de demanda"),
+> - CVD QQQ −79,93 K: **teste de oferta**,
+> - CVD NDX 85,32 M [disparo do mercado]: rótulo correto.
+>
+> Ficam retirados o "regime de teste de demanda" da Sonda NQ e a "fase de teste de demanda" da Esfera QQQ (pontos 1–2); os "baixos valores de CVD" do ponto 3 são valores negativos.
+>
+> Fica também retirada a frase de que a alta do NDX foi "impulsionada pela mudança na composição do Núcleo" (emergência da AMD). A AMD ter cruzado o limiar de 1T é consequência da alta da ação da AMD, não causa do movimento do NDX.
+>
+> **Ação Média** $317.71 (Delta +$17.14): leitura não confiável. Na semana de 28/9 a 1/10 esse valor variou entre −9% e +12% ao dia, enquanto o NDX se moveu no máximo 1.08%, o que indica erro de medição, não movimento de preços. Item retirado até ser esclarecido.
+>
+> O texto original da entrada de 2026-10-01 foi mantido abaixo para fins de auditoria.
+
+**Stardate:** 2026.10.01
+**Status dos Sistemas:** Observação Externa
+**Setor:** Bandas Internas de Volatilidade
+
+---
+
+### Telemetria de Fechamento
+
+> *A Estrela Central NDX exibe fortes sinais de disparo, apesar de a Radiação de Fundo indicar uma pressão de venda profunda e extrema no sistema amplo. Observamos uma divergência entre a massa do Núcleo e a dinâmica de objetos menores.*
+
+* **Scanner Subespacial (Distribuição de Massa):**
+    * *T-Mass do Sistema:* **42.86 Trilhões de USD**
+    * *Delta da Sessão (24h):* **-0.02 Trilhões de USD**
+    * *Densidade do Núcleo (Heavy Nine):* **70.25%** (Delta: **+2.14%**)
+    * *Ação Média (Temperatura da Periferia):* **$317.71** (Delta: **+$17.14**)
+
+* **a Estrela NDX (Sol):** Fechamento: **30508.84 (+0.31%)**
+    * *Vetor (CVD):* **85,32 M [disparo do mercado]**
+    * *Anomalia MOC:* **+79,39 M**
+    * *Consumo de Alcance (ADR Util):* **108.35%**
+
+* **a Sonda NQ (Mercúrio):** Fechamento: **30778.00 (+0.26%)**
+    * *Vetor (CVD):* **−4,57 K [teste de demanda]**
+    * *Consumo de Alcance (ADR Util):* **133.67%**
+
+* **a Esfera de Dyson (QQQ):** Fechamento: **742.04 (+0.30%)**
+    * *Vetor de População:* **−79,93 K [teste de demanda]**
+    * *Consumo de Alcance (ADR Util):* **107.12%**
+
+* **a Radiação de Fundo (TICKQ) -115.00 [liquidação]:**
+    * *SMA200:* **-173.40 [amplitude extremamente negativa]**
+
+* **Estrutura Gravitacional (Opções):**
+    * *Implied Volatility (IV):* **20.02%%**
+    * *Put/Call OI:* **1.40**
+
+---
+
+### Diário de Bordo: RELATÓRIO DE SESSÃO de Observação do Ciclo 2026.10.01
+
+**1. Acreção no Núcleo e Emergência de Pulsar**
+a Estrela Central NDX registrou um aumento de 0.31%, gerando um fluxo de energia (CVD) no nível de 85,32M, o que classifica o estado como "disparo do mercado". Esta mecânica é impulsionada pela mudança na composição do Núcleo (>1T), onde foi registrada a emergência de AMD. Esta nova massa dentro da singularidade estabiliza a trajetória da NDX, embora a Sonda NQ (Warp Vessel) opere em regime de "teste de demanda" (CVD: -4,57K) com aumento de preço de 0.26%.
+
+**2. Radiação de Fundo e Desestabilização do Sistema Amplo**
+Apesar do brilho da Estrela-Mãe, a Radiação de Fundo TICKQ indica um estado de "liquidação" (-115.00). A radiação média (SMA200) é de -173.40, o que significa "amplitude extremamente negativa" e pressão de venda extrema nas camadas inferiores do sistema. a Esfera de Dyson QQQ mantém estabilidade energética (+0.30%), porém seu fluxo interno (CVD: -79,93K) permanece em fase de "teste de demanda", sugerindo força limitada das proteções energéticas ao enfrentar uma distribuição ampla.
+
+**3. Divergência de Campo de Força**
+Observa-se uma clara divergência entre a massa do núcleo e a dinâmica de planetas menores. Enquanto a NDX atrai capital em direção a uma alta concentração (AMD), o mercado amplo (TICKQ) encontra-se em fase de liquidação. a Sonda NQ tenta realizar a missão de Price Discovery, mas os baixos valores de CVD na sonda e na esfera QQQ sugerem que o aumento atual é resultado da concentração de massa na Classe 0, e não de uma acreção generalizada em todo o sistema.
+
+**Veredito Quântico:**
+O sistema encontra-se em um estado de alta concentração de energia no ponto central, concomitante com uma radiação de fundo negativa. A dominância da Classe 0 mascara a pressão de venda sistêmica.
+
+**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
+
+**Fim do registro.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

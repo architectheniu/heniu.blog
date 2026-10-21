@@ -1,0 +1,68 @@
+# Log #0006: Sfera Dysona QQQ (ETF)
+
+Data: 2026-02-05 12:00
+Adres: https://heniu.blog/posts/log-0006/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+
+
+\*\*Stardate:\*\* 2026.02.05
+
+\*\*Klasa Obiektu:\*\* Magazyn Energii (Exchange Traded Fund)
+
+\*\*Oznaczenie:\*\* Invesco QQQ Trust
+
+
+
+---
+
+
+
+\### Telemetria
+
+
+
+\* \*\*Aktywa pod Zarządzaniem (AUM):\*\* \*\*401.2 Mld USD\*\*.
+
+\* \*\*Wolumen Dzienny:\*\* ~65 mln jednostek.
+
+
+
+
+
+\### Analiza Systemowa
+
+
+
+QQQ to \*\*Sfera Dysona\*\* zbudowana wokół Słońca (NDX).
+
+To tutaj "mieszka" tłum. To tutaj fundusze emerytalne, inwestorzy indywidualni i pasywne algorytmy trzymają swoje 400 miliardów dolarów.
+
+
+
+\*\*Rola Strukturalna:\*\*
+
+QQQ jest kluczowe, ponieważ to na nim budowana jest \*\*Struktura Opcji\*\*.
+
+Miliony kontraktów Call i Put są wystawiane na QQQ, a nie na NDX. To tworzy "niewidzialne ściany" (Gamma Walls).
+
+
+
+\* Gdy QQQ zbliża się do okrągłych poziomów (np. 600 USD), Dealerzy opcji muszą bronić tych barier.
+
+\* To QQQ wyznacza "zasięg ruchu" na dany dzień. NQ może szaleć, ale jeśli QQQ napotka opór na rynku opcji, ruch zostanie zatrzymany.
+
+
+
+\*\*Wnioski Taktyczne:\*\*
+
+Nie ignoruj QQQ. To najcięższy fizycznie obiekt handlowy. Jego inercja (AUM 401B) sprawia, że działa jak stabilizator. Jeśli QQQ traci poziom wsparcia przy dużym wolumenie, oznacza to pęknięcie tamy, której nie zatrzyma żaden algorytm.
+
+
+
+\*\*Koniec wpisu.\*\*
+
+

@@ -1,0 +1,50 @@
+# Log #0015: Test Ciśnieniowy - Ucieczka $86 Mld (Widmowe Odbicie)
+
+Data: 2026-02-11 22:10
+Adres: https://heniu.blog/posts/log-0015/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+### Telemetria Zamknięcia (22:10 CET)
+
+> *Systemy zarejestrowały krytyczną anomalię grawitacyjną. Mimo wizualnego powrotu na orbitę, skany wykazują gigantyczny, ukryty ubytek masy w Gwieździe Centralnej.*
+
+* **Sonda NQ (Futures):** **25277.50** (CVD: -27k).
+* **Gwiazda NDX (Spot):** **25194.89** (CVD: **-297.33M** ⚠️).
+* **Szacowana Wartość Odpływu:** **~$85.8 Mld USD** (Ucieczka Kapitału).
+* **Promieniowanie Tła (TICKQ):**
+    * *SMA200:* **-51.27** (Trend spadkowy pogłębiony).
+    * *Minima sesji:* **-67.00** (Paniczna wyprzedaż szerokiego rynku).
+* **Napęd (ADR):** **105.51%** (Powrót turbulencji).
+
+---
+
+### Dziennik Pokładowy: Matematyka Iluzji
+
+Dzisiejsza sesja była podręcznikowym przykładem **"Widmowego Odbicia" (Ghost Recovery)**. Choć indeksy odrobiły straty po porannym tąpnięciu, struktura rynku została wydrążona od środka.
+
+**1. Protokół Zanurzenia (-1.63%)**
+Krótko po otwarciu, grawitacja ściągnęła Sondę NQ do poziomu **25070**. Był to brutalny test ciśnieniowy, który zepchnął TICKQ głęboko pod horyzont zdarzeń (-915).
+
+**2. Kalkulacja Wycieku ($86 Mld USD)**
+Najważniejsze dane płyną jednak z zamknięcia.
+* Cena wróciła w okolice otwarcia, tworząc świecę "Młota".
+* Jednak wskaźnik przepływu (CVD) na Rynku Kasowym (NDX) pokazał wynik **-297.33 Miliona** jednostek.
+* **Analiza Kwantowa:** Biorąc pod uwagę średnią ważoną cenę komponentów indeksu (~$289), oznacza to, że podczas dzisiejszego "odbcia" z rynku wyparowało **ok. 86 Miliardów Dolarów**.
+* To równowartość PKB całego kraju, wycofana z giełdy w jedną sesję, podczas gdy cena rosła.
+
+**3. Kto kupował, kto sprzedawał?**
+Dysonans jest porażający.
+* **Kupujący:** Algorytmy HFT i kapitał spekulacyjny na kontraktach terminowych (Futures), zamykający krótkie pozycje (Short Squeeze).
+* **Sprzedający:** Instytucje posiadające realne akcje (Spot). Wykorzystali oni każdą falę wzrostową, by upłynnić gigantyczne pakiety akcji w "dobrej cenie".
+
+**Werdykt:**
+Statek leci dalej, ale jest lżejszy o 86 miliardów dolarów paliwa.
+To nie była akumulacja (kupowanie dołka). To była **Dystrybucja Totalna**. Rynek unosi się teraz głównie na lewarze i inercji, pozbawiony fundamentu w postaci realnego popytu.
+
+**Status:** ALARM KRYTYCZNY. Ryzyko załamania struktury przy kolejnym oporze.
+
+**Koniec zapisu.**
+

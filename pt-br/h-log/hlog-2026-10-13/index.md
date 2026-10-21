@@ -1,0 +1,225 @@
+# H-Log: 2026-10-13 - Relato Clássico dos Eventos do Mercado
+
+Data: 2026-10-13 23:08
+Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-13/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.10.13 [PT-BR]</h1>
+<h3>📈 [2026-10-13 fechamento]</h3>
+<p><strong>H-LOG: Resumo da sessão à vista (Spot)</strong></p>
+<p>Este é o resumo da sessão à vista (Spot) de 2026-10-13.</p>
+<p>a Estrela Central NDX registrou uma queda de -0.31%, fechando no nível 30568.69 com um fluxo de energia (CVD) de 180,41 M e consumo de alcance (ADR) de 77.31%. a Sonda NQ também entrou em uma órbita mais baixa (-0.37%), atingindo um fechamento de 30783.50 com CVD de 13,06 K e ADR de 70.88%. a Esfera de Dyson (QQQ) fechou no nível 743.64 (-0.32%), gerando 2,1 M em CVD e 74.48% de consumo de alcance. a Radiação de Fundo (TICKQ) no fechamento foi de -114.00, desviando-se significativamente da SMA200 de -19.70, com uma Anomalia MOC simultânea no nível de +19,89 M. O sentimento de opções indica um Put/Call OI no nível de 1.49, com a volatilidade implícita (IV) para QQQ em 18.83%.</p>
+<p>Relatório H-Log: resumo da sessão 2026-10-13</p>
+<h3>📈 [2026-10-13 21:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Análise de índices e fluxos:</strong> O mercado está sob forte pressão de venda. O índice NDX perde 0,48% (30517,76), e os contratos NQ caem 0,52% (30738,75). O fluxo acumulado (CVD) para NDX e NQ indica testes de oferta. O indicador de direção do fluxo de mercado é -45, o que confirma a dominância de distribuição de capital no momento atual.</li>
+<li><strong>Mercado amplo:</strong> O indicador TICKQ é -81,00, o que, com a média SMA200 no nível de -15,75, indica um deslocamento extremo de sentimento em direção à venda e uma forte dominância de oferta no mercado amplo da Nasdaq.</li>
+<li><strong>Divergência na QQQ:</strong> Foi observada uma divergência significativa dentro do ETF QQQ. Apesar da queda de preço de 0,49% (742,39), o fluxo acumulado (CVD) para QQQ mostra um valor positivo de 1,05 mln, sugerindo uma acumulação ativa dentro do fundo, apesar da liquidação geral.</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) mantém-se no nível de 19,10%, e o Put/Call Ratio é de 0,99, o que indica um equilíbrio quase total entre as proteções de queda e as posições de alta. A faixa de movimento esperada pelo mercado para QQQ está entre 737,16 – 748,64.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 21:07</p>
+<h3>📈 [2026-10-13 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Análise do mercado à vista:</strong> O índice NDX registra uma queda de 0,37% (30552,41 pts), com um forte influxo de oferta no fluxo acumulado (CVD NDX: -9,28 M). O mercado QQQ mostra uma tendência de acumulação (CVD: 1,16 M), o que, com a queda de preço de 0,38% (743,20 pts), pode sugerir a formação de um suporte local. O sentimento do mercado amplo (TICKQ) oscila em torno de 500,00, o que, com a média SMA200 no nível de -13,64, indica um retorno a uma dinâmica neutra após uma pressão de oferta anterior.</li>
+<li><strong>a sessão de futuros:</strong> Os contratos NQ mostram uma leve correção (-0,40% para o nível de 30774,25 pts), no entanto, o fluxo acumulado (CVD: 1,31 K) indica o teste de demanda nesta faixa.</li>
+<li><strong>Sentimento e fluxos:</strong> O índice agregado de direção de fluxo é de -12, o que significa uma vantagem moderada de distribuição de capital em todo o sistema.</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) no nível de 18,97% com uma razão Put/Call Volume Ratio de 1,00 indica um equilíbrio total entre os sentimentos de touros e ursos. O alcance de movimento esperado pelo mercado para QQQ situa-se na faixa de 736,12 – 747,92 pts, o que define zonas cruciais para a sessão atual.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 20:07</p>
+<h3>📈 [2026-10-13 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Análise de índices e fluxos:</strong> O mercado está sob pressão de venda. O índice NDX registrou uma queda de 0,47% com um fluxo acumulado (CVD) negativo no nível de -312,79K, o que confirma o teste de níveis de suporte. Os contratos NQ apresentam maior volatilidade e uma queda de 0,52% (CVD: -452). No entanto, foi observada uma divergência significativa no fundo QQQ – apesar da queda de preço de 0,50%, o fluxo acumulado (CVD) é de +1,04M, o que sugere uma acumulação ativa dentro do fundo ETF.</li>
+<li><strong>Mercado amplo (TICKQ):</strong> O indicador TICKQ é de -47,00, o que, com uma média SMA200 no nível de -16,00, indica uma forte dinâmica negativa de vendas em um amplo espectro de componentes da Nasdaq.</li>
+<li><strong>Sentimento de mercado:</strong> O indicador agregado de direção de fluxo é de -40, o que confirma uma clara vantagem de distribuição de capital na janela de tempo atual.</li>
+<li><strong>Mercado de opções QQQ:</strong> Com um volume de opções no nível de 4 838 765 contratos, a razão Put/Call é de 1,00, o que indica uma estrutura neutra de posições de hedge. A volatilidade implícita (IV) é de 18,86%, e o mercado precifica o alcance esperado do movimento na faixa de 736,37 – 748,33 pontos.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 19:07</p>
+<h3>📈 [2026-10-13 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Análise do mercado à vista e sentimento:</strong> O mercado está sob pressão de venda, o que é confirmado pela queda da NDX de (-0.47%) e da QQQ de (-0.51%). O indicador de direção de fluxo é 5, o que indica um sentimento quase neutro com uma leve vantagem de entrada de capital. No entanto, observamos uma forte divergência na NDX: apesar da queda de preço, o fluxo acumulado (CVD) é de 13,48 M, o que sugere uma absorção ativa de vendas e a presença de demanda passiva no nível institucional.</li>
+<li><strong>Mercado amplo e derivativos:</strong> O indicador TICKQ é -139.00, o que, com uma média SMA200 no nível de -15.38, sinaliza um deslocamento extremo em direção à venda e uma forte pressão de venda no mercado amplo da Nasdaq. Os contratos NQ mostram correlação com o índice à vista, caindo (-0.53%) com um fluxo mínimo de CVD (2,05 K).</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) está no nível de 19.10%, com um volume de opções de 3,642,807 contratos. O Put/Call Ratio no nível de 1.07 sugere uma leve vantagem de posições vendidas (hedge ou especulação de queda). O intervalo de movimento esperado pelo mercado para a QQQ situa-se entre 735.80 – 747.36.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 18:07</p>
+<h3>📈 [2026-10-13 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Mercado à vista e sentimento:</strong> O índice NDX registra uma queda de 0,58% (30488,08 pts), no entanto, no mercado à vista é visível uma forte divergência – o fluxo acumulado de CVD para NDX é de 11,82 mi de ações, o que sugere uma absorção ativa de oferta e teste de demanda diante das quedas. O indicador agregado de direção de fluxo é de -15, o que sinaliza uma vantagem moderada de distribuição de capital em todo o setor.</li>
+<li><strong>Contratos de futuros e mercado amplo:</strong> a Sonda NQ mostra maior pressão de baixa (-0,60%; 30711,75 pts) com fluxo de CVD negativo (-840), o que indica a dominância de oferta nos contratos de futuros. O mercado amplo (TICKQ) encontra-se na zona positiva (19,00), significativamente acima da média SMA200 (-8,67), o que pode sugerir tentativas locais de estabilização do mercado amplo apesar das quedas dos principais índices.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções mostra um sentimento neutro com uma leve vantagem de opções de venda (Put/Call Ratio: 1,04). Com volume de 2 232 234 e volatilidade implícita (IV) no nível de 18,85%, o mercado precifica o intervalo esperado de movimento entre 737,66 – 748,94 pts para o ETF QQQ.</li>
+<li><strong>Resumo técnico:</strong> Observamos uma situação em que as quedas de preços no NDX e QQQ (respectivamente -0,58% e -0,59%) são sustentadas pelo influxo de capital no mercado à vista (CVD), o que pode indicar a formação de uma armadilha para ursos ou acumulação passiva em níveis de suporte cruciais.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 17:07</p>
+<h3>📈 [2026-10-13 16:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Mercado à vista e índices:</strong> O índice NDX registra uma queda de -0,34% (30558,79), no entanto, o fluxo acumulado de CVD no nível de 25,69 mln indica uma acumulação ativa de capital apesar da pressão de preços de queda. Observamos uma dinâmica semelhante em QQQ (-0,35%) e nos contratos NQ (-0,37%), onde os fluxos de CVD (respectivamente 680,54 mil para QQQ e 9,15 mil para NQ) sugerem o teste da demanda nos níveis atuais.</li>
+<li><strong>Mercado amplo:</strong> O indicador TICKQ está no nível de -212,00, o que, com uma média SMA200 de -6,16, indica uma forte vantagem negativa dos vendedores em todo o espectro do mercado Nasdaq.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador agregado de direção de fluxo é 8, o que, em uma escala de -100 a +100, significa um sentimento quase neutro com uma leve vantagem de entrada de capital, o que pode sugerir um processo de absorção passiva de oferta.</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) no nível de 18,82% e a relação Put/Call no nível de 0,86 indicam um otimismo moderado e a construção de posições de proteção. O intervalo de movimento esperado pelo mercado para QQQ situa-se entre 734,22 – 746,29.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 16:07</p>
+<h3>📈 [2026-10-13 15:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Situação nos contratos NQ:</strong> O mercado de futuros está sob pressão de venda, com uma avaliação de 30652.50 (-0.80%). O fluxo acumulado (CVD) para NQ é de -7,74 mil, o que confirma a dominância da oferta no comércio atual fora da sessão regular.</li>
+<li><strong>Análise do mercado à vista (Spot):</strong> O mercado à vista permanece fechado. Vale notar que o índice NDX encerrou a sessão com um fluxo acumulado (CVD) negativo no nível de -12,09 mi, o que indica a distribuição de ativos antes do fechamento.</li>
+<li><strong>Sentimento e fluxos:</strong> O índice agregado de direção de fluxo é de -25, o que sinaliza a predominância da saída de capital e um sentimento de mercado negativo.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) no nível de 18.66% com um volume de 6,39 mi de contratos sugere uma volatilidade moderada esperada. O índice Put/Call Ratio no nível de 0.97 indica um sentimento quase equilibrado, com uma leve inclinação para proteção (hedging) do lado das opções de venda. A amplitude de movimento esperada pelo mercado para a Esfera de Dyson (QQQ) situa-se no intervalo de 739.80 – 752.28.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 15:07</p>
+<h3>📈 [2026-10-13 14:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Situação nos contratos NQ:</strong> O mercado encontra-se em tendência de queda (preço -0.73% no nível 30672.50). O fluxo de energia (CVD) acumulado nos contratos é de -4,64K, o que confirma a dominância de oferta no comércio atual fora da sessão regular.</li>
+<li><strong>Mercado à vista (Spot):</strong> a sessão à vista está encerrada; a análise baseia-se nos dados de fechamento e na atividade de derivativos. Apesar da queda do índice NDX de 0.71%, foi registrado um teste de oferta no nível de CVD de -12,09M. O indicador de direção do fluxo de mercado é de -25, o que sinaliza uma clara vantagem da distribuição de capital sobre a acumulação.</li>
+<li><strong>Análise do instrumento QQQ e mercado de opções:</strong> Na a Esfera de Dyson (QQQ), observa-se uma força relativa de demanda (CVD +145,07K), o que pode sugerir uma tentativa de construção de suporte em torno do nível 745.98. O mercado de opções mostra um sentimento neutro com uma leve inclinação para a venda (Put/Call Ratio: 0.97) com um alto volume excedendo 6,3 milhões de contratos. A volatilidade implícita (IV) no nível de 18.66% e o intervalo de movimento esperado (739.80 – 752.28) indicam uma precificação de mercado para uma potencial consolidação nesses intervalos.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 14:07</p>
+<h3>📈 [2026-10-13 13:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) permanece fechada. A análise baseia-se na negociação ativa de contratos futuros e nos dados do fechamento da sessão regular.</li>
+<li><strong>Dinâmica dos contratos NQ:</strong> a Sonda NQ apresenta pressão de baixa, oscilando em torno do nível 30 702.00 (-0.64%). O fluxo de energia (CVD) acumulado nos contratos é de -5,68K, o que confirma a dominância da oferta na janela de tempo atual.</li>
+<li><strong>Sentimento e fluxos:</strong> O índice agregado de direção de fluxos é de -25, o que sinaliza a predominância da distribuição de capital e sentimento de mercado negativo. Apesar disso, no ETF QQQ, registrou-se um teste de demanda relativamente forte (CVD +145,07K), o que pode sugerir tentativas de construção de suporte local na região de 745.98.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) no nível de 18.66% com volume de 6,398,370 indica expectativas moderadas quanto às flutuações de preço. O Put/Call Ratio no nível de 0.97 sugere um peso semelhante entre posições de proteção e especulativas, com o alcance de movimento esperado pelo mercado no intervalo de 739.80 – 752.28.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 13:07</p>
+<h3>📈 [2026-10-13 12:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Situação nos contratos NQ:</strong> O mercado de futuros está sob pressão de venda, com o preço em 30 758,50 (-0,45%). O fluxo acumulado (CVD) no NQ é de -5,23 mil, o que confirma a dominância de oferta no comércio atual fora da sessão regulamentada.</li>
+<li><strong>Mercado à vista (Spot):</strong> a sessão à vista está encerrada; o mercado NDX fechou em 30 664,70 (-0,71%) com um fluxo acumulado (CVD) negativo de cerca de -12,09 mi, o que indica distribuição de capital antes do fechamento da sessão. O indicador de direção do fluxo é de -25, o que confirma o sentimento negativo e a predominância de vendas em todo o setor tecnológico.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções mostra um sentimento neutro-negativo (Put/Call Ratio: 0,97) com um alto volume de 6,39 mi de contratos. A volatilidade implícita (IV) no nível de 18,66% e a faixa de movimento esperada (739,80 – 752,28) sugerem que os investidores estão protegendo posições à espera de maior volatilidade no próximo ciclo.</li>
+<li><strong>Resumo:</strong> A dominância de oferta nos contratos de futuros e o sentimento negativo dos fluxos sugerem a continuação da tendência de queda na próxima abertura da sessão à vista, a menos que os níveis de suporte resultantes do fechamento da sessão sejam defendidos ativamente.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 12:07</p>
+<h3>📈 [2026-10-13 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) permanece fechada; a análise baseia-se em contratos de futuros e nos dados do fechamento da sessão regular.</li>
+<li><strong>Dinâmica dos contratos NQ:</strong> Os contratos de futuros (NQ) estão sendo negociados com dinâmica negativa (-0.46%) ao preço de 30755.50. O fluxo de energia (CVD) acumulado no nível de -5,71K indica o teste de oferta no atual trading de futuros.</li>
+<li><strong>Sentimento e fluxos:</strong> O índice agregado de direção de fluxos é de -25, o que confirma a dominância da distribuição de capital e o sentimento de mercado negativo no ciclo atual.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções mostra volatilidade implícita moderada (IV: 18.66%) com uma proporção Put/Call Volume de 0.97, o que sugere um peso semelhante entre posições de hedge e especulativas. A faixa de movimento esperada pelo mercado para o instrumento QQQ situa-se entre 739.80 – 752.28.</li>
+<li><strong>Resumo técnico:</strong> A predominância de vendas nos contratos de futuros, com sentimento geral negativo, sugere uma pressão de oferta contínua na sessão after-hours.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 11:07</p>
+<h3>📈 [2026-10-13 10:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Situação nos contratos NQ:</strong> O mercado de contratos futuros está sob pressão de venda, com o preço em 30 712.00 (-0.60%). O fluxo de energia (CVD) acumulado para NQ é de -6 mil, o que confirma a dominância da oferta no comércio atual fora da sessão regulamentada.</li>
+<li><strong>Mercado à vista (Spot):</strong> a sessão à vista está atualmente fechada. Vale notar que, no fechamento, o índice NDX registrou uma queda de 0.71% com um fluxo de energia (CVD) negativo no nível de -12,09 mln, o que indica a realização da pressão de oferta antes da pausa.</li>
+<li><strong>Sentimento e fluxos:</strong> O índice agregado de direção de fluxos é de -25, o que sinaliza a predominância da distribuição de capital e sentimento de mercado negativo no intervalo de tempo atual.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções mostra volatilidade implícita moderada (IV: 18.66%). O Put/Call Ratio no nível de 0.97 sugere um equilíbrio próximo entre proteção (hedging) e posições de alta, com alto volume (6,398,370). A amplitude de movimento esperada pelo mercado para o ETF QQQ situa-se no intervalo de 739.80 – 752.28.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 10:07</p>
+<h3>📈 [2026-10-13 09:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Mercado de contratos futuros:</strong> a Sonda NQ encontra-se em tendência de baixa, registrando -0,81% (preço 30647.25). O fluxo de energia (CVD) acumulado para os contratos é de -6,25K, o que confirma a atual pressão de venda durante a sessão pré-mercado.</li>
+<li><strong>a sessão à vista (Spot):</strong> O mercado de ações permanece fechado. No fechamento da sessão regular, observou-se uma divergência significativa: apesar da queda do índice NDX de -0,71%, o fluxo de energia (CVD) acumulado foi de -12,09M, o que indica um teste de oferta com a simultânea falta de absorção forte no nível à vista.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador agregado de direção de fluxo é de -25, o que sinaliza a predominância de distribuição de capital e sentimento de mercado negativo no ciclo atual.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções mostra estabilização com IV no nível de 18,66%. O Put/Call Ratio próximo a 0,97 sugere um sentimento equilibrado com uma leve inclinação para proteção de posições (hedging). O intervalo de volatilidade esperado pelo mercado para o ETF QQQ situa-se entre 739.80 – 752.28.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 09:07</p>
+<h3>📈 [2026-10-13 08:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Mercado de contratos futuros:</strong> a Sonda NQ apresenta pressão de baixa, registrando uma perda de 0,78% (30655.75). O fluxo de energia (CVD) acumulado nos contratos é de -5,2K, o que confirma a dominância da oferta no atual comércio fora do horário regular.</li>
+<li><strong>a sessão à vista (Spot):</strong> O mercado à vista permanece fechado. Os valores de NDX (30664.70, -0.71%) e QQQ (745.98, -0.70%) refletem o estado de fechamento da sessão regular. Foi observada uma divergência significativa no nível da Esfera de Dyson (QQQ), onde, apesar da queda de preço, o fluxo de energia (CVD) acumulado indica uma leve acumulação (+145,07K).</li>
+<li><strong>Sentimento e fluxos:</strong> O índice agregado de direção de fluxo é de -25, o que sinaliza a predominância da distribuição de capital e um sentimento de mercado negativo na janela de tempo atual.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções indica uma volatilidade implícita moderada (IV: 18.66%) com uma proporção de volume Put/Call relativamente neutra (PCR: 0.97). Com um volume de 6,398,370 contratos, o mercado precifica o alcance esperado do movimento no intervalo de 739.80 – 752.28, o que sugere a formação de níveis de suporte e resistência nessas regiões.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 08:07</p>
+<h3>📈 [2026-10-13 07:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Mercado de contratos futuros:</strong> a Sonda NQ encontra-se atualmente em tendência de baixa, registrando -0,72% (30674.25). O fluxo acumulado (CVD) nos contratos é de -3,79 mil, o que confirma a pressão de venda no comércio atual fora do horário regular.</li>
+<li><strong>Status do mercado à vista:</strong> O mercado à vista (Spot) permanece fechado. Os valores do índice NDX (30664.70) e do ETF QQQ (745.98) refletem o estado de fechamento, com uma mudança negativa registrada na ordem de -0,70% a -0,71%.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador agregado de direção de fluxo é de -25, o que indica uma clara predominância de distribuição e sentimento de mercado negativo. Apesar disso, com base na sessão à vista (Spot) fechada, o indicador CVD para o QQQ mostra um leve excesso de demanda (+145,07 mil), o que pode sugerir tentativas de estabilização de posições no setor de ETF.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções precifica o alcance esperado do movimento no intervalo de 739.80 – 752.28 com a volatilidade implícita (IV) no nível de 18.66%. A relação Put/Call (PCR) é de 0.97, o que indica um equilíbrio próximo entre proteções de queda e posições de alta, com um volume de negociação muito alto (6,39 mi).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 07:07</p>
+<h3>📈 [2026-10-13 06:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Mercado de contratos futuros:</strong> a Sonda NQ encontra-se sob pressão de venda, registrando uma queda de 0,72% (preço: 30677.25). O fluxo de energia (CVD) acumulado para NQ é de -4,23K, o que confirma a dominância de oferta no atual comércio fora do horário regular.</li>
+<li><strong>a sessão à vista (Spot):</strong> O mercado à vista permanece fechado. Deve-se, no entanto, notar que, apesar da queda do índice NDX de 0,71%, o fluxo de energia (CVD) acumulado no mercado à vista foi de -12,09M, o que indica uma distribuição intensa de capital antes do fechamento da sessão.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador agregado de direção de fluxo é de -25, o que sinaliza uma clara vantagem da distribuição sobre a acumulação e um sentimento de mercado negativo.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções apresenta volatilidade implícita (IV) moderada no nível de 18,66%. O Put/Call Ratio no nível de 0,97 sugere um equilíbrio relativo entre proteções e posições de alta, com um volume muito alto (6,398,370). A faixa de movimento esperada pelo mercado para a Esfera de Dyson (QQQ) situa-se entre 739,80 – 752,28.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 06:07</p>
+<h3>📈 [2026-10-13 05:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Situação nos contratos NQ:</strong> O mercado de contratos futuros está em tendência de baixa (preço -0.83%), o que confirma o teste de níveis de suporte. O fluxo de energia (CVD) acumulado em NQ é de -4,95K, o que indica pressão de venda ativa no comércio atual fora do horário regular.</li>
+<li><strong>Mercado à vista (Spot):</strong> a sessão à vista (Spot) está fechada; os dados para o índice NDX e para o mercado amplo (TICKQ) refletem o estado do fechamento, indicando a dominância de distribuição (NDX -0.71%, CVD -12,09M).</li>
+<li><strong>Sentimento de fluxos:</strong> O indicador agregado de direção de fluxos é de -25, o que sinaliza a predominância de capital vendedor e sentimento de mercado negativo.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções mostra uma estrutura neutra com leve inclinação para o lado da venda (Put/Call Ratio: 0.97). Com a volatilidade implícita (IV) no nível de 18.66%, o mercado espera um movimento em um intervalo amplo entre 739.80 e 752.28 pontos, o que sugere preparação para maior volatilidade nos níveis atuais de suporte do ETF.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 05:07</p>
+<h3>📈 [2026-10-13 03:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>a sessão à vista (Spot):</strong> Fechada. O mercado à vista permanece inativo, porém os dados do fechamento da sessão indicam uma forte pressão de oferta no setor tecnológico. O índice NDX registrou uma queda de 0,71% com um fluxo acumulado significativamente negativo (CVD: -110,59 M), o que confirma a dominância de distribuição na última sessão.</li>
+<li><strong>Contratos de futuros (NQ):</strong> a Sonda NQ está sendo negociada atualmente no nível 30743,75 (-0,50%). Foi registrado um teste de oferta com o fluxo acumulado CVD no nível de -3,59 K, o que sugere a continuação do sentimento negativo da sessão à vista.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador agregado de direção de fluxo é de -45, o que indica uma clara vantagem de distribuição de capital e dominância de sentimentos de baixa no sistema atual.</li>
+<li><strong>Análise de opções QQQ:</strong> a Esfera de Dyson (QQQ) com volatilidade implícita (IV) no nível de 18,66% e volume de opções de 6,398,370 indica expectativas moderadas quanto à escala dos movimentos. O Put/Call Ratio no nível de 0,97 sugere um equilíbrio próximo entre proteções e posições de alta, com um intervalo de movimento esperado entre 739,80 – 752,28.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 03:07</p>
+<h3>📈 [2026-10-13 02:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>a sessão à vista (Spot):</strong> Fechada.</li>
+<li><strong>Análise de contratos NQ:</strong> Os instrumentos de futuros estão sendo negociados com déficit (-0.54%), ao preço de 30732.00. O fluxo acumulado (CVD) no nível de -6,27K sugere o teste da oferta no intervalo de negociação atual.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador agregado de direção de fluxo é de -45, o que indica uma clara predominância de distribuição de capital e sentimento de mercado negativo. Apesar do fechamento da sessão à vista (Spot), a leitura do CVD para a Estrela NDX (-110,59M) indica uma forte pressão de venda, que manteve o índice no nível de 30664.60 (-0.71%) no momento do fechamento.</li>
+<li><strong>Mercado de opções QQQ:</strong> Com um volume de 6,398,370 contratos e uma razão Put/Call de 0.97, o mercado encontra-se em um estado de quase equilíbrio total entre proteção (hedging) e especulação direcional. A volatilidade implícita (IV) é de 18.66%, e o intervalo de movimento esperado pelo mercado para a Esfera de Dyson (QQQ) oscila em torno de 739.80 – 752.28.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 02:07</p>
+<h3>📈 [2026-10-13 01:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) permanece fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Dinâmica dos contratos NQ:</strong> Os contratos NQ estão sendo negociados com uma leve vantagem de baixa (-0,19%) ao preço de 30 839,75. O fluxo de energia (CVD) acumulado no nível de -1,57 mil indica o teste de oferta na atual faixa de preço.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador agregado de direção de fluxo é de -45, o que confirma uma clara vantagem de distribuição de capital e sentimento de mercado negativo. No mercado à vista (NDX), foi observada uma forte pressão de venda (CVD: -110,59 mln) com uma queda do índice de 0,71%.</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) no nível de 18,66% com uma razão Put/Call Volume de 0,97 sugere uma postura de mercado neutra-negativa. O alcance de movimento esperado pelo mercado para a Esfera de Dyson (QQQ) situa-se na faixa de 742,38 – 749,70, o que define níveis cruciais de suporte e resistência para a próxima sessão.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 01:07</p>
+<h3>📈 [2026-10-13 00:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>a sessão à vista (Spot):</strong> Mercado fechado. O índice NDX encerrou a sessão com um resultado de -0.71% (30667.52), com forte pressão de venda observada no fluxo acumulado (CVD NDX: -110,59 M).</li>
+<li><strong>Contratos NQ:</strong> Na sessão de futuros, o instrumento permanece em consolidação (preço 30899.25, mudança 0.00%). Apesar do fechamento do mercado à vista, foi observado um teste mínimo de demanda nos contratos (CVD NQ: 370), o que sugere uma estabilização temporária do preço em intervalos locais.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador agregado de direção de fluxo é -25, o que indica uma predominância de distribuição de capital e sentimento de mercado negativo após o fechamento da sessão regular.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) no nível de 18.42% com uma relação Put/Call Volume no nível de 0.97 indica um peso similar de proteção e um humor neutro entre os investidores de opções. O intervalo de movimento para a Esfera de Dyson (QQQ) no próximo ciclo é estimado entre 742.38 – 749.70.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-13 00:07</p>
+

@@ -1,0 +1,91 @@
+# Log #0200: Collapse of the Central Star's gravitational field
+
+Date: 2026-10-12 22:03
+URL: https://heniu.blog/en/posts/log-0200/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-17)**  
+> **The Average Action in this entry was wrong.** The prices of four companies above 1000 USD (ASML, MELI, MPWR, SNDK) were read incorrectly, so the average share price and its change were distorted.
+>
+> **Corrections:**
+> - Average Action: the correct values cannot be reconstructed, so we removed them.
+> - We removed the double percent sign at IV.
+
+**Stardate:** 2026.10.12\
+**Systems Status:** External Observation\
+**Sector:** Inner Volatility Bands
+
+---
+
+### Closing Telemetry
+
+> *Observation of a rapid outflow of energy from the NDX system accompanied by a collapse in the breadth of Background Radiation (TICKQ). The system is in a state of structural destabilization.*
+
+* **Subspace Scanner (Mass Distribution):**
+    * *System T-Mass:* **43.59 Trillion USD**
+    * *Session Delta (24h):* **-0.16 Trillion USD**
+    * *Core Density (Heavy Nine):* **68.66%** (Delta: **+0.24%**)
+    * *Average Action (Periphery Temperature):* **[NO DATA]** (Delta: **[NO DATA]**)
+
+* **the NDX Star (Sun):** Close: **30667.52 (-0.71%)**
+    * *Vector (CVD):* **−110,59 M [panic]**
+    * *MOC Anomaly:* **+18,56 M**
+    * *Range Consumption (ADR Util):* **66.27%**
+    * *Drawdown from Heniu's peak:* **-1.79%** (highest close: **31226.82**, 2026-10-06)
+
+* **the NQ Probe (Mercury):** Close: **30890.50 (-0.70%)**
+    * *Vector (CVD):* **−2,51 K [supply test]**
+    * *Range Consumption (ADR Util):* **101.02%**
+
+* **the Dyson Sphere (QQQ):** Close: **745.98 (-0.70%)**
+    * *Population Vector:* **147,56 K [demand test]**
+    * *Range Consumption (ADR Util):* **66.94%**
+
+* **Background Radiation (TICKQ) -522.00 [market collapse]:**
+    * *SMA200:* **-3.19 [supply test]**
+
+* **Gravitational Structure (Options):**
+    * *Implied Volatility (IV):* **18.72%**
+    * *Put/Call OI:* **1.50**
+
+---
+
+### Logbook: Collapsing gravitational field of the Central Star
+
+**1. Energy leak from the Central Star**
+the NDX Star recorded a decline of 0.71%, which, combined with a cumulative drawdown from the peak of 1.79%, signals a weakening of the force field. The energy flow (CVD) for NDX reached a level of -110,59M, classifying the system state as panic. the NQ Probe confirms this trend, showing a decline of 0.70% and remaining in a supply test phase (CVD: -2,51K).
+
+**2. Broad market radiation and the Dyson Sphere**
+Background Radiation (TICKQ) fell to a level of -522, indicating a broad-scale market collapse, while the average SMA200 radiation is in a supply test phase (-3.19). However, the Dyson Sphere (QQQ) exhibits anomalous resilience – despite a price decline of 0.70%, the local energy flow (CVD) is 147,56K, indicating a demand test within the options structure.
+
+**3. Core stability and fundamental data**
+The total system mass (T-Mass) is 43.59 Trillion USD, and the fluctuation of the Core composition remains stable, with no detection of a Class 0 singularity collapse. In the Fundamental Fields, net negative insider activity was recorded in Class 0 at a level of -1.94 M USD over the last 5 sessions.
+
+**Quantum Verdict:**
+The system is experiencing a rapid outflow of fuel from the center of mass (NDX), causing a collapse in the broad Background Radiation (TICKQ), while simultaneously attempting energetic stabilization within the Dyson Sphere (QQQ).
+
+**Status:** EXTERNAL OBSERVATION. Shields active.
+
+**End of log.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Quantum Market Cosmology: Logbook",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

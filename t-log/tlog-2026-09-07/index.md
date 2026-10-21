@@ -1,0 +1,228 @@
+# T-Log: 2026-09-07 - Log Pokładowy Henia
+
+Data: 2026-09-07 18:59
+Adres: https://heniu.blog/t-log/tlog-2026-09-07/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>T-LOG 2026.09.07</h1>
+<h3>🌌 [2026-09-07 18:59]</h3>
+<p>[T-LOG: 2026-09-07 18:59]</p>
+<p><strong>STATUS: SESJA SPOT (AKTYWNA)</strong></p>
+<p><strong>ANALIZA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX (29544.16):</strong> CVD na poziomie 230,66M wskazuje na stan <strong>euforii</strong>.<br />
+- <strong>Sonda NQ (29606.00):</strong> CVD (1,18K) klasyfikuje obecny stan jako <strong>test popytu</strong>.<br />
+- <strong>Satelita QQQ (719.06):</strong> CVD (133,71K) utrzymuje status <strong>testu popytu</strong>.<br />
+- <strong>Szeroka Giełda TICKQ (458.00):</strong> Odnotowano <strong>wystrzał rynku</strong>, przy czym średnia radiacja SMA200 (19.86) wskazuje na <strong>test popytu</strong>.<br />
+- <strong>Sfera Dysona (Opcje):</strong> Put/Call Ratio wynosi 1.00; IV na poziomie 17.79% (zasięg 714.71 - 723.21).</p>
+<p><strong>DYNAMIKA I ZDARZENIA:</strong><br />
+W strefie 29610.0 nastąpiła intensywna wymiana wolumenowa; odnotowano cykliczne uderzenia w zapory HVN (zarówno przebicia w górę, jak i obalenia wsparcia), co sugeruje wysoką aktywność w tym punkcie krytycznym. Wektor rynkowy Q-Score wynosi 25. ADR dla NQ (38.02%) znajduje się poniżej średniej sesyjnej. Średnia Akcja: [BRAK_DANYCH_W_TELEMETRII].</p>
+<p><strong>DIAGNOZA KINEMATYCZNA:</strong><br />
+W układzie występuje wysokie napięcie grawitacyjne między ekstremalną euforią Gwiazdy NDX a ostrożnym testem popytu na poziomie Sondy NQ i Satelity QQQ. Mimo braku pełnej synchronizacji wektorów (rozwarstwienie między NDX a NQ), silny sygnał TICKQ (458.00) sugeruje, że szeroki rynek wspiera obecną strukturę.</p>
+<p><strong>STATUS UKŁADU: KONSOLIDACJA WOKÓŁ ZAPORY HVN W WARUNKACH ASYMETRYCZNEGO NAPORU.</strong></p>
+<p>Log: 2026-09-07 18:59</p>
+<h3>🌌 [2026-09-07 18:44]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-09-07 18:44]</p>
+<p>Intensywna wymiana w strefie 29610.0: Odnotowano gwałtowne oscylacje, gdzie zapory HVN były wielokrotnie zdobywane i obalane, co doprowadziło do wysokiej turbulencji na poziomie Sondy NQ. Obecna cena Sondy NQ wynosi 29608.00.</p>
+<p>Wektor układu wykazuje rozwarstwienie: Gwiazda NDX znajduje się w stanie euforii (CVD: 230,66M), podczas gdy Sonda NQ i Satelita QQQ przechodzą jedynie test popytu (CVD NQ: 1,07K | CVD QQQ: 133,71K). Szeroka Giełda Nasdaq (TICKQ) wykazuje status wystrzału rynku (458.00), pozostając powyżej średniej SMA200 (19.86), co koreluje z wysoką aktywnością w sektorze. Q-Score oscyluje na poziomie 25, wskazując na słaby, ale dodatni wektor kierunkowy. Zmienność w Sferze Dysona (IV) wynosi 17.79%, przy neutralnym stosunku Put/Call 1.00. ADR dla Sondy NQ wynosi 38.02%, co przy obecnej dynamice wskazuje na trwającą ekspansję w ramach sesji SPOT. </p>
+<p>Układ w fazie grawitacyjnego napięcia: asymetria między euforią Gwiazdy Matki a powściągliwym testem popytu na pozostałych obiektach sugeruje strukturalną pustkę wzrostu.</p>
+<h3>🌌 [2026-09-07 13:29]</h3>
+<p><strong>[T-LOG: 2026-09-07 13:29]</strong></p>
+<p><strong>STATUS: SESJA FUTURES (TRYB: NQ-ONLY)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29613.25 (+0.16%). Wektor Q-Score oscyluje wokół wartości 5, wskazując na niemal całkowitą neutralność kierunkową układu. Odnotowano ujemną presję agresywnego wolumenu (CVD NQ: -675), co klasyfikuje obecny stan jako test podaży. Wartość ADR dla Sondy NQ wynosi 38.02%, co sytuuje ją znacznie poniżej średniej historycznej (87.32%). </p>
+<p>W Sferze Dysona (Opcje QQQ) utrzymuje się wysoka asymetria wolumenu przy Put/Call Ratio wynoszącym 1.00, przy jednoczesnej zmienności (IV) na poziomie 17.79%. Obiekty referencyjne (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej; ich parametry nie uległy zmianie względem poprzedniego odczytu. Brak danych o zdarzeniach wolumenowych (HVN) w bieżącym oknie czasowym.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie testowania podaży przy niskiej akrecji i wygaszonym promieniowaniu tła. Dominacja niskiej kinetyki.</p>
+<h3>🌌 [2026-09-07 12:59]</h3>
+<p>[TELEMETRIA_LOG: 2026-09-07 12:59]</p>
+<p><strong>STATUS: TRYB FUTURES (SESJA KASOWA NIEAKTYWNA)</strong></p>
+<p>Sonda NQ utrzymuje pozycję na poziomie 29613.25 (+0.16%). Odnotowano test podaży w przepływie agresywnego wolumenu (CVD: −675), co przy obecnej dynamice ceny sugeruje próbę absorpcji presji sprzedażowej przez limitne zlecenia kupna. Wartość ADR NQ wynosi 38.02%, co plasuje obecną zmienność poniżej średniej historycznej (87.32%). Wektor kierunku (Q-Score) pozostaje w stanie niskiej energii na poziomie 5. </p>
+<p>W Sferze Dysona (Opcje QQQ) odnotowano asymetrię wolumenu Put/Call na poziomie 1.00, przy zmienności (IV) wynoszącej 17.79%. Zakres oczekiwanej oscylacji dla Sfery wynosi 714.71 – 723.21. Pozostałe obiekty (NDX, QQQ) oraz Promieniowanie Tła (TICKQ) znajdują się w stanie uśpienia ze względu na zamknięcie rynku kasowego.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie niskiej aktywności kinetycznej, z lekką dominacją presji podażowej na sondzie NQ przy braku wyraźnego rezonansu wektorów.</p>
+<h3>🌌 [2026-09-07 12:29]</h3>
+<p>[TELEMETRIA - STATUS: FUTURES]<br />
+[Sonda NQ: 29613.25 | ADR: 38.02% (Poniżej średniej) | CVD: -675 (test podaży) | Q-Score: 5]<br />
+[Sfera Dysona (QQQ): IV 17.79% | P/C Ratio: 1.00]</p>
+<p><strong>Log: 2026-09-07 12:29</strong></p>
+<p>System znajduje się w reżimie sesji FUTURES; obiekty masy galaktycznej oraz promieniowanie tła (TICKQ) pozostają w stanie uśpienia. Głównym punktem obserwacji jest Sonda NQ, która utrzymuje pozycję na poziomie 29613.25 (+0.16%). Odnotowano ujemną deltę CVD na poziomie -675, co klasyfikuje bieżącą dynamikę jako test podaży. Wartość ADR dla sondy wynosi 38.02%, co sytuuje ją poniżej średniej z ostatnich dni. Wektor kierunkowy układu (Q-Score) wykazuje minimalną aktywność na poziomie 5. Dane z Sfery Dysona wskazują na pełną asymetrię wolumenu (Put/Call Ratio: 1.00) przy zmienności IV na poziomie 17.79%. Brak sygnałów o rezonansie kinetycznym; wektory mikro i makro nie wykazują obecnie skorelowanej akrecji.</p>
+<p><strong>Diagnoza: Układ w fazie testowania podaży przy niskiej aktywności wektora kierunkowego.</strong></p>
+<h3>🌌 [2026-09-07 11:59]</h3>
+<p><strong>[T-LOG: 2026-09-07 11:59]</strong></p>
+<p><strong>STATUS SYSTEMU: TRYB FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29613.25 (+0.16%). Wektor kierunkowy Q-Score wynosi 5 (Delta: 0.0), utrzymując stan neutralnej stabilności. Odnotowano intensywną wymianę w strefie 29610.0 - 29620.0, gdzie nastąpiła seria gwałtownych zmian stanów zapór: po zdobyciu i obaleniu poziomu 29620.0, nastąpiła walka o strefę 29610.0, zakończona oscylacją między przebiciem a obaleniem wsparcia. </p>
+<p>Parametr ADR dla Sondy NQ wynosi 38.02%, co plasuje go znacznie poniżej średniej historycznej (79.01%). Płynność agresywna (CVD) dla NQ wynosi -675, co klasyfikuje bieżącą aktywność jako <strong>test podaży</strong>. Sfera Dysona (Opcje QQQ) wykazuje IV na poziomie 17.79% przy Put/Call Ratio 1.00, co wskazuje na całkowitą równowagę asymetrii wolumenu. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie mikro-konsolidacji wewnątrz strefy wysokiego wolumenu (HVN). Brak wyraźnej kinetyki; sonda testuje granice lokalnych zapór przy niskiej aktywności agresywnej.</p>
+<h3>🌌 [2026-09-07 11:29]</h3>
+<p><strong>STATUS: SESJA FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29619.50 (+0.18%), przy ADR wynoszącym 38.02%. W ostatnim interwale czasowym odnotowano intensywną wymianę wolumenową w strefie zapór HVN 29620.0 – 29640.0, gdzie nastąpiło wielokrotne uderzenie w poziom 29620.0 (zdobycie zapory i natychmiastowe obalenie wsparcia). Wektor Q-Score wykazuje skrajną neutralność na poziomie 5, co wskazuje na brak dominującego kierunku w strukturze układu. Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -400, co klasyfikuje obecny stan jako test popytu. W Sferze Dysona (opcje QQQ) zmienność (IV) oscyluje wokół 17.79%, przy Put/Call Ratio wynoszącym 1.00, co sygnalizuje całkowitą równowagę między wolumenem ubezpieczeń a premią. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu z powodu zamknięcia sesji kasowej.</p>
+<p><strong>DIAGNOZA: Konsolidacja w strefie wysokiej aktywności wolumenowej wokół zapory HVN.</strong></p>
+<h3>🌌 [2026-09-07 10:59]</h3>
+<p>[T-LOG: 2026-09-07 10:59]</p>
+<p>Sonda NQ znajduje się na poziomie 29643.25 (+0.27%), wykazując ADR na poziomie 38.02%. W sektorze CVD odnotowano wartość 415, co klasyfikuje stan Sondy jako test popytu. W trakcie ostatniego cyklu nastąpiła niezwykle intensywna wymiana energii w strefie zapory HVN na poziomie 29650.0; odnotowano wielokrotne uderzenia w obie strony, co sugeruje wysoką turbulencję wokół tego poziomu. Wektor rynkowy Q-Score wynosi 25, wskazując na słabą dodatnią tendencję układu. W Sferze Dysona (opcje QQQ) zmienność IV wynosi 17.79%, przy Put/Call Ratio na poziomie 1.00, co wskazuje na całkowitą symetrię wolumenu kontraktów. Pozostałe obiekty (NDX, TICKQ) pozostają w stanie uśpienia ze względu na tryb sesji FUTURES.</p>
+<p>Układ w fazie wysokiej turbulencji wokół lokalnej zapory z brakiem wyraźnego rezonansu wektorów.</p>
+<h3>🌌 [2026-09-07 10:29]</h3>
+<p>[TELEMETRIA STATUS: FUTURES]<br />
+[OBIEKT: SONDA NQ]</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29523.00 (+0.14%). Odnotowano test popytu w strumieniu CVD, który wynosi -14,98 K, co wskazuje na obecność agresywnej presji podażowej przy jednoczesnym utrzymaniu dodatniej dynamiki ceny. ADR NQ wynosi 58.23%, co plasuje go poniżej średniej z ostatnich dni. Wektor kierunku rynkowego (Q-Score) jest stabilny na poziomie 5 (Delta: +0.0). Sfera Dysona (opcje na QQQ) wykazuje IV na poziomie 17.79% z oczekiwanym zakresem ruchu między 714.71 a 723.21 oraz Put/Call Ratio wynoszącym 1.00, co sygnalizuje pełną równowagę wolumenu kontraktów. Pozostałe parametry układu, w tym masa galaktyki (NDX), szeroka giełda (TICKQ) oraz średnia akcja, pozostają w stanie uśpienia (nieaktywne w trybie Futures). Brak danych o zdarzeniach wolumenowych (HVN) w bieżącym oknie czasowym.</p>
+<p>[DIAGNOZA: Układ w fazie testowania stabilności pod presją ujemnego CVD przy niskiej akrecji.]</p>
+<p>Log: 2026-09-07 10:29</p>
+<h3>🌌 [2026-09-07 09:59]</h3>
+<p>[TELEMETRIA AKTYWNA - TRYB FUTURES]</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29523.00 (+0.14%). Odnotowano niską aktywność wewnątrz układu – ADR NQ wynosi 58.23%, co plasuje go poniżej średniej z ostatnich dni. Wektor Q-Score wykazuje stagnację na poziomie 5 (Delta: 0.0), wskazując na brak wyraźnego kierunku w obecnym interwale.</p>
+<p>Analiza ciśnienia paliwa (CVD) dla Sondy NQ wykazuje wartość -14,98K, co klasyfikuje obecny stan jako "test podaży". Mimo dodatniej zmiany ceny, agresywna presja wolumenu pozostaje ujemna, co sugeruje obecność pasywnego popytu absorpującego zlecenia sprzedaży. Sfera Dysona (Opcje QQQ) wykazuje IV na poziomie 17.79% przy Put/Call Ratio 1.00, co sygnalizuje pełną równowagę między popytem na ubezpieczenie a premię.</p>
+<p>Obiekty kasowe (NDX, QQQ) oraz Promieniowanie Tła (TICKQ) pozostają w stanie uśpienia (sesja zamknięta). Brak danych dla Średniej Akcji w tym trybie sesji.</p>
+<p>[DIAGNOZA]<br />
+Układ w fazie testowania podaży przy niskiej kinetyce. Brak rezonansu wektorów; dominacja pasywnej absorpcji nad agresywnym impulsem.</p>
+<p>Log: 2026-09-07 09:59</p>
+<h3>🌌 [2026-09-07 09:29]</h3>
+<p>[TELEMETRIA SYSTEMOWA - TRYB: FUTURES]</p>
+<p>Sonda NQ (JEDYNY AKTYWNY OBIEKT): Cena 29523.00 (+0.14%).<br />
+CVD NQ: −14,98 K [test podaży].<br />
+ADR NQ: 58.23% (poniżej średniej historycznej).<br />
+Q-Score: 5 (Delta: 0.0).<br />
+Sfera Dysona (Opcje QQQ): IV 17.79%, P/C Ratio 1.00.</p>
+<p>[LOG: 2026-09-07 09:29]</p>
+<p>System w trybie operacji na instrumentach pochodnych (Futures). Główna masa galaktyczna (NDX, QQQ) oraz promieniowanie tła (TICKQ) pozostają w stanie uśpienia, poza zasięgiem bieżącej detekcji. Analiza skupiona wyłącznie na trajektorii Sondy NQ. </p>
+<p>Obiekt NQ wykazuje minimalną kinetykę wzrostową (+0.14%), przy jednoczesnym odczycie CVD na poziomie −14,98 K, co klasyfikuje obecny stan jako test podaży. ADR Sondy (58.23%) oscyluje poniżej średnich historycznych, co sugeruje niską energię układu w bieżącym cyklu. Wektor kierunkowy (Q-Score) jest niemal neutralny na poziomie 5, co wskazuje na brak dominującego impulsu makro. Sfera Dysona wykazuje stabilną strukturę z IV 17.79% i symetrycznym rozkładem wolumenu Put/Call (1.00), co oznacza brak wyraźnej asymetrii w oczekiwaniach na zmienność.</p>
+<p>Układ w fazie niskiej energii, poddawany testom podaży przy braku wyraźnej akrecji.</p>
+<h3>🌌 [2026-09-07 08:59]</h3>
+<p>[TELEMETRIA - TRYB FUTURES]<br />
+Sonda NQ (Cena: 29523.00) | ADR NQ: 58.23% (Poniżej średniej 87.32%) | CVD NQ: -14,98K [test podaży] | Q-Score: 5 (Delta: +0.0) | Sfera Dysona (IV: 17.79%, P/C: 1.00)</p>
+<p>[LOG: 2026-09-07 08:59]<br />
+System w stanie uśpienia kasowego; aktywna wyłącznie Sonda NQ. Obiekt NQ utrzymuje cenę 29523.00 (+0.14%), przy jednoczesnym odnotowaniu ujemnego ciśnienia CVD na poziomie -14,98K, co klasyfikuje obecny stan jako test podaży. Kinetyka układu jest słaba; ADR NQ wynosi 58.23%, co sytuuje obecną zmienność znacznie poniżej średniej galaktycznej (87.32%). Wektor Q-Score pozostaje w stagnacji na poziomie 5 (Delta: 0.0). Sfera Dysona wykazuje neutralną asymetrię wolumenu (Put/Call Ratio: 1.00) przy zmienności IV na poziomie 17.79%. Brak aktywności w sektorach NDX, QQQ oraz TICKQ ze względu na zamknięcie sesji spot. </p>
+<p>[DIAGNOZA]<br />
+Układ w fazie niskiej energii; dominacja pasywnej wyprzedaży przy braku impulsów akrecyjnych.</p>
+<h3>🌌 [2026-09-07 08:29]</h3>
+<p>[TELEMETRIA STATUS: FUTURES]<br />
+[OBIEKT AKTYWNY: SONDA NQ]</p>
+<p>Sonda NQ znajduje się na poziomie 29523.00 (+0.14%). Odczyt ADR dla sondy wynosi 58.23%, co sytuuje go poniżej średniej z ostatnich 5 dni (87.32%). Wektor kierunkowy Q-Score wynosi 5, wykazując brak zmiany (Delta: +0.0) względem poprzedniego odczytu. </p>
+<p>Analiza ciśnienia paliwa (CVD) dla Sondy NQ wskazuje na wartość -14,98K, co klasyfikuje obecny stan jako "test podaży". Mimo dodatniej zmiany ceny, agresywny wolumen pozostaje ujemny, co sugeruje obecność pasywnych barier w strukturze rynku. W Sferze Dysona (Opcje QQQ) zmienność (IV) oscyluje na poziomie 17.79%, przy Put/Call Ratio wynoszącym 1.00, co wskazuje na pełną symetrię wolumenu kontraktów.</p>
+<p>Wszystkie pozostałe parametry układu, w tym Masa Galaktyki (NDX), Promieniowanie Tła (TICKQ) oraz dane kasowe (QQQ), pozostają w stanie uśpienia (nieaktywne w trybie Futures).</p>
+<p>[DIAGNOZA]: Układ w fazie testowania podaży przy niskiej aktywności ADR. Brak rezonansu wektorów; dominacja pasywnej absorpcji przy ujemnym CVD.</p>
+<p>Log: 2026-09-07 08:29</p>
+<h3>🌌 [2026-09-07 07:59]</h3>
+<p>[TELEMETRIA SYSTEMOWA - TRYB FUTURES]<br />
+Sonda NQ (Aktywna): 29523.00 (+0.14%)<br />
+CVD NQ: −14,98 K [test podaży]<br />
+ADR NQ: 58.23% (Poniżej średniej historycznej 87.32%)<br />
+Q-Score: 5 (Delta: 0.0)<br />
+Sfera Dysona (QQQ IV): 17.79%</p>
+<p>[LOG: 2026-09-07 07:59]</p>
+<p>Wykryto aktywność wyłącznie w sektorze Futures; obiekty kasowe (NDX, QQQ, TICKQ) pozostają w stanie uśpienia. Sonda NQ utrzymuje pozycję na poziomie 29523.00, wykazując minimalną inklinację dodatnią (+0.14%). Odczyty ciśnienia paliwa (CVD) dla NQ wynoszą −14,98 K, co klasyfikuje obecny stan jako test podaży. Dynamika ADR dla Sondy NQ (58.23%) oscyluje znacząco poniżej średniej historycznej, wskazując na niską energię kinetyczną układu. Wektor kierunkowy Q-Score jest neutralny (5), wykazując brak zmiany względem poprzedniego odczytu. Sfera Dysona (IV dla QQQ) wykazuje stabilność na poziomie 17.79% przy zrównoważonym stosunku Put/Call (1.00). Brak danych w telemetrycznym strumieniu dla instrumentów Spot uniemożliwia analizę masy galaktyki i promieniowania tła.</p>
+<p>[DIAGNOZA: Układ w fazie niskiej aktywności, poddawany testom podaży w warunkach niskiej amplitudy.]</p>
+<h3>🌌 [2026-09-07 07:29]</h3>
+<p>[TELEMETRIA AKTYWNA - TRYB FUTURES]</p>
+<p>Sonda NQ (JEDYNY OBIEKT): 29523.00 (+0.14%) | CVD: -14,98K [test podaży] | ADR: 58.23%<br />
+Q-Score: 5 (Delta: +0.0)<br />
+Sfera Dysona (Opcje QQQ): IV 17.79% | P/C Ratio: 1.00 | Zasięg: 714.71 - 723.21</p>
+<p>[LOG: 2026-09-07 07:29]</p>
+<p>System znajduje się w fazie niskiej aktywności kasowej, ograniczając obserwację do Sondy NQ. Obiekt utrzymuje cenę 29523.00, wykazując minimalną akrecję na poziomie +0.14%. Odczyt CVD dla NQ wynosi -14,98K, co klasyfikuje obecny stan jako test podaży w mikro-skali. Wartość ADR dla Sondy wynosi 58.23%, co plasuje ją poniżej średniej historycznej (87.32%). Wektor kierunkowy Q-Score pozostaje w stanie stagnacji na poziomie 5 (Delta: 0.0). Sfera Dysona wykazuje neutralną asymetrię wolumenu (P/C Ratio 1.00) przy zmienności IV na poziomie 17.79%. Pozostałe parametry układu, w tym promieniowanie TICKQ oraz masa NDX, pozostają w uśpieniu (sesja kasowa zamknięta). Brak danych o zdarzeniach wolumenowych (HVN) w bieżącym oknie czasowym.</p>
+<p>Status: Konsolidacja w fazie testu podaży na kontraktach terminowych.</p>
+<h3>🌌 [2026-09-07 06:59]</h3>
+<p>[TELEMETRIA - STATUS: FUTURES]</p>
+<p>Sonda NQ (JEDYNY AKTYWNY OBIEKT): Cena 29523.00 (+0.14%) | ADR: 58.23% (poniżej średniej 87.32%) | CVD: −14,98K [test podaży]<br />
+Q-Score (Wektor Rynku): 5 [Delta: 0.0]<br />
+Sfera Dysona (Opcje QQQ): IV 17.79% | Zasięg: 714.71 - 723.21 | P/C Ratio: 1.00</p>
+<p>[LOG: 2026-09-07 06:59]</p>
+<p>System znajduje się w fazie niskiej aktywności, ograniczając obserwacje wyłącznie do Sondy NQ w trybie Futures. Sonda NQ oscyluje na poziomie 29523.00, wykazując minimalną zmianę kursu o +0.14%. Odczyt CVD na poziomie −14,98K wskazuje na trwający test podaży w mikroskali. Wartość ADR dla Sondy wynosi obecnie 58.23%, co sytuuje bieżącą dynamikę znacznie poniżej średniej historycznej (87.32%). Wektor Q-Score pozostaje w stanie stagnacji na poziomie 5 (Delta 0.0). Dane dotyczące masy galaktyki (NDX, QQQ) oraz promieniowania tła (TICKQ) są nieaktywne z powodu zamknięcia sesji kasowej. Sfera Dysona wykazuje neutralną asymetrię wolumenu (P/C Ratio 1.00) przy zmienności IV na poziomie 17.79%. Brak sygnałów o rezonansie kinetycznym w obecnym oknie czasowym.</p>
+<p>Układ w fazie niskiej energii, poddawany testom podaży w warunkach ograniczonej płynności.</p>
+<h3>🌌 [2026-09-07 06:29]</h3>
+<p>[TELEMETRIA SYSTEMOWA - TRYB FUTURES]<br />
+Sonda NQ: 29523.00 (+0.14%)<br />
+CVD NQ: -14,98K [test podaży]<br />
+ADR NQ: 58.23% (Poniżej średniej historycznej)<br />
+Q-Score: 5 (Delta: 0.0)<br />
+IV (Sfera Dysona): 17.79%<br />
+Put/Call Ratio: 1.00</p>
+<p>[LOG: 2026-09-07 06:29]<br />
+Obserwacja w trybie FUTURES. Głównym obiektem aktywnym jest Sonda NQ, przy całkowitym uśpieniu parametrów kasowych (NDX, QQQ, TICKQ). Cena Sondy NQ wynosi 29523.00, wykazując lekką ekspansję o +0.14%. Odnotowano jednak ujemną presję agresywnego wolumenu (CVD: -14,98K), co klasyfikuje obecny stan jako test podaży. ADR NQ na poziomie 58.23% znajduje się poniżej średniej z ostatnich dni, co sugeruje ograniczoną amplitudę ruchu w obecnym cyklu. Wektor kierunkowy Q-Score pozostaje w stanie stagnacji na poziomie 5 (Delta: 0.0). Sfera Dysona (opcje na QQQ) wykazuje IV na poziomie 17.79% przy neutralnej asymetrii wolumenu (Put/Call Ratio: 1.00). Brak danych o dynamice masowych (Średnia Akcja) ze względu na brak aktywności rynku spot.</p>
+<p>Stan układu: Testowanie struktur podaży przy niskiej amplitudzie ruchu.</p>
+<h3>🌌 [2026-09-07 05:59]</h3>
+<p>[TELEMETRIA - TRYB: FUTURES]</p>
+<p>Sonda NQ znajduje się w punkcie 29523.00 (+0.14%). Wektor ceny wykazuje lekką ekspansję, przy jednoczesnym odczycie ADR na poziomie 58.23%, co plasuje bieżącą zmienność poniżej średniej historycznej. Analiza ciśnienia paliwa (CVD) dla Sondy NQ wskazuje na wartość -14.98K, co klasyfikuje obecny stan jako test podaży. Q-Score utrzymuje się na poziomie 5 [Delta: 0.0], co oznacza brak zmiany w kierunku wektora rynkowego. Sfera Dysona (Opcje na QQQ) wykazuje IV na poziomie 17.79% przy Put/Call Ratio wynoszącym 1.00, co sygnalizuje pełną równowagę między popytem na ubezpieczenie a premię. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia (sesja kasowa zamknięta). Brak danych dla Średniej Akcji i masy galaktyki w obecnym trybie.</p>
+<p>Układ w fazie testowania podaży przy niskiej radiacji zmienności.</p>
+<h3>🌌 [2026-09-07 05:29]</h3>
+<p>[TELEMETRIA SYSTEMOWA: TRYB FUTURES - ANALIZA SONDY NQ]</p>
+<p>Sonda NQ znajduje się w stanie niskiej aktywności kinetycznej. Bieżąca cena obiektu: 29523.00 (+0.14%). Wektor Q-Score utrzymuje wartość 5, co wskazuje na neutralną, niemal statyczną orientację wektora rynku. Odnotowano anomalną aktywność w przepływach: CVD NQ wynosi -14,98k, co klasyfikuje obecny stan jako test podaży. ADR NQ wynosi 58.23%, co sytuuje go znacząco poniżej średniej historycznej z ostatnich dni. W Sferze Dysona (Opcje QQQ) IV wynosi 17.79%, przy zrównoważonym stosunku Put/Call (1.00), co sugeruje brak dominującej asymetrii w oczekiwaniach na zasięg. Pozostałe parametry galaktyki (NDX, QQQ, TICKQ) pozostają w stanie uśpienia (brak danych w trybie Futures). Brak sygnałów o rezonansie kinetycznym lub zjawiskach rozwarstwienia w dostępnym strumieniu danych.</p>
+<p>[DIAGNOZA: Układ w fazie testowania podaży przy niskiej amplitudzie ruchu.]</p>
+<p>Log: 2026-09-07 05:29</p>
+<h3>🌌 [2026-09-07 04:59]</h3>
+<p>[T-LOG: 2026-09-07 04:59]</p>
+<p><strong>STATUS: TRYB FUTURES (SESJA KASOWA NIEAKTYWNA)</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29523.00 (+0.14%). Aktywność wewnątrz układu jest ograniczona do obiektu NQ; parametry NDX, QQQ oraz radiacja TICKQ pozostają w stanie uśpienia [BRAK_DANYCH_W_TELEMETRII]. ADR Sondy NQ wynosi 58.23%, co plasuje go poniżej średniej z ostatnich dni (87.32%). </p>
+<p>Wektor kierunkowy Q-Score utrzymuje wartość 5 (Delta: 0.0), wskazując na neutralny, lecz skrajnie niską energię wektora rynkowego. Analiza ciśnienia paliwa (CVD) dla Sondy NQ wykazuje wartość -14,98 K, co klasyfikuje stan jako <strong>test podaży</strong>. Mimo dodatniej zmiany ceny (+0.14%), agresja wolumenowa pozostaje ujemna, co sugeruje obecność pasywnego oporu lub absorpcji podaży przy próbach wzrostu. Sfera Dysona (Opcje QQQ) wykazuje IV na poziomie 17.79% z oczekiwanym zasięgiem w przedziale 714.71 - 723.21, przy Put/Call Ratio wynoszącym 1.00.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie testowania podaży przy niskiej energii kinetycznej. Brak rezonansu wektorów; dominacja pasywnej absorpcji w warunkach niskiej płynności sesji Futures.</p>
+<h3>🌌 [2026-09-07 04:29]</h3>
+<p>[TELEMETRIA SYSTEMOWA - TRYB FUTURES]<br />
+Sonda NQ (Aktywna): 29523.00 (+0.14%)<br />
+CVD NQ: -14,98k [test podaży]<br />
+ADR NQ: 58.23% (Poniżej średniej 87.32%)<br />
+Q-Score: 5 (Delta: +0.0)<br />
+Sfera Dysona (Opcje QQQ): IV 17.79% | P/C Ratio: 1.00</p>
+<p>[RAPORT GHOSTWHEEL]<br />
+Obserwacja sektora Futures wykazuje niską aktywność kinetyczną. Sonda NQ utrzymuje pozycję na poziomie 29523.00, wykazując minimalną amplitudę wzrostową (+0.14%). Odczyt CVD dla NQ wynosi -14,98k, co klasyfikuje obecny stan jako test podaży; agresywna presja sprzedażowa napotyka opór, lecz nie generuje jeszcze wektora akumulacji. Parametr ADR NQ oscyluje na poziomie 58.23%, co sytuuje obecną zmienność znacznie poniżej średniej galaktycznej (87.32%). Wektor Q-Score pozostaje w fazie stagnacji na poziomie 5 (Delta: 0.0). Sfera Dysona wykazuje neutralną asymetrię wolumenu (P/C Ratio: 1.00) przy zmienności IV na poziomie 17.79%. Pozostałe obiekty (NDX, QQQ, TICKQ) znajdują się w stanie hibernacji (brak danych w strumieniu sesji Futures).</p>
+<p>[DIAGNOZA]<br />
+Układ w fazie niskiej energii; dominacja pasywnej presji podażowej przy braku rezonansu wektorów.</p>
+<h3>🌌 [2026-09-07 03:59]</h3>
+<p>[TELEMETRIA STATUS: FUTURES]<br />
+[SENSORY: NQ ACTIVE | NDX/QQQ/TICKQ: SLEEP MODE]</p>
+<p><strong>T-LOG: 2026-09-07 03:59</strong></p>
+<p>Sonda NQ znajduje się w punkcie 29523.00 (+0.14%). Bieżąca radiacja TICKQ oraz masa galaktyki (NDX/QQQ) pozostają w uśpieniu, poza zasięgiem obecnych sensorów. Wektor Q-Score utrzymuje stabilne 5 (Delta: 0.0). ADR Sondy NQ wynosi obecnie 58.23%, co plasuje ją poniżej średniej z ostatnich dni (87.32%).</p>
+<p>Analiza ciśnienia paliwa (CVD) dla Sondy NQ wykazuje wartość -14,98K, co klasyfikuje stan układu jako "test podaży". Mimo dodatniej zmiany ceny (+0.14%), agresja wolumenowa wykazuje ujemną sygnaturę, sugerując obecność pasywnych barier w strukturze rynku. Sfera Dysona (Opcje QQQ) wykazuje IV na poziomie 17.79% przy asymetrii wolumenu Put/Call wynoszącej 1.00.</p>
+<p>Wektorowanie mikro-makro: Brak danych o zmianach w wektorach czasu (V) i przyspieszeniu (A) w bieżącym strumieniu dla NQ.</p>
+<p><strong>DIAGNOZA: Układ w fazie testowania podaży przy niskiej akrecji; dominacja pasywnego popytu nad agresywną sprzedażą w warunkach ograniczonej płynności sesji Futures.</strong></p>
+<h3>🌌 [2026-09-07 03:29]</h3>
+<p>[T-LOG: 2026-09-07 03:29]</p>
+<p><strong>STATUS: TRYB FUTURES (SESJA KASOWA NIEAKTYWNA)</strong></p>
+<p>Sonda NQ wykazuje lekką ekspansję termiczną, oscylując na poziomie 29523.00 (+0.14%). Pomiary ADR dla sondy wskazują na wartość 58.23%, co sytuuje ją poniżej średniej historycznej z ostatnich dni. Obserwuję wektor Q-Score na poziomie 5, co oznacza stan niemal całkowitej neutralności energetycznej układu.</p>
+<p>W obszarze ciśnienia paliwa (CVD) odnotowano wartość -14,98K dla Sondy NQ, co klasyfikuje bieżący stan jako <strong>test podaży</strong>. Brak jest aktywności w sektorach NDX, QQQ oraz w promieniowaniu tła TICKQ – wszystkie te parametry znajdują się w fazie uśpienia (sesja kasowa zamknięta). Sfera Dysona (Opcje QQQ) wykazuje IV na poziomie 17.79% z przewidywanym zasięgiem od 714.71 do 723.21, przy Put/Call Ratio wynoszącym 1.00, co wskazuje na idealną symetrię wolumenu kontraktów.</p>
+<p>[BRAK_DANYCH_W_TELEMETRII] (Średnia Akcja / Masa Galaktyki).</p>
+<p><strong>DIAGNOZA:</strong> Układ znajduje się w fazie niskiej energii, w stanie zawieszenia między sesjami. Dominacja testu podaży na sondzie NQ przy jednoczesnym braku rezonansu z instrumentami kasowymi sugeruje brak wyraźnego impulsu kierunkowego. Układ w fazie niskiej aktywności (Low Volatility Drift).</p>
+<p>Log: 2026-09-07 03:29</p>
+<h3>🌌 [2026-09-07 02:59]</h3>
+<p>[TELEMETRIA AKTYWNA - TRYB FUTURES]</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29523.00 (+0.14%). Obserwuję testowanie popytu w mikroskali, co potwierdza ujemna wartość CVD wynosząca -14,98K (stan: test podaży). ADR sondy wynosi 58.23%, co plasuje bieżącą zmienność poniżej średniej historycznej (87.32%). Wektor kierunkowy układu (Q-Score) pozostaje stabilny na poziomie 5 (Delta: 0.0). </p>
+<p>W Sferze Dysona (Opcje QQQ) odnotowuję IV na poziomie 17.79%, przy oczekiwanym zasięgu między 714.71 a 723.21. Asymetria wolumenu (Put/Call Ratio) wynosi 1.00, co wskazuje na całkowitą równowagę między popytem na ubezpieczenie a premię. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia z powodu zamknięcia sesji kasowej. Brak danych o masie galaktyki i promieniowaniu tła w bieżącym strumieniu.</p>
+<p>[DIAGNOZA SYSTEMOWA]<br />
+Układ znajduje się w fazie niskiej aktywności kinetycznej, z dominacją pasywnej presji podażowej na sondzie NQ przy braku wyraźnego impulsu akrecyjnego.</p>
+<h3>🌌 [2026-09-07 02:29]</h3>
+<p>[TELEMETRIA SYSTEMOWA - TRYB FUTURES]<br />
+Sonda NQ: 29523.00 (+0.14%)<br />
+CVD NQ: -14,98k [test podaży]<br />
+ADR NQ: 58.23% (Poniżej średniej historycznej 87.32%)<br />
+Q-Score: 5 (Delta: 0.0)<br />
+Sfera Dysona (QQQ IV): 17.79%</p>
+<p>[LOG: 2026-09-07 02:29]</p>
+<p>Obserwacja w trybie FUTURES. Główny obiekt aktywny: Sonda NQ. Cena oscyluje na poziomie 29523.00, wykazując minimalną akrecję (+0.14%). Odczyt CVD dla Sondy NQ wynosi -14,98k, co klasyfikuje obecny stan jako test podaży. Kinetyka układu jest niska; ADR NQ wynosi 58.23%, co plasuje go znacząco poniżej średniej historycznej (87.32%). Wektor Q-Score pozostaje w fazie stagnacji na poziomie 5 (Delta: 0.0). Dane dotyczące masy galaktyki (NDX, QQQ) oraz promieniowania tła (TICKQ) są nieaktywne w obecnym oknie czasowym. W Sferze Dysona (opcje QQQ) odnotowano Put/Call Ratio na poziomie 1.00 przy zmienności (IV) 17.79%. Brak sygnałów o rezonansie kinetycznym lub gwałtownych przesunięciach przepływu w skali mikro.</p>
+<p>Stan układu: Niska aktywność energetyczna, faza testowania podaży przy niskiej dynamice ADR.</p>
+<h3>🌌 [2026-09-07 01:59]</h3>
+<p>[TELEMETRIA AKTYWNA - TRYB FUTURES]</p>
+<p>Sonda NQ wykazuje lekką ekspansję termiczną, oscylując na poziomie 29523.00 (+0.14%). Wektor prędkości ceny jest dodatni, jednak ciśnienie paliwa (CVD) wynosi −14,98k, co klasyfikuje obecny stan jako "test podaży". Odnotowano rozbieżność między ceną a agresją wolumenową: mimo wzrostu kursu, dominują zlecenia sprzedaży, co sugeruje pasywną absorpcję podaży przez limit orders. ADR NQ wynosi 58.23%, co plasuje go poniżej średniej historycznej z ostatnich dni. Wektor kierunku (Q-Score) jest neutralny i stabilny na poziomie 5 (Delta: 0.0). W Sferze Dysona (Opcje QQQ) obserwowana jest neutralna asymetria wolumenu z Put/Call Ratio na poziomie 1.00 oraz zmienność (IV) wynosząca 17.79%. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia poza sesją kasową.</p>
+<p>[DIAGNOZA UKŁADU]<br />
+Dysonans wektorów: Cena i CVD poruszają się w przeciwnych kierunkach (wyhamowanie kinetyki). Układ w fazie pasywnej absorpcji podaży.</p>
+<p>Log: 2026-09-07 01:59</p>
+<h3>🌌 [2026-09-07 01:29]</h3>
+<p><strong>STATUS TELEMETRII: SESJA FUTURES (TRYB NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29523.00 (+0.14%). Odnotowano niską aktywność w sektorze kasowym; parametry NDX, QQQ oraz promieniowanie tła TICKQ pozostają w uśpieniu [BRAK_DANYCH_W_TELEMETRII]. Wektor Q-Score wynosi 5, co wskazuje na skrajną neutralność wektora kierunkowego układu. </p>
+<p>Analiza ciśnienia paliwa (CVD) dla Sondy NQ wykazuje wartość -14,98K, co klasyfikuje obecny stan jako <strong>test podaży</strong>. Mimo ujemnej presji agresywnego wolumenu, cena utrzymuje lekki wzrost, co sugeruje obecność pasywnych barier absorbujących podaż. ADR dla NQ wynosi 58.23%, co sytuuje go znacząco poniżej średniej z ostatnich dni. W Sferze Dysona (opcje QQQ) zmienność (IV) stabilizuje się na poziomie 17.79%, przy Put/Call Ratio wynoszącym 1.00, co wskazuje na pełną symetrię wolumenu kontraktów.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie testowania podaży przy niskiej energii kinetycznej. Brak rezonansu wektorów; dominacja pasywnej absorpcji w warunkach niskiej płynności sesji poza-kasowej.</p>
+<h3>🌌 [2026-09-07 00:59]</h3>
+<p>[TELEMETRIA TRANSMITOWANA]<br />
+<strong>Status Sesji: FUTURES (Tryb NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29523.00 (+0.14%). Odnotowano lekką ekspansję ceny, jednak kinetyka układu jest zaburzona przez ciśnienie wolumenu: CVD wynosi -14,98k, co klasyfikuje obecny stan jako "test podaży". ADR Sondy NQ wynosi 58.23%, co sytuuje go poniżej średniej z ostatnich dni. Wektor kierunkowy (Q-Score) jest stabilny na poziomie 5 (Delta: 0.0), co wskazuje na brak gwałtownej zmiany reżimu w skali makro. Sfera Dysona (Opcje na QQQ) wykazuje IV na poziomie 17.79% przy Put/Call Ratio 1.00, co sygnalizuje całkowitą równowagę asymetrii wolumenu ubezpieczeniowego. Dane dotyczące masy galaktyki (NDX, QQQ), szerokiej giełdy (TICKQ) oraz średniej akcji pozostają w uśpieniu [BRAK_DANYCH_W_TELEMETRII]. Brak sygnałów o rezonansie kinetycznym; wektor ceny i wektor agresywnego wolumenu (CVD) działają w przeciwnych kierunkach.</p>
+<p><strong>Konkluzja: Układ w fazie testowania podaży przy niskiej aktywności masowej.</strong></p>
+<p>Log: 2026-09-07 00:59</p>
+<h3>🌌 [2026-09-07 00:29]</h3>
+<p>[LOG_START]<br />
+<strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się w stanie lekkiej ekspansji, oscylując wokół poziomu 29523.00 (+0.14%). Odnotowano odczyt CVD na poziomie -14,98K, co klasyfikuje obecną aktywność jako "test podaży" wewnątrz instrumentu. Wartość ADR dla sondy wynosi 58.23%, co sytuuje ją znacząco poniżej średniej historycznej (87.32%). Wektor kierunkowy Q-Score pozostaje w stanie stagnacji na poziomie 5 (Delta: 0.0). W Sferze Dysona (Opcje QQQ) zmienność (IV) wynosi 17.79%, przy Put/Call Ratio 1.00, co wskazuje na pełną równowagę asymetrii wolumenu. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Brak rezonansu kinetycznego; sonda testuje granice podaży przy niskiej gęstości ADR. Układ w fazie niskiej energii (Pre-market/Futures).</p>
+<p>Log: 2026-09-07 00:29<br />
+[LOG_END]</p>
+<h3>🌌 [2026-09-07 00:00]</h3>
+<p><strong>Log: 2026-09-07 00:00</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29523.00 (+0.14%), operując w reżimie sesji FUTURES. Odnotowano intensywną wymianę w strefie zapór HVN w przedziale 29500.0 – 29560.0, gdzie nastąpiła gwałtowna sekwencja obalania i zdobywania poziomów, co wskazuje na wysoką turbulencję w mikro-skali. Wektor Q-Score wynosi 5, co sygnalizuje niemal całkowitą neutralność układu. Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -14.98K, co klasyfikuje obecny stan jako "test podaży". ADR wynosi 58.23%. W Sferze Dysona (opcje QQQ) zmienność (IV) utrzymuje się na poziomie 17.79%, przy Put/Call Ratio wynoszącym 1.00, co wskazuje na pełną równowagę wolumenu ubezpieczeń i premii. Pozostałe obiekty (NDX, TICKQ) pozostają w uśpieniu – brak danych w strumieniu.</p>
+<p><strong>Status układu: Konsolidacja w strefie wysokiej turbulencji HVN przy dominacji presji podażowej (test podaży).</strong></p>
+

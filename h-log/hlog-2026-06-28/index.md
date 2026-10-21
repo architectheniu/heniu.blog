@@ -1,0 +1,41 @@
+# H-Log: 2026-06-28 - Klasyczny Opis Wydarzeń Rynkowych
+
+Data: 2026-07-01 16:23
+Adres: https://heniu.blog/h-log/hlog-2026-06-28/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.06.28</h1>
+<h3>📈 [2026-06-28 22:43]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Data:</strong> 2026-06-28 22:43</p>
+<p><strong>Podsumowanie sytuacji rynkowej:</strong></p>
+<ul>
+<li><strong>Anomalia akumulacyjna na NDX:</strong> Mimo spadku indeksu o 1,09%, odnotowano ekstremalnie silny napływ kapitału na rynku kasowym (CVD NDX = 1,33 mld). Wskazuje to na potężną, instytucjonalną absorpcję podaży i ukryte kupowanie dużych pakietów akcji w okolicach obecnych poziomów, co sugeruje formowanie się silnego wsparcia.</li>
+<li><strong>Presja sprzedaży w sektorze ETF i Futures:</strong> Obraz rynkowy jest obecnie niespójny. Podczas gdy rynek kasowy wykazuje oznaki akumulacji, kontrakty NQ (-1,20%) oraz ETF QQQ (-1,38%) znajdują się pod wyraźną presją sprzedażową. Skumulowany przepływ dla QQQ (-2,27 mln) potwierdza dystrybucję w tym segmencie.</li>
+<li><strong>Sentyment i szeroki rynek:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -20, co oznacza przewagę dystrybucji kapitału w ujęciu ogólnym. Jednocześnie wskaźnik TICKQ (923,00) znajduje się znacznie powyżej swojej średniej SMA200 (-97,17), co przy obecnych spadkach cenowych może sugerować próbę odwrócenia trendu lub silną, choć krótkotrwałą, reakcję popytową w szerokim rynku.</li>
+<li><strong>Kontekst sesji:</strong> Zamknięcie sesji kasowej i obecny handel w Aftermarket wskazują na dużą zmienność i rozbieżność między ceną a wolumenem (divergence). Może to być pułapka na niedźwiedzie – agresywna sprzedaż w kontraktach futures (NQ) zderza się z masową akumulacją na samym indeksie (NDX).</li>
+</ul>
+<p>Raport H-Log: 2026-06-28 22:43</p>
+<h3>📈 [2026-06-28 22:34]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<ul>
+<li><strong>Dominacja podaży i ujemny sentyment:</strong> Rynek znajduje się pod silną presją sprzedażową. Indeks NDX (-1,09%) oraz NQ (-1,20%) wykazują wyraźną słabość, co potwierdza drastycznie ujemny przepływ skumulowany (CVD) na kontraktach NQ (-16,66K).</li>
+<li><strong>Agresywna dystrybucja w QQQ:</strong> ETF QQQ odnotowuje największą skalę wyprzedaży (CVD na poziomie -2,27M), co sugeruje masowe zamykanie pozycji i ucieczkę kapitału z szerokiego rynku technologicznego.</li>
+<li><strong>Niespójność szerokiego rynku (TICKQ):</strong> Mimo głębokich spadków indeksów, wskaźnik TICKQ znajduje się na poziomie 923.00 (powyżej średniej SMA200 wynoszącej -97.17). Sugeruje to ryzyko wystąpienia fałszywego sygnału spadkowego lub lokalnej pułapki na niedźwiedzie (bear trap) w krótkim terminie, gdyż technicznie szeroki rynek wykazuje chwilową odporność mimo ujemnego Q-Score (-20).</li>
+<li><strong>Konkluzja:</strong> Obecny trend jest silnie spadkowy, jednak wysoka wartość TICKQ przy jednoczesnym ujemnym Q-Score może wskazywać na konsolidację wewnątrz ruchu spadkowego lub próbę testowania wsparcia przed dalszą wyprzedażą.</li>
+</ul>
+<p>Raport H-Log: 2026-06-28 22:34</p>
+<h3>📈 [2026-06-28 22:12]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Status: Silna presja sprzedażowa i dystrybucja kapitału.</strong></p>
+<ul>
+<li><strong>Dominacja trendu spadkowego:</strong> Wszystkie główne instrumenty wykazują silne spadki (NDX -1.09%, NQ -1.20%, QQQ -1.38%). Szczególnie niepokojący jest ogromny odpływ kapitału w ETF QQQ (CVD: -2,27M), co potwierdza szeroką dystrybucję i brak wsparcia dla obecnych poziomów cenowych.</li>
+<li><strong>Rozbieżność przepływów (CVD):</strong> Odnotowujemy silną dywergencję między indeksem NDX (CVD: 1,33) a kontraktami NQ (CVD: -16,66K). Sugeruje to, że spadki na futures (NQ) są napędzane agresywną sprzedażą, która nie znajduje jeszcze pełnego pokrycia w przepływach na samym indeksie kasowym.</li>
+<li><strong>Sentyment szerokiego rynku:</strong> Wskaźnik TICKQ na poziomie 923.00 jest ekstremalnie wysoki względem średniej (SMA200: -97.17). Tak gwałtowny skok wskaźnika przy jednoczesnych spadkach cen sugeruje ryzyko wystąpienia pułapki na niedźwiedzie (bear trap) lub technicznego wyczerpania podaży w krótkim terminie, jednak ogólny kierunek pozostaje negatywny.</li>
+<li><strong>Siła rynku:</strong> Q-Score na poziomie -20 jednoznacznie wskazuje na ujemny bilans przepływów i przewagę sprzedających. Rynek znajduje się w fazie wyraźnej słabości, testując kluczowe poziomy wsparcia.</li>
+</ul>
+<p>Raport H-Log: 2026-06-28 22:12</p>
+

@@ -1,0 +1,91 @@
+# Log #0201: Rozdźwięk Grawitacyjny: Euforia w Jądrze przy Chłodnej Radiacji Tła
+
+Data: 2026-10-13 22:03
+Adres: https://heniu.blog/posts/log-0201/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-17)**  
+> **Średnia Akcja w tym wpisie była błędna.** Ceny czterech spółek powyżej 1000 USD (ASML, MELI, MPWR, SNDK) były odczytywane błędnie, więc średnia cena akcji i jej zmiana były zniekształcone.
+>
+> **Sprostowania:**
+> - Średnia Akcja: poprawnych wartości nie da się odtworzyć, więc je usunęliśmy.
+> - Usunęliśmy podwójny znak procentu przy IV.
+
+**Stardate:** 2026.10.13\
+**Status Systemów:** Obserwacja Zewnętrzna\
+**Sektor:** Wewnętrzne Pasma Zmienności
+
+---
+
+### Telemetria Zamknięcia
+
+> *Obserwacja wykazała silną akrecję paliwa w Gwiazdzie Centralnej przy jednoczesnym ujemnym promieniowaniu szerokiego rynku. Układ znajduje się w fazie dysonansu między przepływem energii a strukturą cenową.*
+
+* **Skaner Podprzestrzenny (Rozkład Masy):**
+    * *T-Mass Układu:* **43.52 Tryliona USD**
+    * *Delta Sesyjna (24h):* **-0.07 Tryliona USD**
+    * *Gęstość Jądra (Heavy Nine):* **68.75%** (Delta: **+0.09%**)
+    * *Średnia Akcja (Temperatura Peryferii):* **[BRAK DANYCH]** (Delta: **[BRAK DANYCH]**)
+
+* **Gwiazda NDX (Słońce):** Zamknięcie: **30568.69 (-0.31%)**
+    * *Wektor (CVD):* **180,41 M [euforia]**
+    * *Anomalia MOC:* **+19,89 M**
+    * *Zużycie Zasięgu (ADR Util):* **77.31%**
+    * *Zejście od szczytu Henia:* **-2.11%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+
+* **Sonda NQ (Merkury):** Zamknięcie: **30783.50 (-0.37%)**
+    * *Wektor (CVD):* **13,06 K [akumulacja]**
+    * *Zużycie Zasięgu (ADR Util):* **70.88%**
+
+* **Sfera Dyson’a (QQQ):** Zamknięcie: **743.64 (-0.32%)**
+    * *Wektor Populacji:* **2,1 M [wystrzał rynku]**
+    * *Zużycie Zasięgu (ADR Util):* **74.48%**
+
+* **Promieniowanie Tła (TICKQ) -114.00 [wyprzedaż]:**
+    * *SMA200:* **-19.70 [test podaży]**
+
+* **Struktura Grawitacyjna (Opcje):**
+    * *Implied Volatility (IV):* **18.83%**
+    * *Put/Call OI:* **1.49**
+
+---
+
+### Dziennik Pokładowy: Rozdźwięk Grawitacyjny
+
+**1. Akrecja w Osobliwości NDX**
+Gwiazda Centralna (NDX) odnotowała spadek o 0.31%, jednak jej wewnętrzny przepływ energii (CVD) osiągnął poziom 180,41M, co klasyfikuje stan jako euforia. Mimo że cena znajduje się 2.11% poniżej szczytu z 2026-10-06, napływ paliwa do Jądra pozostaje intensywny. Skład Jądra (>1T) wykazuje stabilność, nie rejestrując kolapsu ani nowych emergencji osobliwości.
+
+**2. Radiacja TICKQ i Stabilność Sfery Dyson'a**
+Promieniowanie tła (TICKQ) spadło do poziomu -114.00, co wskazuje na fazę wyprzedaży w szerokim układzie, podczas gdy średnia radiacja (SMA200) na poziomie -19.70 sugeruje test podaży. Jednocześnie Sfera Dyson'a (QQQ) wykazuje anomalną energię – CVD na poziomie 2,1M sygnalizuje wystrzał rynku, co kontrastuje z ujemną dynamiką ceny (-0.32%).
+
+**3. Dynamika Sondy NQ i Dane Fundamentalne**
+Sonda NQ (Futures) porusza się w reżimie akumulacji (CVD: 13,06K) przy spadku ceny o 0.37%. W polach fundamentalnych odnotowano, że insiderzy netto w ciągu ostatnich 5 sesji wyprzedali Klasę 0 za kwotę -1,94 M USD.
+
+**Werdykt Kwantowy:**
+Układ wykazuje silną dywergencję: wysokie ciśnienie paliwa w NDX i QQQ nie przekłada się na wzrosty cenowe, co przy ujemnym TICKQ wskazuje na mechaniczne napięcie między koncentracją energii w Jądrze a rozszerzającą się wyprzedażą w peryferiach.
+
+**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+

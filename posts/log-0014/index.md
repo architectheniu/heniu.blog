@@ -1,0 +1,48 @@
+# Log #0014: Protokół Dystrybucji - Ucieczka Materii
+
+Data: 2026-02-10 22:30
+Adres: https://heniu.blog/posts/log-0014/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+### Telemetria Zamknięcia (22:30 CET)
+
+> *System zarejestrował sekwencję zamykającą. Potwierdzono strukturalną słabość pola grawitacyjnego.*
+
+* **Carrier Flux (Cena NQ):** **25.23 kΦ** (-0.48%).
+* **Przepływ Energii (CVD):**
+    * *NQ (Sonda):* **+3.30k** (Pozorny spokój na powierzchni).
+    * *NDX (Rdzeń):* **-67.30M** (KRYTYCZNY. Masywny odpływ kapitału z gwiazdy centralnej).
+* **Szerokość Rynku (TICKQ):**
+    * *Odczyt MOC:* **-915.00** (Agresywna wyprzedaż na zamknięciu).
+    * *SMA200:* **-48.45** (Lekki wzrost względem wczoraj, ale nadal w strefie ujemnej).
+* **Napęd (ADR):** **62.46%** (Brak dynamiki skokowej. Ruch odbywa się w trybie dryfu spadkowego).
+
+---
+
+### Dziennik Systemowy: Erozja Pola
+
+**1. Wyciek Rdzenia (Core Bleed)**
+Wykryto rażącą dysproporcję między zachowaniem Sondy (NQ Futures), która utrzymywała się relatywnie stabilnie (+3.3k CVD), a Gwiazdą Centralną (NDX Spot).
+Z rynku kasowego wyparowało **-67.3 Miliona** jednostek wolumenu skumulowanego.
+* *Diagnoza:* Jest to sygnatura **Dystrybucji Ukrytej**. Smart Money wykorzystują każdą stabilizację futures do upłynniania aktywów bazowych.
+
+**2. Sygnał Zamknięcia (MOC Sequence)**
+Końcowy odczyt TICKQ na poziomie **-915** jest jednoznaczny.
+Instytucje nie zostawiły pozycji na noc. Ostatnie minuty sesji to zrzut ładunku.
+Potwierdza to tezę z Logu #0012 ("Widmowy Wzrost") – wczorajszy ruch w górę był anomalią próżniową, która została dzisiaj brutalnie zweryfikowana przez grawitację.
+
+**3. Status Systemu (System State)**
+Mimo spadku ceny (-0.56%), zmienność (ADR 62%) pozostaje stłumiona. Nie jest to krach, lecz kontrolowane obniżanie orbity.
+Jednak przy tak negatywnym przepływie na NDX (-67M), struktura rynku jest krucha. Każdy wzrost bez wsparcia wolumenu będzie traktowany przez system jako błąd do korekty (Fade).
+
+**Werdykt:**
+Dekompresja postępuje. Paliwo (CVD) wycieka.
+Zalecana maksymalna ostrożność w sektorze Long.
+
+**Status:** Oczekiwanie na zwiększenie energii Nebuły.
+
+**Koniec transmisji.**
+

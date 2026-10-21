@@ -1,0 +1,92 @@
+# Log #0203: Shadow over the Mother Star: Discrepancy in the Energy Flow
+
+Date: 2026-10-15 22:03
+URL: https://heniu.blog/en/posts/log-0203/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+> ⚠️ **ERRATUM (2026-10-17)**  
+> **The Average Action in this entry was wrong.** The prices of four companies above 1000 USD (ASML, MELI, MPWR, SNDK) were read incorrectly, so the average share price and its change were distorted.
+>
+> **Corrections:**
+> - Average Action: the correct values cannot be reconstructed, so we removed them.
+> - -4.14% is the drawdown from the highest close (31226.82), and -4.55% is the correction from the intraday peak (31360.85); both from 10/06.
+> - We removed the double percent sign at IV.
+
+**Stardate:** 2026.10.15\
+**Systems Status:** External Observation\
+**Sector:** Inner Volatility Bands
+
+---
+
+### Closing Telemetry
+
+> *Observation revealed strong panic in the Central Star's energy flow with a simultaneous burst of broad market radiation. The System is in a phase of deep correction, which statistically exceeds 57% of historical events of this type.*
+
+* **Subspace Scanner (Mass Distribution):**
+    * *System T-Mass:* **42.59 Trillion USD**
+    * *Session Delta (24h):* **-0.08 Trillion USD**
+    * *Core Density (Heavy Nine):* **68.61%** (Delta: **-0.13%**)
+    * *Average Action (Periphery Temperature):* **[NO DATA]** (Delta: **[NO DATA]**)
+
+* **the NDX Star (Sun):** Close: **29933.73 (-0.05%)**
+    * *Vector (CVD):* **−99,39 M [panic]**
+    * *MOC Anomaly:* **-23.94 M**
+    * *Range Consumption (ADR Util):* **193.82%**
+    * *Drawdown from Heniu's peak:* **-4.14%** (highest close: **31226.82**, 2026-10-06)
+
+* **the NQ Probe (Mercury):** Close: **30148.75 (-0.11%)**
+    * *Vector (CVD):* **13 K [accumulation]**
+    * *Range Consumption (ADR Util):* **124.92%**
+
+* **the Dyson Sphere (QQQ):** Close: **728.06 (-0.12%)**
+    * *Population Vector:* **2.08 M [market burst]**
+    * *Range Consumption (ADR Util):* **189.45%**
+
+* **Background Radiation (TICKQ) 201.00 [market burst]:**
+    * *SMA200:* **-74.23 [market collapse]**
+
+* **Gravitational Structure (Options):**
+    * *Implied Volatility (IV):* **20.33%**
+    * *Put/Call OI:* **1.46**
+
+---
+
+### Logbook: System State Analysis 2026.10.15
+
+**1. Anomalous Accretion and Panic in the Core**
+the NDX Star exhibits a state of panic, generating negative energy flow (CVD) at a level of -99.39M. Despite the stability of the Core composition (>1T), the NDX price is 4.14% below the highest close, which in the context of the annual trajectory signifies a correction deeper than 57% of previous events in the system's memory. the NQ Probe shows different dynamics, entering an accumulation phase with CVD at 13K, suggesting a divergence between the cash instrument and futures contracts.
+
+**2. Broad Market Radiation and Dyson Sphere Fortifications**
+Background Radiation (TICKQ) indicates a market burst (201.00), although the SMA200 average radiation still signals a market collapse (-74.23). Simultaneously, the Dyson Sphere (QQQ) shows strong energy, generating a market burst in the options layer (CVD: 2.08M). The volume node near 30270–30290 remains unreachable for the current price trajectory.
+
+**3. Mass Dynamics and Fundamental Data**
+The total mass of the system (T-Mass) is 42.59 Trillion USD. In the Class 0 sector, a negative net insider flow of -5.13 million USD was recorded over the last 5 sessions. The current correction from the intraday peak on 06.10 (-4.55%) shows structural characteristics of a larger correction in relation to the median and the 80th percentile of historical data.
+
+**Quantum Verdict:**
+The System is experiencing a rapid outflow of energy from the Central Star with a simultaneous increase in radiation in the lower layers (TICKQ) and the Dyson Sphere. The mechanics indicate a deep reconfiguration of masses, where panic in NDX does not find full reflection in the accumulation on the NQ Probe.
+
+**Status:** EXTERNAL OBSERVATION. Shields active.
+
+**End of log.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Quantum Market Cosmology: Logbook",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
+}
+</script>
+
