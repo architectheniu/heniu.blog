@@ -46,6 +46,7 @@
 <meta name="twitter:card" content="{{ if $kartaLinku }}summary_large_image{{ else }}summary{{ end }}" />
 {{ with $kartaLinku }}<meta name="twitter:image" content="{{ . }}" />
 <meta name="twitter:title" content="{{ $.Title }}" />
+<meta name="twitter:description" content="{{ with $.Description }}{{ . | plainify }}{{ else }}{{ $.Summary | plainify }}{{ end }}" />
 {{ end -}}
 {{ if (isset $.Site.Params "twitter") }}
   {{ if (isset $.Site.Params.Twitter "site") }}
