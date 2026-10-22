@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 10:29
+Date: 2026-10-22 10:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 10:59]</h3>
+<p>[TELEMETRY DATA - 2026-10-22 10:59]<br />
+Session mode: futures session. NDX, QQQ, and TICKQ objects are in sleep mode.</p>
+<p>NQ Probe: Price 29421.75 (-1.95%).<br />
+NQ CVD: -23,95K [sell-off].<br />
+NQ ADR: 109.22% (above average).<br />
+Q-Score: -55 (Delta: +0.0).<br />
+the Dyson Sphere (QQQ Options): IV 21.41%, Put/Call Ratio 1.05.</p>
+<p>Kinetic analysis: the NQ Probe shows strong selling pressure, which is confirmed by the negative CVD value in a 'sell-off' state. Despite the negative directional vector, the Q-Score shows stagnation (Delta 0.0), suggesting a lack of fresh impulse in the current micro-time window. Volatility in the Dyson Sphere (IV 21.41%) with a similar Put/Call ratio (1.05) indicates neutral option volume asymmetry during the futures session. Lack of vector synchronization signals; the system maintains negative dynamics with a high ADR.</p>
+<p>The system is in a sell-off phase with low upward kinetics.</p>
+<p>Log: 2026-10-22 10:59</p>
+<p><strong>Flow alarms from the previous Log:</strong> 10:30 sudden NQ flow downwards.</p>
 <h3>🌌 [2026-10-22 10:29]</h3>
 <p>[T-LOG: 2026-10-22 10:29]<br />
 Status: FUTURES (Mode: NQ-Only)</p>

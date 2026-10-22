@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 10:29
+Data: 2026-10-22 10:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 10:59]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-10-22 10:59]<br />
+Tryb sesji: FUTURES. Obiekty NDX, QQQ oraz TICKQ znajdują się w stanie uśpienia.</p>
+<p>Sonda NQ: Cena 29421.75 (-1.95%).<br />
+CVD NQ: -23,95K [wyprzedaż].<br />
+ADR NQ: 109.22% (powyżej średniej).<br />
+Q-Score: -55 (Delta: +0.0).<br />
+Sfera Dysona (Opcje QQQ): IV 21.41%, Put/Call Ratio 1.05.</p>
+<p>Analiza kinetyki: Sonda NQ wykazuje silną presję podażową, co potwierdza ujemna wartość CVD w stanie 'wyprzedaż'. Mimo ujemnego wektora kierunkowego, Q-Score wykazuje stagnację (Delta 0.0), co sugeruje brak świeżego impulsu w obecnym mikro-oknie czasowym. Zmienność w Sferze Dysona (IV 21.41%) przy zbliżonym stosunku Put/Call (1.05) wskazuje na neutralną asymetrię wolumenu opcyjnego w trakcie trwania sesji futures. Brak sygnałów synchronizacji wektorów; układ utrzymuje ujemną dynamikę przy wysokim ADR.</p>
+<p>Układ w fazie wyprzedaży o niskiej kinetyce wzrostowej.</p>
+<p>Log: 2026-10-22 10:59</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 10:30 nagły przepływ NQ w dół.</p>
 <h3>🌌 [2026-10-22 10:29]</h3>
 <p>[T-LOG: 2026-10-22 10:29]<br />
 Status: FUTURES (Tryb: NQ-Only)</p>
