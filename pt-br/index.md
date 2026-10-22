@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0019: Roper Technologies: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0019/index.md) (2026-10-22)
 - [Fundamentos #0018: Honeywell International: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0018/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/pt-br/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [H1: 2026-10-22](https://heniu.blog/pt-br/h-log/hlog-2026-10-22/index.md) (2026-10-22)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Log #0199: Paradoxo de Agregação: Expansão de Massa com Fluxo de Energia Negativo](https://heniu.blog/pt-br/posts/log-0199/index.md) (2026-10-11)
 - [M15: 2026-10-09](https://heniu.blog/pt-br/t-log/tlog-2026-10-09/index.md) (2026-10-09)
 - [H1: 2026-10-09](https://heniu.blog/pt-br/h-log/hlog-2026-10-09/index.md) (2026-10-09)
-- [Log #0198: Paradoxo da Singularidade: Divergência entre Clareza e Combustível](https://heniu.blog/pt-br/posts/log-0198/index.md) (2026-10-09)
 
