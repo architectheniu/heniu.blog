@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 02:00
+Data: 2026-10-22 02:31
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 02:29]</h3>
+<p><strong>[LOG: 2026-10-22 02:29]</strong></p>
+<p><strong>STATUS: FUTURES (MODO NOTURNO DE ANÁLISE)</strong></p>
+<p>a Sonda NQ encontra-se no nível 29790.50 (-0.71%). O vetor Q-Score mostra uma forte orientação negativa no nível -50. Foram registrados eventos de volume significativos (HVN) nos últimos minutos: primeiro a barreira HVN foi rompida no nível NQ ≈ 29766, em seguida a barreira no nível NQ ≈ 29846, que foi imediatamente derrubada (rompimento para baixo). O valor atual do CVD para a Sonda NQ é -5.42K, o que classifica o estado do sistema como "teste de oferta". O ADR NQ é atualmente de 45.56%, o que representa um desvio significativo da média. Na Esfera de Dyson (QQQ), a volatilidade (IV) oscila em torno de 21.41%, com um Put/Call Ratio no nível 1.05, indicando uma assimetria de volume de contratos quase uniforme.</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+O sistema encontra-se em uma fase de instabilidade dentro das zonas HVN. Após uma série de tentativas abruptas de romper barreiras, o preço NQ mostra uma tendência de retorno aos níveis de suporte, enquanto testa a oferta sob condições de baixa radiação de mercado. Falta de sincronização de vetores; dominância de pressão de oferta em microescala.</p>
+<p><strong>ESTADO: CONSOLIDAÇÃO EM TORNO DE BARREIRAS COM TENDÊNCIA A TESTAR A OFERTA.</strong></p>
+<p><strong>Alarmes de fluxo do Log anterior:</strong> 02:00 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-22 01:59]</h3>
 <p><strong>STATUS: FUTURES (APENAS SONDA NQ)</strong></p>
 <p>a Sonda NQ encontra-se atualmente no nível 29766.00 (-0.81%), exibindo um ADR de 45.56%. Foi registrado um evento de volume crítico: às 01:54 ocorreu a quebra do suporte HVN do ecossistema US100 no nível NDX 29580, o que resultou em um rompimento para baixo e no teste de novos intervalos para a NQ. O vetor de direção atual (Q-Score) é de -55, indicando a dominância da pressão de venda no sistema. O indicador CVD para a Sonda NQ é de -5.54K, o que classifica o estado atual como "teste de oferta". a Esfera de Dyson (opções QQQ) exibe volatilidade IV de 21.41% com um Put/Call Ratio de 1.05, o que sinaliza uma assimetria de volume quase uniforme entre proteção e prêmio. Os demais objetos (NDX, TICKQ) permanecem em estado de dormência devido ao fechamento da sessão à vista (Spot).</p>

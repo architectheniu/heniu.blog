@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 01:59
+Date: 2026-10-22 02:30
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 02:29]</h3>
+<p><strong>[LOG: 2026-10-22 02:29]</strong></p>
+<p><strong>STATUS: THE FUTURES SESSION (NIGHT ANALYSIS MODE)</strong></p>
+<p>the NQ Probe is at level 29790.50 (-0.71%). The Q-Score vector shows a strong negative orientation at level -50. Significant volume events (HVN) were recorded in the last few minutes: first, the HVN barrier at level NQ ≈ 29766 was breached, then the barrier at level NQ ≈ 29846, which was immediately overturned (breakdown). The current CVD value for the NQ Probe is -5.42K, classifying the system state as a "supply test". NQ ADR is currently 45.56%, representing a significant deviation from the average. In the Dyson Sphere (QQQ options), volatility (IV) oscillates around 21.41%, with a Put/Call Ratio at level 1.05, indicating an almost even asymmetry of contract volume.</p>
+<p><strong>SYSTEM DIAGNOSTICS:</strong><br />
+The system is in a phase of instability within HVN zones. After a series of violent attempts to breach barriers, the NQ price shows a tendency to return to support levels while testing supply under conditions of low market radiation. Lack of vector synchronization; dominance of supply pressure on a micro-scale.</p>
+<p><strong>STATE: CONSOLIDATION AROUND BARRIERS WITH A TENDENCY TO TEST SUPPLY.</strong></p>
+<p><strong>Flow alarms from the previous Log:</strong> 02:00 sudden NQ upward flow; NQ flow ignition.</p>
 <h3>🌌 [2026-10-22 01:59]</h3>
 <p><strong>STATUS: FUTURES (ONLY NQ PROBE)</strong></p>
 <p>The NQ Probe is currently at level 29766.00 (-0.81%), showing ADR at 45.56%. A critical volume event was recorded: at 01:54, the HVN support of the US100 ecosystem at NDX 29580 was broken, resulting in a downward break and testing of new ranges for NQ. The current direction vector (Q-Score) is -55, indicating the dominance of selling pressure in the system. The CVD indicator for the NQ Probe is -5.54K, classifying the current state as a "supply test". The Dyson Sphere (QQQ options) shows IV volatility at 21.41% with a Put/Call Ratio of 1.05, signaling almost even volume asymmetry between hedging and premium. Other objects (NDX, TICKQ) remain in a state of dormancy due to the close of the cash session (Spot).</p>
