@@ -6,6 +6,25 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ---
 
+## F-Log #0015: Lam Research: wyniki za 1Q2027
+
+Data: 2026-10-22 11:23
+Adres: https://heniu.blog/f-log/flog-2026-10-22-0015/
+
+
+Przychody Lam Research (LRCX) w I kwartale roku obrotowego 2027 wyniosły 8,22 mld USD (+54,4% r/r), a zysk na akcję (skorygowany) osiągnął poziom 2,20 USD (+74,6% r/r).
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy) wyniósł 2,19 USD (+76,6% r/r), natomiast zysk na akcję (księgowy, podstawowy) ukształtował się na poziomie 2,20 USD (+77,4% r/r).
+
+### Co mówi zarząd
+
+Według zarządu udział Chin w przychodach w kwartale grudniowym będzie wyraźnie niższy, głównie przez chińskich klientów krajowych. Zarząd zaznaczył również, że w kwartale grudniowym nie ma przychodów jednorazowych, a sprzęt, który nie zdąży wyjechać w grudniu, zostanie wysłany w kwartale marcowym.
+
+
+---
+
 ## F-Log #0014: Meta Platforms: wyniki za 3Q2026
 
 Data: 2026-10-22 11:17
@@ -1528,89 +1547,6 @@ Mimo niepokojących sygnałów w przepływach paliwa, Fluktuacja składu Jądra 
 
 **Werdykt Kwantowy:**
 Układ znajduje się w stanie grawitacyjnego paradoksu: wzrost wartości nominalnych (Price Discovery) odbywa się przy jednoczesnym drenowaniu paliwa (CVD) i ujemnym promieniowaniu tła. Mechanika sugeruje, że obecny ruch jest napędzany brakiem płynności lub mechanizmami obronnymi, a nie rzeczywistą akrecją masy.
-
-**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
-
-**Koniec zapisu.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
-
-
----
-
-## Log #0194: Ekspansja Płynności w Cieniu Negatywnej Radiacji
-
-Data: 2026-10-05 22:04
-Adres: https://heniu.blog/posts/log-0194/
-
-
-**Stardate:** 2026.10.05
-**Status Systemów:** Obserwacja Zewnętrzna
-**Sektor:** Wewnętrzne Pasma Zmienności
-
----
-
-### Telemetria Zamknięcia
-
-> *Gwiazda Centralna i Sonda NQ wchodzą w fazę euforii, mimo anomalii w promieniowaniu tła szerokiego rynku. Układ wykazuje silną akrecję energii przy jednoczesnym rozszczepieniu sygnałów z szerokiego pola.*
-
-* **Skaner Podprzestrzenny (Rozkład Masy):**
-    * *T-Mass Układu:* **43.99 Tryliona USD**
-    * *Delta Sesyjna (24h):* **+0.52 Tryliona USD**
-    * *Gęstość Jądra (Heavy Nine):* **70.71%** (Delta: **+0.21%**)
-    * *Średnia Akcja (Temperatura Peryferii):* **$260.17** (Delta: **$-57.48**)
-
-* **Gwiazda NDX (Słońce):** Zamknięcie: **31086.98 (+0.87%)**
-    * *Wektor (CVD):* **183,63 M [euforia]**
-    * *Anomalia MOC:* **+26,44 M**
-    * *Zużycie Zasięgu (ADR Util):* **100.15%**
-
-* **Sonda NQ (Merkury):** Zamknięcie: **31327.75 (+0.86%)**
-    * *Wektor (CVD):* **44,75 K [wystrzał rynku]**
-    * *Zużycie Zasięgu (ADR Util):* **86.21%**
-
-* **Sfera Dyson’a (QQQ):** Zamknięcie: **756.21 (+0.89%)**
-    * *Wektor Populacji:* **2,23 M [wystrzał rynku]**
-    * *Zużycie Zasięgu (ADR Util):* **98.62%**
-
-* **Promieniowanie Tła (TICKQ) -58.00 [wyprzedaż]:**
-    * *SMA200:* **-71.39 [załamanie rynku]**
-
-* **Struktura Grawitacyjna (Opcje):**
-    * *Implied Volatility (IV):* **19.51%%**
-    * *Put/Call OI:* **1.44**
-
----
-
-### Dziennik Pokładowy: Codzienna Obserwacja Układu
-
-**1. Akrecja w Centrum Masy**
-Gwiazda NDX odnotowała wzrost o 0.87%, generując przepływ energii (CVD) na poziomie 183,63M, co klasyfikuje stan jako euforia. Sonda NQ podąża za grawitacją Gwiazdy, wykazując wzrost o 0.86% i sygnał wystrzału rynku (CVD: 44,75K). Skład Jądra pozostaje stabilny, bez oznak kolapsu lub nowej emergencji osobliwości, co pozwala na utrzymanie obecnej trajektorii wzrostowej.
-
-**2. Anomalna Radiacja Tła**
-Obserwuje się krytyczne rozwarstwienie między głównymi obiektami a szerokim rynkiem. Promieniowanie tła TICKQ wynosi -58.00, co wskazuje na wyprzedaż w niższych warstwach układu, podczas gdy średnia radiacja (SMA200) na poziomie -71.39 sygnalizuje załamanie rynku. Ta negatywna dywergencja sugeruje, że energia jest koncentrowana w obiektach o najwyższej masie, podczas gdy mniejsze struktury podlegają procesom degradacji.
-
-**3. Stabilizacja Sfery Dyson'a**
-Sfera Dyson'a (QQQ) wzmocniła swoje pole siłowe, rosnąc o 0.89% z przepływem energii (CVD) rzędu 2,23M, co stanowi sygnał wystrzału rynku. Fortyfikacje energetyczne są stabilne, a całkowita masa układu (T-Mass) oscyluje wokół 43.99 Tryliona USD. Brak korelacji między wzrostem cen a negatywnym TICKQ wskazuje na silną koncentrację kapitału w klasie 0 i I, przy jednoczesnym odpływie z mniejszych protoplanet.
-
-**Werdykt Kwantowy:**
-Układ znajduje się w stanie silnej akrecji napędzanej przez Gwiazdę Centralną, jednak negatywna radiacja szerokiego rynku sugeruje, że wzrost jest generowany przez wąską grupę dominujących obiektów, a nie przez powszechną ekspansję.
 
 **Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
 
