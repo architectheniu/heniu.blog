@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 17:15
+Data: 2026-10-22 17:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 17:29]</h3>
+<p><strong>[T-LOG: 2026-10-22 17:29]</strong></p>
+<p><strong>STATUS: A SESSÃO À VISTA (SPOT) | MODO: COMPLETO</strong></p>
+<p>O Sistema encontra-se em uma fase de contração abrupta. A Estrela NDX apresenta um estado de “teste de demanda” (CVD: +16,32M), no entanto, a Sonda NQ (Preço: 29300.00) e o Satélite QQQ (Preço: 708.30) geram fortes vetores de venda (CVD NQ: -38,03K; CVD QQQ: -1,1M), o que indica uma profunda estratificação do sistema. Ocorre uma assimetria clara: enquanto o Núcleo apresenta tentativas residuais de absorção, os instrumentos de suporte e a amplitude de mercado (TICKQ: -172.00 [venda]) sofrem uma expansão abrupta de oferta. A Radiação de Fundo (TICKQ) encontra-se abaixo da média SMA200 (-43.95), o que confirma a dominância da pressão de venda em todo o setor. A Esfera de Dyson (QQQ) apresenta aumento de volatilidade (IV: 24.76%) com assimetria de volume Put/Call no nível de 1.04. O vetor direcional Q-Score é de -17, e a tendência da radiação (SMA200) está se aprofundando (-3.11).</p>
+<p><strong>DIAGNÓSTICO: Estratificação do sistema (Cross-Asset Divergence) com dominância de vetores de venda nos canais de suporte.</strong></p>
+<p>Log: 2026-10-22 17:29</p>
 <h3>🌌 [2026-10-22 17:14]</h3>
 <p>[T-LOG: 2026-10-22 17:14]</p>
 <p><strong>STATUS: SESSÃO À VISTA (SPOT) - ANÁLISE SISTÊMICA</strong></p>

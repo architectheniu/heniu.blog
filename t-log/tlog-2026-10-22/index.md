@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 17:14
+Data: 2026-10-22 17:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 17:29]</h3>
+<p><strong>[T-LOG: 2026-10-22 17:29]</strong></p>
+<p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
+<p>Układ znajduje się w fazie gwałtownego kurczenia się. Gwiazda NDX wykazuje stan „testu popytu” (CVD: +16,32M), jednak Sonda NQ (Cena: 29300.00) oraz Satelita QQQ (Cena: 708.30) generują silne wektory wyprzedaży (CVD NQ: -38,03K; CVD QQQ: -1,1M), co świadczy o głębokim rozwarstwieniu układu. Występuje wyraźna asymetria: podczas gdy jądro wykazuje śladowe próby absorpcji, instrumenty wspierające i szeroka giełda (TICKQ: -172.00 [wyprzedaż]) ulegają gwałtownej ekspansji podaży. Promieniowanie tła (TICKQ) znajduje się poniżej średniej SMA200 (-43.95), co potwierdza dominację presji podażowej w całym sektorze. Sfera Dysona wykazuje wzrost zmienności (IV: 24.76%) przy asymetrii wolumenu Put/Call na poziomie 1.04. Wektor kierunkowy Q-Score wynosi -17, a trend promieniowania (SMA200) ulega pogłębieniu (-3.11).</p>
+<p><strong>DIAGNOZA: Rozwarstwienie układu (Cross-Asset Divergence) z dominacją wektorów wyprzedaży w kanałach wspierających.</strong></p>
+<p>Log: 2026-10-22 17:29</p>
 <h3>🌌 [2026-10-22 17:14]</h3>
 <p>[T-LOG: 2026-10-22 17:14]</p>
 <p><strong>STATUS: SPOT - ANALIZA SYSTEMOWA</strong></p>
