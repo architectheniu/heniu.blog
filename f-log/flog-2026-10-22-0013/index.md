@@ -1,4 +1,4 @@
-# F-Log #0013: Zgłoszenie spółki Microsoft; transakcje insiderów
+# Fundamenty #0013: Zgłoszenie spółki Microsoft; transakcje insiderów
 
 Data: 2026-10-22 10:23
 Adres: https://heniu.blog/f-log/flog-2026-10-22-0013/

@@ -1,4 +1,4 @@
-# H-Log: 2026-10-13 - Klasyczny Opis Wydarzeń Rynkowych
+# H1: 2026-10-13
 
 Data: 2026-10-13 23:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-13/

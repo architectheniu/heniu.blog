@@ -1,4 +1,4 @@
-# F-Log #0002: Zdarzenia korporacyjne i transakcje insiderów
+# Fundamenty #0002: Zdarzenia korporacyjne i transakcje insiderów
 
 Data: 2026-10-13 22:35
 Adres: https://heniu.blog/f-log/flog-2026-10-13-0002/

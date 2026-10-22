@@ -1,4 +1,4 @@
-# F-Log #0011: Space Exploration Technologies: resultados do 3Q2026
+# Fundamentos #0011: Space Exploration Technologies: resultados do 3Q2026
 
 Data: 2026-10-21 19:20
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-21-0011/

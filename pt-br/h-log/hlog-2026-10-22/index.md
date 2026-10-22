@@ -1,4 +1,4 @@
-# H-Log: 2026-10-22 - Relato Clássico dos Eventos do Mercado
+# H1: 2026-10-22
 
 Data: 2026-10-22 14:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-22/

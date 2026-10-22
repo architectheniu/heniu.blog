@@ -1,4 +1,4 @@
-# T-Log: 2026-10-01 - Heniu's Flight Log
+# M15: 2026-10-01
 
 Date: 2026-10-01 23:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-01/

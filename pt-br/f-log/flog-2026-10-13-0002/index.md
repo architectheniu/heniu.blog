@@ -1,4 +1,4 @@
-# F-Log #0002: Eventos corporativos e transações de insiders
+# Fundamentos #0002: Eventos corporativos e transações de insiders
 
 Data: 2026-10-13 22:36
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-13-0002/

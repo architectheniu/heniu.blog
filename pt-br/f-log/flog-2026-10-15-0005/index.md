@@ -1,4 +1,4 @@
-# F-Log #0005: ASML: resultados do 3Q2026
+# Fundamentos #0005: ASML: resultados do 3Q2026
 
 Data: 2026-10-15 16:16
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-15-0005/

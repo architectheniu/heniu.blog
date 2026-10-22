@@ -1,4 +1,4 @@
-# F-Log #0008: Company filings: Copart, Costco Wholesale; insider transactions
+# Fundamentals #0008: Company filings: Copart, Costco Wholesale; insider transactions
 
 Date: 2026-10-19 10:10
 URL: https://heniu.blog/en/f-log/flog-2026-10-19-0008/

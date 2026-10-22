@@ -1,4 +1,4 @@
-# F-Log #0008: Zgłoszenia spółek: Copart, Costco Wholesale; transakcje insiderów
+# Fundamenty #0008: Zgłoszenia spółek: Copart, Costco Wholesale; transakcje insiderów
 
 Data: 2026-10-19 10:10
 Adres: https://heniu.blog/f-log/flog-2026-10-19-0008/

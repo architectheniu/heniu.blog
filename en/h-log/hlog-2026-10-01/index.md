@@ -1,4 +1,4 @@
-# H-Log: 2026-10-01 - A Classic Account of Market Events
+# H1: 2026-10-01
 
 Date: 2026-10-01 23:09
 URL: https://heniu.blog/en/h-log/hlog-2026-10-01/

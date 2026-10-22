@@ -1,4 +1,4 @@
-# F-Log #0010: Vertex Pharmaceuticals filing; insider transactions
+# Fundamentals #0010: Vertex Pharmaceuticals filing; insider transactions
 
 Date: 2026-10-21 10:10
 URL: https://heniu.blog/en/f-log/flog-2026-10-21-0010/

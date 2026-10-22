@@ -1,4 +1,4 @@
-# T-Log: 2026-09-15 - Diário de Bordo do Heniu
+# M15: 2026-09-15
 
 Data: 2026-09-15 23:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-09-15/

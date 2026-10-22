@@ -1,4 +1,4 @@
-# T-Log: 2026-09-07 - Log Pokładowy Henia
+# M15: 2026-09-07
 
 Data: 2026-09-07 18:59
 Adres: https://heniu.blog/t-log/tlog-2026-09-07/

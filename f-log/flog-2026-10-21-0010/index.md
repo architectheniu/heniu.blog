@@ -1,4 +1,4 @@
-# F-Log #0010: Zgłoszenie spółki Vertex Pharmaceuticals; transakcje insiderów
+# Fundamenty #0010: Zgłoszenie spółki Vertex Pharmaceuticals; transakcje insiderów
 
 Data: 2026-10-21 10:10
 Adres: https://heniu.blog/f-log/flog-2026-10-21-0010/

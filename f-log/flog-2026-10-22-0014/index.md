@@ -1,4 +1,4 @@
-# F-Log #0014: Meta Platforms: wyniki za 3Q2026
+# Fundamenty #0014: Meta Platforms: wyniki za 3Q2026
 
 Data: 2026-10-22 11:17
 Adres: https://heniu.blog/f-log/flog-2026-10-22-0014/

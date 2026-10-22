@@ -1,4 +1,4 @@
-# H-Log: 2026-09-24 - Relato Clássico dos Eventos do Mercado
+# H1: 2026-09-24
 
 Data: 2026-09-24 21:11
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-09-24/

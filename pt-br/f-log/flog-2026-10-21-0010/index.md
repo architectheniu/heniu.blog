@@ -1,4 +1,4 @@
-# F-Log #0010: Notificação da empresa Vertex Pharmaceuticals; transações de insiders
+# Fundamentos #0010: Notificação da empresa Vertex Pharmaceuticals; transações de insiders
 
 Data: 2026-10-21 10:10
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-21-0010/

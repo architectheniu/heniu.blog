@@ -1,4 +1,4 @@
-# H-Log: 2026-07-23 - Klasyczny Opis Wydarzeń Rynkowych
+# H1: 2026-07-23
 
 Data: 2026-07-23 23:08
 Adres: https://heniu.blog/h-log/hlog-2026-07-23/

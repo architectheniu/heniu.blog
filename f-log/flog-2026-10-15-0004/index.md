@@ -1,4 +1,4 @@
-# F-Log #0004: Transakcje insiderów
+# Fundamenty #0004: Transakcje insiderów
 
 Data: 2026-10-15 10:10
 Adres: https://heniu.blog/f-log/flog-2026-10-15-0004/

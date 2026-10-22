@@ -1,4 +1,4 @@
-# F-Log #0003: Transações de insiders
+# Fundamentos #0003: Transações de insiders
 
 Data: 2026-10-14 10:10
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-14-0003/

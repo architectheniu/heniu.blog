@@ -1,4 +1,4 @@
-# F-Log #0013: Microsoft company filing; insider transactions
+# Fundamentals #0013: Microsoft company filing; insider transactions
 
 Date: 2026-10-22 10:23
 URL: https://heniu.blog/en/f-log/flog-2026-10-22-0013/

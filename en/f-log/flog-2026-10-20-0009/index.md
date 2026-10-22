@@ -1,4 +1,4 @@
-# F-Log #0009: Tesla company filing; insider transactions
+# Fundamentals #0009: Tesla company filing; insider transactions
 
 Date: 2026-10-20 10:10
 URL: https://heniu.blog/en/f-log/flog-2026-10-20-0009/

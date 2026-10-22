@@ -1,4 +1,4 @@
-# F-Log #0006: Fastenal: resultados do 3Q2026
+# Fundamentos #0006: Fastenal: resultados do 3Q2026
 
 Data: 2026-10-15 16:19
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-15-0006/

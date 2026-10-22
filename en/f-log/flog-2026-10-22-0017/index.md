@@ -1,4 +1,4 @@
-# F-Log #0017: Texas Instruments: 3Q2026 results
+# Fundamentals #0017: Texas Instruments: 3Q2026 results
 
 Date: 2026-10-22 11:32
 URL: https://heniu.blog/en/f-log/flog-2026-10-22-0017/

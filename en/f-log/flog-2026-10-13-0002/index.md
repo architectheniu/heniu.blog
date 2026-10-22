@@ -1,4 +1,4 @@
-# F-Log #0002: Corporate events and insider transactions
+# Fundamentals #0002: Corporate events and insider transactions
 
 Date: 2026-10-13 22:35
 URL: https://heniu.blog/en/f-log/flog-2026-10-13-0002/

@@ -1,4 +1,4 @@
-# F-Log #0001: PepsiCo: 3Q2026 results
+# Fundamentals #0001: PepsiCo: 3Q2026 results
 
 Date: 2026-10-13 22:34
 URL: https://heniu.blog/en/f-log/flog-2026-10-13-0001/

@@ -1,4 +1,4 @@
-# F-Log #0007: Insider transactions
+# Fundamentals #0007: Insider transactions
 
 Date: 2026-10-16 10:10
 URL: https://heniu.blog/en/f-log/flog-2026-10-16-0007/

@@ -1,4 +1,4 @@
-# T-Log: 2026-08-18 - Heniu's Flight Log
+# M15: 2026-08-18
 
 Date: 2026-08-18 23:59
 URL: https://heniu.blog/en/t-log/tlog-2026-08-18/

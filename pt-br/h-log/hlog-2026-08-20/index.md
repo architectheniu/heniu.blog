@@ -1,4 +1,4 @@
-# H-Log: 2026-08-20 - Relato Clássico dos Eventos do Mercado
+# H1: 2026-08-20
 
 Data: 2026-08-20 23:07
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-08-20/

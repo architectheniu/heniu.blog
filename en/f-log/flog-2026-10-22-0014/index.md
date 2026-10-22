@@ -1,4 +1,4 @@
-# F-Log #0014: Meta Platforms: 3Q2026 results
+# Fundamentals #0014: Meta Platforms: 3Q2026 results
 
 Date: 2026-10-22 11:17
 URL: https://heniu.blog/en/f-log/flog-2026-10-22-0014/

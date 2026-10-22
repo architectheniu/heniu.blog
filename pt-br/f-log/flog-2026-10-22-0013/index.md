@@ -1,4 +1,4 @@
-# F-Log #0013: Notificação da empresa Microsoft; transações de insiders
+# Fundamentos #0013: Notificação da empresa Microsoft; transações de insiders
 
 Data: 2026-10-22 10:23
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-22-0013/

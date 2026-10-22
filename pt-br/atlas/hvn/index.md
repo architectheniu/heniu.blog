@@ -35,7 +35,7 @@ Contratos, ações de empresas e cotas de fundo são unidades diferentes, por is
 
 ## Como os HVN aparecem nos Logs
 
-O Heniu registra três tipos de eventos no T-Log seguinte:
+O Heniu registra três tipos de eventos no registro M15 seguinte:
 
 - **novo nó** — por ex. "nó HVN no nível NDX 30660 (NQ ≈ 30887)", com a participação de cada um dos três mercados no volume de 5 dias;
 - **barreira conquistada** — um nó rompido para cima;

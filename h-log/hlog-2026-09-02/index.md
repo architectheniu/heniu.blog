@@ -1,4 +1,4 @@
-# H-Log: 2026-09-02 - Klasyczny Opis Wydarzeń Rynkowych
+# H1: 2026-09-02
 
 Data: 2026-09-03 07:47
 Adres: https://heniu.blog/h-log/hlog-2026-09-02/

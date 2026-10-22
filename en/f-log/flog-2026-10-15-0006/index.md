@@ -1,4 +1,4 @@
-# F-Log #0006: Fastenal: 3Q2026 results
+# Fundamentals #0006: Fastenal: 3Q2026 results
 
 Date: 2026-10-15 16:19
 URL: https://heniu.blog/en/f-log/flog-2026-10-15-0006/

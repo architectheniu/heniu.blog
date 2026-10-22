@@ -1,4 +1,4 @@
-# F-Log #0000: Definicja F-Logów
+# Fundamenty #0000: Definicja F-Logów
 
 Data: 2026-10-13 22:32
 Adres: https://heniu.blog/f-log/flog-2026-10-13-0000/

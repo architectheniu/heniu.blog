@@ -1,4 +1,4 @@
-# F-Log #0009: Zgłoszenie spółki Tesla; transakcje insiderów
+# Fundamenty #0009: Zgłoszenie spółki Tesla; transakcje insiderów
 
 Data: 2026-10-20 10:10
 Adres: https://heniu.blog/f-log/flog-2026-10-20-0009/

@@ -1,4 +1,4 @@
-# F-Log #0015: Lam Research: wyniki za 1Q2027
+# Fundamenty #0015: Lam Research: wyniki za 1Q2027
 
 Data: 2026-10-22 11:23
 Adres: https://heniu.blog/f-log/flog-2026-10-22-0015/

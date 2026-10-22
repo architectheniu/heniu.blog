@@ -35,7 +35,7 @@ Contracts, company shares and fund shares are different units, so Heniu does not
 
 ## How HVNs show up in the Logs
 
-Heniu records three kinds of events in the next T-Log:
+Heniu records three kinds of events in the next M15 entry:
 
 - **new node** — e.g. "HVN node at NDX level 30660 (NQ ≈ 30887)", with each of the three markets' share of 5-day volume;
 - **barrier taken** — a node broken to the upside;

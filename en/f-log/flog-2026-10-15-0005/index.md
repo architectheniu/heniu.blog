@@ -1,4 +1,4 @@
-# F-Log #0005: ASML: 3Q2026 results
+# Fundamentals #0005: ASML: 3Q2026 results
 
 Date: 2026-10-15 16:16
 URL: https://heniu.blog/en/f-log/flog-2026-10-15-0005/

@@ -1,4 +1,4 @@
-# F-Log #0007: Transakcje insiderów
+# Fundamenty #0007: Transakcje insiderów
 
 Data: 2026-10-16 10:10
 Adres: https://heniu.blog/f-log/flog-2026-10-16-0007/

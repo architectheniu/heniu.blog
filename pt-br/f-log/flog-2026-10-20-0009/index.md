@@ -1,4 +1,4 @@
-# F-Log #0009: Notificação da empresa Tesla; transações de insiders
+# Fundamentos #0009: Notificação da empresa Tesla; transações de insiders
 
 Data: 2026-10-20 10:10
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-20-0009/

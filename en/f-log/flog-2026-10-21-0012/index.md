@@ -1,4 +1,4 @@
-# F-Log #0012: Intuitive Surgical: 3Q2026 results
+# Fundamentals #0012: Intuitive Surgical: 3Q2026 results
 
 Date: 2026-10-21 20:36
 URL: https://heniu.blog/en/f-log/flog-2026-10-21-0012/

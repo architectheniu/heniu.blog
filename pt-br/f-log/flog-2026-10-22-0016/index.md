@@ -1,4 +1,4 @@
-# F-Log #0016: Tesla: resultados do 3Q2026
+# Fundamentos #0016: Tesla: resultados do 3Q2026
 
 Data: 2026-10-22 11:26
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-22-0016/

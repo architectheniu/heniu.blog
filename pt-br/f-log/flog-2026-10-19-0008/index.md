@@ -1,4 +1,4 @@
-# F-Log #0008: Notificações de empresas: Copart, Costco Wholesale; transações de insiders
+# Fundamentos #0008: Notificações de empresas: Copart, Costco Wholesale; transações de insiders
 
 Data: 2026-10-19 10:10
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-19-0008/
