@@ -1,6 +1,6 @@
 # H-Log: 2026-10-22 - Klasyczny Opis Wydarzeń Rynkowych
 
-Data: 2026-10-22 01:07
+Data: 2026-10-22 02:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.22</h1>
+<h3>📈 [2026-10-22 02:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Aktywny handel odbywa się na kontraktach terminowych NQ, których cena wynosi 29834.25 (-0.58%), przy skumulowanym przepływie CVD na poziomie -3,27 K, co wskazuje na testowanie podaży.</li>
+<li>Indeks NDX od szczytu z 06.10 (31360.85) znajduje się w korekcie wynoszącej -4.91% (-1538 pkt). Obecna głębokość spadków jest większa niż w 57% historycznych przypadków, co klasyfikuje ten ruch jako większą korektę.</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi -50, co oznacza wyraźną przewagę dystrybucji i odpływ kapitału z rynku.</li>
+<li>Dane opcyjne na QQQ (wolumen 7,523,237; PCR 1.05) wskazują na lekką przewagę pozycji typu Put, co sugeruje budowanie zabezpieczeń (hedgingu) przy zmienności implikowanej (IV) na poziomie 21.41%. Oczekiwany zasięg ruchu mieści się w przedziale 716.74 do 733.66.</li>
+<li>Kluczowe poziomy techniczne: najbliższa strefa wsparcia znajduje się w przedziale 29740–29760 (wolumen 1.5%), natomiast strefa oporu to 29830–29850 (wolumen 1.3%).</li>
+</ul>
+<p>Raport H-Log: 2026-10-22 02:07</p>
 <h3>📈 [2026-10-22 01:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
