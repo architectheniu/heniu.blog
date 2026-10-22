@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0209: Session summary 2026-10-22: NDX 28962.86 (-2.90%)
+
+Date: 2026-10-22 22:03
+URL: https://heniu.blog/en/posts/log-0209/
+
+
+**Session date:** 2026-10-22
+
+> *Session close 2026-10-22: NDX 28962.86 (-2.90%), NQ 29208.50 (-2.66%), QQQ 704.56 (-2.86%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session began at 9:30 ET (15:30 PL) at NDX 29299.91 and NQ 29483.75. In the first 30 minutes until 10:00 ET (16:00 PL), NDX rose by 73.85 pts (+0.25%) to 29373.76, and NQ rose by 63.75 pts (+0.22%) to 29547.50. The session maximum was recorded at 10:03 ET (16:03 PL) at NDX 29411.56, and the minimum at 15:47 ET (21:47 PL) at NDX 28855.10. The close at 28962.86 is 448.70 pts below the maximum and 107.76 pts above the minimum.
+
+**Flows and market breadth.** Cumulative flow (CVD) directions at the close were divergent: NDX was positive, while NQ and QQQ were negative. The TICKQ reading at the close was 79.00, while the SMA200 average was -43.57. The share of companies above 1 trillion USD in the basket capitalization was 66.27%.
+
+**End of session, options and companies.** In the last hour of the session from 15:00 ET (21:00 PL) to the close, NDX rose by 64.89 pts (+0.22%) to 28962.86, with a MOC Anomaly of +32,03 M at the close. Implied volatility (IV) for options on QQQ was 25.73%, and the put/call ratio was 1.45. In the group of companies above 1 trillion USD, the value of MU fell.
+
+**Day's balance.** The Nasdaq-100 index closed down 2.90% at 28962.86.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **28962.86 (-2.90%)**
+    * Cumulative flow (CVD): **169,35 M [euphoria]**
+    * MOC Anomaly: **+32,03 M**
+    * Average daily range (ADR) utilization: **148.45%**
+    * Drawdown from Heniu's highest close: **-7.25%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **29208.50 (-2.66%)**
+    * Cumulative flow (CVD): **−29,25 K [sell-off]**
+    * Average daily range (ADR) utilization: **182.48%**
+
+* **QQQ ETF:** close **704.56 (-2.86%)**
+    * Cumulative flow (CVD): **−397,16 K [testing supply]**
+    * Average daily range (ADR) utilization: **146.43%**
+
+* **Market breadth (TICKQ):** reading at close **79.00 [accumulation]**
+    * 200 reading average (SMA200): **-43.57 [sell-off]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **25.73%**
+    * Put/call ratio (open interest, OI): **1.45**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **41.25 trillion USD** (change from previous close: **-1.32 trillion USD**)
+    * Share of companies above 1 trillion USD in basket capitalization: **66.27%** (change: **-2.61 pp**)
+    * Average stock price in the basket: **$298.98** (change: **$-8.97**)
+    * Changes in the group of companies above 1 trillion USD: **fell below 1 trillion USD: MU**
+
+* **Session data health:** readings through 100.0% of the cash session; no gaps longer than a minute; NDX unchanged for longer than 2 min in 0.0% of readings
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0209/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-10-22",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0019: Roper Technologies: 3Q2026 results
 
 Date: 2026-10-22 18:42
@@ -1282,98 +1362,6 @@ The system is in a state of structural tension. Mass increase accompanied by a n
     "name": "Heniu.blog"
   },
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
-}
-</script>
-
-
----
-
-## Log #0198: Singularity Paradox: Discrepancy between Clarity and Fuel
-
-Date: 2026-10-09 22:03
-URL: https://heniu.blog/en/posts/log-0198/
-
-
-> ⚠️ **ERRATUM (2026-10-11)**  
-> **The changes in the Subspace Scanner cover two sessions, not one day.** On Thursday 8 Oct Heniu received no reading from the Nasdaq website (see the erratum to Log #0197), so every galaxy change in this entry compares Friday with Wednesday 7 Oct. Friday's last Nasdaq reading is from 14:19 ET, not from the close. Between 14:19 and 16:00 ET the NDX Star moved 0.02%.
->
-> **Corrections:**
-> - Session Delta (24h) −0.33 Trillion USD is the change since Wednesday 7 Oct, over two sessions.
-> - The Core Density delta −2.62% and the Average Action delta +$14.75 are also measured from Wednesday 7 Oct.
-> - The Core composition collapse (AMD below 1T) in point 3 of the log is a change relative to Wednesday. Whether it happened on Thursday or Friday is unknown: there is no data for Thursday.
-> - System T-Mass 43.73 Trillion USD, Core Density 68.42% and Average Action $319.02 are a reading from 14:19 ET.
-
-**Stardate:** 2026.10.09
-**Systems Status:** External Observation
-**Sector:** Inner Volatility Bands
-
----
-
-### Closing Telemetry
-
-> *Observation showed a divergence between the increase in the system's nominal brightness and a sudden fuel deficit in the Central Star. Despite a positive price trajectory, energy flows indicate high entropy within the Core.*
-
-* **Subspace Scanner (Mass Distribution):**
-    * *System T-Mass:* **43.73 Trillion USD**
-    * *Session Delta (24h):* **-0.33 Trillion USD**
-    * *Core Density (Heavy Nine):* **68.42%** (Delta: **-2.62%**)
-    * *Average Action (Periphery Temperature):* **$319.02** (Delta: **+$14.75**)
-
-* **the NDX Star (Sun):** Close: **30881.86 (+0.51%)**
-    * *Vector (CVD):* **−102,22 M [panic]**
-    * *MOC Anomaly:* **-16,64 M**
-    * *Range Consumption (ADR Util):* **54.08%**
-
-* **the NQ Probe (Mercury):** Close: **31117.25 (+0.48%)**
-    * *Vector (CVD):* **−10,42 K [sell-off]**
-    * *Range Consumption (ADR Util):* **64.43%**
-
-* **the Dyson Sphere (QQQ):** Close: **751.24 (+0.48%)**
-    * *Population Vector:* **−1,2 M [sell-off]**
-    * *Range Consumption (ADR Util):* **55.15%**
-
-* **Background Radiation (TICKQ) 178.00 [accumulation]:**
-    * *SMA200:* **0.81 [demand test]**
-
-* **Gravitational Structure (Options):**
-    * *Implied Volatility (IV):* **18.32%%**
-    * *Put/Call OI:* **1.51**
-
----
-
-### Logbook: Cycle Analysis 2026.10.09
-
-**1. Anomalous Accretion Under Fuel Deficit Conditions**
-the Central Star (NDX) recorded a 0.51% increase in brightness, however, fuel telemetry (CVD) indicates a state of panic (-102,22M). A critical discrepancy exists here: price is drifting upwards while the energy flow is negative, suggesting that the current trajectory is not sustained by organic accretion, but by the mechanics of other forces. the NQ Probe confirms this state, operating in a sell-off regime (-10,42K CVD), which indicates Warp drive instability during attempts to explore higher orbits.
-
-**2. Force Field Stabilization and Background Radiation**
-the Dyson Sphere (QQQ) shows signs of a sell-off (-1,2M CVD), which constitutes a barrier to further expansion. Nevertheless, Background Radiation (TICKQ) indicates accumulation (178.00) and a demand test in the mean radiation (SMA200: 0.81). This demonstrates that the broader market is attempting to stabilize the force field, even though the main instruments show negative fuel pressure.
-
-**3. Core Composition Collapse and System Mass**
-In the Class 0 sector, a collapse of the Core composition was recorded – AMD underwent degradation below the 1T threshold, affecting the local gravitational structure. Total system mass (T-Mass) is 43.73 Trillion USD. The current configuration suggests that price increases are decoupled from real energy flow (CVD), creating a risk of sudden collapse if fuel pressure is not balanced by a new liquidity nebula.
-
-**Quantum Verdict:**
-The system is in a state of high divergence; price brightness is contradictory to the thermodynamics of fuel flows. Risk of rapid course recalibration in the event of a further decline in CVD.
-
-**Status:** EXTERNAL OBSERVATION. Shields active.
-
-**End of log.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Quantum Market Cosmology: Logbook",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
 }
 </script>
 

@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Log #0209: Session summary 2026-10-22: NDX 28962.86 (-2.90%)](https://heniu.blog/en/posts/log-0209/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/en/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [H1: 2026-10-22](https://heniu.blog/en/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [Fundamentals #0019: Roper Technologies: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-22-0019/index.md) (2026-10-22)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Log #0199: Aggregation Paradox: Mass Expansion with Negative Energy Flow (CVD)](https://heniu.blog/en/posts/log-0199/index.md) (2026-10-11)
 - [M15: 2026-10-09](https://heniu.blog/en/t-log/tlog-2026-10-09/index.md) (2026-10-09)
 - [H1: 2026-10-09](https://heniu.blog/en/h-log/hlog-2026-10-09/index.md) (2026-10-09)
-- [Log #0198: Singularity Paradox: Discrepancy between Clarity and Fuel](https://heniu.blog/en/posts/log-0198/index.md) (2026-10-09)
 
