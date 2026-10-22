@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-10-23](https://heniu.blog/pt-br/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [H1: 2026-10-22](https://heniu.blog/pt-br/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/pt-br/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [Log #0209: Resumo da sessão 2026-10-22: NDX 28962.86 (-2.90%)](https://heniu.blog/pt-br/posts/log-0209/index.md) (2026-10-22)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [H1: 2026-10-12](https://heniu.blog/pt-br/h-log/hlog-2026-10-12/index.md) (2026-10-12)
 - [Log #0200: Colapso do campo gravitacional da Estrela Central](https://heniu.blog/pt-br/posts/log-0200/index.md) (2026-10-12)
 - [Log #0199: Paradoxo de Agregação: Expansão de Massa com Fluxo de Energia Negativo](https://heniu.blog/pt-br/posts/log-0199/index.md) (2026-10-11)
-- [M15: 2026-10-09](https://heniu.blog/pt-br/t-log/tlog-2026-10-09/index.md) (2026-10-09)
 
