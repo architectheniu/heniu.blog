@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 04:00
+Data: 2026-10-22 04:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 04:29]</h3>
+<p>[T-LOG: 2026-10-22 04:29]</p>
+<p><strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>
+<p>a Sonda NQ encontra-se em fase de decomposição intensa ao preço de 29688.00 (-1.06%). Foi registrado um evento de volume crítico: às 04:16 o suporte HVN do ecossistema US100 no nível 29530 foi rompido. O vetor CVD para a Sonda NQ é de -10,52K, o que classifica o estado atual como liquidação. O ADR NQ está no nível de 59.15%. O Q-Score do sistema mantém-se no valor de -50, indicando forte pressão negativa. Na Esfera de Dyson (opções QQQ), a volatilidade (IV) é de 21.41%, e a assimetria de volume (Put/Call Ratio) está no nível de 1.05. Os demais objetos (NDX, QQQ, TICKQ) permanecem em dormência fora da sessão à vista (Spot).</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA: Dominação do vetor de venda com ausência de ressonância de demanda; sistema em fase de deslizamento gravitacional após a quebra da barreira de suporte.</strong></p>
+<p>Log: 2026-10-22 04:29</p>
 <h3>🌌 [2026-10-22 03:59]</h3>
 <p>a Sonda NQ encontra-se atualmente no nível 29758.00 (-0.83%). Durante a sessão atual, foi registrada uma atividade crítica na zona HVN: primeiro, a barreira superior do ecossistema US100 no nível 29580 foi rompida (NQ ≈ 29766), para em seguida derrubar imediatamente esse suporte, o que levou o preço de volta para perto das leituras atuais. O valor de CVD para a Sonda NQ é de -9,08K, o que classifica o estado atual como "teste de oferta". O Q-Score mostra um vetor direcional no nível -50, indicando a dominância de pressão negativa. O ADR NQ é de 50.36%, o que posiciona a volatilidade atual acima das médias históricas. Na Esfera de Dyson (opções QQQ), observa-se uma assimetria de volume com Put/Call Ratio no nível 1.05, com volatilidade (IV) de 21.41% e intervalo de movimento esperado entre 716.74 e 733.66.</p>
 <p>O sistema está em fase de teste de oferta com a simultânea falta de ressonância de vetores.</p>
