@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 18:59
+Data: 2026-10-22 19:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 19:14]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-10-22 19:14]<br />
+Status: OPEN | Tryb: SPOT</p>
+<p><strong>RAPORT TAKTYCZNY: DEKOMPOZYCJA UKŁADU</strong></p>
+<p>Gwiazda NDX wykazuje stan wyprzedaży (CVD: -29,11M), co koreluje z kurczeniem się koszyka (Średnia Akcja: [BRAK_DANYCH_W_TELEMETRII]). Sonda NQ przy cenie 29196.50 wykazuje załamanie rynku (CVD: -46,99K), podczas gdy Satelita QQQ potwierdza ten stan (CVD: -2,07M, status: załamanie rynku). Wektor Q-Score oscyluje na poziomie -52, wskazując na silną dominację wektora spadkowego. Szeroka Giełda (TICKQ) wykazuje akumulację (69.00), co stoi w jaskrawym kontraście do ujemnej dynamiki głównych instrumentów; występuje silne rozwarstwienie układu (Cross-Asset Divergence) między szerokim rynkiem a technologiami. Zmienność (IV) w Sferze Dysona wynosi 25.42% przy Put/Call Ratio na poziomie 0.99, co wskazuje na niemal pełną równowagę wolumenu opcji ubezpieczeniowych i kierunkowych. ADR dla kluczowych obiektów jest powyżej średnich, co przy obecnej dynamice sugeruje zwiększoną amplitudę wstrząsów.</p>
+<p><strong>Status: Rozwarstwienie wektorów (Dysonans między TICKQ a NDX/NQ/QQQ).</strong></p>
+<p>Log: 2026-10-22 19:14</p>
 <h3>🌌 [2026-10-22 18:59]</h3>
 <p>[T-LOG: 2026-10-22 18:59]</p>
 <p><strong>STATUS: SPOT | TRYB: SESJA KASOWA</strong></p>

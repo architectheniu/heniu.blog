@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 18:59
+Date: 2026-10-22 19:14
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 19:14]</h3>
+<p>[TELEMETRY DATA - 2026-10-22 19:14]<br />
+Status: OPEN | Mode: SPOT</p>
+<p><strong>TACTICAL REPORT: SYSTEM DECOMPOSITION</strong></p>
+<p>the NDX Star shows an oversold state (CVD: -29,11M), which correlates with the shrinking of the basket (Average Action: [NO_DATA_IN_TELEMETRY]). the NQ Probe at price 29196.50 shows a market breakdown (CVD: -46,99K), while the QQQ Satellite confirms this state (CVD: -2,07M, status: market breakdown). The Q-Score vector oscillates at the level of -52, indicating strong dominance of the downward vector. Market breadth (TICKQ) shows accumulation (69.00), which stands in stark contrast to the negative dynamics of the main instruments; there is a strong Cross-Asset Divergence between the broad market and technology. Volatility (IV) in the Dyson Sphere (QQQ) is 25.42% with a Put/Call Ratio at the level of 0.99, which indicates an almost full balance of insurance and directional option volume. ADR for key objects is above averages, which given the current dynamics suggests an increased amplitude of shocks.</p>
+<p><strong>Status: Vector divergence (Dissonance between TICKQ and NDX/NQ/QQQ).</strong></p>
+<p>Log: 2026-10-22 19:14</p>
 <h3>🌌 [2026-10-22 18:59]</h3>
 <p>[T-LOG: 2026-10-22 18:59]</p>
 <p><strong>STATUS: SPOT | MODE: THE CASH SESSION (SPOT)</strong></p>
