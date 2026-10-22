@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 19:15
+Data: 2026-10-22 19:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 19:29]</h3>
+<p>[T-LOG: 2026-10-22 19:29]<br />
+Status: a sessão à vista (Spot) | Modo: Atividade total à vista.</p>
+<p>O satélite QQQ confirma pressão de venda (CVD: -1,81M). O vetor Q-Score é de -52, indicando uma forte inclinação negativa do sistema. A Amplitude de mercado (TICKQ) relata um estado de acumulação (63.00), o que está em forte contraste com a tendência negativa da Radiação de Fundo (SMA200: -39.39 [venda]), revelando uma profunda estratificação entre a microatividade e a macroestrutura. O ADR para todos os instrumentos está acima das médias, indicando uma dinâmica de intervalos aumentada. A Esfera de Dyson (QQQ) apresenta assimetria de volume neutra (Put/Call Ratio: 0.99) com aumento de volatilidade (IV: 25.29%). A falta de dados na telemetria para a Ação Média impossibilita determinar a direção da expansão da cesta.</p>
+<p>O sistema está em fase de tensão gravitacional; ocorre uma forte divergência entre a acumulação na amplitude de mercado e a venda agressiva dos vetores principais (NDX/NQ/QQQ).</p>
+<p>Log: 2026-10-22 19:29</p>
 <h3>🌌 [2026-10-22 19:14]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-22 19:14]<br />
 Status: OPEN | Modo: a sessão à vista (Spot)</p>

@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 19:14
+Data: 2026-10-22 19:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 19:29]</h3>
+<p>[T-LOG: 2026-10-22 19:29]<br />
+Status: SPOT | Tryb: Pełna aktywność kasowa.</p>
+<p>Satelita QQQ potwierdza presję wyprzedaży (CVD: -1,81M). Wektor Q-Score wynosi -52, wskazując na silne ujemne nachylenie układu. Szeroka Giełda (TICKQ) raportuje stan akumulacji (63.00), co stoi w jaskrawym kontraście do ujemnego trendu promieniowania (SMA200: -39.39 [wyprzedaż]), ujawniając głębokie rozwarstwienie między mikro-aktywnością a makro-strukturą. ADR dla wszystkich instrumentów jest powyżej średnich, co wskazuje na zwiększoną dynamikę zakresów. Sfera Dysona wykazuje neutralną asymetrię wolumenu (Put/Call Ratio: 0.99) przy wzroście zmienności (IV: 25.29%). Brak danych w telemetrii dla Średniej Akcji uniemożliwia określenie kierunku ekspansji koszyka.</p>
+<p>Układ w fazie grawitacyjnego napięcia; występuje silna dywergencja między akumulacją na szerokim rynku a agresywną wyprzedażą głównych wektorów (NDX/NQ/QQQ).</p>
+<p>Log: 2026-10-22 19:29</p>
 <h3>🌌 [2026-10-22 19:14]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-22 19:14]<br />
 Status: OPEN | Tryb: SPOT</p>

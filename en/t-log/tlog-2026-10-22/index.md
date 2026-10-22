@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 19:14
+Date: 2026-10-22 19:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 19:29]</h3>
+<p>[T-LOG: 2026-10-22 19:29]<br />
+Status: SPOT | Mode: Full cash activity.</p>
+<p>The QQQ satellite confirms selling pressure (CVD: -1,81M). The Q-Score vector is -52, indicating a strong negative system tilt. Market breadth (TICKQ) reports an accumulation state (63.00), which stands in stark contrast to the negative radiation trend (SMA200: -39.39 [selling]), revealing a deep stratification between micro-activity and macro-structure. ADR for all instruments is above averages, indicating increased range dynamics. The Dyson Sphere (QQQ) shows neutral volume asymmetry (Put/Call Ratio: 0.99) with an increase in volatility (IV: 25.29%). Missing data in the telemetry for Average Stock prevents determining the basket expansion direction.</p>
+<p>The system is in a phase of gravitational tension; a strong divergence exists between accumulation in the broad market and aggressive selling of the main vectors (NDX/NQ/QQQ).</p>
+<p>Log: 2026-10-22 19:29</p>
 <h3>🌌 [2026-10-22 19:14]</h3>
 <p>[TELEMETRY DATA - 2026-10-22 19:14]<br />
 Status: OPEN | Mode: SPOT</p>
