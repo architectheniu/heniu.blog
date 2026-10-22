@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 05:29
+Data: 2026-10-22 06:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 05:59]</h3>
+<p>[T-LOG: 2026-10-22 05:59]</p>
+<p><strong>STATUS: FUTUROS (MODO NQ)</strong></p>
+<p>a Sonda NQ encontra-se em fase de descompressão intensa ao preço de 29631.00 (-1.25%). Foi registrado o rompimento do suporte HVN do ecossistema US100 no nível 29480 (NQ ≈ 29666), o que gera pressão adicional na estrutura. O vetor Q-Score mantém orientação negativa no nível -50. Os dados da Esfera de Dyson (QQQ) mostram uma assimetria de volume Put/Call de 1.05, com volatilidade (IV) de 21.41% e amplitude esperada no intervalo de 716.74 – 733.66.</p>
+<p>A análise do fluxo de energia (CVD) para a Sonda NQ mostra um valor de -12.88K, o que classifica o estado atual como liquidação. O valor de ADR NQ é de 72.12%, o que indica o uso ativo do intervalo de movimento diário. Os demais objetos (NDX, QQQ, TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot).</p>
+<p><strong>DIAGNÓSTICO: Sistema em fase de liquidação agressiva após o rompimento da barreira HVN; ausência de sinais de absorção nas leituras atuais de CVD.</strong></p>
+<p>Log: 2026-10-22 05:59</p>
 <h3>🌌 [2026-10-22 05:29]</h3>
 <p>Modo de sessão: a sessão de futuros. Objeto ativo: a Sonda NQ.</p>
 <p>a Sonda NQ encontra-se atualmente no nível 29673.50 (-1.11%). Foram registrados eventos de volume no ecossistema US100: às 05:05 o suporte HVN no nível 29480 foi derrubado, após o que às 05:21 essa barreira foi conquistada (rompimento para cima).</p>
