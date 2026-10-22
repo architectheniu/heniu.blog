@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 13:29
+Date: 2026-10-22 13:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 13:59]</h3>
+<p>[TELEMETRY DATA - 2026-10-22 13:59]<br />
+Mode: FUTURES (NQ active)</p>
+<p>The NQ Probe is currently at level 29514.50 (-1.64%). The CVD reading for the Probe is -22,48K, which classifies the system state as selling. The ADR value for NQ is 109.51%, indicating activity above the standard range. The Q-Score vector remains at -55, showing no change (Delta: +0.0) compared to the last reading.</p>
+<p>In the Dyson Sphere (QQQ options), volatility (IV) was recorded at 21.41%, with an expected movement range between 716.74 – 733.66. The Put/Call Ratio is 1.05 with a daily volume of 7,523,237.</p>
+<p>NDX, QQQ, and TICKQ objects remain in a state of dormancy (the cash session closed); no current radiation or galaxy mass data.</p>
+<p>The system is in a selling phase with supply vector dominance on contract instruments.</p>
 <h3>🌌 [2026-10-22 13:29]</h3>
 <p>[TELEMETRY DATA - 2026-10-22 13:29]<br />
 Status: FUTURES (Mode: NQ)</p>

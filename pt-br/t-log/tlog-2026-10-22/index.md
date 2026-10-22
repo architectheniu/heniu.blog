@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 13:29
+Data: 2026-10-22 14:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 13:59]</h3>
+<p>[DADOS TELEMÉTRICOS - 2026-10-22 13:59]<br />
+Modo: a sessão de futuros (NQ ativo)</p>
+<p>a Sonda NQ encontra-se atualmente no nível 29514.50 (-1.64%). a leitura do CVD para a Sonda é de -22,48K, o que classifica o estado do sistema como liquidação. O valor de ADR para NQ é de 109.51%, o que indica atividade acima do intervalo padrão. o vetor Q-Score mantém-se no nível -55, exibindo ausência de mudança (Delta: +0.0) em comparação com a última leitura.</p>
+<p>Na Esfera de Dyson (QQQ) (Opções sobre QQQ) registrou-se volatilidade (IV) no nível de 21.41%, com intervalo de movimento esperado entre 716.74 – 733.66. O Put/Call Ratio é de 1.05 com volume diário de 7,523,237.</p>
+<p>Os objetos NDX, QQQ e TICKQ permanecem em estado de dormência (a sessão à vista (Spot) está fechada); ausência de radiação atual e dados sobre a massa da galáxia.</p>
+<p>Sistema em fase de liquidação com dominância do vetor de oferta nos instrumentos de contratos futuros.</p>
 <h3>🌌 [2026-10-22 13:29]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-22 13:29]<br />
 Status: a sessão de futuros (Tryb: NQ)</p>

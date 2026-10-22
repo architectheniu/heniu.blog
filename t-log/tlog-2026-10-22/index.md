@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 13:29
+Data: 2026-10-22 13:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 13:59]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-10-22 13:59]<br />
+Tryb: FUTURES (NQ aktywny)</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29514.50 (-1.64%). Odczyt CVD dla Sondy wynosi -22,48K, co klasyfikuje stan układu jako wyprzedaż. Wartość ADR dla NQ wynosi 109.51%, co wskazuje na aktywność powyżej standardowego zakresu. Wektor Q-Score utrzymuje się na poziomie -55, wykazując brak zmiany (Delta: +0.0) w porównaniu do ostatniego odczytu.</p>
+<p>W Sferze Dysona (opcje na QQQ) odnotowano zmienność (IV) na poziomie 21.41%, z oczekiwanym zakresem ruchu w przedziale 716.74 – 733.66. Put/Call Ratio wynosi 1.05 przy dziennym wolumenie 7,523,237.</p>
+<p>Obiekty NDX, QQQ oraz TICKQ pozostają w stanie uśpienia (sesja kasowa zamknięta); brak bieżącej radiacji i danych o masie galaktyki.</p>
+<p>Układ w fazie wyprzedaży z dominacją wektora podażowego na instrumentach kontraktowych.</p>
 <h3>🌌 [2026-10-22 13:29]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-22 13:29]<br />
 Status: FUTURES (Tryb: NQ)</p>
