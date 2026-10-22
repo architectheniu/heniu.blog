@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 01:30
+Data: 2026-10-22 02:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 01:59]</h3>
+<p><strong>STATUS: FUTURES (APENAS SONDA NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29766.00 (-0.81%), exibindo um ADR de 45.56%. Foi registrado um evento de volume crítico: às 01:54 ocorreu a quebra do suporte HVN do ecossistema US100 no nível NDX 29580, o que resultou em um rompimento para baixo e no teste de novos intervalos para a NQ. O vetor de direção atual (Q-Score) é de -55, indicando a dominância da pressão de venda no sistema. O indicador CVD para a Sonda NQ é de -5.54K, o que classifica o estado atual como "teste de oferta". a Esfera de Dyson (opções QQQ) exibe volatilidade IV de 21.41% com um Put/Call Ratio de 1.05, o que sinaliza uma assimetria de volume quase uniforme entre proteção e prêmio. Os demais objetos (NDX, TICKQ) permanecem em estado de dormência devido ao fechamento da sessão à vista (Spot).</p>
+<p><strong>DIAGNÓSTICO: Sistema em fase de teste de oferta após a quebra da barreira de suporte.</strong></p>
+<p>Log: 2026-10-22 01:59</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 01:35 fluxo repentino de NQ para cima; ignição de fluxo NQ; 01:41 fluxo repentino de NQ para cima; ignição de fluxo NQ; 01:46 fluxo repentino de NQ para baixo; ignição de fluxo NQ; 01:53 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-22 01:29]</h3>
 <p><strong>[T-LOG: 2026-10-22 01:29]</strong></p>
 <p><strong>STATUS: A SESSÃO DE FUTUROS (APENAS A SONDA NQ)</strong></p>
