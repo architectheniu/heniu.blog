@@ -1,4 +1,5 @@
-{{/* Kopia themes/terminal/layouts/partials/head.html; zmienione: adres kanoniczny (15.10.2026) i karty linków (21.10.2026). */}}
+{{/* Kopia themes/terminal/layouts/partials/head.html; zmienione: adres kanoniczny (15.10.2026), karty linków (21.10.2026)
+     i tytuły wpisów z nowymi nazwami sekcji (22.10.2026, partial tytul-wpisu.html). */}}
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else if .Description}}{{ .Description | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
@@ -11,7 +12,7 @@
   <meta name="robots" content="noodp" />
 {{ end }}
 {{/* Kanoniczny adres: strony 2, 3… spisów wskazują same siebie, nie stronę 1 (SEO, 15.10.2026).
-     Spisy dłuższe niż jedna strona: T-Log i H-Log, a na zapas także Kosmiczna opowieść
+     Spisy dłuższe niż jedna strona: M15 i H1 (adresy /t-log/ i /h-log/), a na zapas także Kosmiczna opowieść
      (dodana 21.10.2026; drugą stronę dostanie po ok. 50 dniach). Ich szablony stronicują tę samą listę
      (.Pages po dacie, od najnowszych), więc wcześniejsze .Paginator nie zmienia kolejności.
      50 = [pagination] pagerSize w hugo.toml. */}}
@@ -45,7 +46,7 @@
 {{- if and .IsPage (not (isset .Params "cover")) -}}{{- $kartaLinku = partial "karta-linku.html" . -}}{{- end }}
 <meta name="twitter:card" content="{{ if $kartaLinku }}summary_large_image{{ else }}summary{{ end }}" />
 {{ with $kartaLinku }}<meta name="twitter:image" content="{{ . }}" />
-<meta name="twitter:title" content="{{ $.Title }}" />
+<meta name="twitter:title" content="{{ with $.Params.naglowek }}{{ . }}{{ else }}{{ partial "tytul-wpisu.html" $ }}{{ end }}" />
 <meta name="twitter:description" content="{{ with $.Description }}{{ . | plainify }}{{ else }}{{ $.Summary | plainify }}{{ end }}" />
 {{ end -}}
 {{ if (isset $.Site.Params "twitter") }}
@@ -58,7 +59,7 @@
 <!-- OG data -->
 <meta property="og:locale" content="{{ $.Site.Language.Lang }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:title" content="{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ with .Params.naglowek }}{{ . }}{{ else }}{{ partial "tytul-wpisu.html" $ }}{{ end }}{{ end }}">
 <meta property="og:description" content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else if .Description}}{{ .Description | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ $.Site.Title }}" />
@@ -74,7 +75,7 @@
   <meta property="og:image" content="{{ $kartaLinku }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="{{ .Title }}">
+  <meta property="og:image:alt" content="{{ partial "tytul-wpisu.html" . }}">
 {{ else }}
   <meta property="og:image" content="{{ "og-image.png" | absURL }}">
   <meta property="og:image:width" content="1200">

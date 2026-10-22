@@ -1,5 +1,5 @@
 ---
-title: "H-Log"
-tytul_seo: "H-Log: resumos do Nasdaq-100 a cada hora"
-description: "A cada hora, um breve resumo do mercado do Nasdaq-100 (NQ, NDX, QQQ): direção dos fluxos, mudanças de volume e níveis importantes. Sem previsões nem recomendações."
+title: "H1"
+naglowek: "H1: o mercado a cada hora"
+description: "H1: a cada hora, um breve resumo do mercado do Nasdaq-100 (NQ, NDX, QQQ), com a direção dos fluxos, as mudanças de volume e os níveis importantes. Sem previsões nem recomendações."
 ---

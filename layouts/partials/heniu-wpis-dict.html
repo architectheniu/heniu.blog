@@ -1,2 +1,2 @@
 {{ $md := "" }}{{ with .OutputFormats.Get "markdown" }}{{ $md = .Permalink }}{{ end }}
-{{ return dict "title" .Title "url" .Permalink "markdown" $md "date" (.Date.Format "2006-01-02T15:04:05Z07:00") "section" .Section "lang" .Language.Lang }}
+{{ return dict "title" (partial "tytul-wpisu.html" .) "url" .Permalink "markdown" $md "date" (.Date.Format "2006-01-02T15:04:05Z07:00") "section" .Section "lang" .Language.Lang }}

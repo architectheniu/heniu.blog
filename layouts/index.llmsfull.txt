@@ -4,10 +4,11 @@
 > {{ $e.opis }}
 
 {{ $e.autor }}
+{{ $e.sekcje }}
 {{ range first 30 (where .Site.RegularPages.ByDate.Reverse "Section" "in" (slice "posts" "f-log")) }}
 ---
 
-## {{ .Title }}
+## {{ partial "tytul-wpisu.html" . }}
 
 {{ $e.data }}: {{ .Date.Format "2006-01-02 15:04" }}
 {{ $e.adres }}: {{ .Permalink }}

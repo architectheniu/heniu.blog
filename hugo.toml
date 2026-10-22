@@ -109,17 +109,17 @@ Warp x20. Start.
     weight = 3
   [[languages.pl.menu.main]]
     identifier = "t-log"
-    name = "T-Log"
+    name = "M15"
     url = "/t-log/"
     weight = 4
   [[languages.pl.menu.main]]
     identifier = "h-log"
-    name = "H-Log"
+    name = "H1"
     url = "/h-log/"
     weight = 5
   [[languages.pl.menu.main]]
     identifier = "f-log"
-    name = "F-Log"
+    name = "Fundamenty"
     url = "/f-log/"
     weight = 6
   [[languages.pl.menu.main]]
@@ -177,17 +177,17 @@ Warp x20. Engage.
     weight = 2
   [[languages.en.menu.main]]
     identifier = "t-log"
-    name = "T-Log"
+    name = "M15"
     url = "/en/t-log/"
     weight = 3
   [[languages.en.menu.main]]
     identifier = "h-log"
-    name = "H-Log"
+    name = "H1"
     url = "/en/h-log/"
     weight = 4
   [[languages.en.menu.main]]
     identifier = "f-log"
-    name = "F-Log"
+    name = "Fundamentals"
     url = "/en/f-log/"
     weight = 5
   [[languages.en.menu.main]]
@@ -245,17 +245,17 @@ Warp x20. Ativar.
     weight = 2
   [[languages.pt-br.menu.main]]
     identifier = "t-log"
-    name = "T-Log"
+    name = "M15"
     url = "/pt-br/t-log/"
     weight = 3
   [[languages.pt-br.menu.main]]
     identifier = "h-log"
-    name = "H-Log"
+    name = "H1"
     url = "/pt-br/h-log/"
     weight = 4
   [[languages.pt-br.menu.main]]
     identifier = "f-log"
-    name = "F-Log"
+    name = "Fundamentos"
     url = "/pt-br/f-log/"
     weight = 5
   [[languages.pt-br.menu.main]]

@@ -33,7 +33,7 @@ Kontrakty, akcje spółek i akcje funduszu to różne jednostki, więc Heniu ich
 
 ## Jak HVN widać w Logach
 
-Heniu odnotowuje w najbliższym T-Logu trzy rodzaje zdarzeń:
+Heniu odnotowuje w najbliższym wpisie M15 trzy rodzaje zdarzeń:
 
 - **nowy węzeł** — np. „węzeł HVN na poziomie NDX 30660 (NQ ≈ 30887)”, z udziałem każdego z trzech rynków w wolumenie 5 dni handlu;
 - **zdobyta zapora** — przebicie węzła w górę;

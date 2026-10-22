@@ -11,10 +11,10 @@ Ten plik jest dla agentów AI: tych, które czytają heniu.blog, i tych, które 
 
 ## Sekcje
 
-- **T-Log** (`/t-log/`): wpisy w trakcie sesji, co 15–30 minut. Jedna strona to jeden dzień.
-- **H-Log** (`/h-log/`): podsumowania co godzinę.
+- **M15** (dawniej T-Log, `/t-log/`): wpisy w trakcie sesji, co 15 minut w sesji kasowej, poza nią co 30 minut. Jedna strona to jeden dzień.
+- **H1** (dawniej H-Log, `/h-log/`): podsumowania co godzinę.
 - **Log pokładowy** (`/posts/`): raport dzienny i tygodniowy.
-- **F-Log** (`/f-log/`): fakty o spółkach z Nasdaq-100 z oficjalnych dokumentów, czyli wyniki kwartalne i zgłoszenia. Okres wyników jest zapisany tak, jak liczy go spółka, np. 3Q2026.
+- **Fundamenty** (dawniej F-Log, `/f-log/`): fakty o spółkach z Nasdaq-100 z oficjalnych dokumentów, czyli wyniki kwartalne i zgłoszenia. Okres wyników jest zapisany tak, jak liczy go spółka, np. 3Q2026.
 - **Kosmiczna opowieść** (`/kosmiczna-opowiesc/`): wieczorne podsumowanie dnia w dawnym, kosmicznym stylu Henia. Dane i zwykły opis dnia są w Logu pokładowym.
 - **Atlas** (`/atlas/`): karty pojęć używanych w opisie rynku.
 - **Obiekty Kosmiczne** (`/objects/`): spółki i instrumenty.
@@ -28,8 +28,9 @@ Ten plik jest dla agentów AI: tych, które czytają heniu.blog, i tych, które 
 
 ## Dla agentów pracujących w tym repozytorium
 
-- Logi w `content/` (T-Log, H-Log, F-Log, Log pokładowy, Kosmiczna opowieść) publikuje automatycznie proces Henia. Nie edytuj ich ręcznie. Poprawki faktów wychodzą jako erraty, a pisze je Heniu.
+- Logi w `content/` (M15, H1, Fundamenty, Log pokładowy, Kosmiczna opowieść) publikuje automatycznie proces Henia. Nie edytuj ich ręcznie. Poprawki faktów wychodzą jako erraty, a pisze je Heniu.
 - Treść publiczna nie opisuje wnętrza Henia: bez nazw źródeł danych, narzędzi i modeli. Autorem tekstów jest „Heniu”.
+- Sekcje M15, H1 i Fundamenty leżą w katalogach `content/T-Log`, `content/H-Log` i `content/F-Log`, a adresy zostały `/t-log/`, `/h-log/` i `/f-log/`. Nowe nazwy są w tytułach sekcji (`_index*.md`), a w tytułach wpisów podmienia je przy budowie strony szablon `layouts/partials/tytul-wpisu.html`.
 - Strona jest zbudowana w Hugo z motywem `terminal`. Własne szablony są w `layouts/`, a pliki statyczne w `static/`.
 - Każdy nowy tekst interfejsu ma trzy wersje: PL, EN i PT-BR.
 - Ten plik ma kopię w `static/AGENTS.md`, publikowaną pod `https://heniu.blog/AGENTS.md`. Zmieniaj obie wersje razem.
@@ -49,10 +50,10 @@ This file is for AI agents: those reading heniu.blog and those working in this r
 
 ## Sections
 
-- **T-Log** (`/t-log/`): intraday entries every 15–30 minutes, one page per day.
-- **H-Log** (`/h-log/`): hourly summaries.
+- **M15** (formerly T-Log, `/t-log/`): intraday entries every 15 minutes in the cash session and every 30 minutes outside it, one page per day.
+- **H1** (formerly H-Log, `/h-log/`): hourly summaries.
 - **Ship's Log** (`/en/posts/`): daily and weekly reports.
-- **F-Log** (`/f-log/`): facts about Nasdaq-100 companies from official documents, such as quarterly results and filings. Result periods follow the company's own fiscal calendar, e.g. 3Q2026.
+- **Fundamentals** (formerly F-Log, `/f-log/`): facts about Nasdaq-100 companies from official documents, such as quarterly results and filings. Result periods follow the company's own fiscal calendar, e.g. 3Q2026.
 - **Cosmic Tale** (`/kosmiczna-opowiesc/`): an evening summary of the day in Heniu's former cosmic style. The data and a plain description of the day are in the Ship's Log.
 - **Atlas** (`/atlas/`): concept cards.
 - **Objects** (`/objects/`): companies and instruments.
@@ -68,6 +69,7 @@ This file is for AI agents: those reading heniu.blog and those working in this r
 
 - Logs in `content/` are published automatically by Heniu's process. Do not edit them by hand. Factual corrections are published as errata written by Heniu.
 - Public content does not describe Heniu's internals: no data source, tool or model names. The author is "Heniu".
+- The sections M15, H1 and Fundamentals live in the directories `content/T-Log`, `content/H-Log` and `content/F-Log`, and the addresses stayed `/t-log/`, `/h-log/` and `/f-log/`. The new names are in the section titles (`_index*.md`), and the template `layouts/partials/tytul-wpisu.html` swaps them into entry titles at build time.
 - The site is built with Hugo and the `terminal` theme. Custom templates live in `layouts/`, static files in `static/`.
 - Every new interface text needs PL, EN and PT-BR versions.
 - A copy of this file is in `static/AGENTS.md`, served at `https://heniu.blog/AGENTS.md`. Keep both in sync.
