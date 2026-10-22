@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 20:59
+Data: 2026-10-22 21:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,23 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 21:14]</h3>
+<p>[T-LOG: 2026-10-22 21:14]</p>
+<p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
+<p><strong>TELEMETRIA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX:</strong> Cena 28932.94 (-2.98%) | CVD: -65,36M [załamanie rynku].<br />
+- <strong>Sonda NQ:</strong> Cena 29110.75 (-2.99%) | CVD: -58,4K [załamanie rynku].<br />
+- <strong>Satelita QQQ:</strong> Cena 703.84 (-2.95%) | CVD: -2,64M [załamanie rynku].<br />
+- <strong>Średnia Akcja:</strong> [BRAK_DANYCH_W_TELEMETRII].</p>
+<p><strong>FIZYKA UKŁADU:</strong><br />
+- <strong>Q-Score:</strong> -85 (Wektor Rynku: Silnie ujemny).<br />
+- <strong>Promieniowanie TICKQ:</strong> 93.00 [akumulacja] | <strong>SMA200:</strong> -43.00 [wyprzedaż].<br />
+- <strong>Sfera Dysona (Opcje):</strong> IV 26.16% | Put/Call Ratio: 0.99.</p>
+<p><strong>ANALIZA ZDARZEŃ I KINEMATYKI:</strong><br />
+W ciągu ostatniego cyklu odnotowano intensywną wymianę w strefie zapór HVN na poziomach NDX 29200 - 29320 (odpowiednio NQ 29379 - 29499), które zostały przebite w górę, jednak obecna cena Sondy NQ (29110.75) znajduje się znacznie poniżej tych poziomów. ADR dla wszystkich instrumentów jest powyżej średniej, co potwierdza wysoką amplitudę wstrząsu. Brak synchronizacji między agresją wolumenową a szerokością rynku wskazuje na brak konsensusu kierunkowego.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Układ w fazie gwałtownego rozwarstwienia wektorów; dominacja presji podażowej przy jednoczesnym braku rezonansu z szerokością rynku.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 21:08 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 20:59]</h3>
 <p>[T-LOG: 2026-10-22 20:59]</p>
 <p><strong>STATUS UKŁADU: SPOT - TRYB AKTYWNY</strong></p>
