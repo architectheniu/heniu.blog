@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 21:14
+Data: 2026-10-22 21:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 21:29]</h3>
+<p>[T-LOG: 2026-10-22 21:29]</p>
+<p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
+<p>System znajduje się w stanie gwałtownej dekompozycji. Sonda NQ wykazuje cenę 29147.75 (-2.86%), przy czym ADR wynosi 178.87%, co świadczy o ekstremalnej ekspansji zmienności względem średniej. Odnotowano obalenie stref wsparcia HVN w intensywnej wymianie w strefie NDX 29200 - 29320 (NQ ≈ 29380 - 29500).</p>
+<p><strong>ANALIZA KOMPONENTÓW:</strong><br />
+- <strong>Gwiazda NDX:</strong> Cena 28970.89 (-2.86%). CVD na poziomie -64.84M klasyfikuje stan jako <strong>załamanie rynku</strong>.<br />
+- <strong>Sonda NQ:</strong> Cena 29147.75. CVD na poziomie -59.59K klasyfikuje stan jako <strong>załamanie rynku</strong>.<br />
+- <strong>Satelita QQQ:</strong> Cena 704.72 (-2.83%).<br />
+- <strong>Promieniowanie Tła (TICKQ):</strong> 358.00 (<strong>wystrzał rynku</strong>). Wektor TICKQ znajduje się powyżej SMA200 (-42.89), co wskazuje na silną asymetrię między szerokością rynku a kierunkiem głównych indeksów.<br />
+- <strong>Fizyka Układu:</strong> Q-Score wynosi -77. Sfera Dysona (QQQ) wykazuje IV na poziomie 26.15% przy Put/Call Ratio 0.99.<br />
+- <strong>Średnia Akcja:</strong> [BRAK_DANYCH_W_TELEMETRII].</p>
+<p><strong>DIAGNOSTYKA KINEMATYCZNA:</strong><br />
+Występuje krytyczne Rozwarstwienie Układu (Cross-Asset Divergence). Podczas gdy główne wektory (NDX, NQ, QQQ) wskazują na agresywną wyprzedaż i załamanie, Promieniowanie Tła (TICKQ) wykazuje nagły, silny skok dodatni (wystrzał rynku). Ta strukturalna niespójność sugeruje, że obecny zrzut jest napędzany przez selektywną realizację w największych komponentach, podczas gdy szeroki rynek próbuje budować opór w sposób asymetryczny.</p>
+<p><strong>KONKLUZJA:</strong><br />
+Układ w fazie gwałtownego rozwarstwienia wektorów z dominacją presji podażowej w węzłach o wysokiej kapitalizacji.</p>
 <h3>🌌 [2026-10-22 21:14]</h3>
 <p>[T-LOG: 2026-10-22 21:14]</p>
 <p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
