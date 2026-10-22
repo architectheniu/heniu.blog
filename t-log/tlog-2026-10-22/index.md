@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 05:59
+Data: 2026-10-22 10:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 10:29]</h3>
+<p>[T-LOG: 2026-10-22 10:29]<br />
+Status: FUTURES (Tryb: NQ-Only)</p>
+<p>Sonda NQ znajduje się na poziomie 29840.50 (-1.77%). Wektor Q-Score wynosi -55, wykazując zerową deltę w krótkim interwale (Δ: +0.0). Aktywność CVD na Sondzie NQ wynosi -2.78K, co klasyfikuje bieżący stan jako test podaży. Wskaźnik ADR NQ wynosi 30.69%, co oznacza, że obecna zmiękniona amplituda jest powyżej średniej z ostatnich sesji. W sferze Dysona (opcje QQQ) odnotowano zmienność IV na poziomie 21.41% przy asymetrii wolumenu Put/Call wynoszącej 1.05. Obiekty NDX, QQQ oraz TICKQ pozostają w stanie uśpienia (poza sesją spot). Brak danych o zmianach w masie galaktyki i promieniowaniu tła ze względu na tryb sesji.</p>
+<p>Układ w fazie testu podaży przy zachowaniu ujemnego wektora Q-Score.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 10:23 nagły przepływ NQ w dół.</p>
 <h3>🌌 [2026-10-22 05:59]</h3>
 <p>[T-LOG: 2026-10-22 05:59]</p>
 <p><strong>STATUS: FUTURES (TRYB NQ)</strong></p>

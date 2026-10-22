@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 06:00
+Data: 2026-10-22 10:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 10:29]</h3>
+<p>[T-LOG: 2026-10-22 10:29]<br />
+Status: a sessão de futuros (Modo: NQ-Only)</p>
+<p>a Sonda NQ encontra-se no nível 29840.50 (-1.77%). O vetor Q-Score é -55, exibindo delta zero em curto intervalo (Δ: +0.0). A atividade de CVD na Sonda NQ é de -2.78K, o que classifica o estado atual como um teste de oferta. O indicador ADR NQ é de 30.69%, o que significa que a amplitude suavizada atual está acima da média das sessões recentes. Na Esfera de Dyson (QQQ) registrou-se volatilidade de IV no nível de 21.41% com assimetria de volume Put/Call de 1.05. Os objetos NDX, QQQ e TICKQ permanecem em estado de dormência (fora da sessão à vista (Spot)). Sem dados sobre mudanças na massa da galáxia e na Radiação de Fundo (TICKQ) devido ao modo da sessão.</p>
+<p>O sistema está em fase de teste de oferta mantendo um vetor de Q-Score negativo.</p>
+<p><strong>Alarmes de fluxo do Log anterior:</strong> 10:23 fluxo repentino de NQ para baixo.</p>
 <h3>🌌 [2026-10-22 05:59]</h3>
 <p>[T-LOG: 2026-10-22 05:59]</p>
 <p><strong>STATUS: FUTUROS (MODO NQ)</strong></p>

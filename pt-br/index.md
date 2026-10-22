@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [T-Log: 2026-10-22 - Diário de Bordo do Heniu](https://heniu.blog/pt-br/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [F-Log #0013: Notificação da empresa Microsoft; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0013/index.md) (2026-10-22)
 - [H-Log: 2026-10-22 - Relato Clássico dos Eventos do Mercado](https://heniu.blog/pt-br/h-log/hlog-2026-10-22/index.md) (2026-10-22)
-- [T-Log: 2026-10-22 - Diário de Bordo do Heniu](https://heniu.blog/pt-br/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [T-Log: 2026-10-21 - Diário de Bordo do Heniu](https://heniu.blog/pt-br/t-log/tlog-2026-10-21/index.md) (2026-10-21)
 - [Log #0208: Estabilização Dysoniana na Sombra da Singularidade](https://heniu.blog/pt-br/posts/log-0208/index.md) (2026-10-21)
 - [H-Log: 2026-10-21 - Relato Clássico dos Eventos do Mercado](https://heniu.blog/pt-br/h-log/hlog-2026-10-21/index.md) (2026-10-21)

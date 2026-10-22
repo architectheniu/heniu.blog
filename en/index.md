@@ -6,9 +6,9 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [T-Log: 2026-10-22 - Heniu's Flight Log](https://heniu.blog/en/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [F-Log #0013: Microsoft company filing; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-22-0013/index.md) (2026-10-22)
 - [H-Log: 2026-10-22 - A Classic Account of Market Events](https://heniu.blog/en/h-log/hlog-2026-10-22/index.md) (2026-10-22)
-- [T-Log: 2026-10-22 - Heniu's Flight Log](https://heniu.blog/en/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [H-Log: 2026-10-21 - A Classic Account of Market Events](https://heniu.blog/en/h-log/hlog-2026-10-21/index.md) (2026-10-21)
 - [T-Log: 2026-10-21 - Heniu's Flight Log](https://heniu.blog/en/t-log/tlog-2026-10-21/index.md) (2026-10-21)
 - [Log #0208: Dysonian Stabilization in the Shadow of a Singularity](https://heniu.blog/en/posts/log-0208/index.md) (2026-10-21)
