@@ -1,6 +1,6 @@
 # H-Log: 2026-10-22 - Relato Clássico dos Eventos do Mercado
 
-Data: 2026-10-22 13:08
+Data: 2026-10-22 14:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.22 [PT-BR]</h1>
+<h3>📈 [2026-10-22 14:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>a sessão à vista (Spot) está atualmente fechada; análise baseada em contratos futuros NQ e dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo negociados no nível 29512.75 (-1.65%), com um fluxo acumulado (CVD) de -21,86 mil [venda]. O indicador agregado de direção de fluxo é -55, o que indica uma forte predominância de distribuição de capital.</li>
+<li>Na sessão à vista (sessão fechada) foi registrada uma anomalia significativa: apesar do aumento no preço do Índice Nasdaq-100 (NDX) de +1.13% (29822.52), o fluxo acumulado (CVD) foi de -154,93 M [pânico], o que sugere uma forte pressão de venda simultânea ao aumento de preço.</li>
+<li>Dados de Opções sobre QQQ (volume: 7,523,237; IV: 21.41%) com uma relação Put/Call Ratio de 1.05 indicam um aumento no interesse por proteção (hedging) e uma volatilidade esperada aumentada na faixa de 716.74 a 733.66.</li>
+<li>O Recuo desde o pico do Heniu de 06.10 (31360.85) é de -4.91% (-1538 pts). Esta é uma correção de caráter maior do que a mediana dos movimentos históricos, mais profunda do que 57% registrados na memória do sistema.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-22 14:07</p>
 <h3>📈 [2026-10-22 13:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

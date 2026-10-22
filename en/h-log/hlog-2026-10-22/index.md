@@ -1,6 +1,6 @@
 # H-Log: 2026-10-22 - A Classic Account of Market Events
 
-Date: 2026-10-22 13:07
+Date: 2026-10-22 14:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.22 [EN]</h1>
+<h3>📈 [2026-10-22 14:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>the cash session (Spot) is currently closed; analysis based on NQ futures contracts and data from the regular session close.</li>
+<li>NQ futures are trading at 29512.75 (-1.65%), with a cumulative flow (CVD) of -21,86 thousand [sell-off]. The aggregate flow direction indicator is -55, indicating a strong dominance of capital distribution.</li>
+<li>In the cash market (session closed) a significant anomaly was noted: despite the Nasdaq-100 index (NDX) price increasing by +1.13% (29822.52), the cumulative flow (CVD) was -154,93 M [panic], suggesting strong selling pressure alongside a simultaneous price increase.</li>
+<li>Options on QQQ data (volume: 7,523,237; IV: 21.41%) with a Put/Call Ratio at 1.05 indicate increased interest in hedging and increased expected volatility in the range of 716.74 to 733.66.</li>
+<li>The current Drawdown from Heniu's peak from 06.10 (31360.85) is -4.91% (-1538 pts). This is a correction larger than the median of historical movements, deeper than 57% recorded in system memory.</li>
+</ul>
+<p>H-Log Report: 2026-10-22 14:07</p>
 <h3>📈 [2026-10-22 13:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
