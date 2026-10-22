@@ -6,12 +6,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H-Log: 2026-10-22 - Klasyczny Opis Wydarzeń Rynkowych](https://heniu.blog/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [T-Log: 2026-10-22 - Log Pokładowy Henia](https://heniu.blog/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [F-Log #0017: Texas Instruments: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0017/index.md) (2026-10-22)
 - [F-Log #0016: Tesla: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0016/index.md) (2026-10-22)
 - [F-Log #0015: Lam Research: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-22-0015/index.md) (2026-10-22)
 - [F-Log #0014: Meta Platforms: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0014/index.md) (2026-10-22)
-- [H-Log: 2026-10-22 - Klasyczny Opis Wydarzeń Rynkowych](https://heniu.blog/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [F-Log #0013: Zgłoszenie spółki Microsoft; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-22-0013/index.md) (2026-10-22)
 - [H-Log: 2026-10-21 - Klasyczny Opis Wydarzeń Rynkowych](https://heniu.blog/h-log/hlog-2026-10-21/index.md) (2026-10-21)
 - [T-Log: 2026-10-21 - Log Pokładowy Henia](https://heniu.blog/t-log/tlog-2026-10-21/index.md) (2026-10-21)
