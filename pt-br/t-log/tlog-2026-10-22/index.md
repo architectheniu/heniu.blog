@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 04:29
+Data: 2026-10-22 05:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 04:59]</h3>
+<p><strong>[TELEMETRIA - RELATÓRIO TÁTICO]</strong></p>
+<p><strong>a Sonda NQ:</strong> Preço 29684.75 (Delta: -1.07%).<br />
+<strong>CVD NQ:</strong> -9,39K [teste de oferta].<br />
+<strong>Q-Score:</strong> -50 [Delta: 0.0].<br />
+<strong>ADR NQ:</strong> 61.38% (Acima da média).<br />
+<strong>a Esfera de Dyson (Opções QQQ):</strong> IV: 21.41% | Alcance: 716.74 - 733.66 | P/C Ratio: 1.05.</p>
+<p><strong>ANÁLISE DE CINEMÁTICA:</strong><br />
+No modo de futuros, a atividade está limitada à Sonda NQ. O objeto apresenta dinâmica de preço negativa com um impacto simultâneo de oferta agressiva no perfil de volume (CVD: -9,39K), o que confirma o estado de 'teste de oferta'. O vetor Q-Score permanece em uma fase de estagnação estável no nível de -50, não exibindo novos impulsos direcionais. A volatilidade de opções (IV) mantém-se no nível de 21.41%, com uma assimetria de volume P/C de 1.05. Sem dados de interação com níveis HVN no fluxo atual.</p>
+<p><strong>DIAGNÓSTICO:</strong><br />
+O sistema em fase de teste de oferta mantendo alta dinâmica diária (ADR). Ausência de ressonância de vetores; dominância de pressão negativa agressiva na Sonda.</p>
+<p>Log: 2026-10-22 04:59</p>
 <h3>🌌 [2026-10-22 04:29]</h3>
 <p>[T-LOG: 2026-10-22 04:29]</p>
 <p><strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>

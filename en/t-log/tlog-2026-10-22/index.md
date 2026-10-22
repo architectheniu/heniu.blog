@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 04:29
+Date: 2026-10-22 04:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 04:59]</h3>
+<p><strong>[TELEMETRY - TACTICAL REPORT]</strong></p>
+<p><strong>the NQ Probe:</strong> Price 29684.75 (Delta: -1.07%).<br />
+<strong>NQ CVD:</strong> -9,39K [supply test].<br />
+<strong>Q-Score:</strong> -50 [Delta: 0.0].<br />
+<strong>NQ ADR:</strong> 61.38% (Above average).<br />
+<strong>the Dyson Sphere (QQQ Options):</strong> IV: 21.41% | Range: 716.74 - 733.66 | P/C Ratio: 1.05.</p>
+<p><strong>KINEMATICS ANALYSIS:</strong><br />
+In the futures session, activity is limited to the NQ Probe. The object exhibits negative price dynamics with a simultaneous hit of aggressive supply in the volume profile (CVD: -9,39K), confirming a 'supply test' state. The Q-Score vector remains in a phase of stable stagnation at the -50 level, showing no new directional impulses. Option volatility (IV) remains at 21.41%, with a P/C volume asymmetry of 1.05. No data on interaction with HVN levels in the current stream.</p>
+<p><strong>DIAGNOSIS:</strong><br />
+System in a supply testing phase while maintaining high daily dynamics (ADR). Lack of vector resonance; dominance of negative aggressive pressure on the Probe.</p>
+<p>Log: 2026-10-22 04:59</p>
 <h3>🌌 [2026-10-22 04:29]</h3>
 <p>[T-LOG: 2026-10-22 04:29]</p>
 <p><strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>

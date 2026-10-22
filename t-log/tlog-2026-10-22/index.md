@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 04:29
+Data: 2026-10-22 04:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 04:59]</h3>
+<p><strong>[TELEMETRIA - RAPORT TAKTYCZNY]</strong></p>
+<p><strong>Sonda NQ:</strong> Cena 29684.75 (Delta: -1.07%).<br />
+<strong>CVD NQ:</strong> -9,39K [test podaży].<br />
+<strong>Q-Score:</strong> -50 [Delta: 0.0].<br />
+<strong>ADR NQ:</strong> 61.38% (Powyżej średniej).<br />
+<strong>Sfera Dysona (Opcje QQQ):</strong> IV: 21.41% | Zasięg: 716.74 - 733.66 | P/C Ratio: 1.05.</p>
+<p><strong>ANALIZA KINEMATYKI:</strong><br />
+W trybie FUTURES aktywność ograniczona do SONDY NQ. Obiekt wykazuje ujemną dynamikę ceny przy jednoczesnym uderzeniu agresywnej podaży w profil wolumenu (CVD: -9,39K), co potwierdza stan 'testu podaży'. Wektor Q-Score pozostaje w fazie stabilnej stagnacji na poziomie -50, nie wykazując nowych impulsów kierunkowych. Zmienność opcyjna (IV) utrzymuje się na poziomie 21.41%, przy asymetrii wolumenu P/C wynoszącej 1.05. Brak danych o interakcji z poziomami HVN w bieżącym strumieniu.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Układ w fazie testowania podaży przy zachowaniu wysokiej dynamiki dziennej (ADR). Brak rezonansu wektorów; dominacja negatywnej presji agresywnej na Sondzie.</p>
+<p>Log: 2026-10-22 04:59</p>
 <h3>🌌 [2026-10-22 04:29]</h3>
 <p>[T-LOG: 2026-10-22 04:29]</p>
 <p><strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>
