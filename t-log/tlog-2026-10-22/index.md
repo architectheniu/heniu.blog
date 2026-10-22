@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 15:29
+Data: 2026-10-22 15:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 15:44]</h3>
+<p><strong>Log: 2026-10-22 15:44</strong></p>
+<p><strong>Status układu: SPOT. Analiza telemetryczna obiektów US100.</strong></p>
+<p>Sonda NQ utrzymuje poziom 29519.75 (-1.61%), wykazując stan wyprzedaży przy CVD na poziomie -26,82k. W strukturze przestrzennej odnotowano intensywną wymianę w strefie zapór HVN (29480 - 29660), gdzie nastąpiło gwałtowne obalenie wsparcia w okolicach 15:40. Gwiazda NDX (29339.90) wykazuje stan testu popytu przy CVD 13,01M, co przy ujemnym Q-Score (-17) wskazuje na głębokie rozwarstwienie układu – agresja popytowa w Jadrze nie znajduje potwierdzenia w kinetyce Sondy. Satelita QQQ (713.75) znajduje się w fazie testu podaży (-438,25k CVD). Szeroka Giełda TICKQ wykazuje stan testu popytu (32.00), co przy ujemnej Średniej Radiacji SMA200 (-51.28, status: załamanie rynku) tworzy silny dysonans wektorów. ADR dla NDX wynosi 25.44%, a dla NQ 109.51%. W Sferze Dysona Put/Call Ratio wynosi 0.90 przy IV 0.00%. Średnia Akcja: [BRAK_DANYCH_W_TELEMETRII].</p>
+<p><strong>Konkluzja: Rozwarstwienie układu (Cross-Asset Divergence). Strukturalna asymetria między Jądrem a Sondą przy jednoczesnym załamaniu szerokiego rynku.</strong></p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:32 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 15:29]</h3>
 <p>[TELEMETRIA STATUS: FUTURES]<br />
 [OBIEKT AKTYWNY: SONDA NQ]</p>
