@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 15:59
+Data: 2026-10-22 16:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,20 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 16:14]</h3>
+<p>[T-LOG: 2026-10-22 16:14]</p>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p><strong>TELEMETRIA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX:</strong> Cena 29310.45 (-1.72%). CVD: 29,63M [akumulacja].<br />
+- <strong>Sonda NQ:</strong> Cena 29481.50 (-1.75%). CVD: -19,83K [wyprzedaż]. ADR: 109.51% (powyżej średniej).<br />
+- <strong>Satelita QQQ:</strong> Cena 712.81 (-1.70%). CVD: -346,31K [test podaży].<br />
+- <strong>Szeroka Giełda (TICKQ):</strong> -180.00 [wyprzedaż]. Średnia SMA200: -48.48 [wyprzedaż]. Status: BELOW.<br />
+- <strong>Sfera Dysona:</strong> IV: 23.44%. Put/Call Ratio: 1.02 (asymetria wolumenu zbliżona do neutralnej).<br />
+- <strong>Wektor Rynku (Q-Score):</strong> -2.</p>
+<p><strong>ANALIZA DYNAMIKI I ZDARZEŃ:</strong><br />
+W trakcie bieżącej sesji odnotowano obalenie wsparcia HVN ekosystemu US100 na poziomie NDX 29320 (NQ ≈ 29496). Szeroka Giełda (TICKQ) potwierdza dominację podaży, utrzymując się w strefie wyprzedaży poniżej średniej SMA200. Układ znajduje się w stanie głębokiej asymetrii – agresywny popyt na poziomie Gwiazdy Matki nie znajduje jeszcze rezonansu w instrumentach pochodnych ani w szerokim rynku, co sugeruje strukturalnie "pusty" ruch wzrostowy wewnątrz jądra przy jednoczesnej presji na pozostałe komponenty.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Dysonans wektorów; strukturalne rozwarstwienie między akumulacją w NDX a wyprzedażą w NQ/TICKQ.</p>
 <h3>🌌 [2026-10-22 15:59]</h3>
 <p><strong>[T-LOG: 2026-10-22 15:59]</strong></p>
 <p><strong>STATUS: SPOT (SESJA KASOWA AKTYWNA)</strong></p>
