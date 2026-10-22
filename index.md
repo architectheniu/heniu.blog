@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-10-22](https://heniu.blog/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [Log #0209: Podsumowanie sesji 2026-10-22: NDX 28962.86 (-2.90%)](https://heniu.blog/posts/log-0209/index.md) (2026-10-22)
-- [H1: 2026-10-22](https://heniu.blog/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [Fundamenty #0019: Roper Technologies: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0019/index.md) (2026-10-22)
 - [Fundamenty #0018: Honeywell International: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0018/index.md) (2026-10-22)
 - [Fundamenty #0017: Texas Instruments: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0017/index.md) (2026-10-22)

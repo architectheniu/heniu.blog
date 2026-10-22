@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Data: 2026-10-22 21:07
+Data: 2026-10-22 23:09
 Adres: https://heniu.blog/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.22</h1>
+<h3>📈 [2026-10-22 zamknięcie]</h3>
+<p><strong>H-LOG: Podsumowanie sesji kasowej</strong></p>
+<p>Jest to podsumowanie sesji kasowej (Spot) z 2026-10-22. Indeks NDX zamknął się na poziomie 28962.86, co stanowi zmianę o -2.90%, przy czym CVD NDX wyniosło 169,35 M, a zużycie zasięgu ADR dla tego indeksu wyniosło 148.45%. Kontrakt NQ oraz ETF QQQ odnotowały spadki o -2.86%, kończąc sesję odpowiednio na poziomach 29147.75 i 704.56. Wskaźniki CVD dla NQ i QQQ wyniosły odpowiednio -31,45 K oraz -397,16 K, przy zużyciu ADR dla NQ na poziomie 182.48% i dla QQQ na poziomie 146.43%. Na zamknięciu TICKQ wyniósł 54.00 przy SMA200 na poziomie -43.11, a anomalia MOC wyniosła +32,03 M.</p>
+<p>Raport H-Log: podsumowanie sesji 2026-10-22</p>
 <h3>📈 [2026-10-22 21:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
