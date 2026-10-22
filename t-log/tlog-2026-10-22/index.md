@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 14:59
+Data: 2026-10-22 15:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 15:14]</h3>
+<p>[T-LOG: 2026-10-22 15:14]<br />
+Status: FUTURES (Tryb Nocny)</p>
+<p>Sonda NQ znajduje się na poziomie 29487.75 (-1.73%). Wektor kierunkowy Q-Score wykazuje ujemną dynamikę, spadając do wartości -65 (Delta: -10.0). Pomiary CVD dla Sondy NQ odnotowują wartość -23,72K, co klasyfikuje obecny stan jako [wyprzedaż]. Wskaźnik ADR dla NQ jest obecnie powyżej średniej (109.51%). W Sferze Dysona (Opcje QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 0.82, przy zerowej zmienności (IV: 0.00%) i oczekiwanym zasięgu w przedziale 716.74 do 733.66.</p>
+<p>Wszystkie parametry pozaobiektowe (NDX, QQQ, TICKQ) pozostają w uśpieniu w związku z zamknięciem sesji kasowej. Brak danych o aktywności radiacji tła.</p>
+<p>Układ w fazie ujemnej kinetyki z dominacją agresywnej podaży w sektorze futures.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:12 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 14:59]</h3>
 <p>[TELEMETRIA - TRYB FUTURES]</p>
 <p>Sonda NQ: 29498.50 (-1.70%).<br />

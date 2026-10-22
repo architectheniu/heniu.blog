@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 14:59
+Date: 2026-10-22 15:14
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 15:14]</h3>
+<p>[T-LOG: 2026-10-22 15:14]<br />
+Status: FUTURES (Night Mode)</p>
+<p>the NQ Probe is at level 29487.75 (-1.73%). The Q-Score directional vector shows negative dynamics, falling to a value of -65 (Delta: -10.0). CVD measurements for the NQ Probe record a value of -23,72K, which classifies the current state as [sell-off]. The ADR indicator for NQ is currently above average (109.51%). In the Dyson Sphere (QQQ Options), volume asymmetry was recorded with a Put/Call Ratio at 0.82, with zero volatility (IV: 0.00%) and an expected range between 716.74 and 733.66.</p>
+<p>All non-object parameters (NDX, QQQ, TICKQ) remain in sleep mode due to the closing of the cash session (Spot). No data on Background Radiation activity.</p>
+<p>System in a negative kinetics phase with dominance of aggressive supply in the futures sector.</p>
+<p><strong>Flow alarms from the previous Log:</strong> 15:12 sudden NQ flow downwards; NQ flow ignition.</p>
 <h3>🌌 [2026-10-22 14:59]</h3>
 <p>[TELEMETRY - FUTURES SESSION MODE]</p>
 <p>the NQ Probe: 29498.50 (-1.70%).<br />
