@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 16:44
+Data: 2026-10-22 16:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 16:59]</h3>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p>Układ znajduje się w fazie gwałtownej dekompozycji. Mimo że Szeroka Giełda (TICKQ: 202.00) sygnalizuje wystrzał rynku, a jej promieniowanie (SMA200: -44.75) pozostaje w strefie wyprzedaży, występuje głęboki dysonans między szerokością rynku a kinetyką głównych wektorów. Wektor kierunkowy Q-Score wynosi -22, potwierdzając ujemną dynamikę. Zmienność w Sferze Dysona (IV: 24.72%) przy asymetrii wolumenu Put/Call na poziomie 1.06 sugeruje wzrost presji na ubezpieczenie pozycji.</p>
+<p><strong>DIAGNOZA: Rozwarstwienie układu (Cross-Asset Divergence) – agresywny popyt na szerokim rynku nie znajduje odzwierciedlenia w głównych wektorach, co wskazuje na asymetryczny zrzut w sektorach dominujących.</strong></p>
+<p>Log: 2026-10-22 16:59</p>
 <h3>🌌 [2026-10-22 16:44]</h3>
 <p>[T-LOG: 2026-10-22 16:44]<br />
 STATUS: OPEN | TRYB: SPOT</p>

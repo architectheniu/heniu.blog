@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 16:45
+Data: 2026-10-22 17:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 16:59]</h3>
+<p><strong>STATUS: OPEN | MODO: À VISTA (SPOT)</strong></p>
+<p>O sistema encontra-se em uma fase de decomposição violenta. Embora a Amplitude de mercado (TICKQ: 202.00) sinalize um disparo do mercado, e sua radiação (SMA200: -44.75) permaneça na zona de sobrevenda, ocorre uma dissonância profunda entre a amplitude de mercado e a cinética dos vetores principais. O vetor direcional Q-Score é de -22, confirmando a dinâmica negativa. A volatilidade na Esfera de Dyson (QQQ) (IV: 24.72%) com uma assimetria de volume Put/Call de 1.06 sugere um aumento na pressão de proteção de posições.</p>
+<p><strong>DIAGNÓSTICO: Divergência de ativos (Cross-Asset Divergence) – a demanda agressiva no mercado amplo não encontra reflexo nos vetores principais, o que indica um despejo assimétrico nos setores dominantes.</strong></p>
+<p>Log: 2026-10-22 16:59</p>
 <h3>🌌 [2026-10-22 16:44]</h3>
 <p>[T-LOG: 2026-10-22 16:44]<br />
 STATUS: OPEN | MODO: SPOT</p>
