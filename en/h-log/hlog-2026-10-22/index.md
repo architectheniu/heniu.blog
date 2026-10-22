@@ -1,6 +1,6 @@
 # H-Log: 2026-10-22 - A Classic Account of Market Events
 
-Date: 2026-10-22 04:08
+Date: 2026-10-22 06:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.22 [EN]</h1>
+<h3>📈 [2026-10-22 06:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>the cash session (Spot) is currently closed. Active trading is occurring on NQ futures contracts, priced at 29630.50 (-1.25%), with negative cumulative flow (CVD) at -12,83 K, indicating selling pressure.</li>
+<li>the NDX Star (at the close of the cash session) is at 29822.52 (+1.13%), however, the aggregate flow direction indicator is -50, which means a clear advantage for capital distribution. The current drawdown from the peak of 06.10 (31360.85) is -4.91% (-1538 pts), classifying the current move as a larger correction (above the median of historical corrections).</li>
+<li>Analysis of Options on QQQ with a volume of 7,523,237 indicates moderate hedging; the Put/Call Ratio at 1.05 suggests a slight advantage for put option demand. Implied volatility (IV) is 21.41%, and the expected range of movement for the instrument is 716.74 to 733.66.</li>
+</ul>
+<p>H-Log Report: 2026-10-22 06:07</p>
 <h3>📈 [2026-10-22 04:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>

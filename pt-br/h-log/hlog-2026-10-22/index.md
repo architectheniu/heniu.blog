@@ -1,6 +1,6 @@
 # H-Log: 2026-10-22 - Relato Clássico dos Eventos do Mercado
 
-Data: 2026-10-22 03:09
+Data: 2026-10-22 06:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.22 [PT-BR]</h1>
+<h3>📈 [2026-10-22 06:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A negociação ativa ocorre nos contratos futuros NQ, cujo preço é 29630.50 (-1.25%), com um fluxo acumulado (CVD) negativo no nível de -12,83 K, o que indica pressão de venda.</li>
+<li>O Índice NDX (no fechamento da sessão à vista) encontra-se no nível 29822.52 (+1.13%), no entanto, o indicador agregado de direção de fluxos é de -50, o que significa uma clara vantagem de distribuição de capital. O Recuo desde o pico do dia 06.10 (31360.85) é de -4.91% (-1538 pts), o que classifica o movimento atual como uma correção maior (acima da mediana de correções históricas).</li>
+<li>A análise de Opções sobre QQQ com volume de 7,523,237 indica um hedge moderado de posições; o Put/Call Ratio no nível de 1.05 sugere uma leve vantagem na demanda por opções de venda. A volatilidade implícita (IV) é de 21.41%, e o intervalo de movimento esperado para o instrumento é de 716.74 a 733.66.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-22 06:07</p>
 <h3>📈 [2026-10-22 03:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
