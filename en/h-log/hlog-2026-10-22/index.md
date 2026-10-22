@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Date: 2026-10-22 21:07
+Date: 2026-10-22 23:10
 URL: https://heniu.blog/en/h-log/hlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.22 [EN]</h1>
+<h3>📈 [2026-10-22 close]</h3>
+<p><strong>H-LOG: the cash session (Spot) summary</strong></p>
+<p>This is the summary of the cash session (Spot) from 2026-10-22. The NDX index closed at 28962.86, representing a change of -2.90%, with NDX CVD amounting to 169,35 M, and the ADR range consumption for this index was 148.45%. The NQ futures contract and QQQ ETF recorded decreases of -2.86%, ending the session at levels of 29147.75 and 704.56 respectively. CVD indicators for NQ and QQQ were -31,45 K and -397,16 K respectively, with ADR consumption for NQ at 182.48% and for QQQ at 146.43%. At the close, TICKQ was 54.00 with SMA200 at -43.11, and the MOC Anomaly was +32,03 M.</p>
+<p>H-Log report: session summary 2026-10-22</p>
 <h3>📈 [2026-10-22 21:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
