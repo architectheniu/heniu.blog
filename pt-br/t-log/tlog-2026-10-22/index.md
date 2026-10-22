@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 03:00
+Data: 2026-10-22 03:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 03:29]</h3>
+<p>[T-LOG: 2026-10-22 03:29]</p>
+<p><strong>STATUS: FUTUROS (MODO NQ)</strong></p>
+<p>a Sonda NQ encontra-se em estado de teste de oferta ao preço de 29775.25 (-0.77%). O vetor Q-Score é de -50, indicando a dominância do vetor de baixa no sistema. Foi registrado um evento crítico de volume: às 03:20 o suporte HVN do ecossistema US100 foi derrubado no nível NDX 29580 (NQ ≈ 29766), o que causou a desestabilização da estrutura local. A pressão atual de oferta agressiva (CVD) para a Sonda NQ é de -6,58K, o que classifica o estado atual como "teste de oferta". O indicador ADR para NQ é de 45.56%, o que indica uma volatilidade muito alta no ciclo atual. Na Esfera de Dyson (QQQ) observa-se uma assimetria de volume Put/Call de 1.05, com volatilidade IV de 21.41% e alcance esperado no intervalo de 716.74 – 733.66.</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+O sistema encontra-se na fase de teste da profundidade da correção após a derrubada da barreira crucial de suporte. Ausência de sinais de sincronização; a dominância do vetor negativo com ADR alto sugere pressão de venda contínua em um regime de alta volatilidade.</p>
+<p><strong>Alarmes de fluxo do Log anterior:</strong> 03:08 fluxo repentino de NQ para cima; ignição de fluxo NQ; 03:20 fluxo repentino de NQ para cima; ignição de fluxo NQ; 03:25 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-22 02:59]</h3>
 <p>[TELEMETRIA - MODO DE FUTUROS]<br />
 a Sonda NQ: 29792.75 (-0.71%) | ADR: 45.56% | CVD: -4.87K [teste de oferta]<br />

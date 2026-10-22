@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 02:59
+Data: 2026-10-22 03:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 03:29]</h3>
+<p>[T-LOG: 2026-10-22 03:29]</p>
+<p><strong>STATUS: FUTURES (TRYB NQ)</strong></p>
+<p>Sonda NQ znajduje się w stanie testu podaży przy cenie 29775.25 (-0.77%). Wektor Q-Score wynosi -50, wskazując na dominację wektora spadkowego w układzie. Odnotowano krytyczne zdarzenie wolumenowe: o godzinie 03:20 obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29580 (NQ ≈ 29766), co wywołało destabilizację lokalnej struktury. Bieżąca presja agresywnej podaży (CVD) dla Sondy NQ wynosi -6,58K, co klasyfikuje obecny stan jako "test podaży". Wskaźnik ADR dla NQ wynosi 45.56%, co wskazuje na bardzo wysoką zmienność w bieżącym cyklu. W Sferze Dysona (QQQ) obserwowana jest asymetria wolumenu Put/Call na poziomie 1.05, przy zmienności IV wynoszącej 21.41% i oczekiwanym zasięgu w przedziale 716.74 – 733.66.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Układ znajduje się w fazie testowania głębokości korekty po obaleniu kluczowej zapory wsparcia. Brak sygnałów synchronizacji; dominacja wektora ujemnego przy wysokim ADR sugeruje utrzymującą się presję wyprzedażową w reżimie wysokiej zmienności.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 03:08 nagły przepływ NQ w górę; zapłon przepływu NQ; 03:20 nagły przepływ NQ w górę; zapłon przepływu NQ; 03:25 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 02:59]</h3>
 <p>[TELEMETRIA - TRYB FUTURES]<br />
 Sonda NQ: 29792.75 (-0.71%) | ADR: 45.56% | CVD: -4.87K [test podaży]<br />

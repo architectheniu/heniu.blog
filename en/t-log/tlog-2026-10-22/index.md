@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 03:00
+Date: 2026-10-22 03:30
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 03:29]</h3>
+<p>[T-LOG: 2026-10-22 03:29]</p>
+<p><strong>STATUS: FUTURES (NQ MODE)</strong></p>
+<p>the NQ Probe is in a supply test state at price 29775.25 (-0.77%). The Q-Score vector is -50, indicating the dominance of the downward vector in the system. A critical volume event was recorded: at 03:20 the US100 ecosystem HVN support was broken at the NDX level of 29580 (NQ ≈ 29766), which caused destabilization of the local structure. Current aggressive supply pressure (CVD) for the NQ Probe is -6.58K, which classifies the current state as a "supply test". The ADR indicator for NQ is 45.56%, indicating very high volatility in the current cycle. In the Dyson Sphere (QQQ), a Put/Call volume asymmetry of 1.05 is observed, with IV volatility at 21.41% and an expected range in the interval 716.74 – 733.66.</p>
+<p><strong>SYSTEM DIAGNOSTICS:</strong><br />
+The system is in a phase of testing the depth of the correction after the breaking of a key support barrier. Lack of synchronization signals; dominance of the negative vector with high ADR suggests sustained selling pressure in a high volatility regime.</p>
+<p><strong>Flow alarms from the previous Log:</strong> 03:08 sudden NQ upward flow; NQ flow ignition; 03:20 sudden NQ upward flow; NQ flow ignition; 03:25 sudden NQ upward flow; NQ flow ignition.</p>
 <h3>🌌 [2026-10-22 02:59]</h3>
 <p>[TELEMETRY - FUTURES SESSION MODE]<br />
 the NQ Probe: 29792.75 (-0.71%) | ADR: 45.56% | CVD: -4.87K [supply test]<br />
