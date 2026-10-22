@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 19:29
+Data: 2026-10-22 19:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 19:44]</h3>
+<p>[T-LOG: 2026-10-22 19:44]</p>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p>W sektorze US100 odnotowano gwałtowną aktywność w strefie zapór HVN; nastąpiła intensywna wymiana w strefie NQ 29381 – 29501, gdzie najpierw zdobyto wsparcie, by po chwili je obalić. Obecna cena Sondy NQ wynosi 29231.25 (-2.59%), przy czym ADR wynosi 163.01%, co plasuje go powyżej średniej. Gwiazda NDX wykazuje stan wyprzedaży (CVD: -20.69M), podczas gdy Sonda NQ znajduje się w fazie załamania rynku (CVD: -43.67K), a Satelita QQQ potwierdza wyprzedaż (CVD: -1.56M). Wektor rynkowy Q-Score wynosi -52. Szeroka Giełda TICKQ wykazuje akumulację na poziomie 172.00, co stoi w jaskrawym kontraście do średniej SMA200 (-39.33, wyprzedaż), sugerując rozwarstwienie struktury układu. Sfera Dysona (QQQ) przy zmienności IV 25.25% wykazuje asymetrię wolumenu Put/Call na poziomie 0.99. Średnia Akcja: [BRAK_DANYCH_W_TELEMETRII].</p>
+<p><strong>DIAGNOZA: Dysonans wektorów i rozwarstwienie układu; agresywna podaż na instrumentach kluczowych przy jednoczesnej akumulacji w szerokim rynku.</strong></p>
+<p>Log: 2026-10-22 19:44</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 19:32 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 19:29]</h3>
 <p>[T-LOG: 2026-10-22 19:29]<br />
 Status: SPOT | Tryb: Pełna aktywność kasowa.</p>

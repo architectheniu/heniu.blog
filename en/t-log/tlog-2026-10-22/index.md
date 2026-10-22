@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 19:29
+Date: 2026-10-22 19:44
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 19:44]</h3>
+<p>[T-LOG: 2026-10-22 19:44]</p>
+<p><strong>STATUS: OPEN | MODE: SPOT</strong></p>
+<p>In the US100 sector, sudden activity was recorded in the HVN barrier zone; intense exchange occurred in the NQ 29381 – 29501 zone, where support was first gained, only to be overturned moments later. The current price of the NQ Probe is 29231.25 (-2.59%), with ADR at 163.01%, placing it above average. The NDX Star shows an oversold state (CVD: -20.69M), while the NQ Probe is in a market breakdown phase (CVD: -43.67K), and the QQQ Satellite confirms selling (CVD: -1.56M). The Q-Score market vector is -52. The broad TICKQ Market breadth shows accumulation at 172.00, which stands in stark contrast to the SMA200 average (-39.33, selling), suggesting a stratification of the system structure. The Dyson Sphere (QQQ) with IV volatility of 25.25% shows a Put/Call volume asymmetry of 0.99. Average Action: [NO_DATA_IN_TELEMETRY].</p>
+<p><strong>DIAGNOSIS: Dissonance of vectors and stratification of the system; aggressive supply on key instruments with simultaneous accumulation in the broad market.</strong></p>
+<p>Log: 2026-10-22 19:44</p>
+<p><strong>Flow alarms from the previous Log:</strong> 19:32 sudden NQ flow upwards; NQ flow ignition.</p>
 <h3>🌌 [2026-10-22 19:29]</h3>
 <p>[T-LOG: 2026-10-22 19:29]<br />
 Status: SPOT | Mode: Full cash activity.</p>

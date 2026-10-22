@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 19:30
+Data: 2026-10-22 19:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 19:44]</h3>
+<p>[T-LOG: 2026-10-22 19:44]</p>
+<p><strong>STATUS: OPEN | MODO: À VISTA (SPOT)</strong></p>
+<p>No setor US100, foi registrada uma atividade abrupta na zona de barreiras HVN; ocorreu uma troca intensa na zona NQ 29381 – 29501, onde primeiro o suporte foi conquistado, para logo em seguida ser derrubado. O preço atual da Sonda NQ é 29231.25 (-2.59%), com o ADR em 163.01%, o que o coloca acima da média. A Estrela NDX apresenta um estado de venda (CVD: -20.69M), enquanto a Sonda NQ encontra-se em uma fase de colapso do mercado (CVD: -43.67K), e o Satélite QQQ confirma a venda (CVD: -1.56M). O vetor de mercado Q-Score é de -52. A Amplitude de mercado (TICKQ) mostra acumulação no nível de 172.00, o que está em forte contraste com a média SMA200 (-39.33, venda), sugerindo uma estratificação na estrutura do sistema. A Esfera de Dyson (QQQ), com volatilidade IV de 25.25%, mostra uma assimetria de volume Put/Call de 0.99. Ação Média: [SEM DADOS NA TELEMETRIA].</p>
+<p><strong>DIAGNÓSTICO: Dissonância de vetores e estratificação do sistema; oferta agressiva em instrumentos fundamentais com acumulação simultânea no mercado amplo.</strong></p>
+<p>Log: 2026-10-22 19:44</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 19:32 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-22 19:29]</h3>
 <p>[T-LOG: 2026-10-22 19:29]<br />
 Status: a sessão à vista (Spot) | Modo: Atividade total à vista.</p>
