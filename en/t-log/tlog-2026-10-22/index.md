@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 21:59
+Date: 2026-10-22 23:04
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 22:59]</h3>
+<p>[T-LOG: 2026-10-22 22:59]</p>
+<p><strong>STATUS: THE FUTURES SESSION (OFF THE CASH SESSION MODE)</strong></p>
+<p>the NQ Probe shows strong decompression, reaching level 29096.00 (-3.04%). The CVD vector for the probe is -34,42 K, which classifies the current state as selling. The NQ ADR dynamics are currently at 182.48%, placing it above the average of the last 5 days (154.33%). The market direction vector (Q-Score) oscillates around -5, showing a minimal delta (0.0) compared to the previous reading. In the Dyson Sphere (QQQ) Options on QQQ, IV volatility was recorded at 25.46% with a Put/Call volume asymmetry of 1.01. The NDX, QQQ objects and TICKQ radiation remain in a dormant state (no active data transmission in the Futures mode).</p>
+<p><strong>SYSTEM DIAGNOSIS:</strong> Dominance of the supply vector with high ADR dynamics; the system is in the probe selling phase.</p>
+<p>Log: 2026-10-22 22:59</p>
+<p><strong>Flow alarms from the previous Log:</strong> 22:21 sudden NQ upward flow.</p>
 <h3>🌌 [2026-10-22 21:59]</h3>
 <p><strong>STATUS: SPOT | MODE: FULL</strong></p>
 <p>The System is in a phase of violent decomposition. The NDX Star exhibits a state of <strong>market collapse</strong> with CVD at -60.91M, which strictly corresponds to aggressive selling in the Dyson Sphere (QQQ Satellite: CVD -1.7M – <strong>sell-off</strong> state). Market breadth (TICKQ) oscillates at -82.00, indicating a <strong>sell-off</strong> state, significantly below the SMA200 average (-42.92). The Q-Score directional vector is -67, indicating strong dominance of the downward vector. Volatility (IV) in the Dyson Sphere is 25.50%, with Put/Call volume asymmetry at 1.01. ADR for all key objects is above averages, signaling increased movement amplitude towards the lows. Lack of data for Average Stock in telemetry prevents an assessment of the basket expansion.</p>
