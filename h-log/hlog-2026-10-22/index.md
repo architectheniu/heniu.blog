@@ -1,6 +1,6 @@
 # H-Log: 2026-10-22 - Klasyczny Opis Wydarzeń Rynkowych
 
-Data: 2026-10-22 05:07
+Data: 2026-10-22 06:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.22</h1>
+<h3>📈 [2026-10-22 06:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Aktywny handel odbywa się na kontraktach terminowych NQ, których cena wynosi 29630.50 (-1.25%), przy ujemnym przepływie skumulowanym (CVD) na poziomie -12,83 K, co wskazuje na presję sprzedażową.</li>
+<li>Indeks NDX (na zamknięciu sesji kasowej) znajduje się na poziomie 29822.52 (+1.13%), jednak zbiorczy wskaźnik kierunku przepływów wynosi -50, co oznacza wyraźną przewagę dystrybucji kapitału. Bieżąca korekta od szczytu z dnia 06.10 (31360.85) wynosi -4.91% (-1538 pkt), co klasyfikuje obecny ruch jako większą korektę (powyżej mediany historycznych korekt).</li>
+<li>Analiza opcji QQQ przy wolumenie 7,523,237 wskazuje na umiarkowane zabezpieczanie pozycji; wskaźnik Put/Call Ratio na poziomie 1.05 sugeruje lekką przewagę popytu na opcje sprzedaży. Zmienność implikowana (IV) wynosi 21.41%, a oczekiwany zakres ruchu dla instrumentu to 716.74 do 733.66.</li>
+</ul>
+<p>Raport H-Log: 2026-10-22 06:07</p>
 <h3>📈 [2026-10-22 05:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
