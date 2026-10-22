@@ -1,7 +1,8 @@
-{{/* Karta linku (podgląd wpisu w X, Facebooku, komunikatorach): obrazek 1200×630 generowany przy budowie strony.
-     Decyzja Architekta z 21.10.2026. Jeden wzór dla wszystkich wpisów:
-     nazwa sekcji, tytuł w języku wpisu, heniu.blog. Bez liczb i bez nazw źródeł: numer wpisu, daty
-     i wszystkie słowa z cyframi są usuwane z tytułu. Zwraca pełny adres obrazka. */}}
+{{/* Karta linku (podgląd wpisu w X, Facebooku, komunikatorach): obrazek 1200×630 JPG generowany przy budowie strony.
+     Wzór z 22.10.2026 (decyzja Architekta, wersja B): grafika banera przyciemniona po lewej, na górze nazwa sekcji
+     i heniu.blog, pod nią duży tytuł w języku wpisu (do 4 wierszy). Dolny pas zostaje pusty, bo X kładzie tam swój
+     napis. Bez awatara. Bez liczb i bez nazw źródeł: numer wpisu, daty i wszystkie słowa z cyframi są usuwane
+     z tytułu. Zwraca pełny adres obrazka. */}}
 {{- $tytul := .Title -}}
 {{- $tytul = replaceRE `^[A-Za-z]-Log\s*#?\d*\s*:\s*` "" $tytul -}}
 {{- $tytul = replaceRE `^[^:#]{1,30}#\d+\s*:\s*` "" $tytul -}}
@@ -17,16 +18,50 @@
 {{- $sekcja := "" -}}
 {{- with .CurrentSection -}}{{- if not .IsHome -}}{{- $sekcja = .Title -}}{{- end -}}{{- end -}}
 {{- $sekcja = strings.TrimSpace (replaceRE `\S*\d\S*` "" $sekcja) -}}
-{{- $tlo := resources.Get "karty/tlo.png" -}}
+{{- $tlo := resources.Get "karty/tlo-baner.jpg" -}}
+{{- $kreska := resources.Get "karty/kreska.png" -}}
 {{- $gruba := resources.Get "karty/IBMPlexMono-Bold.ttf" -}}
 {{- $zwykla := resources.Get "karty/IBMPlexMono-Regular.ttf" -}}
-{{- $rozmiar := cond (gt (len (split $tytul "")) 60) 52 64 -}}
-{{- $filtry := slice
-  (images.Text $tytul (dict "font" $gruba "color" "#eceae5" "size" $rozmiar "linespacing" 14 "x" 72 "y" 150))
-  (images.Text "heniu.blog" (dict "font" $gruba "color" "#eec35e" "size" 40 "x" 72 "y" 538)) -}}
-{{- with $sekcja -}}
-  {{- $filtry = $filtry | append (images.Text (upper .) (dict "font" $zwykla "color" "#eec35e" "size" 32 "x" 72 "y" 72)) -}}
+{{- /* Łamanie tytułu w kolumnie 640 px. Krój ma stałą szerokość (znak to ok. 0,6 rozmiaru), więc wiersz liczymy
+       znakami. Bierzemy największy rozmiar, przy którym tytuł mieści się w 4 wierszach. */ -}}
+{{- $slowa := split $tytul " " -}}
+{{- $rozmiar := 54 -}}
+{{- $wiersze := slice -}}
+{{- range $r := slice 84 76 68 60 54 -}}
+  {{- $znakow := int (div 640.0 (mul 0.6 $r)) -}}
+  {{- $linie := slice -}}
+  {{- $biezaca := "" -}}
+  {{- range $slowa -}}
+    {{- $proba := strings.TrimSpace (printf "%s %s" $biezaca .) -}}
+    {{- if or (le (len (split $proba "")) $znakow) (eq $biezaca "") -}}
+      {{- $biezaca = $proba -}}
+    {{- else -}}
+      {{- $linie = $linie | append $biezaca -}}
+      {{- $biezaca = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $biezaca -}}{{- $linie = $linie | append . -}}{{- end -}}
+  {{- $rozmiar = $r -}}
+  {{- $wiersze = $linie -}}
+  {{- if le (len $linie) 4 -}}{{- break -}}{{- end -}}
 {{- end -}}
+{{- if gt (len $wiersze) 4 -}}{{- $wiersze = first 4 $wiersze -}}{{- end -}}
+{{- /* Blok tytułu wyśrodkowany w pasie 110–470 px (pod nim zostaje miejsce na napis X). */ -}}
+{{- $wysokosc := int (mul 1.18 $rozmiar) -}}
+{{- $y := add 110 (div (sub 360 (mul $wysokosc (len $wiersze))) 2) -}}
+{{- $filtry := slice -}}
+{{- range $wiersze -}}
+  {{- $filtry = $filtry | append (images.Text . (dict "font" $gruba "color" "#eceae5" "size" $rozmiar "x" 64 "y" $y)) -}}
+  {{- $y = add $y $wysokosc -}}
+{{- end -}}
+{{- $filtry = $filtry | append (images.Overlay $kreska 64 (add $y 18)) -}}
+{{- $marka := 64 -}}
+{{- with $sekcja -}}
+  {{- $etykieta := upper . -}}
+  {{- $filtry = $filtry | append (images.Text $etykieta (dict "font" $zwykla "color" "#eec35e" "size" 30 "x" 64 "y" 56)) -}}
+  {{- $marka = add 64 (mul (add (len (split $etykieta "")) 2) 18) -}}
+{{- end -}}
+{{- $filtry = $filtry | append (images.Text (cond (eq $sekcja "") "heniu.blog" "· heniu.blog") (dict "font" $gruba "color" "#eec35e" "size" 30 "x" $marka "y" 56)) -}}
 {{- $karta := $tlo | images.Filter $filtry -}}
-{{- $karta = $karta.Process "png" -}}
+{{- $karta = $karta.Process "jpg q78" -}}
 {{- return $karta.Permalink -}}
