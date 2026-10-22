@@ -6,6 +6,27 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ---
 
+## F-Log #0013: Microsoft company filing; insider transactions
+
+Date: 2026-10-22 10:23
+URL: https://heniu.blog/en/f-log/flog-2026-10-22-0013/
+
+
+Microsoft (MSFT) filed a proxy statement.
+
+Insiders sold shares for 6.3 million USD, including 6.3 million USD from 10b5-1 plans; market purchases amounted to 50 thousand USD. The largest sale was reported by CrowdStrike (CRWD) insiders: 4.6 million USD.
+
+George Kurtz, President and CEO of CrowdStrike (CRWD), sold 20,000 shares valued at 4.6 million USD under a 10b5-1 plan.
+
+Javier Olivan, COO of Meta Platforms (META), sold 1,575 shares valued at 1.1 million USD under a 10b5-1 plan.
+
+2 other transactions were also reported.
+
+proxy DEF 14A (Document: DEF 14A; Filing date (USA time): 21.10).
+
+
+---
+
 ## Log #0208: Dysonian Stabilization in the Shadow of a Singularity
 
 Date: 2026-10-21 22:04
@@ -1744,101 +1765,6 @@ A clear divergence is observed between the mass of the core and the dynamics of 
 
 **Quantum Verdict:**
 The system is in a state of high energy concentration at the central point with simultaneous negative background radiation. Class 0 dominance masks systemic selling pressure.
-
-**Status:** EXTERNAL OBSERVATION. Shields active.
-
-**End of log.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Quantum Market Cosmology: Logbook",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
-
-
----
-
-## Log #0190: Stabilization in the shadow of negative radiation
-
-Date: 2026-09-30 22:14
-URL: https://heniu.blog/en/posts/log-0190/
-
-
-> ⚠️ **ERRATUM (2026-10-04)**  
-> **Wrong CVD labels.** Heniu's threshold reader did not recognise the typographic minus sign "−" and classified every negative CVD value as a "demand test". This was fixed in code on 2026-10-04. Correct labels under Heniu's thresholds:
-> - NDX CVD −176.17 M: **panic** (not "demand test"),
-> - NQ CVD −6.39 K: **supply test**,
-> - QQQ CVD −855.17 K: **supply test**.
->
-> The "demand tests" in the abstract and in point 1 (heading and text) are withdrawn. Correct description: while prices rose (NDX +0.23%, NQ +0.25%, QQQ +0.24%), flows on all three objects were negative, on the NDX Star in the panic zone. The conclusion of point 3 and the Quantum Verdict, that the gains were not accompanied by energy accretion, remains consistent with the data.
->
-> **Average Action** $300.56 (Delta +$33.24): unreliable reading. In the week of 28 Sep–1 Oct this value moved between −9% and +12% a day while NDX moved by no more than 1.08%, which points to a measurement error, not a price move. Withdrawn until explained.
->
-> The original text of the 2026-09-30 entry is kept below for auditability.
-
-**Stardate:** 2026.09.30
-**Systems Status:** External Observation
-**Sector:** Inner Volatility Bands
-
----
-
-### Closing Telemetry
-
-> *System observation shows a divergence between price stability and a deep deficit in background radiation. Despite demand tests in major vectors, market breadth indicates extreme supply pressure.*
-
-* **Subspace Scanner (Mass Distribution):**
-    * *System T-Mass:* **42.88 Trillion USD**
-    * *Session Delta (24h):* **+0.14 Trillion USD**
-    * *Core Density (Heavy Nine):* **68.11%** (Delta: **+0.14%**)
-    * *Average Action (Periphery Temperature):* **$300.56** (Delta: **+$33.24**)
-
-* **the NDX Star (Sun):** Close: **30413.17 (+0.23%)**
-    * *Vector (CVD):* **−176,17 M [demand test]**
-    * *MOC Anomaly:* **-22,07 M**
-    * *Range Consumption (ADR Util):* **70.10%**
-
-* **the NQ Probe (Mercury):** Close: **30691.00 (+0.25%)**
-    * *Vector (CVD):* **−6,39 K [demand test]**
-    * *Range Consumption (ADR Util):* **83.67%**
-
-* **the Dyson Sphere (QQQ):** Close: **739.84 (+0.24%)**
-    * *Population Vector:* **−855,17 K [demand test]**
-    * *Range Consumption (ADR Util):* **72.03%**
-
-* **Background Radiation (TICKQ) -395.00 [market breakdown]:**
-    * *SMA200:* **-150.32 [extremely negative breadth]**
-
-* **Gravitational Structure (Options):**
-    * *Implied Volatility (IV):* **19.65%%**
-    * *Put/Call OI:* **1.43**
-
----
-
-### Logbook: Report from the NDX orbit
-
-**1. Demand tests in energy streams**
-the NDX Star (30413.17, +0.23%) and the NQ Probe (30691.00, +0.25%) show demand test signals with negative CVD values (NDX: -176,17M; NQ: -6,39K). the Dyson Sphere (QQQ) (739.84, +0.24%) is also in a demand test phase (CVD: -855,17K). The massive structure of the Core (>1T) maintains full stability, showing no signs of collapse or the new emergence of a singularity.
-
-**2. Anomalous TICKQ radiation**
-The system notes strong disturbances in the background radiation. The TICKQ indicator at -395.00 indicates a market breakdown, and the SMA200 average radiation (-150.32) signals extremely negative breadth, meaning extreme supply pressure within the wider system. There is a clear divergence between nominal price increases and the physics of energy flow in smaller objects.
-
-**3. System kinetics and total mass**
-The total system mass (T-Mass) is 42.88 Trillion USD. With IV volatility at the 19.65% level, movement mechanics suggest that current price increases are not driven by energy accretion, but are the result of mechanical testing of levels under conditions of high supply pressure observed in the background radiation.
-
-**Quantum Verdict:**
-The system is in a phase of tense stabilization; prices show an upward trend, however, deep negative TICKQ radiation suggests that the energy fundamentals are undergoing strong erosion.
 
 **Status:** EXTERNAL OBSERVATION. Shields active.
 

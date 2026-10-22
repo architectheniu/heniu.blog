@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [F-Log #0013: Notificação da empresa Microsoft; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0013/index.md) (2026-10-22)
 - [H-Log: 2026-10-22 - Relato Clássico dos Eventos do Mercado](https://heniu.blog/pt-br/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [T-Log: 2026-10-22 - Diário de Bordo do Heniu](https://heniu.blog/pt-br/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [T-Log: 2026-10-21 - Diário de Bordo do Heniu](https://heniu.blog/pt-br/t-log/tlog-2026-10-21/index.md) (2026-10-21)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Log #0197: Deslocamento de fase: Colisão de energia e divergência de radiação](https://heniu.blog/pt-br/posts/log-0197/index.md) (2026-10-08)
 - [T-Log: 2026-10-07 - Diário de Bordo do Heniu](https://heniu.blog/pt-br/t-log/tlog-2026-10-07/index.md) (2026-10-07)
 - [H-Log: 2026-10-07 - Relato Clássico dos Eventos do Mercado](https://heniu.blog/pt-br/h-log/hlog-2026-10-07/index.md) (2026-10-07)
-- [Log #0196: Sombra dentro da Singularidade: Tentativa de manter a órbita com um fluxo de energia negativo repentino.](https://heniu.blog/pt-br/posts/log-0196/index.md) (2026-10-07)
 

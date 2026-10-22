@@ -6,6 +6,27 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ---
 
+## F-Log #0013: Zgłoszenie spółki Microsoft; transakcje insiderów
+
+Data: 2026-10-22 10:23
+Adres: https://heniu.blog/f-log/flog-2026-10-22-0013/
+
+
+Microsoft (MSFT) złożył dokument dotyczący pełnomocnictw na walne zgromadzenie.
+
+Insiderzy sprzedali akcje za 6,3 mln USD, w tym 6,3 mln USD z planów 10b5-1; zakupy na rynku wyniosły 50 tys. USD. Największą sprzedaż zgłosili insiderzy CrowdStrike (CRWD): 4,6 mln USD.
+
+George Kurtz, prezes i dyrektor generalny spółki CrowdStrike (CRWD), sprzedał 20 000 akcji o wartości 4,6 mln USD w ramach planu 10b5-1.
+
+Javier Olivan, dyrektor operacyjny spółki Meta Platforms (META), sprzedał 1 575 akcji o wartości 1,1 mln USD w ramach planu 10b5-1.
+
+Zgłoszono też 2 innych transakcji.
+
+proxy DEF 14A (Dokument: DEF 14A; Data złożenia (czas USA): 21.10).
+
+
+---
+
 ## Log #0208: Dysonowska Stabilizacja w Cieniu Osobliwości
 
 Data: 2026-10-21 22:04
@@ -1718,101 +1739,6 @@ Układ znajduje się w stanie silnej dywergencji między instrumentem NQ a rzecz
     "name": "Heniu.blog"
   },
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
-}
-</script>
-
-
----
-
-## Log #0192: Emergencja Pulsara w cieniu ekstremalnej radiacji tła
-
-Data: 2026-10-02 22:18
-Adres: https://heniu.blog/posts/log-0192/
-
-
-> ⚠️ **ERRATUM (2026-10-04)**  
-> **Ten wpis nie opisuje sesji 2.10.2026.** Dopływ danych rynkowych do Henia ustał 2.10 ok. 9:19 ET, przed otwarciem sesji kasowej; T-Log i H-Log z tego dnia kończą się przed otwarciem. Raport na zamknięcie sesji nie sprawdził świeżości danych i opublikował odczyty sprzed sesji:
-> - T-Mass 42.86 T (Delta −0.02), Gęstość Jądra 70.25% (+2.14%), Gwiazda NDX 30506.61, CVD NDX 85,32 M, Anomalia MOC +79,39 M, ADR NDX 108.35%, Sfera Dysona QQQ 742.04, CVD QQQ −79,93 K, ADR QQQ 107.12% i Put/Call OI 1.40 to odczyty z czwartku 1.10 (identyczne z Logiem #0191). Zmiana „+0.31%” przy NDX i QQQ to zmiana czwartkowa.
-> - Sonda NQ 31167.75 (+1.32%), CVD 21,67 K i ADR 96.83% to odczyt sprzed otwarcia sesji kasowej (ok. 9:19 ET), nie zamknięcie.
-> - TICKQ −80.00, SMA200 −174.94 i IV 20.13% nie pochodzą z obserwacji sesji 2.10.
-> - Średnia Akcja $269.07 (Delta $-31.49): delta liczona względem środy 30.09; odczyt niewiarygodny.
-> - Etykieta „test popytu” przy CVD QQQ −79,93 K wynikała z błędu odczytu typograficznego znaku minus (poprawnie: test podaży). Ten błąd został poprawiony w kodzie 4.10.2026.
->
-> Wycofany zostaje cały Dziennik Pokładowy tego wpisu, w tym rozbieżność Sondy NQ (+1.32%) i Gwiazdy NDX (+0.31%) opisana jako zjawisko rynkowe. Był to efekt zestawienia odczytów z różnych chwil. Dane sesji 2.10.2026: brak danych.
->
-> Oryginalny tekst wpisu z 2.10.2026 zachowano poniżej w celach audytowalności.
-
-**Stardate:** 2026.10.02
-**Status Systemów:** Obserwacja Zewnętrzna
-**Sektor:** Wewnętrzne Pasma Zmienności
-
----
-
-### Telemetria Zamknięcia
-
-> *Mimo skrajnie ujemnej szerokości promieniowania TICKQ, Gwiazda Centralna NDX wykazuje silną akrecję energii. System obserwuje rozbieżność między stabilnością Jądra a destabilizacją szerokiego pola siłowego.*
-
-* **Skaner Podprzestrzenny (Rozkład Masy):**
-    * *T-Mass Układu:* **42.86 Tryliona USD**
-    * *Delta Sesyjna (24h):* **-0.02 Tryliona USD**
-    * *Gęstość Jądra (Heavy Nine):* **70.25%** (Delta: **+2.14%**)
-    * *Średnia Akcja (Temperatura Peryferii):* **$269.07** (Delta: **$-31.49**)
-
-* **Gwiazda NDX (Słońce):** Zamknięcie: **30506.61 (+0.31%)**
-    * *Wektor (CVD):* **85,32 M [wystrzał rynku]**
-    * *Anomalia MOC:* **+79,39 M**
-    * *Zużycie Zasięgu (ADR Util):* **108.35%**
-
-* **Sonda NQ (Merkury):** Zamknięcie: **31167.75 (+1.32%)**
-    * *Wektor (CVD):* **21,67 K [akumulacja]**
-    * *Zużycie Zasięgu (ADR Util):* **96.83%**
-
-* **Sfera Dyson’a (QQQ):** Zamknięcie: **742.04 (+0.31%)**
-    * *Wektor Populacji:* **−79,93 K [test popytu]**
-    * *Zużycie Zasięgu (ADR Util):* **107.12%**
-
-* **Promieniowanie Tła (TICKQ) -80.00 [wyprzedaż]:**
-    * *SMA200:* **-174.94 [ekstremalnie ujemna szerokość]**
-
-* **Struktura Grawitacyjna (Opcje):**
-    * *Implied Volatility (IV):* **20.13%%**
-    * *Put/Call OI:* **1.40**
-
----
-
-### Dziennik Pokładowy: Analiza Cyklu 2026.10.02
-
-**1. Akrecja w Centrum Masy**
-Gwiazda NDX odnotowała wzrost o 0.31%, generując przepływ energii (CVD) na poziomie 85,32M, co klasyfikuje stan jako "wystrzał rynku". Jednocześnie w Jądrze (>1T) nastąpiła emergencja nowej masy – AMD zakrzywia lokalną czasoprzestrzeń, zwiększając masę układu. Sonda NQ, napędzana dźwignią, dryfuje na wyższej orbicie (+1.32%) przy zachowaniu parametrów akumulacji (CVD: 21,67K).
-
-**2. Anomalie Promieniowania Tła i Sfery Dyson'a**
-Obserwuje się krytyczną dysonans w szerokości układu. TICKQ wykazuje stan "wyprzedaży" (-80.00), a średnia radiacja SMA200 osiągnęła poziom -174.94, co oznacza "ekstremalnie ujemną szerokość" i skrajną presję podażową w niższych warstwach cywilizacji. Sfera Dyson'a (QQQ) wykazuje lekką ekspansję (+0.31%), lecz jej wewnętrzny przepływ energii (CVD: -79,93K) wskazuje na "test popytu", co sugeruje budowę osłon energetycznych w obliczu ujemnej radiacji.
-
-**3. Dynamika Struktur i Masa Układu**
-Całkowita masa układu (T-Mass) wynosi 42.86 Tryliona USD. Mimo że Sonda NQ i Gwiazda NDX wykazują tendencję wzrostową, ekstremalnie ujemna średnia promieniowania tła sugeruje, że energia jest koncentrowana w obiektach Klasy 0 i Pulsarach, podczas gdy szeroka fauna układu znajduje się w fazie degradacji.
-
-**Werdykt Kwantowy:**
-Koncentracja energii w Gwiazdzie Matce i nowym obiekcie Jądra (AMD) maskuje strukturalne osłabienie szerokiego pola siłowego. Układ znajduje się w stanie wysokiej dywergencji między masą centralną a promieniowaniem tła.
-
-**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
-
-**Koniec zapisu.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
 }
 </script>
 
