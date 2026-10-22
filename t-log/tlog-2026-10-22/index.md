@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 15:44
+Data: 2026-10-22 15:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 15:59]</h3>
+<p><strong>[T-LOG: 2026-10-22 15:59]</strong></p>
+<p><strong>STATUS: SPOT (SESJA KASOWA AKTYWNA)</strong></p>
+<p><strong>ANALIZA OBIEKTÓW:</strong><br />
+Sonda NQ wykazuje cenę 29563.25 przy ADR na poziomie 109.51%; odnotowano stan wyprzedaży (CVD: -14,45k). Gwiazda NDX znajduje się na poziomie 29387.25 z ADR 34.03%, generując sygnał akumulacji (CVD: 40,68M). Satelita QQQ przy cenie 714.74 (ADR 34.31%) znajduje się w fazie testu podaży (CVD: -154,58k). Szeroka Giełda Nasdaq (TICKQ) raportuje wystrzał rynku (238.00), znajdując się powyżej średniej SMA200 (-49.18), co wskazuje na silną radiację dodatnią. Wektor kierunkowy Q-Score wynosi 43, przy trendzie promieniowania rosnącym (+2.10). Sfera Dysona wykazuje asymetrię wolumenu Put/Call na poziomie 1.17 przy zmienności IV 23.24%.</p>
+<p><strong>ZDARZENIA WOLOUMENOWE (HVN):</strong><br />
+W trakcie bieżącej sesji odnotowano intensywną wymianę i formowanie węzłów w strefie NDX 29200 - 29540. Nastąpiło obalenie wsparcia HVN na poziomie NDX 29320 (NQ ≈ 29496), po czym zarejestrowano zdobycie zapory HVN na tym samym poziomie (NQ ≈ 29497).</p>
+<p><strong>KINEMATYKA I DIAGNOZA:</strong><br />
+Układ wykazuje wyraźne rozwarstwienie (Cross-Asset Divergence): podczas gdy Jądro (NDX) i Promieniowanie Tła (TICKQ) sygnalizują akrecję, Sonda (NQ) oraz Satelita (QQQ) pozostają w fazie wyprzedaży i testu podaży. Występuje dysonans wektorów między agresywnym popytem w NDX a realizacją zysków w instrumentach wspierających.</p>
+<p><strong>DIAGNOZA: ROZWARSTWIENIE UKŁADU I GRAWITACYJNE NAPIĘCIE WOKÓŁ ZAPORY HVN.</strong></p>
+<p><strong>Log: 2026-10-22 15:59</strong></p>
 <h3>🌌 [2026-10-22 15:44]</h3>
 <p><strong>Log: 2026-10-22 15:44</strong></p>
 <p><strong>Status układu: SPOT. Analiza telemetryczna obiektów US100.</strong></p>

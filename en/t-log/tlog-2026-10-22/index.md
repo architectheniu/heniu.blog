@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 15:44
+Date: 2026-10-22 15:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 15:59]</h3>
+<p><strong>[T-LOG: 2026-10-22 15:59]</strong></p>
+<p><strong>STATUS: SPOT (THE CASH SESSION ACTIVE)</strong></p>
+<p><strong>OBJECT ANALYSIS:</strong><br />
+The NQ Probe shows a price of 29563.25 with ADR at 109.51%; an oversold state was noted (CVD: -14,45k). The NDX Star is at the level of 29387.25 with ADR 34.03%, generating an accumulation signal (CVD: 40,68M). The QQQ Satellite at a price of 714.74 (ADR 34.31%) is in a supply testing phase (CVD: -154,58k). The broad Nasdaq Exchange (TICKQ) reports a market flare (238.00), being above the SMA200 average (-49.18), which indicates strong positive radiation. The Q-Score directional vector is 43, with a rising radiation trend (+2.10). The Dyson Sphere (QQQ) shows a Put/Call volume asymmetry at a level of 1.17 with IV volatility of 23.24%.</p>
+<p><strong>VOLUME EVENTS (HVN):</strong><br />
+During the current session, intense exchange and the formation of nodes were noted in the NDX zone 29200 - 29540. An HVN support breakdown occurred at the NDX level of 29320 (NQ ≈ 29496), after which the capture of the HVN barrier at the same level was recorded (NQ ≈ 29497).</p>
+<p><strong>KINEMATICS AND DIAGNOSIS:</strong><br />
+The system shows clear cross-asset divergence: while the Core (NDX) and Background Radiation (TICKQ) signal accretion, the Probe (NQ) and Satellite (QQQ) remain in a phase of selling and supply testing. There is a vector dissonance between aggressive demand in NDX and profit-taking in supporting instruments.</p>
+<p><strong>DIAGNOSIS: SYSTEM STRATIFICATION AND GRAVITATIONAL TENSION AROUND THE HVN BARRIER.</strong></p>
+<p><strong>Log: 2026-10-22 15:59</strong></p>
 <h3>🌌 [2026-10-22 15:44]</h3>
 <p><strong>Log: 2026-10-22 15:44</strong></p>
 <p><strong>System status: SPOT. Telemetry analysis of US100 objects.</strong></p>
