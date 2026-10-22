@@ -1,6 +1,6 @@
 # H-Log: 2026-10-22 - Klasyczny Opis Wydarzeń Rynkowych
 
-Data: 2026-10-22 13:07
+Data: 2026-10-22 14:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.22</h1>
+<h3>📈 [2026-10-22 14:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty; analiza oparta na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ notowane są na poziomie 29512.75 (-1.65%), przy skumulowanym przepływie CVD wynoszącym -21,86 tys. [wyprzedaż]. Zbiorczy wskaźnik kierunku przepływów wynosi -55, co wskazuje na silną przewagę dystrybucji kapitału.</li>
+<li>Na rynku kasowym (sesja zamknięta) odnotowano istotną anomalię: mimo wzrostu ceny indeksu NDX o +1.13% (29822.52), skumulowany przepływ CVD wyniósł -154,93 M [panika], co sugeruje silną presję sprzedażową przy jednoczesnym wzroście ceny.</li>
+<li>Dane opcyjne na QQQ (wolumen: 7,523,237; IV: 21.41%) przy współczynniku Put/Call Ratio na poziomie 1.05 wskazują na wzrost zainteresowania zabezpieczeniami (hedgingiem) i zwiększoną oczekiwaną zmienność w zakresie 716.74 do 733.66.</li>
+<li>Obecna korekta od szczytu z 06.10 (31360.85) wynosi -4.91% (-1538 pkt). Jest to korekta o charakterze większym niż mediana historycznych ruchów, głębsza niż 57% zarejestrowanych w pamięci systemowej.</li>
+</ul>
+<p>Raport H-Log: 2026-10-22 14:07</p>
 <h3>📈 [2026-10-22 13:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
