@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 16:00
+Data: 2026-10-22 16:15
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,20 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 16:14]</h3>
+<p>[T-LOG: 2026-10-22 16:14]</p>
+<p><strong>STATUS: OPEN | MODO: SPOT</strong></p>
+<p><strong>TELEMETRIA DE OBJETOS:</strong><br />
+- <strong>a Estrela NDX:</strong> Preço 29310.45 (-1.72%). CVD: 29,63M [acumulação].<br />
+- <strong>a Sonda NQ:</strong> Preço 29481.50 (-1.75%). CVD: -19,83K [venda]. ADR: 109.51% (acima da média).<br />
+- <strong>Satélite QQQ:</strong> Preço 712.81 (-1.70%). CVD: -346,31K [teste de oferta].<br />
+- <strong>Amplitude de mercado (TICKQ):</strong> -180.00 [venda]. Média SMA200: -48.48 [venda]. Status: BELOW.<br />
+- <strong>a Esfera de Dyson (QQQ):</strong> IV: 23.44%. Put/Call Ratio: 1.02 (assimetria de volume próxima da neutra).<br />
+- <strong>Vetor de Mercado (Q-Score):</strong> -2.</p>
+<p><strong>ANÁLISE DE DINÂMICA E EVENTOS:</strong><br />
+Durante a sessão atual, observou-se a quebra do suporte HVN do ecossistema US100 no nível NDX 29320 (NQ ≈ 29496). A Amplitude de mercado (TICKQ) confirma a dominância de oferta, mantendo-se na zona de venda abaixo da média SMA200. O sistema encontra-se em um estado de profunda assimetria – a demanda agressiva no nível da Estrela-Mãe ainda não encontra ressonância nos derivativos nem na amplitude de mercado, o que sugere um movimento de alta estruturalmente "vazio" dentro do núcleo, com pressão simultânea nos demais componentes.</p>
+<p><strong>DIAGNÓSTICO:</strong><br />
+Dissonância de vetores; estratificação estrutural entre acumulação no NDX e venda no NQ/TICKQ.</p>
 <h3>🌌 [2026-10-22 15:59]</h3>
 <p><strong>[T-LOG: 2026-10-22 15:59]</strong></p>
 <p><strong>STATUS: A SESSÃO À VISTA (SPOT) ATIVA</strong></p>

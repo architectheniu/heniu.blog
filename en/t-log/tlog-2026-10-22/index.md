@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 15:59
+Date: 2026-10-22 16:15
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,20 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 16:14]</h3>
+<p>[T-LOG: 2026-10-22 16:14]</p>
+<p><strong>STATUS: OPEN | MODE: SPOT</strong></p>
+<p><strong>OBJECT TELEMETRY:</strong><br />
+- <strong>the NDX Star:</strong> Price 29310.45 (-1.72%). CVD: 29,63M [accumulation].<br />
+- <strong>the NQ Probe:</strong> Price 29481.50 (-1.75%). CVD: -19,83K [sell-off]. ADR: 109.51% (above average).<br />
+- <strong>QQQ Satellite:</strong> Price 712.81 (-1.70%). CVD: -346,31K [supply test].<br />
+- <strong>Market breadth (TICKQ):</strong> -180.00 [sell-off]. SMA200 average: -48.48 [sell-off]. Status: BELOW.<br />
+- <strong>the Dyson Sphere (QQQ):</strong> IV: 23.44%. Put/Call Ratio: 1.02 (volume asymmetry close to neutral).<br />
+- <strong>Market Vector (Q-Score):</strong> -2.</p>
+<p><strong>DYNAMICS AND EVENTS ANALYSIS:</strong><br />
+During the current session, a breakdown of the US100 ecosystem HVN support was noted at the NDX level of 29320 (NQ ≈ 29496). Market breadth (TICKQ) confirms supply dominance, remaining in the sell-off zone below the SMA200 average. The system is in a state of deep asymmetry – aggressive demand at the level of the Mother Star does not yet find resonance in derivatives or the broader market, suggesting a structurally "empty" upward move within the core while simultaneously exerting pressure on other components.</p>
+<p><strong>DIAGNOSIS:</strong><br />
+Dissonance of vectors; structural stratification between accumulation in NDX and sell-off in NQ/TICKQ.</p>
 <h3>🌌 [2026-10-22 15:59]</h3>
 <p><strong>[T-LOG: 2026-10-22 15:59]</strong></p>
 <p><strong>STATUS: SPOT (THE CASH SESSION ACTIVE)</strong></p>
