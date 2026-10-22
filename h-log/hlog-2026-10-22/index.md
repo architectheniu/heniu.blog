@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Data: 2026-10-22 16:07
+Data: 2026-10-22 17:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.22</h1>
+<h3>📈 [2026-10-22 17:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Analiza przepływów i sentymentu:</strong> Rynek znajduje się w fazie silnej dystrybucji. Zbiorczy wskaźnik kierunku przepływów wynosi -32, co potwierdza dominację odpływu kapitału. Odnotowano gwałtowną wyprzedaż na rynku kasowym: indeks NDX spada o -2.43% przy skumulowanym przepływie (CVD) na poziomie -2,65 M, a ETF QQQ traci -2.41% z CVD wynoszącym -1,65 M. Kontrakty NQ wykazują załamanie rynku przy cenie 29273.50 (-2.44%) i CVD -50,47 K. Szeroki rynek (TICKQ) oscyluje wokół -39.00, co przy średniej SMA200 wynoszącej -41.54 wskazuje na utrzymującą się presję podażową.</p>
+</li>
+<li>
+<p><strong>Kontekst korekty i poziomy techniczne:</strong> Obecna korekta od szczytu z 06.10 (31360.85) wynosi -7.22% (-2263 pkt). Na podstawie danych historycznych jest to korekta głębsza niż 57% dotychczasowych ruchów, co klasyfikuje ją jako większą korektę (powyżej mediany). Główna strefa oporu (węzeł wolumenu) znajduje się w przedziale 29470–29490, co stanowi poziom o 1.2% powyżej aktualnej ceny.</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Rynek opcji wykazuje wzrost zainteresowania zabezpieczeniami. Zmienność implikowana (IV) wynosi 24.75%, a wskaźnik Put/Call Ratio na poziomie 1.08 sugeruje przewagę pozycji krótkich (hedgingu lub spekulacji na spadki). Przy wolumenie 2,718,303 kontraktów, oczekiwany przez rynek zasięg ruchu w najbliższym czasie mieści się w przedziale od 706.03 do 722.67.</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-10-22 17:07</p>
 <h3>📈 [2026-10-22 16:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
