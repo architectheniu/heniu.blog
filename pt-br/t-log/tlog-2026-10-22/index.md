@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 05:00
+Data: 2026-10-22 05:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 05:29]</h3>
+<p>Modo de sessão: a sessão de futuros. Objeto ativo: a Sonda NQ.</p>
+<p>a Sonda NQ encontra-se atualmente no nível 29673.50 (-1.11%). Foram registrados eventos de volume no ecossistema US100: às 05:05 o suporte HVN no nível 29480 foi derrubado, após o que às 05:21 essa barreira foi conquistada (rompimento para cima).</p>
+<p>O vetor de direção (Q-Score) é de -50. A pressão do combustível (CVD) para a Sonda NQ é de -11,15K, o que classifica o estado do sistema como liquidação. O ADR é atualmente de 65.33%. Na Esfera de Dyson (opções QQQ) foi registrada volatilidade IV no nível de 21.41% com um Put/Call Ratio de 1.05.</p>
+<p>O estado atual do sistema caracteriza-se por cinética negativa com uma tentativa simultânea de recuperar o nível HVN 29480. A falta de dados sobre os vetores espaço-temporais (V/A) no fluxo telemétrico atual impossibilita a avaliação da ressonância.</p>
+<p>Sistema em fase de combate para recuperar a barreira HVN sob pressão de liquidação contínua.</p>
 <h3>🌌 [2026-10-22 04:59]</h3>
 <p><strong>[TELEMETRIA - RELATÓRIO TÁTICO]</strong></p>
 <p><strong>a Sonda NQ:</strong> Preço 29684.75 (Delta: -1.07%).<br />

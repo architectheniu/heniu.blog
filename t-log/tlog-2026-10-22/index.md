@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 04:59
+Data: 2026-10-22 05:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 05:29]</h3>
+<p>Tryb sesji: FUTURES. Aktywny obiekt: Sonda NQ.</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29673.50 (-1.11%). Odnotowano zdarzenia wolumenowe w ekosystemie US100: o godzinie 05:05 obalono wsparcie HVN na poziomie 29480, po czym o 05:21 zaporę tę zdobyto (przebicie w górę).</p>
+<p>Wektor kierunku (Q-Score) wynosi -50. Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -11,15K, co klasyfikuje stan układu jako wyprzedaż. ADR wynosi obecnie 65.33%. W Sferze Dysona (opcje QQQ) odnotowano zmienność IV na poziomie 21.41% przy Put/Call Ratio wynoszącym 1.05.</p>
+<p>Obecny stan układu charakteryzuje się ujemną kinetyką przy jednoczesnej próbie odzyskania poziomu HVN 29480. Brak danych o wektorach czasoprzestrzennych (V/A) w bieżącym strumie telemetrycznym uniemożliwia ocenę rezonansu.</p>
+<p>Układ w fazie walki o odzyskanie zapory HVN przy utrzymującej się presji wyprzedaży.</p>
 <h3>🌌 [2026-10-22 04:59]</h3>
 <p><strong>[TELEMETRIA - RAPORT TAKTYCZNY]</strong></p>
 <p><strong>Sonda NQ:</strong> Cena 29684.75 (Delta: -1.07%).<br />

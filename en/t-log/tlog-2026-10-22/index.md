@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 04:59
+Date: 2026-10-22 05:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 05:29]</h3>
+<p>Session mode: the futures session. Active object: the NQ Probe.</p>
+<p>The NQ Probe is currently at level 29673.50 (-1.11%). Volume events were recorded in the US100 ecosystem: at 05:05 the HVN support at level 29480 was broken, after which at 05:21 this barrier was captured (breakout upwards).</p>
+<p>The direction vector (Q-Score) is -50. The fuel pressure (CVD) for the NQ Probe is -11.15K, which classifies the system state as a sell-off. ADR is currently 65.33%. In the Dyson Sphere (QQQ options), IV volatility was recorded at 21.41% with a Put/Call Ratio of 1.05.</p>
+<p>The current state of the system is characterized by negative kinetics with a simultaneous attempt to recover the HVN level 29480. The lack of data on spacetime vectors (V/A) in the current telemetry stream makes it impossible to assess resonance.</p>
+<p>The system is in a phase of fighting to recover the HVN barrier under sustained sell-off pressure.</p>
 <h3>🌌 [2026-10-22 04:59]</h3>
 <p><strong>[TELEMETRY - TACTICAL REPORT]</strong></p>
 <p><strong>the NQ Probe:</strong> Price 29684.75 (Delta: -1.07%).<br />
