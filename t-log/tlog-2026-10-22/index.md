@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 17:29
+Data: 2026-10-22 17:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 17:44]</h3>
+<p>[T-LOG: 2026-10-22 17:44]</p>
+<p><strong>STATUS UKŁADU: SPOT</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29279.75, rejestrując wyprzedaż (CVD: -35.48K) przy ADR powyżej średniej (145.47%). Satelita QQQ potwierdza stan wyprzedaży (CVD: -1.35M), a w Sferze Dysona Put/Call Ratio wynosi 1.02, co wskazuje na zbliżoną asymetrię wolumenu opcji. Promieniowanie Tła (TICKQ) oscyluje na poziomie -78.00, co oznacza wyprzedaż, przy czym Średnia Radiacja (SMA200: -43.03) utrzymuje status wyprzedaży (BELOW). Wektor kierunkowy Q-Score wynosi -17. Zmienność (IV) wynosi 25.03% przy oczekiwanym zasięgu 700.92–718.77. Występuje rozwarstwienie układu: podczas gdy Gwiazda NDX wykazuje śladowy test popytu, Sonda i Satelita znajdują się w fazie wyprzedaży, co generuje grawitacyjne napięcie między instrumentami.</p>
+<p><strong>DIAGNOZA: Rozwarstwienie wektorów z dominacją wyprzedaży na Słabych Wektorach (NQ/QQQ).</strong></p>
+<p>Log: 2026-10-22 17:44</p>
 <h3>🌌 [2026-10-22 17:29]</h3>
 <p><strong>[T-LOG: 2026-10-22 17:29]</strong></p>
 <p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>

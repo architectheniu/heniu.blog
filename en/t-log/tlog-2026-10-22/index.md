@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 17:30
+Date: 2026-10-22 17:44
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 17:44]</h3>
+<p>[T-LOG: 2026-10-22 17:44]</p>
+<p><strong>SYSTEM STATUS: SPOT</strong></p>
+<p>the NQ Probe is at level 29279.75, recording a sell-off (CVD: -35.48K) with ADR above average (145.47%). The QQQ satellite confirms a sell-off state (CVD: -1.35M), and in the Dyson Sphere (QQQ) the Put/Call Ratio is 1.02, indicating similar option volume asymmetry. Background Radiation (TICKQ) oscillates at -78.00, which means a sell-off, while the Average Radiation (SMA200: -43.03) maintains a sell-off status (BELOW). The Q-Score directional vector is -17. Volatility (IV) is 25.03% with an expected range of 700.92–718.77. System stratification is occurring: while the NDX Star shows a trace demand test, the Probe and Satellite are in a sell-off phase, generating gravitational tension between instruments.</p>
+<p><strong>DIAGNOSIS: Vector stratification with sell-off dominance on Weak Vectors (NQ/QQQ).</strong></p>
+<p>Log: 2026-10-22 17:44</p>
 <h3>🌌 [2026-10-22 17:29]</h3>
 <p><strong>[T-LOG: 2026-10-22 17:29]</strong></p>
 <p><strong>STATUS: SPOT | MODE: FULL</strong></p>
