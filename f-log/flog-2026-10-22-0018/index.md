@@ -1,0 +1,23 @@
+# Fundamenty #0018: Honeywell International: wyniki za 3Q2026
+
+Data: 2026-10-22 18:38
+Adres: https://heniu.blog/f-log/flog-2026-10-22-0018/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody Honeywell International (HON) w III kwartale wyniosły 4,99 mld USD (+1,3% r/r).
+
+### Wyniki kwartału
+
+Marża operacyjna ukształtowała się na poziomie 14,8% (6,4 pp r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów (FY 2026) w przedziale 20,00 mld USD – 20,10 mld USD, natomiast w Q4 2026 prognozuje wzrost przychodów organicznych na poziomie 5,0% – 6,0%.
+
+### Co mówi zarząd
+
+Zarząd wyraził dużą pewność co do dalszej poprawy sprzedaży oraz marży w segmencie automatyki przemysłowej ze względu na szybką poprawę fundamentów tego biznesu. Według zarządu aktywność projektowa w obszarze automatyki procesowej i technologii pozostaje bardzo silna oraz zróżnicowana. Zarząd podkreślał, że przejęcia stanowią dla spółki opcję, a kluczowym kierunkiem rozwoju byłaby rozbudowa oferty w zakresie pomiarów i czujników. Według zarządu utrzymanie podwyżek cen wymaga zapewnienia dobrej obsługi klienta oraz stałego wprowadzania nowych produktów. Zarząd wskazał, że zakładane na koniec roku spowolnienie wzrostu organicznego wynika z ostrożności, podczas gdy zamówienia o krótkim cyklu są bardzo silne. Zarząd podkreślał również wdrażanie sztucznej inteligencji, informując, że wszystkie zespoły zostały już przeszkolone lub są w trakcie szkolenia.
+

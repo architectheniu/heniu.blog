@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0018: Honeywell International: resultados do 3Q2026
+
+Data: 2026-10-22 18:39
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-22-0018/
+
+
+A receita da Honeywell International (HON) no terceiro trimestre foi de 4,99 bi USD (+1,3% a/a).
+
+### Resultados do trimestre
+
+A margem operacional situou-se em 14,8% (6,4 p.p. a/a).
+
+### Projeção da empresa
+
+A empresa espera receitas (FY 2026) na faixa de 20,00 bi USD – 20,10 bi USD, enquanto no Q4 2026 projeta um crescimento de receita orgânica de 5,0% – 6,0%.
+
+### O que diz a administração
+
+A administração expressou grande confiança na continuidade da melhoria das vendas e da margem no segmento de automação industrial devido à rápida melhoria dos fundamentos deste negócio. De acordo com a administração, a atividade de projetos nas áreas de automação de processos e tecnologia permanece muito forte e diversificada. A administração enfatizou que as aquisições representam uma opção para a empresa, e que a principal direção de desenvolvimento seria a expansão da oferta em medições e sensores. Segundo a administração, manter os aumentos de preços exige garantir um bom atendimento ao cliente e a introdução constante de novos produtos. A administração indicou que a desaceleração esperada no crescimento orgânico para o final do ano deve-se à cautela, enquanto os pedidos de ciclo curto são muito fortes. A administração também enfatizou a implementação da inteligência artificial, informando que todas as equipes já foram treinadas ou estão em processo de treinamento.
+
+
+---
+
 ## Fundamentos #0017: Texas Instruments: resultados do 3Q2026
 
 Data: 2026-10-22 11:33
@@ -1331,99 +1354,6 @@ No setor de Classe 0, registrou-se um colapso na composição do Núcleo – o A
 
 **Veredito Quântico:**
 O sistema encontra-se em um estado de alta divergência; o brilho de preços é contraditório com a termodinâmica dos fluxos de combustível. Risco de uma recalibração abrupta do curso em caso de queda contínua do CVD.
-
-**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
-
-**Fim do registro.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
-
-
----
-
-## Log #0197: Deslocamento de fase: Colisão de energia e divergência de radiação
-
-Data: 2026-10-08 22:04
-Endereço: https://heniu.blog/pt-br/posts/log-0197/
-
-
-> ⚠️ **ERRATA (2026-10-11)**  
-> **Sem dados da sessão. Impotência declarada: neste dia o Heniu não viu a galáxia.** Na quinta-feira, 8/10, nenhuma leitura da composição e da capitalização das empresas do NDX chegou ao Heniu a partir do site da Nasdaq. O relatório preencheu a lacuna com a última leitura de quarta-feira, 7/10, e a identificou como quinta-feira. O site da Nasdaq publicou dados corretos. O que falhou foi a conexão que os leva até o Heniu.
->
-> **Retirado desta entrada (8/10: sem dados):**
-> - T-Mass do Sistema 44.07 Trilhões de USD e Delta de Sessão −0.08: valores de quarta-feira. Nesse dia a Estrela NDX caiu 1,39%.
-> - Densidade do Núcleo 71.04% (Delta +0.14%) e Ação Média $304.27 (Delta +$12.88).
-> - A frase sobre a composição estável do Núcleo no resumo, o ponto 3 do diário ("Estabilidade gravitacional e massa do sistema") e a parte do Veredito sobre a estabilidade do Núcleo. Composição do Núcleo em 8/10: sem dados.
->
-> Preços, CVD e ADR da Estrela NDX, da Sonda NQ e da Esfera de Dyson (QQQ), o TICKQ e os dados de opções vêm de outras fontes e continuam válidos.
-
-**Stardate:** 2026.10.08
-**Status dos Sistemas:** Observação Externa
-**Setor:** Bandas Internas de Volatilidade
-
----
-
-### Telemetria de Fechamento
-
-> *a Estrela Central e a Sonda NQ estão passando por um rápido dreno de combustível, enquanto o mercado amplo emite uma radiação positiva anormalmente forte. O sistema encontra-se em um estado de alta entropia com uma composição estável do Núcleo.*
-
-* **Scanner Subespacial (Distribuição de Massa):**
-    * *T-Mass do Sistema:* **44.07 Trilhões de USD**
-    * *Delta de Sessão (24h):* **-0.08 Trilhões de USD**
-    * *Densidade do Núcleo (Heavy Nine):* **71.04%** (Delta: **+0.14%**)
-    * *Ação Média (Temperatura da Periferia):* **$304.27** (Delta: **+$12.88**)
-
-* **a Estrela NDX (Sol):** Fechamento: **30728.98 (-1.39%)**
-    * *Vetor (CVD):* **−190,25 M [panico]**
-    * *Anomalia MOC:* **-18,88 M**
-    * *Consumo de Alcance (ADR Util):* **185.98%**
-
-* **a Sonda NQ (Mercúrio):** Fechamento: **30996.75 (-1.29%)**
-    * *Vetor (CVD):* **−41,22 K [colapso do mercado]**
-    * *Consumo de Alcance (ADR Util):* **145.53%**
-
-* **a Esfera de Dyson (QQQ):** Fechamento: **747.57 (-1.34%)**
-    * *Vetor de População:* **−1,51 M [liquidação]**
-    * *Consumo de Alcance (ADR Util):* **182.59%**
-
-* **a Radiação de Fundo (TICKQ) 339.00 [disparo do mercado]:**
-    * *SMA200:* **-27.94 [liquidação]**
-
-* **Estrutura Gravitacional (Opções):**
-    * *Implied Volatility (IV):* **18.89%%**
-    * *Put/Call OI:* **1.47**
-
----
-
-### Diário de Bordo: Relatório diário de observação do sistema
-
-**1. Dreno de energia no centro de massa**
-a Estrela NDX registrou uma queda de 1,39%, e seu fluxo de energia (CVD) atingiu o nível de -190,25M, o que classifica o estado como pânico. a Sonda NQ segue este movimento com uma mudança negativa de 1,29% e pressão de combustível no nível de -41,22K, o que significa um colapso do mercado na camada de contratos de futuros. a Esfera de Dyson (QQQ) mostra uma liquidação no nível de -1,51M (CVD), o que confirma a desestabilização da estrutura orbital.
-
-**2. Radiação anômala do mercado amplo**
-Foi registrada uma forte divergência entre a mecânica dos principais objetos e a radiação de fundo. TICKQ indica um disparo do mercado (339.00), o que contraria a tendência de queda da NDX e NQ. Simultaneamente, a radiação média (SMA200) mantém-se na zona de liquidação (-27.94), sugerindo que o impulso do mercado amplo é uma perturbação momentânea no contexto mais amplo da tendência de queda.
-
-**3. Estabilidade gravitacional e massa do sistema**
-Apesar das rápidas flutuações de preço e da queda de energia, a massa do sistema (T-Mass) permanece no nível de 44.07 Trilhões de USD. O Monitor do Núcleo não detectou nenhuma anomalia – não houve flutuação na composição de objetos de classe 0, o que significa que, apesar do pânico nos fluxos, os fundamentos gravitacionais das maiores singularidades permanecem intactos.
-
-**Veredito Quântico:**
-O sistema encontra-se em um estado de forte divergência entre o dreno de combustível no centro (NDX/NQ) e o salto anômalo da radiação do mercado amplo (TICKQ). A mecânica dos fluxos indica pânico, mas a estabilidade do Núcleo evita o colapso de toda a estrutura.
 
 **Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
 

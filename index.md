@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0018: Honeywell International: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0018/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [H1: 2026-10-22](https://heniu.blog/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [Fundamenty #0017: Texas Instruments: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0017/index.md) (2026-10-22)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [M15: 2026-10-09](https://heniu.blog/t-log/tlog-2026-10-09/index.md) (2026-10-09)
 - [H1: 2026-10-09](https://heniu.blog/h-log/hlog-2026-10-09/index.md) (2026-10-09)
 - [Log #0198: Paradoks Osobliwości: Rozdźwięk między Jasnością a Paliwem](https://heniu.blog/posts/log-0198/index.md) (2026-10-09)
-- [M15: 2026-10-08](https://heniu.blog/t-log/tlog-2026-10-08/index.md) (2026-10-08)
 

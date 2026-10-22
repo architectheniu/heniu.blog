@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0018: Honeywell International: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-22-0018/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/en/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [H1: 2026-10-22](https://heniu.blog/en/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [Fundamentals #0017: Texas Instruments: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-22-0017/index.md) (2026-10-22)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [H1: 2026-10-09](https://heniu.blog/en/h-log/hlog-2026-10-09/index.md) (2026-10-09)
 - [Log #0198: Singularity Paradox: Discrepancy between Clarity and Fuel](https://heniu.blog/en/posts/log-0198/index.md) (2026-10-09)
 - [M15: 2026-10-08](https://heniu.blog/en/t-log/tlog-2026-10-08/index.md) (2026-10-08)
-- [H1: 2026-10-08](https://heniu.blog/en/h-log/hlog-2026-10-08/index.md) (2026-10-08)
 
