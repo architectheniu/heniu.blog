@@ -2,7 +2,7 @@
 <html lang="{{ $.Site.Language }}">
 <head>
   {{ block "title" . }}
-    <title>{{ if .IsHome }}{{ $.Site.Title }}{{ with $.Site.Params.tytulStrony }} — {{ . }}{{ end }}{{ else }}{{ with .Params.tytul_seo }}{{ . }}{{ else }}{{ .Title }}{{ end }} :: {{ $.Site.Title }}{{ end }}</title>
+    <title>{{ if .IsHome }}{{ $.Site.Title }}{{ with $.Site.Params.tytulStrony }} — {{ . }}{{ end }}{{ else }}{{ with .Params.naglowek }}{{ . }}{{ else }}{{ partial "tytul-wpisu.html" (dict "strona" . "seo" true) }}{{ end }} :: {{ $.Site.Title }}{{ end }}</title>
   {{ end }}
   {{ partial "head.html" . }}
 

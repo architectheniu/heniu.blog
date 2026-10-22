@@ -2,8 +2,10 @@
      Wzór z 22.10.2026 (decyzja Architekta, wersja B): grafika banera przyciemniona po lewej, na górze nazwa sekcji
      i heniu.blog, pod nią duży tytuł w języku wpisu (do 4 wierszy). Dolny pas zostaje pusty, bo X kładzie tam swój
      napis. Bez awatara. Bez liczb i bez nazw źródeł: numer wpisu, daty i wszystkie słowa z cyframi są usuwane
-     z tytułu. Zwraca pełny adres obrazka. */}}
-{{- $tytul := .Title -}}
+     z tytułu (nie z nazwy sekcji: M15 i H1 mają cyfry z założenia). Tytuł bierzemy z partialu tytul-wpisu.html
+     (nowe nazwy sekcji, 22.10.2026). Gdy po usunięciu prefiksu, numeru i daty nic nie zostaje (M15, H1), karta
+     pokazuje opis z nagłówka sekcji: część po dwukropku, wielką literą. Zwraca pełny adres obrazka. */}}
+{{- $tytul := partial "tytul-wpisu.html" . -}}
 {{- $tytul = replaceRE `^[A-Za-z]-Log\s*#?\d*\s*:\s*` "" $tytul -}}
 {{- $tytul = replaceRE `^[^:#]{1,30}#\d+\s*:\s*` "" $tytul -}}
 {{- $tytul = replaceRE `\S*\d\S*` "" $tytul -}}
@@ -13,11 +15,14 @@
 {{- $tytul = replaceRE `\s+(za|w|z|na|do|od|for|of|in|from|no|em|de|da|dos|das)$` "" $tytul -}}
 {{- $tytul = replaceRE `[\s:;,.–—-]+$` "" $tytul -}}
 {{- $tytul = strings.TrimSpace $tytul -}}
+{{- if eq $tytul "" -}}
+  {{- with .CurrentSection.Params.naglowek -}}{{- $tytul = strings.FirstUpper (replaceRE `^[^:]*:\s*` "" .) -}}{{- end -}}
+{{- end -}}
 {{- if eq $tytul "" -}}{{- $tytul = site.Title -}}{{- end -}}
 {{- if gt (len (split $tytul "")) 110 -}}{{- $tytul = printf "%s…" (strings.TrimSpace (substr $tytul 0 108)) -}}{{- end -}}
 {{- $sekcja := "" -}}
 {{- with .CurrentSection -}}{{- if not .IsHome -}}{{- $sekcja = .Title -}}{{- end -}}{{- end -}}
-{{- $sekcja = strings.TrimSpace (replaceRE `\S*\d\S*` "" $sekcja) -}}
+{{- $sekcja = strings.TrimSpace $sekcja -}}
 {{- $tlo := resources.Get "karty/tlo-baner.jpg" -}}
 {{- $kreska := resources.Get "karty/kreska.png" -}}
 {{- $gruba := resources.Get "karty/IBMPlexMono-Bold.ttf" -}}

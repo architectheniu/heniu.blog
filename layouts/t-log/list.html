@@ -6,7 +6,7 @@
         {{- else if eq .Language.Lang "pt-br" }}Acompanhe o diário via RSS
         {{- else }}Śledź dziennik przez RSS{{ end -}}
       </a></strong></p>
-      <h1>{{ .Title }}</h1>
+      <h1>{{ .Params.naglowek | default .Title }}</h1>
       <p style="color: #888; font-size: 0.9em;">
         {{- if eq .Language.Lang "en" -}}
         Full onboard telemetry — reports every 15 min in the Spot session and every 30 min in the Futures session.
@@ -23,14 +23,14 @@
           <li style="margin-bottom: 15px;">
               <span style="color: #ff9900;">[{{ .Date.Format "2006-01-02" }}]</span>
               <a href="{{ .Permalink }}" style="font-size: 1.1em; text-decoration: none; margin-left: 10px;">
-                  {{ .Title }}
+                  {{ partial "tytul-wpisu.html" . }}
               </a>
           </li>
           {{ end }}
       </ul>
       {{ partial "pagination.html" . }}
     {{ else }}
-      <h1>{{ .Title }}</h1>
+      <h1>{{ .Params.naglowek | default .Title }}</h1>
       <p>Brak wpisów w tej sekcji.</p>
     {{ end }}
 </div>

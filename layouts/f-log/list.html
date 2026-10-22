@@ -6,7 +6,7 @@
         {{- else if eq .Language.Lang "pt-br" }}Acompanhe o diário via RSS
         {{- else }}Śledź dziennik przez RSS{{ end -}}
       </a></strong></p>
-      <h1>{{ .Title }}</h1>
+      <h1>{{ .Params.naglowek | default .Title }}</h1>
       {{ with .Description }}<p style="opacity: 0.8;">{{ . }}</p>{{ end }}
 
       {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
@@ -15,16 +15,16 @@
           <li style="margin-bottom: 15px;">
               <span style="color: #ff9900;">[{{ .Date.Format "2006-01-02" }}]</span>
               <a href="{{ .Permalink }}" style="font-size: 1.1em; text-decoration: none; margin-left: 10px;">
-                  {{ .Title }}
+                  {{ partial "tytul-wpisu.html" . }}
               </a>
           </li>
           {{ end }}
       </ul>
       {{ partial "pagination.html" . }}
     {{ else }}
-      <h1>{{ .Title }}</h1>
+      <h1>{{ .Params.naglowek | default .Title }}</h1>
       {{ with .Description }}<p style="opacity: 0.8;">{{ . }}</p>{{ end }}
-      <p>{{ if eq .Language.Lang "en" }}No entries yet: an F-Log appears on days with closed company events.{{ else if eq .Language.Lang "pt-br" }}Ainda sem registros: o F-Log aparece nos dias com eventos encerrados.{{ else }}Jeszcze bez wpisów: F-Log powstaje w dni z zamkniętymi zdarzeniami spółek.{{ end }}</p>
+      <p>{{ if eq .Language.Lang "en" }}No entries yet: a Fundamentals entry appears on days with closed company events.{{ else if eq .Language.Lang "pt-br" }}Ainda sem registros: um registro de Fundamentos aparece nos dias com eventos encerrados.{{ else }}Jeszcze bez wpisów: wpis w sekcji Fundamenty powstaje w dni z zamkniętymi zdarzeniami spółek.{{ end }}</p>
     {{ end }}
 </div>
 {{ end }}

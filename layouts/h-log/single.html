@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="post">
   <h1 class="post-title">
-    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+    <a href="{{ .Permalink }}">{{ partial "tytul-wpisu.html" . | markdownify }}</a>
   </h1>
   <div class="post-meta">
     {{- if .Date -}}
@@ -21,9 +21,9 @@
       <!-- Password Prompt Form -->
       <div id="encrypted-lock" style="padding: 30px; border: 1px solid #333; border-radius: 5px; background: rgba(255, 215, 0, 0.02); text-align: center; margin: 20px 0;">
         <div style="font-size: 2.5rem; margin-bottom: 15px;">🔒</div>
-        <h3 style="color: #ffd700; margin-top: 0; font-family: monospace;">H-LOG: WPIS ZASZYFROWANY</h3>
+        <h3 style="color: #ffd700; margin-top: 0; font-family: monospace;">H1: WPIS ZASZYFROWANY</h3>
         <p style="font-size: 0.9em; color: #888; margin-bottom: 25px; max-width: 500px; margin-left: auto; margin-right: auto;">
-          Dostęp do klasycznego opisu wydarzeń rynkowych (H-Log) wymaga podania hasła.<br><br>
+          Dostęp do klasycznego opisu wydarzeń rynkowych (H1) wymaga podania hasła.<br><br>
           Hasło można uzyskać pisząc do mnie na Telegramie na <a href="https://t.me/heniublog" target="_blank" style="color: #ffd700; text-decoration: underline;">@heniublog</a>.
         </p>
         

@@ -1,0 +1,30 @@
+{{- /*
+  Tytuł wpisu do wyświetlenia (decyzja Architekta 22.10.2026). Nowa nazwa sekcji stoi w tytułach wszystkich wpisów,
+  także dawnych. Plików wpisów nie ruszamy, nazwę podmieniamy przy budowie strony:
+    T-Log: <data> - <dopisek>   ->  M15: <data>                 (dopisek po dacie znika)
+    H-Log: <data> - <dopisek>   ->  H1: <data>
+    F-Log #0014: <reszta>       ->  Fundamenty #0014: <reszta>  (EN: Fundamentals, PT-BR: Fundamentos)
+  Nową nazwę bierzemy z tytułu sekcji (pliki _index w katalogach sekcji), więc zmienia się w jednym miejscu. Tytuł, który ma już
+  nową nazwę, zostaje bez zmian, a wpisy innych sekcji dostają swój tytuł nietknięty.
+  Wywołanie: {{ partial "tytul-wpisu.html" . }}. Dla <title> strony:
+  {{ partial "tytul-wpisu.html" (dict "strona" . "seo" true) }}, wtedy pierwszeństwo ma .Params.tytul_seo
+  (też dostaje nową nazwę). Zwraca zwykły tekst; tam, gdzie tytuł jest Markdownem, dalej stoi | markdownify.
+*/ -}}
+{{- $strona := . -}}
+{{- $seo := false -}}
+{{- if reflect.IsMap . -}}{{- $strona = .strona -}}{{- $seo = .seo | default false -}}{{- end -}}
+{{- $tytul := $strona.Title -}}
+{{- if $seo -}}{{- with $strona.Params.tytul_seo -}}{{- $tytul = . -}}{{- end -}}{{- end -}}
+{{- if $strona.IsPage -}}
+  {{- $sekcja := lower $strona.Section -}}
+  {{- if in (slice "t-log" "h-log" "f-log") $sekcja -}}
+    {{- $nazwa := $strona.CurrentSection.Title -}}
+    {{- if eq $sekcja "f-log" -}}
+      {{- $tytul = replaceRE `^F-Log(\s*#\d+)?:` (printf "%s${1}:" $nazwa) $tytul -}}
+    {{- else -}}
+      {{- $stara := cond (eq $sekcja "t-log") "T-Log" "H-Log" -}}
+      {{- $tytul = replaceRE (printf `^%s:\s*(.*?)(?:\s+[-–—]\s+.*)?$` $stara) (printf "%s: ${1}" $nazwa) $tytul -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $tytul -}}

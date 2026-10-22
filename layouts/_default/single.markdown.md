@@ -1,5 +1,5 @@
 {{- $e := partial "heniu-ai-etykiety.html" . -}}
-# {{ .Title }}
+# {{ partial "tytul-wpisu.html" . }}
 
 {{ $e.data }}: {{ .Date.Format "2006-01-02 15:04" }}
 {{ $e.adres }}: {{ .Permalink }}
