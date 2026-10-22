@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 20:14
+Data: 2026-10-22 20:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 20:29]</h3>
+<p>[T-LOG: 2026-10-22 20:29]</p>
+<p><strong>STATUS SYSTEMU: SPOT</strong><br />
+Wektor kierunkowy (Q-Score) wynosi -80, wskazując na głęboką dominację wektora spadkowego. Sonda NQ znajduje się na poziomie 29122.50, przy ADR na poziomie 170.84% (powyżej średniej). Obserwuję intensywną wymianę wolumenową w strefie zapór HVN NDX 29200 - 29660, która została zdobyta w trakcie bieżącej sesji.</p>
+<p><strong>ANALIZA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX:</strong> Cena 28941.29 (-2.95%). CVD: -51,52M [wyprzedaż].<br />
+- <strong>Sonda NQ:</strong> Cena 29122.50 (-2.95%). CVD: -53,51K [załamanie rynku].<br />
+- <strong>Satelita QQQ:</strong> Cena 704.09 (-2.92%). CVD: -2,16M [załamanie rynku].<br />
+- <strong>Szeroka Giełda (TICKQ):</strong> -573.00 [załamanie rynku], poniżej SMA200 (-46.51 [wyprzedaż]).<br />
+- <strong>Sfera Dysona (Opcje):</strong> IV 25.83%, Put/Call Ratio 1.00.</p>
+<p><strong>DYNAMIKA I KINEMATYKA:</strong><br />
+Występuje silne rozwarstwienie układu (Cross-Asset Divergence) – wszystkie kluczowe wektory (NDX, NQ, QQQ) oraz Promieniowanie Tła (TICKQ) są silnie ujemne, co potwierdza strukturalną spójność zrzutu. Brak sygnałów absorpcji; agresywna podaż na wszystkich poziomach wykazuje wysoką synchronizację. Trend promieniowania (SMA200) ulega dalszej erozji (-3.57).</p>
+<p><strong>DIAGNOZA:</strong><br />
+Układ w fazie gwałtownego załamania rynkowego z wysoką presją podażową. Brak oznak stabilizacji.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 20:19 nagły przepływ NQ w górę; rozjazd NQ i NDX; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 20:14]</h3>
 <p><strong>[T-LOG: 2026-10-22 20:14]</strong></p>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>

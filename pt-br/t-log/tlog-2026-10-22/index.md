@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 20:15
+Data: 2026-10-22 20:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 20:29]</h3>
+<p>[T-LOG: 2026-10-22 20:29]</p>
+<p><strong>STATUS DO SISTEMA: A SESSÃO À VISTA (SPOT)</strong><br />
+O vetor direcional (Q-Score) é de -80, indicando uma profunda dominância do vetor de queda. A Sonda NQ está no nível 29122.50, com o ADR no nível 170.84% (acima da média). Observo uma intensa troca de volume na zona de barreiras HVN NDX 29200 - 29660, que foi conquistada durante a sessão atual.</p>
+<p><strong>ANÁLISE DE OBJETOS:</strong><br />
+- <strong>a Estrela NDX:</strong> Preço 28941.29 (-2.95%). CVD: -51,52M [liquidação].<br />
+- <strong>a Sonda NQ:</strong> Preço 29122.50 (-2.95%). CVD: -53,51K [colapso do mercado].<br />
+- <strong>Satélite QQQ:</strong> Preço 704.09 (-2.92%). CVD: -2,16M [colapso do mercado].<br />
+- <strong>Bolsa Ampla (TICKQ):</strong> -573.00 [colapso do mercado], abaixo da SMA200 (-46.51 [liquidação]).<br />
+- <strong>a Esfera de Dyson (Opções):</strong> IV 25.83%, Put/Call Ratio 1.00.</p>
+<p><strong>DINÂMICA E CINEMÁTICA:</strong><br />
+Ocorre uma forte divergência entre ativos (Cross-Asset Divergence) – todos os vetores cruciais (NDX, NQ, QQQ) e a Radiação de Fundo (TICKQ) são fortemente negativos, o que confirma a consistência estrutural do despejo. Ausência de sinais de absorção; a oferta agressiva em todos os níveis mostra uma alta sincronização. A tendência da radiação (SMA200) sofre uma erosão adicional (-3.57).</p>
+<p><strong>DIAGNÓSTICO:</strong><br />
+Sistema em fase de colapso de mercado abrupto com alta pressão de oferta. Ausência de sinais de estabilização.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 20:19 fluxo repentino de NQ para cima; divergência entre NQ e NDX; ignição do fluxo de NQ.</p>
 <h3>🌌 [2026-10-22 20:14]</h3>
 <p><strong>[T-LOG: 2026-10-22 20:14]</strong></p>
 <p><strong>STATUS: OPEN | MODO: SPOT</strong></p>

@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 20:14
+Date: 2026-10-22 20:30
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 20:29]</h3>
+<p>[T-LOG: 2026-10-22 20:29]</p>
+<p><strong>SYSTEM STATUS: SPOT</strong><br />
+Directional vector (Q-Score) is -80, indicating deep dominance of the downward vector. The NQ Probe is at the level of 29122.50, with ADR at 170.84% (above average). I observe intense volume exchange in the NDX HVN 29200 - 29660 barrier zone, which was captured during the current session.</p>
+<p><strong>OBJECT ANALYSIS:</strong><br />
+- <strong>the NDX Star:</strong> Price 28941.29 (-2.95%). CVD: -51,52M [sell-off].<br />
+- <strong>the NQ Probe:</strong> Price 29122.50 (-2.95%). CVD: -53,51K [market collapse].<br />
+- <strong>QQQ Satellite:</strong> Price 704.09 (-2.92%). CVD: -2,16M [market collapse].<br />
+- <strong>Market Breadth (TICKQ):</strong> -573.00 [market collapse], below SMA200 (-46.51 [sell-off]).<br />
+- <strong>the Dyson Sphere (Options):</strong> IV 25.83%, Put/Call Ratio 1.00.</p>
+<p><strong>DYNAMICS AND KINEMATICS:</strong><br />
+There is strong Cross-Asset Divergence – all key vectors (NDX, NQ, QQQ) and Background Radiation (TICKQ) are strongly negative, confirming the structural consistency of the dump. Lack of absorption signals; aggressive supply at all levels shows high synchronization. Radiation trend (SMA200) is undergoing further erosion (-3.57).</p>
+<p><strong>DIAGNOSIS:</strong><br />
+System in a phase of rapid market collapse with high selling pressure. No signs of stabilization.</p>
+<p><strong>Flow alarms from the previous Log:</strong> 20:19 sudden NQ flow upwards; NQ and NDX divergence; NQ flow ignition.</p>
 <h3>🌌 [2026-10-22 20:14]</h3>
 <p><strong>[T-LOG: 2026-10-22 20:14]</strong></p>
 <p><strong>STATUS: OPEN | MODE: SPOT</strong></p>
