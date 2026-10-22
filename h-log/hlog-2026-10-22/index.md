@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Data: 2026-10-22 15:07
+Data: 2026-10-22 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.22</h1>
+<h3>📈 [2026-10-22 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Analiza przepływów i ceny:</strong> Indeks NDX odnotowuje spadek o 1.63% do poziomu 29333.32, przy czym skumulowany przepływ (CVD) na poziomie 34,76 M wskazuje na aktywną akumulację na rynku kasowym. Odnotowuje się jednak dywergencję względem kontraktów NQ (cena -1.65%, CVD -16,82 K) oraz ETF QQQ (cena -1.60%, CVD -261,78 K), gdzie przepływy wskazują na testowanie podaży. Zbiorczy wskaźnik kierunku przepływów wynosi -2, co oznacza lekką przewagę dystrybucji kapitału.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi -95.00, co przy średniej SMA200 na poziomie -48.06 potwierdza silną presję sprzedażową w szerokim rynku Nasdaq.</li>
+<li><strong>Rynek opcji:</strong> Zmienność implikowana (IV) wynosi 22.97%, a wskaźnik Put/Call Volume Ratio kształtuje się na poziomie 1.02, co sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na dalszą zmienność. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 706.18 do 722.67.</li>
+<li><strong>Kontekst techniczny:</strong> Bieżąca korekta od szczytu z 06.10 (31360.85) wynosi -6.47% (-2028 pkt). Jest to korekta o charakterze większym, głębsza niż 57% historycznych korekt w analizowanym okresie. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 29470–29490.</li>
+</ul>
+<p>Raport H-Log: 2026-10-22 16:07</p>
 <h3>📈 [2026-10-22 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
