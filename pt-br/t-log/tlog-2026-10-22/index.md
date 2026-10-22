@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 14:30
+Data: 2026-10-22 14:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 14:59]</h3>
+<p>[TELEMETRIA - MODO FUTUROS]</p>
+<p>a Sonda NQ: 29498.50 (-1.70%).<br />
+CVD NQ: -22,17K [wyprzedaż].<br />
+ADR NQ: 109.51% (acima da média).<br />
+Q-Score: -55 [Delta: +0.0].<br />
+a Esfera de Dyson (QQQ): IV 21.41%, Put/Call Ratio 1.05.</p>
+<p>Análise de estado: a Sonda NQ apresenta forte pressão de venda, o que é confirmado pela leitura negativa de CVD no nível de -22,17K, classificado como wyprzedaż. O vetor Q-Score permanece estável no nível de -55, não mostrando mudança de direção na última medição. A volatilidade na Esfera de Dyson (IV) mantém-se no nível de 21.41%, com a assimetria de volume de opções (Put/Call 1.05) indicando um peso semelhante entre contratos de proteção e direcionais. Os objetos NDX, QQQ e TICKQ permanecem em estado de dormência devido ao fechamento da a sessão à vista (Spot).</p>
+<p>Sistema em fase de wyprzedaż agressiva dentro da sessão de futuros.</p>
 <h3>🌌 [2026-10-22 14:29]</h3>
 <p>[TELEMETRIA - MODO FUTUROS]<br />
 a Sonda NQ: 29540.75 (Delta de Preço: -1.56%)<br />

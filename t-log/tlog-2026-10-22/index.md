@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 14:29
+Data: 2026-10-22 14:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 14:59]</h3>
+<p>[TELEMETRIA - TRYB FUTURES]</p>
+<p>Sonda NQ: 29498.50 (-1.70%).<br />
+CVD NQ: -22,17K [wyprzedaż].<br />
+ADR NQ: 109.51% (powyżej średniej).<br />
+Q-Score: -55 [Delta: +0.0].<br />
+Sfera Dysona (QQQ): IV 21.41%, Put/Call Ratio 1.05.</p>
+<p>Analiza stanu: Sonda NQ wykazuje silną presję podażową, co potwierdza ujemny odczyt CVD na poziomie -22,17K, klasyfikowany jako wyprzedaż. Wektor Q-Score pozostaje stabilny na poziomie -55, nie wykazując zmiany kierunkowej w ostatnim pomiarze. Zmienność w Sferze Dysona (IV) utrzymuje się na poziomie 21.41%, przy asymetrii wolumenu opcji (Put/Call 1.05) wskazującej na zbliżoną wagę kontraktów zabezpieczających i kierunkowych. Obiekty NDX, QQQ oraz TICKQ pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej.</p>
+<p>Układ w fazie agresywnej wyprzedaży wewnątrz sesji Futures.</p>
 <h3>🌌 [2026-10-22 14:29]</h3>
 <p>[TELEMETRIA - TRYB FUTURES]<br />
 Sonda NQ: 29540.75 (Delta Ceny: -1.56%)<br />
