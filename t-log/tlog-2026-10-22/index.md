@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 17:59
+Data: 2026-10-22 18:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 18:14]</h3>
+<p>[T-LOG: 2026-10-22 18:14]</p>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p>Układ znajduje się w fazie gwałtownej dekompresji. Sonda NQ (29349.00) wykazuje silną wyprzedaż (CVD: -31.96k), co koreluje z ekstremalną presją podażową na Gwiazda NDX (CVD: 13.87M), gdzie mimo etykiety testu popytu, cena spadła o 2.18%. Satelita QQQ potwierdza ten wektor, generując wyprzedaż (CVD: -1.31M). Odnotowano powstanie potężnych stref oporu w ekosystemie US100: intensywna wymiana w strefie 29200 - 29320 (NDX) została właśnie przebita w górę, jednak cena SONDY NQ (29349.00) pozostaje poniżej najbliższego węzła wolumenu z pamięci (29470–29490). Szeroka Giełda Nasdaq (TICKQ) raportuje stan wyprzedaży (-83.00), znajdując się znacząco poniżej swojej średniej SMA200 (-43.70), co wskazuje na rozszerzenie negatywnej radiacji. Wektor kierunkowy Q-Score wynosi -35, potwierdzając dominację wektora spadkowego. Sfera Dysona wykazuje niemal całkowitą równowagę wolumenu Put/Call (0.98) przy IV na poziomie 24.74%. Średnia Akcja: [BRAK_DANYCH_W_TELEMETRII].</p>
+<p><strong>DIAGNOZA: Rozwarstwienie układu z dominacją wektora wyprzedaży; asymetria między testem popytu na NDX a realną agresją podażową na NQ i QQQ.</strong></p>
+<p>Log: 2026-10-22 18:14</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 18:08 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 17:59]</h3>
 <p><strong>[STATUS: SPOT]</strong><br />
 Układ znajduje się w fazie grawitacyjnego napięcia i rozwarstwienia wektorów. Gwiazda NDX wykazuje test popytu (CVD: 15,58M), podczas gdy Sonda NQ (29330.25) oraz Satelita QQQ (709.10) generują silną wyprzedaż (CVD NQ: -33,58K | CVD QQQ: -1,41M). Średnia cena akcji w koszyku wynosi 0,50 USD (+0,50 USD), co wskazuje na rozszerzanie się struktury mimo spadku indeksu głównego. Szeroka Giełda Nasdaq (TICKQ) wykazuje akumulację na poziomie 169.00, utrzymując się powyżej średniej radiacji SMA200 (-43.21), co potwierdza asymetrię między agresją na kontraktach a szerokością rynku. W Sferze Dysona obserwuje się asymetrię wolumenu Put/Call na poziomie 0.99 przy zmienności IV 24.68%. Wektor rynkowy Q-Score wynosi -27.</p>
