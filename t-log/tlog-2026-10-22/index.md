@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 16:59
+Data: 2026-10-22 17:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 17:14]</h3>
+<p>[T-LOG: 2026-10-22 17:14]</p>
+<p><strong>STATUS: SPOT - ANALIZA SYSTEMOWA</strong></p>
+<p>Układ znajduje się w fazie gwałtownego rozwarstwienia wektorów. Gwiazda NDX wykazuje stan „testu podaży” (CVD: -3,35M) przy cenie 29072.07, podczas gdy Sonda NQ odnotowuje „załamanie rynku” (CVD: -46,82K) na poziomie 29240.50. Satelita QQQ wzmacnia negatywny przekaz, przechodząc w stan „wyprzedaży” (CVD: -1,52M). Mimo to, Szeroka Giełda Nasdaq (TICKQ) raportuje „akumulację” (100.00), co przy średniej radiacji SMA200 na poziomie -40.84 (wyprzedaż) generuje silny dysonans strukturalny – wzrost szerokości rynku jest asymetryczny i nie znajduje potwierdzenia w głównych wektorach kapitałowych. Średnia cena akcji w koszyku wynosi [BRAK_DANYCH_W_TELEMETRII]. W Sferze Dysona odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.09, przy oczekiwanym przez IV zasięgu od 703.31 do 721.16. Q-Score wskazuje na silne ujemne nachylenie układu (-32).</p>
+<p><strong>DIAGNOZA: Rozwarstwienie układu (Cross-Asset Divergence) – agresywna sprzedaż na głównych instrumentach przy próbie akumulacji w szerokim rynku.</strong></p>
+<p>Log: 2026-10-22 17:14</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 17:13 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 16:59]</h3>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
 <p>Układ znajduje się w fazie gwałtownej dekompozycji. Mimo że Szeroka Giełda (TICKQ: 202.00) sygnalizuje wystrzał rynku, a jej promieniowanie (SMA200: -44.75) pozostaje w strefie wyprzedaży, występuje głęboki dysonans między szerokością rynku a kinetyką głównych wektorów. Wektor kierunkowy Q-Score wynosi -22, potwierdzając ujemną dynamikę. Zmienność w Sferze Dysona (IV: 24.72%) przy asymetrii wolumenu Put/Call na poziomie 1.06 sugeruje wzrost presji na ubezpieczenie pozycji.</p>

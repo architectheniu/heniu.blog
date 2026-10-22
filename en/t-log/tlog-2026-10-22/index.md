@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 16:59
+Date: 2026-10-22 17:14
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 17:14]</h3>
+<p>[T-LOG: 2026-10-22 17:14]</p>
+<p><strong>STATUS: SPOT - SYSTEMIC ANALYSIS</strong></p>
+<p>The System is in a phase of rapid vector stratification. The NDX Star shows a "supply test" state (CVD: -3.35M) at a price of 29072.07, while the NQ Probe records a "market breakdown" (CVD: -46.82K) at the 29240.50 level. The QQQ satellite reinforces the negative message, entering a "sell-off" state (CVD: -1.52M). Nevertheless, the Nasdaq Market Breadth (TICKQ) reports "accumulation" (100.00), which, given the SMA200 average radiation at -40.84 (sell-off), generates a strong structural dissonance – the increase in market breadth is asymmetric and finds no confirmation in the main capital vectors. The average stock price in the basket is [NO DATA IN TELEMETRY]. In the Dyson Sphere (QQQ), a volume asymmetry was noted with a Put/Call Ratio at the 1.09 level, with the IV expected range from 703.31 to 721.16. The Q-Score indicates a strong negative system tilt (-32).</p>
+<p><strong>DIAGNOSIS: Cross-Asset Divergence – aggressive selling on main instruments amidst an attempted accumulation in the broad market.</strong></p>
+<p>Log: 2026-10-22 17:14</p>
+<p><strong>Flow alarms from the previous Log:</strong> 17:13 sudden NQ flow upwards; NQ flow ignition.</p>
 <h3>🌌 [2026-10-22 16:59]</h3>
 <p><strong>STATUS: OPEN | MODE: SPOT</strong></p>
 <p>The System is in a phase of violent decomposition. Although Market breadth (TICKQ: 202.00) signals a market flare, and its Background Radiation (SMA200: -44.75) remains in the oversold zone, a deep dissonance exists between market breadth and the kinetics of the main vectors. The Q-Score directional vector is -22, confirming negative dynamics. Volatility in the Dyson Sphere (QQQ) (IV: 24.72%) with a Put/Call volume asymmetry at 1.06 suggests increasing pressure on position hedging.</p>
