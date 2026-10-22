@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Data: 2026-10-22 17:07
+Data: 2026-10-22 18:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.22</h1>
+<h3>📈 [2026-10-22 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Analiza przepływów i sentymentu:</strong> Rynek znajduje się w fazie dystrybucji. Wskaźnik kierunku przepływów wynosi -35, co potwierdza przewagę odpływu kapitału. Na rynku kasowym obserwujemy rozbieżność: mimo spadku indeksu NDX o -2.28% (cena 29142.68), skumulowany przepływ CVD dla NDX wynosi 15,54 M, co wskazuje na testowanie popytu. Jednocześnie kontrakty NQ (29320.00, -2.29%) oraz ETF QQQ (708.84, -2.25%) wykazują wyraźną wyprzedaż (CVD dla NQ: -33,56 K, CVD dla QQQ: -1,35 M). Szeroki rynek (TICKQ) znajduje się w strefie negatywnej przy wartości -44.00.</p>
+</li>
+<li>
+<p><strong>Rynek opcji:</strong> Zmienność implikowana (IV) wynosi 24.63%, przy wolumenie opcji na poziomie 4,518,535. Put/Call Volume Ratio na poziomie 0.98 sugeruje zbliżoną równowagę między popytem na ochronę (hedging) a pozycjami wzrostowymi, przy czym oczekiwany zasięg ruchu mieści się w przedziale 699.26 do 716.32 punktów.</p>
+</li>
+<li>
+<p><strong>Kontekst techniczny i korekta:</strong> Trwająca korekta od szczytu z 06.10 (31360.85) wynosi obecnie -7.07% (-2218 pkt). Na podstawie danych historycznych jest to korekta o charakterze większym niż 57% dotychczasowych ruchów korygujących. Najbliższy istotny opór znajduje się w węźle wolumenu w strefie 29470–29490.</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-10-22 18:07</p>
 <h3>📈 [2026-10-22 17:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
