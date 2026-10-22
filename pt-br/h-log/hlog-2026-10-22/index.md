@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Data: 2026-10-22 14:08
+Data: 2026-10-22 15:07
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.22 [PT-BR]</h1>
+<h3>📈 [2026-10-22 15:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A negociação ocorre em contratos futuros NQ, cujo preço é 29486.00 (-1.74%), com um fluxo acumulado (CVD) negativo no nível de -23,87 K, o que indica uma liquidação.</li>
+<li>O indicador de direção de fluxo é -65, o que significa uma clara vantagem de distribuição de capital no mercado.</li>
+<li>O Recuo desde o pico de 06.10 (31360.85) é de -4.91% (-1538 pts). Com base em dados históricos, esta é uma correção de caráter maior que a mediana e aproximando-se do percentil 80 de movimentos anteriores.</li>
+<li>Os dados de Opções sobre QQQ com volume de 11,110 e uma Put/Call Ratio de 0.96 indicam um equilíbrio próximo entre a demanda por proteção e instrumentos de compra, com o alcance de movimento esperado pelo mercado na faixa de 716.74 a 733.66.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-22 15:07</p>
 <h3>📈 [2026-10-22 14:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

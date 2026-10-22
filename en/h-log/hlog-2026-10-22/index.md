@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Date: 2026-10-22 14:08
+Date: 2026-10-22 15:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.22 [EN]</h1>
+<h3>📈 [2026-10-22 15:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Trading is occurring on NQ futures contracts, priced at 29486.00 (-1.74%), with negative cumulative flow (CVD) at -23,87 K, indicating a sell-off.</li>
+<li>The flow direction indicator is -65, which signifies a clear advantage of capital distribution in the market.</li>
+<li>The current drawdown from the peak of 06.10 (31360.85) is -4.91% (-1538 pts). Based on historical data, this is a correction of a greater-than-median character, approaching the 80. percentile of previous moves.</li>
+<li>Options on QQQ data with a volume of 11,110 and a Put/Call Ratio of 0.96 indicate an approximate balance between demand for protection and buying instruments, with the market expecting a movement range within the 716.74 to 733.66 interval.</li>
+</ul>
+<p>H-Log Report: 2026-10-22 15:07</p>
 <h3>📈 [2026-10-22 14:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
