@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Date: 2026-10-22 18:07
+Date: 2026-10-22 19:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,24 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.22 [EN]</h1>
+<h3>📈 [2026-10-22 19:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Flow and price analysis:</strong> The market is in a phase of strong distribution. The Nasdaq-100 index (NDX) fell by 2.77% to the level of 28995.33, with cumulative flow (CVD) at -26.9 M shares. A similar trend is visible in the NQ futures contract (29178.75; -2.76%; CVD -46.41 K) and in the QQQ ETF (705.43; -2.73%; CVD -2.07 M). The flow direction indicator is -60, confirming the dominance of selling over demand. Market breadth (TICKQ) shows strong downward pressure at -304.00, which deviates significantly from the SMA200 average (-42.83).</p>
+</li>
+<li>
+<p><strong>Correction context:</strong> The current drawdown from Heniu's peak on 06.10 (31360.85) is -7.54% (-2366 pts). Based on historical data, this is a deeper move than 57% of previous corrections, which classifies the current situation as a larger market correction.</p>
+</li>
+<li>
+<p><strong>Technical levels:</strong> The nearest resistance zone (volume node) is located in the 29470–29490 range. The distance of the price from this level has increased due to the ongoing decline.</p>
+</li>
+<li>
+<p><strong>Options market:</strong> Implied volatility (IV) is 24.64%, and the Put/Call Ratio at 0.97 suggests a similar balance between hedges and long positions, with options volume amounting to 5 597 177 contracts. The market-expected price range for QQQ is between 701.42 and 717.60.</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-10-22 19:07</p>
 <h3>📈 [2026-10-22 18:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>

@@ -6,10 +6,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-10-22](https://heniu.blog/pt-br/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/pt-br/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [Fundamentos #0019: Roper Technologies: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0019/index.md) (2026-10-22)
 - [Fundamentos #0018: Honeywell International: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0018/index.md) (2026-10-22)
-- [H1: 2026-10-22](https://heniu.blog/pt-br/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [Fundamentos #0017: Texas Instruments: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0017/index.md) (2026-10-22)
 - [Fundamentos #0016: Tesla: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0016/index.md) (2026-10-22)
 - [Fundamentos #0015: Lam Research: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0015/index.md) (2026-10-22)

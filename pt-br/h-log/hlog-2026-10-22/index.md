@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Data: 2026-10-22 18:08
+Data: 2026-10-22 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,24 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.22 [PT-BR]</h1>
+<h3>📈 [2026-10-22 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Análise de fluxos e preços:</strong> O mercado encontra-se em uma fase de forte distribuição. O Índice Nasdaq-100 (NDX) caiu 2,77% para o nível 28995,33, com o fluxo acumulado (CVD) em -26,9 M de ações. Uma tendência semelhante é vista nos contratos NQ (29178,75; -2,76%; CVD -46,41 K) e no ETF QQQ (705,43; -2,73%; CVD -2,07 M). O indicador de direção de fluxo é de -60, o que confirma a dominância de vendas sobre a demanda. A Amplitude de mercado (TICKQ) mostra forte pressão de baixa no nível de -304,00, o que diverge significativamente da média SMA200 (-42,83).</p>
+</li>
+<li>
+<p><strong>Contexto de correção:</strong> O Recuo desde o pico do Heniu do dia 06.10 (31360,85) é de -7,54% (-2366 pts). Com base em dados históricos, este é um movimento mais profundo do que 57% das correções anteriores, o que classifica a situação atual como uma correção de mercado maior.</p>
+</li>
+<li>
+<p><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) encontra-se na faixa de 29470–29490. A distância do preço em relação a este nível aumentou devido à queda em curso.</p>
+</li>
+<li>
+<p><strong>Mercado de opções:</strong> A volatilidade implícita (IV) é de 24,64%, e o Put/Call Ratio no nível de 0,97 sugere um equilíbrio próximo entre coberturas e posições de alta, com o volume de opções em 5 597 177 contratos. A faixa de movimento esperada pelo mercado para o QQQ situa-se entre 701,42 e 717,60.</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-10-22 19:07</p>
 <h3>📈 [2026-10-22 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
