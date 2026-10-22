@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 20:30
+Date: 2026-10-22 20:44
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 20:44]</h3>
+<p><strong>[T-LOG: 2026-10-22 20:44]</strong></p>
+<p><strong>Status: Spot | Mode: Full cash activity</strong></p>
+<p>The system is in a state of violent decomposition. The NQ Probe (29112.25, -2,98%) confirms this state, generating a market collapse (CVD: -55,41K), while the QQQ Satellite (703.79, -2,95%) maintains a market collapse regime (CVD: -2,19M). Intense exchange was noted in the NDX barrier zone 29200 - 29660, where a massive overthrow of HVN support occurred.</p>
+<p>The direction vector (Q-Score) is strongly negative (-80), resonating with the negative dynamics of all instruments. Market breadth (TICKQ) is 27.00 [demand test], which, with the SMA200 average radiation at -44.10 [sell-off], indicates a stratification of the system: micro-supply outflows are an attempt to test local levels, but the macro-trend remains in a sell-off phase. Average Action: [NO_DATA_IN_TELEMETRY]. Volatility in the Dyson Sphere (QQQ) (IV) is 25.49%.</p>
+<p><strong>Diagnostics: System in a phase of violent supply realization with strong stratification of micro and macro vectors.</strong></p>
+<p><strong>Log: 2026-10-22 20:44</strong></p>
+<p><strong>Flow alarms from previous Log: 20:36 sudden NQ upward flow; NQ flow ignition.</strong></p>
 <h3>🌌 [2026-10-22 20:29]</h3>
 <p>[T-LOG: 2026-10-22 20:29]</p>
 <p><strong>SYSTEM STATUS: SPOT</strong><br />

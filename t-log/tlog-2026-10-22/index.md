@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 20:29
+Data: 2026-10-22 20:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 20:44]</h3>
+<p><strong>[T-LOG: 2026-10-22 20:44]</strong></p>
+<p><strong>Status: SPOT | Tryb: Pełna aktywność kasowa</strong></p>
+<p>System znajduje się w stanie gwałtownej dekompozycji. Sonda NQ (29112.25, -2,98%) potwierdza ten stan, generując załamanie rynku (CVD: -55,41K), podczas gdy Satelita QQQ (703.79, -2,95%) utrzymuje reżim załamania rynku (CVD: -2,19M). Odnotowano intensywną wymianę w strefie zapór NDX 29200 - 29660, gdzie nastąpiło masowe obalenie wsparcia HVN.</p>
+<p>Wektor kierunku (Q-Score) jest silnie ujemny (-80), co rezonuje z negatywną dynamiką wszystkich instrumentów. Szeroka Giełda (TICKQ) wynosi 27.00 [test popytu], co przy średniej radiacji SMA200 na poziomie -44.10 [wyprzedaż] wskazuje na rozwarstwienie układu: mikro-odpływy podaży są próbą testowania lokalnych poziomów, lecz makro-trend pozostaje w fazie wyprzedaży. Średnia Akcja: [BRAK_DANYCH_W_TELEMETRII]. Zmienność w Sferze Dysona (IV) wynosi 25.49%.</p>
+<p><strong>Diagnostyka: Układ w fazie gwałtownej realizacji podaży z silnym rozwarstwieniem wektorów mikro i makro.</strong></p>
+<p><strong>Log: 2026-10-22 20:44</strong></p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 20:36 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 20:29]</h3>
 <p>[T-LOG: 2026-10-22 20:29]</p>
 <p><strong>STATUS SYSTEMU: SPOT</strong><br />
