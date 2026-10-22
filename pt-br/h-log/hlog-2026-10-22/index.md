@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Data: 2026-10-22 21:08
+Data: 2026-10-22 23:10
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.22 [PT-BR]</h1>
+<h3>📈 [2026-10-22 fechamento]</h3>
+<p><strong>H-LOG: Resumo da sessão à vista (Spot)</strong></p>
+<p>Este é o resumo da sessão à vista (Spot) de 2026-10-22. O Índice Nasdaq-100 (NDX) fechou em 28962.86, o que representa uma mudança de -2.90%, com o fluxo acumulado (CVD) do NDX em 169,35 M, e o consumo de amplitude ADR para este índice foi de 148.45%. O Contrato futuro NQ e o ETF QQQ registraram quedas de -2.86%, encerrando a sessão nos níveis de 29147.75 e 704.56, respectivamente. Os indicadores CVD para NQ e QQQ foram de -31,45 K e -397,16 K, respectivamente, com o consumo de ADR para NQ em 182.48% e para QQQ em 146.43%. No fechamento, a Amplitude de mercado (TICKQ) foi de 54.00 com a SMA200 no nível de -43.11, e a Anomalia MOC foi de +32,03 M.</p>
+<p>Relatório H-Log: resumo da sessão 2026-10-22</p>
 <h3>📈 [2026-10-22 21:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
