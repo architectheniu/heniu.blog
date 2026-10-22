@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 17:44
+Data: 2026-10-22 17:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 17:59]</h3>
+<p><strong>[STATUS: SPOT]</strong><br />
+Układ znajduje się w fazie grawitacyjnego napięcia i rozwarstwienia wektorów. Gwiazda NDX wykazuje test popytu (CVD: 15,58M), podczas gdy Sonda NQ (29330.25) oraz Satelita QQQ (709.10) generują silną wyprzedaż (CVD NQ: -33,58K | CVD QQQ: -1,41M). Średnia cena akcji w koszyku wynosi 0,50 USD (+0,50 USD), co wskazuje na rozszerzanie się struktury mimo spadku indeksu głównego. Szeroka Giełda Nasdaq (TICKQ) wykazuje akumulację na poziomie 169.00, utrzymując się powyżej średniej radiacji SMA200 (-43.21), co potwierdza asymetrię między agresją na kontraktach a szerokością rynku. W Sferze Dysona obserwuje się asymetrię wolumenu Put/Call na poziomie 0.99 przy zmienności IV 24.68%. Wektor rynkowy Q-Score wynosi -27.</p>
+<p><strong>[DIAGNOSTYKA KINEMATYCZNA]</strong><br />
+Występuje zjawisko Rozwarstwienia Układu (Cross-Asset Divergence): pozytywna presja na poziomie Jądra (test popytu) jest całkowicie kontrowana przez ujemne wektory na Sonda NQ i Satelicie QQQ. Struktura jest "pusta"; wzrosty w średniej akcji nie znajdują odzwierciedlenia w kinetyce instrumentów pochodnych.</p>
+<p><strong>[KONKLUZJA]</strong><br />
+Dysonans wektorów i asymetria przepływów między Gwiazdą a Satelitą. Układ w fazie grawitacyjnego napięcia.</p>
 <h3>🌌 [2026-10-22 17:44]</h3>
 <p>[T-LOG: 2026-10-22 17:44]</p>
 <p><strong>STATUS UKŁADU: SPOT</strong></p>

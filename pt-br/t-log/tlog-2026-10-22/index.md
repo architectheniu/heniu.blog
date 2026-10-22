@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 17:45
+Data: 2026-10-22 17:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 17:59]</h3>
+<p><strong>[STATUS: À VISTA (SPOT)]</strong><br />
+O Sistema encontra-se em uma fase de tensão gravitacional e estratificação de vetores. A Estrela NDX apresenta um teste de demanda (CVD: 15,58M), enquanto a Sonda NQ (29330.25) e o Satélite QQQ (709.10) geram uma forte liquidação (CVD NQ: -33,58K | CVD QQQ: -1,41M). O preço médio das ações na cesta é de 0,50 USD (+0,50 USD), o que indica uma expansão da estrutura apesar da queda do índice principal. A Amplitude de mercado (TICKQ) mostra acumulação no nível 169.00, mantendo-se acima da média de radiação SMA200 (-43.21), o que confirma a assimetria entre a agressão nos contratos e a amplitude de mercado. Na Esfera de Dyson (QQQ), observa-se uma assimetria de volume Put/Call no nível 0.99 com volatilidade IV de 24.68%. O vetor de mercado Q-Score é -27.</p>
+<p><strong>[DIAGNÓSTICO CINEMÁTICO]</strong><br />
+Ocorre o fenômeno de Divergência de Ativos (Cross-Asset Divergence): a pressão positiva no nível do Núcleo (teste de demanda) é totalmente contrabalanceada por vetores negativos na Sonda NQ e no Satélite QQQ. A estrutura está "vazia"; os aumentos na média das ações não encontram reflexo na cinética dos derivativos.</p>
+<p><strong>[CONCLUSÃO]</strong><br />
+Dissonância de vetores e assimetria de fluxos entre a Estrela e o Satélite. Sistema em fase de tensão gravitacional.</p>
 <h3>🌌 [2026-10-22 17:44]</h3>
 <p>[T-LOG: 2026-10-22 17:44]</p>
 <p><strong>STATUS DO SISTEMA: A SESSÃO À VISTA (SPOT)</strong></p>
