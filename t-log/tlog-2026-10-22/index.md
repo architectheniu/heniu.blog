@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 12:59
+Data: 2026-10-22 13:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 13:29]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-10-22 13:29]<br />
+Status: FUTURES (Tryb: NQ)</p>
+<p>Sonda NQ znajduje się na poziomie 29452.00 (-1.84%). Wektor prędkości (V_60s) jest ujemny, a ciśnienie paliwa (CVD) wynosi -24,15K, co klasyfikuje stan układu jako wyprzedaż. Wartość ADR NQ wynosi 109.51%, co wskazuje na aktywność powyżej średniej. Q-Score utrzymuje się na poziomie -55, wykazując brak zmiany (Delta: +0.0) w stosunku do ostatniego odczytu. W Sferze Dysona (Opcje QQQ) odnotowano zmienność (IV) na poziomie 21.41% przy asymetrii wolumenu (Put/Call Ratio) wynoszącej 1.05. Obiekty NDX, QQQ oraz TICKQ pozostają w stanie uśpienia (brak bieżącej radiacji w trybie Futures). Brak danych o zdarzeniach wolumenowych (HVN) w bieżącym oknie czasowym.</p>
+<p>Układ w fazie wyprzedaży z dominacją agresywnej podaży na Sondasie.</p>
+<p>Log: 2026-10-22 13:29</p>
 <h3>🌌 [2026-10-22 12:59]</h3>
 <p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29512.00 (-1.65%). Wektor Q-Score wykazuje ujemną wartość -55, co oznacza brak rezonansu wzrostowego w obecnym reżimie. Odczyt CVD dla Sondy NQ wynosi -24,39K, co klasyfikuje stan układu jako [wyprzedaż]. ADR Sonda NQ wynosi 109.51%, co wskazuje, że obecna zmienność jest powyżej średniej. W Sferze Dysona (Opcje QQQ) odnotowano IV na poziomie 21.41% przy asymetrii wolumenu Put/Call wynoszącej 1.05. Pozostałe obiekty (NDX, TICKQ) pozostają w uśpieniu – brak bieżącej radiacji z rynku kasowego.</p>

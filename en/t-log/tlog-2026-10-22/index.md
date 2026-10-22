@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 12:59
+Date: 2026-10-22 13:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 13:29]</h3>
+<p>[TELEMETRY DATA - 2026-10-22 13:29]<br />
+Status: FUTURES (Mode: NQ)</p>
+<p>the NQ Probe is at level 29452.00 (-1.84%). The velocity vector (V_60s) is negative, and the fuel pressure (CVD) is -24,15K, which classifies the system state as selling. The NQ ADR value is 109.51%, indicating activity above average. Q-Score remains at -55, showing no change (Delta: +0.0) relative to the last reading. In the Dyson Sphere (QQQ Options), volatility (IV) was recorded at 21.41% with a volume asymmetry (Put/Call Ratio) of 1.05. NDX, QQQ, and TICKQ objects remain in a sleep state (no current radiation in Futures mode). No volume event data (HVN) in the current time window.</p>
+<p>System in a selling phase with dominance of aggressive supply on the Probe.</p>
+<p>Log: 2026-10-22 13:29</p>
 <h3>🌌 [2026-10-22 12:59]</h3>
 <p><strong>STATUS: FUTURES (ONLY NQ)</strong></p>
 <p>the NQ Probe is currently at level 29512.00 (-1.65%). The Q-Score vector shows a negative value of -55, which means a lack of upward resonance in the current regime. The CVD reading for the NQ Probe is -24.39K, which classifies the system state as [selling]. The NQ Probe ADR is 109.51%, indicating that current volatility is above average. In the Dyson Sphere (QQQ Options), IV was recorded at 21.41% with a Put/Call volume asymmetry of 1.05. Other objects (NDX, TICKQ) remain in dormancy – no current radiation from the cash market.</p>
