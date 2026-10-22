@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 02:29
+Data: 2026-10-22 02:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 02:59]</h3>
+<p>[TELEMETRIA - TRYB FUTURES]<br />
+Sonda NQ: 29792.75 (-0.71%) | ADR: 45.56% | CVD: -4.87K [test podaży]<br />
+Q-Score: -50 [Delta: 0.0]<br />
+IV (Sfera Dysona): 21.41% | Put/Call Ratio: 1.05</p>
+<p>[RAPORT TAKTYCZNY]<br />
+Sonda NQ znajduje się na poziomie 29792.75, wykazując ujemną dynamikę ceny (-0.71%). Odczyt CVD na poziomie -4.87K klasyfikuje obecny stan jako test podaży. Wektor Q-Score pozostaje w fazie stabilizacji na poziomie -50, bez zmiany kierunku w ostatnim interwale (Delta: 0.0). Zmienność w Sferze Dysona (IV) oscyluje wokół 21.41%, przy asymetrii wolumenu opcji Put/Call wynoszącej 1.05. Wartość ADR dla Sondy NQ jest obecnie na poziomie 45.56%. Obiekty NDX, QQQ oraz radiacja TICKQ pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
+<p>Układ w fazie testowania podaży przy braku zmiany wektora kierunkowego.</p>
 <h3>🌌 [2026-10-22 02:29]</h3>
 <p><strong>[LOG: 2026-10-22 02:29]</strong></p>
 <p><strong>STATUS: FUTURES (NOCNY TRYB ANALIZY)</strong></p>
