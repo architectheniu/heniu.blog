@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Data: 2026-10-22 15:07
+Data: 2026-10-22 16:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.22 [PT-BR]</h1>
+<h3>📈 [2026-10-22 16:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Análise de fluxos e preço:</strong> O Índice NDX registra uma queda de 1.63% para o nível 29333.32, com o fluxo acumulado (CVD) no nível de 34,76 M indicando acumulação ativa no mercado à vista. No entanto, observa-se uma divergência em relação aos contratos NQ (preço -1.65%, CVD -16,82 K) e ao ETF QQQ (preço -1.60%, CVD -261,78 K), onde os fluxos indicam o teste de oferta. O indicador agregado de direção de fluxo é -2, o que significa uma leve vantagem da distribuição de capital.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> O indicador TICKQ é de -95.00, o que, com a média SMA200 no nível de -48.06, confirma uma forte pressão de venda na amplitude de mercado da Nasdaq.</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) é de 22.97%, e o Put/Call Volume Ratio está no nível de 1.02, o que sugere uma leve vantagem de posições de hedge ou a expectativa de maior volatilidade. O alcance esperado de movimento para o QQQ está na faixa de 706.18 a 722.67.</li>
+<li><strong>Contexto técnico:</strong> A correção atual desde o pico de 06.10 (31360.85) é de -6.47% (-2028 pts). Esta é uma correção de maior magnitude, mais profunda do que 57% das correções históricas no período analisado. A zona de resistência mais próxima (nó de volume) encontra-se na faixa de 29470–29490.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-22 16:07</p>
 <h3>📈 [2026-10-22 15:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
