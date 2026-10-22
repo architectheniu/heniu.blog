@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 13:59
+Data: 2026-10-22 14:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 14:29]</h3>
+<p>[TELEMETRIA - TRYB FUTURES]<br />
+Sonda NQ: 29540.75 (Delta Ceny: -1.56%)<br />
+CVD NQ: -21,53K [wyprzedaż]<br />
+ADR NQ: 109.51% (powyżej średniej)<br />
+Q-Score: -55 (Delta: +0.0)<br />
+IV: 21.41% | Put/Call Ratio: 1.05</p>
+<p>[DIAGNOSTYKA UKŁADU]<br />
+Obiekt NQ wykazuje silną ujemną kinetykę przy obecnej cenie 29540.75. Ciśnienie paliwa (CVD) na poziomie -21,53K generuje stan wyprzedaży, co potwierdza agresywną presję podażową w sektorze kontraktów terminowych. Wektor Q-Score stabilizuje się na poziomie -55, utrzymując układ w strefie ujemnej dynamiki rynkowej. ADR NQ wynosi 109.51%, co wskazuje na zwiększoną amplitudę ruchów powyżej standardowej zmienności. Sfera Dysona (Opcje) wykazuje lekką asymetrię wolumenu z Put/Call Ratio na poziomie 1.05. Pozostałe instrumenty (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
+<p>[STATUS]<br />
+Układ w fazie intensywnej wyprzedaży z wysoką amplitudą ruchu.</p>
+<p>Log: 2026-10-22 14:29</p>
 <h3>🌌 [2026-10-22 13:59]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-22 13:59]<br />
 Tryb: FUTURES (NQ aktywny)</p>

@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Diário de Bordo do Heniu
 
-Data: 2026-10-22 14:00
+Data: 2026-10-22 14:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 14:29]</h3>
+<p>[TELEMETRIA - MODO FUTUROS]<br />
+a Sonda NQ: 29540.75 (Delta de Preço: -1.56%)<br />
+CVD NQ: -21,53K [liquidação]<br />
+ADR NQ: 109.51% (acima da média)<br />
+Q-Score: -55 (Delta: +0.0)<br />
+IV: 21.41% | Put/Call Ratio: 1.05</p>
+<p>[DIAGNÓSTICO DO SISTEMA]<br />
+O objeto NQ apresenta uma forte cinética negativa ao preço atual de 29540.75. A pressão do combustível (CVD) no nível de -21,53K gera um estado de liquidação, o que confirma uma pressão de venda agressiva no setor de contratos futuros. O vetor Q-Score estabiliza-se no nível de -55, mantendo o sistema na zona de dinâmica de mercado negativa. O ADR NQ é de 109.51%, o que indica uma amplitude de movimentos aumentada acima da volatilidade padrão. a Esfera de Dyson (Opções) apresenta uma leve assimetria de volume com Put/Call Ratio no nível de 1.05. Os demais instrumentos (NDX, QQQ, TICKQ) permanecem em dormência devido ao fechamento da a sessão à vista (Spot).</p>
+<p>[STATUS]<br />
+Sistema em fase de liquidação intensa com alta amplitude de movimento.</p>
+<p>Log: 2026-10-22 14:29</p>
 <h3>🌌 [2026-10-22 13:59]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-22 13:59]<br />
 Modo: a sessão de futuros (NQ ativo)</p>

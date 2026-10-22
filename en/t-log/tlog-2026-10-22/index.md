@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Heniu's Flight Log
 
-Date: 2026-10-22 13:59
+Date: 2026-10-22 14:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 14:29]</h3>
+<p>[TELEMETRY - FUTURES SESSION MODE]<br />
+the NQ Probe: 29540.75 (Price Delta: -1.56%)<br />
+NQ CVD: -21,53K [sell-off]<br />
+NQ ADR: 109.51% (above average)<br />
+Q-Score: -55 (Delta: +0.0)<br />
+IV: 21.41% | Put/Call Ratio: 1.05</p>
+<p>[SYSTEM DIAGNOSTICS]<br />
+The NQ object exhibits strong negative kinetics at the current price of 29540.75. The fuel pressure (CVD) at the level of -21,53K generates a sell-off state, confirming aggressive supply pressure in the futures sector. The Q-Score vector is stabilizing at the level of -55, maintaining the system in a zone of negative market dynamics. NQ ADR is 109.51%, indicating increased movement amplitude above standard volatility. the Dyson Sphere (Options) shows a slight volume asymmetry with a Put/Call Ratio at the level of 1.05. Other instruments (NDX, QQQ, TICKQ) remain in dormancy due to the close of the cash session (Spot).</p>
+<p>[STATUS]<br />
+System in an intensive sell-off phase with high movement amplitude.</p>
+<p>Log: 2026-10-22 14:29</p>
 <h3>🌌 [2026-10-22 13:59]</h3>
 <p>[TELEMETRY DATA - 2026-10-22 13:59]<br />
 Mode: FUTURES (NQ active)</p>
