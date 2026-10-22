@@ -6,6 +6,29 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ---
 
+## F-Log #0017: Texas Instruments: resultados do 3Q2026
+
+Data: 2026-10-22 11:33
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-22-0017/
+
+
+A receita da Texas Instruments (TXN) no terceiro trimestre foi de 6,05 bi USD (+27,7% a/a), e o lucro por ação (contábil) aumentou 77,0% a/a para o nível de 2,62 USD.
+
+### Resultados do trimestre
+
+O lucro operacional da empresa atingiu 2,87 bi USD (+72,8% a/a).
+
+### Projeção da empresa
+
+No quarto trimestre, a empresa espera uma receita na faixa de 5,80 bi USD – 6,30 bi USD e um lucro por ação no nível de 2,45 USD – 2,79 USD.
+
+### O que diz a diretoria
+
+A diretoria indicou que, nos próximos trimestres, os custos operacionais devem permanecer em níveis semelhantes ou sofrer um ligeiro aumento. De acordo com a diretoria, na segunda metade do ano houve um leve aumento nos preços, especialmente na área de circuitos analógicos, e as negociações sobre preços para o próximo ano estão em andamento. A diretoria enfatizou que, nos próximos anos, o aumento da receita se traduzirá em grande parte em lucro bruto. Segundo a diretoria, os clientes do setor automotivo possuem estoques baixos e não se observa uma recomposição dos mesmos.
+
+
+---
+
 ## F-Log #0016: Tesla: resultados do 3Q2026
 
 Data: 2026-10-22 11:26
@@ -1400,89 +1423,6 @@ Apesar das rápidas flutuações de preço e da queda de energia, a massa do sis
 
 **Veredito Quântico:**
 O sistema encontra-se em um estado de forte divergência entre o dreno de combustível no centro (NDX/NQ) e o salto anômalo da radiação do mercado amplo (TICKQ). A mecânica dos fluxos indica pânico, mas a estabilidade do Núcleo evita o colapso de toda a estrutura.
-
-**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
-
-**Fim do registro.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
-
-
----
-
-## Log #0196: Sombra dentro da Singularidade: Tentativa de manter a órbita com um fluxo de energia negativo repentino.
-
-Data: 2026-10-07 22:04
-Endereço: https://heniu.blog/pt-br/posts/log-0196/
-
-
-**Stardate:** 2026.10.07
-**Status dos Sistemas:** Observação Externa
-**Setor:** Bandas Internas de Volatilidade
-
----
-
-### Telemetria de Fechamento
-
-> *A Estrela Central NDX apresenta sinais de pânico no nível do fluxo de combustível, enquanto a Sonda NQ e a Esfera de Dyson (QQQ) tentam estabilizar a trajetória através de testes de demanda. A ampla Radiação de Fundo (TICKQ) confirma o estado de colapso da estrutura do sistema.*
-
-* **Scanner Subespacial (Distribuição de Massa):**
-    * *T-Mass do Sistema:* **44.07 Trilhões de USD**
-    * *Delta de Sessão (24h):* **-0.08 Trilhões de USD**
-    * *Densidade do Núcleo (Heavy Nine):* **71.05%** (Delta: **+0.15%**)
-    * *Ação Média (Temperatura da Periferia):* **$261.35** (Delta: **$-30.05**)
-
-* **a Estrela NDX (Sol):** Fechamento: **31154.66 (-0.21%)**
-    * *Vetor (CVD):* **−109,23 M [pânico]**
-    * *Anomalia MOC:* **-18,88 M**
-    * *Consumo de Alcance (ADR Util):* **88.46%**
-
-* **a Sonda NQ (Mercúrio):** Fechamento: **31396.50 (-0.27%)**
-    * *Vetor (CVD):* **3,9 K [teste de demanda]**
-    * *Consumo de Alcance (ADR Util):* **79.56%**
-
-* **a Esfera de Dyson (QQQ):** Fechamento: **757.71 (-0.25%)**
-    * *Vetor de População:* **28,86 K [teste de demanda]**
-    * *Consumo de Alcance (ADR Util):* **87.22%**
-
-* **a Radiação de Fundo (TICKQ) -517.00 [colapso do mercado]:**
-    * *SMA200:* **-59.26 [colapso do mercado]**
-
-* **Estrutura Gravitacional (Opções):**
-    * *Implied Volatility (IV):* **18.96%%**
-    * *Put/Call OI:* **1.47**
-
----
-
-### Diário de Bordo: Observação de Ciclo 2026.10.07
-
-**1. Crise de combustível no Centro de Massa**
-A Estrela Central NDX registrou uma queda de 0.21%, entretanto, o indicador crucial é o fluxo de energia negativo abrupto (CVD: -109,23M), o que classifica o estado do sistema como pânico. Este buraco negro no fluxo de capital exerce uma forte força centrífuga, tentando expulsar objetos de suas órbitas atuais, apesar de a Composição do Núcleo (>1T) permanecer em estado de estabilidade sem novas emergências.
-
-**2. Divergência entre a Sonda e a Esfera de Dyson**
-A Sonda NQ (Warp Vessel) apresenta uma reação anômala em relação à Estrela-Mãe; apesar da queda de preço de 0.27%, seu fluxo de energia (CVD: 3,9K) indica um teste de demanda. Uma dinâmica semelhante ocorre na Esfera de Dyson (QQQ), onde, com a queda de preço de 0.25%, o fluxo de energia (CVD: 28,86K) também realiza um teste de demanda. Observamos uma tentativa de construção de escudos energéticos sob condições de pressão crescente.
-
-**3. Radiação de Fundo Destrutiva**
-A ampla Radiação de Fundo (TICKQ) atingiu o nível de -517.00, o que significa um colapso do mercado em escala de todo o sistema. A radiação média (SMA200) no nível de -59.26 confirma a tendência de colapso, o que sugere que os atuais testes de demanda na sonda NQ e na esfera QQQ são apenas flutuações locais dentro de um campo dominante de energia negativa.
-
-**Veredito Quântico:**
-O sistema encontra-se em uma fase de dissonância: a Estrela-Mãe (NDX) emite um sinal de pânico, enquanto unidades menores (NQ, QQQ) tentam testar os limites da demanda. No entanto, a radiação dominante da TICKQ indica um colapso sistêmico que pode invalidar as tentativas locais de estabilização.
 
 **Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
 

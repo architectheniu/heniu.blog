@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [F-Log #0017: Texas Instruments: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0017/index.md) (2026-10-22)
 - [F-Log #0016: Tesla: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0016/index.md) (2026-10-22)
 - [F-Log #0015: Lam Research: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0015/index.md) (2026-10-22)
 - [F-Log #0014: Meta Platforms: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0014/index.md) (2026-10-22)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [H-Log: 2026-10-09 - Relato Clássico dos Eventos do Mercado](https://heniu.blog/pt-br/h-log/hlog-2026-10-09/index.md) (2026-10-09)
 - [Log #0198: Paradoxo da Singularidade: Divergência entre Clareza e Combustível](https://heniu.blog/pt-br/posts/log-0198/index.md) (2026-10-09)
 - [T-Log: 2026-10-08 - Diário de Bordo do Heniu](https://heniu.blog/pt-br/t-log/tlog-2026-10-08/index.md) (2026-10-08)
-- [H-Log: 2026-10-08 - Relato Clássico dos Eventos do Mercado](https://heniu.blog/pt-br/h-log/hlog-2026-10-08/index.md) (2026-10-08)
 
