@@ -1,6 +1,6 @@
 # H-Log: 2026-10-22 - A Classic Account of Market Events
 
-Date: 2026-10-22 01:07
+Date: 2026-10-22 02:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.22 [EN]</h1>
+<h3>📈 [2026-10-22 02:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Active trading is taking place on NQ futures contracts, priced at 29834.25 (-0.58%), with cumulative flow (CVD) at -3,27 K, indicating testing of supply.</li>
+<li>The NDX index drawdown from Heniu's peak on 06.10 (31360.85) is -4.91% (-1538 pts). The current depth of declines is greater than in 57% of historical cases, classifying this move as a larger correction.</li>
+<li>The aggregate flow direction indicator is -50, signifying a clear distribution advantage and capital outflow from the market.</li>
+<li>Options on QQQ data (volume 7,523,237; PCR 1.05) indicate a slight advantage in Put positions, suggesting hedging at an implied volatility (IV) level of 21.41%. The expected range of movement is between 716.74 and 733.66.</li>
+<li>Key technical levels: the nearest support zone is in the 29740–29760 range (volume 1.5%), while the resistance zone is 29830–29850 (volume 1.3%).</li>
+</ul>
+<p>H-Log Report: 2026-10-22 02:07</p>
 <h3>📈 [2026-10-22 01:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
