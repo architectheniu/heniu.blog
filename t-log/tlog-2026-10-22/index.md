@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 18:29
+Data: 2026-10-22 18:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 18:44]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-10-22 18:44]<br />
+Status: OPEN | Tryb Sesji: SPOT</p>
+<p><strong>ANALIZA UKŁADU:</strong><br />
+Średnia cena akcji w koszyku wynosi -1.18 USD, co potwierdza kurczenie się ekspansji układu. Wektor kierunku (Q-Score) uległ silnemu obniżeniu do -47. Sfera Dysona (opcje na QQQ) utrzymuje IV na poziomie 24.04%, przy asymetrii wolumenu Put/Call wynoszącej 0.97. ADR dla instrumentów oscyluje wokół 95-145%, co wskazuje na obecność zmienności powyżej standardowych odczytów. Brak rezonansu wektorów; dominuje zsynchronizowana presja podażowa we wszystkich kluczowych punktach pomiarowych.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Układ w fazie gwałtownej dekompresji i zsynchronizowanej wyprzedaży.</p>
+<p>Log: 2026-10-22 18:44</p>
 <h3>🌌 [2026-10-22 18:29]</h3>
 <p>[T-LOG: 2026-10-22 18:29]</p>
 <p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
