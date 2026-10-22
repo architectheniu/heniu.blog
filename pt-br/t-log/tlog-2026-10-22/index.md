@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 18:44
+Data: 2026-10-22 19:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 18:59]</h3>
+<p>[T-LOG: 2026-10-22 18:59]</p>
+<p><strong>STATUS: SPOT | MODO: A SESSÃO À VISTA (SPOT)</strong></p>
+<p><strong>ANÁLISE DE OBJETOS ORBITAIS:</strong><br />
+a Estrela NDX apresenta estado de venda (CVD: -21,44M). o Satélite QQQ apresenta colapso de mercado (CVD: -2,1M).</p>
+<p><strong>FÍSICA E RADIAÇÃO:</strong><br />
+O vetor de direção Q-Score é -52. a Amplitude de mercado (TICKQ) registra um surto de mercado (279.00), significativamente acima da média de radiação SMA200 (-42.94), o que indica uma forte assimetria entre a amplitude de mercado e os principais instrumentos. Na a Esfera de Dyson (QQQ), a volatilidade (IV) é de 24.49%, com uma assimetria de volume Put/Call no nível de 0.96.</p>
+<p><strong>CINEMÁTICA E FLUXOS:</strong><br />
+Observa-se uma profunda divergência do sistema (Cross-Asset Divergence): enquanto a oferta agressiva domina nas estruturas de NDX, NQ e QQQ, a a Radiação de Fundo (TICKQ) acelera bruscamente em direção ao positivo, sugerindo que a pressão atual nos principais índices não encontra reflexo no amplo espectro de ações. O ADR para todos os objetos ativos está acima da média das sessões anteriores, indicando uma dinâmica de movimento elevada.</p>
+<p><strong>DIAGNÓSTICO:</strong><br />
+Sistema em fase de tensão gravitacional; forte dissonância entre os vetores do mercado amplo e a venda nos principais instrumentos orbitais.</p>
+<p><strong>Alarmes de fluxo do Log anterior:</strong> 18:50 fluxo súbito de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-22 18:44]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-22 18:44]<br />
 Status: OPEN | Modo de Sessão: a sessão à vista (Spot)</p>

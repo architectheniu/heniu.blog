@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Date: 2026-10-22 18:44
+Date: 2026-10-22 18:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-22/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.22 [EN]</h1>
+<h3>🌌 [2026-10-22 18:59]</h3>
+<p>[T-LOG: 2026-10-22 18:59]</p>
+<p><strong>STATUS: SPOT | MODE: THE CASH SESSION (SPOT)</strong></p>
+<p><strong>ORBITAL OBJECT ANALYSIS:</strong><br />
+the NDX Star shows a sell-off state (CVD: -21,44M). The QQQ satellite shows a market breakdown (CVD: -2,1M).</p>
+<p><strong>PHYSICS AND RADIATION:</strong><br />
+The Q-Score directional vector is -52. Broad Nasdaq Exchange (TICKQ) records a market surge (279.00), significantly above the SMA200 radiation average (-42.94), indicating a strong asymmetry between market breadth and main instruments. In the Dyson Sphere (QQQ), volatility (IV) is 24.49%, with a Put/Call volume asymmetry at 0.96.</p>
+<p><strong>KINEMATICS AND FLOWS:</strong><br />
+A deep system stratification (Cross-Asset Divergence) is observed: while aggressive supply dominates in NDX, NQ, and QQQ structures, Background Radiation (TICKQ) is rapidly accelerating in a positive direction, suggesting that current pressure on the main indices is not reflected in the broad spectrum of stocks. ADR for all active objects is above the average from previous sessions, indicating increased movement dynamics.</p>
+<p><strong>DIAGNOSIS:</strong><br />
+The system is in a phase of gravitational tension; strong dissonance between broad market vectors and the sell-off in the main orbital instruments.</p>
+<p><strong>Flow alarms from the previous Log:</strong> 18:50 sudden NQ flow downwards; NQ flow ignition.</p>
 <h3>🌌 [2026-10-22 18:44]</h3>
 <p>[TELEMETRY DATA - 2026-10-22 18:44]<br />
 Status: OPEN | Session Mode: SPOT</p>

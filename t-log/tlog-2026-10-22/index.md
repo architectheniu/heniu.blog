@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 18:44
+Data: 2026-10-22 18:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 18:59]</h3>
+<p>[T-LOG: 2026-10-22 18:59]</p>
+<p><strong>STATUS: SPOT | TRYB: SESJA KASOWA</strong></p>
+<p><strong>ANALIZA OBIEKTÓW ORBITALNYCH:</strong><br />
+Gwiazda NDX wykazuje stan wyprzedaży (CVD: -21,44M). Satelita QQQ wykazuje załamanie rynku (CVD: -2,1M).</p>
+<p><strong>FIZYKA I RADIACJA:</strong><br />
+Wektor kierunkowy Q-Score wynosi -52. Szeroka Giełda Nasdaq (TICKQ) odnotowuje wystrzał rynku (279.00), znacząco powyżej średniej radiacji SMA200 (-42.94), co wskazuje na silną asymetrię między szerokością rynku a głównymi instrumentami. W Sferze Dysona zmienność (IV) wynosi 24.49%, przy asymetrii wolumenu Put/Call na poziomie 0.96.</p>
+<p><strong>KINEMATYKA I PRZEPŁYWY:</strong><br />
+Obserwowane jest głębokie rozwarstwienie układu (Cross-Asset Divergence): podczas gdy agresywna podaż dominuje w strukturach NDX, NQ i QQQ, Promieniowanie Tła (TICKQ) gwałtownie przyspiesza w kierunku dodatnim, sugerując, że obecna presja na główne indeksy nie znajduje odzwierciedlenia w szerokim spektrum akcji. ADR dla wszystkich aktywnych obiektów jest powyżej średniej z poprzednich sesji, co wskazuje na podwyższoną dynamikę ruchu.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Układ w fazie grawitacyjnego napięcia; silny dysonans między wektorami szerokiego rynku a wyprzedażą w głównych instrumentach orbitalnych.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 18:50 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 18:44]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-22 18:44]<br />
 Status: OPEN | Tryb Sesji: SPOT</p>
