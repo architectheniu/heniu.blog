@@ -7,17 +7,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 ---
 
 
-Roper Technologies (ROP) revenue in the third quarter was 2.17 billion USD (+7.7% y/y), and earnings per share (GAAP) increased by 32.6% y/y to 4.88 USD.
+Roper Technologies (ROP) revenues grew by 7.7% y/y in the third quarter to 2.17 billion USD, and earnings per share (reported) grew by 32.6% y/y to 4.88 USD.
 
 ### Quarterly results
 
-no data.
+Earnings per share (reported, basic) was 4.90 USD (32.4% y/y) compared to 3.70 USD a year earlier.
 
 ### Company guidance
 
-The company expects earnings per share (adjusted) (FY 2026) in the range of 22.35 USD – 22.40 USD.
+The company expects earnings per share (adjusted) in Q4 2026 to be at the level of 5.95–6.00 USD and in FY 2026 in the range of 22.35–22.40 USD.
 
 ### What management says
 
-Management emphasized that credit revenue in Vertafore will look like a subscription due to the fixed pool model in the recurring contract. According to management, the pace of cloud transition in Deltek is difficult to predict, however, the company is pleased with the current momentum. Management noted that the gross margin on AI agent tools is very good and close to software margins, and the current priority is product deployment speed. According to management, AI products allow for rapid gathering of customer feedback and instantaneous improvement of solutions. Management indicated that in Neptune, meter sales were close to expectations, but a higher share of cheaper mechanical models lowered revenue and margin. According to management, the project portfolio for static meters in Neptune is strong, and the company expects better conditions next year.
+Management emphasized that credit revenues in Vertafore will resemble a subscription due to the model of purchasing a fixed pool in recurring contracts. According to management, the pace of Deltek customers' transition to the cloud is difficult to predict, but the company is pleased with the current momentum. Management indicated that the gross margin on AI agent tools is very good and close to software margins, with the priority remaining the speed of product implementation. According to management, AI products allow for rapid feedback collection and improving solutions after their introduction. Management noted that in Neptune, meter sales were close to expectations, but a higher share of cheaper mechanical models lowered revenues and margin. According to management, the project portfolio for static meters is strong, and projects have been shifted, which is intended to ensure better conditions next year.
 
