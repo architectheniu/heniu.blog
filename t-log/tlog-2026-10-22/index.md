@@ -1,6 +1,6 @@
 # T-Log: 2026-10-22 - Log Pokładowy Henia
 
-Data: 2026-10-22 01:59
+Data: 2026-10-22 02:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 02:29]</h3>
+<p><strong>[LOG: 2026-10-22 02:29]</strong></p>
+<p><strong>STATUS: FUTURES (NOCNY TRYB ANALIZY)</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29790.50 (-0.71%). Wektor Q-Score wykazuje silną ujemną orientację na poziomie -50. Odnotowano istotne zdarzenia wolumenowe (HVN) w ciągu ostatnich minut: najpierw przebito zaporę HVN na poziomie NQ ≈ 29766, następnie zaporę na poziomie NQ ≈ 29846, która została natychmiast obalona (przebicie w dół). Bieżąca wartość CVD dla Sondy NQ wynosi -5.42K, co klasyfikuje stan układu jako "test podaży". ADR NQ wynosi obecnie 45.56%, co stanowi istotne odchylenie od średniej. W Sferze Dysona (opcje QQQ) zmienność (IV) oscyluje wokół 21.41%, przy Put/Call Ratio na poziomie 1.05, co wskazuje na niemal równomierną asymetrię wolumenu kontraktów.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Układ znajduje się w fazie niestabilności wewnątrz stref HVN. Po serii gwałtownych prób przebicia zapór, cena NQ wykazuje tendencję do powrotu do poziomów wsparcia, podczasby testując podaż w warunkach niskiej radiacji rynkowej. Brak synchronizacji wektorów; dominacja presji podażowej w mikro-skali.</p>
+<p><strong>STAN: KONSOLIDACJA WOKÓŁ ZAPÓR Z TENDENCJĄ DO TESTOWANIA PODAZY.</strong></p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 02:00 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-22 01:59]</h3>
 <p><strong>STATUS: FUTURES (TYLKO SONDA NQ)</strong></p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29766.00 (-0.81%), wykazując ADR na poziomie 45.56%. Odnotowano krytyczne zdarzenie wolumenowe: o godzinie 01:54 nastąpiło obalenie wsparcia HVN ekosystemu US100 na poziomie NDX 29580, co przełożyło się na przebicie w dół i testowanie nowych zakresów dla NQ. Bieżący wektor kierunku (Q-Score) wynosi -55, wskazując na dominację presji podażowej w układzie. Wskaźnik CVD dla Sondy NQ wynosi -5.54K, co klasyfikuje obecny stan jako "test podaży". Sfera Dysona (opcje QQQ) wykazuje zmienność IV na poziomie 21.41% przy Put/Call Ratio 1.05, co sygnalizuje niemal równomierną asymetrię wolumenu między ubezpieczeniem a premią. Pozostałe obiekty (NDX, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej.</p>
