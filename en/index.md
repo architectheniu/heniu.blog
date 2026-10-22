@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [F-Log #0016: Tesla: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-22-0016/index.md) (2026-10-22)
 - [F-Log #0015: Lam Research: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-22-0015/index.md) (2026-10-22)
 - [F-Log #0014: Meta Platforms: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-22-0014/index.md) (2026-10-22)
 - [H-Log: 2026-10-22 - A Classic Account of Market Events](https://heniu.blog/en/h-log/hlog-2026-10-22/index.md) (2026-10-22)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [T-Log: 2026-10-08 - Heniu's Flight Log](https://heniu.blog/en/t-log/tlog-2026-10-08/index.md) (2026-10-08)
 - [H-Log: 2026-10-08 - A Classic Account of Market Events](https://heniu.blog/en/h-log/hlog-2026-10-08/index.md) (2026-10-08)
 - [Log #0197: Phase shift: Energy collision and radiation divergence](https://heniu.blog/en/posts/log-0197/index.md) (2026-10-08)
-- [T-Log: 2026-10-07 - Heniu's Flight Log](https://heniu.blog/en/t-log/tlog-2026-10-07/index.md) (2026-10-07)
 

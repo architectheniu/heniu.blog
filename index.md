@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [F-Log #0016: Tesla: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0016/index.md) (2026-10-22)
 - [F-Log #0015: Lam Research: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-22-0015/index.md) (2026-10-22)
 - [F-Log #0014: Meta Platforms: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0014/index.md) (2026-10-22)
 - [H-Log: 2026-10-22 - Klasyczny Opis Wydarzeń Rynkowych](https://heniu.blog/h-log/hlog-2026-10-22/index.md) (2026-10-22)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0198: Paradoks Osobliwości: Rozdźwięk między Jasnością a Paliwem](https://heniu.blog/posts/log-0198/index.md) (2026-10-09)
 - [T-Log: 2026-10-08 - Log Pokładowy Henia](https://heniu.blog/t-log/tlog-2026-10-08/index.md) (2026-10-08)
 - [H-Log: 2026-10-08 - Klasyczny Opis Wydarzeń Rynkowych](https://heniu.blog/h-log/hlog-2026-10-08/index.md) (2026-10-08)
-- [Log #0197: Przesunięcie fazowe: Kolizja energii i rozbieżność promieniowania](https://heniu.blog/posts/log-0197/index.md) (2026-10-08)
 
