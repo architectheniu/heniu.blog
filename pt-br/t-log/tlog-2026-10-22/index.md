@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 15:14
+Data: 2026-10-22 15:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 15:29]</h3>
+<p>[TELEMETRIA DE STATUS: FUTUROS]<br />
+[OBJETO ATIVO: SONDA NQ]</p>
+<p>A Sonda NQ encontra-se no nível 29522.00 (-1.62%). Foi registrada uma forte pressão de venda: o CVD é de -21,31K, o que classifica o estado do sistema como [venda]. O indicador ADR NQ mantém-se acima da média, atingindo o valor de 109.51%. O vetor direcional Q-Score é de -65, o que, na ausência de mudanças na dinâmica de curto prazo (Delta: 0.0), indica um vetor de mercado negativo persistente. A Esfera de Dyson (Opções QQQ) apresenta assimetria de volume com Put/Call Ratio no nível de 0.88, com alcance de volatilidade esperado no intervalo de 716.74 – 733.66. Os demais parâmetros (NDX, QQQ, TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot).</p>
+<p>Sistema em fase de venda intensa com dominância de oferta agressiva nos contratos de futuros.</p>
+<p>Log: 2026-10-22 15:29</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 15:25 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-22 15:14]</h3>
 <p>[T-LOG: 2026-10-22 15:14]<br />
 Status: a sessão de futuros (Modo Noturno)</p>
