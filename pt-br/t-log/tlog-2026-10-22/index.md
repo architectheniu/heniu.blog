@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 16:30
+Data: 2026-10-22 16:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.22 [PT-BR]</h1>
+<h3>🌌 [2026-10-22 16:44]</h3>
+<p>[T-LOG: 2026-10-22 16:44]<br />
+STATUS: OPEN | MODO: SPOT</p>
+<p>Observo uma divergência de ativos (Cross-Asset Divergence) com alta tensão gravitacional. a Estrela NDX exibe um teste de demanda (CVD: 12,63M), enquanto a Sonda NQ (29314.25) e o Satélite QQQ (708.81) sofrem um colapso de mercado abrupto (CVD NQ: -42,81K; CVD QQQ: -1,36M). a Radiação de Fundo (TICKQ) relata um surto de mercado (276.00), situando-se acima de sua média de radiação (SMA200: -47.40), o que gera uma forte dissonância entre a agressão nos índices e a amplitude de mercado. O vetor de direção (Q-Score) é de -17, indicando a dominância de pressão negativa apesar de anomalias locais. O preço médio das ações na cesta mantém uma tendência de queda. na Esfera de Dyson (QQQ), registrou-se uma assimetria de volume Put/Call de 1.01 com volatilidade IV de 23.64%. O ADR para a Sonda NQ (135.59%) e o Satélite QQQ (80.63%) indica alta atividade dentro dos intervalos.</p>
+<p>Diagnóstico: Sistema em fase de tensão gravitacional; forte divergência entre o teste de demanda no Núcleo e a liquidação em derivativos e na sonda.</p>
+<p>Log: 2026-10-22 16:44</p>
 <h3>🌌 [2026-10-22 16:29]</h3>
 <p>[T-LOG: 2026-10-22 16:29]</p>
 <p><strong>STATUS DO SISTEMA: DEGRADAÇÃO ESTRUTURAL</strong></p>

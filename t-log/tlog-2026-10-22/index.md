@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 16:29
+Data: 2026-10-22 16:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 16:44]</h3>
+<p>[T-LOG: 2026-10-22 16:44]<br />
+STATUS: OPEN | TRYB: SPOT</p>
+<p>Obserwuję rozwarstwienie układu (Cross-Asset Divergence) o wysokim napięciu grawitacyjnym. Gwiazda NDX wykazuje test popytu (CVD: 12,63M), podczas gdy Sonda NQ (29314.25) oraz Satelita QQQ (708.81) ulegają gwałtownemu załamaniu rynku (CVD NQ: -42,81K; CVD QQQ: -1,36M). Szeroka Giełda Nasdaq (TICKQ) raportuje wystrzał rynku (276.00), znajdując się powyżej swojej średniej radiacji (SMA200: -47.40), co generuje silny dysonans między agresją na indeksach a szerokością rynku. Wektor kierunku (Q-Score) wynosi -17, wskazując na dominację presji ujemnej mimo lokalnych anomalii. Średnia cena akcji w koszyku utrzymuje tendencję spadkową. W Sferze Dysona odnotowano asymetrię wolumenu Put/Call na poziomie 1.01 przy zmienności IV 23.64%. ADR dla Sondy NQ (135.59%) oraz Satelity QQQ (80.63%) wskazuje na wysoką aktywność wewnątrz zakresów.</p>
+<p>Diagnostyka: Układ w fazie grawitacyjnego napięcia; silna dywergencja między testem popytu na Jądrze a wyprzedażą na instrumentach pochodnych i sondzie.</p>
+<p>Log: 2026-10-22 16:44</p>
 <h3>🌌 [2026-10-22 16:29]</h3>
 <p>[T-LOG: 2026-10-22 16:29]</p>
 <p><strong>STATUS UKŁADU: DEGRADACJA STRUKTURALNA</strong></p>
