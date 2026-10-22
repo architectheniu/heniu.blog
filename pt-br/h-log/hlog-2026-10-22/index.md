@@ -1,6 +1,6 @@
 # H1: 2026-10-22
 
-Data: 2026-10-22 17:08
+Data: 2026-10-22 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.22 [PT-BR]</h1>
+<h3>📈 [2026-10-22 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Análise de fluxo e sentimento:</strong> O mercado está em uma fase de distribuição. O indicador de direção de fluxo é de -35, o que confirma a predominância da saída de capital. No mercado à vista, observamos uma divergência: apesar da queda do índice NDX de -2.28% (preço 29142.68), o fluxo acumulado CVD para o NDX é de 15,54 M, o que indica o teste de demanda. Simultaneamente, os contratos NQ (29320.00, -2.29%) e o ETF QQQ (708.84, -2.25%) mostram uma venda clara (CVD para NQ: -33,56 K, CVD para QQQ: -1,35 M). A amplitude de mercado (TICKQ) está na zona negativa com o valor de -44.00.</p>
+</li>
+<li>
+<p><strong>Mercado de opções:</strong> A volatilidade implícita (IV) é de 24.63%, com volume de opções em 4,518,535. O Put/Call Volume Ratio em 0.98 sugere um equilíbrio próximo entre a demanda por proteção (hedging) e posições de alta, com o alcance esperado de movimento situando-se no intervalo de 699.26 a 716.32 pontos.</p>
+</li>
+<li>
+<p><strong>Contexto técnico e correção:</strong> A correção em curso desde o pico de 06.10 (31360.85) é atualmente de -7.07% (-2218 pts). Com base em dados históricos, esta é uma correção de caráter maior do que 57% dos movimentos de correção anteriores. A resistência significativa mais próxima encontra-se no nó de volume na zona 29470–29490.</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-10-22 18:07</p>
 <h3>📈 [2026-10-22 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
