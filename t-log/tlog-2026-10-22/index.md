@@ -1,6 +1,6 @@
 # M15: 2026-10-22
 
-Data: 2026-10-22 18:14
+Data: 2026-10-22 18:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-22/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.22</h1>
+<h3>🌌 [2026-10-22 18:29]</h3>
+<p>[T-LOG: 2026-10-22 18:29]</p>
+<p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
+<p>System odnotowuje gwałtowną dekompozycję struktury wsparcia. W strefie 29200-29320 NDX (NQ ≈ 29380-29500) doszło do obalenia potężnych zapór HVN, co zainicjowało kaskadowy spadek cen. Obecna cena Sondy NQ wynosi 29338.00 (-2.23%), przy ADR na poziomie 145.47% (powyżej średniej). Wektor kierunku Q-Score wynosi -32.</p>
+<p>Analiza ciśnienia paliwa (CVD) wykazuje wysoką asymetrię podaży:<br />
+- <strong>Gwiazda NDX (29161.08):</strong> CVD 9.68M wskazuje na stan "test podytu".<br />
+- <strong>Sonda NQ (29338.00):</strong> CVD -32.09K generuje stan "wyprzedaż".<br />
+- <strong>Satelita QQQ (709.29):</strong> CVD -1.35M klasyfikuje jako "wyprzedaż".<br />
+- <strong>Promieniowanie Tła (TICKQ):</strong> Wartość -70.00 wskazuje na "wyprzedaż", przy czym średnia SMA200 (-43.34) potwierdza stan "wyprzedaż" i znajduje się poniżej aktualnej radiacji.</p>
+<p>Sfera Dysona wykazuje IV na poziomie 24.33% przy Put/Call Ratio 0.97, co świadczy o niemal równej, lecz lekko nachylonej ku stronie ubezpieczeń asymetrii wolumenu. Średnia Akcja: [BRAK_DANYCH_W_TELEMETRII].</p>
+<p><strong>DIAGNOZA: Rozwarstwienie układu i utrata kinetyki wsparcia. Dominacja wektorów wyprzedaży w sektorach NQ i QQQ przy jednoczesnym testowaniu podaży na jadrze NDX. Układ w fazie grawitacyjnego napięcia po przebiciu stref HVN.</strong></p>
 <h3>🌌 [2026-10-22 18:14]</h3>
 <p>[T-LOG: 2026-10-22 18:14]</p>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
