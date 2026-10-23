@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Date: 2026-10-23 09:59
+Date: 2026-10-23 10:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.23 [EN]</h1>
+<h3>🌌 [2026-10-23 10:29]</h3>
+<p>[TELEMETRY: FUTURES SESSION MODE - NQ PROBE ANALYSIS]</p>
+<p>The NQ Probe is currently at level 29260.25 (+0.41%). The Q-Score vector shows positive dynamics, reaching a value of 15 (Delta: +20.0). The ADR indicator for the NQ Probe is 45.96%, placing it above the average of the last 5 days. The CVD reading at level 2.68K classifies the current state as a demand test. The Dyson Sphere (QQQ options) shows IV volatility at 25.46% with a Put/Call volume asymmetry of 1.01. According to protocol, NDX, QQQ, and TICKQ objects remain in a sleep state and are not subject to current radiation analysis.</p>
+<p>Log: 2026-10-23 10:29</p>
+<p><strong>Flow alarms from the previous Log:</strong> 10:13 sudden NQ upward flow; NQ flow ignition.</p>
 <h3>🌌 [2026-10-23 09:59]</h3>
 <p>[SYSTEM TELEMETRY: FUTURES SESSION MODE - NQ PROBE ANALYSIS]</p>
 <p>the NQ Probe is currently at level 29170.00 (+0.10%). The Q-Score vector shows stabilization at level -5 [Delta: +0.0]. NQ ADR dynamics are 39.60%, indicating high volatility in the current cycle. The CVD reading for the NQ Probe is -958, which classifies the current state as a supply test. the Dyson Sphere (QQQ Options) shows IV at level 25.46% with a Put/Call volume asymmetry of 1.01. Galaxy Mass (NDX), Market Breadth (TICKQ), and Average Stock data remain in dormancy (outside the cash session (Spot)). No volume event data (HVN) in the current time window.</p>
