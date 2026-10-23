@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 10:59
+Data: 2026-10-23 11:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 11:29]</h3>
+<p>[TELEMETRIA STATUS: FUTURES]</p>
+<p>Sonda NQ znajduje się na poziomie 29153.50 (+0.04%). Wektor Q-Score wykazuje dodatnią dynamikę na poziomie 15 (Delta: +0.0). Aktywność w Sferze Dysona (QQQ) wskazuje na IV na poziomie 25.46% przy zasięgu oczekiwanym w przedziale 691.63 – 717.31 oraz Put/Call Ratio wynoszącym 1.01. Bieżący odczyt CVD dla Sondy NQ wynosi 243, co klasyfikuje stan układu jako test popytu. ADR NQ wynosi 45.96%, co przy uwzględnieniu matematycznej progresji czasu sesji, pozostaje w fazie monitorowania. Obiekty NDX, QQQ oraz TICKQ pozostają w stanie uśpienia (poza sesją kasową) – brak danych o radiacji tła i masie galaktyki.</p>
+<p>Układ znajduje się w fazie testowania presji popytowej przy niskiej aktywności wolumenu.</p>
+<p>Log: 2026-10-23 11:29</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 11:16 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-23 10:59]</h3>
 <p>[T-LOG: 2026-10-23 10:59]</p>
 <p><strong>STATUS: TRYB FUTURES (Sonda NQ aktywna)</strong></p>
