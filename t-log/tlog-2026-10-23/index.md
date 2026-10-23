@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 11:29
+Data: 2026-10-23 11:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 11:59]</h3>
+<p><strong>[T-LOG: 2026-10-23 11:59]</strong></p>
+<p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29119.00 (-0.08%). Wektor Q-Score wykazuje ujemną dynamikę, spadając do poziomu -5 [Delta: -20.0]. Aktywny pomiar ADR dla Sondy NQ wskazuje na wartość 45.96%, co sytuuje bieżący zasięg powyżej średniej z ostatnich 5 dni (139.38% ADR w skali 5-dniowej, jednak bieżąca zmiękniona wartość sesyjna jest w trakcie narastania).</p>
+<p>Analiza ciśnienia paliwa (CVD) dla Sondy NQ wykazuje wartość -2.14K, co klasyfikuje obecny stan jako <strong>test podaży</strong>. Brak synchronizacji wektorów: cena i wolumen wskazują na wyprzedażową presję mikro, podczas gdy system znajduje się w stanie uśpienia w obszarze rynku kasowego (NDX, QQQ, TICKQ nieaktywne). Sfera Dysona (Opcje QQQ) wykazuje IV na poziomie 25.46% przy asymetrii wolumenu Put/Call wynoszącej 1.01.</p>
+<p>Układ znajduje się w fazie testowania lokalnych granic podaży przy braku wsparcia ze strony aktywnego rynku spot.</p>
+<p><strong>Log: 2026-10-23 11:59</strong></p>
 <h3>🌌 [2026-10-23 11:29]</h3>
 <p>[TELEMETRIA STATUS: FUTURES]</p>
 <p>Sonda NQ znajduje się na poziomie 29153.50 (+0.04%). Wektor Q-Score wykazuje dodatnią dynamikę na poziomie 15 (Delta: +0.0). Aktywność w Sferze Dysona (QQQ) wskazuje na IV na poziomie 25.46% przy zasięgu oczekiwanym w przedziale 691.63 – 717.31 oraz Put/Call Ratio wynoszącym 1.01. Bieżący odczyt CVD dla Sondy NQ wynosi 243, co klasyfikuje stan układu jako test popytu. ADR NQ wynosi 45.96%, co przy uwzględnieniu matematycznej progresji czasu sesji, pozostaje w fazie monitorowania. Obiekty NDX, QQQ oraz TICKQ pozostają w stanie uśpienia (poza sesją kasową) – brak danych o radiacji tła i masie galaktyki.</p>
