@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 03:07
+Date: 2026-10-23 04:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 04:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on NQ futures contract activity and data from the regular session close.</li>
+<li>NQ contracts show stabilization at a price of 29124.25 (-0.06%), with low cumulative flow (CVD) at a level of 263, indicating testing of demand under current conditions.</li>
+<li>The flow direction indicator is 15, meaning a weak advantage in capital inflow. A strong anomaly was noted in the cash session (NDX): despite an index decline of -2.90% (price 28966.07), the cumulative flow CVD is 169.35 M, suggesting passive absorption of supply or accumulation during the decline.</li>
+<li>Options on QQQ data indicate increased implied volatility (IV = 25.46%) and a Put/Call Ratio at a level of 1.01, suggesting balanced sentiment with a slight tilt toward downside hedging. The expected movement range is from 691.63 to 717.31 points.</li>
+<li>The current drawdown from Heniu's peak on 06.10 (31360.85) is -7.64% (-2395 pts). This is a correction larger than 57% of historical corrective moves in the analyzed period.</li>
+<li>The nearest resistance zone (volume node) is located in the 29470–29490 range.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 04:07</p>
 <h3>📈 [2026-10-23 03:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>

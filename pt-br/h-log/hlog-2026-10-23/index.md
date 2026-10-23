@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 03:08
+Data: 2026-10-23 04:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.23 [PT-BR]</h1>
+<h3>📈 [2026-10-23 04:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A análise baseia-se na atividade dos contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ mostram estabilização ao preço de 29124.25 (-0.06%), com um baixo fluxo acumulado (CVD) no nível de 263, o que indica o teste de demanda nas condições atuais.</li>
+<li>O indicador de direção de fluxos é 15, o que significa uma vantagem fraca de entrada de capital. Na sessão à vista (NDX), foi registrada uma forte anomalia: apesar da queda do índice de -2.90% (preço 28966.07), o fluxo acumulado CVD é de 169,35 M, o que sugere absorção passiva de oferta ou acumulação durante a queda.</li>
+<li>Os dados de opções sobre QQQ indicam aumento na volatilidade implícita (IV = 25.46%) e Put/Call Ratio no nível de 1.01, o que sugere um sentimento equilibrado com uma leve inclinação para proteções de queda. O alcance esperado do movimento é de 691.63 a 717.31 pontos.</li>
+<li>O Recuo desde o pico do Heniu do dia 06.10 (31360.85) é de -7.64% (-2395 pts). Esta é uma correção de caráter maior do que 57% dos movimentos de correção históricos no período analisado.</li>
+<li>A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 29470–29490.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-23 04:07</p>
 <h3>📈 [2026-10-23 03:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
