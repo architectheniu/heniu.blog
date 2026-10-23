@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Date: 2026-10-23 15:14
+Date: 2026-10-23 15:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.23 [EN]</h1>
+<h3>🌌 [2026-10-23 15:29]</h3>
+<p>[T-LOG: 2026-10-23 15:29]</p>
+<p><strong>STATUS: THE FUTURES SESSION (OUTSIDE THE CASH SESSION MODE)</strong></p>
+<p>The NQ Probe is currently at level 29029.25 (-0.39%). The Q-Score vector shows negative dynamics at level -20. A supply test was noted in the volume flow (CVD NQ: -4.24K). The NQ ADR indicator is 48.97%, which places it above the averages from the last 5 days. The Dyson Sphere (QQQ Options) shows volume asymmetry with a Put/Call Ratio at level 0.47, with zero IV volatility and an expected range between 691.63 and 717.31. NDX and TICKQ objects remain in dormancy (no radiation in Futures mode).</p>
+<p><strong>SYSTEM DIAGNOSTICS:</strong><br />
+The system is in a supply testing phase with a negative direction vector. Lack of resonance between vectors in the current time window.</p>
+<p>Log: 2026-10-23 15:29</p>
+<p><strong>Flow alarms from the previous Log:</strong> 15:18 sudden NQ upward flow; NQ flow ignition.</p>
 <h3>🌌 [2026-10-23 15:14]</h3>
 <p>[T-LOG: 2026-10-23 15:14]</p>
 <p><strong>STATUS: FUTURES (OUTSIDE THE CASH SESSION MODE)</strong></p>

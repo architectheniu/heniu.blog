@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 15:14
+Data: 2026-10-23 15:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.23 [PT-BR]</h1>
+<h3>🌌 [2026-10-23 15:29]</h3>
+<p>[T-LOG: 2026-10-23 15:29]</p>
+<p><strong>STATUS: FUTUROS (MODO FORA DA SESSÃO À VISTA)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29029.25 (-0.39%). O vetor Q-Score apresenta dinâmica negativa no nível -20. Foi registrado um teste de oferta no fluxo de volume (CVD NQ: -4.24K). O indicador ADR NQ é de 48.97%, o que o posiciona acima das médias dos últimos 5 dias. a Esfera de Dyson (Opções QQQ) apresenta assimetria de volume com Put/Call Ratio no nível 0.47, com volatilidade IV zero e alcance esperado no intervalo de 691.63 a 717.31. Os objetos NDX e TICKQ permanecem em dormência (sem radiação no modo Futuros).</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+O sistema encontra-se em fase de teste de oferta com vetor de direção negativo. Ausência de ressonância entre os vetores na janela de tempo atual.</p>
+<p>Log: 2026-10-23 15:29</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 15:18 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-23 15:14]</h3>
 <p>[T-LOG: 2026-10-23 15:14]</p>
 <p><strong>STATUS: FUTUROS (MODO FORA DA SESSÃO À VISTA)</strong></p>
