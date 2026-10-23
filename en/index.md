@@ -6,8 +6,8 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
-- [H1: 2026-10-23](https://heniu.blog/en/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [M15: 2026-10-23](https://heniu.blog/en/t-log/tlog-2026-10-23/index.md) (2026-10-23)
+- [H1: 2026-10-23](https://heniu.blog/en/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [H1: 2026-10-22](https://heniu.blog/en/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/en/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [Log #0209: Session summary 2026-10-22: NDX 28962.86 (-2.90%)](https://heniu.blog/en/posts/log-0209/index.md) (2026-10-22)
