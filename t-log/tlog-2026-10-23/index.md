@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 15:44
+Data: 2026-10-23 15:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 15:59]</h3>
+<p><strong>[T-LOG: 2026-10-23 15:59]</strong></p>
+<p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29151.50. W ekosystemie US100 odnotowano gwałtowną aktywność w strefie zapór HVN: w ciągu ostatnich minut przebito w górę i natychmiast obalono wsparcie na poziomie NDX 28960 (NQ ≈ 29123). Gwiazda NDX wykazuje stan akumulacji (CVD: 34,84M), a Satelita QQQ również utrzymuje status akumulacji (CVD: 1,29M). Sonda NQ wykazuje status akumulacji przy CVD 24,15K. Średnia Akcja [BRAK_DANYCH_W_TELEMETRII].</p>
+<p>Wektor kierunkowy Q-Score wynosi 10, co wskazuje na skrajnie niską dynamikę kierunkową. Szeroka Giełda (TICKQ) wykazuje stan wyprzedaży (-142.00), znajdując się znacznie poniżej średniej SMA200 (-45.36), co klasyfikuje jako stan wyprzedaży w promieniowaniu tła. Zmienność w Sferze Dysona (IV) wynosi 25.96%, przy Put/Call Ratio na poziomie 0.93.</p>
+<p>Występuje silne rozwarstwienie układu (Cross-Asset Divergence): mimo dodatniego CVD i statusu akumulacji na głównych obiektach (NDX, NQ, QQQ), Szeroka Giełda (TICKQ) pozostaje w głębokiej wyprzedaży, a Trend Promieniowania wykazuje malejącą tendencję (-1.77). Układ znajduje się w fazie grawitacyjnego napięcia, gdzie agresywny popyt na instrumenty indeksowe nie znajduje odzwierciedlenia w szerszej strukturze rynku.</p>
+<p><strong>DIAGNOZA: DYSONANS WEKTORÓW / ASYMETRIA STRUKTURALNA</strong></p>
 <h3>🌌 [2026-10-23 15:44]</h3>
 <p><strong>STATUS: SPOT</strong><br />
 <strong>Średnia Akcja (Koszyk):</strong> $297.71 (Delta: +0.00 USD) | <strong>Gęstość Jądra:</strong> 66.2%</p>

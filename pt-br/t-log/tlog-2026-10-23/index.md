@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 15:45
+Data: 2026-10-23 15:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.23 [PT-BR]</h1>
+<h3>🌌 [2026-10-23 15:59]</h3>
+<p><strong>[T-LOG: 2026-10-23 15:59]</strong></p>
+<p><strong>STATUS: a sessão à vista (Spot) | MODO: COMPLETO</strong></p>
+<p>a Sonda NQ encontra-se no nível 29151.50. No ecossistema US100, foi registrada uma atividade abrupta na zona de barreiras HVN: nos últimos minutos, houve um rompimento para cima e o suporte no nível NDX 28960 foi imediatamente derrubado (NQ ≈ 29123). a Estrela NDX apresenta estado de acumulação (CVD: 34,84M), e o Satélite QQQ também mantém o status de acumulação (CVD: 1,29M). a Sonda NQ apresenta status de acumulação com CVD de 24,15K. Ação Média [SEM DADOS_NA_TELEMETRIA].</p>
+<p>O vetor direcional Q-Score é 10, o que indica uma dinâmica direcional extremamente baixa. a Amplitude de mercado (TICKQ) apresenta estado de sobrevenda (-142.00), estando significativamente abaixo da média SMA200 (-45.36), o que classifica como um estado de sobrevenda na a Radiação de Fundo (TICKQ). A volatilidade na a Esfera de Dyson (QQQ) (IV) é de 25.96%, com o Put/Call Ratio no nível 0.93.</p>
+<p>Ocorre uma forte estratificação do sistema (Cross-Asset Divergence): apesar do CVD positivo e do status de acumulação nos principais objetos (NDX, NQ, QQQ), a Amplitude de mercado (TICKQ) permanece em sobrevenda profunda, e a Tendência de Radiação mostra uma tendência de queda (-1.77). O sistema encontra-se em uma fase de tensão gravitacional, onde a demanda agressiva por instrumentos de índice não encontra reflexo na estrutura mais ampla do mercado.</p>
+<p><strong>DIAGNÓSTICO: DISSONÂNCIA DE VETORES / ASSIMETRIA ESTRUTURAL</strong></p>
 <h3>🌌 [2026-10-23 15:44]</h3>
 <p><strong>STATUS: A SESSÃO À VISTA (SPOT)</strong><br />
 <strong>Ação Média (Cesta):</strong> $297.71 (Delta: +0.00 USD) | <strong>Densidade do Núcleo:</strong> 66.2%</p>
