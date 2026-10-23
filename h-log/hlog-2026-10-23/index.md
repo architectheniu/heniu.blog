@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 18:07
+Data: 2026-10-23 19:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.23</h1>
+<h3>📈 [2026-10-23 19:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX znajduje się obecnie na poziomie 29042.43 (+0.29%), przy jednoczesnej akumulacji na rynku kasowym (CVD NDX = 47,23 M). Potwierdzają to kontrakty NQ (29209.25, +0.23%, CVD 35,7 K) oraz ETF QQQ (706.42, +0.28%, CVD 1,74 M). Zbiorczy wskaźnik kierunku przepływów wynosi 28, co wskazuje na umiarkowaną przewagę napływu kapitału. Szeroki rynek Nasdaq (TICKQ) wykazuje wartość -9.00, co przy średniej SMA200 na poziomie -35.24 sugeruje stabilizację nastrojów wewnątrz sesji.</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 24.82%, przy wolumenie opcji na poziomie 4,116,557. Współczynnik Put/Call Volume Ratio wynosi 1.06, co wskazuje na lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na większą zmienność. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale od 699.24 do 717.44.</p>
+</li>
+<li>
+<p><strong>Kontekst korekty i poziomy techniczne:</strong> Bieżąca korekta od szczytu z dnia 06.10 (31360.85) wynosi -7.39% (-2318 pkt) i trwa 13 sesji. Na tle historycznych danych, jest to korekta głębsza niż 57% poprzednich ruchów, co klasyfikuje ją jako większą korektę rynkową. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 29470–29490.</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-10-23 19:07</p>
 <h3>📈 [2026-10-23 18:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
