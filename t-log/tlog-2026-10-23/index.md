@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 02:59
+Data: 2026-10-23 03:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 03:29]</h3>
+<p>[T-LOG: 2026-10-23 03:29]</p>
+<p>STATUS: FUTURES (Tryb poza sesją kasową)<br />
+Obiekt aktywny: Sonda NQ.</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29161.00 (+0.07%). Wektor Q-Score wykazuje dodatnią dynamikę na poziomie 15. Pomiary CVD dla Sondy NQ odnotowują wartość 1,55 K, co klasyfikuje obecny stan jako test popytu. Wartość ADR dla NQ wynosi 31.79%, co pozycjonuje obecną zmienność powyżej średnich z ostatnich 5 dni.</p>
+<p>W Sferze Dysona (opcje QQQ) odnotowano zmienność IV na poziomie 25.46% przy oczekiwanym zasięgu w przedziale 691.63 – 717.31. Asymetria wolumenu Put/Call wynosi 1.01.</p>
+<p>Pozostałe instrumenty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia; brak bieżącej radiacji z rynku kasowego.</p>
+<p>Układ w fazie testowania popytu przy podwyższonej zmienności intraday.</p>
 <h3>🌌 [2026-10-23 02:59]</h3>
 <p>[TELEMETRIA AKTYWNA - TRYB FUTURES]</p>
 <p>Sonda NQ: 29185.00 (+0.15%).<br />
