@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Log #0210: Session summary 2026-10-23: NDX 28956.26 (0.00%)](https://heniu.blog/en/posts/log-0210/index.md) (2026-10-23)
 - [M15: 2026-10-23](https://heniu.blog/en/t-log/tlog-2026-10-23/index.md) (2026-10-23)
 - [H1: 2026-10-23](https://heniu.blog/en/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [Fundamentals #0021: Western Digital: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-23-0021/index.md) (2026-10-23)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0000: Definition of F-Logs](https://heniu.blog/en/f-log/flog-2026-10-13-0000/index.md) (2026-10-13)
 - [Log #0201: Gravitational Discrepancy: Euphoria in the Core amidst Cold Background Radiation](https://heniu.blog/en/posts/log-0201/index.md) (2026-10-13)
 - [M15: 2026-10-12](https://heniu.blog/en/t-log/tlog-2026-10-12/index.md) (2026-10-13)
-- [H1: 2026-10-12](https://heniu.blog/en/h-log/hlog-2026-10-12/index.md) (2026-10-12)
 

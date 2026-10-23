@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Log #0210: Resumo da sessão 2026-10-23: NDX 28956.26 (0.00%)](https://heniu.blog/pt-br/posts/log-0210/index.md) (2026-10-23)
 - [M15: 2026-10-23](https://heniu.blog/pt-br/t-log/tlog-2026-10-23/index.md) (2026-10-23)
 - [H1: 2026-10-23](https://heniu.blog/pt-br/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [Fundamentos #0021: Western Digital: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-23-0021/index.md) (2026-10-23)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0001: PepsiCo: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-13-0001/index.md) (2026-10-13)
 - [Fundamentos #0000: Definição de F-Logs](https://heniu.blog/pt-br/f-log/flog-2026-10-13-0000/index.md) (2026-10-13)
 - [Log #0201: Divergência Gravitacional: Euforia no Núcleo com Radiação de Fundo Fria](https://heniu.blog/pt-br/posts/log-0201/index.md) (2026-10-13)
-- [M15: 2026-10-12](https://heniu.blog/pt-br/t-log/tlog-2026-10-12/index.md) (2026-10-13)
 
