@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 07:07
+Date: 2026-10-23 08:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 08:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>the cash session (Spot) is currently closed. Active trading is occurring on NQ contracts, priced at 29145.50 (+0.02%) with cumulative flow (CVD) at 142, indicating testing of demand in the pre-market session.</li>
+<li>The NDX index closed the cash session at 28966.07 (-2.90%), with a Drawdown from Heniu's peak on 06.10 (31360.85) of -7.64% (2395 pts). This is a correction larger than 57% of historical corrective moves, classifying the current situation as a significant trend change. The nearest resistance zone (volume node) is located in the 29470–29490 range.</li>
+<li>The aggregate flow direction indicator is 15, which on a scale from -100 to +100 indicates a weak capital inflow advantage, close to the neutral point.</li>
+<li>Data from the QQQ ETF options market (volume 10,660,725, PCR 1.01) indicates balanced sentiment between buyers and sellers with a slight advantage for put options. Implied volatility (IV) is 25.46%, and the expected range of instrument movement lies between 691.63 to 717.31 points.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 08:07</p>
 <h3>📈 [2026-10-23 07:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>

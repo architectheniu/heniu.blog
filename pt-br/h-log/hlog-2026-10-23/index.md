@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 07:08
+Data: 2026-10-23 08:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.23 [PT-BR]</h1>
+<h3>📈 [2026-10-23 08:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A negociação ativa ocorre nos contratos NQ, cujo preço é 29145.50 (+0.02%) com o fluxo acumulado (CVD) em 142, o que indica a testagem de demanda na sessão fora do horário regular.</li>
+<li>O Índice Nasdaq-100 (NDX) fechou a sessão à vista (Spot) em 28966.07 (-2.90%), sendo que, desde o pico do Heniu no dia 06.10 (31360.85), foi registrado um recuo de -7.64% (2395 pts). Este é um recuo de natureza superior a 57% dos movimentos de correção históricos, o que classifica a situação atual como uma mudança significativa de tendência. A zona de resistência mais próxima (nó de volume) encontra-se no intervalo de 29470–29490.</li>
+<li>O indicador agregado de direção de fluxo é 15, o que, em uma escala de -100 a +100, indica uma leve vantagem de entrada de capital, próxima ao ponto neutro.</li>
+<li>Os dados do mercado de opções sobre QQQ (volume 10,660,725, PCR 1.01) indicam um sentimento equilibrado entre compradores e vendedores, com uma leve vantagem para as opções de venda. A volatilidade implícita (IV) é de 25.46%, e o intervalo esperado de movimento do instrumento situa-se entre 691.63 e 717.31 pontos.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-23 08:07</p>
 <h3>📈 [2026-10-23 07:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
