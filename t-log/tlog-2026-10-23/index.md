@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 14:59
+Data: 2026-10-23 15:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 15:14]</h3>
+<p>[T-LOG: 2026-10-23 15:14]</p>
+<p><strong>STATUS: FUTURES (TRYB POZA SESJĄ KASOWĄ)</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29044.50 (-0.34%). Wektor Q-Score wykazuje ujemną dynamikę, osiągając wartość -20 (Delta: -15.0). Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -5.59K, co klasyfikuje obecny stan jako test podaży. Wartość ADR NQ wynosi 46.10% (aktywna w trakcie sesji). W Sferze Dysona (opcje QQQ) Put/Call Ratio wynosi 0.34 przy wolumenie 10,059, co wskazuje na asymetrię wolumenu na korzyść kontraktów Call. Obiekty NDX, QQQ oraz Promieniowanie Tła (TICKQ) pozostają w uśpieniu i nie generują bieżącej radiacji.</p>
+<p><strong>DIAGNOZA UKŁADU:</strong><br />
+Układ w fazie testu podaży przy niskiej aktywności opcyjnej. Brak rezonansu wektorów; dominacja negatywnej delty Q-Score przy jednoczesnym testowaniu limitów podaży na instrumentach pochodnych.</p>
+<p>Log: 2026-10-23 15:14</p>
 <h3>🌌 [2026-10-23 14:59]</h3>
 <p>[TELEMETRIA: TRYB FUTURES - MONITOROWANIE SONDY NQ]</p>
 <p>Sonda NQ znajduje się na poziomie 29053.00 (-0.31%), wykazując obecną presję w postaci CVD na poziomie -6,09K, co klasyfikuje stan jako test podaży. Wektor kierunkowy Q-Score utrzymuje się na poziomie -5, co przy braku aktywności układu kasowego (NDX, QQQ, TICKQ w uśpieniu) wskazuje na neutralną, lecz lekko ujemną energię układu. ADR dla sondy wynosi 46.10%, co przy obecnej dynamice sesji jest wartością odnotowaną w trakcie trwania cyklu. W Sferze Dysona (opcje na QQQ) zmienność (IV) oscyluje w granicach 25.46%, przy asymetrii wolumenu Put/Call wynoszącej 1.01. Zasięg oczekiwany dla instrumentu w kolejnych cyklach mieści się w przedziale 691.63 – 717.31. Brak danych o interakcjach z węzłami wolumenu (HVN) w bieżącym oknie czasowym.</p>
