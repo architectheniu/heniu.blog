@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 12:08
+Data: 2026-10-23 13:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.23 [PT-BR]</h1>
+<h3>📈 [2026-10-23 13:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Situação no mercado de contratos:</strong> a sessão à vista (Spot) está atualmente fechada. Os contratos NQ estão sendo negociados em 29105.00 (-0.13%), com um fluxo acumulado (CVD) negativo de -3,57 K, o que indica o teste de oferta no after-hours. O indicador agregado de direção de fluxo é -5, confirmando uma leve vantagem da distribuição de capital.</li>
+<li><strong>Análise da sessão à vista (fechada):</strong> O Índice Nasdaq-100 (NDX) fechou a sessão com um resultado de -2.90% (28958.69). Uma anomalia significativa foi observada: apesar da queda de preço, o fluxo acumulado (CVD) para o NDX foi de 429,55 M, o que sugere uma absorção ativa de oferta ou acumulação passiva em níveis mais baixos durante a sessão. O ETF QQQ fechou em 704.56 (-2.86%) com CVD negativo (-512,38 K), confirmando a pressão de venda no mercado de ações.</li>
+<li><strong>Contexto de correção e níveis:</strong> A correção em curso desde o pico de 06.10 (31360.85) é atualmente de -7.66% (-2402 pts). Este é um movimento mais profundo do que 57% das correções históricas registradas na memória do sistema. A zona de resistência mais próxima (nó de volume) encontra-se no intervalo de 29470–29490.</li>
+<li><strong>Mercado de opções:</strong> O volume de opções sobre QQQ foi de 10,660,725, com a razão Put/Call em 1.01, indicando um sentimento equilibrado com uma leve inclinação para proteção contra quedas (hedging). A volatilidade implícita (IV) é de 25.46%, e o alcance esperado de movimento para o instrumento é o intervalo de 691.63 a 717.31 pontos.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-23 13:07</p>
 <h3>📈 [2026-10-23 12:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

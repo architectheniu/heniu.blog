@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 12:08
+Date: 2026-10-23 13:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 13:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Futures market situation:</strong> the cash session (Spot) is currently closed. NQ contracts are trading at 29105.00 (-0.13%), with a negative cumulative flow (CVD) of -3,57 K, indicating testing of supply in after-hours trading. The aggregate flow direction indicator is -5, confirming a slight advantage for capital distribution.</li>
+<li><strong>Analysis of the cash session (closed):</strong> The NDX index closed the session at -2.90% (28958.69). A significant anomaly was noted: despite the price drop, the cumulative flow (CVD) for NDX was 429,55 M, suggesting active absorption of supply or passive accumulation at lower levels during the session. The QQQ ETF closed at 704.56 (-2.86%) with a negative CVD (-512,38 K), confirming selling pressure in the equity market.</li>
+<li><strong>Correction context and levels:</strong> The ongoing drawdown from Heniu's peak on 06.10 (31360.85) is currently -7.66% (-2402 pts). This is a deeper move than 57% of historical corrections recorded in the system memory. The nearest resistance zone (volume node) is located in the 29470–29490 range.</li>
+<li><strong>Options market:</strong> QQQ options volume was 10,660,725, with a Put/Call ratio at 1.01, indicating balanced sentiment with a slight tilt towards downside hedging. Implied volatility (IV) is 25.46%, and the expected price range for the instrument is the interval from 691.63 to 717.31 points.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 13:07</p>
 <h3>📈 [2026-10-23 12:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
