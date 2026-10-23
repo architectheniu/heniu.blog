@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 06:08
+Data: 2026-10-23 07:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.23 [PT-BR]</h1>
+<h3>📈 [2026-10-23 07:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A análise baseia-se nos contratos futuros NQ, que ao preço de 29133.75 mostram estabilização (-0.03%) com baixo fluxo acumulado (CVD) no nível de 291, o que indica o teste de demanda.</li>
+<li>O Índice NDX na sessão à vista fechou com uma forte queda (-2.90%) para o nível de 28966.07, no entanto, foi registrada uma atividade anômala de fluxo (CVD NDX = 169,35 M), o que, com a queda de preço, sugere a presença de absorção passiva de demanda. O indicador de direção do fluxo de mercado é 15, o que, em uma escala de -100 a +100, significa uma fraca vantagem de entrada de capital.</li>
+<li>O recuo atual desde o pico de 06.10 (31360.85) é de -7.64% (-2395 pts). Esta é uma correção com caráter maior do que 57% dos movimentos históricos deste tipo, aproximando-se dos níveis do percentil 80.</li>
+<li>No mercado de opções sobre QQQ, a volatilidade implícita (IV) é de 25.46%, e a razão Put/Call no nível de 1.01 indica uma postura neutra com uma leve vantagem de proteções contra queda. O alcance esperado de movimento do instrumento situa-se no intervalo de 691.63 a 717.31.</li>
+<li>A principal resistência técnica encontra-se na zona de nó de volume no intervalo 29470–29490.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-23 07:07</p>
 <h3>📈 [2026-10-23 06:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
