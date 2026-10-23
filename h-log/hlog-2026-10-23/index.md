@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 21:07
+Data: 2026-10-23 23:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.23</h1>
+<h3>📈 [2026-10-23 zamknięcie]</h3>
+<p><strong>H-LOG: Podsumowanie sesji kasowej</strong></p>
+<p>Jest to podsumowanie sesji kasowej (Spot) z 2026-10-23. Indeks NDX zamknął się na poziomie 28956.26 przy zmianie 0.00%, natomiast kontrakt NQ osiągnął 29129.75, co stanowi spadek o 0.04%. ETF QQQ zakończył sesję na poziomie 704.39 ze zmianą wynoszącą -0.02%. Wskaźnik TICKQ zamknął się na poziomie 511.00, podczas gdy jego SMA200 wynosiło -21.55. Odnotowano anomalię MOC na poziomie +24,23 M oraz wskaźnik Put/Call OI wynoszący 1.43.</p>
+<p>Raport H-Log: podsumowanie sesji 2026-10-23</p>
 <h3>📈 [2026-10-23 21:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
