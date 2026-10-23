@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 18:59
+Data: 2026-10-23 19:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,20 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 19:14]</h3>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p><strong>DANE TELEMETRYCZNE:</strong><br />
+- <strong>Gwiazda NDX:</strong> Cena: 28999.18 (+0.14%) | CVD: 43,43M [akumulacja]<br />
+- <strong>Sonda NQ:</strong> Cena: 29164.75 (+0.08%) | CVD: 32,32K [akumulacja]<br />
+- <strong>Satelita QQQ:</strong> Cena: 705.41 (+0.13%) | CVD: 1,64M [akumulacja]<br />
+- <strong>Średnia Akcja:</strong> [BRAK_DANYCH_W_TELEMETRII] (Delta: -0.43 USD)<br />
+- <strong>Szeroka Giełda (TICKQ):</strong> -447.00 [załamanie rynku] | SMA200: -37.43 [wyprzedaż] (Status: BELOW)<br />
+- <strong>Sfera Dysona (Opcje):</strong> IV: 24.72% | P/C Ratio: 1.05<br />
+- <strong>Wektor Rynku (Q-Score):</strong> 20</p>
+<p><strong>ANALIZA KINEMATYKI:</strong><br />
+W układzie występuje wyraźne rozwarstwienie struktur (Cross-Asset Divergence). Podczas gdy Gwiazda NDX, Sonda NQ oraz Satelita QQQ wykazują synchronizację wektorów w fazie akumulacji (CVD dodatni na wszystkich trzech poziomach), Szeroka Giełda (TICKQ) znajduje się w stanie załamania rynku, generując silną, ujemną radiację. Ten grawitacyjny dysonans sugeruje, że obecny wzrost jest asymetryczny i strukturalnie "pusty" – agresywny popyt jest skoncentrowany w wąskim jądrze indeksów, podczas gdy szeroka masa rynkowa pozostaje w fazie wyprzedaży. Sonda NQ utrzymuje cenę 29164.75 przy ADR powyżej średniej (60.81%), co przy jednoczesnym ujemnym TICKQ wskazuje na napięcie między wysoką koncentracją kapitału a ogólnym brakiem siły szerokiego rynku.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Dysonans wektorów; asymetryczna akrecja w wąskim jądrze przy jednoczesnym załamaniu szerokiej struktury.</p>
 <h3>🌌 [2026-10-23 18:59]</h3>
 <p>[T-LOG: 2026-10-23 18:59]</p>
 <p><strong>STATUS: SPOT | TRYB: SESJA KASOWA</strong></p>
