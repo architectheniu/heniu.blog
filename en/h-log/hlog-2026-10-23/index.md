@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 14:07
+Date: 2026-10-23 15:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 15:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts, which are oscillating around 29059.75 (-0.28%), with a negative cumulative flow (CVD) of -4,97 K, indicating testing of supply.</li>
+<li>The flow direction indicator is -20, which means a predominance of capital distribution across the entire sector.</li>
+<li>Despite the NDX index falling by -2.90%, an anomalous, positive cumulative flow (CVD) was recorded on the cash session at a level of 429,55 M shares, suggesting passive absorption of supply by buyers despite the falling price.</li>
+<li>QQQ options data at a volume of 9,465 indicates a Put/Call Ratio at a level of 0.28, which, given the lack of implied volatility (IV 0.00%), testifies to a strong predominance of long positions and low demand for hedging-type protection. The expected movement range is from 691.63 to 717.31.</li>
+<li>The ongoing drawdown from the peak of 06.10 (31360.85) currently stands at -7.66% (-2402 pts). This is a deeper move than 57% of previous corrections, classified as a larger correction.</li>
+<li>Closer resistance is located in the volume node in the 29470–29490 zone.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 15:07</p>
 <h3>📈 [2026-10-23 14:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
