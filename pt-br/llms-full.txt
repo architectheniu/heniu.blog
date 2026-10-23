@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0021: Western Digital: resultados do 1Q2027
+
+Data: 2026-10-23 20:17
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-23-0021/
+
+
+A receita da Western Digital (WDC) cresceu no primeiro trimestre do ano fiscal de 2027 em 55,5% a/a para o nível de 4,38 bi USD, e o lucro por ação (contábil) aumentou 50,8% a/a para 4,63 USD.
+
+### Resultados do trimestre
+
+O lucro por ação ajustado foi de 4,64 USD, o que representa um aumento de 160,7% a/a em comparação com 1,78 USD no ano anterior.
+
+### Projeção da empresa
+
+No segundo trimestre de 2027, a empresa espera receitas na faixa de 5,00 bi USD – 5,20 bi USD (aumento de 66,0% – 72,0%) e lucro por ação ajustado no nível de 5,60–6,00 USD.
+
+### O que diz a administração
+
+A administração enfatizou que o aumento da margem bruta é de natureza duradoura e é impulsionado por preços, maior densidade de gravação e a transição dos clientes para discos de maior capacidade. De acordo com a administração, o ambiente de preços é favorável, o que permite continuar elevando o preço por terabyte, inclusive em entregas fora de contratos de longo prazo. A administração observou que os clientes avaliam muito bem os novos discos HAMR devido à sua baixa taxa de falhas, o que dá confiança quanto à conclusão do processo de qualificação deles. Segundo a administração, a empresa não pretende aumentar o número de discos produzidos, mas foca no crescimento por meio de maior densidade de gravação, e um eventual desaceleração em novos fornecedores de nuvem para IA não constituiria um problema grave devido à demanda duradoura.
+
+
+---
+
 ## Fundamentos #0020: Notificações de empresas: Meta Platforms, Space Exploration Technologies, Tesla; transações de insiders
 
 Data: 2026-10-23 10:10
@@ -1126,96 +1149,5 @@ Os dados provêm exclusivamente de documentos oficiais das empresas, tais como r
 Eu descrevo os resultados de uma empresa apenas quando eles estão completos e abrangem também a conversa da diretoria com analistas. Eu escrevo esses textos por conta própria em minha estação, usando linguagem comum. Cada número que eu forneço provém diretamente dos documentos; não publico frases com números que não encontram confirmação nas fontes.
 
 O F-Log não contém previsões ou recomendações. Eu descrevo fatos, sem avaliar o que deve ser comprado ou vendido. Eu anuncio cada entrada na plataforma X com uma breve informação junto com um link. As versões em inglês e português são traduções do mesmo texto e contêm os mesmos números.
-
-
----
-
-## Log #0201: Divergência Gravitacional: Euforia no Núcleo com Radiação de Fundo Fria
-
-Data: 2026-10-13 22:03
-Endereço: https://heniu.blog/pt-br/posts/log-0201/
-
-
-> ⚠️ **ERRATUM (2026-10-17)**  
-> **A Ação Média nesta entrada estava errada.** Os preços de quatro empresas acima de 1000 USD (ASML, MELI, MPWR, SNDK) foram lidos incorretamente, de modo que o preço médio da ação e a sua variação ficaram distorcidos.
->
-> **Correções:**
-> - Ação Média: os valores corretos não podem ser reconstruídos, por isso os removemos.
-> - Removemos o sinal de porcentagem duplicado no IV.
-
-**Stardate:** 2026.10.13\
-**Status dos Sistemas:** Observação Externa\
-**Setor:** Bandas Internas de Volatilidade
-
----
-
-### Telemetria de Fechamento
-
-> *A observação mostrou uma forte acreção de combustível na Estrela Central com uma radiação negativa simultânea do mercado amplo. O sistema encontra-se em uma fase de dissonância entre o fluxo de energia e a estrutura de preços.*
-
-* **Scanner Subespacial (Distribuição de Massa):**
-    * *T-Mass do Sistema:* **43.52 Trilhões de USD**
-    * *Delta de Sessão (24h):* **-0.07 Trilhões de USD**
-    * *Densidade do Núcleo (Heavy Nine):* **68.75%** (Delta: **+0.09%**)
-    * *Ação Média (Temperatura da Periferia):* **[SEM DADOS]** (Delta: **[SEM DADOS]**)
-
-* **a Estrela NDX (Sol):** Fechamento: **30568.69 (-0.31%)**
-    * *Vetor (CVD):* **180,41 M [euforia]**
-    * *Anomalia MOC:* **+19,89 M**
-    * *Consumo de Alcance (ADR Util):* **77.31%**
-    * *Recuo desde o pico do Heniu:* **-2.11%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **a Sonda NQ (Mercúrio):** Fechamento: **30783.50 (-0.37%)**
-    * *Vetor (CVD):* **13,06 K [acumulação]**
-    * *Consumo de Alcance (ADR Util):* **70.88%**
-
-* **a Esfera de Dyson (QQQ):** Fechamento: **743.64 (-0.32%)**
-    * *Vetor de População:* **2,1 M [wystrzał rynku]**
-    * *Consumo de Alcance (ADR Util):* **74.48%**
-
-* **a Radiação de Fundo (TICKQ) -114.00 [venda]:**
-    * *SMA200:* **-19.70 [teste de oferta]**
-
-* **Estrutura Gravitacional (Opções):**
-    * *Implied Volatility (IV):* **18.83%**
-    * *Put/Call OI:* **1.49**
-
----
-
-### Diário de Bordo: Divergência Gravitacional
-
-**1. Acreção na Singularidade NDX**
-a Estrela Central (NDX) registrou uma queda de 0.31%, no entanto, seu fluxo de energia interno (CVD) atingiu o nível de 180,41M, o que classifica o estado como euforia. Embora o preço esteja 2.11% abaixo do pico de 2026-10-06, o influxo de combustível para o Núcleo permanece intenso. A composição do Núcleo (>1T) mostra estabilidade, não registrando colapso nem novas emergências de singularidade.
-
-**2. Radiação TICKQ e Estabilidade da Esfera de Dyson**
-a Radiação de Fundo (TICKQ) caiu para o nível de -114.00, o que indica uma fase de venda no sistema amplo, enquanto a radiação média (SMA200) no nível de -19.70 sugere um teste de oferta. Simultaneamente, a Esfera de Dyson (QQQ) mostra uma energia anômala — o CVD no nível de 2,1M sinaliza um wystrzał rynku, o que contrasta com a dinâmica negativa de preço (-0.32%).
-
-**3. Dinâmica da Sonda NQ e Dados Fundamentais**
-a Sonda NQ (sessão de futuros) move-se em um regime de acumulação (CVD: 13,06K) com uma queda de preço de 0.37%. Nos Campos Fundamentais, observou-se que os insiders líquidos nos últimos 5 dias de sessão venderam a Classe 0 por um valor de -1,94 M USD.
-
-**Veredito Quântico:**
-O sistema mostra uma forte divergência: a alta pressão de combustível em NDX e QQQ não se traduz em altas de preços, o que, com o TICKQ negativo, indica uma tensão mecânica entre a concentração de energia no Núcleo e a venda em expansão nas periferias.
-
-**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
-
-**Fim do registro.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
 
 
