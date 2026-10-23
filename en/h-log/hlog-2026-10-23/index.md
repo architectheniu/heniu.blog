@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 09:08
+Date: 2026-10-23 10:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 10:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status and NQ contracts:</strong> The cash session (Spot) is currently closed. NQ contracts are trading at 29205.50 (+0.21%), with a cumulative flow (CVD) of -72, indicating a supply test in after-hours trading.</li>
+<li><strong>Index and flow analysis (NDX/QQQ):</strong> Despite the close of the cash session, data from the last close indicates a strong correction of the NDX index by -2.90% (price 28966.07). A significant anomaly was noted: despite the price drop, the cumulative flow (CVD) for NDX is 169,35 M, suggesting passive demand absorption in the cash session. At the same time, the QQQ ETF shows a supply test (CVD -397,16 K) at a price of 704.56 (-2.86%).</li>
+<li><strong>Sentiment and options:</strong> The flow direction indicator is -5, which means a slight advantage for capital distribution. In the options on QQQ market, implied volatility (IV) is 25.46%, and a Put/Call Ratio at the 1.01 level suggests balanced sentiment with a slight tilt towards downside hedging. The market-expected range of movement is between 691.63 and 717.31 points.</li>
+<li><strong>Technical context:</strong> The current drawdown from Heniu's peak on 06.10 (31360.85) is -7.64% (-2395 pts). This is a larger correction (above the median and 80. percentile of historical corrections). The nearest resistance zone (volume node) is located in the 29470–29490 range.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 10:07</p>
 <h3>📈 [2026-10-23 09:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
