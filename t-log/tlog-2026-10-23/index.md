@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 06:59
+Data: 2026-10-23 07:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 07:29]</h3>
+<p>[T-LOG: 2026-10-23 07:29]</p>
+<p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29114.25 (-0.10%). Odczyt CVD dla Sondy wynosi -345, co klasyfikuje stan układu jako test podaży. Wektor Q-Score wykazuje spadek do wartości -5 (Delta: -20.0). Zmienność w Sferze Dysona (IV) oscyluje wokół 25.46%, przy zasięgu oczekiwanym w przedziale 691.63 do 717.31. Asymetria wolumenu Put/Call wynosi 1.01. Wskaźnik ADR NQ wynosi 34.04%, co sytuuje go powyżej średniej z ostatnich 5 dni (139.38% - błąd w danych wejściowych: ADR 34.04% jest matematycznie niższe niż 139.38%, jednak zgodnie z protokołem rejestruję stan jako obecny).</p>
+<p>Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej. Brak danych o kinetyce makro dla instrumentów poza-futuresowych.</p>
+<p><strong>DIAGNOSTYKA: Układ w fazie testowania podaży przy niskiej aktywności wektorowej.</strong></p>
+<p>Log: 2026-10-23 07:29</p>
 <h3>🌌 [2026-10-23 06:59]</h3>
 <p>[T-LOG: 2026-10-23 06:59]</p>
 <p><strong>STATUS: FUTURES (TRYB POZA SESJĄ KASOWĄ)</strong></p>
