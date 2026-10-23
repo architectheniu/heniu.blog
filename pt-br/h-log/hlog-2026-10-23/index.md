@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 21:08
+Data: 2026-10-23 23:07
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.23 [PT-BR]</h1>
+<h3>📈 [2026-10-23 fechamento]</h3>
+<p><strong>H-LOG: Resumo da sessão à vista (Spot)</strong></p>
+<p>Este é o resumo da sessão à vista (Spot) de 2026-10-23. O Índice Nasdaq-100 (NDX) fechou em 28956.26 com uma mudança de 0.00%, enquanto o Contrato futuro NQ atingiu 29129.75, o que representa uma queda de 0.04%. O ETF QQQ encerrou a sessão em 704.39 com uma mudança de -0.02%. O indicador TICKQ fechou em 511.00, enquanto sua SMA200 era de -21.55. Foi registrada uma Anomalia MOC no nível de +24,23 M e o indicador Put/Call OI de 1.43.</p>
+<p>Relatório H-Log: resumo da sessão 2026-10-23</p>
 <h3>📈 [2026-10-23 21:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>

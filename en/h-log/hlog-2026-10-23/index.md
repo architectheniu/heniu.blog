@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 21:08
+Date: 2026-10-23 23:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 close]</h3>
+<p><strong>H-LOG: the cash session (Spot) summary</strong></p>
+<p>This is the summary of the cash session (Spot) from 2026-10-23. The NDX index closed at 28956.26 with a change of 0.00%, while the NQ futures contract reached 29129.75, representing a decrease of 0.04%. The QQQ ETF finished the session at 704.39 with a change of -0.02%. The TICKQ indicator closed at 511.00, while its SMA200 was -21.55. A MOC Anomaly was recorded at +24,23 M and the Put/Call OI indicator was 1.43.</p>
+<p>H-Log report: session summary 2026-10-23</p>
 <h3>📈 [2026-10-23 21:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
