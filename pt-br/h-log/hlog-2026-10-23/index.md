@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 16:08
+Data: 2026-10-23 17:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.23 [PT-BR]</h1>
+<h3>📈 [2026-10-23 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O Índice Nasdaq-100 (NDX) sobe 0,46% para o nível 29093,36, com o fluxo acumulado (CVD) no nível de 56,5 M mostrando acumulação. Isso é confirmado pelo Contrato futuro NQ (+0,37%, CVD 37,06 K) e pelo ETF QQQ (+0,43%, CVD 2,01 M). O indicador de direção de fluxo é 18, o que indica uma vantagem moderada de entrada de capital. A Amplitude de mercado (TICKQ) está no nível 7,00, o que, com uma média SMA200 de -37,83, sugere um retorno a valores positivos.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 24,80%, e a relação Put/Call (PCR) está em 0,95, o que indica um equilíbrio próximo entre a demanda por opções de compra e de venda. Com um volume de opções de 2 180 467, o alcance esperado do movimento é de 695,19 a 715,83 pontos.</li>
+<li><strong>Contexto de correção e níveis técnicos:</strong> O Recuo desde o pico de 06.10 (31360,85) é de -7,23% (-2267 pts) e dura 13 sessões. Esta é uma correção de caráter maior (ultrapassando a mediana e o percentil 80 de correções históricas), mais profunda do que 57% dos movimentos de correção até agora. A resistência significativa mais próxima encontra-se no nó de volume na zona 29470–29490 (1,2% do volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-23 17:07</p>
 <h3>📈 [2026-10-23 16:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
