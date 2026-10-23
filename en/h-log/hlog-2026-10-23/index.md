@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 01:07
+Date: 2026-10-23 02:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 02:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>the cash session (Spot) is currently closed. Analysis is based on NQ futures contracts, which are trading at 29063.75 (-0.27%), with cumulative flow (CVD) at -31, indicating testing of supply.</li>
+<li>the NDX Star recorded a decline of -2.90% (price 28966.07), which represents a correction of -7.64% from the peak on 06.10.2026 (31360.85). The current correction is deeper than 57% of historical corrections and qualifies as a major correction relative to the median and 80th percentile.</li>
+<li>The aggregate flow direction indicator is -5, meaning a slight advantage of capital distribution over accumulation.</li>
+<li>The QQQ ETF options market shows implied volatility (IV) at 25.46% with a volume of 10,660,725. The Put/Call Ratio is 1.01, suggesting a near equilibrium between hedges and long positions, with a slight shift toward protecting short positions. The expected range of movement is from 691.63 to 717.31 points.</li>
+<li>The nearest resistance zone (volume node) is located in the 29470–29490 range.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 02:07</p>
 <h3>📈 [2026-10-23 01:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
