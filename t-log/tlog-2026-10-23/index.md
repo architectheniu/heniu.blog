@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 20:44
+Data: 2026-10-23 20:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 20:59]</h3>
+<p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
+<p>Układ znajduje się w stanie grawitacyjnego napięcia (Rozwarstwienie Układu). Gwiazda NDX wykazuje akumulację (CVD: 42,97M), jednak Sonda NQ (Cena: 29143.00) oraz Satelita QQQ (Cena: 704.87) utrzymują status akumulacji przy znacznie niższych wolumenach CVD (odpowiednio 37,59K oraz 1,89M). Szeroka Giełda Nasdaq (TICKQ) raportuje głębokie załamanie rynku na poziomie -250.00, co znajduje potwierdzenie w ujemnej średniej radiacji (SMA200: -28.45). Wektor kierunkowy Q-Score wynosi 28, wskazując na słabą dodatnią energię w skali makro. Zmienność w Sferze Dysona (IV) utrzymuje się na poziomie 24.87%, przy asymetrii wolumenu Put/Call wynoszącej 1.10. ADR dla głównych obiektów oscyluje w granicach 60-85%, co plasuje aktywność poniżej średnich historycznych.</p>
+<p><strong>DIAGNOZA: Dysonans wektorów; wzrosty na Gwiazdzie Matce są strukturalnie puste i nie znajdują potwierdzenia w szerokim promieniowaniu rynku.</strong></p>
+<p>Log: 2026-10-23 20:59</p>
 <h3>🌌 [2026-10-23 20:44]</h3>
 <p>[T-LOG: 2026-10-23 20:44]</p>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
