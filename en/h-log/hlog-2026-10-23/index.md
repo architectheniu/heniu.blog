@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 08:07
+Date: 2026-10-23 09:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,19 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 09:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on NQ futures contract activity and data from the regular session close.</li>
+<li>NQ contracts are trading at 29200.50 (+0.20%), indicating an attempt to test demand with cumulative flow (CVD) at 109.</li>
+<li>The NDX index closed the cash session with a result of -2.90% (price 28966.07). Despite the price drop, a significant anomaly was noted in the form of cumulative flow (CVD) at the level of 169,35 M, suggesting the presence of passive demand absorption or accumulation during the declines.</li>
+<li>The market picture is supplemented by a flow direction indicator of 15, which, on a scale from -100 to +100, indicates a weak advantage of capital inflow, close to the neutral point.</li>
+<li>Options on QQQ data (IV: 25.46%, PCR: 1.01) indicate balanced sentiment with a slight advantage of put options, with the market expecting a movement range in the interval from 691.63 to 717.31 points.</li>
+<li>The ongoing drawdown from the peak of 06.10 (31360.85) currently stands at -7.64% (-2395 pts). This is a correction of a larger nature than the median of historical movements, deeper than 57% of corrections recorded in the system memory.</li>
+<li>Key resistance is located in the volume node zone in the range 29470–29490.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 09:07</p>
 <h3>📈 [2026-10-23 08:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
