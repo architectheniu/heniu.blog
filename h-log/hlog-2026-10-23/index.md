@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 13:07
+Data: 2026-10-23 14:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.23</h1>
+<h3>📈 [2026-10-23 14:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Aktywny handel odbywa się na kontraktach NQ, których cena wynosi 29101.75 (-0.14%), przy ujemnym przepływie skumulowanym (CVD) na poziomie -4,33 K, co wskazuje na testowanie podaży.</li>
+<li>Wskaźnik kierunku przepływów rynkowych wynosi -5, co oznacza lekką przewagę dystrybucji kapitału w ujęciu zbiorczym.</li>
+<li>Analiza opcji QQQ przy wolumenie 10,660,725 wskazuje na Put/Call Ratio na poziomie 1.01, co sugeruje wyrównany sentyment z lekką przewagą zabezpieczeń spadkowych. Zmienność implikowana (IV) wynosi 25.46%, a oczekiwany zasięg ruchu mieści się w przedziale 691.63 do 717.31 punktów.</li>
+<li>Obecna korekta indeksu NDX od szczytu z 06.10.2026 (31360.85) wynosi -7.66% (-2402 pkt). Na podstawie danych historycznych jest to korekta o charakterze większym niż 57% dotychczasowych ruchów korygujących.</li>
+<li>Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 29470–29490.</li>
+</ul>
+<p>Raport H-Log: 2026-10-23 14:07</p>
 <h3>📈 [2026-10-23 13:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
