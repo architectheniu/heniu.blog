@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 20:08
+Date: 2026-10-23 21:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 21:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is at price 28973.58 (+0.05%), with cumulative flow CVD at 37,03 M [accumulation]. NQ futures show slight downward pressure (29137.75, -0.01%) with CVD 36,61 K [accumulation], while QQQ ETF maintains stability (704.75, +0.04%) with CVD 1,83 M [accumulation]. The aggregate flow direction indicator is 28, indicating a moderate advantage in capital inflow.</li>
+<li><strong>Market breadth and sentiment:</strong> The TICKQ indicator is -322.00, which, with the SMA200 average at -27.60, indicates a strong shift towards selling in the Nasdaq equity market breadth.</li>
+<li><strong>QQQ Options analysis:</strong> Implied volatility (IV) is 25.00%, and the Put/Call Volume Ratio is at 1.10, suggesting a slight advantage in hedging positions or expectation of greater volatility. With an options volume of 5,647,961, the market-expected move range lies between 696.87 and 714.43 points.</li>
+<li><strong>Correction context and levels:</strong> The ongoing drawdown from the peak on 06.10 (31360.85) is currently -7.61% (-2387 pts). Based on historical data, this is a larger-scale correction (above the median and 80. percentile). The nearest resistance zone (volume node) is located in the 29470–29490 range.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 21:07</p>
 <h3>📈 [2026-10-23 20:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
