@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 15:08
+Date: 2026-10-23 16:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 16:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is currently at 28991.49 (+0.11%), with simultaneous accumulation in the cash market (CVD NDX: 34,35 M). NQ futures (29154.50, +0.05%) and QQQ ETF (705.21, +0.10%) also show capital inflow (accumulation). The flow direction indicator is 20, indicating a weak advantage of capital inflow. Market breadth (TICKQ) is recording strong selling pressure at -294.00, which deviates significantly from the SMA200 average (-46.07).</li>
+<li><strong>QQQ options analysis:</strong> Options volume is 369,801 with implied volatility (IV) at 26.06%. A Put/Call Ratio of 1.04 suggests a slight advantage of hedging positions or anticipation of greater volatility, which corresponds with the expected movement range within the 688.18 to 716.44 point interval.</li>
+<li><strong>Technical context and correction:</strong> The ongoing drawdown from the peak of 06.10 (31360.85) is currently -7.56% (-2369 pts). Based on historical data, this is a larger correction (exceeding the median and 80. percentile of previous movements), deeper than 57% of corrections recorded in system memory.</li>
+<li><strong>Support and resistance levels:</strong> The nearest resistance zone (volume node) is in the 29470–29490 range. The distance of the price from this level increases with the declines, which limits the potential for a short-term rebound.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 16:07</p>
 <h3>📈 [2026-10-23 15:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
