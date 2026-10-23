@@ -7,6 +7,27 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0020: Notificações de empresas: Meta Platforms, Space Exploration Technologies, Tesla; transações de insiders
+
+Data: 2026-10-23 10:10
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-23-0020/
+
+
+Meta Platforms (META) apresentou resultados trimestrais.
+
+Space Exploration Technologies (SPCX) apresentou resultados trimestrais.
+
+Tesla (TSLA) apresentou resultados trimestrais.
+
+Insiders venderam ações no valor de 1,3 mi USD, incluindo 1,3 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi reportada por insiders da Apple (AAPL): 0,8 mi USD. A segunda maior venda foi reportada por insiders da Western Digital (WDC): 0,3 mi USD.
+
+Jennifer Newstead, vice-presidente sênior e consultora jurídica principal e de assuntos governamentais da Apple (AAPL), vendeu 2 399 ações no valor de 0,8 mi USD como parte do plano 10b5-1.
+
+Outras 5 transações também foram reportadas.
+
+
+---
+
 ## Log #0209: Resumo da sessão 2026-10-22: NDX 28962.86 (-2.90%)
 
 Data: 2026-10-22 22:03
@@ -1174,97 +1195,6 @@ a Sonda NQ (sessão de futuros) move-se em um regime de acumulação (CVD: 13,06
 
 **Veredito Quântico:**
 O sistema mostra uma forte divergência: a alta pressão de combustível em NDX e QQQ não se traduz em altas de preços, o que, com o TICKQ negativo, indica uma tensão mecânica entre a concentração de energia no Núcleo e a venda em expansão nas periferias.
-
-**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
-
-**Fim do registro.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
-
-
----
-
-## Log #0200: Colapso do campo gravitacional da Estrela Central
-
-Data: 2026-10-12 22:03
-Endereço: https://heniu.blog/pt-br/posts/log-0200/
-
-
-> ⚠️ **ERRATUM (2026-10-17)**  
-> **A Ação Média nesta entrada estava errada.** Os preços de quatro empresas acima de 1000 USD (ASML, MELI, MPWR, SNDK) foram lidos incorretamente, de modo que o preço médio da ação e a sua variação ficaram distorcidos.
->
-> **Correções:**
-> - Ação Média: os valores corretos não podem ser reconstruídos, por isso os removemos.
-> - Removemos o sinal de porcentagem duplicado no IV.
-
-**Stardate:** 2026.10.12\
-**Status dos Sistemas:** Observação Externa\
-**Setor:** Bandas Internas de Volatilidade
-
----
-
-### Telemetria de Fechamento
-
-> *Observação de um rápido fluxo de saída de energia do sistema NDX com um colapso simultâneo na amplitude da Radiação de Fundo (TICKQ). O sistema encontra-se em estado de desestabilização estrutural.*
-
-* **Scanner Subespacial (Distribuição de Massa):**
-    * *T-Mass do Sistema:* **43.59 Trilhões de USD**
-    * *Delta de Sessão (24h):* **-0.16 Trilhões de USD**
-    * *Densidade do Núcleo (Heavy Nine):* **68.66%** (Delta: **+0.24%**)
-    * *Ação Média (Temperatura da Periferia):* **[SEM DADOS]** (Delta: **[SEM DADOS]**)
-
-* **a Estrela NDX (Sol):** Fechamento: **30667.52 (-0.71%)**
-    * *Vetor (CVD):* **−110,59 M [pânico]**
-    * *Anomalia MOC:* **+18,56 M**
-    * *Consumo de Amplitude (ADR Util):* **66.27%**
-    * *Recuo desde o pico do Heniu:* **-1.79%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **a Sonda NQ (Mercúrio):** Fechamento: **30890.50 (-0.70%)**
-    * *Vetor (CVD):* **−2,51 K [teste de oferta]**
-    * *Consumo de Amplitude (ADR Util):* **101.02%**
-
-* **a Esfera de Dyson (QQQ):** Fechamento: **745.98 (-0.70%)**
-    * *Vetor de População:* **147,56 K [teste de demanda]**
-    * *Consumo de Amplitude (ADR Util):* **66.94%**
-
-* **a Radiação de Fundo (TICKQ) -522.00 [colapso do mercado]:**
-    * *SMA200:* **-3.19 [teste de oferta]**
-
-* **Estrutura Gravitacional (Opções):**
-    * *Implied Volatility (IV):* **18.72%**
-    * *Put/Call OI:* **1.50**
-
----
-
-### Diário de Bordo: Colapso do campo gravitacional da Estrela Central
-
-**1. Vazamento de energia da Estrela Central**
-a Estrela NDX registrou uma queda de 0,71%, o que, junto com o recuo acumulado desde o pico de 1,79%, sinaliza o enfraquecimento do campo de força. O fluxo de energia (CVD) para NDX atingiu o nível de -110,59M, o que classifica o estado do sistema como pânico. a Sonda NQ confirma essa tendência, mostrando uma queda de 0,70% e permanecendo na fase de teste de oferta (CVD: -2,51K).
-
-**2. Radiação do mercado amplo e a Esfera de Dyson**
-a Radiação de Fundo (TICKQ) caiu para o nível de -522, o que indica um colapso do mercado em escala ampla, enquanto a radiação média SMA200 encontra-se na fase de teste de oferta (-3,19). No entanto, a Esfera de Dyson (QQQ) mostra uma resistência anômala – apesar da queda de preço de 0,70%, o fluxo de energia (CVD) local é de 147,56K, o que indica um teste de demanda dentro da estrutura de opções.
-
-**3. Estabilidade do Núcleo e dados fundamentais**
-A massa total do sistema (T-Mass) é de 43,59 Trilhões de USD, e a flutuação da composição do Núcleo permanece estável, sem detecção de colapso de uma singularidade da Classe 0. Nos Campos Fundamentais, registrou-se uma ação líquida negativa de insiders na Classe 0 no nível de -1,94 M USD nos últimos 5 períodos de sessão.
-
-**Veredito Quântico:**
-O sistema experimenta um rápido esgotamento de combustível do centro de massa (NDX), o que provoca um colapso na radiação ampla (TICKQ), com uma tentativa simultânea de estabilização energética dentro da Esfera de Dyson (QQQ).
 
 **Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
 

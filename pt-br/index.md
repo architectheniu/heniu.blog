@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0020: Notificações de empresas: Meta Platforms, Space Exploration Technologies, Tesla; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-23-0020/index.md) (2026-10-23)
 - [H1: 2026-10-23](https://heniu.blog/pt-br/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [M15: 2026-10-23](https://heniu.blog/pt-br/t-log/tlog-2026-10-23/index.md) (2026-10-23)
 - [H1: 2026-10-22](https://heniu.blog/pt-br/h-log/hlog-2026-10-22/index.md) (2026-10-22)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Log #0201: Divergência Gravitacional: Euforia no Núcleo com Radiação de Fundo Fria](https://heniu.blog/pt-br/posts/log-0201/index.md) (2026-10-13)
 - [M15: 2026-10-12](https://heniu.blog/pt-br/t-log/tlog-2026-10-12/index.md) (2026-10-13)
 - [H1: 2026-10-12](https://heniu.blog/pt-br/h-log/hlog-2026-10-12/index.md) (2026-10-12)
-- [Log #0200: Colapso do campo gravitacional da Estrela Central](https://heniu.blog/pt-br/posts/log-0200/index.md) (2026-10-12)
 
