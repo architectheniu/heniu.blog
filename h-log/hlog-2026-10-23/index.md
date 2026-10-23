@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 15:07
+Data: 2026-10-23 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.23</h1>
+<h3>📈 [2026-10-23 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX znajduje się obecnie na poziomie 28991.49 (+0.11%), przy jednoczesnej akumulacji na rynku kasowym (CVD NDX: 34,35 M). Kontrakty NQ (29154.50, +0.05%) oraz ETF QQQ (705.21, +0.10%) również wykazują napływ kapitału (akumulację). Wskaźnik kierunku przepływów wynosi 20, co wskazuje na słabą przewagę napływu kapitału. Szeroki rynek (TICKQ) odnotowuje silną presję podażową na poziomie -294.00, co znacząco odbiega od średniej SMA200 (-46.07).</li>
+<li><strong>Analiza opcji QQQ:</strong> Wolumen opcji wynosi 369,801 przy zmienności implikowanej (IV) na poziomie 26.06%. Put/Call Ratio wynoszący 1.04 sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na większą zmienność, co koresponduje z oczekiwanym zakresem ruchu w przedziale 688.18 do 716.44 punktów.</li>
+<li><strong>Kontekst techniczny i korekta:</strong> Trwająca korekta od szczytu z dnia 06.10 (31360.85) wynosi obecnie -7.56% (-2369 pkt). Na podstawie danych historycznych jest to korekta o charakterze większym (przekraczająca medianę i 80. percentyl dotychczasowych ruchów), głębsza niż 57% zarejestrowanych w pamięci systemowej korekt.</li>
+<li><strong>Poziomy wsparcia i oporu:</strong> Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 29470–29490. Odległość ceny od tego poziomu rośnie wraz ze spadkami, co ogranicza potencjał krótkoterminowego odbicia.</li>
+</ul>
+<p>Raport H-Log: 2026-10-23 16:07</p>
 <h3>📈 [2026-10-23 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>

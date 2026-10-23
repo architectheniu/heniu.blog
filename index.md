@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
-- [M15: 2026-10-23](https://heniu.blog/t-log/tlog-2026-10-23/index.md) (2026-10-23)
 - [H1: 2026-10-23](https://heniu.blog/h-log/hlog-2026-10-23/index.md) (2026-10-23)
+- [M15: 2026-10-23](https://heniu.blog/t-log/tlog-2026-10-23/index.md) (2026-10-23)
 - [Fundamenty #0020: Zgłoszenia spółek: Meta Platforms, Space Exploration Technologies, Tesla; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-23-0020/index.md) (2026-10-23)
 - [H1: 2026-10-22](https://heniu.blog/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/t-log/tlog-2026-10-22/index.md) (2026-10-22)
