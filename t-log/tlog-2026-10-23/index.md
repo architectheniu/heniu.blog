@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 12:29
+Data: 2026-10-23 12:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 12:59]</h3>
+<p>[T-LOG: 2026-10-23 12:59]<br />
+[STATUS: TRYB FUTURES - ANALIZA OGRICZONA DO SONDY NQ]</p>
+<p>Sonda NQ znajduje się na poziomie 29094.25 (-0.16%). Wektor kierunkowy Q-Score wynosi -5, co wskazuje na neutralną, lecz lekko ujemną orientację układu. Ciśnienie paliwa (CVD) dla NQ wynosi -3,41K, co klasyfikuje obecny stan jako test podaży. Wartość ADR NQ wynosi 45.96%, co po uwzględnieniu dynamiki sesji wskazuje na aktywność powyżej średniej z ostatnich 5 dni (139.38%). W sferze Dysona (opcje QQQ) odnotowano IV na poziomie 25.46% przy asymetrii wolumenu Put/Call wynoszącej 1.01. Węzły wolumenu z pamięci wskazują, że cena znajduje się obecnie znacznie poniżej najbliższej strefy oporu (29470–29490). Brak danych o interakcjach z zaporami w bieżącym odczysie HVN.</p>
+<p>Układ w fazie testowania podaży przy niskiej kinetyce wektora kierunkowego.</p>
 <h3>🌌 [2026-10-23 12:29]</h3>
 <p>[T-LOG: 2026-10-23 12:29]</p>
 <p><strong>STATUS: FUTURES (NQ ACTIVE)</strong></p>

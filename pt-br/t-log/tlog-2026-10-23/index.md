@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 12:30
+Data: 2026-10-23 12:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.23 [PT-BR]</h1>
+<h3>🌌 [2026-10-23 12:59]</h3>
+<p>[T-LOG: 2026-10-23 12:59]<br />
+[STATUS: MODO FUTUROS - ANÁLISE LIMITADA À SONDA NQ]</p>
+<p>a Sonda NQ encontra-se no nível 29094.25 (-0.16%). O vetor direcional Q-Score é -5, o que indica uma orientação neutra, porém levemente negativa do sistema. A pressão do combustível (CVD) para NQ é de -3,41K, o que classifica o estado atual como um teste de oferta. O valor de ADR NQ é 45.96%, o que, após considerar a dinâmica da sessão, indica uma atividade acima da média dos últimos 5 dias (139.38%). Na Esfera de Dyson (opções QQQ), registrou-se IV no nível 25.46% com uma assimetria de volume Put/Call de 1.01. Os nós de volume da memória indicam que o preço encontra-se atualmente significativamente abaixo da zona de resistência mais próxima (29470–29490). [SEM DADOS] sobre interações com barreiras na leitura atual de HVN.</p>
+<p>O sistema em fase de teste de oferta com baixa cinética do vetor direcional.</p>
 <h3>🌌 [2026-10-23 12:29]</h3>
 <p>[T-LOG: 2026-10-23 12:29]</p>
 <p><strong>STATUS: FUTURES (NQ ACTIVE)</strong></p>
