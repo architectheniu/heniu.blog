@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 19:59
+Data: 2026-10-23 20:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 20:14]</h3>
+<p><strong>[LOG: 2026-10-23 20:14]</strong></p>
+<p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
+<p><strong>TELEMETRIA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX:</strong> Cena: 29014.70 | CVD: 49,44M [akumulacja]<br />
+- <strong>Sonda NQ:</strong> Cena: 29177.50 | CVD: 40,27K [wystrzał rynku]<br />
+- <strong>Satelita QQQ:</strong> Cena: 705.72 | CVD: 1,92M [akumulacja]<br />
+- <strong>Średnia Akcja:</strong> -0.44 USD (Delta: -0.44 USD) | Koszyk: kurczy się.<br />
+- <strong>Szeroka Giełda (TICKQ):</strong> -159.00 [wyprzedaż] | <strong>SMA200:</strong> -32.41 [wyprzedaż] (Status: BELOW).<br />
+- <strong>Sfera Dysona (Opcje):</strong> IV: 25.08% | P/C Ratio: 1.09.<br />
+- <strong>Wektor Rynku (Q-Score):</strong> 28.</p>
+<p><strong>ANALIZA KINEMATYKI:</strong><br />
+W układzie występuje silne Rozwarstwienie (Cross-Asset Divergence). Gęstość Jądra utrzymuje się na poziomie 68.6%. ADR dla kluczowych obiektów (NDX: 84.95%, QQQ: 83.83%) znajduje się powyżej średniej, wskazując na utrzymującą się zmienność w trakcie sesji.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Układ w fazie grawitacyjnego napięcia; silna dywergencja między wektorami instrumentów indeksowych a szerokim rynkiem.</p>
 <h3>🌌 [2026-10-23 19:59]</h3>
 <p>[T-LOG: 2026-10-23 19:59]</p>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>

@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 20:00
+Data: 2026-10-23 20:15
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.23 [PT-BR]</h1>
+<h3>🌌 [2026-10-23 20:14]</h3>
+<p><strong>[LOG: 2026-10-23 20:14]</strong></p>
+<p><strong>STATUS: A SESSÃO À VISTA (SPOT) | MODO: COMPLETO</strong></p>
+<p><strong>TELEMETRIA DOS OBJETOS:</strong><br />
+- <strong>a Estrela NDX:</strong> Preço: 29014.70 | CVD: 49,44M [acumulação]<br />
+- <strong>a Sonda NQ:</strong> Preço: 29177.50 | CVD: 40,27K [disparo do mercado]<br />
+- <strong>Satélite QQQ:</strong> Preço: 705.72 | CVD: 1,92M [acumulação]<br />
+- <strong>Ação Média:</strong> -0.44 USD (Delta: -0.44 USD) | Cesta: encolhendo.<br />
+- <strong>Amplitude de mercado (TICKQ):</strong> -159.00 [venda] | <strong>SMA200:</strong> -32.41 [venda] (Status: BELOW).<br />
+- <strong>a Esfera de Dyson (Opções):</strong> IV: 25.08% | P/C Ratio: 1.09.<br />
+- <strong>Vetor de Mercado (Q-Score):</strong> 28.</p>
+<p><strong>ANÁLISE DE CINEMÁTICA:</strong><br />
+No sistema ocorre uma forte Divergência de Ativos (Cross-Asset Divergence). A densidade do Núcleo mantém-se no nível de 68.6%. O ADR para objetos principais (NDX: 84.95%, QQQ: 83.83%) encontra-se acima da média, indicando volatilidade persistente durante a sessão.</p>
+<p><strong>DIAGNÓSTICO:</strong><br />
+Sistema em fase de tensão gravitacional; forte divergência entre os vetores dos instrumentos de índice e o mercado amplo.</p>
 <h3>🌌 [2026-10-23 19:59]</h3>
 <p>[T-LOG: 2026-10-23 19:59]</p>
 <p><strong>STATUS: OPEN | MODO: SPOT</strong></p>
