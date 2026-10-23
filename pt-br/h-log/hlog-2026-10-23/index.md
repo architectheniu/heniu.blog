@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 10:08
+Data: 2026-10-23 11:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.23 [PT-BR]</h1>
+<h3>📈 [2026-10-23 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ, que mostram uma leve apreciação (+0.27%) ao preço de 29222.00, o que representa um teste de demanda com o fluxo acumulado (CVD) em um nível de 2,02 K.</li>
+<li><strong>Contexto da sessão à vista (Spot):</strong> A última sessão regular terminou com uma queda significativa do índice NDX (-2.90%) para o nível 28966.07. Desde o pico de 06.10.2026 (31360.85), ocorre um recuo de -7.64% (-2395 pts), o que classifica o movimento atual como um recuo maior (acima da mediana de quedas históricas).</li>
+<li><strong>Análise de fluxo e sentimento:</strong> O indicador agregado de direção de fluxo é 15, o que indica uma leve vantagem no influxo de capital. Na sessão à vista (Spot), foi observada uma divergência: apesar da queda do preço do NDX, o fluxo acumulado (CVD) é de 169,35 M, enquanto o ETF QQQ mostra um teste de oferta com CVD no nível de -397,16 K.</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) é de 25.46%, e a proporção Put/Call está em 1.01, o que sugere um equilíbrio próximo entre coberturas e posições de alta. O alcance esperado de movimento para o QQQ está na faixa de 691.63 a 717.31 pontos.</li>
+<li><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 29470–29490. A distância do preço atual dos contratos NQ até este nível aumenta com eventuais quedas adicionais.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-23 11:07</p>
 <h3>📈 [2026-10-23 10:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
