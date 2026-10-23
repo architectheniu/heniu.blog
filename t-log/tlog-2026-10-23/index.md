@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 02:29
+Data: 2026-10-23 02:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 02:59]</h3>
+<p>[TELEMETRIA AKTYWNA - TRYB FUTURES]</p>
+<p>Sonda NQ: 29185.00 (+0.15%).<br />
+CVD NQ: 3,07 K [test popytu].<br />
+Q-Score: 15 [Delta: +20.0].<br />
+ADR NQ: 31.52% (poza sesją kasową).<br />
+IV (Sfera Dysona): 25.46% | Zasięg: 691.63 - 717.31 | P/C Ratio: 1.01.</p>
+<p>[ANALIZA KINEMATYCZNA]<br />
+Wektor Q-Score wykazuje dodatnią dynamikę (Delta +20.0), przesuwając stan układu z ujemnej strefy w stronę dodatniej (15). Sonda NQ utrzymuje stabilną pozycję z lekką tendencją wzrostową, a odczyt CVD (3,07 K) potwierdza obecność testu popytu w mikro-skali. Wektor siły nabywczej jest obecnie słabo zarysowany, ale kierunkowo dodatni. Sfera Dysona wykazuje asymetrię wolumenu Put/Call na poziomie 1.01, co wskazuje na niemal równowagę między popytem na ubezpieczenie a premię. Brak sygnałów synchronizacji makro-mikro ze względu na uśpienie głównych mas (NDX, QQQ, TICKQ).</p>
+<p>[DIAGNOZA]<br />
+Układ w fazie testowania popytu przy niskiej intensywności agresji.</p>
+<p>Log: 2026-10-23 02:59</p>
 <h3>🌌 [2026-10-23 02:29]</h3>
 <p>[TELEMETRIA - RAPORT TAKTYCZNY]</p>
 <p>Sonda NQ znajduje się w fazie testu podaży (CVD: -161). Bieżąca cena obiektu to 29090.00 (-0.18%). ADR NQ wynosi 25.65%, co wskazuje na utrzymującą się wysoką zmienność w tym cyklu. Wektor Q-Score odnotował spadek do poziomu -5 (Delta: -20.0), co sygnalizuje osłabienie ogólnej dynamiki układu w porównaniu do poprzednich odczytów. W Sferze Dysona (opcje QQQ) obserwowana jest asymetria wolumenu z Put/Call Ratio na poziomie 1.01, przy IV wynoszącym 25.46% i oczekiwanym zasięgu w przedziale 691.63 – 717.31. Pozostałe instrumenty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej. Brak danych o nowych strefach wolumenu (HVN) w bieżącym strumieniu.</p>
