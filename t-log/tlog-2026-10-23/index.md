@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 07:59
+Data: 2026-10-23 08:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 08:29]</h3>
+<p>[TELEMETRIA_LOG_ENTRY]<br />
+Status: FUTURES_ACTIVE<br />
+Obiekt: Sonda NQ</p>
+<p>Sonda NQ znajduje się na poziomie 29212.75 (+0.24%). Wektor Q-Score wskazuje na wartość 15, co sugeruje lekką dominację kierunkową w obrębie obecnej mikro-struktury. Wskaźnik ADR NQ wynosi 39.60%, co plasuje obecną zmiękczość układu powyżej średniej z ostatnich 5 dni (139.38% dla ADR 5-dniowego, lecz tu odczyt dotyczy bieżącej sesji NQ). Ciśnienie paliwa (CVD) dla Sondy NQ wynosi 1,22K, co zgodnie z protokołem klasyfikuje stan jako test popytu. Sfera Dysona (opcje QQQ) wykazuje zmienność IV na poziomie 25.46% przy asymetrii wolumenu Put/Call wynoszącej 1.01. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia (sesja kasowa zamknięta). Brak danych o interakcjach z węzłami wolumenu w obecnym oknie czasowym.</p>
+<p>Układ w fazie testu popytu przy niskiej kinetyce agresji.</p>
+<p>Log: 2026-10-23 08:29</p>
 <h3>🌌 [2026-10-23 07:59]</h3>
 <p>[T-LOG: 2026-10-23 07:59]</p>
 <p><strong>STATUS: FUTURES (NQ ACTIVE)</strong></p>
