@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 07:29
+Data: 2026-10-23 07:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 07:59]</h3>
+<p>[T-LOG: 2026-10-23 07:59]</p>
+<p><strong>STATUS: FUTURES (NQ ACTIVE)</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29147.75 (+0.02%). Wektor Q-Score wykazuje dodatnią dynamikę, osiągając wartość 15 (Delta: +20.0). Odczyt ADR dla sondy wynosi 34.04%, co plasuje bieżącą zmienność powyżej średniej z ostatnich 5 dni. Ciśnienie paliwa (CVD) dla NQ wynosi 385, co klasyfikuje obecny stan jako test popytu. W Sferze Dysona (QQQ) zmienność (IV) wynosi 25.46%, przy zasięgu oczekiwanym w przedziale 691.63 – 717.31, podczas gdy asymetria wolumenu (Put/Call Ratio) oscyluje wokół 1.01. Obiekty NDX, QQQ oraz promieniowanie tła TICKQ pozostają w stanie uśpienia (sesja kasowa zamknięta). Brak danych o zdarzeniach wolumenowych (HVN) w bieżącym interwale.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie testowania popytu przy wzroście wektora kierunkowego Q-Score; brak wyraźnej synchronizacji makro-mikro ze względu na nieaktywność masowych wskaźników.</p>
 <h3>🌌 [2026-10-23 07:29]</h3>
 <p>[T-LOG: 2026-10-23 07:29]</p>
 <p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
