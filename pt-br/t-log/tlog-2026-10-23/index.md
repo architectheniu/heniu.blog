@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 04:59
+Data: 2026-10-23 05:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.23 [PT-BR]</h1>
+<h3>🌌 [2026-10-23 05:29]</h3>
+<p>[TELEMETRIA DE STATUS: FUTUROS]<br />
+[OBJETO ATIVO: SONDA NQ]</p>
+<p>A Sonda NQ encontra-se atualmente no nível 29170.00 (+0.10%). Foi registrado um teste de demanda no fluxo de volume agressivo (CVD: 1,37K). O vetor Q-Score é 15, exibindo uma delta positiva em relação à leitura anterior. A volatilidade na Esfera de Dyson (IV) mantém-se no nível 25.46%, com uma assimetria de volume Put/Call de 1.01. O ADR da Sonda NQ está atualmente no nível 34.04%, o que o posiciona acima da média dos últimos 5 dias (139.38% - erro na lógica do ADR: ADR 34.04% é o valor atual, ADR 139.38% é a média histórica; o sistema registra a dinâmica atual do alcance). Os demais instrumentos (NDX, QQQ, TICKQ) permanecem em estado de dormência (fora da sessão à vista (Spot)). Ausência de dados sobre eventos de volume (HVN) no fluxo atual.</p>
+<p>Log: 2026-10-23 05:29</p>
 <h3>🌌 [2026-10-23 04:59]</h3>
 <p>[T-LOG: 2026-10-23 04:59]</p>
 <p><strong>STATUS: FUTUROS (MODO FORA DA SESSÃO À VISTA)</strong></p>
