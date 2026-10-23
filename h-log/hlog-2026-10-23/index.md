@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Data: 2026-10-23 01:07
+Data: 2026-10-23 02:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.23</h1>
+<h3>📈 [2026-10-23 02:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ, które notowane są po cenie 29063.75 (-0.27%), przy skumulowanym przepływie CVD na poziomie -31, co wskazuje na testowanie podaży.</li>
+<li>Indeks NDX odnotował spadek o -2.90% (cena 28966.07), co stanowi korektę o -7.64% od szczytu z dnia 06.10.2026 (31360.85). Obecna korekta jest głębsza niż 57% historycznych korekt i kwalifikuje się jako większa korekta względem mediany i 80. percentyla.</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi -5, co oznacza lekką przewagę dystrybucji kapitału nad akumulacją.</li>
+<li>Rynek opcji QQQ wykazuje zmienność implikowaną (IV) na poziomie 25.46% przy wolumenie 10,660,725. Wskaźnik Put/Call Ratio wynosi 1.01, co sugeruje zbliżoną równowagę między zabezpieczeniami a pozycjami wzrostowymi, z lekkim przesunięciem w stronę ochrony krótkich pozycji. Oczekiwany zasięg ruchu wynosi od 691.63 do 717.31 punktów.</li>
+<li>Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 29470–29490.</li>
+</ul>
+<p>Raport H-Log: 2026-10-23 02:07</p>
 <h3>📈 [2026-10-23 01:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
