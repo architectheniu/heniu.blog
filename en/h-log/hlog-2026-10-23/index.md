@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 17:08
+Date: 2026-10-23 18:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 18:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The NDX index is 29122.57 (+0.57%), with cumulative flow CVD at 52,13 M [accumulation]. Data from NQ futures contracts (29283.50, CVD: 37,63 K) and QQQ ETF (708.26, CVD: 1,98 M) confirm simultaneous accumulation across all instruments. The flow direction indicator is 18, indicating a weak but positive capital inflow. Market breadth (TICKQ) is at 21.00, which, with an SMA200 average of -37.02, signals an improvement in sentiment within the sector.</p>
+</li>
+<li>
+<p><strong>QQQ options analysis:</strong> Implied volatility (IV) is 24.22%, and the Put/Call ratio (PCR) stands at 0.99 with a total volume of 3,193,041. A neutral PCR alongside simultaneous accumulation in the cash market suggests balanced demand and supply in options, without significant position skewing for sharp declines. The expected movement range within current parameters is the interval from 698.19 to 716.89 points.</p>
+</li>
+<li>
+<p><strong>Technical context and correction:</strong> The current drawdown from the peak on 06.10 (31360.85) is -7.14% (-2238 pts). Based on historical data, this is a larger-scale correction (exceeding the median and 80th percentile of previous movements), deeper than 57% of cycles recorded in memory.</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-10-23 18:07</p>
 <h3>📈 [2026-10-23 17:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
