@@ -1,6 +1,6 @@
 # H1: 2026-10-23
 
-Date: 2026-10-23 05:07
+Date: 2026-10-23 06:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.23 [EN]</h1>
+<h3>📈 [2026-10-23 06:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on NQ futures contract activity and data from the regular session close.</li>
+<li>NQ contracts show a slight appreciation (+0.14%) at a price of 29182.00 and cumulative flow (CVD) at a level of 776, indicating testing of demand in the after-hours session.</li>
+<li>The aggregate flow direction indicator is 15, which on a scale from -100 to +100 means a sustained but weak inflow of capital.</li>
+<li>The NDX index is in a correction phase from the peak of 06.10 (31360.85), which currently amounts to -7.64% (-2395 pts). This is a correction of a nature greater than 57% of historical cases in the analyzed period.</li>
+<li>In the QQQ options data, implied volatility (IV) was recorded at a level of 25.46% and a Put/Call Ratio of 1.01, suggesting a neutral-slightly bearish sentiment and hedging. The expected range of movement is from 691.63 to 717.31 points.</li>
+<li>The main technical resistance is located in the volume node zone in the range of 29470–29490.</li>
+</ul>
+<p>H-Log Report: 2026-10-23 06:07</p>
 <h3>📈 [2026-10-23 05:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
