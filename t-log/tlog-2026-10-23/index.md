@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 10:29
+Data: 2026-10-23 10:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 10:59]</h3>
+<p>[T-LOG: 2026-10-23 10:59]</p>
+<p><strong>STATUS: TRYB FUTURES (Sonda NQ aktywna)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29214.00 (+0.25%). Odnotowano wzrost ADR NQ do poziomu 45.96%, co plasuje bieżącą zmiętość powyżej średniej z ostatnich 5 dni. Wektor Q-Score oscyluje wokół 15, wykazując dodatnią deltę w stosunku do poprzedniego odczytu.</p>
+<p>Analiza ciśnienia paliwa (CVD) dla Sondy NQ wykazuje wartość 1,68K, co klasyfikuje obecny stan jako test popytu. Brak sygnałów o aktywności w innych sektorach; masy galaktyki (NDX, QQQ) oraz promieniowanie tła (TICKQ) pozostają w uśpieniu poza sesją kasową. W Sferze Dysona (opcje na QQQ) odnotowano IV na poziomie 25.46% przy asymetrii wolumenu Put/Call wynoszącej 1.01.</p>
+<p>Brak danych o interakcjach z zapórami wolumenowymi (HVN) w bieżącym oknie czasowym.</p>
+<p><strong>DIAGNOSTYKA: Układ w fazie testowania popytu przy niskiej kinetyce agresji.</strong></p>
+<p>Log: 2026-10-23 10:59</p>
 <h3>🌌 [2026-10-23 10:29]</h3>
 <p>[TELEMETRIA: TRYB FUTURES - ANALIZA SONDA NQ]</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29260.25 (+0.41%). Wektor Q-Score wykazuje dodatnią dynamikę, osiągając wartość 15 (Delta: +20.0). Wskaźnik ADR dla sondy NQ wynosi 45.96%, co sytuuje go powyżej średniej z ostatnich 5 dni. Odczyt CVD na poziomie 2,68K klasyfikuje obecny stan jako test popytu. Sfera Dysona (opcje QQQ) wykazuje zmienność IV na poziomie 25.46% przy asymetrii wolumenu Put/Call wynoszącej 1.01. Zgodnie z protokołem, obiekty NDX, QQQ oraz TICKQ pozostają w stanie uśpienia i nie podlegają bieżącej analizie radiacyjnej.</p>
