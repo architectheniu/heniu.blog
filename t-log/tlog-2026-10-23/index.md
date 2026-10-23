@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 01:29
+Data: 2026-10-23 01:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 01:59]</h3>
+<p>[TELEMETRIA SYSTEMOWA - STATUS: FUTURES]</p>
+<p>Sonda NQ: 29097.25 (-0.15%).<br />
+CVD NQ: 96 [test popytu].<br />
+Q-Score: 15 [Delta: +0.0].<br />
+Sfera Dysona (QQQ): IV 25.46%, Put/Call Ratio 1.01.</p>
+<p>Analiza wektorów dla aktywnej Sondy NQ wykazuje obecność testu popytu przy minimalnej ujemnej delcie ceny. Wektor Q-Score stabilizuje się na poziomie 15, wskazując na neutralną, lecz lekko dodatnią orientację układu w fazie poza sesją kasową. Zmienność w Sferze Dysona (IV: 25.46%) pozostaje na podwyższonym poziomie, przy niemal symetrycznym rozkładzie wolumenu Put/Call (1.01). Brak danych o przepływach makro (NDX/QQQ) ze względu na tryb sesji.</p>
+<p>Układ w fazie testu popytu przy niskiej kinetyce.</p>
 <h3>🌌 [2026-10-23 01:29]</h3>
 <p>[T-LOG: 2026-10-23 01:29]</p>
 <p><strong>STATUS: TRYB FUTURES (MONITORING NQ)</strong></p>

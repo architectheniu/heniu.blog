@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 01:29
+Data: 2026-10-23 01:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.23 [PT-BR]</h1>
+<h3>🌌 [2026-10-23 01:59]</h3>
+<p>[TELEMETRIA DO SISTEMA - STATUS: FUTURES]</p>
+<p>a Sonda NQ: 29097.25 (-0.15%).<br />
+CVD NQ: 96 [teste de demanda].<br />
+Q-Score: 15 [Delta: +0.0].<br />
+a Esfera de Dyson (QQQ): IV 25.46%, Put/Call Ratio 1.01.</p>
+<p>A análise de vetores para a Sonda NQ ativa mostra a presença de um teste de demanda com delta de preço negativo mínimo. O vetor Q-Score estabiliza-se no nível 15, indicando uma orientação neutra, mas levemente positiva do sistema na fase fora da sessão à vista (Spot). A volatilidade na Esfera de Dyson (IV: 25.46%) permanece em um nível elevado, com uma distribuição quase simétrica do volume Put/Call (1.01). [SEM DADOS] de fluxos macro (NDX/QQQ) devido ao modo da sessão.</p>
+<p>O sistema está na fase de teste de demanda com baixa cinética.</p>
 <h3>🌌 [2026-10-23 01:29]</h3>
 <p>[T-LOG: 2026-10-23 01:29]</p>
 <p><strong>STATUS: MODO FUTUROS (MONITORAMENTO NQ)</strong></p>
