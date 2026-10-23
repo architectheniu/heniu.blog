@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 17:29
+Data: 2026-10-23 17:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.23</h1>
+<h3>🌌 [2026-10-23 17:44]</h3>
+<p><strong>[T-LOG: 2026-10-23 17:44]</strong></p>
+<p><strong>Status: SPOT | Tryb: Pełna sesja kasowa</strong></p>
+<p>Układ znajduje się w fazie grawitacyjnego napięcia (Rozwarstwienie Układu). Gwiazda NDX wykazuje silną akumulację (CVD: 49,39M), podczas gdy Sonda NQ (Cena: 29222.50) oraz Satelita QQQ (Cena: 706.83) również rejestrują stan akumulacji (CVD NQ: 36,74K; CVD QQQ: 1,91M). Mimo to, Szeroka Giełda (TICKQ) znajduje się w stanie głębokiego załamania rynku (-367.00), co przy średniej radiacji SMA200 na poziomie -37.13 (wyprzedaż) generuje silny dysonans między głównymi wektorami a szerokością rynku. Q-Score wynosi 18, wskazując na słaby, lecz dodatni wektor kierunkowy. Zmienność (IV) w Sferze Dysona utrzymuje się na poziomie 24.34%, a asymetria wolumenu Put/Call oscyluje wokół 0.97. ADR dla instrumentów jest powyżej średniej z poprzednich sesji.</p>
+<p><strong>Diagnostyka: Dysonans wektorów – silna akumulacja w indeksach przy jednoczesnym załamaniu szerokości rynku (TICKQ).</strong></p>
+<p>Log: 2026-10-23 17:44</p>
 <h3>🌌 [2026-10-23 17:29]</h3>
 <p>[T-LOG: 2026-10-23 17:29]</p>
 <p><strong>Status: SPOT | Tryb: Pełna Sesja Kasowa</strong></p>
