@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Data: 2026-10-23 22:30
+Data: 2026-10-23 23:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-23/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.23 [PT-BR]</h1>
+<h3>🌌 [2026-10-23 22:59]</h3>
+<p><strong>[LOG_ENTRY: 2026-10-23 22:59]</strong></p>
+<p><strong>STATUS: FUTUROS (MODO FORA DA SESSÃO À VISTA)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29165.25 (+0.08%). Foi registrado um impulso abrupto de volume agressivo; o valor de CVD é 50,6K, o que, de acordo com a classificação, corresponde ao estado de "disparo do mercado". O vetor Q-Score mantém um valor positivo de 35, o que indica dominância direcional no curto intervalo. O indicador ADR para a Sonda NQ é de 60.81%, o que o coloca abaixo da média dos últimos 5 dias (139.38%).</p>
+<p>Na Esfera de Dyson (Opções sobre QQQ), a volatilidade (IV) é de 24.99%, com o alcance esperado no intervalo de 696.07 – 712.99. A assimetria de volume de contratos é de 1.13 (Put/Call Ratio). Outros objetos (NDX, QQQ, TICKQ) permanecem em estado de dormência (inativos no modo de futuros).</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+O vetor de agressão de volume (CVD) está fortemente correlacionado com a dinâmica de preço atual, exibindo alta cinética em direção de alta. Ausência de sinais de absorção passiva; o estado atual é de acreção abrupta de energia no setor de contratos futuros.</p>
+<p><strong>Log: 2026-10-23 22:59</strong></p>
 <h3>🌌 [2026-10-23 22:29]</h3>
 <p>[T-LOG: 2026-10-23 22:29]</p>
 <p><strong>STATUS: FUTUROS (APENAS SONDA NQ)</strong></p>

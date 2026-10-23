@@ -1,6 +1,6 @@
 # M15: 2026-10-23
 
-Date: 2026-10-23 22:29
+Date: 2026-10-23 22:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-23/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.23 [EN]</h1>
+<h3>🌌 [2026-10-23 22:59]</h3>
+<p><strong>[LOG_ENTRY: 2026-10-23 22:59]</strong></p>
+<p><strong>STATUS: FUTURES (OFF THE CASH SESSION MODE)</strong></p>
+<p>the NQ Probe is currently at level 29165.25 (+0.08%). A sudden impulse of aggressive volume was recorded; the CVD value is 50.6K, which according to classification corresponds to a "market blast" state. The Q-Score vector maintains a positive value of 35, indicating directional dominance in the short interval. The ADR indicator for the NQ Probe is 60.81%, placing it below the average of the last 5 days (139.38%).</p>
+<p>In the Dyson Sphere (QQQ options), volatility (IV) is 24.99%, with the expected range between 696.07 – 712.99. Contract volume asymmetry is 1.13 (Put/Call Ratio). Other objects (NDX, QQQ, TICKQ) remain in a dormant state (inactive in Futures mode).</p>
+<p><strong>SYSTEM DIAGNOSTICS:</strong><br />
+The volume aggression vector (CVD) is strongly correlated with current price dynamics, exhibiting high kinetics in the upward direction. No signs of passive absorption; the current state is rapid energy accretion in the futures sector.</p>
+<p><strong>Log: 2026-10-23 22:59</strong></p>
 <h3>🌌 [2026-10-23 22:29]</h3>
 <p>[T-LOG: 2026-10-23 22:29]</p>
 <p><strong>STATUS: FUTURES (ONLY NQ PROBE)</strong></p>
