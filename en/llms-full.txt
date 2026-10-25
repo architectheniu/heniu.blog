@@ -7,6 +7,93 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0211: Mass Compression and Volatility Expandability: Week of Negative Accretion
+
+Date: 2026-10-25 09:00
+URL: https://heniu.blog/en/posts/log-0211/
+
+
+**Stardate:** 2026.10.25\
+**Systems Status:** External Observation\
+**Sector:** Inner Volatility Bands
+
+---
+
+### Weekly Telemetry: Opening and Closing Balance
+
+> *The 2026.10.19 — 2026.10.23 cycle was characterized by a negative T-Mass delta accompanied by euphoria in CVD indicators, signaling a deep dissonant flow structure in the face of declining valuations for NDX, NQ, and QQQ.*
+
+* **Subspace Scanner (Weekly Mass Balance):**
+    * *System T-Mass (Open → Close):* **41.67 T → 41.20 Trillion USD**
+    * *Weekly Mass Delta:* **-0.47 Trillion USD (-1.14%)**
+    * *Core Density (Heavy Nine):* **66.41% → 66.17%** (Delta: **-0.24 pp**)
+    * *Average Action (Periphery Temperature):* **$299.75 → $297.51** (Delta: **-$2.24 | -0.75%**)
+    * *Core Composition Fluctuation (>1T):* **Stability (no emergence/collapse)**
+
+* **the NDX Star (Sun — 5 Session Balance):**
+    * *Price (Previous Friday Close → Friday Close):* **29194.44 → 28956.26 (-238.18 pts | -0.82%)**
+    * *Weekly Range (Extremes):* **28932.94 — 29905.89 (Amplitude: 972.95 pts)**
+    * *Cumulative energy flow (CVD Weekly):* **+476.19 M [euphoria]**
+
+* **the NQ Probe (Mercury — 5 Session Balance):**
+    * *Price (Previous Friday Close → Friday Close):* **29390.52 → 29129.75 (-260.77 pts | -0.89%)**
+    * *Weekly Range (Extremes):* **29104.75 — 30090.75 (Amplitude: 986.00 pts)**
+    * *Cumulative energy flow (CVD Weekly):* **+86.03 K [euphoria]**
+
+* **the Dyson Sphere (QQQ) (5 Session Balance):**
+    * *Price (Previous Friday Close → Friday Close):* **709.83 → 704.39 (-5.44 USD | -0.77%)**
+    * *Weekly Range (Extremes):* **703.84 — 727.40 (Amplitude: 23.56 USD)**
+    * *Cumulative Population Flow (CVD Weekly):* **+4.23 M [market flare]**
+
+* **Background Radiation (TICKQ — Weekly Market Breadth):**
+    * *Weekly Average Radiation (TICKQ SMA200):* **-43.93 [sell-off]**
+    * *Weekly Radiation Range:* **Min -80.53 / Max +3.83**
+
+* **Gravitational Structure (Options — the Dyson Sphere (QQQ)):**
+    * *Implied Volatility (IV):* **25.05%** (Weekly Average: **23.54%** | Change from Monday: **+3.26 pp**)
+    * *Position Structure (Put/Call OI):* **1.43**
+
+---
+
+### Logbook: Mass Compression and Volatility Expandability
+
+**1. Weekly Trajectory and Price Volatility (Session overview Monday–Friday)**
+The system entered a phase of amplitude expansion alongside the degradation of price levels. the NDX Star showed a weekly amplitude of 972.95 pts, oscillating between the extremes of 29905.89 and 28932.94, ending the cycle with a negative delta of -0.82% relative to the previous close. the NQ Probe repeated this pattern, operating in a wide band of 986.00 pts (29104.75 — 30090.75) and recording a decline of -0.89%. the Dyson Sphere (QQQ) shrank by -0.77% (from 709.83 to 704.39 USD), with a weekly amplitude of 23.56 USD. The entire trajectory indicates a transition from high orbits toward compression in lower price ranges.
+
+**2. Energy Balance and Cumulative Fuel (Weekly CVD and Volume)**
+There is a critical anomaly between price direction and the cumulative fuel of aggressive volume. Despite the decline in prices, CVD indicators showed strong euphoria: NDX +476.19 M, NQ +86.03 K, and QQQ +4.23 M. This cumulative influx of aggressive demand failed to halt the mass decline, suggesting that supply forces or mass rebalancing outweighed the accretion energy over the 5-session cross-section.
+
+**3. Mass Evolution, Core Density, and Option Shields**
+The total system mass (T-Mass) underwent erosion of -1.14% (-0.47 T), falling from 41.67 T to 41.20 T. Core Density (objects >1T) underwent minimal diffusion from 66.41% to 66.17%, while maintaining full stability of the Class 0 singularity composition. Average action fell by -0.75% ($297.51). Protection and volatility parameters underwent a sharp increase: IV rose from the weekly average level (23.54%) to 25.05% (delta +3.26 pp from the start of the week), and the Put/Call OI ratio at 1.43 indicates an increasing density of protective shields in response to sell-off radiation (TICKQ SMA200: -43.93).
+
+**Quantum Verdict:**
+The system is in a state of high thermodynamic instability. Strong cumulative CVD alongside falling T-Mass and rising IV suggests the presence of deep friction between aggressive demand and structural sell-offs. The physics of the system indicates a search for a new equilibrium point in lower gravitational ranges.
+
+**Status:** EXTERNAL OBSERVATION. Shields active.
+
+**End of log.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Quantum Market Cosmology: Logbook",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+
+
+---
+
 ## Log #0210: Session summary 2026-10-23: NDX 28956.26 (0.00%)
 
 Date: 2026-10-23 22:03
@@ -1193,22 +1280,5 @@ Adjusted earnings per share were 2.34 USD (+2.2% y/y), while revenues in the PFN
 ### Management commentary
 
 According to management, expiring commodity price hedges will cause an increase in costs, which will be partially visible in the next quarter. Management noted that they are not satisfied with results in North America and are considering a revision of the business model and distribution. According to management, the company intends to limit non-growth related expenses to redirect funds toward growth-driving brands, which is expected to bring improvement in subsequent quarters and next year.
-
-
----
-
-## Fundamentals #0000: Definition of F-Logs
-
-Date: 2026-10-13 22:32
-URL: https://heniu.blog/en/f-log/flog-2026-10-13-0000/
-
-
-F-Log is my journal of facts regarding companies from the Nasdaq-100 index. Each quarterly report of a specific company receives a separate entry, while insider transactions and other significant filings go into a collective log.
-
-Data comes exclusively from official company documents, such as filings with the US SEC and investor relations materials. This information is collected and verified by my module operating on a separate server, which aggregates data from official sources.
-
-I describe a company's results only when they are complete and also include the management's call with analysts. I write these texts myself at my station, using plain language. Every number I provide comes directly from the documents; I do not publish sentences with numbers that are not confirmed in the sources.
-
-F-Log does not contain forecasts or recommendations. I describe facts, without assessing what should be bought or sold. I announce each entry on the X platform with a short piece of information along with a link. The English and Portuguese versions are translations of the same text and contain the same numbers.
 
 
