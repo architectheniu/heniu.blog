@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-10-26](https://heniu.blog/h-log/hlog-2026-10-26/index.md) (2026-10-26)
 - [Log #0211: Kompresja Masy i Rozszerzalność Zmienności: Tydzień Negatywnej Akrecji](https://heniu.blog/posts/log-0211/index.md) (2026-10-25)
 - [H1: 2026-10-23](https://heniu.blog/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [M15: 2026-10-23](https://heniu.blog/t-log/tlog-2026-10-23/index.md) (2026-10-23)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [M15: 2026-10-13](https://heniu.blog/t-log/tlog-2026-10-13/index.md) (2026-10-13)
 - [Fundamenty #0002: Zdarzenia korporacyjne i transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-13-0002/index.md) (2026-10-13)
 - [Fundamenty #0001: PepsiCo: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-13-0001/index.md) (2026-10-13)
-- [Fundamenty #0000: Definicja F-Logów](https://heniu.blog/f-log/flog-2026-10-13-0000/index.md) (2026-10-13)
 
