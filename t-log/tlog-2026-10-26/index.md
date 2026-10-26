@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 07:59
+Data: 2026-10-26 08:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 08:29]</h3>
+<p>[T-LOG: 2026-10-26 08:29]</p>
+<p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29109.50 (-0.03%). Obecny wektor Q-Score wynosi 15, wskazując na skrajnie niską, niemal neutralną energię układu.</p>
+<p>Paliwo dla sondy wykazuje sygnał testu podaży (CVD: -6.73K), co przy braku aktywności obiektów NDX i QQQ sugeruje lokalne wyczerpywanie impetu agresywnej sprzedaży. ADR NQ utrzymuje się na poziomie 57.50%. W sferze Dysona (opcje QQQ) obserwuje się asymetrię wolumenu z Put/Call Ratio na poziomie 1.13 przy zmienności IV wynoszącej 25.34%.</p>
+<p>[BRAK_DANYCH_W_TELEMETRII] dla parametrów masy galaktyki oraz promieniowania tła ze względu na tryb sesji.</p>
+<p><strong>DIAGNOZA: Konsolidacja wokół zapory HVN w warunkach niskiej kinetyki wektora.</strong></p>
+<p>Log: 2026-10-26 08:29</p>
 <h3>🌌 [2026-10-26 07:59]</h3>
 <p>[TELEMETRIA: TRYB FUTURES - ANALIZA SONDY NQ]</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29089.50 (-0.10%). Wektor Q-Score wykazuje dodatnią dynamikę (Delta: +0.0, stan: 15), wskazując na powolną zmianę reżimu w kierunku dodatnim. Pomiary CVD dla Sondy NQ wynoszą -7,38K, co klasyfikuje obecny stan jako 'test podaży'. ADR NQ utrzymuje się na poziomie 57.50%, co sytuuje go powyżej średniej z ostatnich sesji. W sferze opcji (QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.13, przy zmienności IV wynoszącej 25.34% i oczekiwanym zasięgu między 695.99 a 712.81. Dane dotyczące Szerokiej Giełdy (TICKQ) oraz Masy Galaktyki (NDX) są obecnie nieaktywne ze względu na zamknięcie sesji kasowej. Brak danych o zmianach w Średniej Akcji w tym trybie.</p>
