@@ -6,8 +6,8 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
-- [H1: 2026-10-26](https://heniu.blog/en/h-log/hlog-2026-10-26/index.md) (2026-10-26)
 - [M15: 2026-10-26](https://heniu.blog/en/t-log/tlog-2026-10-26/index.md) (2026-10-26)
+- [H1: 2026-10-26](https://heniu.blog/en/h-log/hlog-2026-10-26/index.md) (2026-10-26)
 - [Log #0211: Mass Compression and Volatility Expandability: Week of Negative Accretion](https://heniu.blog/en/posts/log-0211/index.md) (2026-10-25)
 - [H1: 2026-10-23](https://heniu.blog/en/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [M15: 2026-10-23](https://heniu.blog/en/t-log/tlog-2026-10-23/index.md) (2026-10-23)
