@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 00:59
+Data: 2026-10-26 01:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 01:29]</h3>
+<p>[LOG_START]<br />
+<strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29215.00 (+0.33%). Wektor Q-Score wykazuje dodatnią dynamikę na poziomie 15 (Delta: +0.0). Pomiary CVD dla Sondy NQ wskazują na wartość -1,56K, co klasyfikuje obecny stan jako 'test podaży'. ADR NQ wynosi 45.46%, co plasuje obecną zmienność powyżej średnich historycznych. W Sferze Dysona (Opcje QQQ) odnotowano IV na poziomie 25.34% przy Put/Call Ratio 1.13, co sygnalizuje asymetrię wolumenu w stronę kontraktów Put. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu (poza sesją kasową).</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Występuje dysonans między dodatnią zmianą wektora Q-Score a ujemną presją CVD na Sondzie NQ. Układ znajduje się w fazie testowania podaży przy jednoczesnym braku potwierdzenia agresywnej akrecji wolumenu.</p>
+<p>Log: 2026-10-26 01:29<br />
+[LOG_END]</p>
 <h3>🌌 [2026-10-26 00:59]</h3>
 <p>[T-LOG: 2026-10-26 00:59]</p>
 <p><strong>STATUS: OPEN | TRYB: FUTURES (TYLKO NQ)</strong></p>
