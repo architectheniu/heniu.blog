@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 18:29
+Data: 2026-10-26 18:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 18:44]</h3>
+<p>[T-LOG: 2026-10-26 18:44]</p>
+<p>Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29310 (NQ ≈ 29471). Sonda NQ znajduje się obecnie na poziomie 29453.25 (+1.15%), przy czym ADR wynosi 99.20%. Gwiazda NDX wykazuje stan "wystrzału rynku" z CVD na poziomie 64,5M, podczas gdy Sonda NQ oraz Satelita QQQ (CVD: 1,95M) znajdują się w fazie akumulacji. Szeroka Giełda Nasdaq (TICKQ) wykazuje stan "załamania rynku" przy odczycie -301.00, co sytuuje ją poniżej średniej SMA200 (-18.64). Masa Galaktyki wynosi 41.60 T (Delta: -0.07 T), a Średnia Akcja to $299.92 (Delta: -0.57 USD), co wskazuje na lekkie kurczenie się koszyka. W Sferze Dysona IV wynosi 22.66%, a Put/Call Ratio na poziomie 1.15. Q-Score wynosi 33, co wskazuje na słaby, lecz dodatni wektor kierunkowy. System wykazuje rozwarstwienie układu (Cross-Asset Divergence): agresywny popyt w Jadrze (NDX) i na Satelicie (QQQ) kontrastuje z gwałtownym załamaniem szerokiego rynku (TICKQ).</p>
+<p>Układ w fazie grawitacyjnego napięcia i asymetrycznej akrecji.</p>
 <h3>🌌 [2026-10-26 18:29]</h3>
 <p>[T-LOG: 2026-10-26 18:29]</p>
 <p><strong>STATUS: SPOT | SYSTEM AKTYWNY</strong></p>
