@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 16:59
+Data: 2026-10-26 17:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 17:14]</h3>
+<p><strong>Status: SPOT | System Operacyjny: Ghostwheel</strong></p>
+<p>Układ wykazuje silną asymetrię wektorów. Gwiazda NDX znajduje się w stanie <strong>wystrzału rynku</strong> (CVD: 61,54M), podczas gdy Sonda NQ (Cena: 29472.25) wykazuje <strong>akumulację</strong> (CVD: 26,88K). Satelita QQQ również potwierdza trend poprzez <strong>akumulację</strong> (CVD: 1,99M). Mimo to, występuje rozwarstwienie układu: Szeroka Giełda TICKQ raportuje stan <strong>wyprzedaży</strong> (-107.00), co przy ujemnej średniej radiacji SMA200 (-17.75) wskazuje na strukturalną pustkę wzrostu i dominację podaży w szerszym koszyku akcji.</p>
+<p>Masa Galaktyki wynosi 41.62 T (Delta: -0.04 T), a Średnia Akcja to $299.73 (Delta: -0.12 USD), co oznacza, że koszyk jako całość ulega powolnemu kurczeniu. Wektor kierunkowy Q-Score wynosi 25. Sfera Dysona wykazuje asymetrię wolumenu z Put/Call Ratio na poziomie 1.15. ADR dla wszystkich obiektów jest powyżej średniej, utrzymując się w reżimie wysokiej aktywności.</p>
+<p><strong>Diagnostyka: Rozwarstwienie układu (Cross-Asset Divergence). Agresywny popyt na liderów (NDX/NQ) napiera na system, podczas gdy szerszy rynek (TICKQ) pozostaje w fazie wyprzedaży.</strong></p>
+<p>Log: 2026-10-26 17:14</p>
 <h3>🌌 [2026-10-26 16:59]</h3>
 <p><strong>[T-LOG: 2026-10-26 16:59]</strong></p>
 <p><strong>STATUS SYSTEMU: SPOT</strong></p>
