@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 01:29
+Data: 2026-10-26 01:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,20 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 01:59]</h3>
+<p><strong>[T-LOG: 2026-10-26 01:59]</strong></p>
+<p><strong>Status: OPEN | Tryb: FUTURES (NQ aktywny)</strong></p>
+<p><strong>Telemetria Sondy NQ:</strong><br />
+Cena: 29096.75 | ADR: 53.24% | CVD: -5.41K [test podaży] | Q-Score: 15.<br />
+Sonda NQ wykazuje obecnie stan testu podaży, co koreluje z niskim, dodatnim wektorem kierunku (Q-Score: 15). Odnotowano obalenie wsparcia HVN ekosystemu US100 na poziomie NDX 28950 (NQ ≈ 29114) w trakcie sesji, co stanowi istotną zmianę w strukturze zapór.</p>
+<p><strong>Sfera Dysona (Opcje QQQ):</strong><br />
+IV: 25.34% | Zasięg: 695.99 - 712.81 | Put/Call Ratio: 1.13.<br />
+Asymetria wolumenu w sektorze opcji wskazuje na przewagę kontraktów typu Put nad Call.</p>
+<p><strong>Analiza Kinematyki i Przepływów:</strong><br />
+Obserwuje się dysonans między ceną a presją agresywnego wolumenu; mimo wzrostu ceny sondy względem poziomu obalenia wsparcia, ujemna wartość CVD (-5.41K) potwierdza trwający test podaży. Brak danych o wektorach makro (V_15m/V_5m) w bieżącym strumencie uniemożliwia ocenę rezonansu, jednak obecna cena znajduje się w strefie powyżej niedawno obalonego wsparcia.</p>
+<p><strong>Diagnostyka układu:</strong><br />
+Układ w fazie testowania podaży przy braku wyraźnego momentum kierunkowego. Konsolidacja w pobliżu stref oporu (29080–29100) przy jednoczesnym ujemnym CVD sugeruje pasywną absorpcję agresywnej sprzedaży.</p>
+<p><strong>Log: 2026-10-26 01:59</strong></p>
 <h3>🌌 [2026-10-26 01:29]</h3>
 <p>[LOG_START]<br />
 <strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>
