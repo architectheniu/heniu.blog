@@ -1,6 +1,6 @@
 # H1: 2026-10-26
 
-Date: 2026-10-26 19:07
+Date: 2026-10-26 20:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.26 [EN]</h1>
+<h3>📈 [2026-10-26 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market dynamics and flows:</strong> NDX index is rising by 1.20% to the level of 29305.53, with cumulative flow CVD at 69,49 M, indicating a strong capital inflow (market flare). This is confirmed by NQ contracts (+1.21%, price 29470.00) and QQQ ETF (+1.20%, price 712.88, CVD 2,33 M). The flow direction indicator is 25, meaning a moderate advantage of capital inflow.</li>
+<li><strong>Broad market and sentiment:</strong> TICKQ indicator is -221.00, which, with an SMA200 average at -23.75, indicates strong selling pressure in the broad equity market, despite the rises in the main indices.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 22.79%, and options volume is 6,322,073. Put/Call Volume Ratio at 1.19 suggests a dominance of hedging positions or expectation of greater downward volatility, which stands in contrast to current price increases. The expected range of movement for QQQ is within the 708.14 – 719.02 range.</li>
+<li><strong>Technical context and levels:</strong> The current drawdown from Heniu's peak on 06.10 (31360.85) is -6.55% (-2055 pts) and is classified as a major correction (deeper than 57% of historical cases). The nearest resistance is located in the volume node zone 29470–29490 (1.1% volume), and support in the 29080–29100 zone (1.2% volume).</li>
+</ul>
+<p>H-Log Report: 2026-10-26 20:07</p>
 <h3>📈 [2026-10-26 19:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>

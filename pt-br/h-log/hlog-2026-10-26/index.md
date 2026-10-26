@@ -1,6 +1,6 @@
 # H1: 2026-10-26
 
-Data: 2026-10-26 19:08
+Data: 2026-10-26 20:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.26 [PT-BR]</h1>
+<h3>📈 [2026-10-26 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Dinâmica de mercado e fluxos:</strong> O Índice NDX sobe 1.20% para o nível 29305.53, com o fluxo acumulado (CVD) em 69,49 M, o que indica uma forte entrada de capital (disparo de mercado). Isso é confirmado pelos contratos NQ (+1.21%, preço 29470.00) e pelo ETF QQQ (+1.20%, preço 712.88, CVD 2,33 M). O indicador de direção de fluxo é 25, o que significa uma vantagem moderada na entrada de capital.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> O indicador TICKQ é -221.00, o que, com uma média SMA200 no nível -23.75, indica uma forte pressão de venda na amplitude de mercado de ações, apesar das altas dos principais índices.</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 22.79%, e o volume de opções é 6,322,073. O Put/Call Volume Ratio no nível 1.19 sugere uma predominância de posições de proteção (hedging) ou a expectativa de maior volatilidade para baixo, o que vai contra as atuais altas de preços. O alcance de movimento esperado para o QQQ está na faixa de 708.14 – 719.02.</li>
+<li><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico do Heniu de 06.10 (31360.85) é de -6.55% (-2055 pts) e é classificado como uma correção maior (mais profunda do que 57% dos casos históricos). A resistência mais próxima encontra-se na zona de nó de volume 29470–29490 (1.1% de volume), e o suporte na zona 29080–29100 (1.2% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-26 20:07</p>
 <h3>📈 [2026-10-26 19:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
