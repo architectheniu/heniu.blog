@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 13:59
+Data: 2026-10-26 14:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 14:14]</h3>
+<p>[T-LOG: 2026-10-26 14:14]</p>
+<p><strong>STATUS: TRYB FUTURES (TYLKO SONDA NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29278.50 (+0.55%). Wartość ADR dla sondy wynosi 59.72%.</p>
+<p>Analiza ciśnienia paliwa (CVD) dla NQ wykazuje wartość -544, co klasyfikuje obecny stan jako "test podaży". Wektor kierunkowy Q-Score wynosi 0, co wskazuje na brak dominującego pędu w obecnym oknie czasowym. Sfera Dysona (opcje QQQ) wykazuje asymetrię wolumenu na poziomie Put/Call Ratio 0.63, przy oczekiwanym zasięgu zmienności IV w przedziale 693.07 - 715.73.</p>
+<p>Wektor rynkowy pozostaje w fazie neutralnej po gwałtownym testowaniu poziomu 29100. Brak synchronizacji między niedawnym przebiciem zapory a bieżącym odczytem CVD (test podaży) sugeruje brak potwierdzenia silnego impulsu wzrostowego.</p>
+<p><strong>DIAGNOSTYKA: Konsolidacja wokół świeżo zdobytej zapory przy jednoczesnym testowaniu podaży.</strong></p>
+<p>Log: 2026-10-26 14:14</p>
 <h3>🌌 [2026-10-26 13:59]</h3>
 <p>[T-LOG: 2026-10-26 13:59]</p>
 <p><strong>STATUS: FUTURES (TYLKO SONDA NQ)</strong></p>
