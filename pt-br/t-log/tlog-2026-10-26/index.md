@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 10:30
+Data: 2026-10-26 10:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.26 [PT-BR]</h1>
+<h3>🌌 [2026-10-26 10:59]</h3>
+<p>[TELEMETRIA: MODO FUTUROS - APENAS SONDA NQ]</p>
+<p>A Sonda NQ encontra-se atualmente no nível 29221.00 (+0.35%). O vetor de direção (Q-Score) é de 15, o que indica uma tendência neutra com um leve deslocamento para o lado positivo. A pressão de volume (CVD) foi registrada no nível de -4,42K, o que classifica o estado atual como um teste de oferta. O ADR é de 58.09%, o que situa a atividade dentro do intervalo de volatilidade esperado. Na esfera de opções (Esfera de Dyson (QQQ)), a volatilidade (IV) oscila em torno de 25.34%, com uma assimetria de volume Put/Call de 1.13. Os demais objetos (NDX, QQQ, TICKQ) permanecem em estado de dormência devido ao fechamento da sessão à vista (Spot). Sem dados sobre mudanças na massa da galáxia ou radiação de fundo neste modo de operação.</p>
+<p>O sistema encontra-se na fase de teste de oferta com baixa cinética direcional.</p>
+<p>Log: 2026-10-26 10:59</p>
 <h3>🌌 [2026-10-26 10:29]</h3>
 <p>[TELEMETRIA DO SISTEMA: MODO FUTUROS]<br />
 a Sonda NQ: 29208.00 (+0.31%) | ADR: 58.09% (acima da média) | CVD: -3,97K [teste de oferta]<br />
