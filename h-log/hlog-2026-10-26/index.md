@@ -1,6 +1,6 @@
 # H1: 2026-10-26
 
-Data: 2026-10-26 11:07
+Data: 2026-10-26 12:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.26</h1>
+<h3>📈 [2026-10-26 12:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Aktywność kontraktów NQ:</strong> Cena kontraktów NQ wynosi 29091.00 (-0.09%), przy skumulowanym przepływie (CVD) na poziomie -8,45 K, co wskazuje na testowanie podaży w bieżącym handlu poza sesją.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 25.34%, a wskaźnik Put/Call Volume Ratio kształtuje się na poziomie 1.13. Przy wolumenie opcji 7,159,595, przewaga wolumenu opcji sprzedaży (Put) sugeruje budowanie pozycji zabezpieczających (hedging) lub oczekiwanie na większą zmienność. Oczekiwany zasięg ruchu mieści się w przedziale 695.99 do 712.81.</li>
+<li><strong>Przepływy kapitałowe:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 15, co oznacza słabą przewagę napływu kapitału. Mimo to, na zamknięciu sesji kasowej odnotowano silną akumulację na indeksie NDX (CVD 139,96 M), podczas gdy ETF QQQ odnotował wzrost skumulowanego przepływu do 2,19 M.</li>
+<li><strong>Poziomy techniczne:</strong> Indeks NDX znajduje się w fazie korekty od szczytu z 06.10 (31360.85), która wynosi obecnie -7.67% (-2405 pkt). Kluczowe wsparcie (węzeł wolumenu) znajduje się w strefie 28940–28960. Najbliższy opór znajduje się w strefie 29080–29100, która znajduje się 0.43% powyżej obecnej ceny.</li>
+</ul>
+<p>Raport H-Log: 2026-10-26 12:07</p>
 <h3>📈 [2026-10-26 11:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
