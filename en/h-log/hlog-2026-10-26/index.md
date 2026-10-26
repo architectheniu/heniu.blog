@@ -1,6 +1,6 @@
 # H1: 2026-10-26
 
-Date: 2026-10-26 22:07
+Date: 2026-10-26 23:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.26 [EN]</h1>
+<h3>📈 [2026-10-26 23:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contracts situation:</strong> NQ contracts are trading at 29493.50 (+0.19%), with cumulative flow (CVD) at a level of 455, indicating testing of demand in the session after the cash session.</li>
+<li><strong>the cash session analysis (close):</strong> The Nasdaq-100 index (NDX) closed the session at 29272.46 (+1.09%), however, a significant anomaly in flows was noted: CVD for NDX was −114,75 M, which, given the price increase, suggests selling pressure and distribution. The aggregate flow direction indicator is -25, meaning an outflow of capital prevails.</li>
+<li><strong>Technical levels:</strong> The nearest resistance is located in the volume node zone 29470–29490 (last price: 20.10). The nearest support is the 29080–29100 zone (last price: 23.10). The current Drawdown from Heniu's peak from 06.10 (31360.85) is -6.66% (-2088 pts), which classifies the current move as a larger correction (above the median of historical declines).</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 23.03%, and the Put/Call Ratio at 1.18 suggests a sentiment for hedging or a prevalence of short positions. The market-expected range of movement for QQQ lies between 706.90 and 717.50 with an options volume of 7,674,981.</li>
+</ul>
+<p>H-Log Report: 2026-10-26 23:07</p>
 <h3>📈 [2026-10-26 close]</h3>
 <p><strong>H-LOG: the cash session (Spot) summary</strong></p>
 <p>This is the summary of the cash session (Spot) from 2026-10-26. The NDX index closed at 28961.08, representing an increase of 1.09%, with CVD at 38,05 M and ADR consumption of 34.29%. The NQ futures contract ended the session at 29100.25 (+1.12%) with CVD of −3,29 K and ADR at 45.96%. The QQQ ETF reached a value of 704.45, representing a change of 1.11%, with CVD of 1,44 M and ADR consumption of 34.40%. The TICKQ indicator closed at 437.00 with SMA200 at -17.45, while the MOC Anomaly was +24,24 M.</p>
