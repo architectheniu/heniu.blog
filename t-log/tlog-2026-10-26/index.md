@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 06:59
+Data: 2026-10-26 07:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 07:29]</h3>
+<p>[T-LOG: 2026-10-26 07:29]</p>
+<p><strong>STATUS: OPEN | TRYB: FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29075.25 (-0.14%). Odnotowano obalenie wsparcia HVN ekosystemu na poziomie NDX 28950 (NQ ≈ 29114), co wyznaczyło nową strefę grawitacyjną dla instrumentu. Bieżąca presja agresywnego wolumenu (CVD) dla Sondy NQ wynosi -7,36K, co klasyfikuje obecny stan jako "test podaży". Wskaźnik ADR dla NQ wynosi 57.50%, co sytuuje go poniżej średniej z ostatnich dni. Wektor kierunkowy układu (Q-Score) wynosi 15, wskazując na słabą, dodatnią tendencję w fazie po uderzeniu w zapory. W Sferze Dysona (opcje QQQ) zmienność (IV) oscyluje wokół 25.34%, przy asymetrii wolumenu Put/Call na poziomie 1.13. Dane telemetryczne dla masy galaktyki, szerokiej giełdy oraz średniej akcji pozostają w uśpieniu (sesja kasowa zamknięta).</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Konsolidacja w strefie po obaleniu wsparcia; układ wykazuje oznaki pasywnej absorpcji podaży przy niskiej kinetyce wektora.</p>
 <h3>🌌 [2026-10-26 06:59]</h3>
 <p>[TELEMETRIA: TRYB FUTURES - TYLKO SONDA NQ]</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29174.00 (+0.19%). Wektor kierunkowy Q-Score wynosi 15, co wskazuje na stabilną, choć niską amplitudę wektora rynku. ADR dla Sondy NQ wynosi 57.50%, co sytuuje bieżącą zmienność powyżej średniej z ostatnich sesji. W sferze Dysona (opcje QQQ) odnotowano asymetrię wolumenu Put/Call na poziomie 1.13 przy zmienności IV wynoszącej 25.34%. Zasięg oczekiwany dla instrumentów pochodnych oscyluje w granicach 695.99 do 712.81.</p>

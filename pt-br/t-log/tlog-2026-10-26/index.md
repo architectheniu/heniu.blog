@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 07:00
+Data: 2026-10-26 07:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.26 [PT-BR]</h1>
+<h3>🌌 [2026-10-26 07:29]</h3>
+<p>[T-LOG: 2026-10-26 07:29]</p>
+<p><strong>STATUS: OPEN | MODO: FUTUROS (APENAS NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29075.25 (-0.14%). Foi registrado o rompimento do suporte HVN do ecossistema no nível NDX 28950 (NQ ≈ 29114), o que estabeleceu uma nova zona gravitacional para o instrumento. A pressão atual de volume agressivo (CVD) para a Sonda NQ é de -7,36K, o que classifica o estado atual como "teste de oferta". O indicador ADR para NQ é de 57.50%, situando-o abaixo da média dos últimos dias. O vetor direcional do sistema (Q-Score) é de 15, indicando uma tendência positiva fraca na fase após o impacto nas barreiras. Na Esfera de Dyson (opções QQQ), a volatilidade (IV) oscila em torno de 25.34%, com uma assimetria de volume Put/Call no nível de 1.13. Os dados telemétricos para a massa da galáxia, mercado amplo e média de ações permanecem em dormência (a sessão à vista (Spot) está fechada).</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+Consolidação na zona após o rompimento do suporte; o sistema apresenta sinais de absorção passiva de oferta com baixa cinética do vetor.</p>
 <h3>🌌 [2026-10-26 06:59]</h3>
 <p>[TELEMETRIA: MODO FUTUROS - APENAS SONDA NQ]</p>
 <p>A Sonda NQ encontra-se atualmente no nível 29174.00 (+0.19%). O vetor direcional Q-Score é 15, o que indica uma amplitude estável, embora baixa, do vetor de mercado. O ADR para a Sonda NQ é de 57.50%, o que situa a volatilidade atual acima da média das últimas sessões. Na Esfera de Dyson (opções QQQ), registrou-se uma assimetria de volume Put/Call de 1.13 com volatilidade IV de 25.34%. O alcance esperado para os derivativos oscila entre 695.99 e 712.81.</p>
