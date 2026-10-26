@@ -1,0 +1,18 @@
+# M15: 2026-10-27
+
+Date: 2026-10-27 00:29
+URL: https://heniu.blog/en/t-log/tlog-2026-10-27/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>T-LOG 2026.10.27 [EN]</h1>
+<h3>🌌 [2026-10-27 00:29]</h3>
+<p>[T-LOG: 2026-10-27 00:29]</p>
+<p><strong>STATUS: THE FUTURES SESSION (ONLY NQ)</strong></p>
+<p>The NQ Probe is at level 29494.50 (+0.19%), showing increased kinetics after breaking the HVN barrier at level 29330. The ADR value for NQ is currently 18.44%. The directional vector (Q-Score) records a negative value of -25, indicating a strong dissonance between the current price position and the overall market vector. Aggressive volume (CVD) on the NQ Probe is 22, which classifies the state as a demand test. In the Dyson Sphere (QQQ options), volume asymmetry is observed with a Put/Call Ratio at 1.18, with volatility (IV) at 23.39%. The range expected by the system oscillates within the 706.90 – 717.50 limits. No data on the activity of the galaxy's masses and Background Radiation (TICKQ) due to the Futures session mode.</p>
+<p><strong>SYSTEM DIAGNOSTICS:</strong><br />
+Consolidation above the freshly acquired HVN barrier, combined with a negative Q-Score, suggests a phase of testing the stability of the new level. The system shows signs of gravitational tension between the price increase and the lack of confirmation in the broad directional vector.</p>
+<p><strong>Flow alarms from the previous Log:</strong> 00:05 sudden NQ flow downwards; NQ flow ignition.</p>
+

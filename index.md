@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [M15: 2026-10-27](https://heniu.blog/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 - [H1: 2026-10-27](https://heniu.blog/h-log/hlog-2026-10-27/index.md) (2026-10-27)
 - [M15: 2026-10-26](https://heniu.blog/t-log/tlog-2026-10-26/index.md) (2026-10-26)
 - [H1: 2026-10-26](https://heniu.blog/h-log/hlog-2026-10-26/index.md) (2026-10-26)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [H1: 2026-10-14](https://heniu.blog/h-log/hlog-2026-10-14/index.md) (2026-10-14)
 - [M15: 2026-10-14](https://heniu.blog/t-log/tlog-2026-10-14/index.md) (2026-10-14)
 - [Log #0202: Rozpad Grawitacji i Paradoks Paliwa](https://heniu.blog/posts/log-0202/index.md) (2026-10-14)
-- [Fundamenty #0003: Transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-14-0003/index.md) (2026-10-14)
 
