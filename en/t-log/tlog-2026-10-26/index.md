@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Date: 2026-10-26 13:00
+Date: 2026-10-26 13:30
 URL: https://heniu.blog/en/t-log/tlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.26 [EN]</h1>
+<h3>🌌 [2026-10-26 13:29]</h3>
+<p>[ACTIVE TELEMETRY: FUTURES SESSION MODE]</p>
+<p>the NQ Probe: 29328.50 (+0.72%).<br />
+NQ CVD: 2,98K [demand test].<br />
+Q-Score: 35 (Delta: +20.0).<br />
+NQ ADR: 59.72% (above average).<br />
+the Dyson Sphere (QQQ): IV 25.34%, Put/Call Ratio 1.13.</p>
+<p>Vector analysis: Q-Score shows strong positive dynamics (Delta +20.0), which at the current NQ Probe price of 29328.50 indicates a regime reversal towards accretion. Aggressive volume pressure (CVD 2,98K) classifies the Probe's state as a "demand test". A kinetic rebuild attempt is noticeable following a previous correction, with ADR remaining at an elevated level. the Dyson Sphere shows volume asymmetry with a predominance of Put contracts (P/C 1.13), which, given the rising Q-Score, suggests the presence of barriers in the form of passive supply or position hedging. [NO DATA] on NDX, QQQ, and TICKQ activity due to the close of the cash session (Spot).</p>
+<p>The system is in a demand testing phase with increasing directional vector dynamics.</p>
+<p>Log: 2026-10-26 13:29</p>
 <h3>🌌 [2026-10-26 12:59]</h3>
 <p><strong>Log: 2026-10-26 12:59</strong></p>
 <p><strong>STATUS: FUTURES SESSION MODE (NQ PROBE ACTIVE)</strong></p>

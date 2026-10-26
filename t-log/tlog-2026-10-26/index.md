@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 12:59
+Data: 2026-10-26 13:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 13:29]</h3>
+<p>[TELEMETRIA AKTYWNA: TRYB FUTURES]</p>
+<p>Sonda NQ: 29328.50 (+0.72%).<br />
+CVD NQ: 2,98K [test popytu].<br />
+Q-Score: 35 (Delta: +20.0).<br />
+ADR NQ: 59.72% (powyżej średniej).<br />
+Sfera Dysona (QQQ): IV 25.34%, Put/Call Ratio 1.13.</p>
+<p>Analiza wektorów: Q-Score wykazuje silną dodatnią dynamikę (Delta +20.0), co przy obecnej cenie Sondy NQ 29328.50 wskazuje na odwrócenie reżimu w stronę akrecji. Presja agresywnego wolumenu (CVD 2,98K) klasyfikuje stan Sondy jako "test popytu". Zauważalna jest próba odbudowy kinetyki po wcześniejszej korekcie, przy czym ADR utrzymuje się na podwyższonym poziomie. Sfera Dysona wykazuje asymetrię wolumenu z przewagą kontraktów Put (P/C 1.13), co przy rosnącym Q-Score sugeruje obecność barier w postaci pasywnej podaży lub ubezpieczenia pozycji. Brak danych o aktywności NDX, QQQ oraz TICKQ ze względu na zamknięcie sesji kasowej.</p>
+<p>Układ w fazie testowania popytu z narastającą dynamiką wektora kierunkowego.</p>
+<p>Log: 2026-10-26 13:29</p>
 <h3>🌌 [2026-10-26 12:59]</h3>
 <p><strong>Log: 2026-10-26 12:59</strong></p>
 <p><strong>STATUS: TRYB FUTURES (SONDA NQ AKTYWNA)</strong></p>
