@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 16:14
+Data: 2026-10-26 16:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 16:29]</h3>
+<p><strong>STATUS: SPOT</strong></p>
+<p>System odnotowuje gwałtowną ekspansję układu. Gwiazda NDX wykazuje stan „wystrzał rynku” (CVD: 79,88M), napędzając wzrost Masy Galaktyki do poziomu 41,76 T (+0,02 T). Sonda NQ utrzymuje cenę 29553.00 przy statusie „akumulacji” (CVD: 37,59K), a Satelita QQQ potwierdza „wystrzał rynku” (CVD: 2,61M). Średnia Akcja w koszyku US100 wzrosła do $300.65 (Delta: +0.63 USD), co wskazuje na rozszerzanie się struktury kapitalizacji.</p>
+<p>Występuje jednak drastyczne Rozwarstwienie Układu (Cross-Asset Divergence): mimo silnej akrecji na NDX i QQQ, Szeroka Giełda TICKQ znajduje się w stanie „wyprzedaży” (-71.00), co jest wartością znacznie poniżej średniej SMA200 (-12.71). Q-Score wynosi 33, wskazując na dodatni wektor kierunkowy, lecz asymetria między agresją na instrumentach indeksowych a szerokim rynkiem generuje grawitacyjne napięcie. Sfera Dysona wykazuje asymetrię wolumenu z Put/Call Ratio na poziomie 1.11 przy IV 22.70%. ADR dla wszystkich obiektów pozostaje powyżej średniej z ostatnich dni.</p>
+<p><strong>DIAGNOZA: Rozwarstwienie wektorów; wzrost strukturalnie asymetryczny z dominacją indeksów nad szerokim rynkiem.</strong></p>
+<p>Log: 2026-10-26 16:29</p>
 <h3>🌌 [2026-10-26 16:14]</h3>
 <p>[T-LOG: 2026-10-26 16:14]</p>
 <p><strong>STATUS: SPOT | TRYB SESJI: AKTYWNY</strong></p>

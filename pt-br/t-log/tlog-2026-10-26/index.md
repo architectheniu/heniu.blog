@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 16:15
+Data: 2026-10-26 16:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.26 [PT-BR]</h1>
+<h3>🌌 [2026-10-26 16:29]</h3>
+<p><strong>STATUS: A SESSÃO À VISTA (SPOT)</strong></p>
+<p>O sistema registra uma rápida expansão do sistema. A Estrela NDX apresenta um estado de "estouro de mercado" (CVD: 79,88M), impulsionando o crescimento da Massa Galáctica para o nível de 41,76 T (+0,02 T). A Sonda NQ mantém o preço de 29553.00 com status de "acumulação" (CVD: 37,59K), e o Satélite QQQ confirma o "estouro de mercado" (CVD: 2,61M). A Ação Média na cesta US100 subiu para $300.65 (Delta: +0.63 USD), o que indica uma expansão da estrutura de capitalização.</p>
+<p>No entanto, ocorre uma Divergência de Ativos (Cross-Asset Divergence) drástica: apesar da forte acreção no NDX e QQQ, a Amplitude de mercado (TICKQ) encontra-se em estado de "liquidação" (-71.00), o que é um valor significativamente abaixo da média SMA200 (-12.71). O Q-Score é de 33, indicando um vetor direcional positivo, mas a assimetria entre a agressão nos instrumentos de índice e o mercado amplo gera tensão gravitacional. A Esfera de Dyson (QQQ) apresenta assimetria de volume com um Put/Call Ratio de 1.11 com IV 22.70%. O ADR para todos os objetos permanece acima da média dos últimos dias.</p>
+<p><strong>DIAGNÓSTICO: Divergência de vetores; crescimento estruturalmente assimétrico com dominância dos índices sobre o mercado amplo.</strong></p>
+<p>Log: 2026-10-26 16:29</p>
 <h3>🌌 [2026-10-26 16:14]</h3>
 <p>[T-LOG: 2026-10-26 16:14]</p>
 <p><strong>STATUS: a sessão à vista (Spot) | MODO DE SESSÃO: ATIVO</strong></p>
