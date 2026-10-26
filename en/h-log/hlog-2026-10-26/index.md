@@ -1,6 +1,6 @@
 # H1: 2026-10-26
 
-Date: 2026-10-26 18:08
+Date: 2026-10-26 19:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.26 [EN]</h1>
+<h3>📈 [2026-10-26 19:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The NDX index is rising by 1.38% (29356.64), with a simultaneous strong inflow of capital on the cash market (CVD NDX = 76.04 M). This phenomenon, combined with positive CVD on NQ futures contracts (39.1 K) and the QQQ ETF (2.25 M), indicates active accumulation. The flow direction indicator is 33, confirming the dominance of capital inflow over outflow. Market breadth (TICKQ) is at 124.00, which, with a SMA200 average of -18.89, testifies to the strong relative strength of Nasdaq instruments.</p>
+</li>
+<li>
+<p><strong>QQQ Options Analysis:</strong> The options market recorded a volume of 5 475 880 contracts with implied volatility (IV) at the level of 22.95%. The Put/Call Volume Ratio is 1.16, suggesting increased activity towards hedging or building short positions, despite the price increases of the underlying instrument. The expected range of movement for QQQ lies between 707.94 and 719.14.</p>
+</li>
+<li>
+<p><strong>Correction context and technical levels:</strong> The current drawdown from the peak of 06.10 (31360.85) is -6.39% (-2004 pts) and has lasted 14 sessions. This is a larger correction, deeper than 57% of historical cases in the analyzed period. The nearest resistance is located in the volume node zone 29470–29490 (1.1% volume), while support is located in the 29080–29100 zone (1.2% volume).</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-10-26 19:07</p>
 <h3>📈 [2026-10-26 18:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
