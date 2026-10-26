@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 05:29
+Data: 2026-10-26 05:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 05:59]</h3>
+<p>[TELEMETRIA STATUS: FUTURES | TRYB: NQ-ONLY]</p>
+<p>Sonda NQ znajduje się na poziomie 29178.50 (+0.21%). Wektor kierunku (Q-Score) wynosi 15, wykazując deltę wzrostową względem poprzedniego odczytu. Ciśnienie wolumenu (CVD) na Sonda NQ wynosi -6.17K, co klasyfikuje obecny stan jako test podaży. Wskaźnik ADR NQ oscyluje na poziomie 57.50%. W sferze Dysona (Opcje na QQQ) odnotowano zmienność IV na poziomie 25.34% przy asymetrii wolumenu Put/Call wynoszącej 1.13. Szeroka Giełda (TICKQ) oraz parametry NDX pozostają w stanie uśpienia (poza sesją spot). Brak danych o zmianach w masie galaktyki ze względu na tryb pracy układu.</p>
+<p>Układ wykazuje dysonans między dodatnim wektorem kierunku a ujemną presją agresywnego wolumenu.</p>
+<p>Log: 2026-10-26 05:59</p>
 <h3>🌌 [2026-10-26 05:29]</h3>
 <p><strong>[T-LOG: 2026-10-26 05:29]</strong></p>
 <p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
