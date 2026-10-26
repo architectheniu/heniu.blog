@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 13:29
+Data: 2026-10-26 13:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 13:59]</h3>
+<p>[T-LOG: 2026-10-26 13:59]</p>
+<p><strong>STATUS: FUTURES (TYLKO SONDA NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29278.75 (+0.55%). Bieżący stan CVD dla Sondy NQ wynosi 1,93K, co klasyfikuje obecną aktywność jako test popytu. Wektor rynkowy (Q-Score) oscyluje wokół 35, utrzymując lekko dodatnią orientację układu. ADR NQ wynosi 59.72%, co plasuje bieżącą zmięknienie instrumentu powyżej średnich historycznych. W sferze opcji (QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.13, przy zmienności IV wynoszącej 25.34%. Brak danych o wektorach makro i mikro w strumieniu telemetrycznym dla tego konkretnego momentu uniemożliwia ocenę kinetyki przepływów.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie testowania popytu po odzyskaniu kluczowej zapory HVN; wysoka aktywność w strefie 29100 sugeruje próbę ustanowienia nowego punktu odniesienia.</p>
 <h3>🌌 [2026-10-26 13:29]</h3>
 <p>[TELEMETRIA AKTYWNA: TRYB FUTURES]</p>
 <p>Sonda NQ: 29328.50 (+0.72%).<br />
