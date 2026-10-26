@@ -1,0 +1,22 @@
+# H1: 2026-10-27
+
+Data: 2026-10-27 00:07
+Adres: https://heniu.blog/h-log/hlog-2026-10-27/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.10.27</h1>
+<h3>📈 [2026-10-27 00:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Kontrakty NQ i przepływy:</strong> Kontrakty NQ notowane są na poziomie 29421.25 (-0.05%). Skumulowany przepływ (CVD) dla NQ wynosi -1,72 K, co wskazuje na testowanie podaży w obecnej sesji. Zbiorczy wskaźnik kierunku przepływów wynosi -45, co oznacza przewagę dystrybucji kapitału.</li>
+<li><strong>Kontekst sesji kasowej (Spot):</strong> Indeks NDX zamknął sesję na poziomie 29272.46 (+1.09%), jednak odnotowano silną anomalię w przepływach: CVD dla NDX wyniosło -114,75 M akcji, co przy wzroście ceny wskazuje na silną presję sprzedażową. ETF QQQ zamknął się na poziomie 712.12 (+1.11%) z dodatnim przepływem CVD na poziomie 2,85 M.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 23.39%. Put/Call Volume Ratio na poziomie 1.18 sugeruje przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na spadki. Oczekiwany przez rynek zasięg ruchu dla QQQ mieści się w przedziale 706.90 – 717.50.</li>
+<li><strong>Poziomy techniczne:</strong> Trwa większa korekta od szczytu z 06.10 (31360.85), która wyniosła -6.66% (-2088 pkt). Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29090–29110, natomiast strefa oporu to 29310–29330.</li>
+</ul>
+<p>Raport H-Log: 2026-10-27 00:07</p>
+
