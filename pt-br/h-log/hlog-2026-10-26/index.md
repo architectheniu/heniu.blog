@@ -1,6 +1,6 @@
 # H1: 2026-10-26
 
-Data: 2026-10-26 03:08
+Data: 2026-10-26 04:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.26 [PT-BR]</h1>
+<h3>📈 [2026-10-26 04:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada; análise baseada em contratos NQ e dados do fechamento da sessão regular. Os contratos NQ estão sendo negociados a um preço de 29136.00 (+0.06%), com um fluxo acumulado (CVD) negativo no nível de -6,38 K, o que indica a testagem da oferta.</li>
+<li>O indicador de direção de fluxo é 15, o que significa uma vantagem fraca de entrada de capital. Na sessão à vista (Spot), no fechamento, foi registrado um fluxo acumulado NDX no nível de 139,96 M, com o preço do índice em 28956.26 (0.00%).</li>
+<li>O Recuo desde o pico do Heniu de 06.10 (31360.85) é de -7.67% (-2405 pts). Este é um movimento de caráter de correção maior, mais profundo do que 57% dos casos históricos no período analisado.</li>
+<li>Análise de opções QQQ: A volatilidade implícita (IV) é de 25.34%, e o Put/Call Ratio é 1.13, o que sugere uma vantagem de posições de proteção (hedging) e uma inclinação para o risco de queda. O alcance esperado de movimento para o ETF QQQ está na faixa de 695.99 a 712.81.</li>
+<li>Níveis técnicos cruciais: O suporte próximo encontra-se no nó de volume na zona 28940–28960. A resistência significativa mais próxima está localizada na zona 29080–29100 (1.2% de volume), o que representa um nível 0.43% acima do preço atual dos contratos.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-26 04:07</p>
 <h3>📈 [2026-10-26 03:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
