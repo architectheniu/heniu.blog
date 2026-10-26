@@ -1,6 +1,6 @@
 # H1: 2026-10-26
 
-Data: 2026-10-26 01:08
+Data: 2026-10-26 02:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.26 [PT-BR]</h1>
+<h3>📈 [2026-10-26 02:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>a sessão à vista (Spot) está atualmente fechada; análise baseada em contratos futuros NQ e dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo negociados a 29061.25 (-0.19%), com o fluxo acumulado (CVD) no nível de -6.28K, o que indica teste de oferta.</li>
+<li>O indicador agregado de direção de fluxos é 15, o que significa uma leve vantagem de entrada de capital.</li>
+<li>No setor de opções QQQ, a volatilidade implícita (IV) é de 25.34%, e o Put/Call Ratio no nível de 1.13 sugere a construção de posições de hedge ou vantagem de opções de venda. O alcance esperado de movimento com base no volume de 7,159,595 opções está na faixa de 695.99 a 712.81.</li>
+<li>O Índice Nasdaq-100 (NDX) encontra-se em uma fase de correção maior, que desde o pico de 06.10 foi de -7.67% (-2405 pts). O suporte próximo está na zona de nó de volume 28940–28960, enquanto a resistência mais próxima identificada está na zona 29080–29100.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-26 02:07</p>
 <h3>📈 [2026-10-26 01:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
