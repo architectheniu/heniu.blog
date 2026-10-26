@@ -1,6 +1,6 @@
 # H1: 2026-10-26
 
-Data: 2026-10-26 17:07
+Data: 2026-10-26 18:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.26</h1>
+<h3>📈 [2026-10-26 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX rośnie o 1,32% do poziomu 29340,44, przy czym skumulowany przepływ (CVD) wynosi 70,68 M, co wskazuje na silny napływ kapitału (wystrzał rynku). Kontrakty NQ (29504,50, +1,33%) wykazują akumulację z CVD na poziomie 28,84 K, a ETF QQQ (713,65, +1,31%) potwierdza trend wzrostowy z CVD 2,09 M. Wskaźnik kierunku przepływów wynosi 25, co oznacza umiarkowaną przewagę napływu kapitału.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi -70,00, co przy średniej SMA200 na poziomie -20,23 sugeruje silną presję sprzedażową w szerokim rynku akcji, mimo wzrostów głównych indeksów.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 22,97%, a stosunek wolumenu Put/Call (PCR) na poziomie 1,19 wskazuje na przewagę pozycji zabezpieczających (hedging) lub nastroje niedźwiedzie w rynku opcji. Oczekiwany zasięg ruchu mieści się w przedziale 707,15 do 718,67 przy całkowitym wolumenie opcji 4,361,528.</li>
+<li><strong>Kontekst techniczny i poziomy:</strong> Bieżąca korekta od szczytu z 06.10 (31360,85) wynosi -6,44% (-2020 pkt), co klasyfikuje ją jako większą korektę (powyżej mediany historycznych spadków). Najbliższy opór znajduje się w strefie węzła wolumenu 29470–29490 (1,1% wolumenu), natomiast wsparcie zlokalizowane jest w strefie 29080–29100 (1,2% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-10-26 18:07</p>
 <h3>📈 [2026-10-26 17:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
