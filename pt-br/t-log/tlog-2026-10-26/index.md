@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 23:30
+Data: 2026-10-27 00:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.26 [PT-BR]</h1>
+<h3>🌌 [2026-10-26 23:59]</h3>
+<p>[T-LOG: 2026-10-26 23:59]</p>
+<p>a Sonda NQ encontra-se no nível 29476.50 (+0.14%), operando no regime da sessão de futuros. Durante a última hora, foram registrados eventos de volume críticos: primeiro o rompimento (conquista) da barreira HVN do ecossistema US100 no nível NQ ≈ 29494, seguido de sua derrubada imediata. Atualmente, o preço oscila abaixo desta barreira. O vetor direcional Q-Score é de -45, indicando a dominância do vetor negativo. As medições do fluxo de energia (CVD) para a Sonda NQ mostram um valor de -85, o que classifica o estado como um teste de oferta. O ADR NQ é de 8.12%, o que situa a volatilidade atual acima da média. Na Esfera de Dyson (opções QQQ), observa-se uma assimetria de volume com Put/Call Ratio no nível de 1.18, com volatilidade (IV) de 23.39% e alcance esperado no intervalo de 706.90 – 717.50. Os dados relativos a NDX, QQQ e TICKQ permanecem em dormência (sem radiação no modo Futures).</p>
+<p>Status do sistema: Consolidação em torno da barreira HVN derrubada com uma leve vantagem de pressão de oferta em microescala.</p>
 <h3>🌌 [2026-10-26 23:29]</h3>
 <p><strong>[T-LOG: 2026-10-26 23:29]</strong></p>
 <p><strong>STATUS: FUTURES (MODO NQ)</strong></p>
