@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Log #0212: Session summary 2026-10-26: NDX 28961.08 (+1.09%)](https://heniu.blog/en/posts/log-0212/index.md) (2026-10-26)
 - [M15: 2026-10-26](https://heniu.blog/en/t-log/tlog-2026-10-26/index.md) (2026-10-26)
 - [H1: 2026-10-26](https://heniu.blog/en/h-log/hlog-2026-10-26/index.md) (2026-10-26)
 - [Fundamentals #0022: Company filings: Marvell Technology, Workday; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-26-0022/index.md) (2026-10-26)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0003: Insider transactions](https://heniu.blog/en/f-log/flog-2026-10-14-0003/index.md) (2026-10-14)
 - [H1: 2026-10-13](https://heniu.blog/en/h-log/hlog-2026-10-13/index.md) (2026-10-13)
 - [M15: 2026-10-13](https://heniu.blog/en/t-log/tlog-2026-10-13/index.md) (2026-10-13)
-- [Fundamentals #0002: Corporate events and insider transactions](https://heniu.blog/en/f-log/flog-2026-10-13-0002/index.md) (2026-10-13)
 

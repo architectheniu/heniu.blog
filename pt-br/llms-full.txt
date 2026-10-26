@@ -7,6 +7,86 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0212: Resumo da sessão 2026-10-26: NDX 28961.08 (+1.09%)
+
+Data: 2026-10-26 21:03
+Endereço: https://heniu.blog/pt-br/posts/log-0212/
+
+
+**Data da sessão:** 2026-10-26
+
+> *Fechamento da sessão 2026-10-26: NDX 28961.08 (+1.09%), NQ 29100.25 (+1.12%), QQQ 704.45 (+1.11%).*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (14:30 PL) nos níveis NDX 29046.68 e NQ 29231.00. Nos primeiros 30 minutos, o NDX subiu 3.99 pts (+0.01%) para 29050.67, enquanto o NQ caiu 21.75 pts (-0.07%) para 29209.25. O máximo da sessão foi registrado às 11:25 ET (16:25 PL) no nível NDX 29402.55, e o mínimo ocorreu às 15:55 ET (20:55 PL) no nível NDX 28957.53. O fechamento do NDX no nível 28961.08 está 441.47 pts abaixo do máximo e 3.55 pts acima do mínimo.
+
+**Fluxos e amplitude de mercado.** As direções do fluxo acumulado (CVD) para NDX e QQQ foram positivas, enquanto para NQ foi negativa, o que significa uma direção divergente. O indicador TICKQ no fechamento foi de 437.00 [disparo de mercado], com a média SMA200 no nível de -17.45 [teste de oferta]. A participação de empresas acima de 1 trilhão de USD na capitalização da cesta foi de 68.47%.
+
+**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX caiu 343.75 pts (-1.17%) para o nível 28961.08. No fechamento, ocorreu uma Anomalia MOC de +24,24 M. A volatilidade implícita (IV) para as opções sobre QQQ era de 22.90%, e a relação put/call era de 1.42. META captou capital.
+
+**Balanço do dia.** O Índice Nasdaq-100 fechou no nível 28961.08 (+1.09%).
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **28961.08 (+1.09%)**
+    * Fluxo acumulado (CVD): **38,05 M [acumulação]**
+    * Anomalia no fechamento (MOC): **+24,24 M**
+    * Utilização da amplitude diária média (ADR): **34.29%**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **-7.26%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **Contrato futuro NQ:** fechamento **29100.25 (+1.12%)**
+    * Fluxo acumulado (CVD): **−3,29 K [teste de oferta]**
+    * Utilização da amplitude diária média (ADR): **45.96%**
+
+* **ETF QQQ:** fechamento **704.45 (+1.11%)**
+    * Fluxo acumulado (CVD): **1,44 M [acumulação]**
+    * Utilização da amplitude diária média (ADR): **34.40%**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **437.00 [disparo de mercado]**
+    * Média de 200 leituras (SMA200): **-17.45 [teste de oferta]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **22.90%**
+    * Relação put/call (posições abertas, OI): **1.42**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **41.56 trilhões de USD** (mudança em relação ao fechamento anterior: **+0.37 trilhões de USD**)
+    * Participação de empresas acima de 1 trilhão de USD na capitalização da cesta: **68.47%** (mudança: **+2.30 p.p.**)
+    * Preço médio das ações na cesta: **$299.65** (mudança: **+$2.18**)
+    * Mudanças no grupo de empresas acima de 1 trilhão de USD: **entraram acima de 1 trilhão de USD: MU**
+
+* **Saúde dos dados da sessão:** leituras por 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,1% das leituras
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0212/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-10-26",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentos #0022: Notificações de empresas: Marvell Technology, Workday; transações de insiders
 
 Data: 2026-10-26 10:11
@@ -1263,20 +1343,5 @@ O sistema experimenta uma estratificação abrupta: o preço perde massa, enquan
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentos #0003: Transações de insiders
-
-Data: 2026-10-14 10:10
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-14-0003/
-
-
-Insiders da Workday (WDAY) venderam ações por 18,7 mi USD.
-
-Insiders da CrowdStrike (CRWD) venderam ações por 8,0 mi USD.
-
-Os insiders realizaram transações de ações em 13.10 com um valor total de venda de 33,3 mi USD, incluindo 32,8 mi USD de planos 10b5-1, com ausência de compras no mercado.
 
 

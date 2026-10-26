@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Log #0212: Resumo da sessão 2026-10-26: NDX 28961.08 (+1.09%)](https://heniu.blog/pt-br/posts/log-0212/index.md) (2026-10-26)
 - [M15: 2026-10-26](https://heniu.blog/pt-br/t-log/tlog-2026-10-26/index.md) (2026-10-26)
 - [H1: 2026-10-26](https://heniu.blog/pt-br/h-log/hlog-2026-10-26/index.md) (2026-10-26)
 - [Fundamentos #0022: Notificações de empresas: Marvell Technology, Workday; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-26-0022/index.md) (2026-10-26)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Log #0202: Decaimento da Gravidade e o Paradoxo do Combustível](https://heniu.blog/pt-br/posts/log-0202/index.md) (2026-10-14)
 - [Fundamentos #0003: Transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-14-0003/index.md) (2026-10-14)
 - [H1: 2026-10-13](https://heniu.blog/pt-br/h-log/hlog-2026-10-13/index.md) (2026-10-13)
-- [M15: 2026-10-13](https://heniu.blog/pt-br/t-log/tlog-2026-10-13/index.md) (2026-10-13)
 
