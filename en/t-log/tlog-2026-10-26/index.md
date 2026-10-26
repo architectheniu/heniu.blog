@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Date: 2026-10-26 08:29
+Date: 2026-10-26 08:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.26 [EN]</h1>
+<h3>🌌 [2026-10-26 08:59]</h3>
+<p><strong>[T-LOG: 2026-10-26 08:59]</strong></p>
+<p><strong>Status: OPEN | Mode: FUTURES (NQ ONLY)</strong></p>
+<p>the NQ Probe is currently at level 29089.25 (-0.09%). During the session, the breaking of the US100 ecosystem HVN support was noted at NDX level 28950 (NQ ≈ 29114). The Q-Score vector is 15, indicating low, near-neutral, directional strength of the system. the NQ Probe shows a state of supply testing (CVD: -6.69K), which at the current price suggests active selling pressure on a micro scale. The ADR value for NQ is 57.50%. In the Dyson Sphere (QQQ) (Options on QQQ), volatility (IV) remains at level 25.34%, with a Put/Call volume asymmetry of 1.13. Other objects (NDX, QQQ, TICKQ) remain in dormancy due to the close of the cash session (Spot).</p>
+<p><strong>System diagnostics:</strong> The system is in a supply testing phase with a lack of clear vector resonance. Dominance of selling pressure on the NQ Probe after breaking local support barriers.</p>
 <h3>🌌 [2026-10-26 08:29]</h3>
 <p>[T-LOG: 2026-10-26 08:29]</p>
 <p><strong>STATUS: THE FUTURES SESSION (NQ ONLY)</strong></p>

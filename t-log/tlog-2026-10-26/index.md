@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 08:29
+Data: 2026-10-26 08:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 08:59]</h3>
+<p><strong>[T-LOG: 2026-10-26 08:59]</strong></p>
+<p><strong>Status: OPEN | Tryb: FUTURES (NQ ONLY)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29089.25 (-0.09%). W trakcie sesji odnotowano obalenie wsparcia HVN ekosystemu US100 na poziomie NDX 28950 (NQ ≈ 29114). Wektor Q-Score wynosi 15, wskazując na niską, bliską neutralnej, siłę kierunkową układu. Sonda NQ wykazuje stan testu podaży (CVD: -6,69K), co przy obecnej cenie sugeruje aktywną presję sprzedażową w mikroskali. Wartość ADR dla NQ wynosi 57.50%. W sferze Dysona (opcje na QQQ) zmienność (IV) utrzymuje się na poziomie 25.34%, przy asymetrii wolumenu Put/Call wynoszącej 1.13. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
+<p><strong>Diagnostyka układu:</strong> Układ w fazie testowania podaży przy braku wyraźnego rezonansu wektorów. Dominacja presji sprzedażowej na Sondasie NQ po przełamaniu lokalnych barier wsparcia.</p>
 <h3>🌌 [2026-10-26 08:29]</h3>
 <p>[T-LOG: 2026-10-26 08:29]</p>
 <p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
