@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 12:29
+Data: 2026-10-26 12:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 12:59]</h3>
+<p><strong>Log: 2026-10-26 12:59</strong></p>
+<p><strong>STATUS: TRYB FUTURES (SONDA NQ AKTYWNA)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29265.75 (+0.51%). Odnotowano przebicie zapory HVN ekosystemu US100 na poziomie 29100 (NQ ≈ 29264). Bieżąca kinetyka układu wykazuje wektor kierunkowy Q-Score na poziomie 15, co wskazuje na słabą, lecz dodatnią tendencję. Wskaźnik ADR dla Sondy NQ wynosi 58.09% i jest monitorowany w kontekście narastającej dynamiki sesji.</p>
+<p>Analiza ciśnienia paliwa (CVD) dla Sondy NQ wykazuje wartość -1.84K, co klasyfikuje bieżący stan jako "test podaży". Mimo dodatniej zmiany ceny, agresywny wolumen pozostaje w strefie ujemnej, co sugeruje obecność pasywnej absorpcji zleceń sprzedaży przy próbie odbicia. W Sferze Dysona (opcje na QQQ) zmienność (IV) wynosi 25.34%, przy asymetrii wolumenu Put/Call na poziomie 1.13.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Konsolidacja wokół świeżo zdobytej zapory przy jednoczesnym występowaniu presji podaży w wolumenie (CVD) sugeruje fazę testowania siły oporu. Brak pełnej synchronizacji między ceną a agresją wolumenu wskazuje na brak wyraźnego impulsu akrecyjnego.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 12:38 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-26 12:29]</h3>
 <p>[T-LOG: 2026-10-26 12:29]</p>
 <p><strong>STATUS: FUTURES (TYLKO SONDA NQ)</strong></p>
