@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 19:29
+Data: 2026-10-26 19:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 19:44]</h3>
+<p>Log: 2026-10-26 19:44</p>
+<p>W sektorze US100 odnotowano intensywną wymianę w strefie zapór HVN między poziomami NDX 29320 a 29360, co doprowadziło do ostatecznego zdobycia bariery na poziomie NDX 29320 (NQ ≈ 29481). Gwiazda NDX wykazuje stan "wystrzału rynku" przy CVD na poziomie 72,29M, podczas gdy Sonda NQ utrzymuje profil "akumulacji" (CVD: 38,7K) przy cenie 29495.50. Satelita QQQ również wykazuje "wystrzał rynku" (CVD: 2,6M). Mimo silnych wektorów popytu w głównych obiektach, Szeroka Giełda Nasdaq (TICKQ) znajduje się w stanie "załamania rynku" (-296.00), co przy średniej SMA200 na poziomie -22.27 (status BELOW) wskazuje na głębokie rozwarstwienie układu. Koszyk US100 wykazuje lekką ekspansję, gdzie Średnia Akcja wynosi $300.38 (Delta: +0.12 USD). W Sferze Dysona obserwuje się asymetrię wolumenu z Put/Call Ratio na poziomie 1.18. Wektor Q-Score wynosi 25, co przy wysokim ADR (99.20% dla NQ) sugeruje obecność napięcia między agresywną akrecją a strukturą szerokiego rynku.</p>
+<p>Układ w fazie grawitacyjnego napięcia (Cross-Asset Divergence).</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 19:30 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-26 19:29]</h3>
 <p>Log: 2026-10-26 19:29</p>
 <p>[STATUS: SPOT]<br />

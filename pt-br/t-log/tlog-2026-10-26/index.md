@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 19:29
+Data: 2026-10-26 19:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.26 [PT-BR]</h1>
+<h3>🌌 [2026-10-26 19:44]</h3>
+<p>Log: 2026-10-26 19:44</p>
+<p>No setor US100, observou-se uma troca intensa na zona de barreiras HVN entre os níveis NDX 29320 e 29360, o que levou à conquista final da barreira no nível NDX 29320 (NQ ≈ 29481). A Estrela NDX apresenta um estado de "disparo de mercado" com o CVD no nível de 72,29M, enquanto a Sonda NQ mantém um perfil de "acumulação" (CVD: 38,7K) ao preço de 29495.50. O satélite QQQ também apresenta um "disparo de mercado" (CVD: 2,6M). Apesar dos fortes vetores de demanda nos principais objetos, a Amplitude de mercado (TICKQ) encontra-se em um estado de "colapso de mercado" (-296.00), o que, com a média SMA200 no nível de -22.27 (status BELOW), indica um profundo estrato do sistema. A Cesta Nasdaq-100 apresenta uma leve expansão, onde a Ação Média é de $300.38 (Delta: +0.12 USD). Na Esfera de Dyson (QQQ), observa-se uma assimetria de volume com o Put/Call Ratio no nível de 1.18. O vetor Q-Score é 25, o que, com o ADR alto (99.20% para NQ), sugere a presença de tensão entre a acreção agressiva e a estrutura do mercado amplo.</p>
+<p>Sistema em fase de tensão gravitacional (Cross-Asset Divergence).</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 19:30 fluxo repentino de NQ para baixo; ignição de fluxo de NQ.</p>
 <h3>🌌 [2026-10-26 19:29]</h3>
 <p>Log: 2026-10-26 19:29</p>
 <p>[STATUS: a sessão à vista (Spot)]<br />
