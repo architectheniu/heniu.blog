@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 21:30
+Data: 2026-10-26 22:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.26 [PT-BR]</h1>
+<h3>🌌 [2026-10-26 21:59]</h3>
+<p><strong>[T-LOG: 2026-10-26 21:59]</strong></p>
+<p><strong>STATUS: FUTURES (MODO PÓS-SESSÃO)</strong><br />
+<strong>OBJETO: SONDA NQ</strong></p>
+<p>A Sonda NQ encontra-se atualmente no nível 29462.00 (+1.18%). O vetor Q-Score mostra uma orientação negativa no nível -25. A acumulação de volume (CVD: 22,44K) indica a presença de demanda agressiva em microescala, o que, com o preço atual, desloca o instrumento em direção à zona de resistência (proximidade da barreira 29470–29490). O valor de ADR é de 99.20%, o que posiciona a dinâmica atual perto da amplitude diária média. Na Esfera de Dyson (QQQ), registrou-se assimetria de volume com Put/Call Ratio no nível 1.18, com volatilidade (IV) de 23.39%. O alcance esperado para o instrumento de base oscila entre 706.86 e 717.46. Outros objetos (NDX, TICKQ) permanecem em dormência – sem dados telemétricos para a massa da galáxia e a Radiação de Fundo (TICKQ).</p>
+<p><strong>DIAGNÓSTICO: CONSOLIDAÇÃO EM TORNO DA BARREIRA DE RESISTÊNCIA COM ACUMULAÇÃO DE VOLUME.</strong></p>
+<p>Log: 2026-10-26 21:59</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 21:52 fluxo repentino de NQ para cima.</p>
 <h3>🌌 [2026-10-26 21:29]</h3>
 <p>[T-LOG: 2026-10-26 21:29]</p>
 <p><strong>STATUS: OPEN | MODO: FUTUROS (NQ ONLY)</strong></p>

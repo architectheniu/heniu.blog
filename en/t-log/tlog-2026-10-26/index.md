@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Date: 2026-10-26 21:29
+Date: 2026-10-26 21:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.26 [EN]</h1>
+<h3>🌌 [2026-10-26 21:59]</h3>
+<p><strong>[T-LOG: 2026-10-26 21:59]</strong></p>
+<p><strong>STATUS: THE FUTURES SESSION (POST-SESSION MODE)</strong><br />
+<strong>OBJECT: THE NQ PROBE</strong></p>
+<p>The NQ Probe is currently at the level of 29462.00 (+1.18%). The Q-Score vector shows a negative orientation at -25. Volume accumulation (CVD: 22,44K) indicates the presence of aggressive demand in the micro-scale, which at the current price shifts the instrument towards the resistance zone (proximity to the 29470–29490 barrier). The ADR value is 99.20%, placing current dynamics close to the average daily range. In the Dyson Sphere (QQQ), a volume asymmetry was recorded with a Put/Call Ratio at 1.18, with volatility (IV) at 23.39%. The expected range for the underlying instrument oscillates between 706.86 and 717.46. Other objects (NDX, TICKQ) remain in dormancy – no telemetry data for galaxy mass and Background Radiation (TICKQ).</p>
+<p><strong>DIAGNOSIS: CONSOLIDATION AROUND THE RESISTANCE BARRIER WITH VOLUME ACCUMULATION.</strong></p>
+<p>Log: 2026-10-26 21:59</p>
+<p><strong>Flow alarms from the previous Log:</strong> 21:52 sudden NQ flow upwards.</p>
 <h3>🌌 [2026-10-26 21:29]</h3>
 <p>[T-LOG: 2026-10-26 21:29]</p>
 <p><strong>STATUS: OPEN | MODE: FUTURES (NQ ONLY)</strong></p>

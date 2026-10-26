@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 21:29
+Data: 2026-10-26 21:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 21:59]</h3>
+<p><strong>[T-LOG: 2026-10-26 21:59]</strong></p>
+<p><strong>STATUS: FUTURES (TRYB POZASESJOWY)</strong><br />
+<strong>OBIEKT: SONDA NQ</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29462.00 (+1.18%). Wektor Q-Score wykazuje ujemną orientację na poziomie -25. Akumulacja wolumenu (CVD: 22,44K) wskazuje na obecność agresywnego popytu w mikroskali, co przy obecnej cenie przesuwa instrument w stronę strefy oporu (bliskość zapory 29470–29490). Wartość ADR wynosi 99.20%, co plasuje bieżącą dynamikę blisko średniego zakresu dziennego. W sferze opcji (QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.18, przy zmienności (IV) wynoszącej 23.39%. Zasięg oczekiwany dla instrumentu bazowego oscyluje w granicach 706.86 do 717.46. Pozostałe obiekty (NDX, TICKQ) pozostają w uśpieniu – brak danych telemetrycznych dla masy galaktyki i promieniowania tła.</p>
+<p><strong>DIAGNOZA: KONSOLIDACJA WOKÓŁ ZAPORY OPORU Z AKUMULACJĄ WOLUMENU.</strong></p>
+<p>Log: 2026-10-26 21:59</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 21:52 nagły przepływ NQ w górę.</p>
 <h3>🌌 [2026-10-26 21:29]</h3>
 <p>[T-LOG: 2026-10-26 21:29]</p>
 <p><strong>STATUS: OPEN | TRYB: FUTURES (NQ ONLY)</strong></p>
