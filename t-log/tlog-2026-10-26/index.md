@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 14:14
+Data: 2026-10-26 14:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 14:29]</h3>
+<p>[T-LOG: 2026-10-26 14:29]</p>
+<p>Wartość CVD dla sondy wynosi -2.4K, co klasyfikuje obecny stan jako test podaży. ADR NQ utrzymuje się na poziomie 59.72%. Wektor kierunku Q-Score wynosi 0, wskazując na brak dominującej tendencji w obecnym punkcie czasowym. Sfera Dysona wykazuje asymetrię wolumenu z Put/Call Ratio na poziomie 0.65, przy zmienności IV wynoszącej 0.00% i oczekiwanym zasięgu w przedziale 693.07 do 715.73. Zgodnie z protokołem, ze względu na tryb sesji FUTURES, parametry NDX, QQQ oraz TICKQ pozostają w uśpieniu i nie podlegają analizie bieżącej.</p>
+<p>Układ w fazie poszukiwania stabilizacji po obaleniu zapory HVN; brak wyraźnego rezonansu wektorów.</p>
+<p>Log: 2026-10-26 14:29</p>
 <h3>🌌 [2026-10-26 14:14]</h3>
 <p>[T-LOG: 2026-10-26 14:14]</p>
 <p><strong>STATUS: TRYB FUTURES (TYLKO SONDA NQ)</strong></p>
