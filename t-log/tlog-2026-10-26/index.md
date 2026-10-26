@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 01:59
+Data: 2026-10-26 02:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 02:29]</h3>
+<p><strong>[T-LOG: 2026-10-26 02:29]</strong></p>
+<p><strong>STATUS: OPERACJA W TRYBIE FUTURES (TYLKO SONDA NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29144.00 (+0.09%). Odnotowano przebicie w górę zapory HVN ekosystemu US100 na poziomie 28950 (NQ ≈ 29114). Wartość ADR NQ wynosi 57.50%. Bieżący wektor kierunku (Q-Score) wynosi 15, co wskazuje na słabą tendencję wzrostową.</p>
+<p>Analiza ciśnienia paliwa (CVD) dla Sondy NQ wykazuje wartość -5,29K, co klasyfikuje obecny stan jako <strong>test podaży</strong>. Mimo przebicia wcześniejszej zapory, agresywny wolumen pozostaje ujemny, co sugeruje opór przy próbach odbicia. W Sferze Dysona (opcje na QQQ) zmienność (IV) wynosi 25.34%, a asymetria wolumenu (Put/Call Ratio) kształtuje się na poziomie 1.13.</p>
+<p>[BRAK_DANYCH_W_TELEMETRII_DLA_NDX_I_QQQ_W_TRYBIE_FUTURES]</p>
+<p><strong>DIAGNOZA UKŁADU:</strong><br />
+Konsolidacja wokół nowo zdobytej zapory z towarzyszącym testem podaży. Występuje dysonans między ceną a agresją wolumenu (CVD), co sugeruje pasywną absorpcję podaży w strefie wyżej. Układ w fazie niepewnej stabilizacji po przebiciu poziomu 28950.</p>
 <h3>🌌 [2026-10-26 01:59]</h3>
 <p><strong>[T-LOG: 2026-10-26 01:59]</strong></p>
 <p><strong>Status: OPEN | Tryb: FUTURES (NQ aktywny)</strong></p>
