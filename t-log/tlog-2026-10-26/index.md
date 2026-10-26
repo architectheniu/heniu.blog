@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 16:44
+Data: 2026-10-26 16:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 16:59]</h3>
+<p><strong>[T-LOG: 2026-10-26 16:59]</strong></p>
+<p><strong>STATUS SYSTEMU: SPOT</strong></p>
+<p>Układ znajduje się w fazie gwałtownego rozszerzenia, napędzanego przez potężną energię kinetyczną Gwiazdy NDX (CVD: 62,53M – wystrzał rynku). Sonda NQ wykazuje cenę 29473.00 przy jednoczesnej akumulacji wolumenu (CVD: 29,83K), co przy ADR na poziomie 99.20% wskazuje na utrzymywanie się powyżej średniej. Satelita QQQ potwierdza ten wektor (CVD: 2,3M – wystrzał rynku). Mimo silnej akrecji, Szeroka Giełda (TICKQ) wykazuje głębokie załamanie rynku na poziomie -406.00, co przy średniej radiacji SMA200 (-16.30) sugeruje strukturalne rozwarstwienie układu: agresywny popyt w sektorach liderów napotyka opór w szerokim spektrum akcji. Masa Galaktyki wynosi 41.66 T (Delta: -0.08 T), a Średnia Akcja to $299.85 (Delta: -0.86 USD), co oznacza systematyczne kurczenie się koszyka w ujęciu nominalnym. W Sferze Dysona odnotowuje się asymetrię wolumenu (Put/Call Ratio: 1.14) przy zmienności IV 22.72%. Wektor Q-Score wynosi 25, co wskazuje na słaby, lecz dodatni kierunek ruchu.</p>
+<p><strong>DIAGNOZA: ROZWARSTWIENIE UKŁADU (CROSS-ASSET DIVERGENCE) – WZROST ASYMETRYCZNY.</strong></p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 16:56 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-26 16:44]</h3>
 <p><strong>[T-LOG: 2026-10-26 16:44]</strong></p>
 <p><strong>STATUS: SPOT | ANALIZA TELEMETRYCZNA</strong></p>
