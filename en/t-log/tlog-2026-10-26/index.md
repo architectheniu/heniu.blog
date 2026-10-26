@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Date: 2026-10-26 20:44
+Date: 2026-10-26 20:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.26 [EN]</h1>
+<h3>🌌 [2026-10-26 20:59]</h3>
+<p>Log: 2026-10-26 20:59</p>
+<p>[STATUS: THE CASH SESSION (SPOT) - US100 SYSTEM ANALYSIS]</p>
+<p>The NQ Probe is at level 29233.75 (+1.12%), after intensive exchange in the HVN barrier zone (NDX 28950 - 29495), where a series of breakouts and recoveries of support and resistance levels were recorded. The NDX Star shows a demand test with CVD at level 5.93M, while the QQQ Satellite confirms this state, generating a demand test (CVD 508.24K). However, the NQ Probe shows a divergence, recording a supply test (CVD -853). The broad Nasdaq Exchange (TICKQ) is in an oversold state (-90.00), which, with an SMA200 average (-16.80), generates a clear system stratification: price increases accompanied by negative radiation of the broad market. Galaxy Mass is 41.56 T (Delta: -0.07 T), and the Average Action in the basket is $299.68 (Delta: -0.62 USD), indicating a slight contraction of the system's notional value. The market vector (Q-Score) is negative (-2). In the Dyson Sphere (QQQ), the Put/Call Ratio is 1.18 with IV 22.86%.</p>
+<p>[DIAGNOSIS: Cross-Asset Divergence – rallies driven by a narrow group of instruments amidst negative broad market dynamics and supply tests on the NQ Probe.]</p>
 <h3>🌌 [2026-10-26 20:44]</h3>
 <p>Volume event: The US100 ecosystem HVN barrier was captured at NDX level 29330 (NQ equivalent ≈ 29493).</p>
 <p>NQ Probe: 29492.25 | ADR: 99.20% | CVD: 37.13K [accumulation].<br />
