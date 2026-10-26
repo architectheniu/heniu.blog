@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Date: 2026-10-26 02:29
+Date: 2026-10-26 02:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.26 [EN]</h1>
+<h3>🌌 [2026-10-26 02:59]</h3>
+<p>[T-LOG: 2026-10-26 02:59]</p>
+<p><strong>STATUS: THE FUTURES SESSION (MODE: NQ ONLY)</strong></p>
+<p>the NQ Probe is currently at level 29144.75 (+0.09%). Sharp activity was recorded in the barrier zone: at 02:40 the HVN support of the US100 ecosystem at level 28950 (NQ ≈ 29114) was broken, only to effectively capture the same barrier at 02:52 (upside breakout). Current aggressive volume pressure (CVD) for the NQ Probe is -6.17K, classifying the current state as a "supply test". The market direction vector (Q-Score) is 15, indicating a weak but positive vector slope. NQ ADR is currently at 57.50%. In the Dyson Sphere (QQQ options) volatility (IV) is 25.34%, with a Put/Call volume asymmetry at 1.13. Other objects (NDX, QQQ, TICKQ) remain in a state of dormancy due to the close of the cash session (Spot).</p>
+<p><strong>DIAGNOSIS: Consolidation around the newly captured barrier with dominance of a supply test.</strong></p>
 <h3>🌌 [2026-10-26 02:29]</h3>
 <p><strong>[T-LOG: 2026-10-26 02:29]</strong></p>
 <p><strong>STATUS: OPERATION IN THE FUTURES SESSION (ONLY THE NQ PROBE)</strong></p>

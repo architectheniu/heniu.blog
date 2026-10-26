@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 02:29
+Data: 2026-10-26 02:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 02:59]</h3>
+<p>[T-LOG: 2026-10-26 02:59]</p>
+<p><strong>STATUS: FUTURES (TRYB: NQ ONLY)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29144.75 (+0.09%). Odnotowano gwałtowną aktywność w strefie zapór: o godzinie 02:40 obalono wsparcie HVN ekosystemu US100 na poziomie 28950 (NQ ≈ 29114), by o 02:52 skutecznie zdobyć tę samą zaporę (przebicie w górę). Bieżąca presja agresywnego wolumenu (CVD) dla Sondy NQ wynosi -6,17K, co klasyfikuje obecny stan jako "test podaży". Wektor kierunku rynku (Q-Score) wynosi 15, wskazując na słabe, lecz dodatnie nachylenie wektora. ADR NQ jest obecnie na poziomie 57.50%. W Sferze Dysona (opcje QQQ) zmienność (IV) wynosi 25.34%, przy asymetrii wolumenu Put/Call na poziomie 1.13. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej.</p>
+<p><strong>DIAGNOZA: Konsolidacja wokół nowo zdobytej zapory z dominacją testu podaży.</strong></p>
 <h3>🌌 [2026-10-26 02:29]</h3>
 <p><strong>[T-LOG: 2026-10-26 02:29]</strong></p>
 <p><strong>STATUS: OPERACJA W TRYBIE FUTURES (TYLKO SONDA NQ)</strong></p>

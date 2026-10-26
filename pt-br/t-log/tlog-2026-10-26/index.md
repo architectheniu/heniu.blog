@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 02:30
+Data: 2026-10-26 03:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.26 [PT-BR]</h1>
+<h3>🌌 [2026-10-26 02:59]</h3>
+<p>[T-LOG: 2026-10-26 02:59]</p>
+<p><strong>STATUS: FUTUROS (MODO: NQ ONLY)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29144.75 (+0.09%). Foi observada uma atividade intensa na zona de barreiras: às 02:40 o suporte HVN do ecossistema US100 no nível 28950 foi derrubado (NQ ≈ 29114), para que às 02:52 a mesma barreira fosse conquistada com sucesso (rompimento para cima). A pressão atual do volume agressivo (CVD) para a Sonda NQ é de -6,17K, o que classifica o estado atual como "teste de oferta". O vetor de direção do mercado (Q-Score) é de 15, indicando uma inclinação fraca, porém positiva do vetor. O ADR NQ está atualmente no nível 57.50%. Na Esfera de Dyson (opções QQQ), a volatilidade (IV) é de 25.34%, com uma assimetria de volume Put/Call no nível 1.13. Os demais objetos (NDX, QQQ, TICKQ) permanecem em estado de dormência devido ao fechamento da sessão à vista (Spot).</p>
+<p><strong>DIAGNOSE: Consolidação em torno da barreira recém-conquistada com dominância de teste de oferta.</strong></p>
 <h3>🌌 [2026-10-26 02:29]</h3>
 <p><strong>[T-LOG: 2026-10-26 02:29]</strong></p>
 <p><strong>STATUS: OPERAÇÃO EM MODO DE FUTUROS (APENAS SONDA NQ)</strong></p>
