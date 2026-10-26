@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 09:29
+Data: 2026-10-26 09:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 09:59]</h3>
+<p><strong>STATUS: OPEN | TRYB: FUTURES (SOLO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29172.00 (+0.19%). Odnotowano przebicie i zdobycie zapory HVN ekosystemu US100 na poziomie NDX 28950 (NQ ≈ 29114). Wskaźnik ADR dla NQ wynosi 58.09%, co plasuje bieżącą zmienność poniżej średniej z ostatnich sesji. Wektor kierunkowy Q-Score wynosi 15, wskazując na słabą, lecz dodatnią tendencję układu.</p>
+<p>Analiza ciśnienia paliwa (CVD) wykazuje stan 'test podaży' na poziomie -5.03K, co sugeruje obecność agresywnej presji sprzedażowej, która jednak nie zdołała przełamać bieżącej struktury ceny. W Sferze Dysona (opcje QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.13, przy zmienności IV 25.34% i oczekiwanym zasięgu między 695.99 a 712.81.</p>
+<p>Wszystkie pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
+<p><strong>DIAGNOSTYKA: Układ w fazie testowania podaży przy braku wyraźnej synchronizacji wektorów.</strong></p>
+<p>Log: 2026-10-26 09:59</p>
 <h3>🌌 [2026-10-26 09:29]</h3>
 <p>[TELEMETRIA SYSTEMU: TRYB FUTURES - ANALIZA OGRANICZONA DO SONDY NQ]</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29089.25 (-0.10%). Wektor Q-Score wykazuje dodatnią dynamikę, osiągając wartość 15 (Delta: +0.0). Ciśnienie paliwa (CVD) dla NQ wynosi -6,99K, co klasyfikuje stan układu jako 'test podaży'. ADR wynosi 58.09%, co plasuje obecną zmienność w zakresie aktywności sesyjnej. W sferze Dysona (opcje QQQ) odnotowano IV na poziomie 25.34% przy asymetrii wolumenu Put/Call wynoszącej 1.13.</p>
