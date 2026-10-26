@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0022: Company filings: Marvell Technology, Workday; insider transactions
+
+Date: 2026-10-26 10:10
+URL: https://heniu.blog/en/f-log/flog-2026-10-26-0022/
+
+
+Marvell Technology (MRVL) filed a report on the entry into a material agreement.
+
+Workday (WDAY) filed a report on the entry into a material agreement and a report on a financial obligation.
+
+Insiders on 23.10 sold shares for 8.8 million USD, including 4.8 million USD from 10b5-1 plans; market purchases were 0. The largest sale was reported by CrowdStrike (CRWD) insiders: 4.8 million USD.
+
+George Kurtz, President and CEO of CrowdStrike (CRWD), sold 20,000 shares valued at 4.8 million USD under a 10b5-1 plan.
+
+Ramon Laguarta, Chairman and CEO of PepsiCo (PEP), sold 30,000 shares valued at 4.1 million USD.
+
+8-K: 1.01 material agreement (Document: 8-K 1.01,9.01; Filing date (USA time): 23.10; 8-K 1.01 content (entry into a material agreement): agreement: Material Definitive Agreement; quote (EN): „On October 22, 2026, Marvell Technology, Inc. (the “Company”) entered into that certain Third Amended and Restated Revolving Credit Agreement (the “Revolving Credit Agreement”), by and among the Company, as borrower, the lenders party thereto (each, a “Revolving Lender”) and Bank of America, N.A. (the “Administrative…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1835632/000119312526430424/0001193125-26-430424-index.htm).
+
+8-K: 1.01 material agreement, 2.03 financial obligation (Document: 8-K 1.01,2.03,9.01; Filing date (USA time): 23.10; 8-K 1.01 content (entry into a material agreement): agreement: Material Definitive Agreement; quote (EN): „On October 21, 2026, Workday, Inc. (“Workday”) entered into an Underwriting Agreement (the “Underwriting Agreement”) with Morgan Stanley & Co. LLC, BofA Securities, Inc., Barclays Capital Inc., and Wells Fargo Securities, LLC, as representatives of the several underwriters named therein.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1327811/000110465926118496/0001104659-26-118496-index.htm).
+
+
+---
+
 ## Log #0211: Mass Compression and Volatility Expandability: Week of Negative Accretion
 
 Date: 2026-10-25 09:00
@@ -1261,24 +1284,5 @@ Insiders 1.10–9.10: sales totaled $420.7 million, including $390.4 million fro
 NBIS: largest sale was $136.8 million.
 
 AAPL: second largest sale was $88.6 million.
-
-
----
-
-## Fundamentals #0001: PepsiCo: 3Q2026 results
-
-Date: 2026-10-13 22:34
-URL: https://heniu.blog/en/f-log/flog-2026-10-13-0001/
-
-
-PepsiCo (PEP) revenues in the third quarter were 25.27 billion USD (+5.6% y/y), and earnings per share (GAAP) increased by 17.4% y/y to a level of 2.23 USD.
-
-### Quarterly results
-
-Adjusted earnings per share were 2.34 USD (+2.2% y/y), while revenues in the PFNA segment reached 6.50 billion USD.
-
-### Management commentary
-
-According to management, expiring commodity price hedges will cause an increase in costs, which will be partially visible in the next quarter. Management noted that they are not satisfied with results in North America and are considering a revision of the business model and distribution. According to management, the company intends to limit non-growth related expenses to redirect funds toward growth-driving brands, which is expected to bring improvement in subsequent quarters and next year.
 
 

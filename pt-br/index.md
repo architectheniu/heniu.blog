@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0022: Notificações de empresas: Marvell Technology, Workday; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-26-0022/index.md) (2026-10-26)
 - [H1: 2026-10-26](https://heniu.blog/pt-br/h-log/hlog-2026-10-26/index.md) (2026-10-26)
 - [M15: 2026-10-26](https://heniu.blog/pt-br/t-log/tlog-2026-10-26/index.md) (2026-10-26)
 - [Log #0211: Compressão de Massa e Expansibilidade de Volatilidade: Semana de Acreção Negativa](https://heniu.blog/pt-br/posts/log-0211/index.md) (2026-10-25)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0003: Transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-14-0003/index.md) (2026-10-14)
 - [H1: 2026-10-13](https://heniu.blog/pt-br/h-log/hlog-2026-10-13/index.md) (2026-10-13)
 - [M15: 2026-10-13](https://heniu.blog/pt-br/t-log/tlog-2026-10-13/index.md) (2026-10-13)
-- [Fundamentos #0002: Eventos corporativos e transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-13-0002/index.md) (2026-10-13)
 
