@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 21:00
+Data: 2026-10-26 21:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.26 [PT-BR]</h1>
+<h3>🌌 [2026-10-26 21:29]</h3>
+<p>[T-LOG: 2026-10-26 21:29]</p>
+<p><strong>STATUS: OPEN | MODO: FUTUROS (NQ ONLY)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29458.75 (+1.17%), com ADR de 99.20%. Foi registrada uma intensa troca de volume na zona de barreiras HVN: nos últimos 23 minutos, houve múltiplos rompimentos e reversões da barreira em torno de 29330 (NQ ≈ 29494), o que causou alta turbulência na estrutura de preços local. O vetor Q-Score indica uma orientação negativa do sistema no nível -25. Apesar disso, a pressão do volume agressivo (CVD) para a Sonda NQ é de 22,62K, o que classifica o estado como 'acumulação'. a Esfera de Dyson (Opções QQQ) mostra IV no nível 23.44% com Put/Call Ratio de 1.19, o que indica uma assimetria de volume em direção aos contratos Put.</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+Existe um dissonância clara entre a direção do vetor Q-Score e o estado da pressão CVD; a demanda agressiva (acumulação) pressiona o sistema, enquanto a física geral do movimento mostra uma tendência de queda. O sistema encontra-se em uma fase de alta instabilidade em torno das zonas HVN recém-processadas.</p>
+<p>Log: 2026-10-26 21:29</p>
 <h3>🌌 [2026-10-26 20:59]</h3>
 <p>Log: 2026-10-26 20:59</p>
 <p>[STATUS: A SESSÃO À VISTA (SPOT) - ANÁLISE DO SISTEMA US100]</p>
