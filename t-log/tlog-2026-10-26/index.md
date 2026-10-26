@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 04:59
+Data: 2026-10-26 05:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 05:29]</h3>
+<p><strong>[T-LOG: 2026-10-26 05:29]</strong></p>
+<p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29137.75 (+0.07%). W ekosystemie US100 odnotowano intensywną wymianę w strefie zapory HVN na poziomie 28950 (NQ ≈ 29114), gdzie w krótkim interwale nastąpiło trzykrotne zdobycie i obalenie tej bariery (04:59, 05:09, 05:19). Bieżąca presja agresywnego wolumenu (CVD) na Sondzie NQ wynosi -6,73K, co klasyfikuje stan układu jako <strong>test podaży</strong>. Wektor kierunkowy (Q-Score) oscyluje wokół 15, wskazując na skrajnie niską, niemal neutralną radiację. Zmienność w Sferze Dysona (IV) wynosi 25.34%, przy asymetrii wolumenu Put/Call na poziomie 1.13. Wskaźnik ADR NQ jest obecnie na poziomie 57.50%.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Konsolidacja w pobliżu świeżo przebitych i testowanych zapór HVN. Brak rezonansu wektorów; układ znajduje się w fazie testowania lokalnej podaży przy niskiej kinetyce kierunkowej.</p>
 <h3>🌌 [2026-10-26 04:59]</h3>
 <p>[T-LOG: 2026-10-26 04:59]</p>
 <p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
