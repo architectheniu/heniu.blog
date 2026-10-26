@@ -1,6 +1,6 @@
 # H1: 2026-10-26
 
-Data: 2026-10-26 15:07
+Data: 2026-10-26 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.26</h1>
+<h3>📈 [2026-10-26 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Indeks NDX rośnie o 1,45% do poziomu 29375,30, co koreluje z kontraktami NQ (+1,46% na poziomie 29541,50) oraz ETF QQQ (+1,44% na poziomie 714,56). Skumulowany przepływ (CVD) dla NDX wynosi 67,27 M, a dla QQQ 2,52 M, co wskazuje na silny napływ kapitału (wystrzał rynku) w sektorze kasowym. Wskaźnik kierunku przepływów wynosi 33, co potwierdza dodatni sentyment rynkowy.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi -139,00, co przy średniej SMA200 na poziomie -12,72 wskazuje na silne, krótkoterminowe napięcie i dużą liczbę podaży wewnątrz szerokiego rynku, mimo wzrostów głównych indeksów.</li>
+<li><strong>Analiza opcji:</strong> Zmienność implikowana (IV) wynosi 23,34%, a stosunek wolumenu Put/Call (PCR) kształtuje się na poziomie 1,10. Przy całkowitym wolumenie opcji 1 950 372, wskaźnik PCR powyżej 1,0 sugeruje zwiększoną aktywność w zakresie zabezpieczeń (hedgingu) lub budowania pozycji pod spadki. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 699,81 do 714,75.</li>
+<li><strong>Poziomy techniczne:</strong> Bieżąca korekta od szczytu z dnia 06.10 (31360,85) wynosi -6,33% (-1986 pkt). Jest to korekta o charakterze większym, głębsza niż 57% historycznych korekt w badanym okresie. Najbliższy opór (węzeł wolumenu) znajduje się w strefie 29470–29490, natomiast wsparcie znajduje się w strefie 29080–29100.</li>
+</ul>
+<p>Raport H-Log: 2026-10-26 16:07</p>
 <h3>📈 [2026-10-26 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
