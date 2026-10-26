@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 11:29
+Data: 2026-10-26 11:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 11:59]</h3>
+<p>[T-LOG: 2026-10-26 11:59]</p>
+<p>Tryb sesji: FUTURES (Aktywność ograniczona do sondy NQ).</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29089.75 (-0.10%). Odnotowano intensywną wymianę w strefie zapór HVN w przedziale 28920 – 28950, gdzie nastąpiło najpierw przebicie w górę obu poziomów, a następnie obalenie wsparcia na 28950. Wskaźnik CVD dla NQ wynosi -7,92 K, co klasyfikuje obecny stan jako test podaży. Wektor kierunkowy układu (Q-Score) wykazuje niską wartość 15, wskazując na niemal neutralną, lecz lekko ujemną orientację. ADR NQ wynosi 58.09%. W sferze Dysona (opcje na QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.13, przy zmienności IV wynoszącej 25.34%.</p>
+<p>Układ w fazie testowania podaży po nieudanym próbie utrzymania zapór HVN; brak wyraźnego rezonansu wektorów.</p>
+<p>Log: 2026-10-26 11:59</p>
 <h3>🌌 [2026-10-26 11:29]</h3>
 <p><strong>Log: 2026-10-26 11:29</strong></p>
 <p><strong>[STATUS TELEMETRII: TRYB FUTURES - ANALIZA WYŁĄCZNIE SONDY NQ]</strong></p>

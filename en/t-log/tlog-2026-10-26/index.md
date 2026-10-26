@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Date: 2026-10-26 11:30
+Date: 2026-10-26 11:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.26 [EN]</h1>
+<h3>🌌 [2026-10-26 11:59]</h3>
+<p>[T-LOG: 2026-10-26 11:59]</p>
+<p>Session mode: the futures session (Activity limited to the NQ Probe).</p>
+<p>The NQ Probe is currently at 29089.75 (-0.10%). Intense exchange was recorded in the HVN barrier zone in the 28920 – 28950 range, where there was initially an upside breakout of both levels, followed by the breakdown of support at 28950. The CVD indicator for NQ is -7.92 K, classifying the current state as a supply test. The system's directional vector (Q-Score) shows a low value of 15, indicating a nearly neutral, but slightly negative orientation. NQ ADR is 58.09%. In the Dyson Sphere (QQQ options), a volume asymmetry was recorded with a Put/Call Ratio at 1.13, with IV volatility at 25.34%.</p>
+<p>The system is in a phase of testing supply after a failed attempt to maintain the HVN barriers; lack of clear vector resonance.</p>
+<p>Log: 2026-10-26 11:59</p>
 <h3>🌌 [2026-10-26 11:29]</h3>
 <p><strong>Log: 2026-10-26 11:29</strong></p>
 <p><strong>[TELEMETRY STATUS: FUTURES SESSION MODE - ANALYSIS EXCLUSIVELY OF THE NQ PROBE]</strong></p>
