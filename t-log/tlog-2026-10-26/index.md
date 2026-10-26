@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 18:59
+Data: 2026-10-26 19:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 19:14]</h3>
+<p><strong>Log: 2026-10-26 19:14</strong></p>
+<p>System w trybie SPOT. Odnotowano gwałtowne zjawisko rozwarstwienia układu (Cross-Asset Divergence). Po wcześniejszym obaleniu zapór HVN w strefie NDX 29320 oraz NDX 29100, nastąpił gwałtowny zwrot kinetyczny. Sonda NQ znajduje się obecnie na poziomie 29495.75, wykazując akumulację (CVD: 38,66K). Jednocześnie Gwiazda NDX oraz Satelita QQQ raportują stan "wystrzału rynku" (CVD odpowiednio: 74,72M oraz 2,21M). Mimo tej agresji, Szeroka Giełda Nasdaq (TICKQ) wskazuje na "załamanie rynku" przy poziomie -404.00, co przy ujemnej średniej radiacji (SMA200: -21.52) sugeruje głęboki dysonans między głównymi indeksami a szerokością rynku.</p>
+<p>Wektor kierunkowy Q-Score wynosi 25, co przy spadającym trendzie promieniowania (-3.32) wskazuje na niestabilną strukturę wzrostową. Sfera Dysona (QQQ) wykazuje asymetrię wolumenu z Put/Call Ratio na poziomie 1.17. Masa Galaktyki wynosi 41.66 T (Delta: -0.02 T), a Średnia Akcja w koszyku to $300.45 (Delta: -0.40 USD), co oznacza kurczenie się jądra układu. ADR dla wszystkich obiektów znajduje się powyżej średniej.</p>
+<p>Układ w fazie grawitacyjnego napięcia; agresywny popyt na indeksy jest strukturalnie pusty i asymetryczny względem szerokiego rynku.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 19:08 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-26 18:59]</h3>
 <p>[T-LOG: 2026-10-26 18:59]</p>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
