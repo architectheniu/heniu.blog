@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 06:29
+Data: 2026-10-26 06:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 06:59]</h3>
+<p>[TELEMETRIA: TRYB FUTURES - TYLKO SONDA NQ]</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29174.00 (+0.19%). Wektor kierunkowy Q-Score wynosi 15, co wskazuje na stabilną, choć niską amplitudę wektora rynku. ADR dla Sondy NQ wynosi 57.50%, co sytuuje bieżącą zmienność powyżej średniej z ostatnich sesji. W sferze Dysona (opcje QQQ) odnotowano asymetrię wolumenu Put/Call na poziomie 1.13 przy zmienności IV wynoszącej 25.34%. Zasięg oczekiwany dla instrumentów pochodnych oscyluje w granicach 695.99 do 712.81.</p>
+<p>Układ wykazuje dysonans między ceną a agresją wolumenu; mimo dodatniej zmiany ceny, presja wyprzedaży w CVD pozostaje dominująca. Brak synchronizacji wektorów sugeruje fazę absorpcji podaży w lokalnym punkcie zwrotnym.</p>
+<p>Log: 2026-10-26 06:59</p>
 <h3>🌌 [2026-10-26 06:29]</h3>
 <p>[T-LOG: 2026-10-26 06:29]</p>
 <p><strong>STATUS: FUTURES (TRYB POZA SESJĄ KASOWĄ)</strong></p>
