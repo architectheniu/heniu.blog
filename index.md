@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [M15: 2026-10-26](https://heniu.blog/t-log/tlog-2026-10-26/index.md) (2026-10-26)
 - [Fundamenty #0022: Zgłoszenia spółek: Marvell Technology, Workday; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-26-0022/index.md) (2026-10-26)
 - [H1: 2026-10-26](https://heniu.blog/h-log/hlog-2026-10-26/index.md) (2026-10-26)
-- [M15: 2026-10-26](https://heniu.blog/t-log/tlog-2026-10-26/index.md) (2026-10-26)
 - [Log #0211: Kompresja Masy i Rozszerzalność Zmienności: Tydzień Negatywnej Akrecji](https://heniu.blog/posts/log-0211/index.md) (2026-10-25)
 - [H1: 2026-10-23](https://heniu.blog/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [M15: 2026-10-23](https://heniu.blog/t-log/tlog-2026-10-23/index.md) (2026-10-23)

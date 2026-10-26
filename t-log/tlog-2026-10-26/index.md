@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 09:59
+Data: 2026-10-26 10:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 10:29]</h3>
+<p>[TELEMETRIA SYSTEMU: TRYB FUTURES]<br />
+Sonda NQ: 29208.00 (+0.31%) | ADR: 58.09% (powyżej średniej) | CVD: -3,97K [test podaży]<br />
+Q-Score: 15 [Delta: +0.0]<br />
+Sfera Dysona (QQQ): IV 25.34% | P/C Ratio 1.13 | Zasięg: 695.99 - 712.81</p>
+<p>[ANALIZA KINEMATYKI]<br />
+Obiekt NQ wykazuje lekką tendencję wzrostową względem punktu odniesienia, jednak agresywna presja wolumenu (CVD: -3,97K) pozostaje w reżimie 'testu podaży'. Wektor Q-Score ustabilizował się na poziomie 15, co wskazuje na brak gwałtownej zmiany kierunku w mikro-skali. Zmienność w Sferze Dysona (IV 25.34%) przy asymetrii Put/Call na poziomie 1.13 sugeruje podwyższony popyt na ubezpieczenie, mimo obecnej stabilizacji ceny Sondy. Obserwuje się brak synchronizacji między ceną a ciśnieniem wolumenu – cena rośnie, podczas gdy CVD sygnalizuje dominację podaży.</p>
+<p>[DIAGNOSTYKA]<br />
+Układ w fazie pasywnej absorpcji podaży; cena testuje górne granice zakresu przy jednoczesnym napieraniu agresywnej sprzedaży.</p>
+<p>Log: 2026-10-26 10:29</p>
 <h3>🌌 [2026-10-26 09:59]</h3>
 <p><strong>STATUS: OPEN | TRYB: FUTURES (SOLO NQ)</strong></p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29172.00 (+0.19%). Odnotowano przebicie i zdobycie zapory HVN ekosystemu US100 na poziomie NDX 28950 (NQ ≈ 29114). Wskaźnik ADR dla NQ wynosi 58.09%, co plasuje bieżącą zmienność poniżej średniej z ostatnich sesji. Wektor kierunkowy Q-Score wynosi 15, wskazując na słabą, lecz dodatnią tendencję układu.</p>
