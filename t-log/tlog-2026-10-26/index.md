@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 14:29
+Data: 2026-10-26 14:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 14:44]</h3>
+<p>Tryb sesji: SPOT. System odnotowuje intensywną wymianę wolumenową w strefie zapór HVN dla Sondy NQ (29112 - 29264), gdzie nastąpiło sukcesywne zdobycie barier w górę. Obecna cena Sondy NQ wynosi 29248.25. Gwiazda NDX wykazuje test popytu (CVD 9,43M), podczas gdy Sonda NQ (CVD 3,15K) oraz Satelita QQQ (CVD 600,76K) również znajdują się w fazie testu popytu. Szeroka Giełda Nasdaq (TICKQ) wykazuje gwałtowne załamanie rynku na poziomie -245.00, pozostając poniżej średniej radiacji SMA200 (-17.57), co indukuje stan testu podaży w promieniowaniu tła. Wektor rynkowy (Q-Score) oscyluje wokół -5, wskazując na silny negatywny dryf. W Sferze Dysona Put/Call Ratio wynosi 0.63 przy IV 0.00%. Układ charakteryzuje się rozwarstwieniem: mimo lokalnych testów popytu na instrumentach, Szeroka Giełda (TICKQ) sygnalizuje głębokie załamanie.</p>
+<p>Status: Dysonans wektorów przy jednoczesnej intensywnej walce w strefie HVN.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 14:30 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-26 14:29]</h3>
 <p>[T-LOG: 2026-10-26 14:29]</p>
 <p>Wartość CVD dla sondy wynosi -2.4K, co klasyfikuje obecny stan jako test podaży. ADR NQ utrzymuje się na poziomie 59.72%. Wektor kierunku Q-Score wynosi 0, wskazując na brak dominującej tendencji w obecnym punkcie czasowym. Sfera Dysona wykazuje asymetrię wolumenu z Put/Call Ratio na poziomie 0.65, przy zmienności IV wynoszącej 0.00% i oczekiwanym zasięgu w przedziale 693.07 do 715.73. Zgodnie z protokołem, ze względu na tryb sesji FUTURES, parametry NDX, QQQ oraz TICKQ pozostają w uśpieniu i nie podlegają analizie bieżącej.</p>

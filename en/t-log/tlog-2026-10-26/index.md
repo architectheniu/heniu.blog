@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Date: 2026-10-26 14:29
+Date: 2026-10-26 14:44
 URL: https://heniu.blog/en/t-log/tlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.26 [EN]</h1>
+<h3>🌌 [2026-10-26 14:44]</h3>
+<p>Session mode: SPOT. System records intense volume exchange in the HVN barrier zone for the NQ Probe (29112 - 29264), where successive upward barrier breaches occurred. Current NQ Probe price is 29248.25. The NDX Star shows a demand test (CVD 9,43M), while the NQ Probe (CVD 3,15K) and the QQQ Satellite (CVD 600,76K) are also in a demand test phase. The wide Nasdaq Exchange (TICKQ) shows a sharp market breakdown at -245.00, remaining below the SMA200 radiation average (-17.57), which induces a supply test state in the Background Radiation (TICKQ). The market vector (Q-Score) oscillates around -5, indicating a strong negative drift. In the Dyson Sphere (QQQ), the Put/Call Ratio is 0.63 with IV 0.00%. The system is characterized by stratification: despite local demand tests on instruments, the wide Exchange (TICKQ) signals a deep breakdown.</p>
+<p>Status: Vector dissonance with simultaneous intense fighting in the HVN zone.</p>
+<p><strong>Flow alarms from the previous Log:</strong> 14:30 sudden NQ flow downwards; NQ flow ignition.</p>
 <h3>🌌 [2026-10-26 14:29]</h3>
 <p>[T-LOG: 2026-10-26 14:29]</p>
 <p>CVD value for the probe is -2.4K, classifying the current state as a supply test. NQ ADR is holding at 59.72%. The Q-Score direction vector is 0, indicating no dominant trend at the current point in time. The Dyson Sphere (QQQ) shows volume asymmetry with a Put/Call Ratio at 0.65, with IV volatility at 0.00% and an expected range between 693.07 and 715.73. According to protocol, due to the futures session mode, NDX, QQQ, and TICKQ parameters remain in sleep mode and are not subject to current analysis.</p>
