@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 20:29
+Data: 2026-10-26 20:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 20:44]</h3>
+<p>Zdarzenie wolumenowe: Zdobyto zaporę HVN ekosystemu US100 na poziomie NDX 29330 (odpowiednik NQ ≈ 29493).</p>
+<p>Sonda NQ: 29492.25 | ADR: 99.20% | CVD: 37.13K [akumulacja].<br />
+Gwiazda NDX: 29326.85 | CVD: 75.44M [wystrzał rynku].<br />
+Satelita QQQ: 713.38 | CVD: 2.43M [wystrzał rynku].</p>
+<p>Fizyka układu: Q-Score wynosi 25. Szeroka Giełda (TICKQ) raportuje -144.00 [wyprzedaż], co przy średniej SMA200 na poziomie -22.95 [wyprzedaż] wskazuje na głęboki dysonans między indeksem a szerokością rynku. Masa Galaktyki: 41.63 T (Delta: +0.02 T). Średnia Akcja: $300.29 (Delta: -0.02 USD), co sugeruje lekkie kurczenie się koszyka. Sfera Dysona (IV): 22.80% przy Put/Call Ratio 1.19.</p>
+<p>Analiza Kinematyczna: Występuje silne rozwarstwienie układu (Cross-Asset Divergence). Mimo że Gwiazda Matka (NDX) i Satelita (QQQ) wykazują stan "wystrzału rynku" z silną agresją kupującą (CVD), Sonda NQ znajduje się jedynie w fazie "akumulacji", a szeroki rynek (TICKQ) pozostaje w stanie "wyprzedaży". Wzrosty są strukturalnie asymetryczne i niepełne.</p>
+<p>Status: Dysonans wektorów; wzrosty napędzane przez wąskie jądro przy jednoczesnej wyprzedaży szerokiego rynku.</p>
 <h3>🌌 [2026-10-26 20:29]</h3>
 <p>[T-LOG: 2026-10-26 20:29]</p>
 <p>STATUS: SPOT. System w fazie gwałtownej rekonfiguracji po uderzeniu w zapory HVN. Odnotowano powstanie nowej zapory na poziomie NDX 29100 (NQ ≈ 29263) oraz natychmiastowe obalenie wsparcia na poziomie NDX 29330 (NQ ≈ 29493). Sonda NQ znajduje się obecnie na poziomie 29477.00, przy ADR powyżej średniej (99.20%).</p>
