@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Date: 2026-10-26 19:14
+Date: 2026-10-26 19:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.26 [EN]</h1>
+<h3>🌌 [2026-10-26 19:29]</h3>
+<p>Log: 2026-10-26 19:29</p>
+<p>[STATUS: SPOT]<br />
+the NQ Probe at level 29490.75, with ADR above average. the NDX Star shows 'market flare' status (CVD 68.2M), while the QQQ Satellite also maintains 'market flare' (CVD 2.15M). the NQ Probe is in the 'accumulation' phase (CVD 38.38K). Galaxy Mass is 41.64 T (Delta -0.02 T), and Average Action fell to $300.26 (Delta -0.19 USD), indicating a slight contraction of the basket. In the Dyson Sphere (QQQ), the Put/Call Ratio is 1.17 with IV 22.81%. During the session, the breaking of HVN barriers was recorded in the NQ zone 29481 (NDX 29320) and NQ 29261 (NDX 29100). Q-Score is 25.</p>
+<p>[DIAGNOSIS: Cross-Asset Divergence – growth is structurally empty, driven by narrow concentration amidst simultaneous broad market sell-off.]</p>
 <h3>🌌 [2026-10-26 19:14]</h3>
 <p><strong>Log: 2026-10-26 19:14</strong></p>
 <p>System in the cash session (Spot) mode. A sudden Cross-Asset Divergence phenomenon was recorded. After previously breaking the HVN barriers in the NDX 29320 and NDX 29100 zone, a violent kinetic reversal occurred. The NQ Probe is currently at the 29495.75 level, showing accumulation (CVD: 38,66K). Simultaneously, the NDX Star and the QQQ Satellite report a "market blast" state (CVD: 74,72M and 2,21M respectively). Despite this aggression, the Nasdaq Market Breadth (TICKQ) indicates a "market collapse" at the -404.00 level, which, combined with negative average radiation (SMA200: -21.52), suggests a deep dissonance between the main indices and market breadth.</p>

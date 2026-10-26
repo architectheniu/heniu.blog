@@ -1,6 +1,6 @@
 # M15: 2026-10-26
 
-Data: 2026-10-26 19:14
+Data: 2026-10-26 19:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.26</h1>
+<h3>🌌 [2026-10-26 19:29]</h3>
+<p>Log: 2026-10-26 19:29</p>
+<p>[STATUS: SPOT]<br />
+Sonda NQ na poziomie 29490.75, z ADR powyżej średniej. Gwiazda NDX wykazuje status 'wystrzału rynku' (CVD 68,2M), podczas gdy Satelita QQQ również utrzymuje 'wystrzał rynku' (CVD 2,15M). Sonda NQ znajduje się w fazie 'akumulacji' (CVD 38,38K). Masa Galaktyki wynosi 41.64 T (Delta -0.02 T), a Średnia Akcja spadła do $300.26 (Delta -0.19 USD), co wskazuje na lekkie kurczenie się koszyka. W Sferze Dysona Put/Call Ratio wynosi 1.17 przy IV 22.81%. W trakcie sesji odnotowano obalenie zapór HVN w strefie NQ 29481 (NDX 29320) oraz NQ 29261 (NDX 29100). Q-Score wynosi 25.</p>
+<p>[DIAGNOZA: Rozwarstwienie układu (Cross-Asset Divergence) – wzrost strukturalnie pusty, napędzany przez wąską koncentrację przy jednoczesnej wyprzedaży szerokiego rynku.]</p>
 <h3>🌌 [2026-10-26 19:14]</h3>
 <p><strong>Log: 2026-10-26 19:14</strong></p>
 <p>System w trybie SPOT. Odnotowano gwałtowne zjawisko rozwarstwienia układu (Cross-Asset Divergence). Po wcześniejszym obaleniu zapór HVN w strefie NDX 29320 oraz NDX 29100, nastąpił gwałtowny zwrot kinetyczny. Sonda NQ znajduje się obecnie na poziomie 29495.75, wykazując akumulację (CVD: 38,66K). Jednocześnie Gwiazda NDX oraz Satelita QQQ raportują stan "wystrzału rynku" (CVD odpowiednio: 74,72M oraz 2,21M). Mimo tej agresji, Szeroka Giełda Nasdaq (TICKQ) wskazuje na "załamanie rynku" przy poziomie -404.00, co przy ujemnej średniej radiacji (SMA200: -21.52) sugeruje głęboki dysonans między głównymi indeksami a szerokością rynku.</p>
