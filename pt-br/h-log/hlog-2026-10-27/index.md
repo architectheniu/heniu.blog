@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Data: 2026-10-27 07:08
+Data: 2026-10-27 08:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.27 [PT-BR]</h1>
+<h3>📈 [2026-10-27 08:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se nos contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> O preço dos contratos NQ é 29307.00 (-0.44%), o que, com o fluxo acumulado (CVD) no nível de -3,36 K, indica o teste de oferta. O indicador agregado de direção de fluxos é -45, o que significa uma predominância de distribuição de capital.</li>
+<li><strong>Contexto do índice NDX e QQQ:</strong> Embora a sessão à vista esteja fechada, os dados de fechamento mostram uma divergência: o índice NDX subiu +1.09% (29275.06) com um fluxo (CVD) negativo de -114,75 M, enquanto o ETF QQQ subiu +1.11% (712.12) com um fluxo (CVD) positivo de 2,85 M. O Recuo desde o pico do Heniu de 06.10 (31360.85) é de -6.65% (-2086 pts), o que classifica o movimento atual como uma correção maior (acima da mediana de quedas históricas).</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 23.39%, e a relação Put/Call (PCR) está em 1.18, o que sugere um aumento na atividade de proteção de posições vendidas. O alcance esperado do movimento com base no volume de opções (7,674,981) situa-se no intervalo de 703.04 a 721.36.</li>
+<li><strong>Níveis técnicos:</strong> A resistência mais próxima (nó de volume) está na zona de 29310–29330 (1.9% de volume). O suporte mais próximo está na zona de 29090–29110 (1.4% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-27 08:07</p>
 <h3>📈 [2026-10-27 07:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

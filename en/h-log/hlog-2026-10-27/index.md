@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Date: 2026-10-27 07:08
+Date: 2026-10-27 08:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.27 [EN]</h1>
+<h3>📈 [2026-10-27 08:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contracts situation:</strong> NQ contract price is 29307.00 (-0.44%), which, with cumulative flow (CVD) at -3,36 K, indicates testing of supply. The aggregate flow direction indicator is -45, which means capital distribution dominance.</li>
+<li><strong>NDX and QQQ index context:</strong> Although the cash session is closed, closing data shows a divergence: the NDX index rose by +1.09% (29275.06) with a negative CVD flow of -114,75 M, while the QQQ ETF rose by +1.11% (712.12) with a positive CVD flow of 2,85 M. The ongoing Drawdown from Heniu's peak from 06.10 (31360.85) is -6.65% (-2086 pts), which classifies the current movement as a larger correction (above the median of historical declines).</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 23.39%, and the Put/Call ratio (PCR) is at 1.18, suggesting increased activity in short position hedging. The expected range of movement based on options volume (7,674,981) falls within the range of 703.04 to 721.36.</li>
+<li><strong>Technical levels:</strong> The nearest resistance (volume node) is in the 29310–29330 zone (1.9% volume). The nearest support is in the 29090–29110 zone (1.4% volume).</li>
+</ul>
+<p>H-Log Report: 2026-10-27 08:07</p>
 <h3>📈 [2026-10-27 07:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
