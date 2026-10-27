@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 17:44
+Data: 2026-10-27 17:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 17:59]</h3>
+<p>[T-LOG: 2026-10-27 17:59]</p>
+<p>Status: OPEN | Tryb: SPOT</p>
+<p>Układ znajduje się w fazie silnej akrecji. Gwiazda NDX wykazuje stan "wystrzału rynku" (CVD: 68,93M), co koreluje z wysoką gęstością jądra (68,5%) i rozszerzaniem się koszyka (Średnia Akcja: $303.97, Delta: +0.05 USD). Sonda NQ przy cenie 29808.00 wykazuje stan "akumulacji" (CVD: 34,66K) z ADR powyżej średniej (103.19%). Satelita QQQ potwierdza trend stanem "akumulacji" (CVD: 1,33M). Szeroka Giełda TICKQ (45.00) wskazuje na "test popytu", znajdując się powyżej średniej radiacji SMA200 (-21.32), co potwierdza strukturę wzrostową. Wektor Q-Score wynosi 23, wskazując na dodatnią dynamikę układu. Sfera Dysona (IV: 21.97%) przy Put/Call Ratio 0.94 wskazuje na niemal równomierną asymetrię wolumenu opcji. Masa Galaktyki stabilizuje się na poziomie 42.07 T.</p>
+<p>Układ w fazie kinetycznej rezonansu z silnym fundamentem agresywnego wolumenu.</p>
+<p>Log: 2026-10-27 17:59</p>
 <h3>🌌 [2026-10-27 17:44]</h3>
 <p>[T-LOG: 2026-10-27 17:44]</p>
 <p><strong>STATUS: SPOT | TRYB: SESJA KASOWA</strong></p>
