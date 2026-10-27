@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 10:30
+Data: 2026-10-27 11:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 10:59]</h3>
+<p>[DADOS TELEMÉTRICOS - 2026-10-27 10:59]<br />
+Status: a sessão de futuros (Modo NQ)</p>
+<p>a Sonda NQ encontra-se no nível 29471.25 (+0.12%). O indicador ADR NQ é de 52.95%, o que posiciona a volatilidade atual dentro da faixa de atividade da sessão. O Q-Score oscila em torno de -25, indicando um vetor direcional negativo do sistema. Na área da Esfera de Dyson (QQQ), registrou-se IV no nível de 23.39% com Put/Call Ratio de 1.18, o que sinaliza assimetria de volume em favor das opções de venda.</p>
+<p>A análise do fluxo de energia (CVD) para a Sonda NQ mostra um valor de 3.38K, o que classifica o estado atual como um teste de demanda. Apesar da pressão positiva de volume agressivo, o vetor Q-Score permanece negativo, sugerindo uma dissonância entre o microfluxo e a macroorientação do sistema. [SEM DADOS] para os instrumentos NDX e TICKQ devido ao modo de sessão de futuros.</p>
+<p>Log: 2026-10-27 10:59</p>
 <h3>🌌 [2026-10-27 10:29]</h3>
 <p>[T-LOG: 2026-10-27 10:29]</p>
 <p><strong>STATUS: MODO FUTUROS (APENAS NQ)</strong></p>
