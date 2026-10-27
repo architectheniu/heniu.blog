@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Log #0213: Podsumowanie sesji 2026-10-27: NDX 29653.58 (+1.29%)](https://heniu.blog/posts/log-0213/index.md) (2026-10-27)
 - [M15: 2026-10-27](https://heniu.blog/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 - [H1: 2026-10-27](https://heniu.blog/h-log/hlog-2026-10-27/index.md) (2026-10-27)
 - [Fundamenty #0023: Zgłoszenia spółek: Meta Platforms, Space Exploration Technologies; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-27-0023/index.md) (2026-10-27)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0005: ASML: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-15-0005/index.md) (2026-10-15)
 - [Fundamenty #0004: Transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-15-0004/index.md) (2026-10-15)
 - [H1: 2026-10-14](https://heniu.blog/h-log/hlog-2026-10-14/index.md) (2026-10-14)
-- [M15: 2026-10-14](https://heniu.blog/t-log/tlog-2026-10-14/index.md) (2026-10-14)
 

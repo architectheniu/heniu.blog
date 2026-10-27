@@ -7,6 +7,86 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Log #0213: Podsumowanie sesji 2026-10-27: NDX 29653.58 (+1.29%)
+
+Data: 2026-10-27 21:03
+Adres: https://heniu.blog/posts/log-0213/
+
+
+**Data sesji:** 2026-10-27
+
+> *Zamknięcie sesji 2026-10-27: NDX 29653.58 (+1.29%), NQ 29812.75 (+1.28%), QQQ 721.24 (+1.27%).*
+
+---
+
+### Przebieg sesji
+
+**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (14:30 PL) przy poziomie NDX 29411.80 i NQ 29572.75. W pierwszych 30 minutach NDX wzrósł o 5.24 pkt (+0.02%) do 29417.04, natomiast NQ spadł o 1.50 pkt (-0.01%) do 29571.25. Najniższy poziom NDX odnotowano o 10:16 ET (15:16 PL) na poziomie 29341.71, a najwyższy o 15:45 ET (20:45 PL) na poziomie 29718.30. Zamknięcie na poziomie 29653.58 leży 64.72 pkt poniżej maksimum i 311.87 pkt powyżej minimum.
+
+**Przepływy i szerokość rynku.** Kierunek skumulowanego przepływu (CVD) był dodatni dla NDX, NQ oraz QQQ, co oznacza zgodność kierunków na wszystkich trzech instrumentach. Szerokość rynku TICKQ na zamknięciu wyniosła 117.00, co oznacza akumulację, natomiast średnia SMA200 wynosiła 5.46 i wskazywała test popytu. Spółki powyżej 1 bln USD stanowiły 68.42% kapitalizacji koszyka.
+
+**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX wzrósł o 6.20 pkt (+0.02%) do zamknięcia na poziomie 29653.58. Anomalia na zamknięciu (MOC) wyniosła +3,43 M. Zmienność implikowana (IV) dla opcji na QQQ wynosiła 22.06%, a stosunek put/call wyniósł 1.40.
+
+**Bilans dnia.** Indeks Nasdaq-100 zamknął się z wynikiem +1.29%.
+
+---
+
+### Telemetria Zamknięcia
+
+* **Indeks Nasdaq-100 (NDX):** zamknięcie **29653.58 (+1.29%)**
+    * Przepływ skumulowany (CVD): **12,67 M [test popytu]**
+    * Anomalia na zamknięciu (MOC): **+3,43 M**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **91.80%**
+    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-5.04%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+
+* **Kontrakt terminowy NQ:** zamknięcie **29812.75 (+1.28%)**
+    * Przepływ skumulowany (CVD): **28,79 K [akumulacja]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **104.20%**
+
+* **ETF QQQ:** zamknięcie **721.24 (+1.27%)**
+    * Przepływ skumulowany (CVD): **1,14 M [akumulacja]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **91.43%**
+
+* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **117.00 [akumulacja]**
+    * Średnia 200 odczytów (SMA200): **5.46 [test popytu]**
+
+* **Opcje na QQQ:**
+    * Zmienność implikowana (IV): **22.06%**
+    * Stosunek put/call (otwarte pozycje, OI): **1.40**
+
+* **Koszyk Nasdaq-100:**
+    * Łączna kapitalizacja: **42.05 bln USD** (zmiana od poprzedniego zamknięcia: **+0.48 bln USD**)
+    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **68.42%** (zmiana: **-0.05 pkt proc.**)
+    * Średnia cena akcji w koszyku: **$304.42** (zmiana: **+$4.78**)
+    * Zmiany w grupie spółek powyżej 1 bln USD: **bez zmian**
+
+* **Zdrowie danych sesji:** odczyty przez 100,0% sesji kasowej; bez luk dłuższych niż minuta; NDX bez zmiany dłużej niż 2 min w 0,1% odczytów
+
+---
+
+[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0213/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Podsumowanie sesji Nasdaq-100 2026-10-27",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamenty #0023: Zgłoszenia spółek: Meta Platforms, Space Exploration Technologies; transakcje insiderów
 
 Data: 2026-10-27 10:10
@@ -1251,20 +1331,5 @@ Spółka spodziewa się przychodów w czwartym kwartale na poziomie 14,20 mld EU
 ### Co mówi zarząd
 
 Zarząd podkreślał, że bardzo silna marża brutto w tym kwartale była wynikiem głównie zwiększonego biznesu związanego z modernizacją urządzeń. Według zarządu pozytywne efekty w przychodach oraz marży brutto zaczną przejawiać się w trakcie przyszłego roku. Zarząd wskazywał, że kluczowymi czynnikami wpływającymi na marżę będą wolumeny sprzedaży określonych technologii, a modernizacje będą istotnym czynnikiem kształtującym marżę w przyszłym roku i kolejnych latach.
-
-
----
-
-## Fundamenty #0004: Transakcje insiderów
-
-Data: 2026-10-15 10:10
-Adres: https://heniu.blog/f-log/flog-2026-10-15-0004/
-
-
-Insiderzy sprzedali akcje za 13,8 mln USD, w tym 12,7 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0.
-
-Insiderzy CoreWeave (CRWV) sprzedali akcje za 4,7 mln USD.
-
-Insiderzy Microsoft (MSFT) sprzedali akcje za 4,0 mln USD.
 
 
