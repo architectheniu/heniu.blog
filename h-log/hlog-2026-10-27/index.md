@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Data: 2026-10-27 12:07
+Data: 2026-10-27 13:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.27</h1>
+<h3>📈 [2026-10-27 13:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty; analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej. Kontrakty NQ notowane są przy cenie 29540.00 (+0.35%) z dodatnim przepływem skumulowanym (CVD) na poziomie 6,44 K, co wskazuje na testowanie popytu w handlu poza sesją.</li>
+<li><strong>Analiza przepływów i sentymentu:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -25, co oznacza przewagę dystrybucji kapitału. Mimo wzrostu ceny indeksu NDX o 1.09% (29273.40), odnotowano silną ujemną dywergencję na rynku kasowym (CVD NDX = −307,14 M), co sugeruje intensywną presję sprzedażową przy jednoczesnym wzroście wartości indeksu.</li>
+<li><strong>Kontekst korekty i poziomy techniczne:</strong> Trwająca korekta od szczytu z 06.10 (31360.85) wynosi obecnie -6.66% (-2087 pkt). Jest to korekta o charakterze większym niż 57% dotychczasowych ruchów w tym cyklu. Najbliższy opór znajduje się w strefie węzła wolumenu 29310–29330 (1.9% wolumenu), natomiast wsparcie zlokalizowane jest w strefie 29090–29110 (1.4% wolumenu).</li>
+<li><strong>Rynek opcji:</strong> Na rynku opcji QQQ odnotowano wolumen 7,674,981 przy Put/Call Ratio na poziomie 1.18, co wskazuje na przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na spadki. Zmienność implikowana (IV) wynosi 23.39%, a rynek wycenia oczekiwany zasięg ruchu w przedziale 703.04 do 721.36.</li>
+</ul>
+<p>Raport H-Log: 2026-10-27 13:07</p>
 <h3>📈 [2026-10-27 12:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
