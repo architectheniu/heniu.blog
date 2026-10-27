@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Data: 2026-10-27 10:08
+Data: 2026-10-27 11:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.27 [PT-BR]</h1>
+<h3>📈 [2026-10-27 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contratos NQ e fluxos:</strong> Os contratos NQ estão sendo negociados a um preço de 29428.25 (-0.03%), com o fluxo acumulado (CVD) em um nível de 2,55 K, o que indica o teste de demanda. O indicador agregado de direção de fluxos é de -25, o que significa uma predominância de distribuição de capital.</li>
+<li><strong>Análise do mercado à vista (fechamento):</strong> O Índice Nasdaq-100 (NDX) fechou a sessão com um resultado de +1.09% (preço 29273.40), no entanto, foi registrada uma anomalia significativa na forma de fluxo acumulado (CVD) negativo no nível de -307,14 M de ações. Isso indica uma forte pressão de venda durante a sessão. O ETF QQQ fechou a um preço de 712.12 (+1.11%) com um CVD positivo de 2,85 M.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 23.39%, e o Put/Call Volume Ratio no nível de 1.18 sugere uma predominância de posições de proteção (hedging) ou a expectativa de quedas. O alcance esperado de movimento para o QQQ é a faixa de 703.04 – 721.36 com um volume de opções de 7,674,981.</li>
+<li><strong>Níveis técnicos:</strong> O Recuo desde o pico do Heniu de 06.10 (31360.85) é de -6.66% (-2087 pts), o que classifica o movimento atual como uma correção maior (acima da mediana de quedas históricas). A resistência mais próxima encontra-se na zona de nó de volume 29310–29330, enquanto o suporte está localizado na zona 29090–29110.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-27 11:07</p>
 <h3>📈 [2026-10-27 10:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

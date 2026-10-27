@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-10-27](https://heniu.blog/pt-br/h-log/hlog-2026-10-27/index.md) (2026-10-27)
 - [M15: 2026-10-27](https://heniu.blog/pt-br/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 - [Fundamentos #0023: Arquivos de empresas: Meta Platforms, Space Exploration Technologies; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-27-0023/index.md) (2026-10-27)
-- [H1: 2026-10-27](https://heniu.blog/pt-br/h-log/hlog-2026-10-27/index.md) (2026-10-27)
 - [M15: 2026-10-26](https://heniu.blog/pt-br/t-log/tlog-2026-10-26/index.md) (2026-10-27)
 - [H1: 2026-10-26](https://heniu.blog/pt-br/h-log/hlog-2026-10-26/index.md) (2026-10-26)
 - [Log #0212: Resumo da sessão 2026-10-26: NDX 28961.08 (+1.09%)](https://heniu.blog/pt-br/posts/log-0212/index.md) (2026-10-26)

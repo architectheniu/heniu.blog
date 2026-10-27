@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Date: 2026-10-27 10:08
+Date: 2026-10-27 11:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.27 [EN]</h1>
+<h3>📈 [2026-10-27 11:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contracts and flows:</strong> NQ contracts are trading at 29428.25 (-0.03%), with cumulative flow (CVD) at 2.55 K, indicating testing of demand. The aggregate flow direction indicator is -25, signifying capital distribution dominance.</li>
+<li><strong>the cash session analysis (close):</strong> the NDX Star closed the session with a result of +1.09% (price 29273.40), however, a significant anomaly was noted in the form of negative cumulative flow (CVD) at a level of -307.14 M shares. This indicates strong selling pressure during the session. QQQ ETF closed at a price of 712.12 (+1.11%) with a positive CVD of 2.85 M.</li>
+<li><strong>QQQ Options market:</strong> Implied volatility (IV) is 23.39%, and the Put/Call Volume Ratio at 1.18 suggests a dominance of hedging positions or anticipation of declines. The expected range of movement for QQQ is the 703.04 – 721.36 range with an options volume of 7,674,981.</li>
+<li><strong>Technical levels:</strong> The current Drawdown from Heniu's peak from 06.10 (31360.85) is -6.66% (-2087 pts), which classifies the current move as a larger correction (above the median of historical drawdowns). The nearest resistance is located in the volume node zone 29310–29330, while support is located in the 29090–29110 zone.</li>
+</ul>
+<p>H-Log Report: 2026-10-27 11:07</p>
 <h3>📈 [2026-10-27 10:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
