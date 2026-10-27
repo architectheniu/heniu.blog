@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 19:29
+Data: 2026-10-27 19:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,22 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 19:44]</h3>
+<p><strong>Status: SPOT (Sesja Kasowa Aktywna)</strong></p>
+<p><strong>Analiza Obiektów:</strong><br />
+- <strong>Gwiazda NDX</strong>: Cena 29623.00 (+1.20%). CVD: 61.89M [wystrzał rynku].<br />
+- <strong>Sonda NQ</strong>: Cena 29784.00 (+1.18%). CVD: 35.57K [akumulacja]. ADR powyżej średniej (103.19%).<br />
+- <strong>Satelita QQQ</strong>: Cena 720.56 (+1.17%). CVD: 1.32M [akumulacja].<br />
+- <strong>Promieniowanie Tła (TICKQ)</strong>: -34.00 [test podaży]. Średnia SMA200: -6.16 [test podaży]. Status: BELOW.</p>
+<p><strong>Dynamika Układu:</strong><br />
+- <strong>Masa Galaktyki</strong>: 42.03 T (Delta: +0.00 T).<br />
+- <strong>Średnia Akcja</strong>: $303.81 (Delta: -0.11 USD). Koszyk wykazuje lekkie kurczenie się.<br />
+- <strong>Gęstość Jądra</strong>: 68.5% (Delta: +0.0%).<br />
+- <strong>Sfera Dysona</strong>: IV: 22.07%. Put/Call Ratio: 1.02.</p>
+<p><strong>Diagnostyka Kinematyki:</strong><br />
+Występuje wyraźne rozwarstwienie układu (Cross-Asset Divergence). Podczas gdy Gwiazda NDX wykazuje gwałtowny wzrost agresji popytowej (wystrzał rynku), szeroka giełda TICKQ pozostaje w strefie testu podaży, co generuje asymetrię strukturalną.</p>
+<p><strong>Konkluzja:</strong><br />
+Układ w fazie grawitacyjnego napięcia; asymetryczny wzrost z dominacją sektorową przy braku potwierdzenia w szerokim spektrum promieniowania.</p>
 <h3>🌌 [2026-10-27 19:29]</h3>
 <p>[T-LOG: 2026-10-27 19:29]</p>
 <p>Status: OPEN | Tryb: SPOT</p>

@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 19:29
+Data: 2026-10-27 19:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,22 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 19:44]</h3>
+<p><strong>Status: a sessão à vista (Spot) Ativa</strong></p>
+<p><strong>Análise de Objetos:</strong><br />
+- <strong>a Estrela NDX</strong>: Preço 29623.00 (+1.20%). CVD: 61.89M [erupção do mercado].<br />
+- <strong>a Sonda NQ</strong>: Preço 29784.00 (+1.18%). CVD: 35.57K [acumulação]. ADR acima da média (103.19%).<br />
+- <strong>a Esfera de Dyson (QQQ)</strong>: Preço 720.56 (+1.17%). CVD: 1.32M [acumulação].<br />
+- <strong>a Radiação de Fundo (TICKQ)</strong>: -34.00 [teste de oferta]. Média SMA200: -6.16 [teste de oferta]. Status: BELOW.</p>
+<p><strong>Dinâmica do Sistema:</strong><br />
+- <strong>Massa da Galáxia</strong>: 42.03 T (Delta: +0.00 T).<br />
+- <strong>Ação Média</strong>: $303.81 (Delta: -0.11 USD). A cesta mostra um leve encolhimento.<br />
+- <strong>Densidade do Núcleo</strong>: 68.5% (Delta: +0.0%).<br />
+- <strong>a Esfera de Dyson</strong>: IV: 22.07%. Put/Call Ratio: 1.02.</p>
+<p><strong>Diagnóstico de Cinemática:</strong><br />
+Ocorre uma clara estratificação do sistema (Cross-Asset Divergence). Enquanto a Estrela NDX mostra um aumento abrupto de agressividade de demanda (erupção do mercado), a amplitude de mercado TICKQ permanece na zona de teste de oferta, o que gera uma assimetria estrutural.</p>
+<p><strong>Conclusão:</strong><br />
+Sistema em fase de tensão gravitacional; crescimento assimétrico com dominância setorial sem confirmação no espectro amplo de radiação.</p>
 <h3>🌌 [2026-10-27 19:29]</h3>
 <p>[T-LOG: 2026-10-27 19:29]</p>
 <p>Status: OPEN | Modo: a sessão à vista (Spot)</p>
