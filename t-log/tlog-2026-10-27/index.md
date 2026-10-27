@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 09:29
+Data: 2026-10-27 09:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 09:59]</h3>
+<p><strong>[T-LOG: 2026-10-27 09:59]</strong></p>
+<p><strong>STATUS: FUTURES (Tryb NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29419.00 (Delta ceny: -0.06%). Wektor kierunkowy Q-Score wykazuje ujemną dynamikę, spadając do poziomu -25 (Delta: -0.0). Pomiary ciśnienia wolumenu (CVD) dla Sondy NQ wynoszą 879, co klasyfikuje aktualny stan jako test popytu. Wskaźnik ADR dla NQ utrzymuje się na poziomie 52.95%, co plasuje go powyżej średniej z ostatnich sesji. W sferze opcji (QQQ) odnotowano zmienność (IV) na poziomie 23.39% przy zasięgu oczekiwanym w przedziale 703.04 do 721.36. Asymetria wolumenu kontraktów (Put/Call Ratio) wynosi 1.18. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia z powodu zamknięcia sesji kasowej.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Układ w fazie testowania popytu przy ujemnym wektorze Q-Score; brak rezonansu kinetycznego między ceną a kierunkiem (dysonans wektorów).</p>
 <h3>🌌 [2026-10-27 09:29]</h3>
 <p>[T-LOG: 2026-10-27 09:29]</p>
 <p>Tryb sesji: FUTURES. System w stanie uśpienia dla obiektów kasowych (NDX, QQQ, TICKQ).</p>
