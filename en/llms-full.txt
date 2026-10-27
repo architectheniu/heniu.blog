@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0213: Session summary 2026-10-27: NDX 29653.58 (+1.29%)
+
+Date: 2026-10-27 21:03
+URL: https://heniu.blog/en/posts/log-0213/
+
+
+**Session date:** 2026-10-27
+
+> *Session close 2026-10-27: NDX 29653.58 (+1.29%), NQ 29812.75 (+1.28%), QQQ 721.24 (+1.27%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session started at 9:30 ET (14:30 PL) at NDX level 29411.80 and NQ 29572.75. In the first 30 minutes, NDX rose by 5.24 pts (+0.02%) to 29417.04, while NQ fell by 1.50 pts (-0.01%) to 29571.25. The lowest NDX level was recorded at 10:16 ET (15:16 PL) at 29341.71, and the highest at 15:45 ET (20:45 PL) at 29718.30. The close at 29653.58 lies 64.72 pts below the maximum and 311.87 pts above the minimum.
+
+**Flows and market breadth.** The direction of the cumulative flow (CVD) was positive for NDX, NQ, and QQQ, indicating alignment of directions across all three instruments. Market breadth (TICKQ) at the close was 117.00, signifying accumulation, while the SMA200 average was 5.46 and indicated a demand test. Companies above 1 trillion USD accounted for 68.42% of the basket capitalization.
+
+**End of session, options, and companies.** In the last hour of the session, NDX rose by 6.20 pts (+0.02%) to close at 29653.58. The MOC Anomaly at the close was +3.43 M. Implied volatility (IV) for options on QQQ was 22.06%, and the put/call ratio was 1.40.
+
+**Day's balance.** The Nasdaq-100 index closed with a result of +1.29%.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **29653.58 (+1.29%)**
+    * Cumulative flow (CVD): **12,67 M [demand test]**
+    * MOC Anomaly: **+3,43 M**
+    * Average Daily Range (ADR) utilization: **91.80%**
+    * Drawdown from Heniu's highest close: **-5.04%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **29812.75 (+1.28%)**
+    * Cumulative flow (CVD): **28,79 K [accumulation]**
+    * Average Daily Range (ADR) utilization: **104.20%**
+
+* **QQQ ETF:** close **721.24 (+1.27%)**
+    * Cumulative flow (CVD): **1,14 M [accumulation]**
+    * Average Daily Range (ADR) utilization: **91.43%**
+
+* **Market breadth (TICKQ):** reading at close **117.00 [accumulation]**
+    * 200-reading average (SMA200): **5.46 [demand test]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **22.06%**
+    * Put/call ratio (open interest, OI): **1.40**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **42.05 trillion USD** (change from previous close: **+0.48 trillion USD**)
+    * Share of companies above 1 trillion USD in basket capitalization: **68.42%** (change: **-0.05 pp**)
+    * Average stock price in the basket: **$304.42** (change: **+$4.78**)
+    * Changes in the group of companies above 1 trillion USD: **no change**
+
+* **Session data health:** readings through 100.0% of the cash session; no gaps longer than a minute; NDX no change longer than 2 min in 0.1% of readings
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0213/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 Session Summary 2026-10-27",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0023: Company filings: Meta Platforms, Space Exploration Technologies; insider transactions
 
 Date: 2026-10-27 10:10
@@ -1247,97 +1327,5 @@ Insiders sold shares for 13.8 million USD, including 12.7 million USD from 10b5-
 CoreWeave (CRWV) insiders sold shares for 4.7 million USD.
 
 Microsoft (MSFT) insiders sold shares for 4.0 million USD.
-
-
----
-
-## Log #0202: Gravity Decay and the Fuel Paradox
-
-Date: 2026-10-14 22:03
-URL: https://heniu.blog/en/posts/log-0202/
-
-
-> ⚠️ **ERRATUM (2026-10-17)**  
-> **The Average Action in this entry was wrong.** The prices of four companies above 1000 USD (ASML, MELI, MPWR, SNDK) were read incorrectly, so the average share price and its change were distorted.
->
-> **Corrections:**
-> - Average Action: the correct values cannot be reconstructed, so we removed them.
-> - The 30270–30290 volume zone was above the closing price (29960.80), so it is resistance, not support.
-> - We removed the double percent sign at IV.
-
-**Stardate:** 2026.10.14\
-**Systems Status:** External Observation\
-**Sector:** Inner Volatility Bands
-
----
-
-### Closing Telemetry
-
-> *Observation of an anomaly between the mass decline of instruments and the euphoria of energy flow in the Central Star. The system is in a phase of deep correction, despite the stability of the Core composition.*
-
-* **Subspace Scanner (Mass Distribution):**
-    * *System T-Mass:* **42.67 Trillion USD**
-    * *Session Delta (24h):* **-0.85 Trillion USD**
-    * *Core Density (Heavy Nine):* **68.74%** (Delta: **-0.02%**)
-    * *Average Action (Periphery Temperature):* **[NO DATA]** (Delta: **[NO DATA]**)
-
-* **the NDX Star (Sun):** Close: **29960.80 (-2.02%)**
-    * *Vector (CVD):* **167,81 M [euphoria]**
-    * *MOC Anomaly:* **+33,82 M**
-    * *Range Consumption (ADR Util):* **205.62%**
-    * *Drawdown from Heniu's peak:* **-4.05%** (highest close: **31226.82**, 2026-10-06)
-
-* **the NQ Probe (Mercury):** Close: **30194.00 (-1.94%)**
-    * *Vector (CVD):* **5,71 K [demand test]**
-    * *Range Consumption (ADR Util):* **187.33%**
-
-* **the Dyson Sphere (QQQ):** Close: **728.84 (-1.98%)**
-    * *Population Vector:* **1,45 M [accumulation]**
-    * *Range Consumption (ADR Util):* **203.45%**
-
-* **Background Radiation (TICKQ) -107.00 [sell-off]:**
-    * *SMA200:* **-75.59 [market breakdown]**
-
-* **Gravitational Structure (Options):**
-    * *Implied Volatility (IV):* **20.35%**
-    * *Put/Call OI:* **1.48**
-
----
-
-### Logbook: Gravitational Decay and the Fuel Paradox
-
-**1. Discrepancy in the NDX Singularity**
-the Central Star (NDX) recorded a decline of 2.02% (29960.80), deepening the correction from the peak on 06.10 (31226.82) to a level of -4.05%. Despite the price decline, the CVD indicator shows a state of euphoria (167,81M), indicating a massive, price-inconsistent influx of fuel into the system. The Core composition (>1T) remains stable, with no detection of emergence or collapse of new singularities.
-
-**2. Force Field Degradation and Background Radiation**
-the NQ Probe (30194.00) shows a demand test with CVD at the 5,71K level, while the Dyson Sphere (QQQ) (728.84) is in an accumulation phase (CVD 1,45M). Simultaneously, Background Radiation (TICKQ) indicates a sell-off (-107.00), and the SMA200 average radiation confirms a market breakdown (-75.59). The system records high volatility (IV: 20.35%) with a T-Mass of 42.67 Trillion USD.
-
-**3. Historical Correction Path Analysis**
-The current NDX downward trajectory is deeper than 57% of the seven completed corrections recorded in the system memory. Volume nodes from the last 12 sessions indicate a resistance zone at 30270–30290 above the price, with the current price 1.03% below it. In the F-Pulse data, it was noted that net insiders over 5 sessions in Class 0 amounted to -796,49 K USD, while the overall system showed -62,74 M USD.
-
-**Quantum Verdict:**
-The system is experiencing a rapid stratification: price is losing mass, while flow indicators (CVD) suggest unnatural euphoria in the center and accumulation in the outer sphere. The mechanics indicate a deep structural correction, not yet a complete collapse of the Core.
-
-**Status:** EXTERNAL OBSERVATION. Shields active.
-
-**End of log.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Quantum Market Cosmology: Logbook",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
 
 
