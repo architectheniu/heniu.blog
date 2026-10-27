@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Date: 2026-10-27 00:08
+Date: 2026-10-27 01:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.27 [EN]</h1>
+<h3>📈 [2026-10-27 01:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contracts situation:</strong> NQ contracts are trading at 29571.50 (+0.46%), with a positive cumulative flow (CVD) of 2.33 K, indicating testing of demand in the after-hours session.</li>
+<li><strong>NDX index context:</strong> The index closed the cash session at 29275.06 (+1.09%). Despite the price increase, strong distribution was noted in the cash market (CVD NDX: −114.75 M). The aggregate flow direction indicator is -25, confirming the dominance of capital outflow. The ongoing drawdown from Heniu's peak on 06.10 (31360.85) is currently -6.65%, which classifies the current move as a larger correction (above the median of historical declines).</li>
+<li><strong>Technical levels:</strong> The nearest resistance is located in the volume node zone 29310–29330 (1.9% volume). The nearest support is the 29090–29110 zone (1.4% volume).</li>
+<li><strong>QQQ options market:</strong> With a volume of 7,674,981 and a Put/Call Ratio at 1.18, the market shows a tendency towards building hedges or a dominance of short positions. Implied volatility (IV) is 23.39%, and the expected range of movement for QQQ lies between 703.04 and 721.36.</li>
+</ul>
+<p>H-Log Report: 2026-10-27 01:07</p>
 <h3>📈 [2026-10-27 00:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
