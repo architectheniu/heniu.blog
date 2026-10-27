@@ -23,6 +23,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 <p><strong>H-LOG: the cash session (Spot) summary</strong></p>
 <p>This is the summary of the cash session (Spot) from 2026-10-26. The NDX index closed at 28961.08, representing an increase of 1.09%, with CVD at 38,05 M and ADR consumption of 34.29%. The NQ futures contract ended the session at 29100.25 (+1.12%) with CVD of −3,29 K and ADR at 45.96%. The QQQ ETF reached a value of 704.45, representing a change of 1.11%, with CVD of 1,44 M and ADR consumption of 34.40%. The TICKQ indicator closed at 437.00 with SMA200 at -17.45, while the MOC Anomaly was +24,24 M.</p>
 <p>H-Log report: session summary 2026-10-26</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+This summary took an outdated reading: alongside the current readings, old ones also reached Heniu at that time, with the current percentage change but with an old price, flow, daily range and market breadth. At the close the values were: NDX 29272.46 (+1.09%), CVD −114,75 M, ADR 99.15%; NQ 29443.50 (+1.12%), CVD 21,79 K, ADR 99.20%; QQQ 712.12 (+1.11%), CVD 2,85 M, ADR 99.38%; TICKQ -226.00 with SMA200 at -26.25. The MOC Anomaly (+24,24 M) and the percentage changes were correct.</p>
+</blockquote>
 <h3>📈 [2026-10-26 21:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
@@ -34,6 +38,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 <li>Key levels: The nearest resistance is located in the volume node zone 29080–29100 (1.2% volume). The nearest support is located in the 28940–28960 zone (1.6% volume).</li>
 </ul>
 <p>H-Log Report: 2026-10-26 21:07</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+This entry also took an outdated reading. At 21:07 NQ was trading at 29441.75 (+1.11%) with CVD 20,15 K, and the flow direction indicator was -25 (capital outflow advantage), not 20. NDX closed at 29272.46, so the correction from the 06.10 peak (31360.85) was -6.66% (-2088 pts), not -7.32%. The comparison with earlier corrections and the volume zones were calculated from the old NDX price of 29066.79; for the price of 29272.46 the nearest resistance is the 29470–29490 zone and the nearest support the 29080–29100 zone, as in the 23:07 entry.</p>
+</blockquote>
 <h3>📈 [2026-10-26 20:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>

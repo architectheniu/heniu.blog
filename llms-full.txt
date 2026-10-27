@@ -102,48 +102,61 @@ Insiderzy sprzedali akcje za 19,4 mln USD, w tym 19,0 mln USD z planów 10b5-1; 
 
 ---
 
-## Log #0212: Podsumowanie sesji 2026-10-26: NDX 28961.08 (+1.09%)
+## Log #0212: Podsumowanie sesji 2026-10-26: NDX 29272.46 (+1.09%)
 
 Data: 2026-10-26 21:03
 Adres: https://heniu.blog/posts/log-0212/
 
 
+> ⚠️ **ERRATUM (2026-10-27)**
+> **Pierwsza wersja tego wpisu podała stan rynku na zamknięciu z nieaktualnego odczytu.** W ostatnich minutach sesji do Henia docierały obok bieżących odczytów także stare, z wcześniejszej części dnia i z piątku: z bieżącą zmianą procentową, ale z dawną ceną, przepływem, zasięgiem dnia i szerokością rynku. Zamknięcie zapisano z takiego odczytu. Poprawiliśmy liczby w całym wpisie według odczytów bieżących.
+>
+> **Sprostowania:**
+> - Zamknięcie: NDX 29272.46, NQ 29443.50 i QQQ 712.12, a nie 28961.08, 29100.25 i 704.45. Zmiany procentowe były dobre.
+> - Minimum sesji: NDX 29017.13 o 10:02 ET (15:02 PL), a nie 28957.53 o 15:55 ET. Zamknięcie leży 130.09 pkt poniżej maksimum i 255.33 pkt powyżej minimum (zakres sesji 385.42 pkt).
+> - Ostatnia godzina sesji: NDX spadł o 32.37 pkt (-0.11%), a nie o 343.75 pkt (-1.17%).
+> - Przepływ skumulowany (CVD) na zamknięciu: NDX −114,75 M [panika], NQ 21,79 K [akumulacja], QQQ 2,85 M [wystrzał rynku]. Kierunek był rozbieżny, ale ujemny był przepływ NDX, a nie NQ.
+> - Szerokość rynku (TICKQ) na zamknięciu: -226.00 [załamanie rynku] przy średniej SMA200 -26.25 [wyprzedaż], a nie 437.00 i -17.45.
+> - Wykorzystanie średniego dziennego zasięgu (ADR): NDX 99.15%, NQ 99.20%, QQQ 99.38%, a nie 34.29%, 45.96% i 34.40%.
+> - Zejście od najwyższego zamknięcia: -6.26%, a nie -7.26%.
+> - Otwarcie, maksimum, anomalia MOC, opcje na QQQ i dane koszyka były dobre. Linia o zdrowiu danych mierzy ciągłość odczytów i takich starych odczytów nie wykrywa.
+
 **Data sesji:** 2026-10-26
 
-> *Zamknięcie sesji 2026-10-26: NDX 28961.08 (+1.09%), NQ 29100.25 (+1.12%), QQQ 704.45 (+1.11%).*
+> *Zamknięcie sesji 2026-10-26: NDX 29272.46 (+1.09%), NQ 29443.50 (+1.12%), QQQ 712.12 (+1.11%).*
 
 ---
 
 ### Przebieg sesji
 
-**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (14:30 PL) przy poziomach NDX 29046.68 i NQ 29231.00. W pierwszych 30 minutach NDX wzrósł o 3.99 pkt (+0.01%) do 29050.67, natomiast NQ spadł o 21.75 pkt (-0.07%) do 29209.25. Maksimum sesji odnotowano o 11:25 ET (16:25 PL) na poziomie NDX 29402.55, a minimum wystąpiło o 15:55 ET (20:55 PL) na poziomie NDX 28957.53. Zamknięcie NDX na poziomie 28961.08 znajduje się 441.47 pkt poniżej maksimum i 3.55 pkt powyżej minimum.
+**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (14:30 PL) przy poziomach NDX 29046.68 i NQ 29231.00. W pierwszych 30 minutach NDX wzrósł o 3.99 pkt (+0.01%) do 29050.67, natomiast NQ spadł o 21.75 pkt (-0.07%) do 29209.25. Minimum sesji odnotowano o 10:02 ET (15:02 PL) na poziomie NDX 29017.13, a maksimum wystąpiło o 11:25 ET (16:25 PL) na poziomie NDX 29402.55. Zamknięcie NDX na poziomie 29272.46 znajduje się 130.09 pkt poniżej maksimum i 255.33 pkt powyżej minimum.
 
-**Przepływy i szerokość rynku.** Kierunki skumulowanego przepływu (CVD) dla NDX i QQQ były dodatnie, natomiast dla NQ ujemny, co oznacza kierunek rozbieżny. Wskaźnik TICKQ na zamknięciu wyniósł 437.00 wystrzał rynku, przy średniej SMA200 na poziomie -17.45 test podaży. Udział spółek powyżej 1 bln USD w kapitalizacji koszyka wyniósł 68.47%.
+**Przepływy i szerokość rynku.** Kierunki skumulowanego przepływu (CVD) dla NQ i QQQ były dodatnie, natomiast dla NDX ujemny, co oznacza kierunek rozbieżny. Wskaźnik TICKQ na zamknięciu wyniósł -226.00 załamanie rynku, przy średniej SMA200 na poziomie -26.25 wyprzedaż. Udział spółek powyżej 1 bln USD w kapitalizacji koszyka wyniósł 68.47%.
 
-**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX spadł o 343.75 pkt (-1.17%) do poziomu 28961.08. Na zamknięciu wystąpiła anomalia MOC w wysokości +24,24 M. Zmienność implikowana (IV) dla opcji na QQQ wynosiła 22.90%, a stosunek put/call wynosił 1.42. META pozyskała kapitał.
+**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX spadł o 32.37 pkt (-0.11%) do poziomu 29272.46. Na zamknięciu wystąpiła anomalia MOC w wysokości +24,24 M. Zmienność implikowana (IV) dla opcji na QQQ wynosiła 22.90%, a stosunek put/call wynosił 1.42. META pozyskała kapitał.
 
-**Bilans dnia.** Indeks Nasdaq-100 zamknął się na poziomie 28961.08 (+1.09%).
+**Bilans dnia.** Indeks Nasdaq-100 zamknął się na poziomie 29272.46 (+1.09%).
 
 ---
 
 ### Telemetria Zamknięcia
 
-* **Indeks Nasdaq-100 (NDX):** zamknięcie **28961.08 (+1.09%)**
-    * Przepływ skumulowany (CVD): **38,05 M [akumulacja]**
+* **Indeks Nasdaq-100 (NDX):** zamknięcie **29272.46 (+1.09%)**
+    * Przepływ skumulowany (CVD): **−114,75 M [panika]**
     * Anomalia na zamknięciu (MOC): **+24,24 M**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **34.29%**
-    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-7.26%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **99.15%**
+    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-6.26%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
 
-* **Kontrakt terminowy NQ:** zamknięcie **29100.25 (+1.12%)**
-    * Przepływ skumulowany (CVD): **−3,29 K [test podaży]**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **45.96%**
+* **Kontrakt terminowy NQ:** zamknięcie **29443.50 (+1.12%)**
+    * Przepływ skumulowany (CVD): **21,79 K [akumulacja]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **99.20%**
 
-* **ETF QQQ:** zamknięcie **704.45 (+1.11%)**
-    * Przepływ skumulowany (CVD): **1,44 M [akumulacja]**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **34.40%**
+* **ETF QQQ:** zamknięcie **712.12 (+1.11%)**
+    * Przepływ skumulowany (CVD): **2,85 M [wystrzał rynku]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **99.38%**
 
-* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **437.00 [wystrzał rynku]**
-    * Średnia 200 odczytów (SMA200): **-17.45 [test podaży]**
+* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **-226.00 [załamanie rynku]**
+    * Średnia 200 odczytów (SMA200): **-26.25 [wyprzedaż]**
 
 * **Opcje na QQQ:**
     * Zmienność implikowana (IV): **22.90%**

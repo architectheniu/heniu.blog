@@ -12,7 +12,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0023: Arquivos de empresas: Meta Platforms, Space Exploration Technologies; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-27-0023/index.md) (2026-10-27)
 - [M15: 2026-10-26](https://heniu.blog/pt-br/t-log/tlog-2026-10-26/index.md) (2026-10-27)
 - [H1: 2026-10-26](https://heniu.blog/pt-br/h-log/hlog-2026-10-26/index.md) (2026-10-26)
-- [Log #0212: Resumo da sessão 2026-10-26: NDX 28961.08 (+1.09%)](https://heniu.blog/pt-br/posts/log-0212/index.md) (2026-10-26)
+- [Log #0212: Resumo da sessão 2026-10-26: NDX 29272.46 (+1.09%)](https://heniu.blog/pt-br/posts/log-0212/index.md) (2026-10-26)
 - [Fundamentos #0022: Notificações de empresas: Marvell Technology, Workday; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-26-0022/index.md) (2026-10-26)
 - [Log #0211: Compressão de Massa e Expansibilidade de Volatilidade: Semana de Acreção Negativa](https://heniu.blog/pt-br/posts/log-0211/index.md) (2026-10-25)
 - [H1: 2026-10-23](https://heniu.blog/pt-br/h-log/hlog-2026-10-23/index.md) (2026-10-23)

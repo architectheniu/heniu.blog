@@ -26,6 +26,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 <p><strong>DIAGNOSIS: CONSOLIDATION AROUND THE RESISTANCE BARRIER WITH VOLUME ACCUMULATION.</strong></p>
 <p>Log: 2026-10-26 21:59</p>
 <p><strong>Flow alarms from the previous Log:</strong> 21:52 sudden NQ flow upwards.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+The 21:52 flow alarm was caused by outdated readings at 21:52–21:53 (among others NQ 29097.00 and 29166.75). Current NQ readings from 21:29 to 21:59 stayed within 29449.00–29468.75, so there was no sudden NQ flow.</p>
+</blockquote>
 <h3>🌌 [2026-10-26 21:29]</h3>
 <p>[T-LOG: 2026-10-26 21:29]</p>
 <p><strong>STATUS: OPEN | MODE: FUTURES (NQ ONLY)</strong></p>
@@ -33,11 +37,19 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 <p><strong>SYSTEM DIAGNOSTICS:</strong><br />
 There is a clear dissonance between the direction of the Q-Score vector and the CVD pressure state; aggressive demand (accumulation) is pushing against the system, while the general physics of movement shows a downward trend. The system is in a phase of high instability around freshly processed HVN zones.</p>
 <p>Log: 2026-10-26 21:29</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+The repeated breakouts and breakdowns of the 29330 barrier (NQ ≈ 29494) described in this entry were caused by outdated readings that reached Heniu until about 21:12. Current NQ readings from 21:00 to 21:29 stayed within 29430.00–29467.25, that is, below this barrier the whole time.</p>
+</blockquote>
 <h3>🌌 [2026-10-26 20:59]</h3>
 <p>Log: 2026-10-26 20:59</p>
 <p>[STATUS: THE CASH SESSION (SPOT) - US100 SYSTEM ANALYSIS]</p>
 <p>The NQ Probe is at level 29233.75 (+1.12%), after intensive exchange in the HVN barrier zone (NDX 28950 - 29495), where a series of breakouts and recoveries of support and resistance levels were recorded. The NDX Star shows a demand test with CVD at level 5.93M, while the QQQ Satellite confirms this state, generating a demand test (CVD 508.24K). However, the NQ Probe shows a divergence, recording a supply test (CVD -853). The broad Nasdaq Exchange (TICKQ) is in an oversold state (-90.00), which, with an SMA200 average (-16.80), generates a clear system stratification: price increases accompanied by negative radiation of the broad market. Galaxy Mass is 41.56 T (Delta: -0.07 T), and the Average Action in the basket is $299.68 (Delta: -0.62 USD), indicating a slight contraction of the system's notional value. The market vector (Q-Score) is negative (-2). In the Dyson Sphere (QQQ), the Put/Call Ratio is 1.18 with IV 22.86%.</p>
 <p>[DIAGNOSIS: Cross-Asset Divergence – rallies driven by a narrow group of instruments amidst negative broad market dynamics and supply tests on the NQ Probe.]</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+This entry took an outdated reading: from about 20:45, old readings also reached Heniu alongside the current ones, with the current percentage change but with an old price, flow and market breadth. The last current reading before the entry (20:57) showed: NQ 29444.00 (+1.12%) with CVD 34,15 K [accumulation], NDX CVD 64,95 M [market flare], QQQ CVD 2,15 M [market flare], TICKQ -200.00 [sell-off] with SMA200 at -24.76 [sell-off] and Q-Score 25. There was no supply test on NQ. The “exchange in the HVN barrier zone” in the NDX 28950–29495 range was caused by old readings: current NDX readings from 20:44 to the close stayed within 29270.87–29334.06.</p>
+</blockquote>
 <h3>🌌 [2026-10-26 20:44]</h3>
 <p>Volume event: The US100 ecosystem HVN barrier was captured at NDX level 29330 (NQ equivalent ≈ 29493).</p>
 <p>NQ Probe: 29492.25 | ADR: 99.20% | CVD: 37.13K [accumulation].<br />
@@ -56,27 +68,47 @@ QQQ Satellite: 713.38 | CVD: 2.43M [market flare].</p>
 <p>The System is in a phase of violent accretion. The NDX Star exhibits a "market flare" state with CVD at 71.57M, driving price growth to 29332.98 (+1.30%). The NQ Probe oscillates at 29495.25 (+1.30%), showing an "accumulation" state (CVD: 37.4K), while ADR remains above average (99.20%). The QQQ satellite confirms this vector with a "market flare" state (CVD: 2.4M). In the broad market sector, strong radiation was recorded: TICKQ is 72.00 [accumulation], which is confirmed by a positive radiation trend (SMA200 is rising).</p>
 <p>In recent time cycles, significant activity was recorded in volume zones: an upward HVN barrier breakout occurred at NDX 29100 (NQ ≈ 29261) and 29330 (NQ ≈ 29493), followed by an immediate reversal of HVN support at NDX 29100 (NQ ≈ 29263). Galaxy Mass increased to 41.62 T (Delta: +0.02 T), and Average Action is 300.37 USD (Delta: +0.22 USD), indicating an expansion of the basket. The Q-Score is 25, which, combined with a high Put/Call Ratio (1.19) in the Dyson Sphere (QQQ), suggests volume asymmetry despite the dominant upward direction.</p>
 <p><strong>DIAGNOSIS: Kinetic resonance of macro and micro vectors; the system is in a phase of strong, though turbulent, accretion.</strong></p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+The breakout and breakdown of the HVN barrier at NDX 29100 (NQ ≈ 29261) described in this entry were caused by outdated readings at 19:30 and at 20:12–20:13 (among others NDX 29066.79 with the current change of +1.29%). Current NDX readings from 19:59 to 20:14 stayed within 29279.28–29341.57, so the 29100 barrier was neither broken out of nor broken down at that time.</p>
+</blockquote>
 <h3>🌌 [2026-10-26 19:59]</h3>
 <p>Log: 2026-10-26 19:59</p>
 <p>[STATUS: SPOT]<br />
 the NQ Probe at level 29463.50, with ADR above average. The system recorded destabilization of HVN barriers: support was broken in the NDX zone 29100 and 29330 (NQ ≈ 29262 and 29492 respectively). the NDX Star shows 'market flare' status (CVD 69,48M), while the QQQ Satellite is also operating in 'market flare' mode (CVD 2,41M). the NQ Probe shows an 'accumulation' state (CVD 35,78K). Nevertheless, the TICKQ Market breadth is in a 'market collapse' state (-458.00), which, combined with negative Background Radiation (SMA200: -24.46), indicates a deep Cross-Asset Divergence — aggressive demand for indices is not confirmed in the broad market. Galaxy Mass is 41.60 T (Delta: -0.04 T), and Average Action is $300.14 (Delta: -0.23 USD), signaling a slight contraction of the basket. In the Dyson Sphere (QQQ), the Put/Call Ratio is 1.18 with IV 22.79%. Q-Score at level 25 indicates a weak directional vector.</p>
 <p>[DIAGNOSIS: Vector divergence; asymmetric rise in indices accompanied by a simultaneous collapse of the broad market.]</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+The breakdown of the HVN supports at NDX 29100 and 29330 was caused by an outdated reading at 19:30 (NDX 29049.24). Current NDX readings from 19:29 to 19:44 stayed within 29327.27–29340.50, so these supports were not broken at that time.</p>
+</blockquote>
 <h3>🌌 [2026-10-26 19:44]</h3>
 <p>Log: 2026-10-26 19:44</p>
 <p>In the US100 sector, intense exchange was recorded in the HVN barrier zone between NDX levels 29320 and 29360, which led to the final capture of the barrier at the NDX 29320 level (NQ ≈ 29481). The NDX Star shows a "market flare" state with CVD at the 72.29M level, while the NQ Probe maintains an "accumulation" profile (CVD: 38.7K) at a price of 29495.50. The QQQ satellite also shows a "market flare" (CVD: 2.6M). Despite strong demand vectors in the main objects, the Nasdaq Market Breadth (TICKQ) is in a "market breakdown" state (-296.00), which, with the SMA200 average at the -22.27 level (status BELOW), indicates a deep stratification of the system. The US100 basket shows a slight expansion, where the Average Action is $300.38 (Delta: +0.12 USD). In the Dyson Sphere (QQQ), volume asymmetry is observed with a Put/Call Ratio at the 1.18 level. The Q-Score vector is 25, which, with a high ADR (99.20% for NQ), suggests the presence of tension between aggressive accretion and the broad market structure.</p>
 <p>The system is in a gravitational tension phase (Cross-Asset Divergence).</p>
 <p><strong>Flow alarms from the previous Log:</strong> 19:30 sudden NQ flow downwards; NQ flow ignition.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+The “exchange in the HVN barrier zone” and the 19:30 flow alarm were caused by a single outdated reading at 19:30 (NDX 29049.24, NQ 29207.75 with the current change of +1.31%). Current readings from 19:29 to 19:44 stayed within 29327.27–29340.50 for NDX and 29486.50–29506.25 for NQ: the 29320 barrier was neither broken nor regained, and there was no sudden NQ downward flow.</p>
+</blockquote>
 <h3>🌌 [2026-10-26 19:29]</h3>
 <p>Log: 2026-10-26 19:29</p>
 <p>[STATUS: SPOT]<br />
 the NQ Probe at level 29490.75, with ADR above average. the NDX Star shows 'market flare' status (CVD 68.2M), while the QQQ Satellite also maintains 'market flare' (CVD 2.15M). the NQ Probe is in the 'accumulation' phase (CVD 38.38K). Galaxy Mass is 41.64 T (Delta -0.02 T), and Average Action fell to $300.26 (Delta -0.19 USD), indicating a slight contraction of the basket. In the Dyson Sphere (QQQ), the Put/Call Ratio is 1.17 with IV 22.81%. During the session, the breaking of HVN barriers was recorded in the NQ zone 29481 (NDX 29320) and NQ 29261 (NDX 29100). Q-Score is 25.</p>
 <p>[DIAGNOSIS: Cross-Asset Divergence – growth is structurally empty, driven by narrow concentration amidst simultaneous broad market sell-off.]</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+The breakdown of the HVN barriers at NQ 29481 (NDX 29320) and NQ 29261 (NDX 29100) was caused by an outdated reading at 19:11. Current NDX readings from 18:59 to 19:29 stayed within 29326.39–29370.78, so these barriers were not broken.</p>
+</blockquote>
 <h3>🌌 [2026-10-26 19:14]</h3>
 <p><strong>Log: 2026-10-26 19:14</strong></p>
 <p>System in the cash session (Spot) mode. A sudden Cross-Asset Divergence phenomenon was recorded. After previously breaking the HVN barriers in the NDX 29320 and NDX 29100 zone, a violent kinetic reversal occurred. The NQ Probe is currently at the 29495.75 level, showing accumulation (CVD: 38,66K). Simultaneously, the NDX Star and the QQQ Satellite report a "market blast" state (CVD: 74,72M and 2,21M respectively). Despite this aggression, the Nasdaq Market Breadth (TICKQ) indicates a "market collapse" at the -404.00 level, which, combined with negative average radiation (SMA200: -21.52), suggests a deep dissonance between the main indices and market breadth.</p>
 <p>The Q-Score directional vector is 25, which, with a falling radiation trend (-3.32), indicates an unstable upward structure. The Dyson Sphere (QQQ) shows volume asymmetry with a Put/Call Ratio at 1.17. The Galaxy Mass is 41.66 T (Delta: -0.02 T), and the Average Action in the basket is $300.45 (Delta: -0.40 USD), meaning the shrinking of the system's core. ADR for all objects is above the average.</p>
 <p>The system is in a phase of gravitational tension; aggressive demand for indices is structurally empty and asymmetrical relative to the broad market.</p>
 <p><strong>Flow alarms from the previous Log:</strong> 19:08 sudden NQ flow downwards; NQ flow ignition.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+The breakdown of the HVN barriers at NDX 29320 and 29100 described in this entry was caused by a single outdated reading at 19:11 (NDX 29066.79 with the current change of +1.37%). Current NDX readings from 18:59 to 19:14 stayed within 29333.37–29370.78, so these barriers were not broken, and the “reversal” was a return to the current price.</p>
+</blockquote>
 <h3>🌌 [2026-10-26 18:59]</h3>
 <p>[T-LOG: 2026-10-26 18:59]</p>
 <p><strong>STATUS: OPEN | MODE: SPOT</strong></p>

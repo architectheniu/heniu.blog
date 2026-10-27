@@ -23,6 +23,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 <p><strong>H-LOG: Resumo da sessão à vista (Spot)</strong></p>
 <p>Este é o resumo da sessão à vista (Spot) de 2026-10-26. O Índice Nasdaq-100 (NDX) fechou em 28961.08, o que representa uma alta de 1.09%, com CVD em 38,05 M e consumo de ADR de 34.29%. O Contrato futuro NQ encerrou a sessão em 29100.25 (+1.12%) com CVD de −3,29 K e ADR em 45.96%. O ETF QQQ atingiu o valor de 704.45, o que significa uma mudança de 1.11%, com CVD de 1,44 M e consumo de ADR de 34.40%. O indicador TICKQ fechou em 437.00 com SMA200 de -17.45, enquanto a Anomalia MOC foi de +24,24 M.</p>
 <p>Relatório H-Log: resumo da sessão 2026-10-26</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+Este resumo usou uma leitura desatualizada: ao lado das leituras atuais, chegavam ao Heniu também leituras antigas, com a variação percentual atual, mas com preço, fluxo, amplitude diária e amplitude de mercado antigos. No fechamento os valores eram: NDX 29272.46 (+1.09%), CVD −114,75 M, ADR 99.15%; NQ 29443.50 (+1.12%), CVD 21,79 K, ADR 99.20%; QQQ 712.12 (+1.11%), CVD 2,85 M, ADR 99.38%; TICKQ -226.00 com SMA200 de -26.25. A Anomalia MOC (+24,24 M) e as variações percentuais estavam corretas.</p>
+</blockquote>
 <h3>📈 [2026-10-26 21:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
@@ -34,6 +38,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 <li>Níveis chave: A resistência mais próxima está na zona de nó de volume 29080–29100 (1.2% de volume). O suporte mais próximo está localizado na zona 28940–28960 (1.6% de volume).</li>
 </ul>
 <p>Relatório H-Log: 2026-10-26 21:07</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-27)</strong><br />
+Esta entrada também usou uma leitura desatualizada. Às 21:07 o NQ era negociado a 29441.75 (+1.11%) com CVD de 20,15 K, e o indicador de direção de fluxo era -25 (vantagem de saída de capital), e não 20. O NDX fechou em 29272.46, portanto o recuo desde o pico de 06.10 (31360.85) era de -6.66% (-2088 pts), e não -7.32%. A comparação com recuos anteriores e as zonas de volume foram calculadas a partir do preço antigo do NDX, 29066.79; para o preço de 29272.46, a resistência mais próxima é a zona 29470–29490 e o suporte mais próximo, a zona 29080–29100, como na entrada das 23:07.</p>
+</blockquote>
 <h3>📈 [2026-10-26 20:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
