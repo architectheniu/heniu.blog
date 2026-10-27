@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 11:59
+Data: 2026-10-27 12:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 12:29]</h3>
+<p><strong>[T-LOG: 2026-10-27 12:29]</strong></p>
+<p><strong>STATUS: FUTURES (TRYB NOCNY)</strong></p>
+<p>Sonda NQ wykazuje aktywność w reżimie po sesji kasowej. Obecna cena obiektu wynosi 29548.75 (+0.38%). Wektor kierunku (Q-Score) utrzymuje się na poziomie -25, co przy braku zmian w dynamice krótkoterminowej wskazuje na stabilizację wektora w fazie ujemnej. Odczyt CVD dla SONDY NQ wynosi 6,4 K, co klasyfikuje obecny stan jako test popytu. Wskaźnik ADR NQ wynosi 57.08%, co pozycjonuje go powyżej średniej z ostatnich sesji.</p>
+<p>W Sferze Dysona (Opcje QQQ) odnotowano zmienność IV na poziomie 23.39% przy oczekiwanym zasięgu rzędu 703.04 - 721.36. Asymetria wolumenu w stosunku Put/Call wynosi 1.18, co wskazuje na przewagę kontraktów typu Put w strukturze dziennego wolumenu (7,674,981). Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia i nie generują bieżącej radiacji.</p>
+<p><strong>DIAGNOZA: Układ w fazie testowania popytu przy zachowaniu ujemnego wektora kierunkowego.</strong></p>
+<p>Log: 2026-10-27 12:29</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 12:08 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-27 11:59]</h3>
 <p>[TELEMETRIA NQ - TRYB FUTURES]<br />
 Sonda NQ: 29516.75 (+0.27%) | Vol: 8.72K | CVD: 3.32K [test popytu] | ADR: 57.08%<br />

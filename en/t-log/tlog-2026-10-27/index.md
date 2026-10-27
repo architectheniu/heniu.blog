@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Date: 2026-10-27 12:00
+Date: 2026-10-27 12:30
 URL: https://heniu.blog/en/t-log/tlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.27 [EN]</h1>
+<h3>🌌 [2026-10-27 12:29]</h3>
+<p><strong>[T-LOG: 2026-10-27 12:29]</strong></p>
+<p><strong>STATUS: THE FUTURES SESSION (NIGHT MODE)</strong></p>
+<p>The NQ Probe shows activity in the post-cash session regime. The current object price is 29548.75 (+0.38%). The direction vector (Q-Score) remains at -25, which, given the lack of changes in short-term dynamics, indicates vector stabilization in the negative phase. The CVD reading for the NQ PROBE is 6.4 K, classifying the current state as a demand test. The NQ ADR indicator is 57.08%, positioning it above the average of recent sessions.</p>
+<p>In the Dyson Sphere (QQQ Options), IV volatility was recorded at 23.39% with an expected range of 703.04 - 721.36. The Put/Call volume asymmetry is 1.18, indicating a dominance of Put contracts in the daily volume structure (7,674,981). Other objects (NDX, QQQ, TICKQ) remain in a dormant state and are not generating current radiation.</p>
+<p><strong>DIAGNOSIS: System in a demand testing phase while maintaining a negative direction vector.</strong></p>
+<p>Log: 2026-10-27 12:29</p>
+<p><strong>Flow alarms from the previous Log:</strong> 12:08 sudden NQ flow upward; NQ flow ignition.</p>
 <h3>🌌 [2026-10-27 11:59]</h3>
 <p>[NQ TELEMETRY - FUTURES MODE]<br />
 the NQ Probe: 29516.75 (+0.27%) | Vol: 8.72K | CVD: 3.32K [demand test] | ADR: 57.08%<br />
