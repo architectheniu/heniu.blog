@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 00:59
+Data: 2026-10-27 01:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 01:29]</h3>
+<p>[TELEMETRIA: 2026-10-27 01:29]<br />
+Status: FUTURES (Tryb NQ)</p>
+<p>Sonda NQ wykazuje obecną cenę 29568.00 (+0.45%). Aktywny wolumen CVD wynosi 2,54K, co klasyfikuje stan Sondy jako test popytu. Wektor kierunkowy Q-Score oscyluje na poziomie -25, wskazując na dominację ujemną w skali mikro. ADR NQ wynosi 31.13%, co sytuuje obecną zmienność powyżej średnich historycznych. W sferze opcji (QQQ) odnotowano IV na poziomie 23.39% przy zasięgu oczekiwanym w przedziale 703.04 – 721.36. Put/Call Ratio wynosi 1.18, co wskazuje na asymetrię wolumenu na korzyść kontraktów Put. Obiekty NDX, QQQ (rynek kasowy) oraz TICKQ pozostają w stanie uśpienia; brak bieżącej radiacji i danych o masie galaktyki.</p>
+<p>Układ znajduje się w fazie testu popytu przy jednoczesnym ujemnym wektorze Q-Score, co sugeruje brak pełnej synchronizacji między agresją wolumenu a kierunkiem ceny.</p>
+<p>Log: 2026-10-27 01:29</p>
 <h3>🌌 [2026-10-27 00:59]</h3>
 <p><strong>[T-LOG: 2026-10-27 00:59]</strong></p>
 <p><strong>STATUS: FUTURES (TRYB NOCNY)</strong></p>
