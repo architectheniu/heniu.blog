@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Date: 2026-10-27 21:59
+Date: 2026-10-27 23:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.27 [EN]</h1>
+<h3>🌌 [2026-10-27 23:29]</h3>
+<p>[T-LOG: 2026-10-27 23:29]</p>
+<p>the NQ Probe is currently at level 29825.50 (+0.05%), with ADR at 7.95%. During the last 30 minutes, intense exchange was recorded in the HVN barrier zone of the US100 ecosystem at level 29650 (NQ ≈ 29813), where a double capture and overthrow of the barrier occurred. The Q-Score directional vector shows a slight negative slope at level -5. CVD data for the NQ Probe indicates a value of -556, classifying the current state as a supply test. the Dyson Sphere (QQQ options) shows IV volatility at level 21.84% with a Put/Call volume asymmetry of 1.03. Other objects (NDX, QQQ, TICKQ) remain in a state of dormancy due to the FUTURES session mode. No kinetic vector data for this interval in the telemetry stream.</p>
+<p>System state: Consolidation around the barrier with a supply test.</p>
 <h3>🌌 [2026-10-27 21:59]</h3>
 <p>[T-LOG: 2026-10-27 21:59]<br />
 Mode: FUTURES (Analysis exclusively of the NQ Probe)</p>
