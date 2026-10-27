@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 14:29
+Data: 2026-10-27 14:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 14:44]</h3>
+<p>[T-LOG: 2026-10-27 14:44]</p>
+<p>Status układu: SPOT. W trakcie sesji odnotowano dynamiczną aktywność na barierach HVN: o 14:30 obalono wsparcie ekosystemu US100 na poziomie NDX 29330 (NQ ≈ 29617), by o 14:40 ponownie zdobyć tę zaporę (NQ ≈ 29486). Obecna cena Sondy NQ wynosi 29632.00, wykazując test popytu przy CVD 9,11k. Gwiazda NDX znajduje się w fazie akumulacji (CVD 24,33M) przy cenie 29481.61, natomiast Satelita QQQ również testuje popyt (CVD 3,99k) na poziomie 716.85. Szeroka Giełda (TICKQ) wykazuje akumulację (85.00), utrzymując się powyżej średniej radiacji SMA200 (-30.75). Masa Galaktyki wynosi 41.85 T (Delta: +0.00 T), a Średnia Akcja w koszyku to $302.58 (Delta: +0.00 USD), co wskazuje na brak ekspansji lub kurczenia się jądra. Wektor kierunku (Q-Score) jest słabo dodatni (10), przy asymetrii wolumenu opcji Put/Call na poziomie 0.81. ADR dla kluczowych obiektów jest powyżej średnich historycznych.</p>
+<p>Układ w fazie poszukiwania rezonansu po przebiciu barier HVN; brak wyraźnej synchronizacji wektorów makro i mikro.</p>
+<p>Log: 2026-10-27 14:44</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 14:30 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-27 14:29]</h3>
 <p>[T-LOG: 2026-10-27 14:29]<br />
 Tryb sesji: FUTURES (Obiekt aktywny: Sonda NQ)</p>
