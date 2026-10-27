@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 15:15
+Data: 2026-10-27 15:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,22 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 15:29]</h3>
+<p><strong>STATUS: SPOT | MODO: A SESSÃO À VISTA (SPOT)</strong></p>
+<p><strong>[DINÂMICA DOS OBJETOS]</strong><br />
+- <strong>a Estrela NDX (o Núcleo):</strong> Preço 29424.09. CVD: 27,44M [acumulação].<br />
+- <strong>a Sonda NQ:</strong> Preço 29582.50. CVD: 7,56K [teste de demanda]. ADR: 70.21% (acima da média).<br />
+- <strong>Satélite QQQ:</strong> Preço 715.68. CVD: 233,75K [teste de demanda].<br />
+- <strong>a Radiação de Fundo (TICKQ):</strong> -11.00 [teste de oferta]. Média SMA200: -36.11 [liquidação]. Status: ABOVE.<br />
+- <strong>a Esfera de Dyson (Opções):</strong> IV: 22.85%. Put/Call Ratio: 0.82.</p>
+<p><strong>[MASSA E DENSIDADE]</strong><br />
+- <strong>Massa da Galáxia:</strong> 41.76 T (Delta: +0.07 T).<br />
+- <strong>Ação Média:</strong> $301.65 (Delta: +0.47 USD). A cesta mostra expansão.<br />
+- <strong>Densidade do Núcleo:</strong> 68.5% (Delta: 0.0%).</p>
+<p><strong>[ANÁLISE CINEMÁTICA]</strong><br />
+O vetor Q-Score é 10, indicando uma tensão direcional fraca, mas positiva. Observo uma divergência do sistema (Cross-Asset Divergence): enquanto a a Estrela NDX mostra uma acumulação estável (27,44M), a Sonda NQ e o Satélite QQQ estão apenas em fase de teste de demanda, o que sugere uma assimetria de crescimento. O sistema apresenta baixa sincronização – o volume agressivo concentra-se no Núcleo, enquanto a amplitude de mercado (TICKQ) e a Sonda NQ não geram ressonância, permanecendo em áreas de testes de oferta e demanda.</p>
+<p><strong>[DIAGNÓSTICO]</strong><br />
+Sistema em fase de acreção assimétrica do núcleo, sem confirmação nos setores de suporte.</p>
 <h3>🌌 [2026-10-27 15:14]</h3>
 <p><strong>[T-LOG: 2026-10-27 15:14]</strong></p>
 <p><strong>Status do sistema:</strong> SPOT. A sessão à vista está ativa.</p>
