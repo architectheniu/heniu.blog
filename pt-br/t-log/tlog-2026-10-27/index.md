@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 20:45
+Data: 2026-10-27 21:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 20:59]</h3>
+<p>[EVENTOS DE VOLUME (HVN)]<br />
+O suporte HVN do ecossistema US100 foi derrubado no nível NDX 29670 (NQ ≈ 29829).</p>
+<p>[T-LOG: 2026-10-27 20:59]<br />
+Status: SPOT. O sistema está em uma fase de estratificação violenta de vetores após a derrubada do suporte HVN. A Sonda NQ oscila no nível 29813.25 (+1.28%), com o ADR em 104.20%, o que indica atividade acima da média. A Estrela NDX apresenta um estado de euforia (CVD: 96,57M), enquanto a Sonda NQ relata um disparo do mercado (CVD: 41,13K). O satélite QQQ está em fase de acumulação (CVD: 1,5M). A Amplitude de mercado (TICKQ) (116.00) confirma a acumulação, permanecendo acima da SMA200 (4.97). A Massa da Galáxia é de 42.06 T (Delta: -0.08 T), e a Ação Média é de $304.45 (Delta: -0.30 USD), o que sinaliza um leve encolhimento da cesta. O Q-Score é 45. Na Esfera de Dyson (QQQ) observa-se uma assimetria de volume Put/Call no nível de 1.03 com IV 22.00%.</p>
+<p>O sistema está em uma fase de alta tensão gravitacional; ocorre uma forte divergência entre a euforia no núcleo (NDX) e a dinâmica da sonda (NQ) após o rompimento da barreira HVN.</p>
 <h3>🌌 [2026-10-27 20:44]</h3>
 <p>Log: 2026-10-27 20:44</p>
 <p><strong>[STATUS: SPOT | A SESSÃO À VISTA ESTÁ ATIVA]</strong></p>

@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 20:44
+Data: 2026-10-27 20:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 20:59]</h3>
+<p>[ZDARZENIA VOLUMENOWE (HVN)]<br />
+Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29670 (NQ ≈ 29829).</p>
+<p>[T-LOG: 2026-10-27 20:59]<br />
+Status: SPOT. System w fazie gwałtownego rozwarstwienia wektorów po obaleniu wsparcia HVN. Sonda NQ oscyluje na poziomie 29813.25 (+1.28%), przy czym ADR wynosi 104.20%, co wskazuje na aktywność powyżej średniej. Gwiazda NDX wykazuje stan euforii (CVD: 96,57M), podczas gdy Sonda NQ raportuje wystrzał rynku (CVD: 41,13K). Satelita QQQ znajduje się w fazie akumulacji (CVD: 1,5M). Szeroka Giełda TICKQ (116.00) potwierdza akumulację, pozostając powyżej SMA200 (4.97). Masa Galaktyki wynosi 42.06 T (Delta: -0.08 T), a Średnia Akcja to $304.45 (Delta: -0.30 USD), co sygnalizuje lekkie kurczenie się koszyka. Q-Score wynosi 45. W Sferze Dysona obserwowana jest asymetria wolumenu Put/Call na poziomie 1.03 przy IV 22.00%.</p>
+<p>Układ w fazie wysokiego napięcia grawitacyjnego; występuje silna rozbieżność między euforią na jadrze (NDX) a dynamiką sondy (NQ) po przebiciu zapory HVN.</p>
 <h3>🌌 [2026-10-27 20:44]</h3>
 <p>Log: 2026-10-27 20:44</p>
 <p><strong>[STATUS: SPOT | SESJA KASOWA AKTYWNA]</strong></p>
