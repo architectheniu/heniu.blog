@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Date: 2026-10-27 11:29
+Date: 2026-10-27 12:00
 URL: https://heniu.blog/en/t-log/tlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.27 [EN]</h1>
+<h3>🌌 [2026-10-27 11:59]</h3>
+<p>[NQ TELEMETRY - FUTURES MODE]<br />
+the NQ Probe: 29516.75 (+0.27%) | Vol: 8.72K | CVD: 3.32K [demand test] | ADR: 57.08%<br />
+Q-Score: -25 | IV: 23.39% | P/C Ratio: 1.18</p>
+<p>[EVENT ANALYSIS]<br />
+Rebounded from the HVN barrier at level 29330 (NDX) – the NQ Probe price is currently above this level. During the session, an upward breakout of the 29330 barrier was recorded.</p>
+<p>[LOG: 2026-10-27 11:59]<br />
+the NQ Probe is operating at level 29516.75, showing a slight positive diffraction (+0.27%) compared to the previous reading. The system recorded a breakout of the HVN barrier at level 29330, allowing the price to reconfigure above this zone. The current CVD vector is 3.32K, which classifies the system state as a "demand test". The NQ ADR value remains at 57.08%. The Q-Score shows negative polarization at -25, suggesting the dominance of a downward vector in a broader view, despite local upward action. the Dyson Sphere (options) shows volume asymmetry with a Put/Call Ratio at 1.18 with IV volatility of 23.39%. [NO DATA] for the cash session (Spot) parameters (NDX, QQQ, TICKQ) due to the instrument's operating mode.</p>
+<p>[DIAGNOSIS]<br />
+The system is in a phase of testing demand above the freshly acquired barrier, while maintaining a negative Q-Score.</p>
+<p><strong>Flow alarms from the previous Log:</strong> 11:45 sudden NQ upward flow; NQ flow ignition.</p>
 <h3>🌌 [2026-10-27 11:29]</h3>
 <p>[T-LOG: 2026-10-27 11:29]</p>
 <p>Session mode: the futures session. Active object: the NQ Probe.</p>

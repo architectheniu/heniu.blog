@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 11:29
+Data: 2026-10-27 11:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 11:59]</h3>
+<p>[TELEMETRIA NQ - TRYB FUTURES]<br />
+Sonda NQ: 29516.75 (+0.27%) | Vol: 8.72K | CVD: 3.32K [test popytu] | ADR: 57.08%<br />
+Q-Score: -25 | IV: 23.39% | P/C Ratio: 1.18</p>
+<p>[ANALIZA ZDARZEŃ]<br />
+Odbito od bariery HVN na poziomie 29330 (NDX) – cena Sondy NQ znajduje się obecnie powyżej tego poziomu. W trakcie sesji odnotowano przebicie zapory 29330 w górę.</p>
+<p>[LOG: 2026-10-27 11:59]<br />
+Sonda NQ operuje na poziomie 29516.75, wykazując lekką dodatnią dyfrakcję (+0.27%) względem poprzedniego odczytu. System odnotował przebicie bariery HVN na poziomie 29330, co pozwoliło cenie na rekonfigurację powyżej tej strefy. Obecny wektor CVD wynosi 3.32K, co klasyfikuje stan układu jako "test popytu". Wartość ADR NQ utrzymuje się na poziomie 57.08%. Q-Score wykazuje ujemną polaryzację na poziomie -25, co sugeruje dominację wektora spadkowego w szerszym ujęciu, mimo lokalnej akcji wzrostowej. Sfera Dysona (opcje) wykazuje asymetrię wolumenu z Put/Call Ratio na poziomie 1.18 przy zmienności IV 23.39%. Brak danych dla parametrów sesji SPOT (NDX, QQQ, TICKQ) ze względu na tryb pracy instrumentu.</p>
+<p>[DIAGNOZA]<br />
+Układ w fazie testowania popytu powyżej świeżo zdobytej zapory, przy zachowaniu ujemnego Q-Score.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 11:45 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-27 11:29]</h3>
 <p>[T-LOG: 2026-10-27 11:29]</p>
 <p>Tryb sesji: FUTURES. Aktywny obiekt: Sonda NQ.</p>

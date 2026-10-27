@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 11:30
+Data: 2026-10-27 12:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 11:59]</h3>
+<p>[TELEMETRIA NQ - MODO FUTUROS]<br />
+a Sonda NQ: 29516.75 (+0.27%) | Vol: 8.72K | CVD: 3.32K [test de demanda] | ADR: 57.08%<br />
+Q-Score: -25 | IV: 23.39% | P/C Ratio: 1.18</p>
+<p>[ANÁLISE DE EVENTOS]<br />
+Recuo da barreira HVN no nível 29330 (NDX) – o preço da Sonda NQ encontra-se atualmente acima deste nível. Durante a sessão, foi registrada uma ruptura da barreira 29330 para cima.</p>
+<p>[LOG: 2026-10-27 11:59]<br />
+a Sonda NQ opera no nível 29516.75, exibindo uma leve difração positiva (+0.27%) em relação à leitura anterior. O sistema registrou uma ruptura da barreira HVN no nível 29330, o que permitiu ao preço uma reconfiguração acima desta zona. O vetor atual de CVD é 3.32K, o que classifica o estado do sistema como "test de demanda". O valor de ADR NQ mantém-se no nível de 57.08%. O Q-Score exibe uma polarização negativa no nível de -25, o que sugere a dominância do vetor de queda em uma perspectiva mais ampla, apesar da ação de alta local. a Esfera de Dyson (opções) exibe assimetria de volume com Put/Call Ratio no nível de 1.18 com volatilidade IV de 23.39%. [SEM DADOS] para os parâmetros da sessão à vista (Spot) (NDX, QQQ, TICKQ) devido ao modo de operação do instrumento.</p>
+<p>[DIAGNÓSTICO]<br />
+Sistema em fase de teste de demanda acima da barreira recém-conquistada, mantendo um Q-Score negativo.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 11:45 fluxo súbito de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-27 11:29]</h3>
 <p>[T-LOG: 2026-10-27 11:29]</p>
 <p>Modo de sessão: a sessão de futuros. Objeto ativo: a Sonda NQ.</p>
