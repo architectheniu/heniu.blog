@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Data: 2026-10-27 00:07
+Data: 2026-10-27 01:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.27</h1>
+<h3>📈 [2026-10-27 01:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Kontrakty NQ notowane są na poziomie 29571.50 (+0.46%), przy dodatnim przepływie skumulowanym (CVD) wynoszącym 2,33 K, co wskazuje na testowanie popytu w sesji poza sesją główną.</li>
+<li><strong>Kontekst indeksu NDX:</strong> Indeks zamknął sesję kasową na poziomie 29275.06 (+1.09%). Mimo wzrostu ceny, odnotowano silną dystrybucję na rynku kasowym (CVD NDX: −114,75 M). Zbiorczy wskaźnik kierunku przepływów wynosi -25, co potwierdza przewagę odpływu kapitału. Trwająca korekta od szczytu z 06.10 (31360.85) wynosi obecnie -6.65%, co klasyfikuje obecny ruch jako większą korektę (powyżej mediany historycznych spadków).</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższy opór znajduje się w strefie węzła wolumenu 29310–29330 (1.9% wolumenu). Najbliższe wsparcie to strefa 29090–29110 (1.4% wolumenu).</li>
+<li><strong>Rynek opcji QQQ:</strong> Przy wolumenie 7,674,981 i wskaźniku Put/Call Ratio na poziomie 1.18, rynek wykazuje skłonność do budowania zabezpieczeń (hedgingu) lub przewagę pozycji krótkich. Zmienność implikowana (IV) wynosi 23.39%, a oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 703.04 do 721.36.</li>
+</ul>
+<p>Raport H-Log: 2026-10-27 01:07</p>
 <h3>📈 [2026-10-27 00:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
