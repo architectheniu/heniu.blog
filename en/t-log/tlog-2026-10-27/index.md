@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Date: 2026-10-27 21:29
+Date: 2026-10-27 21:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.27 [EN]</h1>
+<h3>🌌 [2026-10-27 21:59]</h3>
+<p>[T-LOG: 2026-10-27 21:59]<br />
+Mode: FUTURES (Analysis exclusively of the NQ Probe)</p>
+<p>The NQ Probe is currently at level 29801.00 (+1.23%). High activity of the ADR indicator was recorded, which is 104.20%, placing it above the session average. The CVD vector for NQ is 28,39K, which according to protocol classifies the object state as [accumulation]. Q-Score remains at level 15 [Delta: +0.0]. In the Dyson Sphere (QQQ options), volatility (IV) is 22.20%, with Put/Call volume asymmetry at level 1.03. No data on volume interactions (HVN) in the current time window. The system shows a tendency toward upward accretion during the night futures session, supported by positive aggressive volume flow.</p>
+<p>Log: 2026-10-27 21:59</p>
 <h3>🌌 [2026-10-27 21:29]</h3>
 <p>[TELEMETRY - STATUS: FUTURES]<br />
 [the NQ Probe: 29798.75 | ADR: 104.20% | CVD: 28.07K (accumulation)]<br />

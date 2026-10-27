@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 21:29
+Data: 2026-10-27 21:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 21:59]</h3>
+<p>[T-LOG: 2026-10-27 21:59]<br />
+Tryb: FUTURES (Analiza wyłącznie Sondy NQ)</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29801.00 (+1.23%). Odnotowano wysoką aktywność wskaźnika ADR, który wynosi 104.20%, co plasuje go powyżej średniej sesji. Wektor CVD dla NQ wynosi 28,39K, co zgodnie z protokołem klasyfikuje stan obiektu jako [akumulacja]. Q-Score utrzymuje się na poziomie 15 [Delta: +0.0]. W sferze Dysona (opcje na QQQ) zmienność (IV) wynosi 22.20%, przy asymetrii wolumenu Put/Call na poziomie 1.03. Brak danych o interakcjach wolumenowych (HVN) w bieżącym oknie czasowym. Układ wykazuje tendencję do wzrostowej akrecji w warunkach nocnej sesji futures, wspieranej przez dodatni przepływ agresywnego wolumenu.</p>
+<p>Log: 2026-10-27 21:59</p>
 <h3>🌌 [2026-10-27 21:29]</h3>
 <p>[TELEMETRIA - STATUS: FUTURES]<br />
 [Sonda NQ: 29798.75 | ADR: 104.20% | CVD: 28.07K (akumulacja)]<br />
