@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [M15: 2026-10-28](https://heniu.blog/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [H1: 2026-10-28](https://heniu.blog/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 - [M15: 2026-10-27](https://heniu.blog/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 - [H1: 2026-10-27](https://heniu.blog/h-log/hlog-2026-10-27/index.md) (2026-10-27)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0203: Cień nad Gwiazdą Matką: Rozdźwięk w Przepływie Energii](https://heniu.blog/posts/log-0203/index.md) (2026-10-15)
 - [Fundamenty #0006: Fastenal: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-15-0006/index.md) (2026-10-15)
 - [Fundamenty #0005: ASML: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-15-0005/index.md) (2026-10-15)
-- [Fundamenty #0004: Transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-15-0004/index.md) (2026-10-15)
 

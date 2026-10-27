@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [M15: 2026-10-28](https://heniu.blog/pt-br/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [H1: 2026-10-28](https://heniu.blog/pt-br/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 - [M15: 2026-10-27](https://heniu.blog/pt-br/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 - [H1: 2026-10-27](https://heniu.blog/pt-br/h-log/hlog-2026-10-27/index.md) (2026-10-27)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Log #0203: Sombra sobre a Estrela-Mãe: Divergência no Fluxo de Energia](https://heniu.blog/pt-br/posts/log-0203/index.md) (2026-10-15)
 - [Fundamentos #0006: Fastenal: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-15-0006/index.md) (2026-10-15)
 - [Fundamentos #0005: ASML: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-15-0005/index.md) (2026-10-15)
-- [Fundamentos #0004: Transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-15-0004/index.md) (2026-10-15)
 

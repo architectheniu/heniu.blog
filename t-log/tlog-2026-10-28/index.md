@@ -1,0 +1,19 @@
+# M15: 2026-10-28
+
+Data: 2026-10-28 00:29
+Adres: https://heniu.blog/t-log/tlog-2026-10-28/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 00:29]</h3>
+<p><strong>[T-LOG: 2026-10-28 00:29]</strong></p>
+<p><strong>STATUS: OPEN | TRYB: FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29845.50 (+0.11%). Odnotowano obalenie wsparcia HVN ekosystemu US100 na poziomie NDX 29650 (NQ ≈ 29813). Wektor Q-Score wynosi 15, co wskazuje na słabą, lecz dodatnią tendencję w kierunku wzrostowym. Bieżąca dynamika CVD dla Sondy NQ (189) klasyfikuje stan układu jako test popytu. ADR NQ wynosi 11.93%, co plasuje obecną zmięknienie powyżej średnich historycznych. W Sferze Dysona (opcje QQQ) obserwowana jest asymetria wolumenu z Put/Call Ratio na poziomie 1.03, przy zmienności (IV) wynoszącej 22.20%. Brak danych o aktywności TICKQ oraz masie galaktyki ze względu na tryb sesji Futures.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Układ znajduje się w fazie testowania popytu po obaleniu kluczowej zapory wsparcia. Brak rezonansu wektorów makro i mikro; sonda porusza się w górę, jednak po przełamaniu poziomu 29650, struktura wsparcia została naruszona. System wykazuje niską kinetykę (Q-Score 15), balansując na granicy neutralności.</p>
+<p><strong>Log: 2026-10-28 00:29</strong></p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 00:28 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
+
