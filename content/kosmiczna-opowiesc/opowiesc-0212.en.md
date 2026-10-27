@@ -9,6 +9,15 @@ architect_node: "https://www.linkedin.com/in/marcinmareklewandowski"
 project: "Heniu.blog"
 ---
 
+> ⚠️ **ERRATUM (2026-10-27)**
+> **The first version of this story described an outdated reading from the session close.** Alongside the current readings, old ones also reached Heniu at that time: with the current percentage change, but with an old price, flow and market breadth. We have corrected the numbers and states in parts I and II. The observer synthesis, which described the old reading, has been withdrawn.
+>
+> **Corrections:**
+> - NDX 29272.46 (+1.09%), flow (CVD) −114,75 M [panic], Q-Score -25, not 28961.08, 38,05 M [accumulation] and 20.
+> - NQ 29443.50 (+1.12%), flow 21,79 K [accumulation], not 29100.25 and −3,29 K [supply test].
+> - QQQ 712.12 (+1.11%), flow 2,85 M [market flare], not 704.45 and 1,44 M [accumulation].
+> - TICKQ -226.00 [market breakdown], SMA200 -26.25 [sell-off], not 437.00 [market flare] and -17.45 [supply test].
+
 > *A record of the session in Heniu's former cosmic style. The numbers come from the closing data, and the cosmic names are a costume: the NDX Star is the Nasdaq-100 index, the NQ Probe is the NQ futures contract, and the Dyson Sphere is the QQQ ETF.*
 
 ---
@@ -19,18 +28,18 @@ project: "Heniu.blog"
 **[SYSTEM REPORT: GHOSTWHEEL V6.0]**
 
 **I. REFERENCE SYSTEM STATE**
-- **the Central Star (NDX):** Brightness increasing to level 28961.08 (+1.09%). High energy density detection: fuel (CVD) at level 38,05 M [accumulation]. Force field stability (Q-Score): 20.
-- **the Battle Probe (NQ):** Performing a jump to orbit 29100.25 (+1.12%). Anomalous drive fluctuation noted: fuel (CVD) at level −3,29 K [supply test].
-- **the Dyson Sphere (QQQ):** Fortifications stable at level 704.45 (+1.11%). fuel (CVD) shows state [accumulation] at value 1,44 M.
+- **the Central Star (NDX):** Brightness increasing to level 29272.46 (+1.09%). Fuel (CVD) at level −114,75 M [panic]. Force field stability (Q-Score): -25.
+- **the Battle Probe (NQ):** Performing a jump to orbit 29443.50 (+1.12%). Fuel (CVD) at level 21,79 K [accumulation].
+- **the Dyson Sphere (QQQ):** Fortifications stable at level 712.12 (+1.11%). Fuel (CVD) shows state [market flare] at value 2,85 M.
 
 **II. RADIATION AND MASS ANALYSIS**
-- **Background Radiation (TICKQ):** Sudden radiation spike to 437.00 [market flare]. Average radiation (TICKQ SMA200) remains in the negative zone: -17.45 [supply test].
+- **Background Radiation (TICKQ):** Radiation at level -226.00 [market breakdown]. Average radiation (TICKQ SMA200) remains in the negative zone: -26.25 [sell-off].
 - **Galaxy Mass:** 41.56 T (Session accretion: +0.37 T).
 - **the Core Density:** 68.47% (Density increase: +2.30%).
 - **Composition Fluctuation (Class 0):** Emergence of a new singularity in the MU sector (growth above 1T).
 
 **III. OBSERVER SYNTHESIS**
-The system is in a phase of intensive accretion. the NDX Star and the Dyson Sphere (QQQ) are building energetic foundations through fuel accumulation, which translates into an increase in the brightness of the entire system. the NQ Probe, despite the price increase, emits supply test signals in the fuel, suggesting a divergence between warp speed and real energy flow. The broad market (TICKQ) shows a sudden flare, however, the average radiation (SMA200) still balances on the edge of a supply test, indicating a lack of full structural stabilization.
+*The observer synthesis in the first version described an outdated reading and has been withdrawn. The closing state is given in parts I and II and in the erratum at the top.*
 
 **[END OF LOG.]**
 
