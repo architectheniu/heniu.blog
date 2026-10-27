@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Data: 2026-10-27 06:08
+Data: 2026-10-27 07:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.27 [PT-BR]</h1>
+<h3>📈 [2026-10-27 07:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se nos contratos futuros NQ e nos dados de fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos:</strong> Os contratos NQ estão sendo negociados a um preço de 29384.50 (-0.18%), o que, com o fluxo acumulado (CVD) em -2,53 K, indica o teste da oferta. O indicador agregado de direção dos fluxos é -45, o que significa uma clara vantagem da distribuição de capital.</li>
+<li><strong>Análise da sessão à vista (fechamento):</strong> O Índice Nasdaq-100 (NDX) fechou em 29275.06 (+1.09%), no entanto, uma anomalia significativa nos fluxos foi observada: o CVD para o NDX foi de -114,75 M, o que, com o aumento do preço, sugere pressão de venda dentro da sessão. O ETF QQQ fechou a um preço de 712.12 (+1.11%) com um CVD positivo de 2,85 M.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 23.39%, e a relação Put/Call Volume é de 1.18, o que indica a dominância de posições de proteção (hedging) ou a expectativa de quedas. O intervalo de movimento esperado pelo mercado situa-se entre 703.04 – 721.36. O volume de opções foi de 7,674,981.</li>
+<li><strong>Níveis técnicos:</strong> O Recuo desde o pico do Heniu do dia 06.10 (31360.85) é de -6.65%, o que classifica o movimento atual como uma correção maior (acima da mediana das quedas históricas). A resistência mais próxima encontra-se na zona de nó de volume 29310–29330 (1.9% de volume), enquanto o suporte está localizado na zona 29090–29110 (1.4% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-27 07:07</p>
 <h3>📈 [2026-10-27 06:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
