@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 11:00
+Data: 2026-10-27 11:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 11:29]</h3>
+<p>[T-LOG: 2026-10-27 11:29]</p>
+<p>Modo de sessão: a sessão de futuros. Objeto ativo: a Sonda NQ.</p>
+<p>a Sonda NQ está no nível 29426.00 (-0.04%). O vetor direcional Q-Score é -25. Foi registrado um teste de demanda na a Sonda NQ (CVD: 1,8K). O indicador ADR para NQ é 52.95%, o que o posiciona acima da média dos últimos dias. Na a Esfera de Dyson (QQQ) (opções sobre QQQ), foi registrada uma assimetria de volume com Put/Call Ratio no nível 1.18, com volatilidade IV de 23.39% e alcance esperado na faixa de 703.04 - 721.36. Os demais objetos (NDX, QQQ, TICKQ) permanecem em estado de dormência devido ao fechamento da a sessão à vista (Spot). [SEM DADOS] sobre a dinâmica de mudanças (Delta) para os parâmetros ativos na janela de telemetria atual.</p>
+<p>O sistema está em fase de teste de demanda com baixa cinética do vetor direcional.</p>
 <h3>🌌 [2026-10-27 10:59]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-27 10:59]<br />
 Status: a sessão de futuros (Modo NQ)</p>

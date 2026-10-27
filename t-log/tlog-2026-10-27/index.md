@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 10:59
+Data: 2026-10-27 11:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 11:29]</h3>
+<p>[T-LOG: 2026-10-27 11:29]</p>
+<p>Tryb sesji: FUTURES. Aktywny obiekt: Sonda NQ.</p>
+<p>Sonda NQ znajduje się na poziomie 29426.00 (-0.04%). Wektor kierunkowy Q-Score wynosi -25. Odnotowano test popytu na Sonda NQ (CVD: 1,8K). Wskaźnik ADR dla NQ wynosi 52.95%, co pozycjonuje go powyżej średniej z ostatnich dni. W sferze Dysona (opcje na QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.18, przy zmienności IV wynoszącej 23.39% i oczekiwanym zasięgu w przedziale 703.04 - 721.36. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej. Brak danych o dynamice zmian (Delta) dla aktywnych parametrów w bieżącym oknie telemetrycznym.</p>
+<p>Układ w fazie testu popytu przy niskiej kinetyce wektora kierunkowego.</p>
 <h3>🌌 [2026-10-27 10:59]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-27 10:59]<br />
 Status: FUTURES (Tryb NQ)</p>
