@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 05:59
+Data: 2026-10-27 06:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 06:29]</h3>
+<p>[TELEMETRIA STATUS: FUTURES]<br />
+Sonda NQ: 29359.50 (-0.26%) | ADR: 40.66% | Q-Score: -45 (Delta: +0.0)</p>
+<p>Obiekt NQ znajduje się w stanie testu podaży (CVD: -3,08K). Wektor kierunkowy Q-Score utrzymuje się na poziomie -45, co przy braku zmiany w dynamice krótkoterminowej wskazuje na stabilizację obecnego reżimu. Zmienność w Sferze Dysona (IV) wynosi 23.39%, przy asymetrii wolumenu Put/Call na poziomie 1.18. ADR Sonda NQ jest obecnie powyżej średnich historycznych, co sygnalizuje podwyższoną energię układu. Brak danych o aktywności obiektów NDX, QQQ oraz TICKQ ze względu na tryb sesji Futures. Nie odnotowano nowych zdarzeń wolumenowych (HVN) w bieżącym oknie czasowym.</p>
+<p>Układ w fazie testu podaży przy niskiej kinetyce wektorów.</p>
 <h3>🌌 [2026-10-27 05:59]</h3>
 <p>[T-LOG: 2026-10-27 05:59]</p>
 <p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
