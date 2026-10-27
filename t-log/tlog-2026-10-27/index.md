@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 17:29
+Data: 2026-10-27 17:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,24 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 17:44]</h3>
+<p>[T-LOG: 2026-10-27 17:44]</p>
+<p><strong>STATUS: SPOT | TRYB: SESJA KASOWA</strong></p>
+<p><strong>ANALIZA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX (Jądro):</strong> Cena 29637.17, CVD 57.38M [akumulacja].<br />
+- <strong>Sonda NQ (Wektor):</strong> Cena 29798.50, ADR 103.19% (powyżej średniej), CVD 33.42K [akumulacja].<br />
+- <strong>Satelita QQQ (Sfera):</strong> Cena 720.87, CVD 1.22M [akumulacja].<br />
+- <strong>Promieniowanie Tła (TICKQ):</strong> -296.00 [załamanie rynku]. Średnia SMA200: -24.18 [wyprzedaż].</p>
+<p><strong>DYNAMIKA UKŁADU:</strong><br />
+- <strong>Q-Score:</strong> 18 (Wektor dodatni, niska amplituda).<br />
+- <strong>Sfera Dysona (Opcje):</strong> IV 22.02%, P/C Ratio 0.93.<br />
+- <strong>Masa Galaktyki:</strong> 42.06 T (Delta: -0.07 T).<br />
+- <strong>Średnia Akcja:</strong> $303.93 (Delta: -0.61 USD) – koszyk wykazuje tendencję kurczenia się.<br />
+- <strong>Gęstość Jądra:</strong> 68.5% (Delta: -0.0%).</p>
+<p><strong>DIAGNOSTYKA KINEMATYCZNA:</strong><br />
+W układzie występuje silne Rozwarstwienie (Cross-Asset Divergence). Podczas gdy kluczowe instrumenty (NDX, NQ, QQQ) wykazują zsynchronizowaną akumulację i dodatni wektor kierunkowy, Szeroka Giełda (TICKQ) znajduje się w stanie głębokiego załamania rynku. Ta asymetria wskazuje na wzrost strukturalnie "pusty" – agresywny popyt jest skoncentrowany w wąskim jądrze (indeksach), podczas gdy szeroki rynek poddaje się wyprzedaży. Układ znajduje się w stanie grawitacyjnego napięcia między silną akumulacją liderów a masową realizacją w mniejszych komponentach.</p>
+<p><strong>KONKLUZJA:</strong><br />
+Dysonans wektorów: Akumulacja skoncentrowana przy jednoczesnym załamaniu szerokości rynku.</p>
 <h3>🌌 [2026-10-27 17:29]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-27 17:29]<br />
 Status: OPEN | Tryb: SPOT</p>
