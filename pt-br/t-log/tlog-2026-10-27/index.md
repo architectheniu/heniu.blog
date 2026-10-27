@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 13:30
+Data: 2026-10-27 13:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 13:59]</h3>
+<p>[T-LOG: 2026-10-27 13:59]</p>
+<p><strong>STATUS: MODO FUTUROS (Sonda NQ ativa)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29612.00 (+0.59%). O vetor de direção (Q-Score) mostra uma tendência negativa no nível -25. A leitura de CVD para a Sonda NQ é de 11,42K, o que classifica o estado do sistema como acumulação. O valor de ADR NQ é de 59.85%, o que situa o alcance atual abaixo da média dos últimos dias. Na Esfera de Dyson (QQQ) (opções sobre QQQ), foi registrada volatilidade (IV) no nível de 23.39%, com uma assimetria de volume Put/Call de 1.18. Os objetos NDX, QQQ e a Radiação de Fundo (TICKQ) permanecem em estado de dormência (a sessão à vista (Spot) está fechada). Ausência de dados sobre eventos de volume (HVN) no fluxo atual.</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+Dissonância de vetores: apesar da pressão positiva de volume agressivo (acumulação de CVD), o vetor de mercado geral (Q-Score) permanece negativo. Sistema em fase de teste de resistência, mantendo simultaneamente uma dinâmica direcional negativa.</p>
 <h3>🌌 [2026-10-27 13:29]</h3>
 <p><strong>[LOG: 2026-10-27 13:29]</strong></p>
 <p><strong>STATUS: FUTURES (NQ-ONLY)</strong></p>

@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 13:29
+Data: 2026-10-27 13:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 13:59]</h3>
+<p>[T-LOG: 2026-10-27 13:59]</p>
+<p><strong>STATUS: TRYB FUTURES (Sonda NQ aktywna)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29612.00 (+0.59%). Wektor kierunku (Q-Score) wykazuje ujemną tendencję na poziomie -25. Odczyt CVD dla Sondy NQ wynosi 11,42K, co klasyfikuje stan układu jako akumulację. Wartość ADR NQ wynosi 59.85%, co sytuuje bieżący zasięg poniżej średniej z ostatnich dni. W sferze Dysona (opcje na QQQ) odnotowano zmienność (IV) na poziomie 23.39%, przy asymetrii wolumenu Put/Call wynoszącej 1.18. Obiekty NDX, QQQ oraz radiacja TICKQ pozostają w stanie uśpienia (sesja kasowa zamknięta). Brak danych o zdarzeniach wolumenowych (HVN) w bieżącym strumieniu.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Dysonans wektorów: mimo dodatniej presji agresywnego wolumenu (akumulacja CVD), ogólny wektor rynkowy (Q-Score) pozostaje ujemny. Układ w fazie testowania oporu przy jednoczesnym zachowaniu negatywnej dynamiki kierunkowej.</p>
 <h3>🌌 [2026-10-27 13:29]</h3>
 <p><strong>[LOG: 2026-10-27 13:29]</strong></p>
 <p><strong>STATUS: FUTURES (NQ-ONLY)</strong></p>
