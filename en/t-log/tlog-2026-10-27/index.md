@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Date: 2026-10-27 07:30
+Date: 2026-10-27 07:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.27 [EN]</h1>
+<h3>🌌 [2026-10-27 07:59]</h3>
+<p>[T-LOG: 2026-10-27 07:59]<br />
+SESSION MODE: FUTURES (Active object: the NQ Probe)</p>
+<p>the NQ Probe is currently at 29319.25 (-0.40%). The direction vector (Q-Score) is -45, which means a sustained negative motion vector. A supply test was recorded at a CVD level of -3.1K, confirming selling side aggression on a micro-scale. The ADR value for the NQ Probe is 48.48%, situating current volatility above historical averages. In the Dyson Sphere (QQQ Options), volume asymmetry is observed with a Put/Call Ratio at 1.18, with volatility (IV) at 23.39% and an expected range in the 703.04 – 721.36 interval. Other objects (NDX, QQQ, TICKQ) remain in a state of dormancy (no current radiation).</p>
+<p>The system is in a supply testing phase with negative Q-Score vector kinetics.</p>
 <h3>🌌 [2026-10-27 07:29]</h3>
 <p>[T-LOG: 2026-10-27 07:29]</p>
 <p><strong>STATUS: FUTURES SESSION MODE (NQ AND ACTIVE OPTIONS)</strong></p>
