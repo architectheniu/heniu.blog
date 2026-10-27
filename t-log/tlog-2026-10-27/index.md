@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 20:59
+Data: 2026-10-27 21:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 21:29]</h3>
+<p>[TELEMETRIA - STATUS: FUTURES]<br />
+[Sonda NQ: 29798.75 | ADR: 104.20% | CVD: 28.07K (akumulacja)]<br />
+[Q-Score: 15 | IV: 22.26%]</p>
+<p>Log: 2026-10-27 21:29</p>
+<p>W systemie odnotowano aktywne operacje na Sonda NQ przy cenie 29798.75, co stanowi wzrost o 1.23% względem poprzedniego odczytu. W sektorze Futures zaobserwowano powstanie i natychmiastowe obalenie zapory HVN na poziomie NDX 29650 (NQ ≈ 29813) – węzeł został przebity w górę o 21:01, lecz o 21:11 nastąpiło jego złamanie w dół, co wskazuje na wysoką niestabilność lokalnej struktury wolumenowej. Bieżący wektor rynkowy (Q-Score) wynosi 15, utrzymując układ w płytkiej dodatniej dywergencji. Presja agresywnego wolumenu (CVD) na poziomie 28.07K potwierdza stan akumulacji wewnątrz Sondy NQ. Wartość ADR (104.20%) znajduje się powyżej średniej, wskazując na zwiększoną amplitudę ruchu w bieżącym cyklu. W Sferze Dysona (opcje QQQ) obserwowana jest neutralna asymetria wolumenu z Put/Call Ratio na poziomie 1.02 przy zmienności IV 22.26%. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej.</p>
+<p>[DIAGNOZA: Układ w fazie wysokiej turbulencji wokół węzła HVN; brak stabilnej akrecji.]</p>
 <h3>🌌 [2026-10-27 20:59]</h3>
 <p>[ZDARZENIA VOLUMENOWE (HVN)]<br />
 Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29670 (NQ ≈ 29829).</p>
