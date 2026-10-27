@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 02:29
+Data: 2026-10-27 02:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 02:59]</h3>
+<p><strong>Log: 2026-10-27 02:59</strong></p>
+<p><strong>STATUS: FUTUROS (APENAS NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29513.75 (+0.26%). Durante a sessão atual, foram registrados eventos de volume abruptos: primeiro o rompimento da barreira HVN do ecossistema US100 no nível NDX 29330 (NQ ≈ 29494), seguido de sua derrubada imediata no mesmo nível. O estado atual do sistema mostra um vetor direcional negativo de Q-Score (-45). A pressão do combustível (CVD) para a Sonda NQ é de -281, o que classifica o estado como um teste de oferta. O indicador ADR NQ é de 31.13%, o que o situa acima da média dos últimos dias. Na Esfera de Dyson (opções QQQ), registrou-se assimetria de volume com Put/Call Ratio no nível de 1.18 com volatilidade IV de 23.39%. Os dados relativos à Massa da Galáxia (NDX, QQQ) e à Radiação de Fundo (TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot).</p>
+<p><strong>DIAGNÓSTICO: Consolidação em torno da barreira após rejeição abrupta; falta de ressonância clara de vetores.</strong></p>
 <h3>🌌 [2026-10-27 02:29]</h3>
 <p>[T-LOG: 2026-10-27 02:29]</p>
 <p><strong>STATUS: FUTURES (NQ ONLY)</strong></p>

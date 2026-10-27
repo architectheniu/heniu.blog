@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 02:29
+Data: 2026-10-27 02:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 02:59]</h3>
+<p><strong>Log: 2026-10-27 02:59</strong></p>
+<p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29513.75 (+0.26%). W trakcie bieżącej sesji odnotowano gwałtowne zdarzenia wolumenowe: najpierw przebicie zapory HVN ekosystemu US100 na poziomie NDX 29330 (NQ ≈ 29494), po czym nastąpiło jej natychmiastowe obalenie na tym samym poziomie. Obecny stan układu wykazuje ujemny wektor kierunkowy Q-Score (-45). Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -281, co klasyfikuje stan jako test podaży. Wskaźnik ADR NQ wynosi 31.13%, co sytuuje go powyżej średniej z ostatnich dni. W Sferze Dysona (opcje QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.18 przy zmienności IV wynoszącej 23.39%. Dane dotyczące Masy Galaktyki (NDX, QQQ) oraz Promieniowania Tła (TICKQ) pozostają w uśpieniu ze względu na zamknięcie rynku kasowego.</p>
+<p><strong>DIAGNOZA: Konsolidacja wokół zapory po gwałtownym odrzuceniu; brak wyraźnego rezonansu wektorów.</strong></p>
 <h3>🌌 [2026-10-27 02:29]</h3>
 <p>[T-LOG: 2026-10-27 02:29]</p>
 <p><strong>STATUS: FUTURES (NQ ONLY)</strong></p>
