@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Date: 2026-10-27 08:07
+Date: 2026-10-27 09:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.27 [EN]</h1>
+<h3>📈 [2026-10-27 09:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market and instrument status:</strong> The cash session (Spot) is currently closed. Active trading is occurring on NQ contracts, priced at 29362.00 (-0.26%), with cumulative flow (CVD) indicating testing of supply at the -1,02 K level. The market flow direction indicator is -45, signifying a dominance of capital distribution.</li>
+<li><strong>the cash session (Spot) analysis (closed):</strong> The NDX index closed the session at 29273.40 (+1.09%), however, a significant anomaly in flows was noted: despite the price increase, the cumulative flow (CVD) for NDX was -307,14 M, indicating strong intra-session selling pressure. The QQQ ETF ended the session with a result of +1.11% (price 712.12) and a positive flow of 2,85 M.</li>
+<li><strong>Correction context and technical levels:</strong> The current drawdown from Heniu's peak on 06.10 (31360.85) is -6.66% (-2087 pts). This is a deeper move than 57% of historical corrections in the analyzed period. The nearest resistance (volume node) is located in the 29310–29330 zone (1.9% volume), and support in the 29090–29110 zone (1.4% volume).</li>
+<li><strong>Options on QQQ market:</strong> Implied volatility (IV) is 23.39%, and the Put/Call ratio (PCR) at the 1.18 level suggests a dominance of hedging positions or anticipation of declines. The market-expected price range for QQQ falls between 703.04 and 721.36 with an options volume of 7,674,981.</li>
+</ul>
+<p>H-Log Report: 2026-10-27 09:07</p>
 <h3>📈 [2026-10-27 08:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
