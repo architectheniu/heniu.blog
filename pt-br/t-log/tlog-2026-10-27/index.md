@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 08:59
+Data: 2026-10-27 09:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 09:29]</h3>
+<p>[T-LOG: 2026-10-27 09:29]</p>
+<p>Modo de sessão: a sessão de futuros. Sistema em estado de dormência para objetos à vista (NDX, QQQ, TICKQ).</p>
+<p>a Sonda NQ: Preço 29380.00 (-0.19%). ADR NQ: 52.95% (acima da média).<br />
+CVD NQ: 23 [teste de demanda].<br />
+Q-Score: -25 (Delta: +20.0).</p>
+<p>a Esfera de Dyson (Opções sobre QQQ): IV 23.39%. Alcance esperado: 703.04 – 721.36. Put/Call Ratio: 1.18.</p>
+<p>Análise cinética: O vetor Q-Score mostra um delta positivo (+20.0), o que sugere uma tentativa de reversão de direção, porém o valor absoluto permanece na zona negativa. a Sonda NQ mostra baixa atividade de volume (Vol: 3,23 K) com um teste simultâneo de demanda no CVD. Falta de ressonância entre o vetor direcional e a agressão de volume.</p>
+<p>Sistema em fase de baixa energia com tentativa de teste de demanda em condições de liquidez limitada.</p>
+<p><strong>Alarmes de fluxo do Log anterior:</strong> 09:00 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-27 08:59]</h3>
 <p>[TELEMETRIA: MODO FUTUROS - APENAS SONDA NQ]</p>
 <p>a Sonda NQ encontra-se atualmente no nível 29312.00 (-0.43%). O vetor direcional Q-Score é de -45. Os dados de pressão de combustível (CVD) para a Sonda NQ mostram um valor de -3.02K, o que classifica o estado atual como um teste de oferta. O ADR NQ é de 52.95%, o que posiciona a atividade atual acima da média. Na Esfera de Dyson (opções QQQ), registrou-se uma volatilidade IV de 23.39% com um Put/Call Ratio de 1.18, o que indica assimetria de volume em direção aos contratos Put. Outros objetos (NDX, TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot). Ausência de dados sobre eventos de volume (HVN) na janela telemétrica atual.</p>
