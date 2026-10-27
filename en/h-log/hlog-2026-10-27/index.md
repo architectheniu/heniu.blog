@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Date: 2026-10-27 17:08
+Date: 2026-10-27 18:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.27 [EN]</h1>
+<h3>📈 [2026-10-27 18:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is rising by 1.22% to the level of 29629.72, with the cumulative flow (CVD) for NDX being 65.05 M shares, which indicates a strong increase in capital inflow. NQ futures (+1.20%) and QQQ ETF (+1.19%) show signs of accumulation, confirming the positive direction of movement. The aggregate flow direction indicator is 23, which means a moderate advantage of capital inflow into the market.</li>
+<li><strong>Broad market and options analysis:</strong> The TICKQ indicator is -23.00, which, with a SMA200 average at -18.34, indicates the presence of selling pressure in the broad equity market despite index increases. In the QQQ options market, volume reached 4,394,999, with implied volatility (IV) at a level of 22.02%. The Put/Call Ratio is 0.95, suggesting a move toward neutral sentiment and a lack of extreme bearish bias. The market-expected movement range for QQQ lies within the range of 715.07 to 728.84.</li>
+<li><strong>Correction context and technical levels:</strong> The current drawdown from the peak of 06.10 (31360.85) is -5.52% (-1731 pts) and has lasted for 15 sessions. This is a larger correction, deeper than 57% of historical corrections in the database. The nearest resistance is located in the volume node zone of 29650–29670 (1.9% volume), while the nearest support is the zone of 29570–29590 (2.5% volume).</li>
+</ul>
+<p>H-Log Report: 2026-10-27 18:07</p>
 <h3>📈 [2026-10-27 17:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
