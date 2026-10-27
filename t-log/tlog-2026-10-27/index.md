@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 16:14
+Data: 2026-10-27 16:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 16:29]</h3>
+<p><strong>STATUS: SPOT | TRYB: PEŁNA AKCJA KASOWA</strong></p>
+<p>System odnotował gwałtowne zdarzenia wolumenowe w strefie 29100 - 29330 (NDX), gdzie doszło do obalenia potężnych zapór wsparcia HVN. Mimo tego uderzenia, aktualna cena Sondy NQ wynosi 29772.25, co przy ADR na poziomie 85.58% wskazuje na wysoką dynamikę sesji. Gwiazda NDX wykazuje stan "wystrzału rynku" (CVD: 62,66M), podczas gdy Sonda NQ znajduje się w fazie "akumulacji" (CVD: 29,8K), a Satelita QQQ wykazuje "akumulację" (CVD: 1,13M). Szeroka Giełda Nasdaq (TICKQ) raportuje "wystrzał rynku" (328.00), utrzymując się powyżej średniej radiacji (SMA200: -32.47). Wektor kierunkowy (Q-Score) wynosi 33. Masa Galaktyki wzrosła do 42.01 T (Delta: +0.04 T), przy Średniej Akcji wynoszącej $303.59 (Delta: +0.41 USD), co świadczy o ekspansji koszyka. Sfera Dysona wykazuje asymetrię wolumenu Put/Call na poziomie 0.85 przy IV 22.23%. Dane wskazują na wysoką synchronizację wektorów wzrostowych między NDX, NQ i QQQ, tworząc rezonans kinetyczny po przebiciu wcześniejszych stref oporu.</p>
+<p><strong>DIAGNOSTYKA: Pełna akrecja układu z wysoką energią kinetyczną.</strong></p>
+<p>Log: 2026-10-27 16:29</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 16:27 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-27 16:14]</h3>
 <p>[T-LOG: 2026-10-27 16:14]</p>
 <p><strong>STATUS: SPOT | TRYB: PEŁNA SESJA KASOWA</strong></p>
