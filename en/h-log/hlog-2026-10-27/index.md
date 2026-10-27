@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Date: 2026-10-27 15:08
+Date: 2026-10-27 16:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.27 [EN]</h1>
+<h3>📈 [2026-10-27 16:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is rising by 1.02% to the level of 29570.91, with cumulative flow CVD at the level of 53.15 M (accumulation). NQ futures contracts show an increase of 1.00% (price 29731.50) with CVD of 24.9 K (accumulation). QQQ ETF is rising by 0.99% (price 719.25), which with CVD of 834.08 K indicates testing of demand. The flow direction indicator is 20, which means a moderate advantage of capital inflow.</li>
+<li><strong>Broad market and sentiment:</strong> The TICKQ indicator is 92.00, which with the SMA200 average at the level of -35.26 indicates strong purchasing power in the broad Nasdaq market.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 22.34%, and options volume is 2 190 764 contracts. Put/Call Volume Ratio at the level of 0.86 suggests moderate sentiment, with a slight advantage of long positions (call). The expected range of movement for QQQ is in the range from 707.58 to 723.02.</li>
+<li><strong>Technical context and levels:</strong> The ongoing Drawdown from Heniu's peak from 06.10 (31360.85) is currently -5.71% (-1790 pts). This is a correction of a larger nature (above the median of historical corrections). Key volume nodes: the nearest resistance is located in the 29650–29670 zone (1.9% volume), while support is in the 29520–29540 zone (2.0% volume). The current price is in the high volume zone 29570–29590.</li>
+</ul>
+<p>H-Log Report: 2026-10-27 16:07</p>
 <h3>📈 [2026-10-27 15:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
