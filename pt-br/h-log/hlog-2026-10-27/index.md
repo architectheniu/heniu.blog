@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Data: 2026-10-27 20:09
+Data: 2026-10-27 22:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.27 [PT-BR]</h1>
+<h3>📈 [2026-10-27 fechamento]</h3>
+<p><strong>H-LOG: Resumo da sessão à vista (Spot)</strong></p>
+<p>Este é o resumo da sessão à vista (Spot) de 2026-10-27. O Índice Nasdaq-100 (NDX) fechou em 29653.58, o que representa um aumento de 1.29%, com CVD em 12,67 M e consumo de ADR de 91.80%. O Contrato futuro NQ atingiu o fechamento de 29812.75 (+1.28%) com CVD de 28,79 K e consumo de ADR em 104.20%. O ETF QQQ encerrou a sessão em 721.24 (+1.27%), gerando CVD de 1,14 M e consumo de ADR de 91.43%. O indicador TICKQ fechou em 117.00 com SMA200 de 5.46, e foi registrada uma Anomalia MOC de +3,43 M.</p>
+<p>Relatório H-Log: resumo da sessão 2026-10-27</p>
 <h3>📈 [2026-10-27 20:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
