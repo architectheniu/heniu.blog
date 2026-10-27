@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 18:29
+Data: 2026-10-27 18:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 18:44]</h3>
+<p>[T-LOG: 2026-10-27 18:44]</p>
+<p>Tryb sesji: SPOT. Układ znajduje się w fazie silnej akrecji. Gwiazda NDX wykazuje status "wystrzału rynku" przy CVD na poziomie 66,89M. Sonda NQ (Cena: 29810.25) wykazuje akumulację (CVD: 39,37K), a Satelita QQQ potwierdza ten trend stanem akumulacji (CVD: 1,6M). Szeroka Giełda Nasdaq (TICKQ) raportuje "wystrzał rynku" przy wartości 228.00, pozostając powyżej średniej radiacji SMA200 (-11.79). Q-Score wynosi 23, co wskazuje na dodatni wektor kierunkowy. W Sferze Dysona IV wynosi 21.90%, przy Put/Call Ratio na poziomie 1.00. Masa Galaktyki wynosi 42.06 T (Delta: +0.03 T), a Średnia Akcja to $304.13 (Delta: +0.12 USD), co oznacza rozszerzanie się koszyka. ADR dla kluczowych obiektów jest powyżej średniej. Wektory mikro i makro wykazują tendencję do synchronizacji, budując spójny impuls wzrostowy.</p>
+<p>Układ w fazie silnej, zsynchronizowanej akrecji.</p>
+<p>Log: 2026-10-27 18:44</p>
 <h3>🌌 [2026-10-27 18:29]</h3>
 <p>[T-LOG: 2026-10-27 18:29]<br />
 STATUS: OPEN | TRYB: SPOT</p>
