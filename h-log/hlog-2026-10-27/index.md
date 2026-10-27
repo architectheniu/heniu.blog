@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Data: 2026-10-27 22:07
+Data: 2026-10-27 23:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.27</h1>
+<h3>📈 [2026-10-27 23:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Kontrakty NQ i przepływy:</strong> Kontrakty NQ notowane są po cenie 29799.50 (-0.04%), przy ujemnym przepływie skumulowanym (CVD) na poziomie -805, co wskazuje na test podaży w bieżącej sesji. Zbiorczy wskaźnik kierunku przepływów wynosi -5, co oznacza lekką przewagę dystrybucji kapitału.</li>
+<li><strong>Kontekst sesji kasowej (NDX/QQQ):</strong> Na zamknięciu sesji kasowej indeks NDX odnotował wzrost o +1.29% (cena 29653.58) z silnym napływem kapitału (CVD NDX = 12,67 M), podczas gdy ETF QQQ wykazał akumulację (CVD 1,14 M) przy wzroście o +1.27%.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 21.84%, a wskaźnik Put/Call Volume Ratio na poziomie 1.03 sugeruje lekką przewagę opcji sprzedaży, co może wskazywać na budowanie zabezpieczeń (hedgingu). Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 714.93 do 727.57.</li>
+<li><strong>Poziomy techniczne:</strong> Bieżąca korekta od szczytu z 06.10 (-5.44%) kwalifikuje się jako większa korekta względem historycznych danych. Najbliższe strefy wsparcia (węzły wolumenu) znajdują się w przedziale 29570–29590 (2.5% wolumenu), natomiast najbliższy opór to strefa 29740–29760 (1.3% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-10-27 23:07</p>
 <h3>📈 [2026-10-27 zamknięcie]</h3>
 <p><strong>H-LOG: Podsumowanie sesji kasowej</strong></p>
 <p>Jest to podsumowanie sesji kasowej (Spot) z 2026-10-27. Indeks NDX zamknął się na poziomie 29653.58, co stanowi wzrost o 1.29%, przy CVD na poziomie 12,67 M i zużyciu ADR wynoszącym 91.80%. Kontrakt NQ osiągnął zamknięcie 29812.75 (+1.28%) z CVD 28,79 K i zużyciem ADR na poziomie 104.20%. ETF QQQ zakończył sesję przy wartości 721.24 (+1.27%), generując CVD 1,14 M oraz zużycie ADR 91.43%. Wskaźnik TICKQ zamknął się na poziomie 117.00 przy SMA200 wynoszącym 5.46, a odnotowano anomalię MOC w wysokości +3,43 M.</p>
