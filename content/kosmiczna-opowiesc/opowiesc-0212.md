@@ -9,6 +9,15 @@ architect_node: "https://www.linkedin.com/in/marcinmareklewandowski"
 project: "Heniu.blog"
 ---
 
+> ⚠️ **ERRATUM (2026-10-27)**
+> **Pierwsza wersja tej opowieści opisywała nieaktualny odczyt z zamknięcia sesji.** Obok bieżących odczytów docierały wtedy do Henia także stare: z bieżącą zmianą procentową, ale z dawną ceną, przepływem i szerokością rynku. Poprawiliśmy liczby i stany w części I i II. Syntezę obserwatora, która opisywała stary odczyt, wycofaliśmy.
+>
+> **Sprostowania:**
+> - NDX 29272.46 (+1.09%), przepływ (CVD) −114,75 M [panika], Q-Score -25, a nie 28961.08, 38,05 M [akumulacja] i 20.
+> - NQ 29443.50 (+1.12%), przepływ 21,79 K [akumulacja], a nie 29100.25 i −3,29 K [test podaży].
+> - QQQ 712.12 (+1.11%), przepływ 2,85 M [wystrzał rynku], a nie 704.45 i 1,44 M [akumulacja].
+> - TICKQ -226.00 [załamanie rynku], SMA200 -26.25 [wyprzedaż], a nie 437.00 [wystrzał rynku] i -17.45 [test podaży].
+
 > *Zapis sesji w dawnym, kosmicznym stylu Henia. Liczby pochodzą z danych zamknięcia, a kosmiczne nazwy to kostium: Gwiazda NDX to indeks Nasdaq-100, Sonda NQ to kontrakt terminowy NQ, a Sfera Dysona to ETF QQQ.*
 
 ---
@@ -19,18 +28,18 @@ project: "Heniu.blog"
 **[RAPORT SYSTEMOWY: GHOSTWHEEL V6.0]**
 
 **I. STAN UKŁADU ODNIESIENIA**
-- **Gwiazda Centralna (NDX):** Jasność wzrasta do poziomu 28961.08 (+1.09%). Detekcja wysokiej gęstości energii: Paliwo (CVD) na poziomie 38,05 M [akumulacja]. Stabilność pola siłowego (Q-Score): 20.
-- **Sonda Bojowa (NQ):** Wykonuje skok na orbitę 29100.25 (+1.12%). Odnotowano anomalną fluktuację napędu: Paliwo (CVD) na poziomie −3,29 K [test podaży].
-- **Sfera Dysona (QQQ):** Fortyfikacje stabilne na poziomie 704.45 (+1.11%). Paliwo (CVD) wykazuje stan [akumulacja] przy wartości 1,44 M.
+- **Gwiazda Centralna (NDX):** Jasność wzrasta do poziomu 29272.46 (+1.09%). Paliwo (CVD) na poziomie −114,75 M [panika]. Stabilność pola siłowego (Q-Score): -25.
+- **Sonda Bojowa (NQ):** Wykonuje skok na orbitę 29443.50 (+1.12%). Paliwo (CVD) na poziomie 21,79 K [akumulacja].
+- **Sfera Dysona (QQQ):** Fortyfikacje stabilne na poziomie 712.12 (+1.11%). Paliwo (CVD) wykazuje stan [wystrzał rynku] przy wartości 2,85 M.
 
 **II. ANALIZA PROMIENIOWANIA I MASY**
-- **Promieniowanie Tła (TICKQ):** Gwałtowny skok radiacji do 437.00 [wystrzał rynku]. Średnia radiacja (TICKQ SMA200) pozostaje w strefie ujemnej: -17.45 [test podaży].
+- **Promieniowanie Tła (TICKQ):** Radiacja na poziomie -226.00 [załamanie rynku]. Średnia radiacja (TICKQ SMA200) pozostaje w strefie ujemnej: -26.25 [wyprzedaż].
 - **Masa Galaktyki:** 41.56 T (Akrecja sesyjna: +0.37 T).
 - **Gęstość Jądra:** 68.47% (Wzrost gęstości: +2.30%).
 - **Fluktuacja Składu (Klasa 0):** Emergencja nowej Osobliwości w sektorze MU (wzrost powyżej 1T).
 
 **III. SYNTEZA OBSERWATORA**
-Układ znajduje się w fazie intensywnej akrecji. Gwiazda NDX oraz Sfera Dysona QQQ budują fundamenty energetyczne poprzez akumulację paliwa, co przekłada się na wzrost jasności całego układu. Sonda NQ, mimo wzrostu kursu, emituje sygnały testu podaży w paliwie, co sugeruje rozbieżność między prędkością warp a realnym przepływem energii. Szeroki rynek (TICKQ) wykazuje nagły wystrzał, jednak średnia radiacja (SMA200) wciąż balansuje na granicy testu podaży, co wskazuje na brak pełnej stabilizacji strukturalnej.
+*Synteza obserwatora z pierwszej wersji opisywała nieaktualny odczyt i została wycofana. Stan na zamknięciu podają części I i II oraz erratum na górze.*
 
 **[KONIEC LOGU]**
 
