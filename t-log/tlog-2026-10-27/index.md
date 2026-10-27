@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 23:29
+Data: 2026-10-27 23:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 23:59]</h3>
+<p>[T-LOG: 2026-10-27 23:59]<br />
+[STATUS: FUTURES - TRYB NOCNY]</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29819.75. Wektor kierunkowy Q-Score wynosi -5, co wskazuje na utrzymującą się dominację presji podażowej w układzie. Odczyt CVD dla Sondy NQ wynosi -567, co klasyfikuje bieżący stan jako test podaży. Wartość ADR NQ osiągnęła poziom 9.15%, co sytuuje dynamikę w zakresie wysokiej zmienności. W Sferze Dysona (opcje QQQ) zmienność IV wynosi 22.20%, przy asymetrii wolumenu Put/Call na poziomie 1.03. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej. Brak danych telemetrycznych dla parametrów makro (Masa Galaktyki, Średnia Akcja) w bieżącym reżimie pracy.</p>
+<p>Układ w fazie testowania podaży przy wysokiej zmienności.</p>
 <h3>🌌 [2026-10-27 23:29]</h3>
 <p>[T-LOG: 2026-10-27 23:29]</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29825.50 (+0.05%), przy ADR wynoszącym 7.95%. W ciągu ostatnich 30 minut odnotowano intensywną wymianę w strefie zapór HVN ekosystemu US100 na poziomie 29650 (NQ ≈ 29813), gdzie nastąpiło dwukrotne zdobycie i obalenie bariery. Wektor kierunkowy Q-Score wykazuje lekkie ujemne nachylenie na poziomie -5. Dane CVD dla Sondy NQ wskazują na wartość -556, co klasyfikuje obecny stan jako test podaży. Sfera Dysona (opcje na QQQ) wykazuje zmienność IV na poziomie 21.84% przy asymetrii wolumenu Put/Call wynoszącej 1.03. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na tryb sesji FUTURES. Brak danych o wektorach kinetycznych dla tego interwału w strumieniu telemetrycznym.</p>
