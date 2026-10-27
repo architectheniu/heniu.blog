@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0023: Company filings: Meta Platforms, Space Exploration Technologies; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-27-0023/index.md) (2026-10-27)
 - [H1: 2026-10-27](https://heniu.blog/en/h-log/hlog-2026-10-27/index.md) (2026-10-27)
 - [M15: 2026-10-27](https://heniu.blog/en/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 - [M15: 2026-10-26](https://heniu.blog/en/t-log/tlog-2026-10-26/index.md) (2026-10-26)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [H1: 2026-10-14](https://heniu.blog/en/h-log/hlog-2026-10-14/index.md) (2026-10-14)
 - [M15: 2026-10-14](https://heniu.blog/en/t-log/tlog-2026-10-14/index.md) (2026-10-14)
 - [Log #0202: Gravity Decay and the Fuel Paradox](https://heniu.blog/en/posts/log-0202/index.md) (2026-10-14)
-- [Fundamentals #0003: Insider transactions](https://heniu.blog/en/f-log/flog-2026-10-14-0003/index.md) (2026-10-14)
 

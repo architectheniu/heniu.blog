@@ -1,0 +1,15 @@
+# Fundamentos #0023: Arquivos de empresas: Meta Platforms, Space Exploration Technologies; transações de insiders
+
+Data: 2026-10-27 10:11
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-27-0023/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+registro de shelf S-3ASR (Documento: S-3ASR; Data de submissão (hora EUA): 26.10). formulário 424B5 (Documento: 424B5; Data de submissão (hora EUA): 26.10). formulário 424B5 (Documento: 424B5; Data de submissão (hora EUA): 26.10). materiais de oferta FWP (Documento: FWP; Data de submissão (hora EUA): 26.10).
+
+8-K: 8.01 outros eventos (Documento: 8-K 8.01; Data de submissão (hora EUA): 26.10; Conteúdo 8-K 8.01 (outro evento): citação (EN): „On October 24, 2026, Space Exploration Technologies Corp. (the “Company”) entered into a binding commitment letter to enter into a master finance lease with an entity managed by Apollo Global Management, Inc. (such entity, the “Lessor”), pursuant to which the Lessor will acquire and lease to the Company certain…”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/0001104659-26-118614-index.htm).
+
+Insiders venderam ações por 19,4 mi USD, incluindo 19,0 mi USD de planos 10b5-1; compras no mercado totalizaram 0,1 mi USD. A maior venda foi reportada por insiders da Intuitive Surgical (ISRG): 11,9 mi USD. A segunda maior venda foi reportada por insiders da Lam Research (LRCX): 7,1 mi USD.
+
