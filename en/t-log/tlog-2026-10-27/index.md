@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Date: 2026-10-27 03:29
+Date: 2026-10-27 03:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.27 [EN]</h1>
+<h3>🌌 [2026-10-27 03:59]</h3>
+<p>[T-LOG: 2026-10-27 03:59]</p>
+<p><strong>STATUS: THE FUTURES SESSION (ONLY NQ)</strong></p>
+<p>the NQ Probe is currently at 29423.25 (-0.05%), showing a slight downward correction. During the last session, violent activity was recorded in the HVN barrier zone: first an upside breakout of the NDX 29330 barrier (NQ ≈ 29494), followed by its immediate collapse (downside breakout) at the same level. Current volume dynamics indicate a supply test (CVD NQ: -1,71K). The system direction vector (Q-Score) is strongly negative at -45. Volatility in the Dyson Sphere (QQQ) (IV) oscillates at 23.39%, with a Put/Call volume asymmetry of 1.18. ADR NQ remains at 31.13%. No data on galaxy mass activity or Background Radiation (TICKQ) due to the Futures session mode.</p>
+<p><strong>DIAGNOSIS: Consolidation around the collapsed barrier with dominance of supply pressure.</strong></p>
 <h3>🌌 [2026-10-27 03:29]</h3>
 <p>[T-LOG: 2026-10-27 03:29]</p>
 <p><strong>Status: FUTURES (NQ Probe mode active)</strong></p>

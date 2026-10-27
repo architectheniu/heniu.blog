@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 03:29
+Data: 2026-10-27 03:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 03:59]</h3>
+<p>[T-LOG: 2026-10-27 03:59]</p>
+<p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29423.25 (-0.05%), wykazując lekką korektę w dół. W ciągu ostatniej sesji odnotowano gwałtowną aktywność w strefie zapór HVN: najpierw przebicie w górę bariery NDX 29330 (NQ ≈ 29494), a następnie jej natychmiastowe obalenie (przebicie w dół) na tym samym poziomie. Bieżąca dynamika wolumenu wskazuje na test podaży (CVD NQ: -1,71K). Wektor kierunku układu (Q-Score) jest silnie ujemny i wynosi -45. Zmienność w Sferze Dysona (IV) oscyluje na poziomie 23.39%, przy asymetrii wolumenu Put/Call wynoszącej 1.18. ADR NQ utrzymuje się na poziomie 31.13%. Brak danych o aktywności mas galaktyki oraz promieniowania tła ze względu na tryb sesji Futures.</p>
+<p><strong>DIAGNOZA: Konsolidacja wokół obalonej zapory z dominacją presji podażowej.</strong></p>
 <h3>🌌 [2026-10-27 03:29]</h3>
 <p>[T-LOG: 2026-10-27 03:29]</p>
 <p><strong>Status: FUTURES (Tryb NQ aktywny)</strong></p>

@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 03:29
+Data: 2026-10-27 03:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 03:59]</h3>
+<p>[T-LOG: 2026-10-27 03:59]</p>
+<p><strong>STATUS: FUTUROS (APENAS NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29423.25 (-0.05%), exibindo uma leve correção para baixo. Durante a última sessão, foi observada uma atividade intensa na zona de barreiras HVN: primeiro o rompimento para cima da barreira NDX 29330 (NQ ≈ 29494), seguido pelo seu derrubamento imediato (rompimento para baixo) no mesmo nível. A dinâmica atual de volume indica um teste de oferta (CVD NQ: -1,71K). O vetor de direção do sistema (Q-Score) é fortemente negativo e é de -45. A volatilidade na Esfera de Dyson (IV) oscila no nível de 23.39%, com uma assimetria de volume Put/Call de 1.18. O ADR NQ mantém-se no nível de 31.13%. [SEM DADOS] sobre a atividade das massas da galáxia e a Radiação de Fundo (TICKQ) devido ao modo da sessão de futuros.</p>
+<p><strong>DIAGNÓSTICO: Consolidação em torno da barreira derrubada com dominância de pressão de oferta.</strong></p>
 <h3>🌌 [2026-10-27 03:29]</h3>
 <p>[T-LOG: 2026-10-27 03:29]</p>
 <p><strong>Status: FUTURES (Modo NQ ativo)</strong></p>
