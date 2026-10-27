@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 04:29
+Data: 2026-10-27 04:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 04:59]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-10-27 04:59]<br />
+Status: FUTURES (NQ)</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29445.50, wykazując minimalną zmianę ceny (+0.03%). Wektor Q-Score wykazuje silne ujemne odchylenie i wynosi -45, co oznacza regresję względem poprzednich odczytów. Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -953, co klasyfikuje obecny stan jako test podaży. Wskaźnik ADR NQ jest na poziomie 36.84%, co sytuuje go powyżej średniej z ostatnich sesji. W Sferze Dysona (opcje QQQ) zmienność IV wynosi 23.39%, a asymetria wolumenu (Put/Call Ratio) kształtuje się na poziomie 1.18. Brak aktywności w pozostałych sektorach (NDX, TICKQ) ze względu na tryb sesji Futures.</p>
+<p>Log: 2026-10-27 04:59</p>
 <h3>🌌 [2026-10-27 04:29]</h3>
 <p>[T-LOG: 2026-10-27 04:29]</p>
 <p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
