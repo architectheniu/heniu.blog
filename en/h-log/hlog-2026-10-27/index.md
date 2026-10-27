@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Date: 2026-10-27 16:08
+Date: 2026-10-27 17:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.27 [EN]</h1>
+<h3>📈 [2026-10-27 17:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The NDX index is 29694.30 (+1.44%) with a cumulative flow CVD at the level of 74,79 M, which indicates a strong inflow of capital (market flare). NQ futures (29856.25, +1.42%) and QQQ ETF (722.30, +1.42%) show accumulation. The aggregate flow direction indicator is 23, which confirms positive sentiment and the dominance of capital inflow. Nasdaq market breadth (TICKQ) is at the level of 413.00, significantly above the SMA200 average (-25.09).</p>
+</li>
+<li>
+<p><strong>QQQ options analysis:</strong> Implied volatility (IV) is 22.10%, and the Put/Call ratio (PCR) is 0.91. With an options volume of 3,300,088, the market is pricing the expected range of movement between 712.05 and 726.61. The PCR level suggests moderate balance with a slight advantage for the buying side.</p>
+</li>
+<li>
+<p><strong>Correction context and technical levels:</strong> The current drawdown from the peak of 06.10 (31360.85) is -5.31% (-1667 pts) and has lasted 15 sessions. This is a correction deeper than 57% of previous movements in the system memory, which classifies it as a larger correction. The nearest technical zones are support in the 29650–29670 range (1.9% volume) and resistance in the 29740–29760 range (1.3% volume).</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-10-27 17:07</p>
 <h3>📈 [2026-10-27 16:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>

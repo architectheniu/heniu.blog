@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Data: 2026-10-27 16:08
+Data: 2026-10-27 17:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.27 [PT-BR]</h1>
+<h3>📈 [2026-10-27 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de mercado e fluxos:</strong> O Índice NDX está em 29694.30 (+1.44%) com o fluxo acumulado CVD no nível de 74,79 M, o que indica uma forte entrada de capital (disparo do mercado). Os Contratos NQ (29856.25, +1.42%) e o ETF QQQ (722.30, +1.42%) mostram acumulação. O indicador agregado de direção de fluxo é 23, o que confirma o sentimento positivo e a predominância da entrada de capital. A Amplitude de mercado (TICKQ) está no nível de 413.00, significativamente acima da média SMA200 (-25.09).</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 22.10%, e a relação Put/Call (PCR) é de 0.91. Com um volume de opções de 3,300,088, o mercado precifica o alcance esperado do movimento na faixa de 712.05 a 726.61. O nível de PCR sugere um equilíbrio moderado com uma leve vantagem para o lado comprador.</p>
+</li>
+<li>
+<p><strong>Contexto de correção e níveis técnicos:</strong> O Recuo desde o pico do dia 06.10 (31360.85) é de -5.31% (-1667 pts) e dura 15 sessões. Esta é uma correção mais profunda do que 57% dos movimentos anteriores na memória do sistema, o que a classifica como uma correção maior. As zonas técnicas mais próximas são suporte na faixa de 29650–29670 (1.9% de volume) e resistência na faixa de 29740–29760 (1.3% de volume).</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-10-27 17:07</p>
 <h3>📈 [2026-10-27 16:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
