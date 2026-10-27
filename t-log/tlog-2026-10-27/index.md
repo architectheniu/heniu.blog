@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 12:29
+Data: 2026-10-27 12:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 12:59]</h3>
+<p>[T-LOG: 2026-10-27 12:59]</p>
+<p>STATUS: TRYB FUTURES (NQ-ONLY). Obiekty NDX, QQQ oraz TICKQ znajdują się w stanie uśpienia; brak radiacji z rynku kasowego.</p>
+<p>Sonda NQ: Cena 29548.75 (+0.38%). Wektor Q-Score wynosi -25, co wskazuje na utrzymujący się ujemny wektor kierunkowy układu. Ciśnienie paliwa (CVD) na poziomie 6,56K klasyfikuje obecny stan jako [test popytu]. ADR NQ wynosi 57.08%, co plasuje obecną zmienność poniżej średniej dziennej. Sfera Dysona (Opcje na QQQ) wykazuje IV na poziomie 23.39% przy asymetrii wolumenu Put/Call wynoszącej 1.18.</p>
+<p>Brak korelacji między wektorem ceny a wektorem Q-Score sugeruje lokalny dysonans wewnątrz sondy. Brak danych o aktywności makro (NDX/QQQ) uniemożliwia ocenę synchronizacji międzysektorowej.</p>
+<p>Diagnostyka: Układ w fazie testowania popytu w warunkach ujemnego wektora kierunkowego; brak potwierdzenia rezonansu kinetycznego.</p>
+<p>Log: 2026-10-27 12:59</p>
 <h3>🌌 [2026-10-27 12:29]</h3>
 <p><strong>[T-LOG: 2026-10-27 12:29]</strong></p>
 <p><strong>STATUS: FUTURES (TRYB NOCNY)</strong></p>
