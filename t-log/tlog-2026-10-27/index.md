@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 18:44
+Data: 2026-10-27 18:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 18:59]</h3>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p>Układ znajduje się w fazie gwałtownej akrecji, napędzanej przez potężny impuls z Gwiazdy NDX, gdzie CVD na poziomie 61,19M wywołało stan "wystrzału rynku". Sonda NQ oscyluje wokół 29784.75, wykazując "akumulację" (CVD: 36,75K), podczas gdy Satelita QQQ również potwierdza ten reżim poprzez "akumulację" (CVD: 1,42M). Wektor Q-Score wynosi 33, co wskazuje na dodatnią, choć jeszcze nie dominującą, presję kierunkową. Szeroka Giełda (TICKQ) raportuje -5.00 ("test podaży"), co przy średniej SMA200 na poziomie -10.64 (STATUS: ABOVE) sugeruje, że mimo lokalnego testu podaży, szeroki rynek pozostaje powyżej długoterminowych ekstremów ujemnych.</p>
+<p>Masa Galaktyki wynosi 42.04 T (Delta: -0.02 T), a Średnia Akcja w koszyku to $303.90 (Delta: -0.23 USD), co oznacza, że gęstość jądra pozostaje stabilna (68.5%), lecz sam koszyk wykazuje tendencję do lekkiego kurczenia się. Zmienność w Sferze Dysona (IV) wynosi 21.93%, przy Put/Call Ratio na poziomie 1.01, co wskazuje na niemal pełną równowagę między wolumenem zabezpieczeń a premią. ADR dla kluczowych obiektów jest obecnie poniżej średnich historycznych (90.25% - 103.19%).</p>
+<p><strong>DIAGNOZA: Kinetyczna rezonans wektorów makro i mikro; układ w fazie silnej, asymetrycznej akrecji z dominacją Gwiazdy Matki.</strong></p>
 <h3>🌌 [2026-10-27 18:44]</h3>
 <p>[T-LOG: 2026-10-27 18:44]</p>
 <p>Tryb sesji: SPOT. Układ znajduje się w fazie silnej akrecji. Gwiazda NDX wykazuje status "wystrzału rynku" przy CVD na poziomie 66,89M. Sonda NQ (Cena: 29810.25) wykazuje akumulację (CVD: 39,37K), a Satelita QQQ potwierdza ten trend stanem akumulacji (CVD: 1,6M). Szeroka Giełda Nasdaq (TICKQ) raportuje "wystrzał rynku" przy wartości 228.00, pozostając powyżej średniej radiacji SMA200 (-11.79). Q-Score wynosi 23, co wskazuje na dodatni wektor kierunkowy. W Sferze Dysona IV wynosi 21.90%, przy Put/Call Ratio na poziomie 1.00. Masa Galaktyki wynosi 42.06 T (Delta: +0.03 T), a Średnia Akcja to $304.13 (Delta: +0.12 USD), co oznacza rozszerzanie się koszyka. ADR dla kluczowych obiektów jest powyżej średniej. Wektory mikro i makro wykazują tendencję do synchronizacji, budując spójny impuls wzrostowy.</p>
