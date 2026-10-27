@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 13:59
+Data: 2026-10-27 14:14
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.27 [PT-BR]</h1>
+<h3>🌌 [2026-10-27 14:14]</h3>
+<p>[T-LOG: 2026-10-27 14:14]</p>
+<p><strong>STATUS: MODO FUTUROS (APENAS SONDA NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29555.75 (+0.40%). O vetor de direção (Q-Score) mostra dinâmica negativa, caindo para o nível -35 (Delta: -10.0). Foi registrado um teste de demanda no fluxo de volume (CVD NQ: 6,96 K). O valor de ADR para a Sonda NQ é de 59.85%, o que a coloca abaixo da média dos últimos dias. Na Esfera de Dyson (opções QQQ), registrou-se uma assimetria de volume Put/Call no nível 0.85, com volatilidade (IV) de 0.00% e alcance esperado na faixa de 703.04 a 721.36. Os demais objetos (NDX, QQQ, TICKQ) permanecem em dormência; [SEM DADOS] para os parâmetros de massa e Radiação de Fundo (TICKQ).</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+Dissonância de vetores: a demanda agressiva no CVD (teste de demanda) não encontra reflexo no vetor de direção (Q-Score), que permanece negativo. O sistema está em fase de busca por um ponto de equilíbrio com baixa cinética.</p>
+<p>Log: 2026-10-27 14:14</p>
 <h3>🌌 [2026-10-27 13:59]</h3>
 <p>[T-LOG: 2026-10-27 13:59]</p>
 <p><strong>STATUS: MODO FUTUROS (Sonda NQ ativa)</strong></p>

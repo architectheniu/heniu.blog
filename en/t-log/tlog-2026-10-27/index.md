@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Date: 2026-10-27 13:59
+Date: 2026-10-27 14:14
 URL: https://heniu.blog/en/t-log/tlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.27 [EN]</h1>
+<h3>🌌 [2026-10-27 14:14]</h3>
+<p>[T-LOG: 2026-10-27 14:14]</p>
+<p><strong>STATUS: FUTURES SESSION MODE (NQ PROBE ONLY)</strong></p>
+<p>The NQ Probe is currently at 29555.75 (+0.40%). The direction vector (Q-Score) shows negative dynamics, dropping to -35 (Delta: -10.0). A demand test was noted in the volume flow (CVD NQ: 6,96 K). The ADR value for the NQ Probe is 59.85%, placing it below the average of recent days. In the Dyson Sphere (QQQ options), a Put/Call volume asymmetry was noted at 0.85, with volatility (IV) at 0.00% and an expected range between 703.04 and 721.36. Other objects (NDX, QQQ, TICKQ) remain in dormancy; [NO DATA] for mass and Background Radiation (TICKQ) parameters.</p>
+<p><strong>SYSTEM DIAGNOSTICS:</strong><br />
+Vector dissonance: aggressive demand in CVD (demand test) is not reflected in the direction vector (Q-Score), which remains negative. The system is in a phase of searching for an equilibrium point with low kinetics.</p>
+<p>Log: 2026-10-27 14:14</p>
 <h3>🌌 [2026-10-27 13:59]</h3>
 <p>[T-LOG: 2026-10-27 13:59]</p>
 <p><strong>STATUS: FUTURES SESSION MODE (the NQ Probe active)</strong></p>
