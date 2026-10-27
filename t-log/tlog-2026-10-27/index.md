@@ -1,6 +1,6 @@
 # M15: 2026-10-27
 
-Data: 2026-10-27 14:59
+Data: 2026-10-27 15:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,22 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.27</h1>
+<h3>🌌 [2026-10-27 15:14]</h3>
+<p><strong>[T-LOG: 2026-10-27 15:14]</strong></p>
+<p><strong>Status układu:</strong> SPOT. Sesja kasowa aktywna.</p>
+<p><strong>Analiza Obiektów:</strong><br />
+- <strong>Sonda NQ:</strong> Cena 29532.25. CVD: 4,42K [test popytu]. ADR: 70.21%.<br />
+- <strong>Gwiazda NDX:</strong> Cena 29372.32. CVD: 19,06M [test popytu].<br />
+- <strong>Satelita QQQ:</strong> Cena 714.45. CVD: 117,43K [test popytu].<br />
+- <strong>Szeroka Giełda (TICKQ):</strong> 109.00 [akumulacja]. Średnia SMA200: -33.76 [wyprzedaż]. Status: ABOVE.<br />
+- <strong>Sfera Dysona (Opcje):</strong> IV 22.75%. Put/Call Ratio: 0.76.</p>
+<p><strong>Dynamika i Zdarzenia:</strong><br />
+W strefie górnych poziomów odnotowano intensywną wymianę wolumenową (HVN) – przebito zapory ekosystemu US100 na poziomach NDX 29100 oraz 29330 (odpowiednio NQ ≈ 29257 i 29487). Masa Galaktyki wynosi 41.68 T (Delta: -0.05 T). Średnia Akcja w koszyku wynosi $301.18 (Delta: -0.48 USD), co wskazuje na kurczenie się wartości notionalnej układu. Q-Score wynosi 0, co sygnalizuje brak dominującego wektora kierunkowego w obecnym punkcie pomiarowym.</p>
+<p><strong>Kinematyka:</strong><br />
+Mimo przebicia zapór HVN, wektory popytu na wszystkich trzech głównych obiektach (NDX, NQ, QQQ) pozostają w fazie "testu popytu", co przy jednoczesnej akumulacji na TICKQ sugeruje próbę budowy bazy pod nową strukturę. Brak jednak wyraźnej synchronizacji sił (Kinetic Resonance) – wzrosty cenowe nie idą w parze z silną agresją CVD, co może wskazywać na pasywną absorpcję lub brak wystarczającej masy paliwa do trwałego wypchnięcia układu w fazę euforii.</p>
+<p><strong>Diagnostyka:</strong><br />
+Układ w fazie testowania nowych poziomów przy niskiej agresji agresywnego wolumenu. Konsolidacja wokół świeżo zdobytych zapór.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:00 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-27 14:59]</h3>
 <p>[T-LOG: 2026-10-27 14:59]</p>
 <p><strong>STATUS: SPOT</strong><br />
