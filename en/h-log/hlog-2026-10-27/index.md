@@ -1,6 +1,6 @@
 # H1: 2026-10-27
 
-Date: 2026-10-27 05:08
+Date: 2026-10-27 06:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.27 [EN]</h1>
+<h3>📈 [2026-10-27 06:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>the cash session (Spot) is currently closed. Trading is taking place on NQ futures contracts, priced at 29426.00 (-0.04%), with cumulative flow (CVD) at -1,64 K, indicating testing of supply.</li>
+<li>The aggregate flow direction indicator is -45, meaning an advantage of capital distribution in the market.</li>
+<li>Analysis of Options on QQQ at a volume of 7 674 981 indicates a dominance of bearish positions (Put/Call Ratio = 1.18). With implied volatility (IV) at 23.39%, the market is pricing the expected range of movement between 703.04 and 721.36.</li>
+<li>The current Drawdown from Heniu's peak from 06.10 (31360.85) is -6.65% (-2086 pts). This is a correction greater than 57% of historical cases in the current cycle.</li>
+<li>Key technical levels: the nearest support zone (volume node) is in the 29090–29110 range, while the resistance zone is 29310–29330.</li>
+</ul>
+<p>H-Log Report: 2026-10-27 06:07</p>
 <h3>📈 [2026-10-27 05:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
