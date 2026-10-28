@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 11:59
+Date: 2026-10-28 12:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 12:29]</h3>
+<p>[ACTIVE TELEMETRY - FUTURES SESSION MODE]</p>
+<p>the NQ Probe: 29918.25 (+0.36%) | ADR: 35.14% (above average) | CVD: 3.07K [demand test] | Q-Score: 15 [Delta: +0.0]</p>
+<p>the NQ Probe object shows current activity in the demand test zone, with volume aggression (CVD) at a level of 3.07K. The system is in a low kinetic energy phase, with a Q-Score of 15, indicating a weak but positive directional vector. the Dyson Sphere (QQQ options) reports IV at 22.20% with a Put/Call asymmetry of 1.03, suggesting similar pressure between hedging volume and premium. Other instruments (NDX, TICKQ) remain in a dormant state due to the close of the cash session (Spot). No volume event (HVN) data in the current stream.</p>
+<p>System in a low amplitude phase with demand testing on futures contracts.</p>
+<p>Log: 2026-10-28 12:29</p>
 <h3>🌌 [2026-10-28 11:59]</h3>
 <p>[TELEMETRY: FUTURES MODE - NQ ONLY]</p>
 <p>NQ Probe: 29942.25 (+0.44%).<br />

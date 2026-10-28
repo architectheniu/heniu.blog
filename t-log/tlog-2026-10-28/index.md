@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 11:59
+Data: 2026-10-28 12:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 12:29]</h3>
+<p>[TELEMETRIA AKTYWNA - TRYB FUTURES]</p>
+<p>Sonda NQ: 29918.25 (+0.36%) | ADR: 35.14% (powyżej średniej) | CVD: 3.07K [test popytu] | Q-Score: 15 [Delta: +0.0]</p>
+<p>Obiekt NQ wykazuje obecną aktywność w strefie testu popytu, z agresją wolumenową (CVD) na poziomie 3.07K. System znajduje się w fazie niskiej energii kinetycznej, przy Q-Score wynoszącym 15, co wskazuje na słaby, ale dodatni wektor kierunkowy. Sfera Dysona (opcje QQQ) raportuje IV na poziomie 22.20% przy asymetrii Put/Call wynoszącej 1.03, co sugeruje zbliżoną presję między wolumenem ubezpieczeń a premią. Pozostałe instrumenty (NDX, TICKQ) pozostają w stanie uśpienia z powodu zamknięcia sesji kasowej. Brak danych o zdarzeniach wolumenowych (HVN) w bieżącym strumieniu.</p>
+<p>Układ w fazie niskiej amplitudy z testowaniem popytu na kontraktach futures.</p>
+<p>Log: 2026-10-28 12:29</p>
 <h3>🌌 [2026-10-28 11:59]</h3>
 <p>[TELEMETRIA: TRYB FUTURES - TYLKO NQ]</p>
 <p>Sonda NQ: 29942.25 (+0.44%).<br />

@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 11:59
+Data: 2026-10-28 12:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 12:29]</h3>
+<p>[TELEMETRIA ATIVA - MODO FUTUROS]</p>
+<p>a Sonda NQ: 29918.25 (+0.36%) | ADR: 35.14% (acima da média) | CVD: 3.07K [teste de demanda] | Q-Score: 15 [Delta: +0.0]</p>
+<p>O objeto NQ exibe atividade atual na zona de teste de demanda, com agressão de volume (CVD) no nível de 3.07K. O sistema encontra-se em uma fase de baixa energia cinética, com um Q-Score de 15, o que indica um vetor direcional fraco, porém positivo. a Esfera de Dyson (opções QQQ) reporta IV no nível de 22.20% com uma assimetria Put/Call de 1.03, sugerindo uma pressão similar entre o volume de proteção e o prêmio. Os demais instrumentos (NDX, TICKQ) permanecem em estado de dormência devido ao fechamento da a sessão à vista (Spot). Ausência de dados sobre eventos de volume (HVN) no fluxo atual.</p>
+<p>Sistema em fase de baixa amplitude com teste de demanda nos contratos futuros.</p>
+<p>Log: 2026-10-28 12:29</p>
 <h3>🌌 [2026-10-28 11:59]</h3>
 <p>[TELEMETRIA: MODO FUTUROS - APENAS NQ]</p>
 <p>a Sonda NQ: 29942.25 (+0.44%).<br />
