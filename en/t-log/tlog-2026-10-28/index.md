@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 20:29
+Date: 2026-10-28 20:44
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 20:44]</h3>
+<p>[TELEMETRY DATA - 2026-10-28 20:44]<br />
+Status: OPEN | Session Mode: SPOT</p>
+<p><strong>OBJECT ANALYSIS:</strong><br />
+- <strong>the NDX Star</strong>: Price 29756.15 | CVD 12,74M [demand test]<br />
+- <strong>the NQ Probe</strong>: Price 29913.50 | CVD -19,56K [sell-off]<br />
+- <strong>QQQ Satellite</strong>: Price 723.80 | CVD -1,63M [sell-off]<br />
+- <strong>TICKQ (Market Breadth)</strong>: 420.00 [market flare] | SMA200: 18.79 [demand test]</p>
+<p><strong>LOG: 2026-10-28 20:44</strong></p>
+<p>The system is operating in SPOT mode. the NDX Star shows a demand test with CVD at the level of 12,74M, while the NQ Probe (29913.50) is in a sell-off phase with a CVD reading of -19,56K. The QQQ Satellite confirms this vector, reporting a sell-off of -1,63M strength. There is a clear Cross-Asset Divergence: despite the positive dynamics of the Star, the Probe and Satellite show negative pressure from aggressive volume. Market breadth (TICKQ) shows a sudden market flare (420.00), which stands in stark contrast to the negative dynamics of the derivatives and the Probe. Galaxy Mass is 42.08 T (+0.08 T), and the Average Action is $306.89 (Delta: +0.93 USD), indicating a slight expansion of the basket. Q-Score remains at a low level of 5. Volatility (IV) in the Dyson Sphere (QQQ) is 21.60% with a Put/Call Ratio of 1.09.</p>
+<p><strong>Status: Vector divergence; asymmetry between market breadth and aggression on index instruments.</strong></p>
 <h3>🌌 [2026-10-28 20:29]</h3>
 <p><strong>[T-LOG: 2026-10-28 20:29]</strong></p>
 <p><strong>STATUS: OPEN | MODE: SPOT</strong></p>

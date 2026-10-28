@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 20:29
+Data: 2026-10-28 20:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 20:44]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-10-28 20:44]<br />
+Status: OPEN | Tryb Sesji: SPOT</p>
+<p><strong>ANALIZA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX</strong>: Cena 29756.15 | CVD 12,74M [test popytu]<br />
+- <strong>Sonda NQ</strong>: Cena 29913.50 | CVD -19,56K [wyprzedaż]<br />
+- <strong>Satelita QQQ</strong>: Cena 723.80 | CVD -1,63M [wyprzedaż]<br />
+- <strong>TICKQ (Szeroka Giełda)</strong>: 420.00 [wystrzał rynku] | SMA200: 18.79 [test popytu]</p>
+<p><strong>LOG: 2026-10-28 20:44</strong></p>
+<p>System operuje w trybie SPOT. Gwiazda NDX wykazuje test popytu przy CVD na poziomie 12,74M, podczas gdy Sonda NQ (29913.50) znajduje się w fazie wyprzedaży z odczytem CVD -19,56K. Satelita QQQ potwierdza ten wektor, raportując wyprzedaż o sile -1,63M. Występuje wyraźne rozwarstwienie układu (Cross-Asset Divergence): mimo dodatniej dynamiki Gwiazdy, Sonda i Satelita wykazują ujemną presję agresywnego wolumenu. Szeroka Giełda (TICKQ) wykazuje gwałtowny wystrzał rynku (420.00), co stoi w jaskrawym kontraście do negatywnej dynamiki instrumentów pochodnych i Sondy. Masa Galaktyki wynosi 42.08 T (+0.08 T), a Średnia Akcja to $306.89 (Delta: +0.93 USD), co wskazuje na lekkie rozszerzanie się koszyka. Q-Score utrzymuje się na niskim poziomie 5. Zmienność (IV) w Sferze Dysona wynosi 21.60% przy Put/Call Ratio 1.09.</p>
+<p><strong>Status: Rozwarstwienie wektorów; asymetria między szerokością rynku a agresją na instrumentach indeksowych.</strong></p>
 <h3>🌌 [2026-10-28 20:29]</h3>
 <p><strong>[T-LOG: 2026-10-28 20:29]</strong></p>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>

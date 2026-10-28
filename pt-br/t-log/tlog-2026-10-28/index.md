@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 20:30
+Data: 2026-10-28 20:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 20:44]</h3>
+<p>[DADOS TELEMÉTRICOS - 2026-10-28 20:44]<br />
+Status: OPEN | Modo de Sessão: a sessão à vista (Spot)</p>
+<p><strong>ANÁLISE DE OBJETOS:</strong><br />
+- <strong>a Estrela NDX</strong>: Preço 29756.15 | CVD 12,74M [teste de demanda]<br />
+- <strong>a Sonda NQ</strong>: Preço 29913.50 | CVD -19,56K [liquidação]<br />
+- <strong>Satelite QQQ</strong>: Preço 723.80 | CVD -1,63M [liquidação]<br />
+- <strong>TICKQ (Amplitude de mercado)</strong>: 420.00 [disparo do mercado] | SMA200: 18.79 [teste de demanda]</p>
+<p><strong>LOG: 2026-10-28 20:44</strong></p>
+<p>O sistema opera no modo a sessão à vista (Spot). a Estrela NDX mostra um teste de demanda com CVD no nível de 12,74M, enquanto a Sonda NQ (29913.50) encontra-se em fase de liquidação com leitura de CVD de -19,56K. O Satélite QQQ confirma este vetor, reportando uma liquidação de força -1,63M. Ocorre uma clara divergência de ativos (Cross-Asset Divergence): apesar da dinâmica positiva da Estrela, a Sonda e o Satélite mostram pressão negativa de volume agressivo. A Amplitude de mercado (TICKQ) mostra um disparo repentino do mercado (420.00), o que está em forte contraste com a dinâmica negativa dos derivativos e da Sonda. A Massa da Galáxia é de 42.08 T (+0.08 T), e a Ação Média é de $306.89 (Delta: +0.93 USD), indicando uma leve expansão da cesta. O Q-Score mantém-se em um nível baixo de 5. A volatilidade (IV) na a Esfera de Dyson (QQQ) é de 21.60% com Put/Call Ratio de 1.09.</p>
+<p><strong>Status: Divergência de vetores; assimetria entre a amplitude de mercado e a agressão nos instrumentos de índice.</strong></p>
 <h3>🌌 [2026-10-28 20:29]</h3>
 <p><strong>[T-LOG: 2026-10-28 20:29]</strong></p>
 <p><strong>STATUS: OPEN | MODO: SPOT</strong></p>
