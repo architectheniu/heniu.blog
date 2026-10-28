@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Date: 2026-10-28 13:07
+Date: 2026-10-28 14:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.28 [EN]</h1>
+<h3>📈 [2026-10-28 14:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status and flows:</strong> the cash session (Spot) is currently closed. In the futures session, NQ futures contracts are trading at 29927.00 (+0.39%), with cumulative flow (CVD) at 2,99 K, indicating a demand test. The aggregate flow direction indicator is 15, meaning a weak capital inflow advantage.</li>
+<li><strong>Price level analysis:</strong> the Nasdaq-100 index (NDX) is currently in the middle of a larger Drawdown from Heniu's peak from 06.10 (31360.85), which amounts to -5.44% (-1707 pkt). The price oscillates around the volume node in the 29640–29660 zone (2.6% volume). The nearest significant support is in the 29560–29580 zone (2.4% volume), while resistance is in the 29740–29760 zone (1.2% volume).</li>
+<li><strong>QQQ options market:</strong> With an options volume of 9,999 and a Put/Call Ratio at 1.11, the market shows a slight advantage in hedging positions (put). The market-expected range of movement within volatility is from 711.44 to 731.06 points. Implied volatility (IV) is 0.00%.</li>
+</ul>
+<p>H-Log Report: 2026-10-28 14:07</p>
 <h3>📈 [2026-10-28 13:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong>. the cash session (Spot) is currently closed.</p>
