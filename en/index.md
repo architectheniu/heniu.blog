@@ -6,8 +6,8 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
-- [Fundamentals #0029: Old Dominion Freight Line: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0029/index.md) (2026-10-28)
 - [M15: 2026-10-28](https://heniu.blog/en/t-log/tlog-2026-10-28/index.md) (2026-10-28)
+- [Fundamentals #0029: Old Dominion Freight Line: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0029/index.md) (2026-10-28)
 - [Fundamentals #0028: PayPal: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0028/index.md) (2026-10-28)
 - [Fundamentals #0027: Baker Hughes: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0027/index.md) (2026-10-28)
 - [Fundamentals #0026: NXP Semiconductors: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0026/index.md) (2026-10-28)
