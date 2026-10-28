@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 19:08
+Data: 2026-10-28 20:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.28 [PT-BR]</h1>
+<h3>📈 [2026-10-28 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de preços e fluxos:</strong> O Índice NDX está em 29711.82 (+0.20%), com o fluxo acumulado (CVD) no nível de 9,97 M, o que indica o teste de demanda no mercado à vista. No entanto, observa-se uma divergência com os contratos NQ (29863.00, +0.18%, CVD -14,3 K) e o ETF QQQ (722.68, +0.20%, CVD -1,32 M), onde predominam as liquidações. O indicador de direção de fluxo é -8, o que significa uma leve vantagem na distribuição de capital. A Amplitude de mercado (TICKQ) encontra-se em uma zona de forte pressão de oferta no nível de -468.00.</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 21.52%, e o Put/Call Volume Ratio está no nível de 1.11, o que sugere um aumento na atividade na área de proteção (hedging) contra quedas. Com um volume de opções de 3,421,725, o alcance de movimento esperado pelo mercado situa-se no intervalo de 714.00 a 731.06 pontos.</p>
+</li>
+<li>
+<p><strong>Contexto de correção e níveis técnicos:</strong> A correção atual desde o pico de 06.10 (31360.85) é de -5.26% (-1649 pts). Este é um movimento mais profundo do que 57% das correções registradas até agora na memória do sistema, o que classifica a situação atual como uma correção maior. Os níveis chave mais próximos são o suporte na zona de 29640–29660 (2.6% de volume) e a resistência na zona de 29740–29760 (1.2% de volume).</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-10-28 20:07</p>
 <h3>📈 [2026-10-28 19:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>

@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Date: 2026-10-28 19:07
+Date: 2026-10-28 20:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.28 [EN]</h1>
+<h3>📈 [2026-10-28 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Price situation and flows:</strong> The NDX index is 29711.82 (+0.20%), with cumulative flow (CVD) at the level of 9,97 M, indicating testing of demand in the cash market. However, a divergence is noted with NQ futures contracts (29863.00, +0.18%, CVD -14,3 K) and QQQ ETF (722.68, +0.20%, CVD -1,32 M), where sell-offs dominate. The flow direction indicator is -8, meaning a slight advantage of capital distribution. Market breadth (TICKQ) is in a zone of strong supply pressure at the level of -468.00.</p>
+</li>
+<li>
+<p><strong>QQQ options analysis:</strong> Implied volatility (IV) is 21.52%, and the Put/Call Volume Ratio is shaped at the level of 1.11, which suggests increased activity in the hedging area against declines. With an options volume of 3,421,725, the market-expected movement range lies within the interval from 714.00 to 731.06 points.</p>
+</li>
+<li>
+<p><strong>Correction context and technical levels:</strong> The current drawdown from the peak of 06.10 (31360.85) is -5.26% (-1649 pts). This is a deeper move than 57% of previous corrections recorded in the system's memory, which classifies the current situation as a larger correction. The nearest key levels are support in the 29640–29660 zone (2.6% volume) and resistance in the 29740–29760 zone (1.2% volume).</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-10-28 20:07</p>
 <h3>📈 [2026-10-28 19:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>

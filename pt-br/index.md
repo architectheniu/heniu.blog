@@ -6,13 +6,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-10-28](https://heniu.blog/pt-br/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 - [M15: 2026-10-28](https://heniu.blog/pt-br/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [Fundamentos #0029: Old Dominion Freight Line: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0029/index.md) (2026-10-28)
 - [Fundamentos #0028: PayPal: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0028/index.md) (2026-10-28)
 - [Fundamentos #0027: Baker Hughes: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0027/index.md) (2026-10-28)
 - [Fundamentos #0026: NXP Semiconductors: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0026/index.md) (2026-10-28)
 - [Fundamentos #0025: Seagate Technology Holdings PLC: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0025/index.md) (2026-10-28)
-- [H1: 2026-10-28](https://heniu.blog/pt-br/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 - [Fundamentos #0024: Relatórios de empresas: Broadcom, Amgen, Meta Platforms; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0024/index.md) (2026-10-28)
 - [M15: 2026-10-27](https://heniu.blog/pt-br/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 - [H1: 2026-10-27](https://heniu.blog/pt-br/h-log/hlog-2026-10-27/index.md) (2026-10-27)
