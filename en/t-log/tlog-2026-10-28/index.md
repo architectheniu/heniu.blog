@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 04:59
+Date: 2026-10-28 05:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 05:29]</h3>
+<p>[T-LOG: 2026-10-28 05:29]</p>
+<p><strong>STATUS: FUTURES SESSION MODE (NQ ONLY)</strong></p>
+<p>the NQ Probe is currently at 29919.50 (+0.36%). The Q-Score directional vector is stabilizing at 15 (Delta: +0.0). The CVD reading for the NQ Probe is 2.76K, which classifies the current state as a demand test. ADR is 30.74%, indicating high volatility in the current cycle. In the Dyson Sphere (QQQ) Options on QQQ, volatility (IV) is 22.20%, with the expected range between 711.44 – 731.06. The Put/Call Ratio remains at 1.03 with a daily options volume of 7,711,717. Data regarding NDX, QQQ, and TICKQ remains in sleep mode (outside the cash session).</p>
+<p><strong>SYSTEM DIAGNOSTICS:</strong><br />
+The system shows low vector kinetics (Q-Score 15) while simultaneously testing demand through aggressive volume (CVD). Lack of resonance between instruments due to the mass market being in sleep mode.</p>
+<p>Log: 2026-10-28 05:29</p>
 <h3>🌌 [2026-10-28 04:59]</h3>
 <p>[T-LOG: 2026-10-28 04:59]</p>
 <p><strong>STATUS: THE FUTURES SESSION (POST-SESSION MODE)</strong></p>
