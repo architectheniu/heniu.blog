@@ -7,6 +7,25 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0025: Seagate Technology Holdings PLC: wyniki za 1Q2027
+
+Data: 2026-10-28 19:32
+Adres: https://heniu.blog/f-log/flog-2026-10-28-0025/
+
+
+Przychody Seagate Technology Holdings PLC (STX) w pierwszym kwartale wyniosły 4,23 mld USD (+61,0% r/r), a zysk na akcję (księgowy) wzrósł do 7,59 USD (+212,3% r/r).
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) osiągnął poziom 7,72 USD (+199,2% r/r), podczas gdy zysk na akcję (skorygowany) wyniósł 7,68 USD. Zysk operacyjny spółki ukształtował się na poziomie 2,06 mld USD (+197,4% r/r).
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że zamiast niszczenia popytu, obserwuje on jego coraz większe tworzenie w ujęciu kwartał do kwartału. Według zarządu wolniejszy wzrost dostaw w minionym okresie był zaplanowany z dużym wyprzedzeniem i nie wynikał z problemów przy zmianie produktów. Zarząd zaznaczył, że strategia cenowa pozostaje bez zmian, a w nowych kontraktach uwzględniane są wyższe koszty zewnętrznych komponentów, które są z nadwyżką pokrywane przez rosnące ceny. Według zarządu skup akcji wyraźnie wzrośnie od kolejnego kwartału, ponieważ spółka nie planuje już dalszych działań związanych ze spłatą długu. Zarząd wskazał również, że klienci korporacyjni oraz producenci sprzętu coraz rzadziej pozostają w tyle w zakupach dysków o największej pojemności.
+
+
+---
+
 ## Fundamenty #0024: Zgłoszenia spółek: Broadcom, Amgen, Meta Platforms; transakcje insiderów
 
 Data: 2026-10-28 10:11
@@ -1323,24 +1342,5 @@ Układ doświadcza gwałtownego odpływu energii z Gwiazdy Centralnej przy jedno
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamenty #0006: Fastenal: wyniki za 3Q2026
-
-Data: 2026-10-15 16:19
-Adres: https://heniu.blog/f-log/flog-2026-10-15-0006/
-
-
-Przychody spółki Fastenal (FAST) w trzecim kwartale wyniosły 2,46 mld USD (+15,5% r/r), a zysk na akcję (księgowy) wzrósł do 0,35 USD (+20,7% r/r).
-
-### Wyniki kwartału
-
-Zysk operacyjny osiągnął poziom 530,80 mln USD (+20,2% r/r), podczas gdy zysk netto wyniósł 401,60 mln USD (+19,7% r/r). Zysk na akcję (księgowy, podstawowy) ukształtował się na poziomie 0,35 USD (+20,7% r/r).
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że odnotowany wzrost jest znacznie powyżej historycznych trendów. Według zarządu sukces w dowolnym otoczeniu rynkowym powinien przekładać się na dwucyfrową poprawę przychodów w każdym roku.
 
 
