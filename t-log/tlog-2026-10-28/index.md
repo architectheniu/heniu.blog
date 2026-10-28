@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 19:29
+Data: 2026-10-28 19:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 19:44]</h3>
+<p>[T-LOG: 2026-10-28 19:44]</p>
+<p>Status: SPOT. Analiza systemowa obiektów orbitalnych i masy galaktyki.</p>
+<p>Sonda NQ (Cena: 30000.25) wykazuje test podaży (CVD: -1,58K), przy czym ADR wynosi 41.34%. Gwiazda NDX oscyluje w fazie testu popytu (CVD: 14,66M), podczas gdy Satelita QQQ wykazuje test podaży (CVD: -688,4K). Szeroka Giełda TICKQ (420.00) znajduje się w fazie wystrzału rynku, znacząco powyżej SMA200 (16.60), co potwierdza wysoką radiację systemu. Wektor kierunkowy Q-Score wynosi 5.</p>
+<p>Masa Galaktyki wzrosła do 42.19 T (Delta: +0.17 T). Średnia Akcja wynosi $307.95 (Delta: +1.92 USD), co wskazuje na rozszerzanie się koszyka (wzrost wartości notional). Gęstość Jądra utrzymuje stabilne 68.3% (Delta: 0.0%). W Sferze Dysona (IV: 21.89%) asymetria wolumenu opcji kształtuje się na poziomie Put/Call Ratio 1.15.</p>
+<p>Obserwuje się rozwarstwienie układu (Cross-Asset Divergence): silna radiacja TICKQ oraz test popytu na NDX kontrastują z testem podaży na Słabym Wektorze QQQ i Sonda NQ. Układ znajduje się w fazie grawitacyjnego napięcia między agresywną akrecją szerokiego rynku a lokalną realizacją zysków w instrumentach pochodnych i sondzie.</p>
+<p>Log: 2026-10-28 19:44</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 19:33 nagły przepływ NQ w górę; zapłon przepływu NQ; 19:39 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-28 19:29]</h3>
 <p><strong>Log: 2026-10-28 19:29</strong></p>
 <p><strong>[STATUS TELEMETRII - SESJA SPOT]</strong><br />
