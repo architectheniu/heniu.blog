@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 16:07
+Data: 2026-10-28 17:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.28</h1>
+<h3>📈 [2026-10-28 17:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX znajduje się na poziomie 29694.48 (+0.14%), przy jednoczesnym ujemnym przepływie skumulowanym (CVD) na poziomie −463,09 K akcji, co wskazuje na testowanie podaży. Podobny trend dystrybucji widoczny jest w kontraktach NQ (CVD −9,69 K) oraz ETF QQQ (CVD −942,92 K). Zbiorczy wskaźnik kierunku przepływów wynosi -10, co potwierdza przewagę odpływu kapitału w bieżącym momencie.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi 178.00, co przy średniej SMA200 wynoszącej 10.64 wskazuje na bardzo wysoką aktywność strony kupującej w szerokim rynku akcji Nasdaq.</li>
+<li><strong>Analiza opcji:</strong> Rynek opcji QQQ przy wolumenie 1,847,453 wskazuje na stosunkowo wysokie zainteresowanie zabezpieczeniami. Put/Call Volume Ratio na poziomie 1.07 sugeruje lekką przewagę pozycji krótkich (put), co może świadczyć o budowaniu zabezpieczeń przed spadkami. Zmienność implikowana (IV) wynosi 21.84%, a oczekiwany zasięg ruchu dla QQQ mieści się w przedziale od 712.42 do 730.06 punktów.</li>
+<li><strong>Kontekst techniczny:</strong> Trwająca korekta od szczytu z 06.10 (31360.85) wynosi obecnie -5.31% (-1666 pkt). Jest to korekta o charakterze większym (powyżej mediany historycznych korekt). Najbliższy istotny opór znajduje się w strefie węzła wolumenu 29740–29760 (1.2% wolumenu), natomiast najbliższe wsparcie to strefa 29640–29660 (2.6% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-10-28 17:07</p>
 <h3>📈 [2026-10-28 16:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
