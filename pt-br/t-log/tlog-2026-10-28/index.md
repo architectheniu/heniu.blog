@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 19:14
+Data: 2026-10-28 19:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 19:29]</h3>
+<p><strong>Log: 2026-10-28 19:29</strong></p>
+<p><strong>[STATUS DAIS DA SESSÃO - SESSÃO À VISTA (SPOT)]</strong><br />
+O Sistema encontra-se em estado de alta tensão após atividade intensa nas zonas de volume. Nos últimos 15 minutos, foram registradas operações dinâmicas nas barreiras HVN: primeiro o suporte no nível NDX 29650 (NQ ≈ 29806) foi rompido, para então, em um curto intervalo de tempo, conquistar duas barreiras subsequentes (NDX 29650 e NDX 29690), o que deslocou o preço da Sonda NQ para o nível 29855.75 (+0.15%).</p>
+<p><strong>[ANÁLISE DE COMPONENTES]</strong><br />
+A Estrela NDX apresenta um teste de demanda (CVD: 7,47M), enquanto a Sonda NQ e o Satélite QQQ encontram-se em fase de liquidação (CVD NQ: -10,47K; CVD QQQ: -1,03M). Ocorre uma clara estratificação do sistema (Cross-Asset Divergence): apesar do teste de demanda no Núcleo, os instrumentos de suporte apresentam pressão negativa de volume agressivo. A Amplitude de mercado (TICKQ) com leitura de 127.00 indica acumulação, permanecendo acima da média SMA200 (14.07), o que sugere a presença de suporte estrutural no mercado amplo. A Massa da Galáxia aumentou para 42.01 T (+0.05 T), e a Ação Média é de 306.04 USD (Delta: +0.55 USD), o que evidencia uma expansão lenta da cesta.</p>
+<p><strong>[DINÂMICA E ENERGIA]</strong><br />
+O vetor direcional (Q-Score) é 0, indicando uma falta momentânea de força cinética dominante. A volatilidade na Esfera de Dyson (QQQ) (IV: 21.74%) com Put/Call Ratio de 1.14 sinaliza assimetria de volume em favor das opções de venda. O ADR para todos os objetos principais está atualmente acima das médias históricas.</p>
+<p><strong>[DIAGNÓSTICO]</strong><br />
+Sistema em fase de tensão gravitacional; o fluxo assimétrico entre o Núcleo e a Esfera sugere uma luta para manter as barreiras recém-conquistadas, enquanto ocorre a realização de lucros em vetores menores.</p>
 <h3>🌌 [2026-10-28 19:14]</h3>
 <p>[T-LOG: 2026-10-28 19:14]</p>
 <p>O suporte HVN do ecossistema US100 foi rompido no nível NDX 29690 (NQ ≈ 29846), o que iniciou uma queda abrupta na cinética do sistema. A Sonda NQ encontra-se atualmente no nível 29812.25, com ADR 37.97%. A Estrela NDX apresenta um estado de teste de oferta (CVD: -4,62M), enquanto a Sonda NQ e o Satélite QQQ (Preço: 721.37) relatam uma liquidação (CVD respectivamente: -12,01K e -1,1M). A ampla Bolsa Nasdaq (TICKQ) registra um colapso de mercado no nível -416.00, o que, com a tendência de radiação em queda (SMA200: -2.09), confirma a dominância da pressão de oferta. A Massa da Galáxia é de 41.96 T (Delta: -0.08 T), e a Ação Média encolheu para $305.49 (Delta: -0.66 USD), indicando uma redução geral no valor nominal da cesta. Na Esfera de Dyson IV é de 21.80%, com uma assimetria de volume Put/Call no nível de 1.13. O Q-Score é de -18, o que, com vetores negativos de todos os objetos principais, indica uma decomposição forte e sincronizada.</p>
