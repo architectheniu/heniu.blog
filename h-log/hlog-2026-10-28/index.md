@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 11:07
+Data: 2026-10-28 12:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.28</h1>
+<h3>📈 [2026-10-28 12:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty; analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ notowane są na poziomie 29912.25 (+0.34%) z dodatnim przepływem skumulowanym (CVD) na poziomie 3,29 K, co wskazuje na testowanie popytu w sesji przedsesyjnej.</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi 15, co oznacza słabą przewagę napływu kapitału w skali całego rynku.</li>
+<li>Dane z rynku opcji QQQ (wolumen: 7,711,717; PCR: 1.03) wskazują na lekką przewagę pozycji typu Put, co sugeruje budowanie zabezpieczeń (hedging) przy zmienności implikowanej (IV) na poziomie 22.20%. Oczekiwany zasięg ruchu cenowego dla QQQ mieści się w przedziale 711.44 do 731.06.</li>
+<li>Bieżąca korekta indeksu NDX od szczytu z 06.10 (31360.85) wynosi -5.44% (-1707 pkt). Jest to korekta o charakterze większym niż mediana historycznych ruchów (głębsza niż 57% dotychczasowych korekt).</li>
+<li>Kluczowe poziomy techniczne: najbliższe wsparcie znajduje się w strefie wolumenu 29560–29580 (2.4% wolumenu), natomiast opór występuje w strefie 29740–29760 (1.2% wolumenu). Obecna cena NDX (29653.58) znajduje się w węźle wolumenu 29640–29660.</li>
+</ul>
+<p>Raport H-Log: 2026-10-28 12:07</p>
 <h3>📈 [2026-10-28 11:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
