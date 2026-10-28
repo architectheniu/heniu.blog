@@ -1,0 +1,19 @@
+# Fundamentos #0028: PayPal: resultados do 3Q2026
+
+Data: 2026-10-28 19:42
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-28-0028/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+A receita da PayPal (PYPL) no terceiro trimestre foi de 8,58 bi USD (+2,0% a/a), enquanto o lucro por ação (contábil) caiu para 1,25 USD (−3,9% a/a).
+
+### Resultados do trimestre
+
+O lucro por ação (contábil, básico) foi de 1,26 USD (−3,8% a/a). O lucro operacional da empresa situou-se em 1,40 bi USD (−7,8% a/a).
+
+### O que diz a diretoria
+
+A diretoria enfatizou que o objetivo é aumentar a importância do Venmo nas finanças cotidianas dos clientes através do desenvolvimento da base atual e da expansão da oferta com serviços financeiros. Segundo a diretoria, os serviços financeiros constituem o motor fundamental para o futuro crescimento da margem de transação, no qual a empresa pretende continuar investindo. A diretoria também indicou que o comércio com a participação de agentes de IA é uma prioridade e uma grande oportunidade para a empresa, baseada em confiança e segurança. A diretoria também observou que, na área de financiamento de crédito, manterá uma abordagem equilibrada entre o balanço próprio e fora do balanço. De acordo com a diretoria, o impacto das tarifas de minimis da UE no comércio na Europa também se manterá no próximo trimestre. A diretoria também enfatizou que está aberta a uma análise objetiva de opções que aumentem o valor para os acionistas e que, atualmente, está focada na execução de seu próprio plano.
+

@@ -7,6 +7,25 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0028: PayPal: 3Q2026 results
+
+Date: 2026-10-28 19:42
+URL: https://heniu.blog/en/f-log/flog-2026-10-28-0028/
+
+
+PayPal (PYPL) revenue in Q3 was 8.58 billion USD (+2.0% y/y), while earnings per share (accounting) fell to 1.25 USD (−3.9% y/y).
+
+### Quarterly results
+
+Earnings per share (accounting, basic) was 1.26 USD (−3.8% y/y). The company's operating income was at the level of 1.40 billion USD (−7.8% y/y).
+
+### What management says
+
+Management emphasized that the goal is to increase Venmo's significance in customers' daily finances by developing the current base and expanding the offering with financial services. According to management, financial services constitute a key driver of future transaction margin growth, in which the company intends to continue investing. Management also indicated that AI agent-led commerce is a priority and a great opportunity for the company, based on trust and security. Management also noted that in the area of credit financing, it will maintain a balanced approach between on-balance sheet and off-balance sheet. According to management, the impact of EU de minimis customs duties on trade in Europe will also persist in the next quarter. Management also emphasized that it is open to an objective analysis of options to increase shareholder value, and is currently focusing on the implementation of its own plan.
+
+
+---
+
 ## Fundamentals #0027: Baker Hughes: 3Q2026 results
 
 Date: 2026-10-28 19:39
@@ -1250,24 +1269,5 @@ The system is in a phase of rapid mass decrease, driven by negative energy flow 
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentals #0007: Insider transactions
-
-Date: 2026-10-16 10:10
-URL: https://heniu.blog/en/f-log/flog-2026-10-16-0007/
-
-
-Insiders on 15.10 sold shares worth 15.1 million USD, including 15.1 million USD from 10b5-1 plans; market purchases amounted to 0. The largest sale was reported by Micron Technology (MU) insiders: 5.9 million USD.
-
-Micron Technology (MU) insiders surrendered shares for taxes valued at 164.4 million USD.
-
-CrowdStrike (CRWD) insiders sold shares worth 5.2 million USD under 10b5-1 plans.
-
-Regeneron Pharmaceuticals (REGN) insiders sold shares worth 3.2 million USD under 10b5-1 plans.
-
-Apple (AAPL) insiders sold shares worth 0.8 million USD under 10b5-1 plans.
 
 
