@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 18:29
+Data: 2026-10-28 18:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 18:44]</h3>
+<p>[T-LOG: 2026-10-28 18:44]</p>
+<p><strong>Status: SPOT</strong><br />
+<strong>Analiza Systemowa:</strong><br />
+Gwiazda NDX wykazuje test podaży (CVD: -367,11K), przy czym Sonda NQ oscyluje na poziomie 29843.75 (+0.11%) z odczytem testu podaży (CVD: -8,87K). Satelita QQQ potwierdza stan testu podaży (CVD: -858,22K). Szeroka Giełda (TICKQ) znajduje się w stanie wyprzedaży (-74.00), co przy średniej SMA200 na poziomie 11.88 (test popytu) wskazuje na rozwarstwienie układu: mikro-struktura jest poniżej średniej radiacji (status: BELOW). Wektor kierunkowy Q-Score wynosi -10. W Sferze Dysona zmienność (IV) wynosi 21.85%, a asymetria wolumenu Put/Call kształtuje się na poziomie 1.07. Masa Galaktyki wynosi 42.02 T (Delta: +0.03 T), a Średnia Akcja to $305.83 (Delta: +0.27 USD), co wskazuje na powolną ekspansję (rozszerzanie się) koszyka. ADR dla instrumentów orbitalnych utrzymuje się powyżej historycznych odczytów.</p>
+<p><strong>Konkluzja:</strong><br />
+Układ w fazie grawitacyjnego napięcia; występuje rozwarstwienie wektorów między stabilną masą a wyprzedażową dynamiką szerokiego rynku (TICKQ).</p>
 <h3>🌌 [2026-10-28 18:29]</h3>
 <p>[T-LOG: 2026-10-28 18:29]</p>
 <p>[ZDARZENIA HVN]<br />
