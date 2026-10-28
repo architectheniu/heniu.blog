@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Date: 2026-10-28 15:07
+Date: 2026-10-28 16:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.28 [EN]</h1>
+<h3>📈 [2026-10-28 16:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Price situation and flows:</strong> The NDX index is at 29685.71 (+0.12%), with a correction of -5.34% (-1675 pts) recorded from the peak on 06.10 (31360.85). Despite the price increase, the flow direction indicator is -8, indicating a slight dominance of distribution. A divergence exists between instruments: NDX shows a demand test (CVD 12,6 K), while NQ futures contracts (29838.25, CVD -6,33 K) and QQQ ETF (722.00, CVD -781,53 K) indicate a supply test. Market breadth (TICKQ) is strongly negative at -133.00, which, with a SMA200 average of 8.18, confirms selling pressure.</p>
+</li>
+<li>
+<p><strong>QQQ Options Analysis:</strong> Implied volatility (IV) is 21.95%, and the Put/Call ratio (PCR) is at 1.11. With an options volume of 1,350,763, a PCR above 1.0 suggests a bearish sentiment or increased activity in hedging against a potential sell-off. The market-expected range of movement within QQQ is the interval from 712.89 to 730.49.</p>
+</li>
+<li>
+<p><strong>Technical levels:</strong> The nearest support zone (volume node) is in the 29640–29660 range (2.6% volume). The nearest resistance zone is 29740–29760 (1.2% volume). The current correction is classified as larger relative to the historical median and 80th percentile recorded in system memory.</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-10-28 16:07</p>
 <h3>📈 [2026-10-28 15:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
