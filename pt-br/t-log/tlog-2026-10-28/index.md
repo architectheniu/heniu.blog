@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 06:30
+Data: 2026-10-28 07:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 06:59]</h3>
+<p>[T-LOG: 2026-10-28 06:59]</p>
+<p><strong>STATUS: MODO FUTUROS (APENAS SONDA NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29912.25 (+0.34%). O vetor Q-Score é 15, indicando uma dinâmica positiva fraca do sistema. A leitura do CVD no nível 2,69K classifica o estado da sonda como um teste de demanda. O indicador ADR é 30.74%, o que posiciona a volatilidade atual acima das médias históricas. Na Esfera de Dyson (Opções sobre QQQ) foi registrada uma volatilidade IV no nível 22.20% com o alcance esperado no intervalo 711.44 – 731.06. A assimetria de volume Put/Call é 1.03, o que indica uma distribuição de contratos quase uniforme. Os demais objetos (NDX, QQQ, TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot).</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+O estado atual é um teste de demanda com ADR alto, sem uma sincronização clara dos vetores macro e micro no fluxo de dados disponível. O sistema encontra-se em uma fase de busca de direção sob condições de volatilidade extra-recursos elevada.</p>
+<p>Log: 2026-10-28 06:59</p>
 <h3>🌌 [2026-10-28 06:29]</h3>
 <p>[T-LOG: 2026-10-28 06:29]</p>
 <p><strong>STATUS: MODO FUTUROS (SONDA NQ ATIVA)</strong></p>
