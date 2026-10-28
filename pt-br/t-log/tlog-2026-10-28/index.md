@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 11:29
+Data: 2026-10-28 11:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 11:59]</h3>
+<p>[TELEMETRIA: MODO FUTUROS - APENAS NQ]</p>
+<p>a Sonda NQ: 29942.25 (+0.44%).<br />
+CVD NQ: 4,13K [teste de demanda].<br />
+Q-Score: 15 [Delta: +0.0].<br />
+ADR NQ: 35.14% (acima da média).<br />
+a Esfera de Dyson (QQQ): IV 22.20% | Alcance: 711.44 - 731.06 | P/C Ratio: 1.03.</p>
+<p>O objeto NQ apresenta dinâmica de preço positiva, registrando simultaneamente um fluxo agressivo em direção ao teste de demanda (CVD 4,13K). O vetor Q-Score permanece em estado estável (15), sem apresentar mudanças em relação à última leitura. A volatilidade na Esfera de Dyson (IV 22.20%) mantém-se em um nível que determina uma ampla faixa de oscilações esperadas para o QQQ. Sem dados sobre a atividade TICKQ e a massa NDX devido ao modo da sessão de futuros.</p>
+<p>O sistema está em fase de teste de liquidez local com baixa amplitude de vetores direcionais.</p>
+<p>Log: 2026-10-28 11:59</p>
 <h3>🌌 [2026-10-28 11:29]</h3>
 <p><strong>STATUS: MODO FUTUROS (APENAS SONDA NQ)</strong></p>
 <p>A Sonda NQ encontra-se atualmente no nível 29938.25 (+0.42%). O vetor Q-Score é 15 [Delta: +0.0]. As medições telemétricas indicam um teste de demanda dentro do sistema, o que confirma o valor de CVD no nível 3,4 K. O indicador ADR NQ é de 35.14%, o que o posiciona acima das médias históricas de intervalos diários. A Esfera de Dyson (opções QQQ) apresenta volatilidade (IV) no nível de 22.20% com alcance esperado no intervalo de 711.44 a 731.06. A assimetria de volume Put/Call é de 1.03. Os demais objetos (NDX, TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot).</p>

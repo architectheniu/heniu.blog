@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 11:29
+Data: 2026-10-28 11:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 11:59]</h3>
+<p>[TELEMETRIA: TRYB FUTURES - TYLKO NQ]</p>
+<p>Sonda NQ: 29942.25 (+0.44%).<br />
+CVD NQ: 4,13K [test popytu].<br />
+Q-Score: 15 [Delta: +0.0].<br />
+ADR NQ: 35.14% (powyżej średniej).<br />
+Sfera Dysona (QQQ): IV 22.20% | Zasięg: 711.44 - 731.06 | P/C Ratio: 1.03.</p>
+<p>Obiekt NQ wykazuje dodatnią dynamikę ceny przy jednoczesnym odnotowaniu agresywnego przepływu w kierunku testu popytu (CVD 4,13K). Wektor Q-Score pozostaje w stanie stabilnym (15), nie wykazując zmian w relacji do ostatniego odczytu. Zmienność w Sferze Dysona (IV 22.20%) utrzymuje się na poziomie determinującym szeroki zakres oczekiwanych oscylacji dla QQQ. Brak danych o aktywności TICKQ oraz masie NDX ze względu na tryb sesji Futures.</p>
+<p>Układ w fazie testowania lokalnej płynności przy niskiej amplitudzie wektorów kierunkowych.</p>
+<p>Log: 2026-10-28 11:59</p>
 <h3>🌌 [2026-10-28 11:29]</h3>
 <p><strong>STATUS: TRYB FUTURES (TYLKO SONDA NQ)</strong></p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29938.25 (+0.42%). Wektor Q-Score wynosi 15 [Delta: +0.0]. Pomiary telemetryczne wskazują na test popytu wewnątrz układu, co potwierdza wartość CVD na poziomie 3,4 K. Wskaźnik ADR NQ wynosi 35.14%, co sytuuje go powyżej średnich historycznych zakresów dziennych. Sfera Dysona (opcje QQQ) wykazuje zmienność (IV) na poziomie 22.20% przy zasięgu oczekiwanym w przedziale 711.44 do 731.06. Asymetria wolumenu Put/Call wynosi 1.03. Pozostałe obiekty (NDX, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
