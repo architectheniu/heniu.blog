@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 17:07
+Data: 2026-10-28 18:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.28</h1>
+<h3>📈 [2026-10-28 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX wynosi 29720.87 (+0.23%), przy skumulowanym przepływie CVD na poziomie 4,94 M akcji, co wskazuje na testowanie popytu na rynku kasowym. Jednocześnie kontrakty NQ (29871.50, +0.20%) oraz ETF QQQ (722.84, +0.22%) wykazują ujemny przepływ CVD odpowiednio -7,72 K oraz -826,57 K, co sugeruje obecność presji podażowej w tych instrumentach. Zbiorczy wskaźnik kierunku przepływów wynosi 0, co oznacza brak wyraźnej dominacji jednej ze stron rynku.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi -6.00, co przy średniej SMA200 na poziomie 11.38 wskazuje na słabość szerokiego rynku Nasdaq w bieżącej sesji.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 21.95%, a stosunek wolumenu Put/Call (PCR) kształtuje się na poziomie 1.08. Przy wolumenie opcji 2,116,228, wskaźnik PCR powyżej 1.0 sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na spadki, przy oczekiwanym przez rynek zasięgu ruchu w przedziale 713.58 do 730.86 punktów.</li>
+<li><strong>Kontekst techniczny i poziomy:</strong> Trwa korekta od szczytu z dnia 06.10 (31360.85), która wynosi obecnie -5.23% (-1640 pkt). Jest to korekta o charakterze większym niż mediana historycznych ruchów (głębsza niż 57% zarejestrowanych przypadków). Najbliższy opór znajduje się w strefie węzła wolumenu 29740–29760 (1.2% wolumenu), natomiast wsparcie znajduje się poniżej ceny w strefie 29640–29660 (2.6% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-10-28 18:07</p>
 <h3>📈 [2026-10-28 17:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
