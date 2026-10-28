@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 10:30
+Data: 2026-10-28 11:00
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 10:59]</h3>
+<p>[T-LOG: 2026-10-28 11:00]</p>
+<p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29947.75 (+0.46%). Odnotowano test popytu na poziomie CVD wynoszącym 4,26K. Wektor kierunkowy (Q-Score) wynosi 15, co wskazuje na utrzymującą się neutralną tendencję z lekkim przesunięciem dodatnim. ADR NQ jest obecnie na poziomie 35.14%, co plasuje go znacząco powyżej średniej. W Sferze Dysona (opcje QQQ) zmienność (IV) wynosi 22.20%, przy zasięgu oczekiwanym w przedziale 711.44 – 731.06. Asymetria wolumenu Put/Call wynosi 1.03. Obiekty NDX, QQQ oraz TICKQ pozostają w uśpieniu (brak radiacji w trybie Futures).</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Układ wykazuje obecność lokalnej presji popytowej przy niskim wolumenie (Vol: 1,5K), co sugeruje próbę odbudowy kinetyki po niedawnej korekcie NDX (-5.44%). Brak synchronizacji między niską aktywnością wolumenową a próbą wzrostu ceny może wskazywać na fazę testowania płynności w górnych rejestrach.</p>
+<p>Log: 2026-10-28 11:00</p>
 <h3>🌌 [2026-10-28 10:29]</h3>
 <p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29907.00 (+0.32%). Wektor kierunkowy Q-Score wynosi 15 [Delta: +0.0]. Odnotowano test popytu na Sonda NQ, gdzie wartość CVD wynosi 3.04K. Wskaźnik ADR dla NQ jest na poziomie 35.14%, co wskazuje na wysoką zmienność w bieżącym cyklu. W Sferze Dysona (opcje QQQ) odnotowano IV na poziomie 22.20% przy zasięgu oczekiwanym w przedziale 711.44 – 731.06. Put/Call Ratio wynosi 1.03, co sygnalizuje niemal równomierną asymetrię wolumenu między kontraktami ubezpieczającymi a kontraktami premiowymi. Obiekty NDX, QQQ oraz radiacja TICKQ pozostają w stanie uśpienia (sesja kasowa zamknięta).</p>

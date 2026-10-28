@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 10:31
+Data: 2026-10-28 11:01
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 10:59]</h3>
+<p>[T-LOG: 2026-10-28 11:00]</p>
+<p><strong>STATUS: FUTUROS (APENAS NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29947.75 (+0.46%). Foi registrado um teste de demanda no nível de CVD de 4,26K. O vetor direcional (Q-Score) é de 15, o que indica uma tendência neutra persistente com um leve deslocamento positivo. O ADR NQ está atualmente no nível de 35.14%, o que o posiciona significativamente acima da média. Na Esfera de Dyson (QQQ) a volatilidade (IV) é de 22.20%, com o alcance esperado no intervalo de 711.44 – 731.06. A assimetria de volume Put/Call é de 1.03. Os objetos NDX, QQQ e TICKQ permanecem em dormência (sem radiação no modo Futuros).</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+O sistema mostra a presença de pressão de demanda local com baixo volume (Vol: 1,5K), o que sugere uma tentativa de reconstrução da cinética após a recente correção do NDX (-5.44%). A falta de sincronização entre a baixa atividade de volume e a tentativa de alta do preço pode indicar uma fase de teste de liquidez nos registros superiores.</p>
+<p>Log: 2026-10-28 11:00</p>
 <h3>🌌 [2026-10-28 10:29]</h3>
 <p><strong>STATUS: MODO DE FUTUROS (APENAS NQ)</strong></p>
 <p>a Sonda NQ encontra-se atualmente no nível 29907.00 (+0.32%). O vetor direcional Q-Score é 15 [Delta: +0.0]. Foi registrado um teste de demanda na a Sonda NQ, onde o valor de CVD é 3.04K. O indicador ADR para NQ está no nível 35.14%, o que indica alta volatilidade no ciclo atual. Na a Esfera de Dyson (opções QQQ), registrou-se IV no nível 22.20% com o alcance esperado no intervalo de 711.44 – 731.06. O Put/Call Ratio é 1.03, o que sinaliza uma assimetria de volume quase uniforme entre contratos de proteção e contratos de prêmio. Os objetos NDX, QQQ e a Radiação de Fundo (TICKQ) permanecem em estado de dormência (a sessão à vista (Spot) está fechada).</p>
