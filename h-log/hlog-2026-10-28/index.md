@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 00:07
+Data: 2026-10-28 01:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.28</h1>
+<h3>📈 [2026-10-28 01:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Kontrakty terminowe i przepływy:</strong> Kontrakty NQ notowane są po cenie 29813.00 (0.00%), przy skumulowanym przepływie (CVD) na poziomie -1,09 K, co wskazuje na test podaży. Zbiorczy wskaźnik kierunku przepływów wynosi -5, co oznacza lekką przewagę dystrybucji kapitału.</li>
+<li><strong>Analiza rynku kasowego (zamknięcie):</strong> Indeks NDX zamknął sesję na poziomie 29653.58 (+1.29%) z istotnym napływem kapitału (CVD NDX = 12,67 M), co sugeruje test popytu na rynku akcji. ETF QQQ zakończył sesję przy cenie 721.24 (+1.27%) z dodatnim przepływem 1,14 M (akumulacja).</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 22.20%, a stosunek wolumenu Put/Call (PCR) to 1.03, co wskazuje na lekką przewagę opcji sprzedaży i budowanie zabezpieczeń. Oczekiwany przez rynek zasięg ruchu mieści się w przedziale 711.44 do 731.06 przy wolumenie 7,711,717.</li>
+<li><strong>Poziomy techniczne:</strong> Trwa większa korekta od szczytu z 06.10 (31360.85), która wyniosła -5.44% (-1707 pkt). Najbliższe strefy wsparcia (węzły wolumenu) znajdują się w przedziale 29560–29580 (2.4% wolumenu). Najbliższa strefa oporu znajduje się w przedziale 29740–29760 (1.2% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-10-28 01:07</p>
 <h3>📈 [2026-10-28 00:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
