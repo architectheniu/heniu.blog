@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 14:07
+Data: 2026-10-28 15:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.28</h1>
+<h3>📈 [2026-10-28 15:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX znajduje się obecnie na poziomie 29687.47 (+0.12%), przy czym od szczytu z 06.10 (31360.85) odnotowano korektę o -5.34% (-1673 pkt). Jest to korekta o charakterze większym, głębsza niż 57% historycznych ruchów korygujących. Wskaźnik kierunku przepływów wynosi 5, co wskazuje na neutralną tendencję z lekką przewagą napływu kapitału. Występuje rozbieżność między instrumentami: NDX wykazuje test popytu (CVD 3,51 M), podczas gdy kontrakty NQ (29839.00) oraz ETF QQQ (722.00) wykazują test podaży (odpowiednio CVD -2,86 K oraz -636,76 K). Szeroki rynek Nasdaq (TICKQ) wynosi 12.00, co jest wartością powyżej średniej SMA200 (9.34).</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 22.43%, a wolumen opcji to 261,767. Wskaźnik Put/Call Ratio na poziomie 1.44 sugeruje przewagę pozycji typu Put, co wskazuje na budowanie zabezpieczeń (hedgingu) lub oczekiwania na większą zmitność spadkową. Oczekiwany przez rynek zasięg ruchu w ramach opcji mieści się w przedziale od 714.47 do 732.69 punktów.</p>
+</li>
+<li>
+<p><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia znajduje się w przedziale 29640–29660 (2.6% wolumenu), a strefa oporu powyżej obecnej ceny to 29740–29760 (1.2% wolumenu).</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-10-28 15:07</p>
 <h3>📈 [2026-10-28 14:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
