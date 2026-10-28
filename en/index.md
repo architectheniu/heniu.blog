@@ -6,9 +6,9 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [M15: 2026-10-28](https://heniu.blog/en/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [Fundamentals #0024: Company filings: Broadcom, Amgen, Meta Platforms; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-28-0024/index.md) (2026-10-28)
 - [H1: 2026-10-28](https://heniu.blog/en/h-log/hlog-2026-10-28/index.md) (2026-10-28)
-- [M15: 2026-10-28](https://heniu.blog/en/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [M15: 2026-10-27](https://heniu.blog/en/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 - [H1: 2026-10-27](https://heniu.blog/en/h-log/hlog-2026-10-27/index.md) (2026-10-27)
 - [Log #0213: Session summary 2026-10-27: NDX 29653.58 (+1.29%)](https://heniu.blog/en/posts/log-0213/index.md) (2026-10-27)
