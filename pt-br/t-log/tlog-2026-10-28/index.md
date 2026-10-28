@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 20:45
+Data: 2026-10-28 21:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,20 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 20:59]</h3>
+<p><strong>[T-LOG: 2026-10-28 20:59]</strong></p>
+<p><strong>STATUS: À VISTA (SPOT)</strong></p>
+<p><strong>TELEMETRIA DOS OBJETOS:</strong><br />
+- <strong>a Estrela NDX:</strong> Preço 29790.83 (+0.47%) | CVD: 34,09M [acumulação]<br />
+- <strong>a Sonda NQ:</strong> Preço 29951.50 (+0.47%) | CVD: -14,62K [venda]<br />
+- <strong>Satélite QQQ:</strong> Preço 724.67 (+0.47%) | CVD: -1,2M [venda]<br />
+- <strong>Amplitude de mercado (TICKQ):</strong> 469.00 [disparo do mercado] | SMA200: 21.41 [acumulação] | Status: ABOVE.</p>
+<p><strong>DINÂMICA DO SISTEMA:</strong><br />
+A Massa da Galáxia é de 42.10 T (Delta: +0.02 T). A Ação Média é de $307.47 (Delta: +0.58 USD), o que indica uma expansão da cesta. A Densidade do Núcleo está estável em 68.2%. O Q-Score é 10, sinalizando um vetor de direção extremamente fraco, porém positivo. A Volatilidade (IV) na Esfera de Dyson (QQQ) é de 21.40% com uma assimetria de volume Put/Call de 1.10.</p>
+<p><strong>DIAGNÓSTICO CINEMÁTICO:</strong><br />
+O sistema apresenta uma forte Divergência de Ativos (Cross-Asset Divergence). Enquanto a Estrela NDX mostra um estado de acumulação, a Sonda NQ e o Satélite QQQ encontram-se em fase de venda, o que gera uma tensão gravitacional entre o núcleo e a periferia. A Amplitude de mercado (TICKQ) mostra um status de "disparo do mercado", o que contrasta fortemente com a pressão negativa do CVD nos instrumentos de base. O aumento dos preços com uma dinâmica negativa simultânea do volume agressivo (CVD) sugere uma estrutura de movimento assimétrica.</p>
+<p><strong>CONCLUSÃO:</strong><br />
+Sistema em fase de tensão gravitacional; divergência de vetores entre o mercado amplo e os instrumentos de índice.</p>
 <h3>🌌 [2026-10-28 20:44]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-28 20:44]<br />
 Status: OPEN | Modo de Sessão: a sessão à vista (Spot)</p>

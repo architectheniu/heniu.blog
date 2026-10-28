@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 20:44
+Data: 2026-10-28 20:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,20 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 20:59]</h3>
+<p><strong>[T-LOG: 2026-10-28 20:59]</strong></p>
+<p><strong>STATUS: SPOT</strong></p>
+<p><strong>TELEMETRIA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX:</strong> Cena 29790.83 (+0.47%) | CVD: 34,09M [akumulacja]<br />
+- <strong>Sonda NQ:</strong> Cena 29951.50 (+0.47%) | CVD: -14,62K [wyprzedaż]<br />
+- <strong>Satelita QQQ:</strong> Cena 724.67 (+0.47%) | CVD: -1,2M [wyprzedaż]<br />
+- <strong>Szeroka Giełda (TICKQ):</strong> 469.00 [wystrzał rynku] | SMA200: 21.41 [akumulacja] | Status: ABOVE.</p>
+<p><strong>DYNAMIKA UKŁADU:</strong><br />
+Masa Galaktyki wynosi 42.10 T (Delta: +0.02 T). Średnia Akcja to $307.47 (Delta: +0.58 USD), co wskazuje na ekspansję koszyka. Gęstość Jądra stabilna na poziomie 68.2%. Q-Score wynosi 10, sygnalizując skrajnie słaby, lecz dodatni wektor kierunkowy. Zmienność (IV) w Sferze Dysona wynosi 21.40% przy asymetrii wolumenu Put/Call na poziomie 1.10.</p>
+<p><strong>DIAGNOSTYKA KINEMATYCZNA:</strong><br />
+W układzie występuje silne Rozwarstwienie (Cross-Asset Divergence). Podczas gdy Gwiazda NDX wykazuje stan akumulacji, Sonda NQ oraz Satelita QQQ znajdują się w fazie wyprzedaży, co generuje grawitacyjne napięcie między jądrem a peryferiami. Szeroka Giełda (TICKQ) wykazuje status "wystrzału rynku", co stoi w jaskrawym kontraście do ujemnego ciśnienia CVD na instrumentach bazowych. Wzrost cen przy jednoczesnej ujemnej dynamice agresywnego wolumenu (CVD) sugeruje asymetryczną strukturę ruchu.</p>
+<p><strong>KONKLUZJA:</strong><br />
+Układ w fazie grawitacyjnego napięcia; rozwarstwienie wektorów między szerokim rynkiem a instrumentami indeksowymi.</p>
 <h3>🌌 [2026-10-28 20:44]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-28 20:44]<br />
 Status: OPEN | Tryb Sesji: SPOT</p>
