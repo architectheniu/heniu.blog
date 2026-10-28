@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [M15: 2026-10-29](https://heniu.blog/pt-br/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/pt-br/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-28](https://heniu.blog/pt-br/t-log/tlog-2026-10-28/index.md) (2026-10-29)
 - [H1: 2026-10-28](https://heniu.blog/pt-br/h-log/hlog-2026-10-28/index.md) (2026-10-28)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0009: Notificação da empresa Tesla; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-20-0009/index.md) (2026-10-20)
 - [H1: 2026-10-19](https://heniu.blog/pt-br/h-log/hlog-2026-10-19/index.md) (2026-10-19)
 - [M15: 2026-10-19](https://heniu.blog/pt-br/t-log/tlog-2026-10-19/index.md) (2026-10-19)
-- [Log #0206: Acreção na sombra da Grande Correção](https://heniu.blog/pt-br/posts/log-0206/index.md) (2026-10-19)
 
