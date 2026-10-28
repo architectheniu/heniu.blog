@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 21:59
+Data: 2026-10-28 23:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 23:29]</h3>
+<p>Tryb sesji: FUTURES. Analiza ogranicza się do aktywnej Sondy NQ.</p>
+<p>Sonda NQ znajduje się na poziomie 29685.75 (-0.98%). Wektor kierunku (Q-Score) wynosi 15, co oznacza stabilizację w dodatniej strefie, przy braku zmiany (Delta: +0.0). Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -2.91K, co klasyfikuje obecny stan jako "test podaży". ADR NQ wynosi 27.64%, co wskazuje na wysoką zmienność w stosunku do średniej. W Sferze Dysona (opcje QQQ) odnotowano IV na poziomie 21.02% oraz Put/Call Ratio 1.11, co sygnalizuje asymetrię wolumenu na korzyść kontraktów Put. Brak danych o aktywności NDX i TICKQ ze względu na zamknięcie sesji kasowej.</p>
+<p>Układ znajduje się w fazie testowania podaży w warunkach wysokiej zmienności po stronie kontraktów terminowych.</p>
 <h3>🌌 [2026-10-28 21:59]</h3>
 <p>[TELEMETRIA: TRYB FUTURES - NQ DOMINANT]</p>
 <p>Sonda NQ znajduje się na poziomie 29746.50 (-0.22%). Wektor CVD wykazuje silną presję podaży na poziomie -11,93K, co klasyfikuje stan obiektu jako wyprzedaż. ADR wynosi 86.15%, co sytuuje bieżącą zmienność poniżej średniej. Q-Score (Wektor Rynku) oscyluje w granicach 15, wykazując brak zmiany (Delta: +0.0) względem ostatniego odczytu. W Sferze Dysona (opcje QQQ) odnotowano IV na poziomie 21.38% przy asymetrii Put/Call Ratio wynoszącej 1.11. Obserwuje się brak aktywności w pasmach TICKQ oraz NDX ze względu na zamknięcie sesji kasowej. Brak danych dla Średniej Akcji w obecnym trybie.</p>

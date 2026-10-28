@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 21:59
+Data: 2026-10-28 23:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 23:29]</h3>
+<p>Modo de sessão: a sessão de futuros. A análise limita-se à Sonda NQ ativa.</p>
+<p>A Sonda NQ encontra-se no nível 29685.75 (-0.98%). O vetor de direção (Q-Score) é 15, o que significa estabilização na zona positiva, sem mudança (Delta: +0.0). A pressão do combustível (CVD) para a Sonda NQ é de -2.91K, o que classifica o estado atual como "teste de oferta". O ADR NQ é de 27.64%, o que indica alta volatilidade em relação à média. Na Esfera de Dyson (opções QQQ), registrou-se IV no nível de 21.02% e Put/Call Ratio de 1.11, o que sinaliza assimetria de volume em favor dos contratos Put. [SEM DADOS] de atividade da NDX e TICKQ devido ao fechamento da a sessão à vista (Spot).</p>
+<p>O sistema encontra-se na fase de teste de oferta sob condições de alta volatilidade no lado dos contratos de futuros.</p>
 <h3>🌌 [2026-10-28 21:59]</h3>
 <p>[TELEMETRIA: MODO FUTUROS - NQ DOMINANTE]</p>
 <p>a Sonda NQ está no nível 29746.50 (-0.22%). O vetor CVD mostra forte pressão de venda no nível -11,93K, o que classifica o estado do objeto como liquidação. O ADR é de 86.15%, o que situa a volatilidade atual abaixo da média. O Q-Score (Vetor de Mercado) oscila em torno de 15, mostrando nenhuma mudança (Delta: +0.0) em relação à última leitura. Na Esfera de Dyson (opções QQQ), a IV foi registrada no nível de 21.38% com uma assimetria de Put/Call Ratio de 1.11. Observa-se falta de atividade nas faixas TICKQ e NDX devido ao fechamento da sessão à vista (Spot). [SEM DADOS] para a Média de Ações no modo atual.</p>
