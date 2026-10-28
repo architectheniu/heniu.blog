@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 16:15
+Data: 2026-10-28 16:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 16:29]</h3>
+<p>[T-LOG: 2026-10-28 16:29]</p>
+<p>O suporte HVN do ecossistema US100 foi rompido no nível NDX 29650 (NQ ≈ 29804). A Sonda NQ encontra-se atualmente no nível 29845.75, com ADR de 37.97%. O vetor de mercado (Q-Score) mostra uma tendência negativa no nível -18. Nas condições da sessão à vista (Spot), a Amplitude de mercado (TICKQ) (149.00) indica acumulação, com a Radiação de Fundo média SMA200 (10.54) situada na zona de teste de demanda, o que correlaciona com a tendência crescente da radiação (+1.13).</p>
+<p>A Sonda NQ (CVD: -9,11K) mantém o status de teste de oferta. A Massa da Galáxia é de 42.01 T, e a Ação Média subiu para $305.59 (Delta: +0.04 USD), indicando uma expansão lenta da cesta. A Esfera de Dyson (IV: 21.94%) com Put/Call Ratio de 1.12 sugere assimetria de volume em favor dos contratos Put.</p>
+<p>Sistema em fase de tensão gravitacional; ocorre uma dissonância entre a acumulação da amplitude de mercado (TICKQ) e a venda agressiva no setor QQQ e o teste de oferta no NDX.</p>
+<p>Log: 2026-10-28 16:29</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 16:25 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-28 16:14]</h3>
 <p>[T-LOG: 2026-10-28 16:14]</p>
 <p>Status: OPEN | Modo: Spot.<br />

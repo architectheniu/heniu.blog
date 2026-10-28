@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 16:14
+Data: 2026-10-28 16:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 16:29]</h3>
+<p>[T-LOG: 2026-10-28 16:29]</p>
+<p>Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29650 (NQ ≈ 29804). Sonda NQ znajduje się obecnie na poziomie 29845.75, przy ADR wynoszącym 37.97%. Wektor rynkowy (Q-Score) wykazuje ujemną tendencję na poziomie -18. W warunkach sesji SPOT, Szeroka Giełda TICKQ (149.00) wskazuje na akumulację, przy czym średnia radiacja SMA200 (10.54) znajduje się w strefie testu popytu, co koreluje z rosnącym trendem promieniowania (+1.13).</p>
+<p>Sonda NQ (CVD: -9,11K) utrzymuje status testu podaży. Masa Galaktyki wynosi 42.01 T, a Średnia Akcja wzrosła do $305.59 (Delta: +0.04 USD), co wskazuje na powolną ekspansję koszyka. Sfera Dysona (IV: 21.94%) przy Put/Call Ratio 1.12 sugeruje asymetrię wolumenu na korzyść kontraktów Put.</p>
+<p>Układ w fazie grawitacyjnego napięcia; występuje dysonans między akumulacją szerokiego rynku (TICKQ) a agresywną wyprzedażą w sektorze QQQ i testem podaży w NDX.</p>
+<p>Log: 2026-10-28 16:29</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 16:25 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-28 16:14]</h3>
 <p>[T-LOG: 2026-10-28 16:14]</p>
 <p>Status: OPEN | Tryb: SPOT.<br />
