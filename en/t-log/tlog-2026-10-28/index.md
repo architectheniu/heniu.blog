@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 15:29
+Date: 2026-10-28 15:44
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 15:44]</h3>
+<p>[T-LOG: 2026-10-28 15:44]</p>
+<p><strong>STATUS: SPOT</strong></p>
+<p>the NQ Probe is at level 29835.50 (+0.08%), with ADR 37.97%. The system records a negative Q-Score at -10. the NDX Star shows a "supply test" state (CVD: -3.49M), while the NQ Probe is also in a "supply test" phase (CVD: -5.57K). the QQQ ETF satellite confirms this regime, reporting a "supply test" (CVD: -734.53K). the wide TICKQ exchange shows an "accumulation" state (135.00), which, with the SMA200 average radiation at 11.91 (state: DEMAND TEST), creates a clear system divergence. Galaxy Mass is 42.01 T (Delta: -0.00 T). Average Action in the basket is $305.39 (Delta: +0.22 USD), indicating a slow expansion of notional value. the Dyson Sphere (QQQ) shows volume asymmetry with a Put/Call Ratio at 1.13 with IV 21.84%.</p>
+<p><strong>DIAGNOSIS:</strong> Cross-Asset Divergence. Aggressive supply on main instruments (NDX, NQ, QQQ) contradicts the accumulation signal of the broad market (TICKQ), suggesting a structurally empty move or a passive absorption process within high-capitalization clusters.</p>
+<p>Log: 2026-10-28 15:44</p>
 <h3>🌌 [2026-10-28 15:29]</h3>
 <p>Log: 2026-10-28 15:29</p>
 <p>[STATUS: SPOT]<br />

@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 15:29
+Data: 2026-10-28 15:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 15:44]</h3>
+<p>[T-LOG: 2026-10-28 15:44]</p>
+<p><strong>STATUS: SPOT</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29835.50 (+0.08%), przy ADR 37.97%. System odnotowuje ujemny Q-Score na poziomie -10. Gwiazda NDX wykazuje stan "test podaży" (CVD: -3.49M), podczas gdy Sonda NQ również znajduje się w fazie "testu podaży" (CVD: -5.57K). Satelita QQQ potwierdza ten reżim, raportując "test podaży" (CVD: -734.53K). Szeroka Giełda TICKQ wykazuje stan "akumulacji" (135.00), co przy średniej radiacji SMA200 na poziomie 11.91 (stan: TEST POPYTU) tworzy wyraźne rozwarstwienie układu. Masa Galaktyki wynosi 42.01 T (Delta: -0.00 T). Średnia Akcja w koszyku to $305.39 (Delta: +0.22 USD), co wskazuje na powolną ekspansję (rozszerzanie się) wartości notional. Sfera Dysona wykazuje asymetrię wolumenu z Put/Call Ratio na poziomie 1.13 przy IV 21.84%.</p>
+<p><strong>DIAGNOZA:</strong> Rozwarstwienie układu (Cross-Asset Divergence). Agresywna podaż na głównych instrumentach (NDX, NQ, QQQ) stoi w sprzeczności z akumulacyjnym sygnałem szerokiego rynku (TICKQ), sugerując strukturalnie pusty ruch lub proces pasywnej absorpcji wewnątrz klastrów o wysokiej kapitalizacji.</p>
+<p>Log: 2026-10-28 15:44</p>
 <h3>🌌 [2026-10-28 15:29]</h3>
 <p>Log: 2026-10-28 15:29</p>
 <p>[STATUS: SPOT]<br />
