@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 02:08
+Data: 2026-10-28 03:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.28 [PT-BR]</h1>
+<h3>📈 [2026-10-28 03:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>a sessão à vista (Spot):</strong> Fechada. Os últimos dados da sessão regular indicam uma alta do índice NDX de 1,29% (preço 29653,58) com o fluxo acumulado CVD em 12,67 M, o que demonstra um teste de demanda. O ETF QQQ fechou em 721,24 (+1,27%) com uma leitura de acumulação (CVD 1,14 M).</li>
+<li><strong>Contratos futuros (NQ):</strong> Atualmente negociados em 29865,50 (+0,18%) com um leve teste de demanda (CVD 631).</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 22,20%, e a relação Put/Call Volume Ratio está em 1,03. Com um volume de opções de 7 711 717, este indicador sugere uma leve vantagem de posições de proteção (hedging) ou a expectativa de maior volatilidade, com um alcance de movimento esperado na faixa de 711,44 a 731,06 pontos.</li>
+<li><strong>Sentimento e contexto:</strong> O indicador agregado de direção de fluxos é 15, o que indica uma entrada de capital fraca, porém positiva. Está ocorrendo um Recuo desde o pico de 06.10 (31360,85), que atualmente é de -5,44% (-1707 pts). Esta é uma correção de maior magnitude (acima da mediana dos movimentos históricos).</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte crucial (nó de volume) encontra-se na faixa de 29560–29580 (2,4% do volume). A resistência mais próxima (nó de volume) está localizada na zona de 29740–29760 (1,2% do volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-28 03:07</p>
 <h3>📈 [2026-10-28 02:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
