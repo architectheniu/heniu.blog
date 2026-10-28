@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Log #0214: Podsumowanie sesji 2026-10-28: NDX 29821.65 (+0.55%)](https://heniu.blog/posts/log-0214/index.md) (2026-10-28)
 - [M15: 2026-10-28](https://heniu.blog/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [H1: 2026-10-28](https://heniu.blog/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 - [Fundamenty #0029: Old Dominion Freight Line: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0029/index.md) (2026-10-28)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0205: Kolaps Grawitacyjny i Rozpad Struktur Orbitalnych](https://heniu.blog/posts/log-0205/index.md) (2026-10-18)
 - [H1: 2026-10-16](https://heniu.blog/h-log/hlog-2026-10-16/index.md) (2026-10-16)
 - [M15: 2026-10-16](https://heniu.blog/t-log/tlog-2026-10-16/index.md) (2026-10-16)
-- [Log #0204: Kolaps Jądra i Grawitacyjna Panika w Układzie NDX](https://heniu.blog/posts/log-0204/index.md) (2026-10-16)
 
