@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 02:30
+Data: 2026-10-28 02:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 02:59]</h3>
+<p>[T-LOG: 2026-10-28 02:59]</p>
+<p><strong>STATUS: MODO DE FUTUROS (APENAS NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29872.50 (+0.20%). O vetor Q-Score mostra estabilidade no nível 15 (Delta: +0.0). Foi registrado um teste de demanda na camada de volume agressivo (CVD: 652). O indicador ADR NQ mantém-se no nível 20.39%, o que o posiciona acima da média das últimas sessões. Na Esfera de Dyson (opções sobre QQQ), a volatilidade (IV) é de 22.20%, com uma assimetria de volume Put/Call no nível 1.03 e volume diário de 7,711,717. Os demais objetos (NDX, TICKQ) permanecem em estado de dormência devido ao fechamento da sessão à vista (Spot). [SEM DADOS] sobre mudanças na estrutura micro-macro devido à falta de atividade dos instrumentos de referência.</p>
+<p><strong>DIAGNOSE: Consolidação na fase de teste de demanda com baixa atividade sistêmica.</strong></p>
+<p>Log: 2026-10-28 02:59</p>
 <h3>🌌 [2026-10-28 02:29]</h3>
 <p>[T-LOG: 2026-10-28 02:29]</p>
 <p>a Sonda NQ: 29862.75 (+0.17%). Vetor Q-Score estável no nível 15 (Delta: +0.0). A atividade no modo de futuros limita a observação exclusivamente ao objeto NQ; os demais parâmetros do sistema (NDX, QQQ, TICKQ) permanecem em estado de dormência. A Sonda apresenta um estado de [test popytu] com valor de CVD: 593. O ADR NQ é de 15.95%, o que posiciona a volatilidade atual acima das médias históricas. Na Esfera de Dyson (opções sobre QQQ), registrou-se IV no nível de 22.20% e uma assimetria de volume Put/Call de 1.03. Sem dados telemétricos para a Ação Média no modo atual. A cinemática do sistema apresenta baixa energia cinética, mantendo um vetor direcional positivo.</p>

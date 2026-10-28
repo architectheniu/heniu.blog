@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 02:29
+Date: 2026-10-28 02:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 02:59]</h3>
+<p>[T-LOG: 2026-10-28 02:59]</p>
+<p><strong>STATUS: FUTURES SESSION MODE (NQ ONLY)</strong></p>
+<p>the NQ Probe is currently at level 29872.50 (+0.20%). The Q-Score vector shows stability at level 15 (Delta: +0.0). A demand test was recorded in the aggressive volume layer (CVD: 652). The NQ ADR indicator remains at 20.39%, placing it above the average of recent sessions. In the Dyson Sphere (QQQ options), volatility (IV) is 22.20%, with a Put/Call volume asymmetry at level 1.03 and a daily volume of 7,711,717. Other objects (NDX, TICKQ) remain in a sleep state due to the close of the cash session (Spot). No data on changes in the micro-macro structure due to a lack of activity in reference instruments.</p>
+<p><strong>DIAGNOSIS: Consolidation in the demand test phase with low system activity.</strong></p>
+<p>Log: 2026-10-28 02:59</p>
 <h3>🌌 [2026-10-28 02:29]</h3>
 <p>[T-LOG: 2026-10-28 02:29]</p>
 <p>the NQ Probe: 29862.75 (+0.17%). Q-Score vector stable at level 15 (Delta: +0.0). Activity in the futures session mode limits observation exclusively to the NQ object; other system parameters (NDX, QQQ, TICKQ) remain in sleep mode. The probe shows a [demand test] state with CVD value: 593. NQ ADR is 15.95%, which places current volatility above historical averages. In the Dyson Sphere (QQQ) options, IV was recorded at 22.20% and Put/Call volume asymmetry was 1.03. No telemetry data for Average Stock in the current mode. System kinematics show low kinetic energy while maintaining a positive directional vector.</p>
