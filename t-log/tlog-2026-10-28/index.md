@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 17:29
+Data: 2026-10-28 17:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 17:44]</h3>
+<p>T-log: 2026-10-28 17:44</p>
+<p><strong>STATUS: SPOT | TRYB: PEŁNA SESJA KASOWA</strong></p>
+<p>Obserwacja instrumentów orbitalnych wykazuje rozwarstwienie wektorów (Cross-Asset Divergence). Gwiazda NDX (29692.82) wykazuje test popytu (CVD: 209,07K), podczas gdy Sonda NQ (29845.00) znajduje się w fazie wyprzedaży (CVD: -10,11K). Satelita QQQ (722.18) potwierdza test podaży (CVD: -934,71K). Szeroka Giełda (TICKQ) raportuje akumulację na poziomie 57.00, co jest wynikiem powyżej średniej SMA200 (10.54). W Sferze Dysona (QQQ) obserwowana jest asymetria wolumenu (P/C Ratio: 1.07) przy zmienności (IV) 21.95%. Masa Galaktyki utrzymuje się na poziomie 42.02 T (Delta: -0.00 T), a Średnia Akcja wynosi $305.69 (Delta: +0.03 USD), co wskazuje na powolną ekspansję koszyka. Q-Score wynosi -8, sygnalizując ujemną orientację wektora rynku.</p>
+<p><strong>DIAGNOZA: Rozwarstwienie układu; asymetryczny popyt na jądro przy jednoczesnej realizacji zysków w sektorach wspierających.</strong></p>
+<p>Log: 2026-10-28 17:44</p>
 <h3>🌌 [2026-10-28 17:29]</h3>
 <p><strong>Status: SPOT [Sesja Kasowa Aktywna]</strong></p>
 <p><strong>Telemetria Obiektów:</strong><br />

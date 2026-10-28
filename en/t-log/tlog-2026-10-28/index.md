@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 17:29
+Date: 2026-10-28 17:44
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 17:44]</h3>
+<p>T-log: 2026-10-28 17:44</p>
+<p><strong>STATUS: SPOT | MODE: FULL CASH SESSION</strong></p>
+<p>Observation of orbital instruments shows cross-asset divergence. The NDX Star (29692.82) shows a demand test (CVD: 209,07K), while the NQ Probe (29845.00) is in a sell-off phase (CVD: -10,11K). The QQQ Satellite (722.18) confirms a supply test (CVD: -934,71K). Market breadth (TICKQ) reports accumulation at a level of 57.00, which is a result above the SMA200 average (10.54). In the Dyson Sphere (QQQ), volume asymmetry is observed (P/C Ratio: 1.07) with volatility (IV) at 21.95%. Galaxy Mass remains at 42.02 T (Delta: -0.00 T), and Average Action is $305.69 (Delta: +0.03 USD), indicating a slow expansion of the basket. Q-Score is -8, signaling a negative market vector orientation.</p>
+<p><strong>DIAGNOSIS: System divergence; asymmetric demand for the core with simultaneous profit-taking in supporting sectors.</strong></p>
+<p>Log: 2026-10-28 17:44</p>
 <h3>🌌 [2026-10-28 17:29]</h3>
 <p><strong>Status: SPOT [the cash session Active]</strong></p>
 <p><strong>Object Telemetry:</strong><br />

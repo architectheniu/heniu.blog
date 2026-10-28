@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 17:30
+Data: 2026-10-28 17:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 17:44]</h3>
+<p>T-log: 2026-10-28 17:44</p>
+<p><strong>STATUS: SPOT | MODO: SESSÃO À VISTA COMPLETA</strong></p>
+<p>A observação dos instrumentos orbitais mostra uma divergência de vetores (Cross-Asset Divergence). A Estrela NDX (29692.82) apresenta um teste de demanda (CVD: 209,07K), enquanto a Sonda NQ (29845.00) encontra-se em uma fase de liquidação (CVD: -10,11K). O Satélite QQQ (722.18) confirma um teste de oferta (CVD: -934,71K). A Amplitude de mercado (TICKQ) reporta acumulação no nível de 57.00, o que é um resultado acima da média SMA200 (10.54). Na Esfera de Dyson (QQQ), observa-se uma assimetria de volume (P/C Ratio: 1.07) com volatilidade (IV) de 21.95%. A Massa da Galáxia mantém-se no nível de 42.02 T (Delta: -0.00 T), e a Ação Média é de $305.69 (Delta: +0.03 USD), indicando uma expansão lenta da cesta. O Q-Score é de -8, sinalizando uma orientação negativa do vetor de mercado.</p>
+<p><strong>DIAGNÓSTICO: Divergência do sistema; demanda assimétrica pelo núcleo com realização de lucros simultânea nos setores de suporte.</strong></p>
+<p>Log: 2026-10-28 17:44</p>
 <h3>🌌 [2026-10-28 17:29]</h3>
 <p><strong>Status: SPOT [a sessão à vista Ativa]</strong></p>
 <p><strong>Telemetria de Objetos:</strong><br />
