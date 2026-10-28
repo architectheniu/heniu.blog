@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 18:59
+Data: 2026-10-28 19:14
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 19:14]</h3>
+<p>[T-LOG: 2026-10-28 19:14]</p>
+<p>O suporte HVN do ecossistema US100 foi rompido no nível NDX 29690 (NQ ≈ 29846), o que iniciou uma queda abrupta na cinética do sistema. A Sonda NQ encontra-se atualmente no nível 29812.25, com ADR 37.97%. A Estrela NDX apresenta um estado de teste de oferta (CVD: -4,62M), enquanto a Sonda NQ e o Satélite QQQ (Preço: 721.37) relatam uma liquidação (CVD respectivamente: -12,01K e -1,1M). A ampla Bolsa Nasdaq (TICKQ) registra um colapso de mercado no nível -416.00, o que, com a tendência de radiação em queda (SMA200: -2.09), confirma a dominância da pressão de oferta. A Massa da Galáxia é de 41.96 T (Delta: -0.08 T), e a Ação Média encolheu para $305.49 (Delta: -0.66 USD), indicando uma redução geral no valor nominal da cesta. Na Esfera de Dyson IV é de 21.80%, com uma assimetria de volume Put/Call no nível de 1.13. O Q-Score é de -18, o que, com vetores negativos de todos os objetos principais, indica uma decomposição forte e sincronizada.</p>
+<p>O sistema está em fase de liquidação abrupta com violação de barreiras de volume cruciais.</p>
+<p><strong>Alarmes de fluxo do Log anterior:</strong> 19:00 fluxo repentino de NQ para cima; ignição de fluxo NQ; 19:06 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-28 18:59]</h3>
 <p><strong>Log: 2026-10-28 18:59</strong></p>
 <p>[STATUS: SPOT | MODO: A SESSÃO À VISTA (SPOT)]</p>

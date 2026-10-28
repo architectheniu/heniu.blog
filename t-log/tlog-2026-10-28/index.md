@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 18:59
+Data: 2026-10-28 19:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 19:14]</h3>
+<p>[T-LOG: 2026-10-28 19:14]</p>
+<p>Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29690 (NQ ≈ 29846), co zainicjowało gwałtowny spadek kinetyki układu. Sonda NQ znajduje się obecnie na poziomie 29812.25, przy ADR 37.97%. Gwiazda NDX wykazuje stan testu podaży (CVD: -4,62M), podczas gdy Sonda NQ oraz Satelita QQQ (Cena: 721.37) raportują wyprzedaż (CVD odpowiednio: -12,01K oraz -1,1M). Szeroka Giełda Nasdaq (TICKQ) odnotowuje załamanie rynku na poziomie -416.00, co przy spadającym Trendzie Promieniowania (SMA200: -2.09) potwierdza dominację presji podażowej. Masa Galaktyki wynosi 41.96 T (Delta: -0.08 T), a Średnia Akcja skurczyła się do $305.49 (Delta: -0.66 USD), co wskazuje na ogólną redukcję wartości nominalnej koszyka. W Sferze Dysona IV wynosi 21.80%, przy asymetrii wolumenu Put/Call na poziomie 1.13. Q-Score wynosi -18, co przy ujemnych wektorach wszystkich kluczowych obiektów wskazuje na silną, zsynchronizowaną dekompozycję.</p>
+<p>Układ w fazie gwałtownej wyprzedaży z naruszeniem kluczowych zapór wolumenowych.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 19:00 nagły przepływ NQ w górę; zapłon przepływu NQ; 19:06 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-28 18:59]</h3>
 <p><strong>Log: 2026-10-28 18:59</strong></p>
 <p>[STATUS: SPOT | TRYB: SESJA KASOWA]</p>
