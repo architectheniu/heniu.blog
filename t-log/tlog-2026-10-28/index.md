@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 14:29
+Data: 2026-10-28 14:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,23 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 14:44]</h3>
+<p><strong>[T-LOG: 2026-10-28 14:44]</strong></p>
+<p><strong>STATUS: SPOT</strong><br />
+<strong>OBIEKTY AKTYWNE:</strong><br />
+- <strong>Gwiazda NDX:</strong> Cena: 29721.50 (+0.24%). CVD: -3.94M [test podaży].<br />
+- <strong>Sonda NQ:</strong> Cena: 29873.75 (+0.21%). CVD: -8.3K [test podaży]. ADR: 35.14%.<br />
+- <strong>Satelita QQQ:</strong> Cena: 722.82 (+0.22%). CVD: -601.68K [test podaży].<br />
+- <strong>Szeroka Giełda (TICKQ):</strong> -37.00 [test podaży]. SMA200: 3.81 [test popytu]. Status: BELOW.<br />
+- <strong>Sfera Dysona (Opcje):</strong> IV: 0.00%. Put/Call Ratio: 1.21.</p>
+<p><strong>DYNAMIKA UKŁADU:</strong><br />
+Masa Galaktyki wynosi 42.07 T (Delta: +0.01 T). Średnia Akcja wynosi $304.72 (Delta: +0.27 USD), co wskazuje na systematyczne rozszerzanie się koszyka (wzrost notional value). Wektor kierunkowy Q-Score wynosi -13.</p>
+<p><strong>ANALIZA KINEMATYKI:</strong><br />
+Występuje zjawisko rozwarstwienia układu (Cross-Asset Divergence): mimo dodatniej delty ceny i rozszerzania się masy, wszystkie główne wektory ciśnienia (NDX, NQ, QQQ) wykazują ujemną dywergencję wolumenu (test podaży). Promieniowanie tła (TICKQ) znajduje się w strefie testu podaży, co przy ujemnym Q-Score sugeruje brak realnej akrecji. Asymetria wolumenu w Sferze Dysona (P/C Ratio: 1.21) potwierdza dominację popytu na ubezpieczenie przy jednoczesnym testowaniu podaży na instrumentach bazowych.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Układ w fazie grawitacyjnego napięcia; wzrosty cenowe są strukturalnie "puste" i nie są wspierane przez agresywny wolumen (dominacja testów podaży).</p>
+<p><strong>Log: 2026-10-28 14:44</strong></p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 14:30 nagły przepływ NQ w dół; zapłon przepływu NQ; 14:36 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-28 14:29]</h3>
 <p>[LOG_START]<br />
 <strong>STATUS: FUTURES (NQ ACTIVE)</strong></p>

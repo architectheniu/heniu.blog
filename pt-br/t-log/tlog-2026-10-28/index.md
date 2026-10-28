@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 14:30
+Data: 2026-10-28 14:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,23 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 14:44]</h3>
+<p><strong>[T-LOG: 2026-10-28 14:44]</strong></p>
+<p><strong>STATUS: A SESSÃO À VISTA (SPOT)</strong><br />
+<strong>OBJETOS ATIVOS:</strong><br />
+- <strong>a Estrela NDX:</strong> Preço: 29721.50 (+0.24%). CVD: -3.94M [teste de oferta].<br />
+- <strong>a Sonda NQ:</strong> Preço: 29873.75 (+0.21%). CVD: -8.3K [teste de oferta]. ADR: 35.14%.<br />
+- <strong>Satélite QQQ:</strong> Preço: 722.82 (+0.22%). CVD: -601.68K [teste de oferta].<br />
+- <strong>Bolsa Ampla (TICKQ):</strong> -37.00 [teste de oferta]. SMA200: 3.81 [teste de demanda]. Status: BELOW.<br />
+- <strong>a Esfera de Dyson (Opções):</strong> IV: 0.00%. Put/Call Ratio: 1.21.</p>
+<p><strong>DINÂMICA DO SISTEMA:</strong><br />
+A Massa da Galáxia é de 42.07 T (Delta: +0.01 T). A Ação Média é de $304.72 (Delta: +0.27 USD), o que indica uma expansão sistemática da cesta (aumento do valor notional). O vetor direcional Q-Score é de -13.</p>
+<p><strong>ANÁLISE DE CINEMÁTICA:</strong><br />
+Ocorre o fenômeno de divergência de ativos (Cross-Asset Divergence): apesar da delta de preço positiva e da expansão da massa, todos os principais vetores de pressão (NDX, NQ, QQQ) exibem uma divergência de volume negativa (teste de oferta). a Radiação de Fundo (TICKQ) encontra-se na zona de teste de oferta, o que, com um Q-Score negativo, sugere a falta de acreção real. A assimetria de volume na Esfera de Dyson (P/C Ratio: 1.21) confirma a dominância da demanda por proteção, enquanto simultaneamente testa a oferta nos instrumentos subjacentes.</p>
+<p><strong>DIAGNÓSTICO:</strong><br />
+Sistema em fase de tensão gravitacional; as altas de preço são estruturalmente "vazias" e não são sustentadas por volume agressivo (dominância de testes de oferta).</p>
+<p><strong>Log: 2026-10-28 14:44</strong></p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 14:30 fluxo repentino de NQ para baixo; ignição de fluxo NQ; 14:36 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-28 14:29]</h3>
 <p>[LOG_START]<br />
 <strong>STATUS: FUTURES (NQ ACTIVE)</strong></p>
