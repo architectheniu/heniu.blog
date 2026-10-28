@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Date: 2026-10-28 22:07
+Date: 2026-10-28 23:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.28 [EN]</h1>
+<h3>📈 [2026-10-28 23:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot) status:</strong> The cash session (Spot) is currently closed; the TICKQ indicator is inactive. Analysis is based on NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ futures contracts:</strong> Contract price is 29694.50 (-0.94%), with negative cumulative flow (CVD) at -2,78 K, indicating testing of supply in the session after the regular session.</li>
+<li><strong>Support and resistance levels:</strong> The NDX index is near the swing high from 28.10 (29821.65). The nearest support zone (volume node) is in the 29740–29760 range, while the resistance zone is 29830–29850.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate flow direction indicator is 15, signifying a weak advantage in capital inflow. Nevertheless, at the close of the cash session, a strong cumulative flow (CVD) for NDX was recorded at 152,16 M with a price increase of 0.55%.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 21.02%, and the Put/Call Volume Ratio is 1.11, suggesting a slight advantage in hedging positions or expectations of declines. The expected range of movement for QQQ is between 718.71 and 732.51 with an options volume of 4,946,453.</li>
+</ul>
+<p>H-Log Report: 2026-10-28 23:07</p>
 <h3>📈 [2026-10-28 close]</h3>
 <p><strong>H-LOG: the cash session (Spot) summary</strong></p>
 <p>This is a summary of the cash session (Spot) from 2026-10-28. The NDX index closed at 29821.65, representing a change of +0.55%, with CVD at 152,16 M and ADR range consumption at 54.69%. The NQ futures contract ended the session at 30066.75 (+0.85%) with CVD at −222 and ADR consumption of 70.25%. The QQQ ETF reached a close of 725.48, representing an increase of +0.59%, with CVD at −426,08 K and ADR consumption of 56.43%. The TICKQ indicator closed at 23.00, above the SMA200 of 21.87, while the MOC Anomaly was +33,02 M.</p>
