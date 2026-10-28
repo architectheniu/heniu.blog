@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 18:44
+Data: 2026-10-28 18:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 18:59]</h3>
+<p><strong>Log: 2026-10-28 18:59</strong></p>
+<p>[STATUS: SPOT | MODO: A SESSÃO À VISTA (SPOT)]</p>
+<p>Às 18:50, foi registrado o rompimento da barreira HVN do ecossistema US100 no nível da NDX 29690, o que resulta em um novo regime de preços para a Sonda NQ (atualmente: 29864.75). A Estrela NDX apresenta um teste de demanda (CVD: 7,18M), enquanto a Sonda NQ e o Satélite QQQ encontram-se em fase de teste de oferta (CVD: -7,97K e -799,13K, respectivamente). Ocorre uma clara divergência do sistema (Cross-Asset Divergence): a demanda agressiva no Núcleo (NDX) contrasta com a pressão de venda nos instrumentos de suporte (NQ, QQQ). A Amplitude de mercado (TICKQ) indica acumulação (73.00), mantendo-se acima da média de radiação (SMA200: 13.45). A Massa da Galáxia aumentou para 42.04 T (Delta: +0.02 T), e a Ação Média é de $306.15 (Delta: +0.31 USD), o que sinaliza uma expansão lenta da cesta. Na Esfera de Dyson (QQQ), foi registrada uma assimetria de volume (P/C Ratio: 1.07) com volatilidade IV no nível de 21.88%. O Q-Score permanece em estado neutro (0).</p>
+<p>[DIAGNÓSTICO: Divergência de vetores; crescimento estruturalmente assimétrico com dominância de demanda no Núcleo, com realização de lucros simultânea no Setor.]</p>
 <h3>🌌 [2026-10-28 18:44]</h3>
 <p>[T-LOG: 2026-10-28 18:44]</p>
 <p><strong>Status: a sessão à vista (Spot)</strong><br />
