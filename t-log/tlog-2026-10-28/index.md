@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 05:29
+Data: 2026-10-28 05:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 05:59]</h3>
+<p>[T-LOG: 2026-10-28 05:59]</p>
+<p><strong>STATUS: FUTURES (Tryb NQ aktywny)</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29894.75 (+0.28%). Wektor Q-Score utrzymuje stabilność na poziomie 15 (Delta: +0.0). Odnotowano test popytu w przepływie agresywnego wolumenu (CVD NQ: 1.74K). Wskaźnik ADR NQ wynosi 30.74%, co sytuuje go powyżej średniej z ostatnich sesji. W sferze Dysona (QQQ) zmienność (IV) wynosi 22.20%, przy zasięgu oczekiwanym w przedziale 711.44 – 731.06. Asymetria wolumenu kontraktów Put/Call wynosi 1.03. Pozostałe obiekty (NDX, TICKQ) pozostają w stanie uśpienia (sesja kasowa zamknięta).</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Obecny stan charakteryzuje się niską kinetyką przy lekkiej dominacji popytu w mikro-skali. Brak danych o zderzeniu wektorów makro i mikro ze względu na ograniczenie trybu do Futures. Układ w fazie testowania lokalnej presji popytowej przy niskim wolumenie.</p>
+<p>Log: 2026-10-28 05:59</p>
 <h3>🌌 [2026-10-28 05:29]</h3>
 <p>[T-LOG: 2026-10-28 05:29]</p>
 <p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
