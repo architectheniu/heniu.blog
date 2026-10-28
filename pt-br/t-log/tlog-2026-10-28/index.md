@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 15:44
+Data: 2026-10-28 15:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 15:59]</h3>
+<p><strong>[T-LOG: 2026-10-28 15:59]</strong></p>
+<p><strong>STATUS: OPEN | MODO: SPOT</strong></p>
+<p>O suporte HVN do ecossistema US100 foi derrubado no nível NDX 29650 (NQ ≈ 29804). A Sonda NQ encontra-se atualmente no nível 29806.25, com ADR de 37.97%. A Estrela NDX apresenta um estado de teste de oferta (CVD: -5,06M), enquanto o Satélite QQQ também registra um teste de oferta (CVD: -852,66K). O sistema caracteriza-se por um vetor direcional negativo Q-Score no nível -10. A amplitude de mercado (TICKQ) encontra-se em estado de sobrevenda (-102.00), o que é um desvio significativo da média SMA200 (10.42). Na Esfera de Dyson (QQQ) observa-se uma assimetria de volume (Put/Call Ratio: 1.10) com volatilidade IV no nível 21.85%. A tendência da radiação está diminuindo (-1.49).</p>
+<p><strong>DIAGNÓSTICO: Estratificação do sistema e dominância de oferta na zona após a derrubada do suporte HVN.</strong></p>
 <h3>🌌 [2026-10-28 15:44]</h3>
 <p>[T-LOG: 2026-10-28 15:44]</p>
 <p><strong>STATUS: a sessão à vista (Spot)</strong></p>

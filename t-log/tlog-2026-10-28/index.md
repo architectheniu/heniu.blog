@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 15:44
+Data: 2026-10-28 15:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 15:59]</h3>
+<p><strong>[T-LOG: 2026-10-28 15:59]</strong></p>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p>Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29650 (NQ ≈ 29804). Sonda NQ znajduje się obecnie na poziomie 29806.25, przy ADR wynoszącym 37.97%. Gwiazda NDX wykazuje stan testu podaży (CVD: -5,06M), podczas gdy Satelita QQQ również rejestruje test podaży (CVD: -852,66K). Układ charakteryzuje się ujemnym wektorem kierunkowym Q-Score na poziomie -10. Szeroka Giełda Nasdaq (TICKQ) znajduje się w stanie wyprzedaży (-102.00), co jest znaczącym odchyleniem od średniej SMA200 (10.42). W Sferze Dysona obserwowana jest asymetria wolumenu (Put/Call Ratio: 1.10) przy zmienności IV na poziomie 21.85%. Trend promieniowania maleje (-1.49).</p>
+<p><strong>DIAGNOSTYKA: Rozwarstwienie układu i dominacja podaży w strefie po obaleniu wsparcia HVN.</strong></p>
 <h3>🌌 [2026-10-28 15:44]</h3>
 <p>[T-LOG: 2026-10-28 15:44]</p>
 <p><strong>STATUS: SPOT</strong></p>
