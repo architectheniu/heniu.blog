@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 07:59
+Date: 2026-10-28 08:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 08:29]</h3>
+<p>[T-LOG: 2026-10-28 08:29]</p>
+<p><strong>STATUS: THE FUTURES SESSION (OUTSIDE THE CASH SESSION MODE)</strong></p>
+<p>the NQ Probe is currently at level 29962.75 (+0.50%). Measurements show the presence of a demand test in the CVD layer (3,76 K), which correlates with activity in the options sector, where IV is 22.20% with a Put/Call Ratio at 1.03. The Q-Score vector maintains stability at level 15 (Delta: +0.0). ADR for the NQ Probe is currently at 34.76%, indicating extremely high volatility relative to standard readings. Other objects (NDX, QQQ, TICKQ) remain in dormancy – no telemetry data for the cash segment.</p>
+<p><strong>SYSTEM DIAGNOSTICS:</strong><br />
+The system shows signals of local accretion in the micro layer, however, the high ADR value suggests that the current dynamics are occurring in an environment of extremely expanded range of movement. Lack of resonance between macro and micro vectors due to lack of activity in underlying instruments.</p>
+<p><strong>CONCLUSION:</strong><br />
+Consolidation under conditions of high fluctuation; lack of clear macro direction with an active demand test at the futures contract level.</p>
+<p>Log: 2026-10-28 08:29</p>
 <h3>🌌 [2026-10-28 07:59]</h3>
 <p>[T-LOG: 2026-10-28 07:59]</p>
 <p>the NQ Probe is in a demand testing phase at price 29952.50 (+0.47%). The Q-Score vector is 15 (Delta: +0.0), maintaining a neutral, slightly positive system orientation. CVD measurements for the NQ Probe indicate a value of 3.9K, which classifies the current state as a demand test. ADR NQ is 30.95%, situating current dynamics above historical average ranges. In the Dyson Sphere (QQQ options), volatility (IV) was recorded at 22.20% with an expected range between 711.44 and 731.06. The Put/Call volume asymmetry is 1.03, with a daily option volume of approximately 7,711,717. Other objects (NDX, TICKQ) remain in dormancy due to the futures session mode.</p>
