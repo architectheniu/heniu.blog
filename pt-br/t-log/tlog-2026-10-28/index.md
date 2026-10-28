@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 07:29
+Data: 2026-10-28 07:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 07:59]</h3>
+<p>[T-LOG: 2026-10-28 07:59]</p>
+<p>a Sonda NQ encontra-se em fase de teste de demanda ao preço de 29952.50 (+0.47%). O vetor Q-Score é 15 (Delta: +0.0), mantendo uma orientação neutra e levemente positiva do sistema. As medições de CVD para a Sonda NQ indicam um valor de 3,9K, o que classifica o estado atual como um teste de demanda. O ADR NQ é de 30.95%, o que situa a dinâmica atual acima das médias históricas de amplitude. Na Esfera de Dyson (opções QQQ), registrou-se volatilidade (IV) no nível de 22.20% com amplitude esperada entre 711.44 e 731.06. A assimetria de volume Put/Call é de 1.03, com volume de opções diário na ordem de 7,711,717. Os demais objetos (NDX, TICKQ) permanecem em dormência devido ao modo de sessão de futuros.</p>
+<p>Sistema em fase de teste de liquidez de demanda local com baixo volume.</p>
 <h3>🌌 [2026-10-28 07:29]</h3>
 <p>[T-LOG: 2026-10-28 07:29]</p>
 <p><strong>STATUS: MODO FUTUROS (NR-NQ)</strong><br />
