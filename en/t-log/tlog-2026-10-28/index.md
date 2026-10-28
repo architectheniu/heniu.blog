@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 17:44
+Date: 2026-10-28 17:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 17:59]</h3>
+<p><strong>Log: 2026-10-28 17:59</strong></p>
+<p>System in the cash session (Spot) mode. the NQ Probe is at level 29882.00, with ADR 37.97%. The breaking of the US100 ecosystem HVN support was recorded at NDX level 29690 (NQ ≈ 29843). the NDX Star shows a demand test (CVD: 5,98M), while the NQ Probe and the QQQ Satellite react with a supply test (CVD: -7,4K and -832,14K respectively). There is a clear Cross-Asset Divergence: the Core (NDX) is testing demand, while supporting vectors (NQ, QQQ) show supply pressure. Broad Market breadth (TICKQ) (98.00) indicates accumulation, remaining above the SMA200 radiation average (11.57). Galaxy Mass increased to 42.07 T (+0.05 T), and the Average Action is $306.19 (Delta: +0.50 USD), suggesting a slow expansion of the basket. In the Dyson Sphere (QQQ), the Put/Call Ratio is 1.08 at IV 21.92%. Q-Score at level -8 indicates the dominance of the negative vector while simultaneously increasing the radiation trend.</p>
+<p><strong>System status: Vector dissonance and flow asymmetry.</strong></p>
+<p><strong>Flow alarms from previous Log:</strong> 17:54 sudden NQ flow upward; NQ flow ignition.</p>
 <h3>🌌 [2026-10-28 17:44]</h3>
 <p>T-log: 2026-10-28 17:44</p>
 <p><strong>STATUS: SPOT | MODE: FULL CASH SESSION</strong></p>
