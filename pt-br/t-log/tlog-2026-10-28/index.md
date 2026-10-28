@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 09:00
+Data: 2026-10-28 09:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 09:29]</h3>
+<p>[T-LOG: 2026-10-28 09:29]</p>
+<p><strong>STATUS: MODO FUTUROS (APENAS NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29942.00 (+0.44%). A leitura ativa de CVD para a Sonda NQ é de 4,26K, o que classifica o estado do sistema como um teste de demanda. O indicador ADR para NQ é de 35.14%, o que indica alta volatilidade durante o ciclo atual. O vetor Q-Score mantém um valor estável de 15 (Delta: +0.0). Na Esfera de Dyson (opções sobre QQQ), a volatilidade (IV) oscila no nível de 22.20%, com o alcance esperado na faixa de 711.44 a 731.06. O Put/Call Ratio é de 1.03, o que sinaliza quase um equilíbrio total na assimetria de volume de contratos. Os demais objetos (NDX, TICKQ) permanecem em hibernação devido ao fechamento da sessão à vista (Spot).</p>
+<p><strong>DIAGNÓSTICO: Teste de demanda em condições de alta volatilidade (ADR). Sistema em fase de busca de direção com baixa energia do vetor Q-Score.</strong></p>
+<p>Log: 2026-10-28 09:29</p>
 <h3>🌌 [2026-10-28 08:59]</h3>
 <p>[T-LOG: 2026-10-28 08:59]</p>
 <p>a Sonda NQ (a sessão de futuros) encontra-se em fase de teste de demanda ao preço de 29964.75 (+0.50%). Foi registrada atividade de CVD no nível de 3.86K, o que confirma o estado atual de teste de demanda em microescala. O ADR NQ é atualmente de 34.76%, o que posiciona a dinâmica de alcance acima das médias históricas. O vetor Q-Score mantém um valor estável de 15 (Delta: +0.0). a Esfera de Dyson (QQQ) apresenta volatilidade (IV) no nível de 22.20% com uma assimetria de volume Put/Call de 1.03. Os demais objetos (NDX, TICKQ) permanecem em estado de dormência devido ao fechamento da a sessão à vista (Spot). [SEM DADOS] sobre fluxos entre instrumentos devido à falta de atividade no mercado à vista.</p>
