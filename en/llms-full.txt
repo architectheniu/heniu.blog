@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0214: Session summary 2026-10-28: NDX 29821.65 (+0.55%)
+
+Date: 2026-10-28 21:03
+URL: https://heniu.blog/en/posts/log-0214/
+
+
+**Session date:** 2026-10-28
+
+> *Session close 2026-10-28: NDX 29821.65 (+0.55%), NQ 30066.75 (+0.85%), QQQ 725.48 (+0.59%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session began at 9:30 ET (14:30 PL) at NDX level 29727.23 and NQ 29920.50. In the first 30 minutes until 10:00 ET (15:00 PL), the NDX index fell by 25.93 pts (-0.09%) to 29701.30, and NQ fell by 67.75 pts (-0.23%) to 29852.75. The session minimum was recorded at 9:49 ET (14:49 PL) at NDX level 29620.90 and NQ 29772.50, while the maximum occurred at 14:44 ET (19:44 PL) at NDX level 29847.38 and NQ 30006.00. The NDX close at level 29821.65 is 25.73 pts below the maximum and 200.75 pts above the minimum.
+
+**Flows and market breadth.** Cumulative flow (CVD) directions were divergent, as NDX recorded a positive result of 152,16 M euphoria, while NQ was negative -222 supply test, and QQQ was negative -426,08 K supply test. Market breadth (TICKQ) at close was 23.00 demand test, with a SMA200 average at 21.87 accumulation. The share of companies above 1 trillion USD in the basket capitalization was 68.25%.
+
+**End of session, options and companies.** In the last hour from 15:00 ET (20:00 PL) to the close at 16:00 ET (21:00 PL), the NDX index rose by 62.69 pts (+0.21%) to 29821.65. At the close, a MOC Anomaly of +33,02 M occurred. Implied volatility (IV) for options on QQQ was 21.41%, and the put/call ratio was 1.43.
+
+**Day's balance.** The Nasdaq-100 index closed at 29821.65 (+0.55%).
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **29821.65 (+0.55%)**
+    * Cumulative flow (CVD): **152,16 M [euphoria]**
+    * Closing anomaly (MOC): **+33,02 M**
+    * Average daily range (ADR) utilization: **54.69%**
+    * Drawdown from Heniu's highest close: **-4.50%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **30066.75 (+0.85%)**
+    * Cumulative flow (CVD): **−222 [supply test]**
+    * Average daily range (ADR) utilization: **70.25%**
+
+* **QQQ ETF:** close **725.48 (+0.59%)**
+    * Cumulative flow (CVD): **−426,08 K [supply test]**
+    * Average daily range (ADR) utilization: **56.43%**
+
+* **Market breadth (TICKQ):** close reading **23.00 [demand test]**
+    * 200 readings average (SMA200): **21.87 [accumulation]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **21.41%**
+    * Put/call ratio (open interest, OI): **1.43**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **42.15 trillion USD** (change from previous close: **+0.10 trillion USD**)
+    * Share of companies above 1 trillion USD in basket capitalization: **68.25%** (change: **-0.18 pp**)
+    * Average stock price in the basket: **$308.86** (change: **+$6.14**)
+    * Changes in the group of companies above 1 trillion USD: **unchanged**
+
+* **Session data health:** readings through 100.0% of the cash session; no gaps longer than a minute; NDX unchanged longer than 2 min in 0.0% of readings
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0214/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-10-28",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0029: Old Dominion Freight Line: 3Q2026 results
 
 Date: 2026-10-28 19:49
@@ -1104,100 +1184,5 @@ Costco Wholesale (COST) filed a report of changes in management or board.
 Copart (CPRT) filed a report of changes in management or board.
 
 Insiders on 16.10 sold shares for 32.0 million USD, including 31.1 million USD from 10b5-1 plans; market purchases amounted to 50 thousand USD. The largest sale was reported by Moderna (MRNA) insiders: 17.0 million USD.
-
-
----
-
-## Log #0205: Gravitational Collapse and Decay of Orbital Structures
-
-Date: 2026-10-18 09:00
-URL: https://heniu.blog/en/posts/log-0205/
-
-
-> ⚠️ **ERRATUM (2026-10-18)**  
-> **The weekly balance had three errors: the IV change, the NQ range and the price label.**
->
-> **Corrections:**
-> - Implied volatility (IV) rose by 4.04 p.p. since Monday (from 18.72% to 22.76%), not relative to the weekly average. The weekly average was 19.61%, i.e. 3.15 p.p. below Friday's reading.
-> - NQ weekly range: 29353.00 — 31242.00 (amplitude 1889.00 pts), not 29379.75 — 31242.00 (1862.25 pts). The range was taken from prices quoted in the T-Logs and did not include the Friday close (29353.00), which was below the stated low.
-> - The value labelled “Monday Open” is the previous Friday's close, from which the weekly changes are calculated, not Monday's opening price. We corrected the label; the weekly changes stay the same.
-
-**Stardate:** 2026.10.18\
-**Systems Status:** External Observation\
-**Sector:** Inner Volatility Bands
-
----
-
-### Weekly Telemetry: Opening and Closing Balance
-
-> *The system experienced a violent decompression of total T-Mass by 4.74%, driven by a mass escape of capital from NDX and NQ. High oscillation amplitude and an increase in IV signal a phase transition into a state of high entropy.*
-
-* **Subspace Scanner (Weekly Mass Balance):**
-    * *System T-Mass (Open → Close):* **43.75 T → 41.68 Trillion USD**
-    * *Weekly Mass Delta:* **-2.07 Trillion USD (-4.74%)**
-    * *Core Density (Heavy Nine):* **68.42% → 66.41%** (Delta: **-2.01 p.p.**)
-    * *Average Action (Periphery Temperature):* **[NO DATA] → [NO DATA]** (Delta: **[NO DATA]**)
-    * *Core Composition Fluctuation (>1T):* **Stability (no emergence/collapse)**
-
-* **the NDX Star (Sun — 5 Session Balance):**
-    * *Price (Previous Friday Close → Friday Close):* **30886.82 → 29184.88 (-1701.94 pts | -5.51%)**
-    * *Weekly Range (Extremes):* **29182.00 — 30695.74 (Amplitude: 1513.74 pts)**
-    * *Cumulative Energy Flow (Weekly CVD):* **−110.88 M [panic]**
-
-* **the NQ Probe (Mercury — 5 Session Balance):**
-    * *Price (Previous Friday Close → Friday Close):* **31108.26 → 29353.00 (-1755.26 pts | -5.64%)**
-    * *Weekly Range (Extremes):* **29353.00 — 31242.00 (Amplitude: 1889.00 pts)**
-    * *Cumulative Energy Flow (Weekly CVD):* **−59.21 K [market crash]**
-
-* **the Dyson Sphere (QQQ — 5 Session Balance):**
-    * *Price (Previous Friday Close → Friday Close):* **751.24 → 709.86 (-41.38 USD | -5.51%)**
-    * *Weekly Range (Extremes):* **709.86 — 746.72 (Amplitude: 36.86 USD)**
-    * *Cumulative Population Flow (Weekly CVD):* **+2.95 M [market surge]**
-
-* **Background Radiation (TICKQ — Weekly Market Breadth):**
-    * *Weekly Average Radiation (TICKQ SMA200):* **-38.05 [sell-off]**
-    * *Weekly Radiation Range:* **Min -83.13 / Max +10.71**
-
-* **Gravitational Structure (Options — the Dyson Sphere):**
-    * *Implied Volatility (IV):* **22.76%** (Weekly Average: **19.61%** | Change since Monday: **+4.04 p.p.**)
-    * *Position Structure (Put/Call OI):* **1.44**
-
----
-
-### Logbook: Gravitational Collapse and Decay of Orbital Structures
-
-**1. Weekly Trajectory and Price Volatility (Monday–Friday Session Progress)**
-In the analyzed 5-session cycle, a violent negative expansion occurred. the NDX Star transitioned from the 30886.82 level to 29184.88, losing 1701.94 pts (-5.51%). The trajectory was characterized by a high amplitude (1513.74 pts), with a low extreme at the 29182.00 level, indicating strong sell-side pressure. the NQ Probe showed even greater instability, with an amplitude of 1889.00 pts, ending the cycle with a 5.64% decline. the Dyson Sphere (QQQ) followed the main downward vector (-5.51%), closing the week at the 709.86 USD level. The entire system transitioned from a stable phase to a phase of violent price compression.
-
-**2. Energy Balance and Cumulative Fuel (Weekly CVD and Volume)**
-The balance of aggressive flows indicates the dominance of destructive forces. Cumulative CVD for NDX amounted to -110.88 M, which in system physics defines a state of panic. the NQ Probe recorded a crash with CVD at the -59.21 K level. An anomalous reading in the Dyson Sphere (QQQ CVD: +2.95 M) suggests local liquidity absorption phenomena at low levels, however, this failed to prevent the global energy outflow from the system. Background Radiation TICKQ (SMA200: -38.05) confirms a state of deep sell-off on a weekly scale.
-
-**3. Mass Evolution, Core Density, and Option Shields**
-A significant degradation of total mass (T-Mass) occurred: a drop from 43.75 T to 41.68 T (-4.74%). Core Density was diluted, falling from 68.42% to 66.41%. Despite the loss of mass, the composition of Class 0 objects (>1T) remained stable, without violent collapses or new emergences. Implied volatility (IV) rose by 4.04 p.p. since Monday, to 22.76% (weekly average: 19.61%), which, combined with Put/Call OI at the 1.44 level, testifies to a rapid increase in demand for protective shields against further decompression.
-
-**Quantum Verdict:**
-The system is in a state of strong gravitational destabilization. Mass escape of energy (CVD) and the decline in core density suggest that the stabilizing mechanisms of the Dyson Spheres are currently overloaded. System physics indicates the prevalence of downward vectors alongside increasing entropy (IV).
-
-**Status:** EXTERNAL OBSERVATION. Shields active.
-
-**End of log.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Quantum Market Cosmology: Logbook",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
-}
-</script>
 
 
