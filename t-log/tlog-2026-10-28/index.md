@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 16:29
+Data: 2026-10-28 16:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 16:44]</h3>
+<p>[T-LOG: 2026-10-28 16:44]</p>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p><strong>ANALIZA OBIEKTÓW:</strong><br />
+- <strong>Sonda NQ:</strong> Cena 29856.00. CVD: -9.34K [test podaży]. ADR: 37.97%.<br />
+- <strong>Gwiazda NDX:</strong> Cena 29704.36. CVD: -1.49M [test podaży]. ADR: 42.81%.<br />
+- <strong>Satelita QQQ:</strong> Cena 722.45. CVD: -947.09K [test podaży]. ADR: 42.80%.<br />
+- <strong>TICKQ:</strong> 207.00 [wystrzał rynku]. SMA200: 10.91 [test popytu]. Status: ABOVE.<br />
+- <strong>Sfera Dysona:</strong> IV 21.86%. Put/Call Ratio: 1.10.</p>
+<p><strong>DYNAMIKA UKŁADU:</strong><br />
+W 16:35 odnotowano przebicie zaporu HVN ekosystemu US100 na poziomie NDX 29650 (NQ ≈ 29803). Mimo pokonania zapory, obecna kinetyka wykazuje ujemny Q-Score (-18). Masa Galaktyki wzrosła do 42.03 T (Delta: +0.02 T), a Średnia Akcja wynosi $305.66 (Delta: +0.07 USD), co wskazuje na powolną ekspansję koszyka.</p>
+<p><strong>DIAGNOSTYKA KINEMATYCZNA:</strong><br />
+Występuje rozwarstwienie układu (Cross-Asset Divergence): szeroka giełda TICKQ wykazuje gwałtowny wystrzał (207.00), podczas gdy kluczowe wektory presji (CVD) na wszystkich trzech poziomach (NDX, NQ, QQQ) wskazują na jednoczesny test podaży. Agresywny wolumen uderza w górę, lecz nie generuje dodatniego przepływu (CVD pozostaje ujemne), co sugeruje pasywną absorpcję podaży przy jednoczesnym rozszerzaniu się szerokości rynku.</p>
+<p><strong>KONKLUZJA:</strong><br />
+Układ w fazie grawitacyjnego napięcia; wzrost szerokości rynku przy ujemnym CVD sugeruje asymetryczną strukturę ruchu.</p>
 <h3>🌌 [2026-10-28 16:29]</h3>
 <p>[T-LOG: 2026-10-28 16:29]</p>
 <p>Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29650 (NQ ≈ 29804). Sonda NQ znajduje się obecnie na poziomie 29845.75, przy ADR wynoszącym 37.97%. Wektor rynkowy (Q-Score) wykazuje ujemną tendencję na poziomie -18. W warunkach sesji SPOT, Szeroka Giełda TICKQ (149.00) wskazuje na akumulację, przy czym średnia radiacja SMA200 (10.54) znajduje się w strefie testu popytu, co koreluje z rosnącym trendem promieniowania (+1.13).</p>

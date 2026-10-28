@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 16:30
+Data: 2026-10-28 16:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 16:44]</h3>
+<p>[T-LOG: 2026-10-28 16:44]</p>
+<p><strong>STATUS: OPEN | MODO: SPOT</strong></p>
+<p><strong>ANÁLISE DE OBJETOS:</strong><br />
+- <strong>Sonda NQ:</strong> Preço 29856.00. CVD: -9.34K [teste de oferta]. ADR: 37.97%.<br />
+- <strong>a Estrela NDX:</strong> Preço 29704.36. CVD: -1.49M [teste de oferta]. ADR: 42.81%.<br />
+- <strong>Satélite QQQ:</strong> Preço 722.45. CVD: -947.09K [teste de oferta]. ADR: 42.80%.<br />
+- <strong>TICKQ:</strong> 207.00 [disparo de mercado]. SMA200: 10.91 [teste de demanda]. Status: ABOVE.<br />
+- <strong>a Esfera de Dyson (QQQ):</strong> IV 21.86%. Put/Call Ratio: 1.10.</p>
+<p><strong>DINÂMICA DO SISTEMA:</strong><br />
+Às 16:35 foi registrada a ruptura da barreira HVN do ecossistema US100 no nível NDX 29650 (NQ ≈ 29803). Apesar de superar a barreira, a cinética atual mostra um Q-Score negativo (-18). A Massa da Galáxia aumentou para 42.03 T (Delta: +0.02 T), e a Ação Média é de $305.66 (Delta: +0.07 USD), o que indica uma expansão lenta da cesta.</p>
+<p><strong>DIAGNÓSTICO CINEMÁTICO:</strong><br />
+Ocorre uma estratificação do sistema (Cross-Asset Divergence): a amplitude de mercado TICKQ mostra um disparo abrupto (207.00), enquanto os vetores de pressão cruciais (CVD) em todos os três níveis (NDX, NQ, QQQ) indicam um teste de oferta simultâneo. O volume agressivo atinge a alta, mas não gera fluxo positivo (CVD permanece negativo), o que sugere uma absorção passiva de oferta com a expansão simultânea da amplitude de mercado.</p>
+<p><strong>CONCLUSÃO:</strong><br />
+Sistema em fase de tensão gravitacional; o aumento da amplitude de mercado com CVD negativo sugere uma estrutura de movimento assimétrica.</p>
 <h3>🌌 [2026-10-28 16:29]</h3>
 <p>[T-LOG: 2026-10-28 16:29]</p>
 <p>O suporte HVN do ecossistema US100 foi rompido no nível NDX 29650 (NQ ≈ 29804). A Sonda NQ encontra-se atualmente no nível 29845.75, com ADR de 37.97%. O vetor de mercado (Q-Score) mostra uma tendência negativa no nível -18. Nas condições da sessão à vista (Spot), a Amplitude de mercado (TICKQ) (149.00) indica acumulação, com a Radiação de Fundo média SMA200 (10.54) situada na zona de teste de demanda, o que correlaciona com a tendência crescente da radiação (+1.13).</p>
