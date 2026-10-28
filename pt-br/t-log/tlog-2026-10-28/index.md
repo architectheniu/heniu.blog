@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 01:30
+Data: 2026-10-28 02:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 01:59]</h3>
+<p><strong>[T-LOG: 2026-10-28 01:59]</strong></p>
+<p><strong>STATUS: A SESSÃO DE FUTUROS (APENAS NQ)</strong></p>
+<p>a Sonda NQ encontra-se no nível 29858.75 (+0.16%). Nos últimos minutos, foi registrada uma atividade dinâmica na zona HVN: primeiro o suporte do ecossistema no nível 29650 foi derrubado (NQ ≈ 29813), para então, após 10 minutos, conquistar com sucesso a mesma barreira, o que restaurou o impulso de alta. O vetor de direção atual (Q-Score) é 15, indicando uma tendência fraca, mas positiva. A pressão do combustível (CVD) para a Sonda NQ no nível 733 classifica o estado como um teste de demanda. O indicador ADR NQ está subindo, atingindo o valor de 14.37%. Na Esfera de Dyson (opções QQQ), a volatilidade (IV) é de 22.20%, com uma assimetria de volume Put/Call no nível 1.03. Os demais objetos (NDX, QQQ, TICKQ) permanecem em dormência fora da sessão à vista (Spot).</p>
+<p><strong>DIAGNOSE: Consolidação acima da barreira HVN recuperada com uma leve pressão testando a demanda.</strong></p>
+<p>Log: 2026-10-28 01:59</p>
 <h3>🌌 [2026-10-28 01:29]</h3>
 <p>[T-LOG: 2026-10-28 01:29]</p>
 <p><strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>

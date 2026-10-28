@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 01:29
+Data: 2026-10-28 01:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 01:59]</h3>
+<p><strong>[T-LOG: 2026-10-28 01:59]</strong></p>
+<p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29858.75 (+0.16%). W ostatnich minutach odnotowano dynamiczną aktywność w strefie HVN: najpierw obalono wsparcie ekosystemu na poziomie 29650 (NQ ≈ 29813), by po 10 minutach skutecznie zdobyć tę samą zaporę, co przywróciło impet wzrostowy. Bieżący wektor kierunku (Q-Score) wynosi 15, wskazując na słabą, ale dodatnią tendencję. Ciśnienie paliwa (CVD) dla Sondy NQ na poziomie 733 klasyfikuje stan jako test popytu. Wskaźnik ADR NQ rośnie, osiągając wartość 14.37%. W Sferze Dysona (opcje QQQ) zmienność (IV) wynosi 22.20%, przy asymetrii wolumenu Put/Call na poziomie 1.03. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu poza sesją kasową.</p>
+<p><strong>DIAGNOZA: Konsolidacja powyżej odzyskanej zapory HVN z lekką presją testującą popyt.</strong></p>
+<p>Log: 2026-10-28 01:59</p>
 <h3>🌌 [2026-10-28 01:29]</h3>
 <p>[T-LOG: 2026-10-28 01:29]</p>
 <p><strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>
