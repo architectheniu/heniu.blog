@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 06:00
+Data: 2026-10-28 06:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 06:29]</h3>
+<p>[T-LOG: 2026-10-28 06:29]</p>
+<p><strong>STATUS: MODO FUTUROS (SONDA NQ ATIVA)</strong></p>
+<p>A Sonda NQ encontra-se atualmente no nível 29924.00 (+0.38%). O vetor Q-Score é 15 (Delta: +0.0), o que indica a manutenção de uma dinâmica estável, embora de baixa positividade no sistema. As medições de CVD para a Sonda NQ mostram um valor de 2,4K, o que classifica o estado atual como um teste de demanda. O ADR (Average Daily Range) é de 30.74%, o que posiciona a volatilidade atual acima das médias históricas.</p>
+<p>Na Esfera de Dyson (opções sobre QQQ), registrou-se IV no nível de 22.20%, com o alcance esperado no intervalo de 711.44 – 731.06. A assimetria de volume do Put/Call Ratio é de 1.03, o que sinaliza um equilíbrio quase total entre a demanda por proteção e o prêmio. Os demais objetos (NDX, QQQ, TICKQ) permanecem em estado de dormência – sem dados telemétricos para a massa da galáxia e radiação de fundo no modo fora da sessão à vista (Spot).</p>
+<p><strong>DIAGNÓSTICO:</strong> Sistema em fase de teste de demanda com baixa cinética do vetor direcional. Sem sinais de acreção abrupta ou exaustão.</p>
 <h3>🌌 [2026-10-28 05:59]</h3>
 <p>[T-LOG: 2026-10-28 05:59]</p>
 <p><strong>STATUS: FUTUROS (Modo NQ ativo)</strong></p>

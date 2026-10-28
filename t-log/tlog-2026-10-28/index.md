@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 05:59
+Data: 2026-10-28 06:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 06:29]</h3>
+<p>[T-LOG: 2026-10-28 06:29]</p>
+<p><strong>STATUS: TRYB FUTURES (SONDA NQ AKTYWNA)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29924.00 (+0.38%). Wektor Q-Score wynosi 15 (Delta: +0.0), co wskazuje na utrzymanie stabilnej, choć niskiej dodatniej dynamiki układu. Pomiary CVD dla Sondy NQ wykazują wartość 2,4K, co klasyfikuje obecny stan jako test popytu. ADR (Average Daily Range) wynosi 30.74%, co plasuje bieżącą zmienność powyżej średnich historycznych.</p>
+<p>W Sferze Dysona (opcje na QQQ) odnotowano IV na poziomie 22.20%, przy oczekiwanym zasięgu w przedziale 711.44 – 731.06. Asymetria wolumenu wskaźnika Put/Call Ratio wynosi 1.03, co sygnalizuje niemal pełną równowagę między popytem na ubezpieczenie a premią. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia – brak danych telemetrycznych dla masy galaktyki i promieniowania tła w trybie poza sesją kasową.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie testu popytu przy niskiej kinetyce wektora kierunkowego. Brak oznak gwałtownej akrecji lub wyczerpania.</p>
 <h3>🌌 [2026-10-28 05:59]</h3>
 <p>[T-LOG: 2026-10-28 05:59]</p>
 <p><strong>STATUS: FUTURES (Tryb NQ aktywny)</strong></p>
