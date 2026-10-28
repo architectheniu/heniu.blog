@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 17:15
+Data: 2026-10-28 17:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,20 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 17:29]</h3>
+<p><strong>Status: SPOT [a sessão à vista Ativa]</strong></p>
+<p><strong>Telemetria de Objetos:</strong><br />
+- <strong>a Estrela NDX:</strong> Preço 29691.66 (+0.14%) | CVD: 479,87K [teste de demanda].<br />
+- <strong>a Sonda NQ:</strong> Preço 29846.00 (+0.11%) | CVD: -10,46K [venda].<br />
+- <strong>a Satélite QQQ:</strong> Preço 722.18 (+0.13%) | CVD: -975,78K [teste de oferta].<br />
+- <strong>TICKQ (Radiação de Fundo):</strong> 278.00 [disparo do mercado] | SMA200: 10.20 [teste de demanda] | Status: ABOVE.<br />
+- <strong>a Esfera de Dyson (IV):</strong> 21.90% | Put/Call Ratio: 1.06.</p>
+<p><strong>Dinâmica do Sistema:</strong><br />
+A Massa da Galáxia é de 42.02 T (Delta: +0.01 T). A Ação Média na cesta é $305.67 (Delta: -0.06 USD), o que indica um leve encolhimento do valor notional de todo o sistema. O Q-Score registra um forte vetor negativo: -8.</p>
+<p><strong>Análise de Cinemática:</strong><br />
+Ocorre uma estratificação crítica de vetores (Cross-Asset Divergence). Enquanto o mercado amplo (TICKQ) apresenta um disparo de mercado abrupto, e a Estrela NDX testa a demanda, a Sonda NQ e o Satélite QQQ encontram-se, respectivamente, em fase de venda e teste de oferta. A agressão de volume (CVD) está dispersa e inconsistente: as altas no nível da estrela-mãe são estruturalmente "vazias", pois não encontram confirmação na agressão da Sonda NQ e QQQ. O sistema encontra-se em um estado de tensão gravitacional entre a alta atividade do mercado amplo e a falta de cinética nos principais derivativos.</p>
+<p><strong>Conclusão:</strong><br />
+Dissonância de vetores; sistema em fase de absorção assimétrica com falta de sincronização entre o núcleo e os satélites.</p>
 <h3>🌌 [2026-10-28 17:14]</h3>
 <p>[T-LOG: 2026-10-28 17:14]</p>
 <p><strong>STATUS: a sessão à vista (Spot)</strong></p>
