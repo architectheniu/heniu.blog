@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0030: Automatic Data Processing: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-28-0030/index.md) (2026-10-28)
 - [M15: 2026-10-28](https://heniu.blog/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [Log #0214: Podsumowanie sesji 2026-10-28: NDX 29821.65 (+0.55%)](https://heniu.blog/posts/log-0214/index.md) (2026-10-28)
 - [H1: 2026-10-28](https://heniu.blog/h-log/hlog-2026-10-28/index.md) (2026-10-28)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0008: Zgłoszenia spółek: Copart, Costco Wholesale; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-19-0008/index.md) (2026-10-19)
 - [Log #0205: Kolaps Grawitacyjny i Rozpad Struktur Orbitalnych](https://heniu.blog/posts/log-0205/index.md) (2026-10-18)
 - [H1: 2026-10-16](https://heniu.blog/h-log/hlog-2026-10-16/index.md) (2026-10-16)
-- [M15: 2026-10-16](https://heniu.blog/t-log/tlog-2026-10-16/index.md) (2026-10-16)
 

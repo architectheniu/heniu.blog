@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0030: Automatic Data Processing: resultados do 1Q2027
+
+Data: 2026-10-28 21:39
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-28-0030/
+
+
+A receita da Automatic Data Processing (ADP) aumentou no primeiro trimestre do ano fiscal de 2027 em 6,1% a/a para 5,49 bi USD, e o lucro por ação (contábil) aumentou 13,7% a/a para 2,83 USD.
+
+### Resultados do trimestre
+
+O lucro por ação (contábil, básico) foi de 2,84 USD (13,6% a/a).
+
+### Projeção da empresa
+
+Para todo o ano fiscal de 2027, a empresa espera um aumento na receita de 6,0%, um aumento no lucro por ação (ajustado) na faixa de 10,0% – 12,0% e um aumento no lucro por ação de 12,0% – 14,0%. A empresa também projeta receitas de juros no nível de 1,59 bi USD – 1,61 bi USD e uma taxa de imposto no nível de 23,0%.
+
+### O que diz a administração
+
+A administração enfatizou que o progresso na área de inteligência artificial, especialmente no caso do assistente ADP Assist, é significativo. De acordo com a administração, a escolha dos próximos agentes de IA baseia-se em soluções que proporcionam aos clientes efeitos mensuráveis e resolvem problemas reais. A administração indicou que o novo contrato relativo à inclusão de pagamentos na plataforma bancária é um elemento chave da prioridade estratégica, e discussões semelhantes estão em andamento. De acordo com a administração, o resultado de contratações dos clientes no trimestre foi satisfatório e representa a continuação do momentum crescente. A administração acredita que é do interesse dos acionistas destinar parte da melhoria dos resultados para dividendos e parte para o desenvolvimento contínuo.
+
+
+---
+
 ## Log #0214: Resumo da sessão 2026-10-28: NDX 29821.65 (+0.55%)
 
 Data: 2026-10-28 21:03
@@ -1100,91 +1123,5 @@ O Presidente e Diretor Geral da empresa CrowdStrike (CRWD) vendeu 20 000 ações
 Também foram reportadas outras 16 transações.
 
 proxy DEF 14A (Documento: DEF 14A; Data de protocolo (horário EUA): 19.10).
-
-
----
-
-## Log #0206: Acreção na sombra da Grande Correção
-
-Data: 2026-10-19 22:03
-Endereço: https://heniu.blog/pt-br/posts/log-0206/
-
-
-**Stardate:** 2026.10.19\
-**Status dos Sistemas:** Observação Externa\
-**Setor:** Bandas Internas de Volatilidade
-
----
-
-### Telemetria de Fechamento
-
-> *Observação de aumento de energia na Estrela Central com simultânea manutenção de radiação negativa do mercado amplo. O Sistema passa por uma fase de reconstrução de massa apesar da correção profunda em curso desde o pico.*
-
-* **Scanner Subespacial (Distribuição de Massa):**
-    * *T-Mass do Sistema:* **42.18 Trilhões de USD**
-    * *Delta da Sessão (24h):* **+0.51 Trilhões de USD**
-    * *Densidade do Núcleo (Heavy Nine):* **68.92%** (Delta: **+2.51%**)
-    * *Ação Média (Temperatura da Periferia):* **$302.63** (Delta: **+$2.88**)
-
-* **a Estrela NDX (Sol):** Fechamento: **29536.02 (+1.17%)**
-    * *Vetor (CVD):* **140,5 M [euforia]**
-    * *Anomalia MOC:* **-21,71 M**
-    * *Consumo de Alcance (ADR Util):* **94.66%**
-    * *Recuo desde o pico do Heniu:* **-5.41%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **a Sonda NQ (Mercúrio):** Fechamento: **29716.75 (+1.11%)**
-    * *Vetor (CVD):* **28,52 K [acumulação]**
-    * *Consumo de Alcance (ADR Util):* **149.76%**
-
-* **a Esfera de Dyson (QQQ):** Fechamento: **718.28 (+1.19%)**
-    * *Vetor de População:* **350,06 K [teste de demanda]**
-    * *Consumo de Alcance (ADR Util):* **93.01%**
-
-* **a Radiação de Fundo (TICKQ) -275.00 [colapso do mercado]:**
-    * *SMA200:* **-54.83 [colapso do mercado]**
-
-* **Estrutura Gravitacional (Opções):**
-    * *Implied Volatility (IV):* **21.79%**
-    * *Put/Call OI:* **1.40**
-
-* **Saúde dos dados da sessão:** leituras por 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,1% das leituras
-
----
-
-### Diário de Bordo: Acreção à sombra da Grande Correção
-
-**1. Acreção de energia na Estrela Central**
-a Estrela NDX apresenta um forte influxo de energia da Nebulosa de Liquidez, atingindo o nível 29536.02 (+1.17%) com CVD no nível de 140,5M, o que classifica o estado como euforia. a Sonda NQ move-se em modo de acumulação (CVD: 28,52K) ao preço de 29716.75 (+1.11%), enquanto a Esfera de Dyson (QQQ) registra um teste de demanda (CVD: 350,06K) no nível de 718.28 (+1.19%). Apesar deste aumento, a NDX encontra-se em fase de correção desde o pico do dia 06.10 (31360.85), que é de -5.82% (-1825 pts), o que, com 9 sessões desde este evento, representa um desvio mais profundo que 57% das correções históricas na memória do sistema.
-
-**2. Anomalias de radiação e estrutura**
-a Radiação de Fundo (TICKQ) indica um colapso do mercado (-275.00), e a radiação média SMA200 confirma este estado (-54.83). Dentro do Núcleo, ocorreu uma emergência (crescimento acima de 1T) na área MU. A distância do nó de resistência mais próximo na zona 29940–29960 aumentou com a queda do preço, aumentando a distância para a zona de alta densidade de volume. No setor da Classe 0, foi registrado um fluxo líquido negativo de insiders durante 5 sessões no nível de -5,96 milhões de USD.
-
-**3. Dinâmica de massa e horizonte gravitacional**
-A massa total do sistema T-Mass é de 42.18 Trilhões de USD. A dinâmica atual de movimento da NDX desde o maior fechamento do Heniu (-5.41% em relação ao pico de 31226.82) e a característica da correção atual (maior que a mediana e percentil 80 da memória) sugerem que o sistema permanece em uma zona de aumento de instabilidade estrutural, apesar da euforia momentânea nos fluxos de CVD.
-
-**Veredito Quântico:**
-A divergência entre a euforia do fluxo de energia (CVD) e a radiação negativa do mercado amplo (TICKQ) indica uma acreção concentrada de massa com simultânea fraqueza estrutural dos campos de força amplos.
-
-**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
-
-**Fim do registro.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
 
 

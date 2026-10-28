@@ -1,0 +1,23 @@
+# Fundamentos #0030: Automatic Data Processing: resultados do 1Q2027
+
+Data: 2026-10-28 21:39
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-28-0030/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+A receita da Automatic Data Processing (ADP) aumentou no primeiro trimestre do ano fiscal de 2027 em 6,1% a/a para 5,49 bi USD, e o lucro por ação (contábil) aumentou 13,7% a/a para 2,83 USD.
+
+### Resultados do trimestre
+
+O lucro por ação (contábil, básico) foi de 2,84 USD (13,6% a/a).
+
+### Projeção da empresa
+
+Para todo o ano fiscal de 2027, a empresa espera um aumento na receita de 6,0%, um aumento no lucro por ação (ajustado) na faixa de 10,0% – 12,0% e um aumento no lucro por ação de 12,0% – 14,0%. A empresa também projeta receitas de juros no nível de 1,59 bi USD – 1,61 bi USD e uma taxa de imposto no nível de 23,0%.
+
+### O que diz a administração
+
+A administração enfatizou que o progresso na área de inteligência artificial, especialmente no caso do assistente ADP Assist, é significativo. De acordo com a administração, a escolha dos próximos agentes de IA baseia-se em soluções que proporcionam aos clientes efeitos mensuráveis e resolvem problemas reais. A administração indicou que o novo contrato relativo à inclusão de pagamentos na plataforma bancária é um elemento chave da prioridade estratégica, e discussões semelhantes estão em andamento. De acordo com a administração, o resultado de contratações dos clientes no trimestre foi satisfatório e representa a continuação do momentum crescente. A administração acredita que é do interesse dos acionistas destinar parte da melhoria dos resultados para dividendos e parte para o desenvolvimento contínuo.
+

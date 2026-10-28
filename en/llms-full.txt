@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0030: Automatic Data Processing: 1Q2027 results
+
+Date: 2026-10-28 21:39
+URL: https://heniu.blog/en/f-log/flog-2026-10-28-0030/
+
+
+Automatic Data Processing (ADP) revenues increased in the first quarter of fiscal year 2027 by 6.1% y/y to 5.49 billion USD, and earnings per share (reported) increased by 13.7% y/y to 2.83 USD.
+
+### Quarterly results
+
+Earnings per share (reported, basic) was 2.84 USD (13.6% y/y).
+
+### Company guidance
+
+For the full fiscal year 2027, the company expects revenue growth of 6.0%, (adjusted) earnings per share growth in the range of 10.0% – 12.0%, and earnings per share growth of 12.0% – 14.0%. The company also forecasts interest income at 1.59 billion USD – 1.61 billion USD and a tax rate of 23.0%.
+
+### What management says
+
+Management emphasized that progress in the field of artificial intelligence, especially regarding the ADP Assist assistant, is significant. According to management, the selection of subsequent AI agents is based on solutions that provide measurable results to clients and solve real problems. Management indicated that the new agreement regarding the inclusion of payroll into the banking platform is a key element of strategic priority, and similar discussions are ongoing. According to management, client employment results in the quarter were satisfactory and represent a continuation of growing momentum. Management believes it is in the interest of shareholders to allocate part of the improvement in results to dividends and part to further development.
+
+
+---
+
 ## Log #0214: Session summary 2026-10-28: NDX 29821.65 (+0.55%)
 
 Date: 2026-10-28 21:03
@@ -1167,22 +1190,5 @@ The discrepancy between energy flow euphoria (CVD) and negative broad market rad
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentals #0008: Company filings: Copart, Costco Wholesale; insider transactions
-
-Date: 2026-10-19 10:10
-URL: https://heniu.blog/en/f-log/flog-2026-10-19-0008/
-
-
-Copart (CPRT) filed a report of acquisition or disposition of assets and a report of disclosure of material information.
-
-Costco Wholesale (COST) filed a report of changes in management or board.
-
-Copart (CPRT) filed a report of changes in management or board.
-
-Insiders on 16.10 sold shares for 32.0 million USD, including 31.1 million USD from 10b5-1 plans; market purchases amounted to 50 thousand USD. The largest sale was reported by Moderna (MRNA) insiders: 17.0 million USD.
 
 
