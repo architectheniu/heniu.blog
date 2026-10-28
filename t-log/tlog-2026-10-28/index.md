@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 21:29
+Data: 2026-10-28 21:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 21:59]</h3>
+<p>[TELEMETRIA: TRYB FUTURES - NQ DOMINANT]</p>
+<p>Sonda NQ znajduje się na poziomie 29746.50 (-0.22%). Wektor CVD wykazuje silną presję podaży na poziomie -11,93K, co klasyfikuje stan obiektu jako wyprzedaż. ADR wynosi 86.15%, co sytuuje bieżącą zmienność poniżej średniej. Q-Score (Wektor Rynku) oscyluje w granicach 15, wykazując brak zmiany (Delta: +0.0) względem ostatniego odczytu. W Sferze Dysona (opcje QQQ) odnotowano IV na poziomie 21.38% przy asymetrii Put/Call Ratio wynoszącej 1.11. Obserwuje się brak aktywności w pasmach TICKQ oraz NDX ze względu na zamknięcie sesji kasowej. Brak danych dla Średniej Akcji w obecnym trybie.</p>
+<p>Układ znajduje się w fazie wyprzedaży na instrumentach kontraktowych, przy zachowaniu neutralnego wektora kierunkowego Q-Score.</p>
+<p>Log: 2026-10-28 21:59</p>
 <h3>🌌 [2026-10-28 21:29]</h3>
 <p>[T-LOG: 2026-10-28 21:29]</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29780.25 (-0.11%). W trakcie bieżącej sesji Futures odnotowano gwałtowną dekompresję w dolnych rejestrach: nastąpiło obalenie zapór HVN w strefie 29650 - 29690 (NQ ≈ 29811 - 29851). Bieżący stan ciśnienia paliwa (CVD) dla Sondy NQ wynosi -9.7K, co klasyfikuje układ w fazie testu podaży. Wektor kierunku (Q-Score) wynosi 15, wskazując na słabą, nieznaczną tendencję wzrostową w przeciwieństwie do negatywnej presji wolumenowej. ADR NQ utrzymuje się na poziomie 70.25% odległości od dołu sesji. W sferze Dysona (opcje QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.10 przy zmienności (IV) 21.43%. Zasięg oczekiwany przez rynek oscyluje w granicach 715.11 do 730.21. Dane dotyczące masy galaktyki oraz promieniowania tła (TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>

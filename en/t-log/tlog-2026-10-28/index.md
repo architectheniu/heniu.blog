@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 21:29
+Date: 2026-10-28 21:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 21:59]</h3>
+<p>[TELEMETRY: FUTURES MODE - NQ DOMINANT]</p>
+<p>The NQ Probe is at level 29746.50 (-0.22%). The CVD vector shows strong selling pressure at -11,93K, which classifies the object's state as a sell-off. ADR is 86.15%, situating current volatility below the average. Q-Score (Market Vector) oscillates around 15, showing no change (Delta: +0.0) compared to the last reading. In the Dyson Sphere (QQQ options), IV was recorded at 21.38% with a Put/Call Ratio asymmetry of 1.11. No activity is observed in the TICKQ and NDX bands due to the close of the cash session (Spot). [NO DATA] for Average Stock in the current mode.</p>
+<p>The System is in a sell-off phase on contract instruments, while maintaining a neutral Q-Score directional vector.</p>
+<p>Log: 2026-10-28 21:59</p>
 <h3>🌌 [2026-10-28 21:29]</h3>
 <p>[T-LOG: 2026-10-28 21:29]</p>
 <p>the NQ Probe is currently at level 29780.25 (-0.11%). During the current futures session, a rapid decompression was recorded in the lower registers: the HVN barriers in the 29650 - 29690 zone were overthrown (NQ ≈ 29811 - 29851). The current fuel (CVD) pressure state for the NQ Probe is -9.7K, which classifies the system in a supply test phase. The direction vector (Q-Score) is 15, indicating a weak, insignificant upward trend in contrast to negative volume pressure. ADR NQ is holding at 70.25% distance from the session low. In the Dyson Sphere (QQQ options), a volume asymmetry was recorded with a Put/Call Ratio at level 1.10 with volatility (IV) at 21.43%. The range expected by the market oscillates between 715.11 and 730.21. Galaxy mass data and Background Radiation (TICKQ) remain in dormancy due to the close of the cash session (Spot).</p>
