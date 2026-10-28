@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 08:30
+Data: 2026-10-28 09:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 08:59]</h3>
+<p>[T-LOG: 2026-10-28 08:59]</p>
+<p>a Sonda NQ (a sessão de futuros) encontra-se em fase de teste de demanda ao preço de 29964.75 (+0.50%). Foi registrada atividade de CVD no nível de 3.86K, o que confirma o estado atual de teste de demanda em microescala. O ADR NQ é atualmente de 34.76%, o que posiciona a dinâmica de alcance acima das médias históricas. O vetor Q-Score mantém um valor estável de 15 (Delta: +0.0). a Esfera de Dyson (QQQ) apresenta volatilidade (IV) no nível de 22.20% com uma assimetria de volume Put/Call de 1.03. Os demais objetos (NDX, TICKQ) permanecem em estado de dormência devido ao fechamento da a sessão à vista (Spot). [SEM DADOS] sobre fluxos entre instrumentos devido à falta de atividade no mercado à vista.</p>
+<p>Sistema em fase de teste de demanda no regime fora da a sessão à vista (Spot).</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 08:57 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-28 08:29]</h3>
 <p>[T-LOG: 2026-10-28 08:29]</p>
 <p><strong>STATUS: FUTURES (MODO FORA DA SESSÃO À VISTA)</strong></p>

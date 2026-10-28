@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 08:29
+Date: 2026-10-28 08:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 08:59]</h3>
+<p>[T-LOG: 2026-10-28 08:59]</p>
+<p>the NQ Probe (FUTURES) is in a demand test phase at price 29964.75 (+0.50%). CVD activity was recorded at 3.86K, confirming the current state of the demand test on a micro scale. ADR NQ is currently 34.76%, situating the range dynamics above historical averages. The Q-Score vector maintains a stable value of 15 (Delta: +0.0). the Dyson Sphere (QQQ) shows volatility (IV) at a level of 22.20% with a Put/Call volume asymmetry of 1.03. Other objects (NDX, TICKQ) remain in dormancy due to the close of the cash session (Spot). No data on inter-instrument flows due to lack of spot market activity.</p>
+<p>System in a demand test phase in a post-cash session regime.</p>
+<p><strong>Flow alarms from the previous Log:</strong> 08:57 sudden NQ flow upward; NQ flow ignition.</p>
 <h3>🌌 [2026-10-28 08:29]</h3>
 <p>[T-LOG: 2026-10-28 08:29]</p>
 <p><strong>STATUS: THE FUTURES SESSION (OUTSIDE THE CASH SESSION MODE)</strong></p>
