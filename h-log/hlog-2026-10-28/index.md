@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 09:08
+Data: 2026-10-28 10:08
 Adres: https://heniu.blog/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.28</h1>
+<h3>📈 [2026-10-28 10:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty; analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach:</strong> Kontrakty NQ notowane są przy cenie 29916.75 (+0.35%) z przepływem skumulowanym (CVD) na poziomie 3,5 K, co wskazuje na testowanie popytu w sesji przedsesyjnej.</li>
+<li><strong>Kontekst korekty i poziomy:</strong> Indeks NDX znajduje się w fazie korekty od szczytu z 06.10 (31360.85), która wyniosła -5.44% (-1707 pkt). Bieżąca korekta jest głębsza niż 57% historycznych korekt w analizowanym okresie. Kluczowe strefy wsparcia znajdują się w przedziale 29560–29580 (2.4% wolumenu), natomiast najbliższy opór to strefa 29740–29760 (1.2% wolumenu).</li>
+<li><strong>Sentyment i opcje:</strong> Wskaźnik kierunku przepływów wynosi 15, co oznacza słabą przewagę napływu kapitału. Na rynku opcji QQQ zmienność implikowana (IV) wynosi 22.20%, a współczynnik Put/Call Ratio na poziomie 1.03 sugeruje lekką przewagę pozycji zabezpieczających (hedgingu) lub oczekiwania na większą zmienność w zakładanym zakresie ruchu 711.44 – 731.06.</li>
+</ul>
+<p>Raport H-Log: 2026-10-28 10:07</p>
 <h3>📈 [2026-10-28 09:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
