@@ -1,0 +1,21 @@
+# Fundamentals #0024: Company filings: Broadcom, Amgen, Meta Platforms; insider transactions
+
+Date: 2026-10-28 10:12
+URL: https://heniu.blog/en/f-log/flog-2026-10-28-0024/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Broadcom (AVGO) filed a financial obligation report.
+
+Amgen (AMGN) filed a report regarding the appointment of David W. Gibbs to the position of member of the board of directors.
+
+Meta Platforms (META) filed offering materials.
+
+Insiders on 27.10 sold shares for 13.6 million USD, including 6.3 million USD from 10b5-1 plans; market purchases amounted to 0. The largest sale was reported by Roper Technologies (ROP) insiders: 5.2 million USD. CrowdStrike (CRWD) insiders sold shares for 5.1 million USD. The 90-day net insider total for CrowdStrike (CRWD) was -146.2 million USD. The 90-day net insider total for Honeywell International (HON) was -2.1 million USD. The 90-day net insider total for Netflix (NFLX) was -1.2 million USD. The 90-day net insider total for Roper Technologies (ROP) was -5.2 million USD.
+
+8-K: 2.03 financial obligation (Document: 8-K 2.03; Filing date (US time): 27.10; 8-K 2.03 content (new financial obligation): quote (EN): „On October 26, 2026, Broadcom Inc. (the “Company”) arranged for financial partners to take on a portion of certain agreements to purchase AI racks based on custom AI accelerators designed by the Company and the related lease agreements with the Company’s customer that enable the deployment of compute capacity.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1730168/000119312526434271/0001193125-26-434271-index.htm).
+
+8-K: 5.02 changes in management/board (Document: 8-K 5.02; Filing date (US time): 27.10; 8-K 5.02 content (change in management or board): position: member of the board of directors; type of change: appointment; date: 26.10.2026; persons: David W. Gibbs; successor: not applicable (appointment); quote (EN): „On October 26, 2026, the Board of Directors (the “Board”) of Amgen Inc. (the “Company”) appointed David W. Gibbs as a director of the Company, effective immediately.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/318154/000031815426000144/0000318154-26-000144-index.htm).
+

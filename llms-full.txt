@@ -7,6 +7,27 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0024: Zgłoszenia spółek: Broadcom, Amgen, Meta Platforms; transakcje insiderów
+
+Data: 2026-10-28 10:11
+Adres: https://heniu.blog/f-log/flog-2026-10-28-0024/
+
+
+Broadcom (AVGO) złożył raport o zobowiązaniu finansowym.
+
+Amgen (AMGN) złożył raport o powołaniu Davida W. Gibbsa na stanowisko członka rady dyrektorów.
+
+Meta Platforms (META) złożyła materiały ofertowe.
+
+Insiderzy 27.10 sprzedali akcje za 13,6 mln USD, w tym 6,3 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Roper Technologies (ROP): 5,2 mln USD. Insiderzy CrowdStrike (CRWD) sprzedali akcje za 5,1 mln USD. Suma netto insiderów w ciągu 90 dni dla CrowdStrike (CRWD) wyniosła -146,2 mln USD. Suma netto insiderów w ciągu 90 dni dla Honeywell International (HON) wyniosła -2,1 mln USD. Suma netto insiderów w ciągu 90 dni dla Netflix (NFLX) wyniosła -1,2 mln USD. Suma netto insiderów w ciągu 90 dni dla Roper Technologies (ROP) wyniosła -5,2 mln USD.
+
+8-K: 2.03 zobowiązanie finansowe (Dokument: 8-K 2.03; Data złożenia (czas USA): 27.10; Treść 8-K 2.03 (nowe zobowiązanie finansowe): cytat (EN): „On October 26, 2026, Broadcom Inc. (the “Company”) arranged for financial partners to take on a portion of certain agreements to purchase AI racks based on custom AI accelerators designed by the Company and the related lease agreements with the Company’s customer that enable the deployment of compute capacity.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1730168/000119312526434271/0001193125-26-434271-index.htm).
+
+8-K: 5.02 zmiany w zarządzie/radzie (Dokument: 8-K 5.02; Data złożenia (czas USA): 27.10; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: członek rady dyrektorów; rodzaj zmiany: powołanie; data: 26.10.2026; osoby: David W. Gibbs; następca: nie dotyczy (powołanie); cytat (EN): „On October 26, 2026, the Board of Directors (the “Board”) of Amgen Inc. (the “Company”) appointed David W. Gibbs as a director of the Company, effective immediately.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/318154/000031815426000144/0000318154-26-000144-index.htm).
+
+
+---
+
 ## Log #0213: Podsumowanie sesji 2026-10-27: NDX 29653.58 (+1.29%)
 
 Data: 2026-10-27 21:03
@@ -1321,28 +1342,5 @@ Zysk operacyjny osiągnął poziom 530,80 mln USD (+20,2% r/r), podczas gdy zysk
 ### Co mówi zarząd
 
 Zarząd podkreślał, że odnotowany wzrost jest znacznie powyżej historycznych trendów. Według zarządu sukces w dowolnym otoczeniu rynkowym powinien przekładać się na dwucyfrową poprawę przychodów w każdym roku.
-
-
----
-
-## Fundamenty #0005: ASML: wyniki za 3Q2026
-
-Data: 2026-10-15 16:16
-Adres: https://heniu.blog/f-log/flog-2026-10-15-0005/
-
-
-Przychody spółki ASML wzrosły w trzecim kwartale do 11,66 mld EUR (+55,2% r/r), a zysk netto osiągnął poziom 4,96 mld EUR (+133,5% r/r).
-
-### Wyniki kwartału
-
-Marża brutto wyniosła 57,5% (5,9 pp r/r), a zysk operacyjny sięgnął 5,17 mld EUR (+109,6% r/r). Zysk na akcję (księgowy) wyniósł 12,93 EUR (+135,9% r/r), natomiast zysk na akcję (księgowy, podstawowy) ukształtował się na poziomie 12,95 EUR (+135,9% r/r).
-
-### Prognoza spółki
-
-Spółka spodziewa się przychodów w czwartym kwartale na poziomie 14,20 mld EUR – 15,20 mld EUR przy marży brutto wynoszącej 57,0%. Na cały rok 2026 prognozowane przychody to 44,00 mld EUR – 45,00 mld EUR, a marża brutto ma wynieść 56,0%.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że bardzo silna marża brutto w tym kwartale była wynikiem głównie zwiększonego biznesu związanego z modernizacją urządzeń. Według zarządu pozytywne efekty w przychodach oraz marży brutto zaczną przejawiać się w trakcie przyszłego roku. Zarząd wskazywał, że kluczowymi czynnikami wpływającymi na marżę będą wolumeny sprzedaży określonych technologii, a modernizacje będą istotnym czynnikiem kształtującym marżę w przyszłym roku i kolejnych latach.
 
 
