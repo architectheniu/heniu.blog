@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 18:15
+Data: 2026-10-28 18:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,25 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 18:29]</h3>
+<p>[T-LOG: 2026-10-28 18:29]</p>
+<p>[EVENTOS HVN]<br />
+O suporte HVN do ecossistema US100 foi derrubado no nível NDX 29690 (NQ ≈ 29843).</p>
+<p>[TELEMETRIA]<br />
+Status: OPEN | Modo: SPOT<br />
+a Sonda NQ: 29822.75 | ADR: 37.97% | CVD: -11k [venda]<br />
+a Estrela NDX: 29666.18 | CVD: -7.43M [teste de oferta]<br />
+Satelite QQQ: 721.63 | CVD: -961.59K [teste de oferta]<br />
+TICKQ: 59.00 [acumulação] | SMA200: 12.02 [teste de demanda]<br />
+Q-Score: -10<br />
+a Esfera de Dyson (IV): 21.84% | P/C Ratio: 1.07</p>
+<p>[DINÂMICA DO SISTEMA]<br />
+Massa da Galáxia: 41.99 T (Delta: -0.05 T)<br />
+Ação Média: $305.57 (Delta: -0.52 USD) – a cesta está encolhendo.<br />
+Densidade do Núcleo: 68.3% (Delta: 0.0%)</p>
+<p>[DIAGNÓSTICO]<br />
+O sistema encontra-se em uma fase de tensão gravitacional e estratificação. Embora a Amplitude de mercado (TICKQ) apresente sinais de acumulação, os vetores de pressão cruciais (CVD) no NQ, NDX e QQQ são negativos, indicando uma venda e teste de oferta simultâneos em todo o ecossistema. Observa-se uma assimetria entre a atividade do mercado amplo e a pressão agressiva nos principais instrumentos. Com a derrubada do suporte HVN no nível 29843 (NQ), a estrutura torna-se instável.</p>
+<p>Log: 2026-10-28 18:29</p>
 <h3>🌌 [2026-10-28 18:14]</h3>
 <p>[T-LOG: 2026-10-28 18:14]</p>
 <p>[STATUS: SPOT]<br />

@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 18:14
+Date: 2026-10-28 18:30
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,25 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 18:29]</h3>
+<p>[T-LOG: 2026-10-28 18:29]</p>
+<p>[HVN EVENTS]<br />
+HVN support of the US100 ecosystem was overturned at the NDX level of 29690 (NQ ≈ 29843).</p>
+<p>[TELEMETRY]<br />
+Status: OPEN | Mode: SPOT<br />
+the NQ Probe: 29822.75 | ADR: 37.97% | CVD: -11k [sell-off]<br />
+the NDX Star: 29666.18 | CVD: -7.43M [supply test]<br />
+QQQ Satellite: 721.63 | CVD: -961.59K [supply test]<br />
+TICKQ: 59.00 [accumulation] | SMA200: 12.02 [demand test]<br />
+Q-Score: -10<br />
+the Dyson Sphere (IV): 21.84% | P/C Ratio: 1.07</p>
+<p>[SYSTEM DYNAMICS]<br />
+Galaxy Mass: 41.99 T (Delta: -0.05 T)<br />
+Average Action: $305.57 (Delta: -0.52 USD) – the basket is shrinking.<br />
+the Core Density: 68.3% (Delta: 0.0%)</p>
+<p>[DIAGNOSIS]<br />
+The system is in a phase of gravitational tension and stratification. Although Market breadth (TICKQ) shows accumulation signals, key pressure vectors (CVD) on NQ, NDX, and QQQ are negative, indicating simultaneous sell-off and supply testing across the entire ecosystem. An asymmetry is observed between broad market activity and aggressive pressure on the main instruments. With the overturning of HVN support at the 29843 (NQ) level, the structure is becoming unstable.</p>
+<p>Log: 2026-10-28 18:29</p>
 <h3>🌌 [2026-10-28 18:14]</h3>
 <p>[T-LOG: 2026-10-28 18:14]</p>
 <p>[STATUS: SPOT]<br />

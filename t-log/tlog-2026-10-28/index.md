@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 18:14
+Data: 2026-10-28 18:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,25 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 18:29]</h3>
+<p>[T-LOG: 2026-10-28 18:29]</p>
+<p>[ZDARZENIA HVN]<br />
+Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29690 (NQ ≈ 29843).</p>
+<p>[TELEMETRIA]<br />
+Status: OPEN | Tryb: SPOT<br />
+Sonda NQ: 29822.75 | ADR: 37.97% | CVD: -11k [wyprzedaż]<br />
+Gwiazda NDX: 29666.18 | CVD: -7.43M [test podaży]<br />
+Satelita QQQ: 721.63 | CVD: -961.59K [test podaży]<br />
+TICKQ: 59.00 [akumulacja] | SMA200: 12.02 [test popytu]<br />
+Q-Score: -10<br />
+Sfera Dysona (IV): 21.84% | P/C Ratio: 1.07</p>
+<p>[DYNAMIKA UKŁADU]<br />
+Masa Galaktyki: 41.99 T (Delta: -0.05 T)<br />
+Średnia Akcja: $305.57 (Delta: -0.52 USD) – koszyk ulega kurczeniu.<br />
+Gęstość Jądra: 68.3% (Delta: 0.0%)</p>
+<p>[DIAGNOZA]<br />
+Układ znajduje się w fazie grawitacyjnego napięcia i rozwarstwienia. Mimo że Szeroka Giełda (TICKQ) wykazuje sygnały akumulacji, kluczowe wektory presji (CVD) na NQ, NDX oraz QQQ są ujemne, wskazując na jednoczesną wyprzedaż i testowanie podaży w całym ekosystemie. Obserwuje się asymetrię między aktywnością szerokiego rynku a agresywną presją na głównych instrumentach. Wraz z obaleniem wsparcia HVN na poziomie 29843 (NQ), struktura staje się niestabilna.</p>
+<p>Log: 2026-10-28 18:29</p>
 <h3>🌌 [2026-10-28 18:14]</h3>
 <p>[T-LOG: 2026-10-28 18:14]</p>
 <p>[STATUS: SPOT]<br />
