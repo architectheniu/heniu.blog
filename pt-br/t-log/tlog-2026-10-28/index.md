@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 14:59
+Data: 2026-10-28 15:14
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 15:14]</h3>
+<p><strong>Log: 2026-10-28 15:14</strong></p>
+<p>Sistema em modo à vista (Spot). Foi observada uma troca intensa de volume na zona de barreiras HVN no nível NDX 29100 - 29650, o que resultou em sua quebra. A Sonda NQ encontra-se atualmente no nível 29840.00 (+0.09%), exibindo um teste de oferta (CVD: -1.41K). A Estrela NDX (29684.28) mantém um estado de teste de demanda (CVD: 4.53M), enquanto o Satélite QQQ (722.07) encontra-se em fase de teste de oferta (CVD: -567.58K). A Massa da Galáxia é de 41.97 T (Delta: -0.05 T), e a Ação Média é de $304.98 (Delta: -0.10 USD), o que significa um encolhimento lento da cesta. O Q-Score é 5, indicando uma neutralidade quase total do vetor direcional, com um aumento simultâneo na tendência da radiação. Na Esfera de Dyson (QQQ), o Put/Call Ratio atinge 1.52, com IV no nível de 22.54%.</p>
+<p><strong>Status: Divergência de Ativos (Cross-Asset Divergence).</strong> A dominância do mercado amplo (TICKQ) e da Estrela (NDX), com pressão de oferta simultânea na Sonda NQ e no Satélite QQQ, sugere um crescimento assimétrico de estrutura vazia.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 15:08 fluxo repentino de NQ para cima; divergência entre NQ e NDX; ignição de fluxo de NQ.</p>
 <h3>🌌 [2026-10-28 14:59]</h3>
 <p><strong>Log: 2026-10-28 14:59</strong></p>
 <p>[STATUS: A SESSÃO À VISTA ESTÁ ATIVA]<br />

@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 14:59
+Data: 2026-10-28 15:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 15:14]</h3>
+<p><strong>Log: 2026-10-28 15:14</strong></p>
+<p>System w trybie SPOT. Odnotowano intensywną wymianę wolumenową w strefie zapór HVN na poziomie NDX 29100 - 29650, co skutkowało ich obaleniem. Sonda NQ znajduje się obecnie na poziomie 29840.00 (+0.09%), wykazując test podaży (CVD: -1.41K). Gwiazda NDX (29684.28) utrzymuje stan testu popytu (CVD: 4.53M), podczas gdy Satelita QQQ (722.07) znajduje się w fazie testu podaży (CVD: -567.58K). Masa Galaktyki wynosi 41.97 T (Delta: -0.05 T), a Średnia Akcja to $304.98 (Delta: -0.10 USD), co oznacza powolne kurczenie się koszyka. Q-Score wynosi 5, wskazując na niemal całkowitą neutralność wektora kierunkowego przy jednoczesnym wzroście trendu promieniowania. W Sferze Dysona Put/Call Ratio osiąga 1.52, przy IV na poziomie 22.54%.</p>
+<p><strong>Status: Rozwarstwienie Układu (Cross-Asset Divergence).</strong> Dominacja szerokiego rynku (TICKQ) i Gwiazdy (NDX) przy jednoczesnej presji podażowej na Sonda NQ i Satelicie QQQ sugeruje asymetryczny wzrost o pustej strukturze.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:08 nagły przepływ NQ w górę; rozjazd NQ i NDX; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-28 14:59]</h3>
 <p><strong>Log: 2026-10-28 14:59</strong></p>
 <p>[STATUS: SPOT SESSION ACTIVE]<br />
