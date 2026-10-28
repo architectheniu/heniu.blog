@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 19:59
+Data: 2026-10-28 20:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 20:14]</h3>
+<p>[T-LOG: 2026-10-28 20:14]</p>
+<p>Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29690 (NQ ≈ 29844). Gwiazda NDX wykazuje test popytu (CVD: 6,85M), podczas gdy Sonda NQ (29864.00) oraz Satelita QQQ (722.74) znajdują się w fazie wyprzedaży (CVD odpowiednio: -19,07K oraz -1,56M). Szeroka Giełda TICKQ wykazuje stan wyprzedaży (-86.00), znajdując się poniżej średniej radiacji SMA200 (13.40), co potwierdza dominację presji podażowej w układzie. Wektor kierunku Q-Score wynosi 0, wskazując na brak dominującego impulsu przy jednoczesnym spadku trendu promieniowania (-1.27). Masa Galaktyki wynosi 42.01 T (Delta: -0.06 T), a Średnia Akcja to $305.83 (Delta: -0.45 USD), co wskazuje na powolne kurczenie się koszyka. Zmienność w Sferze Dysona (IV) wynosi 21.68% przy asymetrii wolumenu Put/Call na poziomie 1.09. Występuje wyraźne rozwarstwienie układu: test popytu na poziomie jądra (NDX) kontrastuje z agresywną wyprzedażą na sondzie i satelicie.</p>
+<p>[STATUS: DYSONANS WEKTORÓW / ROZWARSTWIENIE UKŁADU]</p>
 <h3>🌌 [2026-10-28 19:59]</h3>
 <p><strong>STATUS: SPOT (SESJA KASOWA)</strong></p>
 <p><strong>TELEMETRIA OBIEKTÓW:</strong><br />

@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 19:59
+Date: 2026-10-28 20:14
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 20:14]</h3>
+<p>[T-LOG: 2026-10-28 20:14]</p>
+<p>US100 ecosystem HVN support at the NDX level of 29690 (NQ ≈ 29844) has been broken. The NDX Star shows a demand test (CVD: 6,85M), while the NQ Probe (29864.00) and QQQ Satellite (722.74) are in a sell-off phase (CVD respectively: -19,07K and -1,56M). The wide TICKQ Market breadth shows a sell-off state (-86.00), being below the SMA200 radiation average (13.40), which confirms the dominance of supply pressure in the system. The Q-Score direction vector is 0, indicating a lack of dominant impulse along with a simultaneous decline in radiation trend (-1.27). Galaxy Mass is 42.01 T (Delta: -0.06 T), and the Average Action is $305.83 (Delta: -0.45 USD), indicating a slow shrinking of the basket. Volatility in the Dyson Sphere (QQQ) (IV) is 21.68% with a Put/Call volume asymmetry at the level of 1.09. There is a clear stratification of the system: a demand test at the Core level (NDX) contrasts with aggressive sell-offs on the probe and satellite.</p>
+<p>[STATUS: VECTOR DISSONANCE / SYSTEM STRATIFICATION]</p>
 <h3>🌌 [2026-10-28 19:59]</h3>
 <p><strong>STATUS: SPOT (THE CASH SESSION)</strong></p>
 <p><strong>OBJECT TELEMETRY:</strong><br />
