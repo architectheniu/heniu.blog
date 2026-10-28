@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 00:59
+Data: 2026-10-28 01:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 01:29]</h3>
+<p>[T-LOG: 2026-10-28 01:29]</p>
+<p><strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29813.50. Odnotowano intensywną wymianę wolumenową w strefie 29650: najpierw obalono wsparcie HVN, by po 10 minutach zdobyć zaporę HVN na tym samym poziomie. Obecny Q-Score wynosi -5, wskazując na minimalną ujemną tendencję wektora rynku. Wskaźnik CVD dla Sondy NQ wynosi -407, co klasyfikuje stan układu jako test podaży. ADR NQ utrzymuje się na poziomie 13.94%. W Sferze Dysona (opcje QQQ) zmienność (IV) wynosi 22.20%, a asymetria wolumenu (Put/Call Ratio) jest bliska jedności (1.03).</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Konsolidacja wokół zapory HVN przy jednoczesnym niskim, ujemnym CVD sugeruje brak wyraźnej kinetyki kierunkowej w obecnym oknie czasowym. Układ w fazie testowania lokalnej podaży przy braku rezonansu wektorów.</p>
+<p>Log: 2026-10-28 01:29</p>
 <h3>🌌 [2026-10-28 00:59]</h3>
 <p>[T-LOG: 2026-10-28 00:59]</p>
 <p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>

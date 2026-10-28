@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 01:00
+Data: 2026-10-28 01:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 01:29]</h3>
+<p>[T-LOG: 2026-10-28 01:29]</p>
+<p><strong>STATUS: FUTURES (ONLY NQ ACTIVE)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29813.50. Foi registrada uma intensa troca de volume na zona 29650: primeiro o suporte HVN foi derrubado para, após 10 minutos, conquistar a barreira HVN no mesmo nível. O Q-Score atual é de -5, indicando uma tendência negativa mínima do vetor de mercado. O indicador CVD para a Sonda NQ é de -407, o que classifica o estado do sistema como um teste de oferta. O ADR NQ mantém-se no nível de 13.94%. Na Esfera de Dyson (opções QQQ), a volatilidade (IV) é de 22.20%, e a assimetria de volume (Put/Call Ratio) está próxima da unidade (1.03).</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+A consolidação em torno da barreira HVN, simultaneamente com um CVD baixo e negativo, sugere a falta de uma cinética direcional clara na janela de tempo atual. O sistema está em fase de teste de oferta local com ausência de ressonância de vetores.</p>
+<p>Log: 2026-10-28 01:29</p>
 <h3>🌌 [2026-10-28 00:59]</h3>
 <p>[T-LOG: 2026-10-28 00:59]</p>
 <p><strong>STATUS: FUTUROS (APENAS NQ)</strong></p>
