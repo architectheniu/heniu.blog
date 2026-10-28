@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0029: Old Dominion Freight Line: resultados do 3Q2026
+
+Data: 2026-10-28 19:49
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-28-0029/
+
+
+A receita da Old Dominion Freight Line (ODFL) no terceiro trimestre foi de 1,59 bi USD (+13,1% a/a), e o lucro por ação (contábil) aumentou 28,9% a/a para o nível de 1,65 USD.
+
+### Resultados do trimestre
+
+O lucro por ação (contábil, básico) atingiu o valor de 1,66 USD (+28,7% a/a) em comparação ao ano anterior de 1,29 USD.
+
+### Projeção da empresa
+
+Os gastos de capital em FY 2026 devem ser de 380,00 mi USD.
+
+### O que diz a administração
+
+De acordo com a administração, a demanda permanece estável, e as conversas com os clientes indicam um ambiente de demanda em melhora. A administração enfatizou que o maior peso das remessas permite manter uma receita estável por unidade de peso sem combustível, o que confirma a eficácia da política de preços. A administração também indicou que a maior parte do aumento do custo por funcionário resulta do aumento dos custos de benefícios adicionais relacionados à inflação na saúde. De acordo com a administração, a empresa possui uma grande reserva de capacidade em imóveis e equipamentos e, graças ao treinamento autônomo de motoristas, não sente problemas com a aquisição de funcionários. A administração observou que, mantendo o nível atual de receitas e resultados sazonalmente melhores do que o normal, o índice operacional deve encontrar-se no limite inferior da faixa normal de deterioração.
+
+
+---
+
 ## Fundamentos #0028: PayPal: resultados do 3Q2026
 
 Data: 2026-10-28 19:42
@@ -1100,100 +1123,5 @@ Costco Wholesale (COST) apresentou um relatório de mudanças na diretoria ou co
 Copart (CPRT) apresentou um relatório de mudanças na diretoria ou conselho.
 
 Insiders em 16.10 venderam ações por 32,0 milhões de USD, incluindo 31,1 milhões de USD de planos 10b5-1; compras no mercado totalizaram 50 mil USD. A maior venda foi reportada por insiders da Moderna (MRNA): 17,0 milhões de USD.
-
-
----
-
-## Log #0205: Colapso Gravitacional e Decomposição de Estruturas Orbitais
-
-Data: 2026-10-18 09:00
-Endereço: https://heniu.blog/pt-br/posts/log-0205/
-
-
-> ⚠️ **ERRATUM (2026-10-18)**  
-> **O balanço semanal tinha três erros: a variação do IV, o intervalo do NQ e o rótulo das cotações.**
->
-> **Correções:**
-> - A volatilidade implícita (IV) subiu 4.04 p.p. desde segunda-feira (de 18.72% para 22.76%), e não em relação à média semanal. A média semanal foi de 19.61%, ou seja, 3.15 p.p. abaixo da leitura de sexta-feira.
-> - Intervalo semanal do NQ: 29353.00 — 31242.00 (amplitude 1889.00 pts), e não 29379.75 — 31242.00 (1862.25 pts). O intervalo vinha dos preços citados nos T-Logs e não incluía o fechamento de sexta-feira (29353.00), que ficou abaixo da mínima informada.
-> - O valor rotulado como “Abertura Segunda” é o fechamento da sexta-feira anterior, a partir do qual são calculadas as variações semanais, e não o preço de abertura de segunda-feira. Corrigimos o rótulo; as variações semanais não mudam.
-
-**Stardate:** 2026.10.18\
-**Status dos Sistemas:** Observação Externa\
-**Setor:** Bandas Internas de Volatilidade
-
----
-
-### Telemetria da Semana: Balanço de Abertura e Fechamento
-
-> *O Sistema experimentou uma descompressão abrupta da massa total T-Mass de 4.74%, impulsionada por uma fuga massiva de capital de NDX e NQ. A alta amplitude de oscilações e o aumento da IV sinalizam uma transição de fase para um estado de alta entropia.*
-
-* **Scanner Subespacial (Balanço de Massa Semanal):**
-    * *T-Mass do Sistema (Abertura → Fechamento):* **43.75 T → 41.68 Trilhões de USD**
-    * *Delta Semanal de Massa:* **-2.07 Trilhões de USD (-4.74%)**
-    * *Densidade do Núcleo (Heavy Nine):* **68.42% → 66.41%** (Delta: **-2.01 p.p.**)
-    * *Ação Média (Temperatura da Periferia):* **[SEM DADOS] → [SEM DADOS]** (Delta: **[SEM DADOS]**)
-    * *Flutuação da Composição do Núcleo (>1T):* **Estabilidade (sem emergência/colapso)**
-
-* **a Estrela NDX (Sol — Balanço de 5 Sessões):**
-    * *Cotação (Fechamento da sexta anterior → Fechamento de sexta):* **30886.82 → 29184.88 (-1701.94 pts | -5.51%)**
-    * *Intervalo Semanal (Extremos):* **29182.00 — 30695.74 (Amplitude: 1513.74 pts)**
-    * *Fluxo de Energia Acumulado (CVD Semanal):* **−110.88 M [pânico]**
-
-* **a Sonda NQ (Mercúrio — Balanço de 5 Sessões):**
-    * *Cotação (Fechamento da sexta anterior → Fechamento de sexta):* **31108.26 → 29353.00 (-1755.26 pts | -5.64%)**
-    * *Intervalo Semanal (Extremos):* **29353.00 — 31242.00 (Amplitude: 1889.00 pts)**
-    * *Fluxo de Energia Acumulado (CVD Semanal):* **−59.21 K [colapso do mercado]**
-
-* **a Esfera de Dyson (QQQ — Balanço de 5 Sessões):**
-    * *Cotação (Fechamento da sexta anterior → Fechamento de sexta):* **751.24 → 709.86 (-41.38 USD | -5.51%)**
-    * *Intervalo Semanal (Extremos):* **709.86 — 746.72 (Amplitude: 36.86 USD)**
-    * *Fluxo de População Acumulado (CVD Semanal):* **+2.95 M [disparo do mercado]**
-
-* **a Radiação de Fundo (TICKQ — Amplitude de Mercado na Semana):**
-    * *Radiação Média Semanal (TICKQ SMA200):* **-38.05 [liquidação]**
-    * *Intervalo de Radiação na Semana:* **Min -83.13 / Max +10.71**
-
-* **Estrutura Gravitacional (Opções — a Esfera de Dyson):**
-    * *Implied Volatility (IV):* **22.76%** (Média Semanal: **19.61%** | Mudança desde segunda-feira: **+4.04 p.p.**)
-    * *Estrutura de Posições (Put/Call OI):* **1.44**
-
----
-
-### Diário de Bordo: Colapso Gravitacional e Decomposição de Estruturas Orbitais
-
-**1. Trajetória Semanal e Volatilidade de Cotação (Curso das Sessões de Segunda a Sexta)**
-No ciclo analisado de 5 sessões, ocorreu uma expansão negativa abrupta. a Estrela Central NDX passou do nível 30886.82 para 29184.88, perdendo 1701.94 pts (-5.51%). A trajetória caracterizou-se por uma alta amplitude (1513.74 pts), com um extremo baixo no nível 29182.00, o que indica forte pressão de sell-side. a Sonda NQ exibiu uma instabilidade ainda maior, com amplitude de 1889.00 pts, encerrando o ciclo com uma queda de 5.64%. a Esfera de Dyson QQQ seguiu o vetor de queda principal (-5.51%), fechando a semana no nível 709.86 USD. Todo o sistema passou de uma fase estável para uma fase de compressão de preços abrupta.
-
-**2. Balanço de Energia e Combustível Acumulado (CVD Semanal e Volume)**
-O balanço dos fluxos agressivos indica a dominância de forças destrutivas. O CVD acumulado para NDX foi de -110.88 M, o que, na física do sistema, define um estado de pânico. a Sonda NQ registrou um colapso com CVD no nível de -59.21 K. A leitura anômala na Esfera de Dyson (QQQ CVD: +2.95 M) sugere fenômenos locais de absorção de liquidez em níveis baixos, porém isso não foi capaz de conter o fluxo de saída global de energia do sistema. a Radiação de Fundo TICKQ (SMA200: -38.05) confirma um estado de liquidação profunda em escala semanal.
-
-**3. Evolução da Massa, Densidade do Núcleo e Escudos de Opções**
-Houve uma degradação significativa da massa total (T-Mass): queda de 43.75 T para 41.68 T (-4.74%). A densidade do Núcleo sofreu rarefação, caindo de 68.42% para 66.41%. Apesar da perda de massa, a composição dos objetos de Classe 0 (>1T) permaneceu estável, sem colapsos abruptos ou novas emergências. A volatilidade implícita (IV) subiu 4.04 p.p. desde segunda-feira, para 22.76% (média semanal: 19.61%), o que, com o Put/Call OI no nível de 1.44, evidencia um aumento abrupto na demanda por escudos de proteção contra uma maior descompressão.
-
-**Veredito Quântico:**
-O sistema encontra-se em um estado de forte desestabilização gravitacional. A fuga massiva de energia (CVD) e a queda na densidade do núcleo sugerem que os mecanismos de estabilização da Esfera de Dyson estão atualmente sobrecarregados. A física do sistema indica a predominância de vetores de queda com entropia crescente (IV).
-
-**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
-
-**Fim do registro.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
-}
-</script>
 
 

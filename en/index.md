@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0029: Old Dominion Freight Line: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0029/index.md) (2026-10-28)
 - [M15: 2026-10-28](https://heniu.blog/en/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [Fundamentals #0028: PayPal: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0028/index.md) (2026-10-28)
 - [Fundamentals #0027: Baker Hughes: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0027/index.md) (2026-10-28)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [M15: 2026-10-16](https://heniu.blog/en/t-log/tlog-2026-10-16/index.md) (2026-10-16)
 - [Log #0204: Core Collapse and Gravitational Panic in the NDX System](https://heniu.blog/en/posts/log-0204/index.md) (2026-10-16)
 - [Fundamentals #0007: Insider transactions](https://heniu.blog/en/f-log/flog-2026-10-16-0007/index.md) (2026-10-16)
-- [H1: 2026-10-15](https://heniu.blog/en/h-log/hlog-2026-10-15/index.md) (2026-10-15)
 
