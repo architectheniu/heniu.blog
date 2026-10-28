@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 01:59
+Data: 2026-10-28 02:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 02:29]</h3>
+<p>[T-LOG: 2026-10-28 02:29]</p>
+<p>Sonda NQ: 29862.75 (+0.17%). Wektor Q-Score stabilny na poziomie 15 (Delta: +0.0). Aktywność w trybie FUTURES ogranicza obserwację wyłącznie do obiektu NQ; pozostałe parametry układu (NDX, QQQ, TICKQ) pozostają w uśpieniu. Sonda wykazuje stan [test popytu] przy wartości CVD: 593. ADR NQ wynosi 15.95%, co plasuje bieżącą zmienność powyżej średnich historycznych. W sferze Dysona (opcje na QQQ) odnotowano IV na poziomie 22.20% oraz asymetrię wolumenu Put/Call wynoszącą 1.03. Brak danych telemetrycznych dla Średniej Akcji w bieżącym trybie. Kinematyka układu wykazuje niską energię kinetyczną przy zachowaniu dodatniego wektora kierunkowego.</p>
+<p>Układ w fazie testowania popytu przy niskiej intensywności przepływów.</p>
 <h3>🌌 [2026-10-28 01:59]</h3>
 <p><strong>[T-LOG: 2026-10-28 01:59]</strong></p>
 <p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
