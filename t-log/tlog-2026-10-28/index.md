@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 17:59
+Data: 2026-10-28 18:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 18:14]</h3>
+<p>[T-LOG: 2026-10-28 18:14]</p>
+<p>[STATUS: SPOT]<br />
+System odnotował przebicie zapory HVN ekosystemu US100 na poziomie NDX 29690 (NQ ≈ 29843). Sonda NQ znajduje się obecnie na poziomie 29852.25 (+0.13%), z ADR powyżej średniej (37.97%). Gwiazda NDX wykazuje test popytu (CVD: 2,09M), podczas gdy Sonda NQ i Satelita QQQ reagują testem podaży (CVD: -9,14K oraz -856,46K odpowiednio). Szeroka Giełda (TICKQ) wykazuje silną akumulację na poziomie 94.00, znacznie powyżej średniej radiacji SMA200 (11.88). Masa Galaktyki wynosi 42.04 T (Delta: -0.02 T), a Średnia Akcja to $306.08 (Delta: -0.11 USD), co wskazuje na lekkie kurczenie się koszyka. W Sferze Dysona zmienność (IV) wynosi 21.98% przy Put/Call Ratio na poziomie 1.08. Q-Score pozostaje neutralny (0).</p>
+<p>[DIAGNOSTYKA]<br />
+Układ wykazuje rozwarstwienie (Cross-Asset Divergence): Jądro (NDX) i szeroka giełda (TICKQ) generują sygnały akumulacji/popytu, podczas gdy instrumenty pochodne (NQ, QQQ) wykazują presję podażową. Występuje asymetria między fundamentem a agresją na kontraktach.</p>
+<p>Log: 2026-10-28 18:14</p>
 <h3>🌌 [2026-10-28 17:59]</h3>
 <p><strong>Log: 2026-10-28 17:59</strong></p>
 <p>System w trybie SPOT. Sonda NQ znajduje się na poziomie 29882.00, przy ADR 37.97%. Odnotowano obalenie wsparcia HVN ekosystemu US100 na poziomie NDX 29690 (NQ ≈ 29843). Gwiazda NDX wykazuje test popytu (CVD: 5,98M), podczas gdy Sonda NQ oraz Satelita QQQ reagują testem podaży (CVD: -7,4K oraz -832,14K odpowiednio). Występuje wyraźne rozwarstwienie układu (Cross-Asset Divergence): jądro (NDX) testuje popyt, podczas gdy wektory wspierające (NQ, QQQ) wykazują presję podażową. Szeroka Giełda TICKQ (98.00) wskazuje na akumulację, pozostając powyżej średniej radiacji SMA200 (11.57). Masa Galaktyki wzrosła do 42.07 T (+0.05 T), a Średnia Akcja wynosi $306.19 (Delta: +0.50 USD), co sugeruje powolną ekspansję koszyka. W Sferze Dysona Put/Call Ratio wynosi 1.08 przy IV 21.92%. Q-Score na poziomie -8 wskazuje na dominację wektora ujemnego przy jednoczesnym wzroście trendu promieniowania.</p>

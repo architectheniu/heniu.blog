@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 18:00
+Data: 2026-10-28 18:15
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 18:14]</h3>
+<p>[T-LOG: 2026-10-28 18:14]</p>
+<p>[STATUS: SPOT]<br />
+O sistema registrou o rompimento da barreira HVN do ecossistema US100 no nível NDX 29690 (NQ ≈ 29843). A Sonda NQ encontra-se atualmente no nível 29852.25 (+0.13%), com ADR acima da média (37.97%). A Estrela NDX mostra um teste de demanda (CVD: 2,09M), enquanto a Sonda NQ e o Satélite QQQ reagem com um teste de oferta (CVD: -9,14K e -856,46K, respectivamente). A Amplitude de mercado (TICKQ) mostra uma forte acumulação no nível 94.00, significativamente acima da média de radiação SMA200 (11.88). A Massa da Galáxia é de 42.04 T (Delta: -0.02 T), e a Ação Média é de $306.08 (Delta: -0.11 USD), o que indica um leve encolhimento da cesta. Na Esfera de Dyson (QQQ), a volatilidade (IV) é de 21.98% com o Put/Call Ratio no nível 1.08. O Q-Score permanece neutro (0).</p>
+<p>[DIAGNÓSTICO]<br />
+O sistema mostra uma divergência (Cross-Asset Divergence): o Núcleo (NDX) e a amplitude de mercado (TICKQ) geram sinais de acumulação/demanda, enquanto os derivativos (NQ, QQQ) mostram pressão de oferta. Existe uma assimetria entre o fundamento e a agressão nos contratos.</p>
+<p>Log: 2026-10-28 18:14</p>
 <h3>🌌 [2026-10-28 17:59]</h3>
 <p><strong>Log: 2026-10-28 17:59</strong></p>
 <p>Sistema em modo SPOT. a Sonda NQ está no nível 29882.00, com ADR de 37.97%. Foi registrado o rompimento do suporte HVN do ecossistema US100 no nível NDX 29690 (NQ ≈ 29843). a Estrela NDX apresenta um teste de demanda (CVD: 5,98M), enquanto a Sonda NQ e o Satélite QQQ reagem com um teste de oferta (CVD: -7,4K e -832,14K, respectivamente). Ocorre uma clara divergência do sistema (Cross-Asset Divergence): o Núcleo (NDX) testa a demanda, enquanto os vetores de suporte (NQ, QQQ) mostram pressão de oferta. a Amplitude de mercado (TICKQ) ampla (98.00) indica acumulação, permanecendo acima da média de radiação SMA200 (11.57). a Massa da Galáxia aumentou para 42.07 T (+0.05 T), e a Ação Média é de $306.19 (Delta: +0.50 USD), o que sugere uma expansão lenta da cesta. na Esfera de Dyson, o Put/Call Ratio é de 1.08 com IV de 21.92%. o Q-Score no nível -8 indica a dominância do vetor negativo, com um aumento simultâneo na tendência de radiação.</p>
