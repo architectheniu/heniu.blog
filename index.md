@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-10-29](https://heniu.blog/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-28](https://heniu.blog/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [H1: 2026-10-28](https://heniu.blog/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 - [Fundamenty #0032: Teradyne: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0032/index.md) (2026-10-28)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [H1: 2026-10-19](https://heniu.blog/h-log/hlog-2026-10-19/index.md) (2026-10-19)
 - [M15: 2026-10-19](https://heniu.blog/t-log/tlog-2026-10-19/index.md) (2026-10-19)
 - [Log #0206: Akrecja w cieniu Wielkiej Korekty](https://heniu.blog/posts/log-0206/index.md) (2026-10-19)
-- [Fundamenty #0008: Zgłoszenia spółek: Copart, Costco Wholesale; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-19-0008/index.md) (2026-10-19)
 
