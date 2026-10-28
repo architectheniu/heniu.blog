@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0026: NXP Semiconductors: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0026/index.md) (2026-10-28)
 - [Fundamentos #0025: Seagate Technology Holdings PLC: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0025/index.md) (2026-10-28)
 - [M15: 2026-10-28](https://heniu.blog/pt-br/t-log/tlog-2026-10-28/index.md) (2026-10-28)
 - [H1: 2026-10-28](https://heniu.blog/pt-br/h-log/hlog-2026-10-28/index.md) (2026-10-28)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0007: Transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-16-0007/index.md) (2026-10-16)
 - [H1: 2026-10-15](https://heniu.blog/pt-br/h-log/hlog-2026-10-15/index.md) (2026-10-15)
 - [M15: 2026-10-15](https://heniu.blog/pt-br/t-log/tlog-2026-10-15/index.md) (2026-10-15)
-- [Log #0203: Sombra sobre a Estrela-Mãe: Divergência no Fluxo de Energia](https://heniu.blog/pt-br/posts/log-0203/index.md) (2026-10-15)
 

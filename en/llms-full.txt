@@ -7,6 +7,25 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0026: NXP Semiconductors: 3Q2026 results
+
+Date: 2026-10-28 19:36
+URL: https://heniu.blog/en/f-log/flog-2026-10-28-0026/
+
+
+NXP Semiconductors (NXPI) revenues in Q3 were 3.79 billion USD (+19.3% y/y), and earnings per share (GAAP) increased to 3.48 USD (+40.3% y/y).
+
+### Quarterly results
+
+Earnings per share (GAAP, basic) reached 3.51 USD (+40.4% y/y), while earnings per share (adjusted) was 4.20 USD (+35.0% y/y).
+
+### What management says
+
+Management emphasized that no widespread inventory replenishment is being observed in the automotive sector, with longer lead times improving demand visibility. According to management, confidence in continued growth is based on the increasing adoption of software-defined vehicles and the impact of artificial intelligence on industry and the Internet of Things. Management indicated that the gross margin improvement is structural and results from higher revenues, better fab utilization, and operational efficiency, while price increases merely cover higher costs. According to management, there is a structural shift in pricing within the industry, allowing semiconductors to capture a larger share of value in systems. Management noted that in data centers, growth depends on product launches, their adoption, and software deployment by customers. According to management, the company already has won projects in North America and the Asia-Pacific region, and is also conducting several pilots in China and Europe.
+
+
+---
+
 ## Fundamentals #0025: Seagate Technology Holdings PLC: 1Q2027 results
 
 Date: 2026-10-28 19:33
@@ -1323,24 +1342,5 @@ The System is experiencing a rapid outflow of energy from the Central Star with 
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentals #0006: Fastenal: 3Q2026 results
-
-Date: 2026-10-15 16:19
-URL: https://heniu.blog/en/f-log/flog-2026-10-15-0006/
-
-
-Fastenal (FAST) revenue in the third quarter was 2.46 billion USD (+15.5% y/y), and earnings per share (reported) increased to 0.35 USD (+20.7% y/y).
-
-### Quarterly results
-
-Operating income reached the level of 530.80 million USD (+20.2% y/y), while net income was 401.60 million USD (+19.7% y/y). Earnings per share (reported, basic) was at the level of 0.35 USD (+20.7% y/y).
-
-### Management commentary
-
-Management emphasized that the recorded growth is significantly above historical trends. According to management, success in any market environment should translate into double-digit revenue improvement every year.
 
 

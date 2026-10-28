@@ -7,6 +7,25 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0026: NXP Semiconductors: wyniki za 3Q2026
+
+Data: 2026-10-28 19:35
+Adres: https://heniu.blog/f-log/flog-2026-10-28-0026/
+
+
+Przychody NXP Semiconductors (NXPI) w III kwartale wyniosły 3,79 mld USD (+19,3% r/r), a zysk na akcję (księgowy) wzrósł do 3,48 USD (+40,3% r/r).
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) osiągnął poziom 3,51 USD (+40,4% r/r), natomiast zysk na akcję (skorygowany) wyniósł 4,20 USD (+35,0% r/r).
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że w sektorze motoryzacyjnym nie obserwuje się szerokiego uzupełniania zapasów, przy czym dłuższe terminy dostaw poprawiły widoczność popytu. Według zarządu pewność dalszego wzrostu opiera się na rosnącym przyjmowaniu samochodów definiowanych programowo oraz wpływie sztucznej inteligencji na przemysł i internet rzeczy. Zarząd wskazywał, że poprawa marży brutto ma charakter strukturalny i wynika z wyższych przychodów, lepszego wykorzystania fabryk oraz sprawności operacyjnej, a podwyżki cen jedynie pokrywają wyższe koszty. Według zarządu w branży następuje strukturalna zmiana w cenach, dzięki której półprzewodniki przejmują większą część wartości w systemach. Zarząd zaznaczył, że w centrach danych wzrost zależy od startów produktów, ich akceptacji oraz wdrażania oprogramowania przez klientów. Według zarządu spółka ma już wygrane projekty w Ameryce Północnej oraz w regionie Azji i Pacyfiku, a także prowadzi kilka pilotaży w Chinach i Europie.
+
+
+---
+
 ## Fundamenty #0025: Seagate Technology Holdings PLC: wyniki za 1Q2027
 
 Data: 2026-10-28 19:32
@@ -1250,97 +1269,5 @@ Insiderzy CrowdStrike (CRWD) sprzedali akcje o wartości 5,2 mln USD w ramach pl
 Insiderzy Regeneron Pharmaceuticals (REGN) sprzedali akcje o wartości 3,2 mln USD w ramach planu 10b5-1.
 
 Insiderzy Apple (AAPL) sprzedali akcje o wartości 0,8 mln USD w ramach planu 10b5-1.
-
-
----
-
-## Log #0203: Cień nad Gwiazdą Matką: Rozdźwięk w Przepływie Energii
-
-Data: 2026-10-15 22:03
-Adres: https://heniu.blog/posts/log-0203/
-
-
-> ⚠️ **ERRATUM (2026-10-17)**  
-> **Średnia Akcja w tym wpisie była błędna.** Ceny czterech spółek powyżej 1000 USD (ASML, MELI, MPWR, SNDK) były odczytywane błędnie, więc średnia cena akcji i jej zmiana były zniekształcone.
->
-> **Sprostowania:**
-> - Średnia Akcja: poprawnych wartości nie da się odtworzyć, więc je usunęliśmy.
-> - -4.14% to zejście od najwyższego zamknięcia (31226.82), a -4.55% to korekta od szczytu w trakcie sesji (31360.85); obie z 06.10.
-> - Usunęliśmy podwójny znak procentu przy IV.
-
-**Stardate:** 2026.10.15\
-**Status Systemów:** Obserwacja Zewnętrzna\
-**Sektor:** Wewnętrzne Pasma Zmienności
-
----
-
-### Telemetria Zamknięcia
-
-> *Obserwacja wykazała silną panikę w przepływach energii Gwiazdy Centralnej przy jednoczesnym wystrzale radiacji szerokiego rynku. Układ znajduje się w fazie głębokiej korekty, która statystycznie przekracza 57% historycznych zdarzeń tego typu.*
-
-* **Skaner Podprzestrzenny (Rozkład Masy):**
-    * *T-Mass Układu:* **42.59 Tryliona USD**
-    * *Delta Sesyjna (24h):* **-0.08 Tryliona USD**
-    * *Gęstość Jądra (Heavy Nine):* **68.61%** (Delta: **-0.13%**)
-    * *Średnia Akcja (Temperatura Peryferii):* **[BRAK DANYCH]** (Delta: **[BRAK DANYCH]**)
-
-* **Gwiazda NDX (Słońce):** Zamknięcie: **29933.73 (-0.05%)**
-    * *Wektor (CVD):* **−99,39 M [panika]**
-    * *Anomalia MOC:* **-23,94 M**
-    * *Zużycie Zasięgu (ADR Util):* **193.82%**
-    * *Zejście od szczytu Henia:* **-4.14%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
-
-* **Sonda NQ (Merkury):** Zamknięcie: **30148.75 (-0.11%)**
-    * *Wektor (CVD):* **13 K [akumulacja]**
-    * *Zużycie Zasięgu (ADR Util):* **124.92%**
-
-* **Sfera Dyson’a (QQQ):** Zamknięcie: **728.06 (-0.12%)**
-    * *Wektor Populacji:* **2,08 M [wystrzał rynku]**
-    * *Zużycie Zasięgu (ADR Util):* **189.45%**
-
-* **Promieniowanie Tła (TICKQ) 201.00 [wystrzał rynku]:**
-    * *SMA200:* **-74.23 [załamanie rynku]**
-
-* **Struktura Grawitacyjna (Opcje):**
-    * *Implied Volatility (IV):* **20.33%**
-    * *Put/Call OI:* **1.46**
-
----
-
-### Dziennik Pokładowy: Analiza Stanu Układu 2026.10.15
-
-**1. Anomalna Akrecja i Panika w Jądrze**
-Gwiazda Centralna NDX wykazuje stan paniki, generując ujemny przepływ energii (CVD) na poziomie -99,39M. Mimo stabilności składu Jądra (>1T), cena NDX znajduje się 4,14% poniżej najwyższego zamknięcia, co w kontekście całorocznej trajektorii oznacza korektę głębszą niż 57% dotychczasowych zdarzeń w pamięci systemu. Sonda NQ wykazuje odmienną dynamikę, wchodząc w fazę akumulacji z CVD na poziomie 13K, co sugeruje rozdźwięk między instrumentem kasowym a kontraktami futures.
-
-**2. Radiacja Szerokiego Rynku i Fortyfikacje Sfery Dyson'a**
-Promieniowanie tła TICKQ wskazuje na wystrzał rynku (201.00), choć średnia radiacja SMA200 nadal sygnalizuje załamanie rynku (-74.23). Jednocześnie Sfera Dyson'a QQQ wykazuje silną energię, generując wystrzał rynku w warstwie opcyjnej (CVD: 2,08M). Węzeł wolumenu w pobliżu 30270–30290 pozostaje nieosiągalny dla obecnej trajektorii ceny.
-
-**3. Dynamika Masowa i Dane Fundamentalne**
-Całkowita masa układu (T-Mass) wynosi 42.59 Tryliona USD. W sektorze Klasy 0 odnotowano ujemny przepływ insiderów netto na poziomie -5,13 mln USD w ciągu ostatnich 5 sesji. Obecna korekta od szczytu w trakcie sesji z 06.10 (-4,55%) wykazuje cechy strukturalne większej korekty w relacji do mediany i 80. percentyla historycznych danych.
-
-**Werdykt Kwantowy:**
-Układ doświadcza gwałtownego odpływu energii z Gwiazdy Centralnej przy jednoczesnym wzroście radiacji w niższych warstwach (TICKQ) i Sferze Dyson'a. Mechanika wskazuje na głęboką rekonfigurację mas, gdzie panika w NDX nie znajduje pełnego odzwierciedlenia w akumulacji na Sondzie NQ.
-
-**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
-
-**Koniec zapisu.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
 
 
