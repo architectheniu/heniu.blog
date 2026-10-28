@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 16:59
+Data: 2026-10-28 17:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 17:14]</h3>
+<p>[T-LOG: 2026-10-28 17:14]</p>
+<p><strong>STATUS: SPOT</strong></p>
+<p>Układ znajduje się w fazie grawitacyjnego napięcia. Gwiazda NDX wykazuje test podaży (CVD: -1,94M), podczas gdy Sonda NQ (29853.00) oraz Satelita QQQ (722.38) również rejestrują testy podaży (CVD: -9,36K oraz -936,82K odpowiednio). Mimo ujemnych wektorów ciśnienia wolumenowego, Szeroka Giełda TICKQ wykazuje wystrzał rynku (254.00), znacząco powyżej średniej radiacji SMA200 (11.02), co wskazuje na rozwarstwienie układu (Cross-Asset Divergence) – agresja na szerokim rynku kontrastuje z wygaszonym popytem w głównych instrumentach. Q-Score oscyluje na poziomie -10, sygnalizując skrajnie niską dynamikę kierunkową. W Sferze Dysona IV wynosi 21.89%, a asymetria wolumenu Put/Call jest bliska jedności (1.07). Masa Galaktyki pozostaje stabilna na poziomie 42.02 T, natomiast Średnia Akcja wynosi $305.72 (Delta: +0.05 USD), co wskazuje na powolną ekspansję wartości koszyka. ADR dla głównych obiektów pozostaje powyżej średnich historycznych.</p>
+<p><strong>DIAGNOZA: Rozwarstwienie wektorów; wystrzał na szerokim rynku przy jednoczesnym teście podaży w rdzeniu i satelitach.</strong></p>
+<p>Log: 2026-10-28 17:14</p>
 <h3>🌌 [2026-10-28 16:59]</h3>
 <p><strong>STATUS: SPOT - ANALIZA TELEMETRYCZNA</strong></p>
 <p>Układ znajduje się w fazie grawitacyjnego napięcia. Gwiazda NDX wykazuje test podaży (CVD: -44,4K), podczas gdy Sonda NQ przy cenie 29855.75 również realizuje test podaży (CVD: -9,07K). Satelita QQQ potwierdza ten reżim, wykazując test podaży (CVD: -934,89K). Wektor kierunkowy Q-Score wynosi -10, co wskazuje na słabą dynamikę wzrostową przy jednoczesnym wystrzale szerokiego rynku (TICKQ: 356.00 [wystrzał rynku]), znacząco powyżej średniej radiacji (SMA200: 11.60 [test popytu]).</p>

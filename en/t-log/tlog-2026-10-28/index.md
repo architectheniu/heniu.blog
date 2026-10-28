@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 16:59
+Date: 2026-10-28 17:14
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 17:14]</h3>
+<p>[T-LOG: 2026-10-28 17:14]</p>
+<p><strong>STATUS: SPOT</strong></p>
+<p>The system is in a phase of gravitational tension. the NDX Star shows a supply test (CVD: -1,94M), while the NQ Probe (29853.00) and the QQQ Satellite (722.38) are also registering supply tests (CVD: -9,36K and -936,82K respectively). Despite negative volume pressure vectors, the TICKQ Market breadth shows a market flare (254.00), significantly above the SMA200 radiation average (11.02), indicating Cross-Asset Divergence – aggression in the broad market contrasts with muted demand in the main instruments. Q-Score oscillates at the level of -10, signaling extremely low directional dynamics. In the Dyson Sphere (QQQ) IV is 21.89%, and the Put/Call volume asymmetry is close to unity (1.07). The Galaxy Mass remains stable at the level of 42.02 T, while the Average Action is $305.72 (Delta: +0.05 USD), indicating a slow expansion of the basket value. ADR for the main objects remains above historical averages.</p>
+<p><strong>DIAGNOSIS: Vector divergence; flare in the broad market with a simultaneous supply test in the core and satellites.</strong></p>
+<p>Log: 2026-10-28 17:14</p>
 <h3>🌌 [2026-10-28 16:59]</h3>
 <p><strong>STATUS: SPOT - TELEMETRY ANALYSIS</strong></p>
 <p>The system is in a phase of gravitational tension. the NDX Star shows a supply test (CVD: -44,4K), while the NQ Probe at price 29855.75 is also executing a supply test (CVD: -9,07K). the QQQ ETF satellite confirms this regime, showing a supply test (CVD: -934,89K). The Q-Score directional vector is -10, indicating weak upward momentum alongside a broad market flare (TICKQ: 356.00 [market flare]), significantly above the average radiation (SMA200: 11.60 [demand test]).</p>

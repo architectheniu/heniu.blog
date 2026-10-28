@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 17:00
+Data: 2026-10-28 17:15
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 17:14]</h3>
+<p>[T-LOG: 2026-10-28 17:14]</p>
+<p><strong>STATUS: a sessão à vista (Spot)</strong></p>
+<p>O Sistema encontra-se em uma fase de tensão gravitacional. a Estrela NDX apresenta um teste de oferta (CVD: -1,94M), enquanto a Sonda NQ (29853.00) e o Satélite QQQ (722.38) também registram testes de oferta (CVD: -9,36K e -936,82K, respectivamente). Apesar dos vetores negativos de pressão de volume, a Amplitude de mercado (TICKQ) apresenta uma erupção de mercado (254.00), significativamente acima da média de radiação SMA200 (11.02), o que indica uma divergência do sistema (Cross-Asset Divergence) – a agressão no mercado amplo contrasta com a demanda extinta nos principais instrumentos. O Q-Score oscila no nível de -10, sinalizando uma dinâmica direcional extremamente baixa. Na a Esfera de Dyson (QQQ), o IV é de 21.89%, e a assimetria de volume Put/Call está próxima da unidade (1.07). A Massa da Galáxia permanece estável no nível de 42.02 T, enquanto a Ação Média é de $305.72 (Delta: +0.05 USD), indicando uma expansão lenta do valor da cesta. O ADR para os principais objetos permanece acima das médias históricas.</p>
+<p><strong>DIAGNOSE: Divergência de vetores; erupção no mercado amplo com teste de oferta simultâneo no núcleo e nos satélites.</strong></p>
+<p>Log: 2026-10-28 17:14</p>
 <h3>🌌 [2026-10-28 16:59]</h3>
 <p><strong>STATUS: A SESSÃO À VISTA (SPOT) - ANÁLISE TELEMÉTRICA</strong></p>
 <p>O sistema encontra-se em uma fase de tensão gravitacional. a Estrela NDX apresenta um teste de oferta (CVD: -44,4K), enquanto a Sonda NQ ao preço de 29855.75 também realiza um teste de oferta (CVD: -9,07K). O satélite QQQ confirma este regime, apresentando um teste de oferta (CVD: -934,89K). O vetor direcional Q-Score é de -10, o que indica uma dinâmica de alta fraca com um surto simultâneo da amplitude de mercado (TICKQ: 356.00 [erupção do mercado]), significativamente acima da média da radiação (SMA200: 11.60 [teste de demanda]).</p>
