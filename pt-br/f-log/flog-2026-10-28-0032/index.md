@@ -1,0 +1,23 @@
+# Fundamentos #0032: Teradyne: resultados do 3Q2026
+
+Data: 2026-10-28 21:49
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-28-0032/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+A receita da Teradyne (TER) no terceiro trimestre foi de 1,31 bi USD (+69,8% a/a), e o lucro por ação (contábil) aumentou para 2,17 USD (+189,3% a/a).
+
+### Resultados do trimestre
+
+O lucro por ação (contábil, básico) situou-se em 2,19 USD (+192,0% a/a), enquanto o lucro por ação (ajustado) foi de 2,29 USD (+169,4% a/a).
+
+### Projeção da empresa
+
+No Q4 2026, a empresa espera uma receita na faixa de 1,25 bi USD – 1,35 bi USD, com o lucro por ação (ajustado) no nível de 1,95–2,25 USD.
+
+### O que diz a administração
+
+A administração espera um crescimento significativo no segmento de memória no próximo ano, que deve abranger todos os segmentos, com especial atenção à tecnologia HBM. De acordo com a administração, os estoques estão crescendo em conexão com os preparativos para o crescimento e o prolongamento dos prazos de entrega de componentes para os testadores, por isso a empresa está aumentando agressivamente as capacidades de produção na área de testadores de memória e linhas de testes de alimentação. A administração enfatizou que, no próximo ano, o crescimento deve aumentar trimestre após trimestre, embora a empresa evite previsões específicas devido à volatilidade dos ciclos de montagem de linhas de teste pelos clientes. Segundo a administração, na área de robótica, o portfólio de oportunidades está se expandindo, e espera-se um crescimento sólido do maior cliente no próximo ano. A administração permanece interessada na tecnologia de óptica co-empacotada, no entanto, o ritmo de seu desenvolvimento depende da rentabilidade que permita o aumento da produção.
+

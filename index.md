@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0032: Teradyne: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0032/index.md) (2026-10-28)
 - [Fundamenty #0031: GE HealthCare Technologies: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0031/index.md) (2026-10-28)
 - [Fundamenty #0030: Automatic Data Processing: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-28-0030/index.md) (2026-10-28)
 - [M15: 2026-10-28](https://heniu.blog/t-log/tlog-2026-10-28/index.md) (2026-10-28)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [M15: 2026-10-19](https://heniu.blog/t-log/tlog-2026-10-19/index.md) (2026-10-19)
 - [Log #0206: Akrecja w cieniu Wielkiej Korekty](https://heniu.blog/posts/log-0206/index.md) (2026-10-19)
 - [Fundamenty #0008: Zgłoszenia spółek: Copart, Costco Wholesale; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-19-0008/index.md) (2026-10-19)
-- [Log #0205: Kolaps Grawitacyjny i Rozpad Struktur Orbitalnych](https://heniu.blog/posts/log-0205/index.md) (2026-10-18)
 

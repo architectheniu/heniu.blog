@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0032: Teradyne: 3Q2026 results
+
+Date: 2026-10-28 21:49
+URL: https://heniu.blog/en/f-log/flog-2026-10-28-0032/
+
+
+Teradyne (TER) revenue in Q3 was 1.31 billion USD (+69.8% y/y), and earnings per share (GAAP) increased to 2.17 USD (+189.3% y/y).
+
+### Quarterly results
+
+Earnings per share (GAAP, basic) stood at 2.19 USD (+192.0% y/y), while earnings per share (adjusted) was 2.29 USD (+169.4% y/y).
+
+### Company guidance
+
+In Q4 2026, the company expects revenue in the range of 1.25 billion USD – 1.35 billion USD, with adjusted earnings per share at 1.95–2.25 USD.
+
+### Management commentary
+
+Management expects significant growth in the memory segment in the coming year, which is expected to encompass all segments, with a particular focus on HBM technology. According to management, inventories are increasing due to preparations for growth and extended lead times for component deliveries for testers; therefore, the company is aggressively increasing production capacity in the area of memory testers and power test lines. Management emphasized that growth is expected to accelerate quarter by quarter in the coming year, although the company avoids specific forecasts due to the volatility of customer test line assembly cycles. According to management, the robotics portfolio is expanding, and solid growth is expected from the largest customer in the coming year. Management remains interested in co-packaged optics technology, but its development pace depends on profitability allowing for increased production.
+
+
+---
+
 ## Fundamentals #0031: GE HealthCare Technologies: 3Q2026 results
 
 Date: 2026-10-28 21:42
@@ -1106,26 +1129,5 @@ The system exhibits strong asymmetry: aggressive energy accretion (CVD) coexists
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentals #0009: Tesla company filing; insider transactions
-
-Date: 2026-10-20 10:10
-URL: https://heniu.blog/en/f-log/flog-2026-10-20-0009/
-
-
-Tesla (TSLA) filed a proxy statement for the annual meeting.
-
-Insiders on 19.10 sold shares for 24.3 million USD, including 23.7 million USD from 10b5-1 plans; market purchases were 0. The largest sale was reported by Advanced Micro Devices (AMD) insiders: 9.3 million USD. The largest sale was reported by CrowdStrike (CRWD) insiders: 7.0 million USD.
-
-The Executive Vice President and General Manager of DSG at Advanced Micro Devices (AMD) sold 17 262 shares valued at 9.3 million USD under a 10b5-1 plan.
-
-The President and CEO of CrowdStrike (CRWD) sold 20 000 shares valued at 4.7 million USD under a 10b5-1 plan.
-
-16 other transactions were also reported.
-
-proxy DEF 14A (Document: DEF 14A; Filing date (USA time): 19.10).
 
 
