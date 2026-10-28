@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 17:08
+Data: 2026-10-28 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.28 [PT-BR]</h1>
+<h3>📈 [2026-10-28 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de preços e fluxos:</strong> O Índice Nasdaq-100 (NDX) está em 29720.87 (+0.23%), com o fluxo acumulado (CVD) em um nível de 4,94 M de ações, o que indica o teste de demanda no mercado à vista. Simultaneamente, os contratos futuros NQ (29871.50, +0.20%) e o ETF QQQ (722.84, +0.22%) mostram um fluxo (CVD) negativo de -7,72 K e -826,57 K, respectivamente, o que sugere a presença de pressão de venda nesses instrumentos. O indicador agregado de direção de fluxo é 0, o que significa a ausência de uma dominância clara de um dos lados do mercado.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> O indicador TICKQ é -6.00, o que, com uma média SMA200 no nível de 11.38, indica fraqueza na amplitude de mercado Nasdaq na sessão atual.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 21.95%, e a relação Put/Call (PCR) está em 1.08. Com um volume de opções de 2,116,228, o PCR acima de 1.0 sugere uma leve vantagem de posições de proteção (hedging) ou a expectativa de quedas, com o intervalo de movimento esperado pelo mercado entre 713.58 e 730.86 pontos.</li>
+<li><strong>Contexto técnico e níveis:</strong> Está ocorrendo um Recuo desde o pico do dia 06.10 (31360.85), que atualmente é de -5.23% (-1640 pkt). Esta é uma correção de caráter maior do que a mediana dos movimentos históricos (mais profunda do que 57% dos casos registrados). A resistência mais próxima está na zona de nó de volume 29740–29760 (1.2% do volume), enquanto o suporte está abaixo do preço na zona 29640–29660 (2.6% do volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-28 18:07</p>
 <h3>📈 [2026-10-28 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
