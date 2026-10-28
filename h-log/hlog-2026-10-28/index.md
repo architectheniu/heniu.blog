@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 22:07
+Data: 2026-10-28 23:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.28</h1>
+<h3>📈 [2026-10-28 23:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku kasowego:</strong> Rynek kasowy (Spot) jest obecnie zamknięty; wskaźnik TICKQ jest nieaktywny. Analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Kontrakty terminowe NQ:</strong> Cena kontraktów wynosi 29694.50 (-0.94%), przy ujemnym przepływie skumulowanym (CVD) na poziomie -2,78 K, co wskazuje na testowanie podaży w sesji po sesji regularnej.</li>
+<li><strong>Poziomy wsparcia i oporu:</strong> Indeks NDX znajduje się przy szczycie swingu z dnia 28.10 (29821.65). Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29740–29760, natomiast strefa oporu to 29830–29850.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 15, co oznacza słabą przewagę napływu kapitału. Mimo to, na zamknięciu sesji kasowej odnotowano silny skumulowany przepływ (CVD) dla NDX na poziomie 152,16 M przy wzroście ceny o 0.55%.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 21.02%, a wskaźnik Put/Call Volume Ratio to 1.11, co sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwania na spadki. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 718.71 do 732.51 przy wolumenie opcji 4,946,453.</li>
+</ul>
+<p>Raport H-Log: 2026-10-28 23:07</p>
 <h3>📈 [2026-10-28 zamknięcie]</h3>
 <p><strong>H-LOG: Podsumowanie sesji kasowej</strong></p>
 <p>Jest to podsumowanie sesji kasowej (Spot) z 2026-10-28. Indeks NDX zamknął się na poziomie 29821.65, co oznacza zmianę o +0.55%, przy CVD wynoszącym 152,16 M i zużyciu zasięgu ADR na poziomie 54.69%. Kontrakt NQ zakończył sesję na poziomie 30066.75 (+0.85%) z CVD na poziomie −222 oraz zużyciem ADR wynoszącym 70.25%. ETF QQQ osiągnął zamknięcie 725.48, co stanowi wzrost o +0.59%, przy CVD na poziomie −426,08 K i zużyciu ADR 56.43%. Wskaźnik TICKQ zamknął się na poziomie 23.00, powyżej SMA200 wynoszącego 21.87, natomiast anomalia MOC wyniosła +33,02 M.</p>
