@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 01:07
+Data: 2026-10-28 02:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,19 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.28</h1>
+<h3>📈 [2026-10-28 02:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywności kontraktów terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ notowane są po cenie 29828.75 (+0.05%), przy skumulowanym przepływie CVD na poziomie -226, co wskazuje na test podaży w obecnej sesji.</li>
+<li>Na zamknięciu sesji kasowej odnotowano silną akumulację na ETF QQQ (CVD: 1,14 M) oraz test popytu na indeksie NDX (CVD: 12,67 M), mimo że cena NDX zamknęła się z wynikiem +1.29% na poziomie 29653.58.</li>
+<li>Rynek opcji QQQ wykazuje Put/Call Volume Ratio na poziomie 1.03 przy wolumenie 7,711,717, co sugeruje lekką przewagę pozycji zabezpieczających (hedgingu) lub oczekiwanie na większą zmienność. Zmienność implikowana (IV) wynosi 22.20%, a oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 711.44 do 731.06.</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi -5, co oznacza neutralną tendencję z lekką przewagą dystrybucji kapitału.</li>
+<li>Korekta indeksu NDX od szczytu (31360.85) wynosi obecnie -5.44% (-1707 pkt). Jest to korekta o charakterze większym względem historycznych median, głębsza niż 57% dotychczasowych ruchów.</li>
+<li>Kluczowe poziomy techniczne: najbliższe wsparcie znajduje się w strefie węzła wolumenu 29560–29580 (2.4% wolumenu), natomiast opór zidentyfikowano w strefie 29740–29760 (1.2% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-10-28 02:07</p>
 <h3>📈 [2026-10-28 01:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
