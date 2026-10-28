@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 11:00
+Data: 2026-10-28 11:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 11:29]</h3>
+<p><strong>STATUS: TRYB FUTURES (TYLKO SONDA NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29938.25 (+0.42%). Wektor Q-Score wynosi 15 [Delta: +0.0]. Pomiary telemetryczne wskazują na test popytu wewnątrz układu, co potwierdza wartość CVD na poziomie 3,4 K. Wskaźnik ADR NQ wynosi 35.14%, co sytuuje go powyżej średnich historycznych zakresów dziennych. Sfera Dysona (opcje QQQ) wykazuje zmienność (IV) na poziomie 22.20% przy zasięgu oczekiwanym w przedziale 711.44 do 731.06. Asymetria wolumenu Put/Call wynosi 1.03. Pozostałe obiekty (NDX, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie testu popytu przy niskiej aktywności agresywnego wolumenu. Brak rezonansu wektorów makro/mikro z powodu ograniczonej płynności sesji poza-sesyjnej.</p>
 <h3>🌌 [2026-10-28 10:59]</h3>
 <p>[T-LOG: 2026-10-28 11:00]</p>
 <p><strong>STATUS: FUTURES (TYLKO NQ)</strong></p>
