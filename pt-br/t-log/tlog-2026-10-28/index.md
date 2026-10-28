@@ -223,15 +223,22 @@ Sistema em fase de tensão gravitacional; o aumento da amplitude de mercado com 
 <h3>🌌 [2026-10-28 15:29]</h3>
 <p>Log: 2026-10-28 15:29</p>
 <p>[STATUS: SPOT]<br />
-O sistema opera em modo de atividade à vista total. Foi registrada uma troca intensa de volume na zona de barreiras HVN para o ecossistema US100 nos níveis NDX 29100, 29330 e 29650 (correspondentes à Sonda NQ: 29254, 29484, 29804). A Sonda NQ encontra-se atualmente no nível 29849.00, com um ADR de 37.97%. O vetor Q-Score indica uma leve tendência negativa (-5).</p>
+O sistema opera em modo de atividade à vista total. Foi registrada uma troca intensa de volume na zona de barreiras HVN para o ecossistema US100 no nível NDX 29650 (correspondente à Sonda NQ: 29804). A Sonda NQ encontra-se atualmente no nível 29849.00, com um ADR de 37.97%. O vetor Q-Score indica uma leve tendência negativa (-5).</p>
 <p>Análise da pressão de combustível (CVD): a Estrela NDX mostra um teste de oferta (-2,27M), enquanto a Sonda NQ também testa a oferta (-5,13K). A Amplitude de mercado (TICKQ) com leitura de -26.00 encontra-se em fase de teste de oferta, significativamente abaixo da média de radiação SMA200 (10.77). a Esfera de Dyson (QQQ) mostra assimetria de volume com Put/Call Ratio no nível 1.37 com IV 22.34%.</p>
 <p>Dinâmica de massa: a Massa da Galáxia aumentou para 42.01 T (Delta +0.04 T). A Ação Média na cesta é de $305.16 (Delta +0.18 USD), o que indica uma lenta expansão do valor notional do sistema. a Densidade do Núcleo permanece estável no nível 68.4%.</p>
 <p>Diagnóstico: O sistema mostra estratificação de vetores; apesar do aumento do valor notional, a pressão agressiva de oferta (CVD) em objetos-chave e a radiação negativa de TICKQ sugerem a falta de suporte estrutural para os níveis atuais. Consolidação em torno das novas zonas HVN conquistadas, enquanto testa simultaneamente a oferta.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-28)</strong><br />
+Removemos da frase sobre a troca de volume os níveis NDX 29100 e 29330 (NQ 29254 e 29484). A troca nesses níveis foi causada por uma leitura desatualizada às 15:08:25 (NDX 29066.79, de outro dia). As leituras atuais do NDX de 15:14 a 15:29 ficaram entre 29648.74 e 29695.72, portanto só a troca em 29650 foi real.</p>
+</blockquote>
 <h3>🌌 [2026-10-28 15:14]</h3>
 <p><strong>Log: 2026-10-28 15:14</strong></p>
-<p>Sistema em modo à vista (Spot). Foi observada uma troca intensa de volume na zona de barreiras HVN no nível NDX 29100 - 29650, o que resultou em sua quebra. A Sonda NQ encontra-se atualmente no nível 29840.00 (+0.09%), exibindo um teste de oferta (CVD: -1.41K). A Estrela NDX (29684.28) mantém um estado de teste de demanda (CVD: 4.53M), enquanto o Satélite QQQ (722.07) encontra-se em fase de teste de oferta (CVD: -567.58K). A Massa da Galáxia é de 41.97 T (Delta: -0.05 T), e a Ação Média é de $304.98 (Delta: -0.10 USD), o que significa um encolhimento lento da cesta. O Q-Score é 5, indicando uma neutralidade quase total do vetor direcional, com um aumento simultâneo na tendência da radiação. Na Esfera de Dyson (QQQ), o Put/Call Ratio atinge 1.52, com IV no nível de 22.54%.</p>
+<p>Sistema em modo à vista (Spot). A Sonda NQ encontra-se atualmente no nível 29840.00 (+0.09%), exibindo um teste de oferta (CVD: -1.41K). A Estrela NDX (29684.28) mantém um estado de teste de demanda (CVD: 4.53M), enquanto o Satélite QQQ (722.07) encontra-se em fase de teste de oferta (CVD: -567.58K). A Massa da Galáxia é de 41.97 T (Delta: -0.05 T), e a Ação Média é de $304.98 (Delta: -0.10 USD), o que significa um encolhimento lento da cesta. O Q-Score é 5, indicando uma neutralidade quase total do vetor direcional, com um aumento simultâneo na tendência da radiação. Na Esfera de Dyson (QQQ), o Put/Call Ratio atinge 1.52, com IV no nível de 22.54%.</p>
 <p><strong>Status: Divergência de Ativos (Cross-Asset Divergence).</strong> A dominância do mercado amplo (TICKQ) e da Estrela (NDX), com pressão de oferta simultânea na Sonda NQ e no Satélite QQQ, sugere um crescimento assimétrico de estrutura vazia.</p>
-<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 15:08 fluxo repentino de NQ para cima; divergência entre NQ e NDX; ignição de fluxo de NQ.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-10-28)</strong><br />
+Removemos desta entrada a frase sobre a quebra das barreiras HVN em NDX 29100–29650 e os alarmes de fluxo das 15:08. Eles foram causados por leituras desatualizadas às 15:07–15:08 (uma delas: NDX 29066.79, de outro dia). As leituras atuais do NDX de 14:59 a 15:14 ficaram entre 29647.76 e 29719.88, e as do NQ entre 29797.75 e 29873.00: o nível 29650 foi testado, mas as barreiras abaixo dele, até 29100, não foram quebradas, e não houve fluxo súbito do NQ.</p>
+</blockquote>
 <h3>🌌 [2026-10-28 14:59]</h3>
 <p><strong>Log: 2026-10-28 14:59</strong></p>
 <p>[STATUS: A SESSÃO À VISTA ESTÁ ATIVA]<br />
