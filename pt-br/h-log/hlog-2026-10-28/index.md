@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 18:08
+Data: 2026-10-28 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.28 [PT-BR]</h1>
+<h3>📈 [2026-10-28 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de mercado e fluxos:</strong> O Índice NDX encontra-se no preço de 29675.53 (+0.08%), entretanto o fluxo acumulado (CVD) no mercado à vista é de −5,88 M, o que indica a testagem da oferta. Isso é confirmado pelos dados dos contratos NQ (29828.50, CVD −12,17 K) e do ETF QQQ (721.74, CVD −1,24 M), onde uma liquidação é visível. O indicador de direção de fluxo é de -10, o que significa uma leve vantagem da distribuição de capital. A Amplitude de mercado (TICKQ) apresenta uma forte dinâmica negativa no nível de -354.00 com uma média SMA200 de 11.67.</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 21.80%, e o Put/Call Volume Ratio no nível de 1.12 sugere uma vantagem de posições vendidas, o que indica a construção de proteções (hedging) ou a expectativa de maior pressão de baixa. O alcance de movimento esperado pelo mercado situa-se no intervalo de 714.69 a 731.83 com um volume de opções de 2,590,589.</p>
+</li>
+<li>
+<p><strong>Contexto técnico e níveis:</strong> A correção em curso desde o pico de 06.10 (31360.85) é de -5.37% (-1685 pts). Esta é uma correção de caráter maior, mais profunda do que 57% das correções históricas no conjunto analisado. A zona de suporte mais próxima (nó de volume) encontra-se no intervalo 29640–29660 (2.6% de volume). A zona de resistência encontra-se acima, no intervalo 29740–29760 (1.2% de volume).</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-10-28 19:07</p>
 <h3>📈 [2026-10-28 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
