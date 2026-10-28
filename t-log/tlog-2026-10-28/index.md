@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 13:29
+Data: 2026-10-28 13:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 13:59]</h3>
+<p>[T-LOG: 2026-10-28 13:59]</p>
+<p><strong>STATUS: FUTURES (TRYB NQ)</strong></p>
+<p>Sonda NQ znajduje się na poziomie 29900.75 (+0.30%). Aktywny sensor CVD wykazuje wartość 2,58K, co klasyfikuje stan obiektu jako test popytu. Wektor Q-Score wynosi 15 [Delta: +0.0], wskazując na stabilną, choć niską energię układu. ADR NQ jest obecnie na poziomie 35.14%, co sytuuje go znacznie powyżej standardowych odczytań. W sferze Dysona (opcje QQQ) odnotowano zmienność (IV) na poziomie 22.20% przy asymetrii wolumenu Put/Call wynoszącej 1.03. Pozostałe obiekty (NDX, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej. Brak danych o zmianach w masie galaktyki lub promieniowaniu tła w bieżącym oknie telemetrycznym.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Układ w fazie testowania popytu w warunkach niskiej energii wektorowej. Brak rezonansu między makro a mikro wskazuje na konsolidację wewnątrz sesji futures.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 13:49 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-28 13:29]</h3>
 <p>[T-LOG: 2026-10-28 13:29]<br />
 TRYB: FUTURES (TYLKO NQ)</p>
