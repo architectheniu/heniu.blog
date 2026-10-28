@@ -1,6 +1,6 @@
 # H1: 2026-10-28
 
-Data: 2026-10-28 15:07
+Data: 2026-10-28 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.28</h1>
+<h3>📈 [2026-10-28 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX znajduje się na poziomie 29685.71 (+0.12%), przy czym od szczytu z 06.10 (31360.85) odnotowano korektę o -5.34% (-1675 pkt). Mimo wzrostu ceny, wskaźnik kierunku przepływów wynosi -8, co wskazuje na lekką przewagę dystrybucji. Występuje rozbieżność (divergence) między instrumentami: NDX wykazuje test popytu (CVD 12,6 K), podczas gdy kontrakty NQ (29838.25, CVD -6,33 K) oraz ETF QQQ (722.00, CVD -781,53 K) wskazują na test podaży. Szeroki rynek (TICKQ) jest silnie negatywny na poziomie -133.00, co przy średniej SMA200 wynoszącej 8.18 potwierdza presję sprzedażową.</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 21.95%, a stosunek wolumenu Put/Call (PCR) kształtuje się na poziomie 1.11. Przy wolumenie opcji 1,350,763, wskaźnik PCR powyżej 1.0 sugeruje nastawienie na spadki lub zwiększoną aktywność w budowaniu zabezpieczeń (hedging) przed ewentualną przeceną. Oczekiwany przez rynek zasięg ruchu w ramach QQQ to przedział od 712.89 do 730.49.</p>
+</li>
+<li>
+<p><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29640–29660 (2.6% wolumenu). Najbliższa strefa oporu to 29740–29760 (1.2% wolumenu). Bieżąca korekta jest klasyfikowana jako większa względem historycznej mediany i 80. percentyla odnotowanych w pamięci systemowej.</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-10-28 16:07</p>
 <h3>📈 [2026-10-28 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
