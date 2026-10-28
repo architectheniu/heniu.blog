@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
-- [Log #0214: Resumo da sessão 2026-10-28: NDX 29821.65 (+0.55%)](https://heniu.blog/pt-br/posts/log-0214/index.md) (2026-10-28)
 - [M15: 2026-10-28](https://heniu.blog/pt-br/t-log/tlog-2026-10-28/index.md) (2026-10-28)
+- [Log #0214: Resumo da sessão 2026-10-28: NDX 29821.65 (+0.55%)](https://heniu.blog/pt-br/posts/log-0214/index.md) (2026-10-28)
 - [H1: 2026-10-28](https://heniu.blog/pt-br/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 - [Fundamentos #0029: Old Dominion Freight Line: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0029/index.md) (2026-10-28)
 - [Fundamentos #0028: PayPal: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0028/index.md) (2026-10-28)

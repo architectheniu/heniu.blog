@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 21:00
+Data: 2026-10-28 21:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.28 [PT-BR]</h1>
+<h3>🌌 [2026-10-28 21:29]</h3>
+<p>[T-LOG: 2026-10-28 21:29]</p>
+<p>a Sonda NQ encontra-se atualmente no nível 29780.25 (-0.11%). Durante a atual sessão de futuros, observou-se uma descompressão abrupta nos registros inferiores: ocorreu o rompimento das barreiras HVN na zona 29650 - 29690 (NQ ≈ 29811 - 29851). O estado atual do fluxo de energia (CVD) para a Sonda NQ é de -9.7K, o que classifica o sistema em uma fase de teste de oferta. O vetor de direção (Q-Score) é de 15, indicando uma tendência de alta fraca e insignificante em contraste com a pressão negativa de volume. O ADR NQ mantém-se no nível de 70.25% de distância do fundo da sessão. Na Esfera de Dyson (opções QQQ), observou-se uma assimetria de volume com Put/Call Ratio no nível de 1.10 com volatilidade (IV) de 21.43%. O alcance esperado pelo mercado oscila entre 715.11 e 730.21. Os dados relativos à massa da galáxia e à Radiação de Fundo (TICKQ) permanecem em estado de dormência devido ao fechamento da sessão à vista (Spot).</p>
+<p>Status do sistema: Tentativa de estabilização após o rompimento das zonas de suporte HVN; dominância de pressão de oferta com baixa cinética do vetor de direção.</p>
+<p>Log: 2026-10-28 21:29</p>
 <h3>🌌 [2026-10-28 20:59]</h3>
 <p><strong>[T-LOG: 2026-10-28 20:59]</strong></p>
 <p><strong>STATUS: À VISTA (SPOT)</strong></p>
