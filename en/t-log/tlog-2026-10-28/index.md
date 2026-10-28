@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Date: 2026-10-28 16:44
+Date: 2026-10-28 16:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-28/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.28 [EN]</h1>
+<h3>🌌 [2026-10-28 16:59]</h3>
+<p><strong>STATUS: SPOT - TELEMETRY ANALYSIS</strong></p>
+<p>The system is in a phase of gravitational tension. the NDX Star shows a supply test (CVD: -44,4K), while the NQ Probe at price 29855.75 is also executing a supply test (CVD: -9,07K). the QQQ ETF satellite confirms this regime, showing a supply test (CVD: -934,89K). The Q-Score directional vector is -10, indicating weak upward momentum alongside a broad market flare (TICKQ: 356.00 [market flare]), significantly above the average radiation (SMA200: 11.60 [demand test]).</p>
+<p>the Galaxy Mass is 42.02 T (Delta: -0.01 T). Average basket action is $305.67 (Delta: +0.00 USD), meaning no expansion of the structure in this interval. Volatility in the Dyson Sphere (QQQ) (IV) is 21.89%, with Put/Call volume asymmetry at 1.09. ADR for major objects oscillates around 38-43%, placing current activity above historical averages.</p>
+<p><strong>DIAGNOSIS:</strong> Cross-Asset Divergence. Strong pressure on the broad market (TICKQ) contrasts with negative aggressive volume dynamics (CVD) on key instruments (NDX, NQ, QQQ). The system is in a passive absorption phase with a lack of vector resonance.</p>
 <h3>🌌 [2026-10-28 16:44]</h3>
 <p>[T-LOG: 2026-10-28 16:44]</p>
 <p><strong>STATUS: OPEN | MODE: SPOT</strong></p>

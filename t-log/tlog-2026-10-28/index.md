@@ -1,6 +1,6 @@
 # M15: 2026-10-28
 
-Data: 2026-10-28 16:44
+Data: 2026-10-28 16:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-28/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.28</h1>
+<h3>🌌 [2026-10-28 16:59]</h3>
+<p><strong>STATUS: SPOT - ANALIZA TELEMETRYCZNA</strong></p>
+<p>Układ znajduje się w fazie grawitacyjnego napięcia. Gwiazda NDX wykazuje test podaży (CVD: -44,4K), podczas gdy Sonda NQ przy cenie 29855.75 również realizuje test podaży (CVD: -9,07K). Satelita QQQ potwierdza ten reżim, wykazując test podaży (CVD: -934,89K). Wektor kierunkowy Q-Score wynosi -10, co wskazuje na słabą dynamikę wzrostową przy jednoczesnym wystrzale szerokiego rynku (TICKQ: 356.00 [wystrzał rynku]), znacząco powyżej średniej radiacji (SMA200: 11.60 [test popytu]).</p>
+<p>Masa Galaktyki wynosi 42.02 T (Delta: -0.01 T). Średnia Akcja w koszyku to $305.67 (Delta: +0.00 USD), co oznacza brak rozszerzania się struktury w tym interwale. Zmienność w Sferze Dysona (IV) wynosi 21.89%, przy asymetrii wolumenu Put/Call na poziomie 1.09. ADR dla głównych obiektów oscyluje w granicach 38-43%, co plasuje obecną aktywność powyżej średnich historycznych.</p>
+<p><strong>DIAGNOZA:</strong> Rozwarstwienie układu (Cross-Asset Divergence). Silna presja na szerokim rynku (TICKQ) kontrastuje z ujemną dynamiką agresywnego wolumenu (CVD) na kluczowych instrumentach (NDX, NQ, QQQ). Układ w fazie pasywnej absorpcji przy braku rezonansu wektorów.</p>
 <h3>🌌 [2026-10-28 16:44]</h3>
 <p>[T-LOG: 2026-10-28 16:44]</p>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
