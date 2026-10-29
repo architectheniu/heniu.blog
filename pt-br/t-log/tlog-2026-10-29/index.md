@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 19:30
+Data: 2026-10-29 19:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 19:44]</h3>
+<p>[DADOS TELEMÉTRICOS - 2026-10-29 19:44]<br />
+Status: OPEN | Modo de Sessão: a sessão à vista (Spot)</p>
+<p><strong>ANÁLISE DO SISTEMA:</strong></p>
+<p>a Estrela NDX apresenta um estado de venda (CVD: -22,28M), enquanto a Sonda NQ ao preço 29438.00 registra acumulação (CVD: 10,3K). o Satélite QQQ encontra-se em fase de teste de demanda (CVD: 356,6K). O vetor de mercado Q-Score é de -13, o que indica uma forte dinâmica negativa do sistema. a Amplitude de mercado (TICKQ) registra um colapso do mercado (TICKQ: -304.00), permanecendo abaixo da média SMA200 (24.57), o que confirma a dominância da pressão de venda em todo o espectro.</p>
+<p>Na Esfera de Dyson (QQQ), a volatilidade (IV) é de 22.05%, e a assimetria de volume Put/Call está em 1.18. A Massa da Galáxia é de 41.30 T (Delta: -0.03 T), e a Ação Média é de $303.58 (Delta: -0.50 USD), o que demonstra o encolhimento da Cesta Nasdaq-100. O ADR para os principais objetos oscila entre 66-68%.</p>
+<p>Observa-se uma divergência do sistema (Cross-Asset Divergence): apesar dos sinais locais de acumulação na Sonda NQ e no Satélite QQQ, a Estrela NDX e a Amplitude de mercado (TICKQ) estão em fase de venda agressiva/colapso, o que sugere que as altas no NQ são estruturalmente incompletas e assimétricas.</p>
+<p><strong>Conclusão: Dissonância de vetores com dominância de pressão de venda no mercado amplo.</strong></p>
+<p>Log: 2026-10-29 19:44</p>
 <h3>🌌 [2026-10-29 19:29]</h3>
 <p><strong>STATUS: OPEN | MODO: SPOT</strong></p>
 <p><strong>[ANÁLISE TELEMÉTRICA]</strong><br />

@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Date: 2026-10-29 19:29
+Date: 2026-10-29 19:44
 URL: https://heniu.blog/en/t-log/tlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.29 [EN]</h1>
+<h3>🌌 [2026-10-29 19:44]</h3>
+<p>[TELEMETRY DATA - 2026-10-29 19:44]<br />
+Status: OPEN | Session Mode: SPOT</p>
+<p><strong>SYSTEM ANALYSIS:</strong></p>
+<p>the NDX Star shows an oversold state (CVD: -22,28M), while the NQ Probe at price 29438.00 registers accumulation (CVD: 10,3K). the QQQ Satellite is in a demand testing phase (CVD: 356,6K). The Q-Score market vector is -13, indicating strong negative system dynamics. The wide TICKQ Exchange notes a market breakdown (TICKQ: -304.00), remaining below the SMA200 average (24.57), confirming the dominance of selling pressure across the broad spectrum.</p>
+<p>In the Dyson Sphere (QQQ), volatility (IV) is 22.05%, and the Put/Call volume asymmetry is at 1.18. The Galaxy Mass is 41.30 T (Delta: -0.03 T), and the Average Action is $303.58 (Delta: -0.50 USD), which testifies to the shrinking of the US100 basket. ADR for major objects oscillates around 66-68%.</p>
+<p>System stratification (Cross-Asset Divergence) is observed: despite local accumulation signals on the NQ Probe and the QQQ Satellite, the NDX Star and the wide TICKQ Exchange are in a phase of aggressive selling/breakdown, suggesting that the NQ increases are structurally incomplete and asymmetrical.</p>
+<p><strong>Conclusion: Vector dissonance with dominance of selling pressure in the broad market.</strong></p>
+<p>Log: 2026-10-29 19:44</p>
 <h3>🌌 [2026-10-29 19:29]</h3>
 <p><strong>STATUS: OPEN | MODE: SPOT</strong></p>
 <p><strong>[TELEMETRY ANALYSIS]</strong><br />

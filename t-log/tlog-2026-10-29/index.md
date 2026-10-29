@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 19:29
+Data: 2026-10-29 19:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 19:44]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-10-29 19:44]<br />
+Status: OPEN | Tryb Sesji: SPOT</p>
+<p><strong>ANALIZA SYSTEMU:</strong></p>
+<p>Gwiazda NDX wykazuje stan wyprzedaży (CVD: -22,28M), podczas gdy Sonda NQ przy cenie 29438.00 rejestruje akumulację (CVD: 10,3K). Satelita QQQ znajduje się w fazie testu popytu (CVD: 356,6K). Wektor rynkowy Q-Score wynosi -13, co wskazuje na silną ujemną dynamikę układu. Szeroka Giełda TICKQ odnotowuje załamanie rynku (TICKQ: -304.00), pozostając poniżej średniej SMA200 (24.57), co potwierdza dominację presji podażowej w szerokim spektrum.</p>
+<p>W sferze Dysona zmienność (IV) wynosi 22.05%, a asymetria wolumenu Put/Call kształtuje się na poziomie 1.18. Masa Galaktyki wynosi 41.30 T (Delta: -0.03 T), a Średnia Akcja to $303.58 (Delta: -0.50 USD), co świadczy o kurczeniu się koszyka US100. ADR dla głównych obiektów oscyluje w granicach 66-68%.</p>
+<p>Obserwuje się rozwarstwienie układu (Cross-Asset Divergence): mimo lokalnych sygnałów akumulacji na Sondzie NQ i Satelicie QQQ, Gwiazda NDX oraz Szeroka Giełda TICKQ są w fazie agresywnej wyprzedaży/załamania, co sugeruje, że wzrosty na NQ są strukturalnie niepełne i asymetryczne.</p>
+<p><strong>Konkluzja: Dysonans wektorów z dominacją presji podażowej w szerokim rynku.</strong></p>
+<p>Log: 2026-10-29 19:44</p>
 <h3>🌌 [2026-10-29 19:29]</h3>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
 <p><strong>[ANALIZA TELEMETRYCZNA]</strong><br />
