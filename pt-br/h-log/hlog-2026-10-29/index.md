@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 06:08
+Data: 2026-10-29 07:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.29 [PT-BR]</h1>
+<h3>📈 [2026-10-29 07:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>A sessão de futuros</strong>. A sessão à vista (Spot) está atualmente fechada.</p>
+<ul>
+<li><strong>Status dos contratos NQ:</strong> Os contratos futuros NQ estão sendo negociados no nível 29713.25 (-0.89%), com um fluxo acumulado (CVD) de 1,12 K, o que indica o teste da demanda na sessão atual.</li>
+<li><strong>Análise do mercado à vista (fechado):</strong> O Índice NDX fechou no nível 29821.71 (+0.55%) com um alto influxo de capital (CVD 152,16 M). Foi registrado um Recuo desde o pico do dia 28.10 (29847.38) de 0.09% (-26 pts), o que classifica a situação atual como um recuo comum, mais profundo do que as correções anteriores neste ciclo.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima (nó de volume) encontra-se no intervalo 29780–29800. A zona de resistência mais próxima é 29830–29850.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 21.38%, e o Put/Call Volume Ratio é de 1.11, o que sugere uma predominância de posições de proteção (hedging) ou a expectativa de maior volatilidade. O alcance esperado do movimento situa-se no intervalo de 716.53 a 734.69 com um volume de 4,946,453.</li>
+<li><strong>Sentimento:</strong> O indicador de direção de fluxo é 35, o que significa uma vantagem moderada do influxo de capital para o mercado.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-29 07:07</p>
 <h3>📈 [2026-10-29 06:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
