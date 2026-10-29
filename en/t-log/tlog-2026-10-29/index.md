@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Date: 2026-10-29 11:29
+Date: 2026-10-29 11:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.29 [EN]</h1>
+<h3>🌌 [2026-10-29 11:59]</h3>
+<p>[T-LOG: 2026-10-29 11:59]</p>
+<p><strong>STATUS: FUTURES SESSION MODE (NQ PROBE ONLY)</strong></p>
+<p>The NQ Probe is currently at level 29719.75 (-0.87%). The direction vector (Q-Score) is stabilizing at a value of 35 [Delta: +0.0]. Aggressive demand within the system has been noted: NQ CVD is 7.4 K, which classifies the state as [demand test]. NQ ADR is 54.45%, placing current volatility above the average of recent sessions. In the Dyson Sphere (QQQ) options sphere, a Put/Call volume asymmetry of 1.11 was noted with volatility (IV) at 21.38%. The range expected by derivatives is between 716.53 and 734.69. Other objects (NDX, TICKQ) remain in dormancy due to the close of the cash session (Spot).</p>
+<p><strong>DIAGNOSIS:</strong> System in a demand testing phase with a simultaneous deceleration of the downward vector. Lack of macro-micro resonance; the system is in a state of local stabilization within the futures session.</p>
+<p>Log: 2026-10-29 11:59</p>
+<p><strong>Flow alarms from the previous Log:</strong> 11:36 sudden NQ upward flow; NQ flow ignition.</p>
 <h3>🌌 [2026-10-29 11:29]</h3>
 <p>[STATUS TELEMETRY: OPEN]<br />
 [MODE: FUTURES - ANALYSIS EXCLUSIVELY OF THE NQ PROBE]</p>

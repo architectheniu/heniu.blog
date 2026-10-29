@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 11:29
+Data: 2026-10-29 11:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 11:59]</h3>
+<p>[T-LOG: 2026-10-29 11:59]</p>
+<p><strong>STATUS: TRYB FUTURES (TYLKO SONDA NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29719.75 (-0.87%). Wektor kierunku (Q-Score) stabilizuje się na wartości 35 [Delta: +0.0]. Odnotowano obecność agresywnego popytu wewnątrz układu: CVD NQ wynosi 7,4 K, co klasyfikuje stan jako [test popytu]. ADR NQ wynosi 54.45%, co plasuje bieżącą zmienność powyżej średniej z ostatnich sesji. W sferze opcji (QQQ) odnotowano asymetrię wolumenu Put/Call na poziomie 1.11 przy zmienności (IV) wynoszącej 21.38%. Zasięg oczekiwany przez instrumenty pochodne mieści się w przedziale 716.53 do 734.69. Pozostałe obiekty (NDX, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
+<p><strong>DIAGNOZA:</strong> Układ w fazie testowania popytu przy jednoczesnym wyhamowaniu wektora spadkowego. Brak rezonansu makro-mikro; system znajduje się w stanie lokalnej stabilizacji wewnątrz sesji futures.</p>
+<p>Log: 2026-10-29 11:59</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 11:36 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-29 11:29]</h3>
 <p>[TELEMETRIA STATUS: OPEN]<br />
 [TRYB: FUTURES - ANALIZA WYŁĄCZNIE SONDY NQ]</p>
