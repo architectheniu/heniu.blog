@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 09:59
+Data: 2026-10-29 10:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 10:29]</h3>
+<p>[T-LOG: 2026-10-29 10:29]</p>
+<p>STATUS: MODO FUTUROS (APENAS NQ)</p>
+<p>a Sonda NQ encontra-se atualmente no nível 29672.75 (-1.02%). O vetor de direção (Q-Score) é 35 (Delta: +0.0). Foi registrada pressão de demanda agressiva na Sonda NQ, onde o valor de CVD é 5,33K [teste de demanda]. O indicador ADR para NQ é 54.45%, o que situa a volatilidade atual acima da média dos últimos dias. Na esfera de opções (QQQ), registrou-se volatilidade IV no nível 21.38% com alcance esperado no intervalo de 716.53 a 734.69 e um Put/Call Ratio de 1.11. Os demais objetos (NDX, QQQ, TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot). [SEM DADOS] para Ações Médias neste modo.</p>
+<p>DIAGNÓSTICO: O sistema exibe assimetria entre preço e volume; apesar da mudança negativa no preço, o fluxo agressivo (CVD) indica atividade local de demanda. Sistema em fase de teste de oferta em condições de baixa liquidez da sessão pós-fechamento.</p>
+<p>Log: 2026-10-29 10:29</p>
 <h3>🌌 [2026-10-29 09:59]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-29 09:59]<br />
 MODO: FUTUROS (NQ ativo)</p>

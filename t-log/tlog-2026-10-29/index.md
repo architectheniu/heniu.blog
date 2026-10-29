@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 09:59
+Data: 2026-10-29 10:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 10:29]</h3>
+<p>[T-LOG: 2026-10-29 10:29]</p>
+<p>STATUS: TRYB FUTURES (TYLKO NQ)</p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29672.75 (-1.02%). Wektor kierunku (Q-Score) wynosi 35 (Delta: +0.0). Odnotowano presję agresywnego popytu na Sonda NQ, gdzie wartość CVD wynosi 5,33K [test popytu]. Wskaźnik ADR dla NQ wynosi 54.45%, co sytuuje bieżącą zmienność powyżej średniej z ostatnich dni. W sferze opcji (QQQ) zarejestrowano zmienność IV na poziomie 21.38% przy zasięgu oczekiwanym w przedziale 716.53 do 734.69 oraz Put/Call Ratio wynoszącym 1.11. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej. Brak danych dla Średniej Akcji w tym trybie.</p>
+<p>DIAGNOSTYKA: Układ wykazuje asymetrię między ceną a wolumenem; mimo ujemnej zmiany ceny, agresywny przepływ (CVD) wskazuje na lokalną aktywność popytową. Układ w fazie testowania podaży w warunkach niskiej płynności sesji poza-sesjowej.</p>
+<p>Log: 2026-10-29 10:29</p>
 <h3>🌌 [2026-10-29 09:59]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-29 09:59]<br />
 TRYB: FUTURES (NQ aktywny)</p>
