@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 16:44
+Data: 2026-10-29 16:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 16:59]</h3>
+<p><strong>STATUS: SPOT SESSION ACTIVE</strong></p>
+<p><strong>ANALIZA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX:</strong> Cena 29494.88 (-1.07%). CVD: 8,62M [test popytu].<br />
+- <strong>Sonda NQ:</strong> Cena 29651.25 (-1.10%). CVD: 32,19K [akumulacja]. ADR: 67.98% (powyżej średniej).<br />
+- <strong>Satelita QQQ:</strong> Cena 717.48 (-1.12%). CVD: 905,47K [test popytu].<br />
+- <strong>Szeroka Giełda TICKQ:</strong> 240.00 [wystrzał rynku]. Średnia SMA200: 26.37 [akumulacja]. Status: ABOVE.<br />
+- <strong>Sfera Dysona (Opcje):</strong> IV: 21.29%. Put/Call Ratio: 1.20 (asymetria wolumenu na korzyść Put).</p>
+<p><strong>DYNAMIKA UKŁADU:</strong><br />
+Masa Galaktyki wynosi 41.55 T (Delta: -0.02 T). Średnia Akcja w koszyku to $306.37 (Delta: +0.37 USD), co wskazuje na powolne rozszerzanie się struktury (wzrost wartości notional). Gęstość Jądra utrzymuje się na poziomie 67.9% (Delta: -0.0%). Q-Score wynosi 22, wskazując na słaby, ale dodatni wektor kierunkowy.</p>
+<p><strong>KINEMATYKA I FLOW:</strong><br />
+Obserwuje się zjawisko Rozwarstwienia Układu (Cross-Asset Divergence) – mimo ujemnej zmiany ceny instrumentów, wektory CVD wykazują synchronizację testów popytu i akumulacji (NDX, NQ, QQQ). Występuje silny dysonans między ceną a agresją wolumenu: spadek cen przy jednoczesnym napływie agresywnego popytu sugeruje pasywną absorpcję podaży (Icebergs) w strefach wsparcia. Szeroka Giełda (TICKQ) wykazuje gwałtowny wzrost kinetyki (wystrzał rynku), co kontrastuje z ujemną dynamiką cenową głównych obiektów.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Układ w fazie grawitacyjnego napięcia; agresywna absorpcja podaży przy jednoczesnym rozwarstwieniu między szerokim rynkiem a głównymi indeksami.</p>
+<p><strong>Log: 2026-10-29 16:59</strong></p>
 <h3>🌌 [2026-10-29 16:44]</h3>
 <p>[TELEMETRIA_LOG: 2026-10-29 16:44]</p>
 <p><strong>STATUS: SPOT SESSION ACTIVE</strong></p>
