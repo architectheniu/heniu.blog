@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 19:08
+Data: 2026-10-29 20:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.29 [PT-BR]</h1>
+<h3>📈 [2026-10-29 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O Índice NDX registrou uma queda de 1.65% para o nível 29321.29, o que representa um Recuo desde o pico do Heniu de 526 pts em relação ao topo de 28.10 (29847.38). Apesar da queda de preço, o fluxo acumulado (CVD) para NDX é de −4,17 M, o que indica um teste de oferta. Os contratos NQ caíram 1.67% (29477.75) com CVD positivo (16,49 K), enquanto o ETF QQQ caiu 1.70% (713.26) com CVD no nível de 787,21 K, sugerindo um teste de demanda no setor à vista. O indicador de direção de fluxo é 12, o que significa uma fraca vantagem de entrada de capital.</li>
+<li><strong>Mercado amplo e volatilidade:</strong> O indicador TICKQ é 91.00, o que, com a média SMA200 no nível de 26.27, indica uma forte pressão de venda no mercado amplo de ações Nasdaq. A volatilidade implícita (IV) para as opções sobre QQQ é de 22.37%, com um volume de 5,235,120 contratos. O Put/Call Ratio no nível de 1.19 indica uma predominância de posições de proteção (hedging) ou a expectativa de maior pressão de baixa. O alcance de movimento esperado para QQQ está na faixa de 705.29 a 719.57.</li>
+<li><strong>Análise técnica e níveis:</strong> A correção atual é rasa em comparação com movimentos históricos (maior: -11.96%). Nós de volume cruciais encontram-se na zona de suporte 29090–29110 (1.3% de volume) e na zona de resistência 29410–29430 (0.8% de volume). O preço atual do NDX (29321.29) encontra-se em uma zona de alta concentração de volume (29310–29330), o que pode determinar as reações mais próximas do mercado.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-29 20:07</p>
 <h3>📈 [2026-10-29 19:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>

@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Date: 2026-10-29 19:07
+Date: 2026-10-29 20:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.29 [EN]</h1>
+<h3>📈 [2026-10-29 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index recorded a decrease of 1.65% to the level of 29321.29, representing a pullback of 526 pts from the peak on 28.10 (29847.38). Despite the price decrease, the cumulative flow (CVD) for NDX is −4,17 M, indicating a supply test. NQ futures contracts fell by 1.67% (29477.75) with positive CVD (16,49 K), while the QQQ ETF fell by 1.70% (713.26) with CVD at the level of 787,21 K, suggesting a demand test in the cash sector. The flow direction indicator is 12, meaning a weak advantage in capital inflow.</li>
+<li><strong>Broad market and volatility:</strong> The TICKQ indicator is 91.00, which, with the SMA200 average at the level of 26.27, indicates strong selling pressure in the broad Nasdaq equity market. Implied volatility (IV) for QQQ options is 22.37%, with a volume of 5,235,120 contracts. The Put/Call Ratio at the level of 1.19 indicates a dominance of hedging positions or anticipation of further downward pressure. The expected range of movement for QQQ is between 705.29 and 719.57.</li>
+<li><strong>Technical analysis and levels:</strong> The current correction is shallow compared to historical movements (largest: -11.96%). Key volume nodes are located in the support zone 29090–29110 (1.3% volume) and in the resistance zone 29410–29430 (0.8% volume). The current NDX price (29321.29) is in a high volume concentration zone (29310–29330), which may determine the nearest market reactions.</li>
+</ul>
+<p>H-Log Report: 2026-10-29 20:07</p>
 <h3>📈 [2026-10-29 19:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
