@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 20:07
+Data: 2026-10-29 22:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.29</h1>
+<h3>📈 [2026-10-29 zamknięcie]</h3>
+<p><strong>H-LOG: Podsumowanie sesji kasowej</strong></p>
+<p>Jest to podsumowanie sesji kasowej (Spot) z 2026-10-29. Indeks NDX zamknął się na poziomie 29407.05, co oznacza zmianę o -1.38%, przy CVD na poziomie 191,25 M i zużyciu zasięgu ADR wynoszącym 65.70%. Kontrakt NQ odnotował zamknięcie 29324.25 ze zmianą -2.17%, przy CVD 15,9 K i zużyciu ADR na poziomie 84.92%. ETF QQQ zakończył sesję na poziomie 715.33, spadając o -1.42%, przy CVD 2,51 M i zużyciu ADR 66.02%. Wskaźnik TICKQ zamknął się na poziomie 331.00 przy SMA200 wynoszącym 33.94, a anomalia MOC wyniosła +28,23 M.</p>
+<p>Raport H-Log: podsumowanie sesji 2026-10-29</p>
 <h3>📈 [2026-10-29 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
