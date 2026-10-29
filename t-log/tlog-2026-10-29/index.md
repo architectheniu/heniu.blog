@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 19:44
+Data: 2026-10-29 19:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 19:59]</h3>
+<p><strong>STATUS SESJI: SPOT</strong></p>
+<p>Układ znajduje się w fazie grawitacyjnego napięcia i rozwarstwienia wektorów. Satelita QQQ potwierdza test popytu (CVD: 679,81K). Widoczna jest wyraźna asymetria: agresja rynkowa na instrumentach pochodnych i sondzie nie znajduje pełnego pokrycia w Jadrze (NDX), co sugeruje strukturalną pustkę wzrostu. Szeroka Giełda (TICKQ) przy poziomie -11.00 znajduje się w fazie testu podaży, pozostając znacząco poniżej średniej radiacji SMA200 (25.54). Masa Galaktyki rośnie nieznacznie (+0.06 T) do 41.36 T, a Średnia Akcja wynosi $303.87 (Delta: +0.30 USD), co wskazuje na powolną ekspansję koszyka. Q-Score utrzymuje się na niskim poziomie 12. Zmienność w Sferze Dysona (IV) wynosi 22.36%, przy Put/Call Ratio na poziomie 1.19, co odnotowuje asymetrię wolumenu na korzyść opcji sprzedaży. ADR dla wszystkich obiektów pozostaje powyżej średnich historycznych.</p>
+<p><strong>DIAGNOSTYKA: Rozwarstwienie układu (Cross-Asset Divergence) przy niskim Q-Score.</strong></p>
+<p>Log: 2026-10-29 19:59</p>
 <h3>🌌 [2026-10-29 19:44]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-29 19:44]<br />
 Status: OPEN | Tryb Sesji: SPOT</p>
