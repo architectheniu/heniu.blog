@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 16:59
+Data: 2026-10-29 17:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 17:14]</h3>
+<p>[T-LOG: 2026-10-29 17:14]</p>
+<p>Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29420 (NQ ≈ 29574), inicjując gwałtowny spadek kinetyki układu. Gwiazda NDX znajduje się pod presją, wykazując wyprzedaż przy cenie 29408.09 (-1.36%) i CVD na poziomie -8,5M. Sonda NQ (cena: 29563.50) wykazuje lokalną akumulację z CVD 23,16K, co sugeruje próbę absorpcji podaży na niższych poziomach. Satelita QQQ rejestruje test popytu (CVD: 725,79K) przy cenie 715.38. W szerokiej giełdzie TICKQ odnotowano wyprzedaż (-78.00), podczas gdy średnia radiacja SMA200 pozostaje w strefie akumulacji (25.55), co generuje dysonans między bieżącą szerokością a długoterminowym trendem. Masa Galaktyki skurczyła się do 41.44 T (Delta: -0.11 T), a Średnia Akcja wynosi $305.30 (Delta: -1.07 USD), co potwierdza ogólną redukcję wartości koszyka. Q-Score wynosi 12, wskazując na słaby, niemal neutralny wektor kierunkowy. Zmienność w Sferze Dysona (IV) oscyluje wokół 21.48% przy Put/Call Ratio 1.20.</p>
+<p>Status: Rozwarstwienie układu z dominacją presji podażowej w jadrze i próba pasywnej absorpcji na sondzie.</p>
 <h3>🌌 [2026-10-29 16:59]</h3>
 <p><strong>STATUS: SPOT SESSION ACTIVE</strong></p>
 <p><strong>ANALIZA OBIEKTÓW:</strong><br />
