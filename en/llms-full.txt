@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0215: Session summary 2026-10-29: NDX 29407.05 (-1.38%)
+
+Date: 2026-10-29 21:04
+URL: https://heniu.blog/en/posts/log-0215/
+
+
+**Session date:** 2026-10-29
+
+> *Session close 2026-10-29: NDX 29407.05 (-1.38%), NQ 29324.25 (-2.17%), QQQ 715.33 (-1.42%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session started at 9:30 ET (14:30 PL) at NDX 29419.15 and NQ 29619.25. During the first 30 minutes until 10:00 ET (15:00 PL), NDX fell by 26.32 pts (-0.09%) to 29392.83, and NQ fell by 70.75 pts (-0.24%) to 29548.50. First, a session low of NDX 29262.84 was recorded at 9:35 ET (14:35 PL), followed by a high of NDX 29707.82 at 10:40 ET (15:40 PL). The close at 29407.05 lies 300.77 pts below the high and 144.21 pts above the low.
+
+**Flows and market breadth.** Cumulative flow (CVD) for NDX, NQ, and QQQ was positive, indicating a consistent direction across all three instruments. The TICKQ indicator at close was 331.00, while the SMA200 average was 33.94. The share of companies above 1 trillion USD in the basket capitalization was 67.84%.
+
+**End of session, options and companies.** In the last hour of the session from 15:00 ET (20:00 PL), NDX rose by 95.38 pts (+0.33%) until the close. The MOC Anomaly at close was +28.23 M. Implied volatility (IV) for options on QQQ was 21.80%, and the put/call ratio was 1.40.
+
+**Day's balance.** The Nasdaq-100 index closed at 29407.05, representing a decline of 1.38%.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **29407.05 (-1.38%)**
+    * Cumulative flow (CVD): **191,25 M [euphoria]**
+    * MOC Anomaly: **+28,23 M**
+    * Average Daily Range (ADR) utilization: **65.70%**
+    * Drawdown from Heniu's highest close: **-5.83%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **29324.25 (-2.17%)**
+    * Cumulative flow (CVD): **15,9 K [accumulation]**
+    * Average Daily Range (ADR) utilization: **84.92%**
+
+* **QQQ ETF:** close **715.33 (-1.42%)**
+    * Cumulative flow (CVD): **2,51 M [market flare]**
+    * Average Daily Range (ADR) utilization: **66.02%**
+
+* **Market breadth (TICKQ):** reading at close **331.00 [market flare]**
+    * 200-reading average (SMA200): **33.94 [accumulation]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **21.80%**
+    * Put/call ratio (open interest, OI): **1.40**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **41.44 trillion USD** (change from previous close: **-0.72 trillion USD**)
+    * Share of companies above 1 trillion USD in basket capitalization: **67.84%** (change: **-0.41 pp**)
+    * Average stock price in the basket: **$304.81** (change: **$-3.59**)
+    * Changes in the group of companies above 1 trillion USD: **no change**
+
+* **Session data health:** readings through 100.0% of the cash session; no gaps longer than one minute; NDX no change longer than 2 min in 0.1% of readings
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0215/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-10-29",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0042: Xcel Energy: 3Q2026 results
 
 Date: 2026-10-29 17:26
@@ -990,28 +1070,5 @@ URL: https://heniu.blog/en/posts/log-0209/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentals #0019: Roper Technologies: 3Q2026 results
-
-Date: 2026-10-22 18:41
-URL: https://heniu.blog/en/f-log/flog-2026-10-22-0019/
-
-
-Roper Technologies (ROP) revenues grew by 7.7% y/y in the third quarter to 2.17 billion USD, and earnings per share (reported) grew by 32.6% y/y to 4.88 USD.
-
-### Quarterly results
-
-Earnings per share (reported, basic) was 4.90 USD (32.4% y/y) compared to 3.70 USD a year earlier.
-
-### Company guidance
-
-The company expects earnings per share (adjusted) in Q4 2026 to be at the level of 5.95–6.00 USD and in FY 2026 in the range of 22.35–22.40 USD.
-
-### What management says
-
-Management emphasized that credit revenues in Vertafore will resemble a subscription due to the model of purchasing a fixed pool in recurring contracts. According to management, the pace of Deltek customers' transition to the cloud is difficult to predict, but the company is pleased with the current momentum. Management indicated that the gross margin on AI agent tools is very good and close to software margins, with the priority remaining the speed of product implementation. According to management, AI products allow for rapid feedback collection and improving solutions after their introduction. Management noted that in Neptune, meter sales were close to expectations, but a higher share of cheaper mechanical models lowered revenues and margin. According to management, the project portfolio for static meters is strong, and projects have been shifted, which is intended to ensure better conditions next year.
 
 
