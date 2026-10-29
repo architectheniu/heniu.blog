@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0033: Microsoft: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-29-0033/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-28](https://heniu.blog/t-log/tlog-2026-10-28/index.md) (2026-10-28)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0207: Grawitacja w stanie zawieszenia: Rozdźwięk między energią a promieniowaniem tła](https://heniu.blog/posts/log-0207/index.md) (2026-10-20)
 - [Fundamenty #0009: Zgłoszenie spółki Tesla; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-20-0009/index.md) (2026-10-20)
 - [H1: 2026-10-19](https://heniu.blog/h-log/hlog-2026-10-19/index.md) (2026-10-19)
-- [M15: 2026-10-19](https://heniu.blog/t-log/tlog-2026-10-19/index.md) (2026-10-19)
 

@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0033: Microsoft: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-29-0033/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/en/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/en/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-28](https://heniu.blog/en/t-log/tlog-2026-10-28/index.md) (2026-10-28)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0009: Tesla company filing; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-20-0009/index.md) (2026-10-20)
 - [H1: 2026-10-19](https://heniu.blog/en/h-log/hlog-2026-10-19/index.md) (2026-10-19)
 - [M15: 2026-10-19](https://heniu.blog/en/t-log/tlog-2026-10-19/index.md) (2026-10-19)
-- [Log #0206: Accretion in the shadow of the Great Correction](https://heniu.blog/en/posts/log-0206/index.md) (2026-10-19)
 

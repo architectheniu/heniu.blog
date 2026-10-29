@@ -7,6 +7,25 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0033: Microsoft: wyniki za 1Q2027
+
+Data: 2026-10-29 01:35
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0033/
+
+
+Przychody Microsoft (MSFT) w pierwszym kwartale roku obrotowego 2027 wzrosły o 18,8% r/r do poziomu 92,28 mld USD, a zysk netto zwiększył się o 32,0% r/r do 36,63 mld USD.
+
+### Wyniki kwartału
+
+Zysk operacyjny wyniósł 45,91 mld USD, co stanowi wzrost o 20,9% r/r względem 37,96 mld USD rok wcześniej. Zysk na akcję (księgowy) osiągnął poziom 4,92 USD (+32,3% r/r), natomiast zysk na akcję (księgowy, podstawowy) wyniósł 4,93 USD (+32,2% r/r).
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że dąży do maksymalnej wydajności i wymienności całej infrastruktury, przy czym moce są przydzielane zgodnie z sygnałami popytu. Według zarządu zespoły inżynierskie regularnie poprawiają wydajność na poziomie platformy. Zarząd wskazał, że kluczowym sposobem na utrzymanie marży jest wzrost przychodów. Według zarządu z każdym nowym modelem AI subskrypcja Copilota ma dostarczać klientom coraz większą wartość. Zarząd zauważył, że choć przejście na rozliczanie według zużycia poza programowaniem zajmie więcej czasu, to widoczne są zachęcające sygnały. Zarząd podkreślał również, że spółka posiada dużą swobodę w pozyskiwaniu finansowania w atrakcyjnych warunkach.
+
+
+---
+
 ## Fundamenty #0032: Teradyne: wyniki za 3Q2026
 
 Data: 2026-10-28 21:49
@@ -1045,22 +1064,5 @@ Zysk operacyjny spadł o 102,7% r/r do poziomu −7,00 mln USD przy wartości 25
 ### Co mówi zarząd
 
 Zarząd wskazywał, że finansowanie opiera się na przepływach operacyjnych, długu oraz partnerstwach z dostawcami i klientami. Według zarządu planowany jest podział mocy obliczeniowej po połowie między użytek własny a wynajem na krótkie umowy, z uwzględnieniem odnowień po wyższych stawkach za wat.
-
-
----
-
-## Fundamenty #0010: Zgłoszenie spółki Vertex Pharmaceuticals; transakcje insiderów
-
-Data: 2026-10-21 10:10
-Adres: https://heniu.blog/f-log/flog-2026-10-21-0010/
-
-
-Vertex Pharmaceuticals (VRTX) złożyła raport o zmianach w zarządzie lub radzie.
-
-Insiderzy sprzedali akcje za 26,1 mln USD, w tym 26,1 mln USD z planów 10b5-1; zakupy na rynku wyniosły 25 tys. USD. Największą sprzedaż zgłosili insiderzy Micron Technology (MU): 25,7 mln USD.
-
-Prezes, dyrektor ds. technologii i dyrektor ds. produkcji spółki Micron Technology (MU) sprzedał 28 545 akcji o wartości 25,7 mln USD w ramach planu 10b5-1.
-
-Wiceprezes wykonawczy, dyrektor finansowy i dyrektor operacyjny spółki QUALCOMM (QCOM) sprzedał 2 500 akcji o wartości 0,4 mln USD w ramach planu 10b5-1.
 
 
