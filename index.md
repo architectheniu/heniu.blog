@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-10-30](https://heniu.blog/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [M15: 2026-10-29](https://heniu.blog/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamenty #0044: Intel: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0044/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/h-log/hlog-2026-10-29/index.md) (2026-10-29)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0017: Texas Instruments: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0017/index.md) (2026-10-22)
 - [Fundamenty #0016: Tesla: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0016/index.md) (2026-10-22)
 - [Fundamenty #0015: Lam Research: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-22-0015/index.md) (2026-10-22)
-- [Fundamenty #0014: Meta Platforms: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-22-0014/index.md) (2026-10-22)
 
