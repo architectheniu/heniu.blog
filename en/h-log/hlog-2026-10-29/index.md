@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Date: 2026-10-29 12:07
+Date: 2026-10-29 13:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.29 [EN]</h1>
+<h3>📈 [2026-10-29 13:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contracts situation:</strong> NQ contracts are trading at 29599.00 (-1.27%), with a cumulative flow (CVD) of 4.57 K, indicating demand testing.</li>
+<li><strong>Index and flow analysis:</strong> The NDX index closed the cash session at 29813.16 (+0.55%), with high capital inflow (CVD NDX = 152.42 M). The market flow direction indicator is 35, which means a moderate advantage of capital inflow. A drawdown from the peak of 28.10 (29847.38) of 0.11% (-34 pts) was noted. This is a routine correction, shallower than previous deviations.</li>
+<li><strong>Technical levels:</strong> The nearest support zone (volume node) is in the 29780–29800 range. The nearest resistance zone is in the 29830–29850 range.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 21.38%, and the Put/Call ratio (PCR) stands at 1.11, suggesting a slight advantage of hedging positions or expectation of higher volatility. The expected movement range based on volume 4,946,453 is from 716.53 to 734.69 points.</li>
+</ul>
+<p>H-Log Report: 2026-10-29 13:07</p>
 <h3>📈 [2026-10-29 12:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
