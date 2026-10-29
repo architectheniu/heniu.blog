@@ -7,6 +7,21 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0043: Starbucks: 3Q2026 results
+
+Date: 2026-10-29 22:33
+URL: https://heniu.blog/en/f-log/flog-2026-10-29-0043/
+
+
+Starbucks (SBUX) revenue fell by 4.5% y/y in the third quarter of fiscal year 2026 to 9.14 billion USD, while net income increased by 408.8% y/y to 677.20 million USD.
+
+### Quarterly results
+
+Operating income was 991.80 million USD (+256.5% y/y), and earnings per share (GAAP) stood at 0.59 USD, with adjusted earnings per share of 0.80 USD. In the Company-operated coffeehouses segment, revenue fell by 5.5% y/y to 7.43 billion USD, whereas the Licensed coffeehouses segment saw an increase of 9.4% y/y to 1.20 billion USD, while the Other segment shrank by 16.0% y/y to 515.50 million USD.
+
+
+---
+
 ## Log #0215: Session summary 2026-10-29: NDX 29407.05 (-1.38%)
 
 Date: 2026-10-29 21:04
@@ -990,85 +1005,5 @@ Insiders sold shares for 1.3 million USD, including 1.3 million USD from 10b5-1 
 Jennifer Newstead, Senior Vice President and General Counsel and Government Affairs of Apple (AAPL), sold 2,399 shares valued at 0.8 million USD under a 10b5-1 plan.
 
 5 other transactions were also reported.
-
-
----
-
-## Log #0209: Session summary 2026-10-22: NDX 28962.86 (-2.90%)
-
-Date: 2026-10-22 22:03
-URL: https://heniu.blog/en/posts/log-0209/
-
-
-**Session date:** 2026-10-22
-
-> *Session close 2026-10-22: NDX 28962.86 (-2.90%), NQ 29208.50 (-2.66%), QQQ 704.56 (-2.86%).*
-
----
-
-### Session overview
-
-**Opening and main move of the day.** The session began at 9:30 ET (15:30 PL) at NDX 29299.91 and NQ 29483.75. In the first 30 minutes until 10:00 ET (16:00 PL), NDX rose by 73.85 pts (+0.25%) to 29373.76, and NQ rose by 63.75 pts (+0.22%) to 29547.50. The session maximum was recorded at 10:03 ET (16:03 PL) at NDX 29411.56, and the minimum at 15:47 ET (21:47 PL) at NDX 28855.10. The close at 28962.86 is 448.70 pts below the maximum and 107.76 pts above the minimum.
-
-**Flows and market breadth.** Cumulative flow (CVD) directions at the close were divergent: NDX was positive, while NQ and QQQ were negative. The TICKQ reading at the close was 79.00, while the SMA200 average was -43.57. The share of companies above 1 trillion USD in the basket capitalization was 66.27%.
-
-**End of session, options and companies.** In the last hour of the session from 15:00 ET (21:00 PL) to the close, NDX rose by 64.89 pts (+0.22%) to 28962.86, with a MOC Anomaly of +32,03 M at the close. Implied volatility (IV) for options on QQQ was 25.73%, and the put/call ratio was 1.45. In the group of companies above 1 trillion USD, the value of MU fell.
-
-**Day's balance.** The Nasdaq-100 index closed down 2.90% at 28962.86.
-
----
-
-### Closing Telemetry
-
-* **Nasdaq-100 index (NDX):** close **28962.86 (-2.90%)**
-    * Cumulative flow (CVD): **169,35 M [euphoria]**
-    * MOC Anomaly: **+32,03 M**
-    * Average daily range (ADR) utilization: **148.45%**
-    * Drawdown from Heniu's highest close: **-7.25%** (highest close: **31226.82**, 2026-10-06)
-
-* **NQ futures contract:** close **29208.50 (-2.66%)**
-    * Cumulative flow (CVD): **−29,25 K [sell-off]**
-    * Average daily range (ADR) utilization: **182.48%**
-
-* **QQQ ETF:** close **704.56 (-2.86%)**
-    * Cumulative flow (CVD): **−397,16 K [testing supply]**
-    * Average daily range (ADR) utilization: **146.43%**
-
-* **Market breadth (TICKQ):** reading at close **79.00 [accumulation]**
-    * 200 reading average (SMA200): **-43.57 [sell-off]**
-
-* **Options on QQQ:**
-    * Implied volatility (IV): **25.73%**
-    * Put/call ratio (open interest, OI): **1.45**
-
-* **Nasdaq-100 basket:**
-    * Total capitalization: **41.25 trillion USD** (change from previous close: **-1.32 trillion USD**)
-    * Share of companies above 1 trillion USD in basket capitalization: **66.27%** (change: **-2.61 pp**)
-    * Average stock price in the basket: **$298.98** (change: **$-8.97**)
-    * Changes in the group of companies above 1 trillion USD: **fell below 1 trillion USD: MU**
-
-* **Session data health:** readings through 100.0% of the cash session; no gaps longer than a minute; NDX unchanged for longer than 2 min in 0.0% of readings
-
----
-
-[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0209/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Nasdaq-100 session summary 2026-10-22",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 

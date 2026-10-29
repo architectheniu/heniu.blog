@@ -7,6 +7,21 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0043: Starbucks: resultados do 3Q2026
+
+Data: 2026-10-29 22:33
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-29-0043/
+
+
+As receitas da Starbucks (SBUX) caíram no terceiro trimestre do ano fiscal de 2026 em 4,5% a/a para o nível de 9,14 bi USD, enquanto o lucro líquido aumentou 408,8% a/a para 677,20 mi USD.
+
+### Resultados do trimestre
+
+O lucro operacional foi de 991,80 mi USD (+256,5% a/a), e o lucro por ação (contábil) situou-se no nível de 0,59 USD, com o lucro por ação ajustado sendo de 0,80 USD. No segmento Company-operated coffeehouses, as receitas caíram 5,5% a/a para 7,43 bi USD, enquanto no segmento Licensed coffeehouses registrou-se um aumento de 9,4% a/a para 1,20 bi USD, enquanto o segmento Other encolheu 16,0% a/a para 515,50 mi USD.
+
+
+---
+
 ## Log #0215: Resumo da sessão 2026-10-29: NDX 29407.05 (-1.38%)
 
 Data: 2026-10-29 21:04
@@ -990,85 +1005,5 @@ Insiders venderam ações no valor de 1,3 mi USD, incluindo 1,3 mi USD de planos
 Jennifer Newstead, vice-presidente sênior e consultora jurídica principal e de assuntos governamentais da Apple (AAPL), vendeu 2 399 ações no valor de 0,8 mi USD como parte do plano 10b5-1.
 
 Outras 5 transações também foram reportadas.
-
-
----
-
-## Log #0209: Resumo da sessão 2026-10-22: NDX 28962.86 (-2.90%)
-
-Data: 2026-10-22 22:03
-Endereço: https://heniu.blog/pt-br/posts/log-0209/
-
-
-**Data da sessão:** 2026-10-22
-
-> *Fechamento da sessão 2026-10-22: NDX 28962.86 (-2.90%), NQ 29208.50 (-2.66%), QQQ 704.56 (-2.86%).*
-
----
-
-### Visão geral da sessão
-
-**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 29299.91 e NQ 29483.75. Nos primeiros 30 minutos até 10:00 ET (16:00 PL), o NDX subiu 73.85 pts (+0.25%) para 29373.76, e o NQ subiu 63.75 pts (+0.22%) para 29547.50. O máximo da sessão foi registrado às 10:03 ET (16:03 PL) no nível NDX 29411.56, e o mínimo às 15:47 ET (21:47 PL) no nível NDX 28855.10. O fechamento no nível 28962.86 está 448.70 pts abaixo do máximo e 107.76 pts acima do mínimo.
-
-**Fluxos e amplitude de mercado.** As direções do fluxo acumulado (CVD) no fechamento foram divergentes: o NDX foi positivo, enquanto o NQ e o QQQ foram negativos. O indicador TICKQ no fechamento foi de 79.00, enquanto a média SMA200 era de -43.57. A participação de empresas acima de 1 trilhão de USD na capitalização da cesta foi de 66.27%.
-
-**Final da sessão, opções e empresas.** Na última hora da sessão, de 15:00 ET (21:00 PL) até o fechamento, o NDX subiu 64.89 pts (+0.22%) para 28962.86, com uma Anomalia MOC no fechamento de +32,03 M. A volatilidade implícita (IV) para opções sobre QQQ foi de 25.73%, e a relação put/call foi de 1.45. No grupo de empresas acima de 1 trilhão de USD, o valor de MU caiu.
-
-**Balanço do dia.** O Índice Nasdaq-100 fechou com uma queda de 2.90% no nível 28962.86.
-
----
-
-### Telemetria de Fechamento
-
-* **Índice Nasdaq-100 (NDX):** fechamento **28962.86 (-2.90%)**
-    * Fluxo acumulado (CVD): **169,35 M [euforia]**
-    * Anomalia MOC: **+32,03 M**
-    * Utilização da amplitude diária média (ADR): **148.45%**
-    * Recuo desde o maior fechamento registrado pelo Heniu: **-7.25%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **Contrato futuro NQ:** fechamento **29208.50 (-2.66%)**
-    * Fluxo acumulado (CVD): **−29,25 K [liquidação]**
-    * Utilização da amplitude diária média (ADR): **182.48%**
-
-* **ETF QQQ:** fechamento **704.56 (-2.86%)**
-    * Fluxo acumulado (CVD): **−397,16 K [teste de oferta]**
-    * Utilização da amplitude diária média (ADR): **146.43%**
-
-* **Amplitude de mercado (TICKQ):** leitura no fechamento **79.00 [acumulação]**
-    * Média de 200 leituras (SMA200): **-43.57 [liquidação]**
-
-* **Opções sobre QQQ:**
-    * Volatilidade implícita (IV): **25.73%**
-    * Relação put/call (posições abertas, OI): **1.45**
-
-* **Cesta Nasdaq-100:**
-    * Capitalização total: **41.25 trilhão de USD** (mudança em relação ao fechamento anterior: **-1.32 trilhão de USD**)
-    * Participação de empresas acima de 1 trilhão de USD na capitalização da cesta: **66.27%** (mudança: **-2.61 p.p.**)
-    * Preço médio das ações na cesta: **$298.98** (mudança: **$-8.97**)
-    * Mudanças no grupo de empresas acima de 1 trilhão de USD: **abaixo de 1 trilhão de USD caíram: MU**
-
-* **Saúde dos dados da sessão:** leituras em 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,0% das leituras
-
----
-
-[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0209/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Resumo da sessão Nasdaq-100 2026-10-22",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 
