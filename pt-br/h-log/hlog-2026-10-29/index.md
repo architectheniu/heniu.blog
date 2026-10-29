@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 15:08
+Data: 2026-10-29 16:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.29 [PT-BR]</h1>
+<h3>📈 [2026-10-29 16:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O Índice Nasdaq-100 (NDX) está em tendência de queda (-1.39%, preço 29399.50), no entanto, os dados de CVD no nível de 4,15 M para NDX e 513 K para QQQ indicam o teste de demanda no mercado à vista. Os contratos NQ mostram acumulação ao preço de 29552.50 (-1.42%, CVD 15,9 K). O indicador agregado de direção de fluxo é 30, o que indica uma vantagem moderada de entrada de capital. A Amplitude de mercado (TICKQ) com valor de 127.00 está significativamente acima da média SMA200 (29.59).</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 21.68%, com um volume de opções de 2,084,355. O Put/Call Volume Ratio no nível de 1.20 sugere uma vantagem de posições vendidas, o que indica a construção de hedge ou a expectativa de maior pressão vendedora. O alcance esperado de movimento para o ETF QQQ está na faixa de 705.40 a 721.52.</li>
+<li><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico do Heniu de 28.10 (29847.38) é de -1.50% (-448 pts), o que, com um ATR de 473 pts, significa um movimento de 0.9 do intervalo médio diário. Este é um recuo clássico e raso dentro da tendência. A zona de suporte mais próxima (nó de volume) está na faixa de 29310–29330 (1.8% de volume), enquanto a resistência mais próxima é a zona de 29410–29430 (0.8% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-29 16:07</p>
 <h3>📈 [2026-10-29 15:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
