@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 00:59
+Data: 2026-10-29 01:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 01:29]</h3>
+<p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29734.25 (-0.82%). Wektor kierunku (Q-Score) wynosi 15, wykazując zerową deltę w ostatnim odczycie. Pomiary ADR wskazują na obecność powyżej średniej (31.52%). Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -1.51K, co klasyfikuje stan układu jako test podaży. W Sferze Dysona (opcje QQQ) odnotowano zmienność IV na poziomie 21.38% przy asymetrii wolumenu Put/Call wynoszącej 1.11. Pozostałe obiekty (NDX, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej. Brak danych o zmianach w strukturze wolumenu HVN w bieżącym oknie telemetrycznym.</p>
+<p><strong>DIAGNOZA: Układ w fazie testu podaży przy niskiej kinetyce kierunkowej.</strong></p>
+<p>Log: 2026-10-29 01:29</p>
 <h3>🌌 [2026-10-29 00:59]</h3>
 <p>[TELEMETRIA: TRYB FUTURES - ANALIZA SONDA NQ]</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29685.75 (-0.98%). Wektor kierunkowy Q-Score wynosi 15, co wskazuje na utrzymującą się, choć niską, dodatnią dynamikę układu. Pomiary ADR NQ wykazują wartość 31.52%, co sytuuje bieżącą zmienność znacznie powyżej standardowych zakresów. Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -2.23K, co zgodnie z protokołem klasyfikuje stan jako test podaży. Sfera Dysona (Opcje na QQQ) wykazuje IV na poziomie 21.38% przy asymetrii wolumenu Put/Call wynoszącej 1.11. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej. Brak danych o zmianach w masie galaktyki oraz promieniowaniu tła w tym trybie pracy.</p>
