@@ -7,6 +7,25 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0034: Alphabet: 3Q2026 results
+
+Date: 2026-10-29 01:42
+URL: https://heniu.blog/en/f-log/flog-2026-10-29-0034/
+
+
+Alphabet (GOOGL) revenue increased in Q3 2026 by 24.6% y/y to 127.58 billion USD, while earnings per share (accounting) fell by 26.1% y/y to 2.12 USD.
+
+### Quarterly results
+
+Earnings per share (accounting, basic) was 2.14 USD (−25.9% y/y).
+
+### What management says
+
+According to management, using Gemini generates revenue from the model itself and drives growth in other parts of the cloud offering. Management emphasized that AI agents will become a reality, and the company wants to provide users with next-generation agents. According to management, AI agents represent an opportunity for the search engine to expand the range of problems solved for users. Management noted that the allocation of computing power is a long-term process requiring advance planning. The company treats TPU systems as an important platform that is intended to compete in the market for customers with the most demanding tasks. Management also explained that the TPU system is not just the chip itself, but an entire system including hardware, computing power, storage, and networking.
+
+
+---
+
 ## Fundamentals #0033: Microsoft: 1Q2027 results
 
 Date: 2026-10-29 01:36
@@ -1045,22 +1064,5 @@ Earnings per share (GAAP, basic) stood at 1.50 USD (−24.2% y/y), while earning
 ### What management says
 
 According to management, a new reusable instruments program will be introduced in the USA at the end of Q1 next year, and in Europe in the second half of next year, which will bring the full effect by the end of next year. Management indicated that the impact of these changes on the gross margin will be minimal, as it will be offset by cost reductions next year.
-
-
----
-
-## Fundamentals #0010: Vertex Pharmaceuticals filing; insider transactions
-
-Date: 2026-10-21 10:10
-URL: https://heniu.blog/en/f-log/flog-2026-10-21-0010/
-
-
-Vertex Pharmaceuticals (VRTX) filed a report of changes in management or board of directors.
-
-Insiders sold shares for 26.1 million USD, including 26.1 million USD from 10b5-1 plans; market purchases amounted to 25 thousand USD. The largest sale was reported by Micron Technology (MU) insiders: 25.7 million USD.
-
-The President, Chief Technology Officer, and Chief Operating Officer of Micron Technology (MU) sold 28,545 shares valued at 25.7 million USD under a 10b5-1 plan.
-
-The Executive Vice President, Chief Financial Officer, and Chief Operating Officer of QUALCOMM (QCOM) sold 2,500 shares valued at 0.4 million USD under a 10b5-1 plan.
 
 

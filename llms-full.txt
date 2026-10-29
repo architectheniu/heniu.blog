@@ -7,6 +7,25 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0034: Alphabet: wyniki za 3Q2026
+
+Data: 2026-10-29 01:41
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0034/
+
+
+Przychody Alphabet (GOOGL) wzrosły w III kwartale 2026 o 24,6% r/r do 127,58 mld USD, natomiast zysk na akcję (księgowy) spadł o 26,1% r/r do 2,12 USD.
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) wyniósł 2,14 USD (−25,9% r/r).
+
+### Co mówi zarząd
+
+Według zarządu korzystanie z Gemini generuje przychody z samego modelu i napędza wzrost w innych częściach oferty chmurowej. Zarząd podkreślał, że agenci AI staną się rzeczywistością, a spółka chce dostarczyć użytkownikom agentów nowej generacji. Według zarządu agenci AI stanowią dla wyszukiwarki szansę na poszerzenie zakresu problemów rozwiązywanych dla użytkowników. Zarząd zaznaczył, że przydział mocy obliczeniowej jest procesem długoterminowym, wymagającym planowania z wyprzedzeniem. Spółka traktuje systemy TPU jako ważną platformę, która ma konkurować na rynku o klientów z najbardziej wymagającymi zadaniami. Zarząd wyjaśnił również, że system TPU to nie sam chip, lecz cały system obejmujący sprzęt, moc obliczeniową, pamięć masową i sieć.
+
+
+---
+
 ## Fundamenty #0033: Microsoft: wyniki za 1Q2027
 
 Data: 2026-10-29 01:35
@@ -1045,24 +1064,5 @@ Zysk na akcję (księgowy, podstawowy) ukształtował się na poziomie 1,50 USD 
 ### Co mówi zarząd
 
 Według zarządu nowy program instrumentów wielokrotnego użytku zostanie wprowadzony w USA pod koniec I kwartału w przyszłym roku, a w Europie w drugiej połowie przyszłego roku, co pod koniec przyszłego roku przyniesie pełny efekt. Zarząd wskazywał, że wpływ tych zmian na marżę brutto będzie niewielki, ponieważ zostanie on skompensowany w przyszłym roku obniżką kosztów.
-
-
----
-
-## Fundamenty #0011: Space Exploration Technologies: wyniki za 3Q2026
-
-Data: 2026-10-21 19:20
-Adres: https://heniu.blog/f-log/flog-2026-10-21-0011/
-
-
-Przychody Space Exploration Technologies (SPCX) w III kwartale 2026 wyniosły 14,57 mld USD (+161,4% r/r), a zysk netto wzrósł do poziomu 4,40 mld USD z wartości −1,05 mld USD rok wcześniej.
-
-### Wyniki kwartału
-
-Zysk operacyjny spadł o 102,7% r/r do poziomu −7,00 mln USD przy wartości 259,00 mln USD rok wcześniej, podczas gdy przychody segmentu Space wyniosły 1,77 mld USD (+6,1% r/r).
-
-### Co mówi zarząd
-
-Zarząd wskazywał, że finansowanie opiera się na przepływach operacyjnych, długu oraz partnerstwach z dostawcami i klientami. Według zarządu planowany jest podział mocy obliczeniowej po połowie między użytek własny a wynajem na krótkie umowy, z uwzględnieniem odnowień po wyższych stawkach za wat.
 
 
