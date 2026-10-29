@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 08:29
+Data: 2026-10-29 08:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 08:59]</h3>
+<p>[T-LOG: 2026-10-29 08:59]</p>
+<p>Tryb sesji: FUTURES. Aktywny obiekt: Sonda NQ.<br />
+Sonda NQ znajduje się na poziomie 29585.75 (-1.31%). Wektor kierunku (Q-Score) wynosi 35 (Delta: +0.0).<br />
+CVD Sondy NQ odnotowuje wartość 244, co klasyfikuje stan układu jako test popytu.<br />
+ADR NQ wynosi 54.45%, co wskazuje na wysoką zmienność w trakcie trwania sesji.<br />
+W obszarze opcji (Sfera Dysona) zmienność (IV) wynosi 21.38%, a asymetria wolumenu (Put/Call Ratio) kształtuje się na poziomie 1.11.<br />
+Wszystkie pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej.<br />
+Brak danych o zmianach w masie galaktyki oraz promieniowaniu tła w obecnym trybie operacyjnym.</p>
+<p>Status układu: Test popytu w warunkach wysokiej zmienności przy braku rezonansu wektorów makro.</p>
 <h3>🌌 [2026-10-29 08:29]</h3>
 <p><strong>LOG: 2026-10-29 08:29</strong></p>
 <p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
