@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 14:07
+Data: 2026-10-29 15:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.29</h1>
+<h3>📈 [2026-10-29 15:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Indeks NDX wynosi 29420.64 (-1.31%), odnotowując cofnięcie od szczytu z 28.10 (29847.38) o 427 pkt (-1.43%). Obecna korekta jest płytka na tle historycznych ruchów, stanowiąc jedynie 0.9 średniego zakresu dnia (ATR 20: 472 pkt). Wskaźnik kierunku przepływów wynosi 25, co wskazuje na słabą przewagę napływu kapitału.</li>
+<li><strong>Analiza przepływów (CVD):</strong> Na rynku kasowym obserwuje się rozbieżność między instrumentami; NDX wykazuje test podaży z CVD na poziomie −834,12 K, podczas gdy kontrakty NQ wykazują akumulację (CVD 13,56 K), a ETF QQQ testuje popyt (CVD 617,19 K). Szeroki rynek (TICKQ) znajduje się na poziomie 73.00, co przy średniej SMA200 wynoszącej 22.38 wskazuje na silne skłonności wzrostowe wewnątrz sesji.</li>
+<li><strong>Poziomy wsparcia i oporu:</strong> Kluczowa strefa wolumenu wsparcia znajduje się w przedziale 29310–29330 (1.8% wolumenu), natomiast najbliższy opór zlokalizowany jest w strefie 29470–29490 (1.2% wolumenu).</li>
+<li><strong>Rynek opcji:</strong> Zmienność implikowana (IV) wynosi 22.35%, przy wolumenie opcji na poziomie 437,685. Wskaźnik Put/Call Ratio na poziomie 1.44 sugeruje nastawienie na spadki lub intensywne budowanie zabezpieczeń (hedgingu) przez inwestorów. Oczekiwany przez rynek zasięg ruchu mieści się w przedziale od 709.56 do 727.92 punktów.</li>
+</ul>
+<p>Raport H-Log: 2026-10-29 15:07</p>
 <h3>📈 [2026-10-29 14:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
