@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 20:15
+Data: 2026-10-29 20:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 20:29]</h3>
+<p>[EVENTOS DE VOLUME]<br />
+Ruptura da barreira HVN do ecossistema US100 no nível NDX 29310 (NQ ≈ 29468).</p>
+<p>[T-LOG: 2026-10-29 20:29]<br />
+O sistema opera no modo SPOT. A Sonda NQ está no nível 29495.00 (-1.62%), mostrando acumulação com CVD 17.35K. A Estrela NDX relata teste de oferta (CVD -1.64M) ao preço de 29336.88, enquanto o Satélite QQQ mostra teste de demanda (CVD 955.8K) no nível 713.66. A Amplitude de mercado (TICKQ) registra um disparo do mercado (260.00), o que é consistente com a tendência da radiação (SMA200: 27.24, status ABOVE, tendência de alta). A Massa da Galáxia é de 41.36 T (+0.03 T), e a Ação Média é de $304.28 (+0.51 USD), indicando a expansão da cesta. Na Esfera de Dyson IV é de 22.17%, e o Put/Call Ratio é 1.21. O Q-Score é 25, o que, com a divergência dos vetores CVD (NDX testa oferta, enquanto NQ e QQQ testam demanda), sugere uma estratificação do sistema e tensão gravitacional entre o núcleo e os satélites.</p>
+<p>Status: Divergência de vetores (Cross-Asset Divergence).</p>
 <h3>🌌 [2026-10-29 20:14]</h3>
 <p>Log: 2026-10-29 20:14</p>
 <p>[STATUS: SPOT - A SESSÃO À VISTA ESTÁ ATIVA]</p>

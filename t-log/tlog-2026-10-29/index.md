@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 20:14
+Data: 2026-10-29 20:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 20:29]</h3>
+<p>[ZDARZENIA WOLUMENOWE]<br />
+Obalenie zapory HVN ekosystemu US100 na poziomie NDX 29310 (NQ ≈ 29468).</p>
+<p>[T-LOG: 2026-10-29 20:29]<br />
+System operuje w trybie SPOT. Sonda NQ znajduje się na poziomie 29495.00 (-1.62%), wykazując akumulację przy CVD 17.35K. Gwiazda NDX raportuje test podaży (CVD -1.64M) przy cenie 29336.88, podczas gdy Satelita QQQ wykazuje test popytu (CVD 955.8K) na poziomie 713.66. Szeroka Giełda (TICKQ) odnotowuje wystrzał rynku (260.00), co jest zgodne z trendem promieniowania (SMA200: 27.24, status ABOVE, trend rośnie). Masa Galaktyki wynosi 41.36 T (+0.03 T), a Średnia Akcja to $304.28 (+0.51 USD), co wskazuje na ekspansję koszyka. W Sferze Dysona IV wynosi 22.17%, a Put/Call Ratio 1.21. Q-Score wynosi 25, co przy rozbieżności wektorów CVD (NDX testuje podaż, podczas gdy NQ i QQQ testują popyt) sugeruje rozwarstwienie układu i grawitacyjne napięcie między jądrem a satelitami.</p>
+<p>Status: Rozwarstwienie wektorów (Cross-Asset Divergence).</p>
 <h3>🌌 [2026-10-29 20:14]</h3>
 <p>Log: 2026-10-29 20:14</p>
 <p>[STATUS: SPOT - SESJA KASOWA AKTYWNA]</p>
