@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 16:14
+Data: 2026-10-29 16:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,26 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 16:29]</h3>
+<p>[T-LOG: 2026-10-29 16:29]</p>
+<p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
+<p><strong>ANALIZA OBIEKTÓW ORBITALNYCH:</strong><br />
+- <strong>Gwiazda NDX</strong>: Cena 29457.51 (-1.19%). CVD: 11.59M [test popytu].<br />
+- <strong>Sonda NQ</strong>: Cena 29608.25 (-1.24%). CVD: 23.66K [akumulacja]. ADR: 67.98% (powyżej średniej).<br />
+- <strong>Satelita QQQ</strong>: Cena 716.36 (-1.27%). CVD: 623.24K [test popytu].</p>
+<p><strong>FIZYKA UKŁADU I PROMIE NIOWANIE:</strong><br />
+- <strong>Q-Score</strong>: 35.<br />
+- <strong>TICKQ (Szeroka Giełda)</strong>: 84.00 [akumulacja]. Średnia SMA200: 27.91 [akumulacja] (Status: ABOVE).<br />
+- <strong>Trend Promieniowania</strong>: Maleje (-2.26).<br />
+- <strong>Sfera Dysona (Opcje)</strong>: IV 21.85%. Put/Call Ratio: 1.20.</p>
+<p><strong>MASA I GĘSTOŚĆ:</strong><br />
+- <strong>Masa Galaktyki</strong>: 41.51 T (Delta: +0.02 T).<br />
+- <strong>Średnia Akcja</strong>: $305.68 (Delta: +0.15 USD) -&gt; Koszyk w fazie rozszerzania.<br />
+- <strong>Gęstość Jądra</strong>: 67.9% (Delta: -0.0%).</p>
+<p><strong>DIAGNOSTYKA KINEMATYCZNA:</strong><br />
+Wektor NQ wykazuje sygnały akumulacji przy jednoczesnym teście popytu na poziomie NDX i QQQ. Obserwuje się rozwarstwienie układu (Cross-Asset Divergence): mimo ujemnej dynamiki ceny wszystkich instrumentów, agresywny wolumen (CVD) wykazuje dodatnią sygnaturę (test popytu/akumulacja), co sugeruje pasywną absorpcję podaży w strefach wsparcia. Szeroka giełda (TICKQ) utrzymuje dodatnią radiację, co potwierdza strukturę akumulacyjną, choć malejący trend promieniowania sugeruje wygasanie kinetyki wzrostowej.</p>
+<p><strong>UKŁAD W FAZIE PASYWNEJ ABSORPCJI PODAZY.</strong></p>
+<p>Log: 2026-10-29 16:29</p>
 <h3>🌌 [2026-10-29 16:14]</h3>
 <p><strong>Log: 2026-10-29 16:14</strong></p>
 <p><strong>STATUS: SPOT [SESJA KASOWA AKTYWNA]</strong></p>
