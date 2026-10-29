@@ -7,6 +7,31 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0040: Company filings: T-Mobile US, Meta Platforms, Microsoft; insider transactions
+
+Date: 2026-10-29 10:10
+URL: https://heniu.blog/en/f-log/flog-2026-10-29-0040/
+
+
+T-Mobile US (TMUS) filed a report on changes in the board of directors regarding the departure of board member G. Michael Sievert, who is resigning from his position with a date of 1.11.2026.
+
+Meta Platforms (META) filed document 424B5.
+
+Meta Platforms (META) filed document 424B5.
+
+Microsoft (MSFT) filed quarterly report 10-Q.
+
+Microsoft (MSFT) filed a report on other events.
+
+Insiders on 28.10 sold shares for 6.4 million USD, including 3.9 million USD from 10b5-1 plans; market purchases amounted to 0. The largest sale was reported by Airbnb (ABNB) insiders: 2.3 million USD, followed by Roper Technologies (ROP) insiders: 1.6 million USD.
+
+8-K: 5.02 changes in management/board (Document: 8-K 5.02; Filing date (US time): 28.10; 8-K 5.02 content (change in management or board): position: board member; type of change: departure (resignation); date: 1.11.2026; persons: G. Michael Sievert; successor: not indicated; quote (EN): „On October 26, 2026, G. Michael Sievert notified the Board of Directors (the “Board”) of T-Mobile US, Inc. (the “Company”) of his decision to resign from the Board and its Transaction Committee, effective November 1, 2026.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1283699/000119312526435233/0001193125-26-435233-index.htm).
+
+8-K: 8.01 other events (Document: 8-K 8.01,9.01; Filing date (US time): 28.10; 8-K 8.01 content (other event): quote (EN): „Other Events Microsoft Corporation (the “Company”) is filing this Current Report on Form 8-K to recast certain previously reported amounts to conform with segment reporting changes made to align our segments with how we manage our business, with respect to the financial information contained in our Annual Report on…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/789019/000119312526436149/0001193125-26-436149-index.htm).
+
+
+---
+
 ## Fundamentals #0039: Cadence Design Systems: 3Q2026 results
 
 Date: 2026-10-29 08:17
@@ -988,24 +1013,5 @@ In the fourth quarter, the company expects revenue in the range of 5.80 billion 
 ### Management commentary
 
 Management indicated that in subsequent quarters, operating costs are expected to remain at a similar level or undergo a slight increase. According to management, there was a slight increase in prices in the second half of the year, especially in the analog chip area, and discussions regarding prices for next year are ongoing. Management emphasized that in subsequent years, revenue growth will largely translate into gross profit. According to management, customers in the automotive industry have low inventory, and no replenishment is being observed.
-
-
----
-
-## Fundamentals #0016: Tesla: 3Q2026 results
-
-Date: 2026-10-22 11:26
-URL: https://heniu.blog/en/f-log/flog-2026-10-22-0016/
-
-
-Tesla (TSLA) revenue in the third quarter was 28.05 billion USD (−0.2% y/y), while earnings per share (GAAP) fell by 43.6% y/y to a level of 0.22 USD.
-
-### Quarterly results
-
-Earnings per share (adjusted) was 0.48 USD (−4.0% y/y) compared to 0.50 USD a year earlier.
-
-### What management says
-
-Management indicated that the impact of Robotaxi on results will not be visible in the current period, and the significance of this segment is likely to become noticeable in the second quarter of next year and in the third or fourth quarter. According to management, the first customer cars may join the Robotaxi fleet roughly in the second quarter of next year.
 
 

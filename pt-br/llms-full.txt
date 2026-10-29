@@ -7,6 +7,31 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0040: Notificações de empresas: T-Mobile US, Meta Platforms, Microsoft; transações de insiders
+
+Data: 2026-10-29 10:11
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-29-0040/
+
+
+T-Mobile US (TMUS) protocolou um relatório sobre mudanças no conselho de administração referente ao desligamento do membro do conselho de administração G. Michael Sievert, que renuncia ao cargo com data de 1.11.2026.
+
+Meta Platforms (META) protocolou o documento 424B5.
+
+Meta Platforms (META) protocolou o documento 424B5.
+
+Microsoft (MSFT) protocolou o relatório trimestral 10-Q.
+
+Microsoft (MSFT) protocolou um relatório sobre outros eventos.
+
+Insiders em 28.10 venderam ações no valor de 6,4 mi USD, incluindo 3,9 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi reportada pelos insiders da Airbnb (ABNB): 2,3 mi USD, seguida pelos insiders da Roper Technologies (ROP): 1,6 mi USD.
+
+8-K: 5.02 mudanças na diretoria/conselho (Documento: 8-K 5.02; Data de protocolo (hora EUA): 28.10; Conteúdo 8-K 5.02 (mudança na diretoria ou conselho): cargo: membro do conselho de administração; tipo de mudança: desligamento (renúncia); data: 1.11.2026; pessoas: G. Michael Sievert; sucessor: não indicado; citação (EN): „On October 26, 2026, G. Michael Sievert notified the Board of Directors (the “Board”) of T-Mobile US, Inc. (the “Company”) of his decision to resign from the Board and its Transaction Committee, effective November 1, 2026.”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1283699/000119312526435233/0001193125-26-435233-index.htm).
+
+8-K: 8.01 outros eventos (Documento: 8-K 8.01,9.01; Data de protocolo (hora EUA): 28.10; Conteúdo 8-K 8.01 (outro evento): citação (EN): „Other Events Microsoft Corporation (the “Company”) is filing this Current Report on Form 8-K to recast certain previously reported amounts to conform with segment reporting changes made to align our segments with how we manage our business, with respect to the financial information contained in our Annual Report on…”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/789019/000119312526436149/0001193125-26-436149-index.htm).
+
+
+---
+
 ## Fundamentos #0039: Cadence Design Systems: resultados do 3Q2026
 
 Data: 2026-10-29 08:17
@@ -988,24 +1013,5 @@ No quarto trimestre, a empresa espera uma receita na faixa de 5,80 bi USD – 6,
 ### O que diz a diretoria
 
 A diretoria indicou que, nos próximos trimestres, os custos operacionais devem permanecer em níveis semelhantes ou sofrer um ligeiro aumento. De acordo com a diretoria, na segunda metade do ano houve um leve aumento nos preços, especialmente na área de circuitos analógicos, e as negociações sobre preços para o próximo ano estão em andamento. A diretoria enfatizou que, nos próximos anos, o aumento da receita se traduzirá em grande parte em lucro bruto. Segundo a diretoria, os clientes do setor automotivo possuem estoques baixos e não se observa uma recomposição dos mesmos.
-
-
----
-
-## Fundamentos #0016: Tesla: resultados do 3Q2026
-
-Data: 2026-10-22 11:26
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-22-0016/
-
-
-A receita da empresa Tesla (TSLA) no terceiro trimestre foi de 28,05 bi USD (−0,2% a/a), enquanto o lucro por ação (contábil) caiu 43,6% a/a para o nível de 0,22 USD.
-
-### Resultados do trimestre
-
-O lucro por ação (ajustado) foi de 0,48 USD (−4,0% a/a) em comparação com 0,50 USD no ano anterior.
-
-### O que diz a administração
-
-A administração indicou que o impacto do Robotaxi nos resultados não será visível no período atual, e a importância deste segmento deve tornar-se perceptível provavelmente no segundo trimestre do próximo ano e no terceiro ou quarto trimestre. De acordo com a administração, os primeiros carros de clientes podem juntar-se à frota Robotaxi aproximadamente no segundo trimestre do próximo ano.
 
 
