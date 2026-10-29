@@ -7,6 +7,25 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0045: Gilead Sciences: wyniki za 3Q2026
+
+Data: 2026-10-30 00:17
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0045/
+
+
+Przychody Gilead Sciences (GILD) w trzecim kwartale wyniosły 8,30 mld USD (+6,8% r/r), natomiast zysk na akcję (księgowy) spadł o 20,2% r/r do poziomu 1,94 USD.
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) wyniósł 1,96 USD (−20,3% r/r), podczas gdy skorygowany zysk na akcję wzrósł o 3,2% r/r do 2,55 USD. Zysk operacyjny osiągnął 3,46 mld USD (+4,1% r/r), przy marży operacyjnej na poziomie 41,7% (−1,1 pp r/r).
+
+### Co mówi zarząd
+
+Według zarządu w segmencie HIV sprzyjały korzystne ceny w niektórych kanałach oraz popyt, a udział leku Biktarvy w rynku nadal rośnie. Zarząd podkreślał, że spółce zależy na rozwoju w obszarach onkologii oraz chorób zapalnych. Według zarządu cotygodniowa doustna profilaktyka HIV ma trafić do osób preferujących leki o dłuższym działaniu zamiast zastrzyków. Zarząd wskazał, że sposób ustalania cen leków w ramach ustawy IRA może w przyszłym roku zagrozić inwestycjom w nowe produkty. Według zarządu wpływ nowych cen dotyczy głównie programu Medicare oraz objawia się efektem przeniesienia na inne kanały sprzedaży. Zarząd wyraził zadowolenie z faktu, że spółka w tym roku wchłonęła koszty nowo przejętych programów, i zamierza kontynuować ten proces w kolejnych latach.
+
+
+---
+
 ## Fundamenty #0044: Intel: wyniki za 3Q2026
 
 Data: 2026-10-29 23:55
@@ -984,28 +1003,5 @@ Adres: https://heniu.blog/posts/log-0210/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamenty #0021: Western Digital: wyniki za 1Q2027
-
-Data: 2026-10-23 20:17
-Adres: https://heniu.blog/f-log/flog-2026-10-23-0021/
-
-
-Przychody Western Digital (WDC) wzrosły w pierwszym kwartale roku obrotowego 2027 o 55,5% r/r do poziomu 4,38 mld USD, a zysk na akcję (księgowy) zwiększył się o 50,8% r/r do 4,63 USD.
-
-### Wyniki kwartału
-
-Skorygowany zysk na akcję wyniósł 4,64 USD, co stanowi wzrost o 160,7% r/r w porównaniu do 1,78 USD rok wcześniej.
-
-### Prognoza spółki
-
-W drugim kwartale 2027 spółka spodziewa się przychodów w przedziale 5,00 mld USD – 5,20 mld USD (wzrost o 66,0% – 72,0%) oraz skorygowanego zysku na akcję na poziomie 5,60–6,00 USD.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że wzrost marży brutto ma charakter trwały i jest napędzany przez ceny, większą gęstość zapisu oraz przechodzenie klientów na dyski o większej pojemności. Według zarządu otoczenie cenowe jest korzystne, co pozwala na dalsze podnoszenie ceny za terabajt, w tym przy dostawach poza umowami długoterminowymi. Zarząd zaznaczył, że klienci bardzo dobrze oceniają nowe dyski HAMR ze względu na ich niską awaryjność, co daje pewność co do zakończenia procesu ich kwalifikacji. Według zarządu spółka nie zamierza zwiększać liczby produkowanych dysków, lecz stawia na wzrost poprzez większą gęstość zapisu, a ewentualne spowolnienie u nowych dostawców chmury dla AI nie stanowiłoby poważnego problemu ze względu na trwały popyt.
 
 
