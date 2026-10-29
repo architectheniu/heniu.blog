@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 01:59
+Data: 2026-10-29 02:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 02:29]</h3>
+<p>[TELEMETRIA NQ - TRYB FUTURES]<br />
+Sonda NQ: 29675.50 (-1.01%) | ADR: 31.52% | CVD: -1.62K [test podaży] | Q-Score: 15 [Delta: +0.0]<br />
+Sfera Dysona (QQQ): IV 21.38% | P/C Ratio: 1.11 | Zasięg: 716.53 - 734.69</p>
+<p>[RAPORT TAKTYCZNY]<br />
+Sonda NQ znajduje się obecnie na poziomie 29675.50, wykazując ujemną dynamikę ceny (-1.01%). Pomiary wskazują na obecność presji sprzedażowej, co potwierdza wartość CVD na poziomie -1.62K, sklasyfikowana jako test podaży. Wektor kierunkowy Q-Score wynosi 15, utrzymując stabilność (Delta: +0.0). ADR osiągnął poziom 31.52%, co plasuje bieżącą zmienność powyżej standardowych odczytów. W Sferze Dysona obserwowana jest asymetria wolumenu opcji z Put/Call Ratio na poziomie 1.11, przy zmienności (IV) wynoszącej 21.38%. Zasięg oczekiwany przez rynek oscyluje w granicach 716.53 do 734.69. Dane dotyczące NDX, QQQ oraz TICKQ pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej.</p>
+<p>[STATUS UKŁADU]<br />
+Układ w fazie testowania podaży przy niskiej kinetyce wektora kierunkowego.</p>
 <h3>🌌 [2026-10-29 01:59]</h3>
 <p><strong>STATUS: TRYB FUTURES (TYLKO SONDA NQ)</strong></p>
 <p>Sonda NQ znajduje się w fazie spadkowej, operując na poziomie 29723.25 (-0.85%). Wektor Q-Score utrzymuje wartość 15 (Delta: +0.0), wskazując na stabilizację kierunku w skali mikro. Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -401, co klasyfikuje obecny stan jako test podaży. Wartość ADR NQ wynosi 31.52%, co sytuuje bieżącą zmienność powyżej średnich historycznych. W Sferze Dysona (opcje QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.11, przy zmienności (IV) wynoszącej 21.38%. Oczekiwany zasięg dla instrumentu bazowego mieści się w przedziale 716.53 do 734.69. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
