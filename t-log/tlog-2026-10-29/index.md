@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 18:59
+Data: 2026-10-29 19:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 19:14]</h3>
+<p>[TELEMETRIA SYSTEMU - STATUS: OPEN]<br />
+Tryb Sesji: SPOT</p>
+<p><strong>ANALIZA OBIEKTÓW:</strong><br />
+- <strong>Gwiazda NDX</strong>: Cena 29310.04 (-1.69%). CVD: -17.13M [test podaży].<br />
+- <strong>Sonda NQ</strong>: Cena 29464.25 (-1.72%). ADR: 67.98% (powyżej średniej).<br />
+- <strong>Satelita QQQ</strong>: Cena 712.95 (-1.74%). CVD: 561.8K [test popytu].<br />
+- <strong>Promieniowanie Tła (TICKQ)</strong>: -85.00 [wyprzedaż]. Średnia SMA200: 26.68 [akumulacja]. Status: BELOW.<br />
+- <strong>Sfera Dysona (Opcje)</strong>: IV 21.64%. Put/Call Ratio 1.16.<br />
+- <strong>Masa Galaktyki</strong>: 41.34 T (Delta: +0.01 T).<br />
+- <strong>Średnia Akcja</strong>: $304.00 (Delta: +0.01 USD). Koszyk w fazie rozszerzania.<br />
+- <strong>Q-Score</strong>: 7 (Blisko zera).</p>
+<p><strong>LOG: 2026-10-29 19:14</strong></p>
+<p>System operuje w trybie SPOT przy skrajnym rozwarstwieniu wektorów. Występuje wyraźna asymetria między Jądrem a Sonda/Satelita, co generuje grawitacyjne napięcie w układzie. Średnia Akcja w koszyku wzrosła do $304.00 (Delta: +0.01 USD), co wskazuje na powolną ekspansję notional value mimo ujemnej dynamiki cenowej. ADR dla Sondy NQ utrzymuje się powyżej średniej (67.98%). Put/Call Ratio na poziomie 1.16 wskazuje na asymetrię wolumenu w stronę kontraktów Put.</p>
+<p><strong>DIAGNOZA:</strong> Rozwarstwienie układu (Cross-Asset Divergence) – wzrostowa aktywność na Sonda/Satelita przy jednoczesnej dominacji wyprzedaży w szerokim promieniowaniu tła.</p>
 <h3>🌌 [2026-10-29 18:59]</h3>
 <p>[T-LOG: 2026-10-29 18:59]</p>
 <p>Gwiazda NDX wykazuje silną presję podażową (CVD: -13,48M), co przy obecnej cenie 29306.27 (-1.70%) i ADR 65.70% wskazuje na testowanie głębszych poziomów. Sonda NQ znajduje się na poziomie 29459.00 (-1.74%), gdzie odnotowano akumulację (CVD: 17,39K). Satelita QQQ wykazuje test popytu (CVD: 625,55K) przy cenie 712.88 (-1.75%). Szeroka Giełda TICKQ (12.00) znajduje się w fazie testu popytu, choć pozostaje poniżej średniej SMA200 (27.64), co sugeruje brak pełnej siły odbicia. Masa Galaktyki wynosi 41.33 T (Delta: -0.05 T), a Średnia Akcja spadła do poziomu $303.99 (Delta: -0.39 USD), co oznacza kurczenie się koszyka. W Sferze Dysona Put/Call Ratio wynosi 1.16, przy zmienności IV na poziomie 21.38%. Wektor rynkowy (Q-Score) wynosi 7, co wskazuje na niemal neutralny, lecz lekko dodatni balans sił.</p>
