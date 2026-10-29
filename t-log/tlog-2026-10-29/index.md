@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 02:59
+Data: 2026-10-29 03:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 03:29]</h3>
+<p>[TELEMETRIA - RAPORT TAKTYCZNY]<br />
+Status: OPEN | Tryb: FUTURES (NQ Active)</p>
+<p>Sonda NQ znajduje się na poziomie 29532.25 (-1.49%). Bieżąca dynamika wskazuje na test podaży (CVD: -5.78K). Wektor kierunkowy Q-Score wynosi 15 (Delta: +0.0), co przy obecnej presji wolumenowej sugeruje brak wyraźnego rezonansu wektorów. ADR NQ wynosi 50.52%, co plasuje obecną zmienność wewnątrz oczekiwanego zakresu sesji. W Sferze Dysona (Opcje QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.11, przy zmienności (IV) wynoszącej 21.38%. Oczekiwany zasięg dla instrumentu bazowego mieści się w przedziale 716.53 do 734.69. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej.</p>
+<p>Układ w fazie testu podaży przy braku synchronizacji wektorów.</p>
+<p>Log: 2026-10-29 03:29</p>
 <h3>🌌 [2026-10-29 02:59]</h3>
 <p>Tryb sesji: FUTURES. Aktywny obiekt: Sonda NQ.</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29585.50, co stanowi spadek o 1.31% względem poprzedniego odczytu. Wektor kierunkowy Q-Score wynosi 15 (Delta: +0.0). Ciśnienie paliwa (CVD) dla Sondy NQ wynosi -4.39K, co klasyfikuje stan układu jako test podaży. Wartość ADR dla NQ wynosi 42.13%, co wskazuje na aktywność powyżej średniej. W Sferze Dysona (opcje na QQQ) odnotowano zmienność IV na poziomie 21.38% przy oczekiwanym zasięgu w przedziale 716.53 – 734.69 oraz asymetrię wolumenu Put/Call wynoszącą 1.11. Pozostałe parametry (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
