@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 13:07
+Data: 2026-10-29 14:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.29</h1>
+<h3>📈 [2026-10-29 14:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ wykazują spadek o 0,95% przy cenie 29691.75. Skumulowany przepływ (CVD) na kontraktach wynosi 8,62 K, co wskazuje na testowanie popytu w trakcie sesji futures.</li>
+<li>Indeks NDX zakończył sesję kasową na poziomie 29813.16 (+0,55%), z wysokim napływem kapitału (CVD NDX = 152,42 M). Obecne cofnięcie od szczytu z dnia 28.10 (29847.38) wynosi 0,11% (-34 pkt), co klasyfikuje ruch jako zwykłe cofnięcie, głębsze niż dotychczasowe korekty w bieżącym cyklu.</li>
+<li>Wskaźnik kierunku przepływów wynosi 35, co sygnalizuje umiarkowaną przewagę napływu kapitału do rynku.</li>
+<li>Dane opcyjne na QQQ przy wolumenie 16,712 wskazują na Put/Call Ratio na poziomie 1.16, co sugeruje zwiększoną aktywność w zakresie zabezpieczeń (hedgingu) lub budowania pozycji krótkich. Oczekiwany przez rynek zasięg ruchu mieści się w przedziale 716.53 do 734.69.</li>
+<li>Kluczowe poziomy techniczne: najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29780–29800, natomiast opór znajduje się powyżej 29830–29850.</li>
+</ul>
+<p>Raport H-Log: 2026-10-29 14:07</p>
 <h3>📈 [2026-10-29 13:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
