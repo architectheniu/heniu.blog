@@ -6,10 +6,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-10-29](https://heniu.blog/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamenty #0038: T-Mobile US: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0038/index.md) (2026-10-29)
 - [Fundamenty #0037: KLA: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-29-0037/index.md) (2026-10-29)
-- [H1: 2026-10-29](https://heniu.blog/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamenty #0036: Honeywell Aerospace: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0036/index.md) (2026-10-29)
 - [Fundamenty #0035: Fortinet: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0035/index.md) (2026-10-29)
 - [Fundamenty #0034: Alphabet: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0034/index.md) (2026-10-29)

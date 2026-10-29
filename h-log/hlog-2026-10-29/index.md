@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 02:07
+Data: 2026-10-29 03:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.29</h1>
+<h3>📈 [2026-10-29 03:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Kontekst kontraktów NQ:</strong> Kontrakty NQ wykazują spadek o -1.46% (cena 29541.50) przy ujemnym przepływie skumulowanym (CVD) na poziomie -5,6 K, co wskazuje na testowanie podaży w sesji po sesji kasowej.</li>
+<li><strong>Analiza rynku kasowego (zamknięcie):</strong> Indeks NDX zamknął sesję na poziomie 29821.71 (+0.55%), przy bardzo wysokim napływie kapitału (CVD NDX = 152,16 M). Występuje tu rozbieżność między wzrostem ceny a aktywnością kontraktów terminowych. Obecne cofnięcie od szczytu (29847.38) wynosi -0.09% i jest klasyfikowane jako zwykłe cofnięcie, znacznie płytsze niż historyczne korekty.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29780–29800. Najbliższa strefa oporu to 29830–29850.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 21.38%, a wskaźnik Put/Call Ratio na poziomie 1.11 sugeruje lekką przewagę pozycji zabezpieczających (hedgingu). Oczekiwany przez rynek zasięg ruchu mieści się w przedziale 716.53 do 734.69.</li>
+<li><strong>Sentyment:</strong> Wskaźnik kierunku przepływów wynosi 15, co wskazuje na utrzymującą się, choć słabą, przewagę napływu kapitału.</li>
+</ul>
+<p>Raport H-Log: 2026-10-29 03:07</p>
 <h3>📈 [2026-10-29 02:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
