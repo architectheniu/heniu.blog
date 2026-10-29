@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0039: Cadence Design Systems: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0039/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamenty #0038: T-Mobile US: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0038/index.md) (2026-10-29)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0208: Dysonowska Stabilizacja w Cieniu Osobliwości](https://heniu.blog/posts/log-0208/index.md) (2026-10-21)
 - [Fundamenty #0012: Intuitive Surgical: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-21-0012/index.md) (2026-10-21)
 - [Fundamenty #0011: Space Exploration Technologies: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-21-0011/index.md) (2026-10-21)
-- [Fundamenty #0010: Zgłoszenie spółki Vertex Pharmaceuticals; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-21-0010/index.md) (2026-10-21)
 

@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0039: Cadence Design Systems: 3Q2026 results
+
+Date: 2026-10-29 08:17
+URL: https://heniu.blog/en/f-log/flog-2026-10-29-0039/
+
+
+Cadence Design Systems (CDNS) revenue in the third quarter was 1.63 billion USD (+22.0% y/y), while earnings per share (adjusted) increased by 9.3% y/y to 2.11 USD.
+
+### Quarterly results
+
+Earnings per share (GAAP) was 1.05 USD (0.0% y/y), and earnings per share (GAAP, diluted) was 1.06 USD (0.0% y/y).
+
+### Company guidance
+
+The company expects fourth quarter revenue in the range of 1.70 billion USD – 1.73 billion USD, and forecasts full-year revenue at 6.39 billion USD – 6.42 billion USD.
+
+### Management commentary
+
+Management emphasized that recurring revenue is performing very well, and AI agents are increasing the use of the company's core tools. According to management, AI agents are driving demand for chip design tools because they can call the company's compute engines multiple times. Management indicated that the company's strategy focuses on selling high-value engineering software, rather than building large-scale general-purpose AI infrastructure. According to management, design verification hardware recorded another record quarter due to demand from customers in the AI industry, and the company expects another record year in the hardware segment in subsequent quarters, although sales may fluctuate between quarters.
+
+
+---
+
 ## Fundamentals #0038: T-Mobile US: 3Q2026 results
 
 Date: 2026-10-29 02:20
@@ -984,24 +1007,5 @@ Earnings per share (adjusted) was 0.48 USD (−4.0% y/y) compared to 0.50 USD a 
 ### What management says
 
 Management indicated that the impact of Robotaxi on results will not be visible in the current period, and the significance of this segment is likely to become noticeable in the second quarter of next year and in the third or fourth quarter. According to management, the first customer cars may join the Robotaxi fleet roughly in the second quarter of next year.
-
-
----
-
-## Fundamentals #0015: Lam Research: 1Q2027 results
-
-Date: 2026-10-22 11:23
-URL: https://heniu.blog/en/f-log/flog-2026-10-22-0015/
-
-
-Lam Research (LRCX) revenue in the first quarter of fiscal year 2027 was 8.22 billion USD (+54.4% y/y), and earnings per share (adjusted) reached 2.20 USD (+74.6% y/y).
-
-### Quarterly results
-
-Earnings per share (GAAP) was 2.19 USD (+76.6% y/y), while earnings per share (GAAP, basic) was at 2.20 USD (+77.4% y/y).
-
-### Management commentary
-
-According to management, China's share of revenue in the December quarter will be significantly lower, mainly due to Chinese domestic customers. Management also noted that there is no one-time revenue in the December quarter, and equipment that does not ship in December will be shipped in the March quarter.
 
 

@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0039: Cadence Design Systems: wyniki za 3Q2026
+
+Data: 2026-10-29 08:17
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0039/
+
+
+Przychody Cadence Design Systems (CDNS) w trzecim kwartale wyniosły 1,63 mld USD (+22,0% r/r), natomiast zysk na akcję (skorygowany) wzrósł o 9,3% r/r do poziomu 2,11 USD.
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy) wyniósł 1,05 USD (0,0% r/r), a zysk na akcję (księgowy, podstawowy) ukształtował się na poziomie 1,06 USD (0,0% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów w czwartym kwartale w przedziale 1,70 mld USD – 1,73 mld USD, a za cały rok obrotowy prognozuje przychody na poziomie 6,39 mld USD – 6,42 mld USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że przychody powtarzalne radzą sobie bardzo dobrze, a agenci AI zwiększają korzystanie z podstawowych narzędzi spółki. Według zarządu agenci AI napędzają popyt na narzędzia do projektowania chipów, ponieważ mogą wielokrotnie wywoływać silniki obliczeniowe spółki. Zarząd wskazał, że strategia firmy polega na sprzedaży wartościowego oprogramowania inżynierskiego, a nie na budowie dużej infrastruktury AI ogólnego przeznaczenia. Według zarządu sprzęt do weryfikacji projektów odnotował kolejny rekordowy kwartał dzięki popytowi klientów z branży AI, a w kolejnych kwartałach spółka spodziewa się kolejnego rekordowego roku w segmencie sprzętowym, mimo że sprzedaż może wahać się między kwartałami.
+
+
+---
+
 ## Fundamenty #0038: T-Mobile US: wyniki za 3Q2026
 
 Data: 2026-10-29 02:20
@@ -984,24 +1007,5 @@ Zysk na akcję (skorygowany) wyniósł 0,48 USD (−4,0% r/r) względem 0,50 USD
 ### Co mówi zarząd
 
 Zarząd wskazał, że wpływ Robotaxi na wyniki nie będzie widoczny w bieżącym okresie, a znaczenie tego segmentu ma stać się zauważalne prawdopodobnie w drugim kwartale przyszłego roku oraz w trzecim lub czwartym kwartale. Według zarządu pierwsze samochody klientów mogą dołączyć do floty Robotaxi mniej więcej w drugim kwartale przyszłego roku.
-
-
----
-
-## Fundamenty #0015: Lam Research: wyniki za 1Q2027
-
-Data: 2026-10-22 11:23
-Adres: https://heniu.blog/f-log/flog-2026-10-22-0015/
-
-
-Przychody Lam Research (LRCX) w I kwartale roku obrotowego 2027 wyniosły 8,22 mld USD (+54,4% r/r), a zysk na akcję (skorygowany) osiągnął poziom 2,20 USD (+74,6% r/r).
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy) wyniósł 2,19 USD (+76,6% r/r), natomiast zysk na akcję (księgowy, podstawowy) ukształtował się na poziomie 2,20 USD (+77,4% r/r).
-
-### Co mówi zarząd
-
-Według zarządu udział Chin w przychodach w kwartale grudniowym będzie wyraźnie niższy, głównie przez chińskich klientów krajowych. Zarząd zaznaczył również, że w kwartale grudniowym nie ma przychodów jednorazowych, a sprzęt, który nie zdąży wyjechać w grudniu, zostanie wysłany w kwartale marcowym.
 
 

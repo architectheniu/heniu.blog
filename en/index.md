@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0039: Cadence Design Systems: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0039/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/en/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/en/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamentals #0038: T-Mobile US: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0038/index.md) (2026-10-29)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Log #0208: Dysonian Stabilization in the Shadow of a Singularity](https://heniu.blog/en/posts/log-0208/index.md) (2026-10-21)
 - [Fundamentals #0012: Intuitive Surgical: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-21-0012/index.md) (2026-10-21)
 - [Fundamentals #0010: Vertex Pharmaceuticals filing; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-21-0010/index.md) (2026-10-21)
-- [H1: 2026-10-20](https://heniu.blog/en/h-log/hlog-2026-10-20/index.md) (2026-10-20)
 
