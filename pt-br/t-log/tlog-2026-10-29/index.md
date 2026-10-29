@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 18:45
+Data: 2026-10-29 19:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 18:59]</h3>
+<p>[T-LOG: 2026-10-29 18:59]</p>
+<p>a Estrela NDX apresenta forte pressão de venda (CVD: -13,48M), o que, com o preço atual de 29306.27 (-1.70%) e ADR de 65.70%, indica a testagem de níveis mais profundos. a Sonda NQ está no nível 29459.00 (-1.74%), onde foi registrada acumulação (CVD: 17,39K). o Satélite QQQ apresenta teste de demanda (CVD: 625,55K) ao preço de 712.88 (-1.75%). a Amplitude de mercado (TICKQ) (12.00) está em fase de teste de demanda, embora permaneça abaixo da média SMA200 (27.64), o que sugere a falta de força total de recuperação. a Massa da Galáxia é de 41.33 T (Delta: -0.05 T), e a Ação Média caiu para o nível de $303.99 (Delta: -0.39 USD), o que significa o encolhimento da cesta. na Esfera de Dyson o Put/Call Ratio é de 1.16, com a volatilidade IV no nível de 21.38%. o Vetor de mercado (Q-Score) é 7, o que indica um balanço de forças quase neutro, mas levemente positivo.</p>
+<p>Sistema em fase de divergência (Cross-Asset Divergence): venda agressiva no Núcleo (NDX) contrasta com tentativas de acumulação na Sonda (NQ) e no Satélite (QQQ).</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 18:54 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-29 18:44]</h3>
 <p>[T-LOG: 2026-10-29 18:44]</p>
 <p>O suporte HVN do ecossistema US100 foi QUEBRADO no nível NDX 29360 (NQ ≈ 29514). O sistema encontra-se em uma fase de expansão rápida do espaço de queda. O satélite QQQ apresenta um teste de demanda (CVD: 763,49K). Ocorre uma clara estratificação do sistema (Cross-Asset Divergence): a agressão de venda na Estrela-Mãe não encontra reflexo nos vetores da Sonda e do Satélite, o que sugere um fluxo assimétrico e uma tentativa de absorção de oferta em níveis mais baixos.</p>

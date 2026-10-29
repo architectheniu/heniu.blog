@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 18:44
+Data: 2026-10-29 18:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 18:59]</h3>
+<p>[T-LOG: 2026-10-29 18:59]</p>
+<p>Gwiazda NDX wykazuje silną presję podażową (CVD: -13,48M), co przy obecnej cenie 29306.27 (-1.70%) i ADR 65.70% wskazuje na testowanie głębszych poziomów. Sonda NQ znajduje się na poziomie 29459.00 (-1.74%), gdzie odnotowano akumulację (CVD: 17,39K). Satelita QQQ wykazuje test popytu (CVD: 625,55K) przy cenie 712.88 (-1.75%). Szeroka Giełda TICKQ (12.00) znajduje się w fazie testu popytu, choć pozostaje poniżej średniej SMA200 (27.64), co sugeruje brak pełnej siły odbicia. Masa Galaktyki wynosi 41.33 T (Delta: -0.05 T), a Średnia Akcja spadła do poziomu $303.99 (Delta: -0.39 USD), co oznacza kurczenie się koszyka. W Sferze Dysona Put/Call Ratio wynosi 1.16, przy zmienności IV na poziomie 21.38%. Wektor rynkowy (Q-Score) wynosi 7, co wskazuje na niemal neutralny, lecz lekko dodatni balans sił.</p>
+<p>Układ w fazie rozwarstwienia (Cross-Asset Divergence): agresywna wyprzedaż w Jądrze (NDX) kontrastuje z próbami akumulacji na Sondzie (NQ) i Satelicie (QQQ).</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 18:54 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-29 18:44]</h3>
 <p>[T-LOG: 2026-10-29 18:44]</p>
 <p>OBALONO wsparcie HVN ekosystemu US100 na poziomie NDX 29360 (NQ ≈ 29514). Układ znajduje się w fazie gwałtownego rozszerzania przestrzeni spadkowej. Satelita QQQ wykazuje test popytu (CVD: 763,49K). Występuje wyraźne rozwarstwienie układu (Cross-Asset Divergence): agresja sprzedażowa na Gwiazdzie Matce nie znajduje odzwierciedlenia w wektorach Sondy i Satelity, co sugeruje asymetryczny przepływ i próbę absorpcji podaży na niższych poziomach.</p>
