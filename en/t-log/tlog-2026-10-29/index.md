@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Date: 2026-10-29 10:59
+Date: 2026-10-29 11:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.29 [EN]</h1>
+<h3>🌌 [2026-10-29 11:29]</h3>
+<p>[STATUS TELEMETRY: OPEN]<br />
+[MODE: FUTURES - ANALYSIS EXCLUSIVELY OF THE NQ PROBE]</p>
+<p>The NQ Probe is currently at 29655.25 (-1.08%). The Q-Score directional vector is 35 (Delta: +0.0), indicating a persistent, though stable, trend. CVD measurements show a value of 4.74K, which according to protocol classifies the Probe's state as a "demand test". ADR is 54.45%, situating current volatility above historical averages. In the Dyson Sphere (QQQ options), IV was recorded at 21.38% with the expected range between 716.53 – 734.69. The Put/Call Ratio is 1.11, indicating volume asymmetry in favor of Put contracts. Other objects (NDX, QQQ, TICKQ) remain in a dormant state due to the close of the cash session. [NO DATA] for macro parameters and Background Radiation (TICKQ) in the current mode.</p>
+<p>The System is in a demand test phase with elevated volatility.</p>
+<p>Log: 2026-10-29 11:29</p>
 <h3>🌌 [2026-10-29 10:59]</h3>
 <p>[TELEMETRY: FUTURES MODE - NQ PROBE ANALYSIS]</p>
 <p>NQ Probe: 29699.25 (-0.93%). CVD: 5,61K [demand test]. Q-Score: 35 (Delta: +0.0). ADR: 54.45% (above average). the Dyson Sphere (QQQ): IV 21.38%, Put/Call Ratio 1.11.</p>

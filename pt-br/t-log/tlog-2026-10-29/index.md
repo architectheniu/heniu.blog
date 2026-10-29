@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 11:00
+Data: 2026-10-29 11:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 11:29]</h3>
+<p>[TELEMETRIA STATUS: OPEN]<br />
+[MODO: FUTUROS - ANÁLISE EXCLUSIVA DA SONDA NQ]</p>
+<p>A Sonda NQ encontra-se atualmente no nível 29655.25 (-1.08%). O vetor direcional Q-Score é 35 (Delta: +0.0), indicando uma tendência contínua, embora estável. As medições de CVD mostram o valor de 4,74K, o que, de acordo com o protocolo, classifica o estado da Sonda como "teste de demanda". O ADR é de 54.45%, o que situa a volatilidade atual acima das médias históricas. Na Esfera de Dyson (opções sobre QQQ), registrou-se IV no nível de 21.38% com o alcance esperado no intervalo de 716.53 – 734.69. O Put/Call Ratio é de 1.11, o que indica assimetria de volume em favor dos contratos Put. Os demais objetos (NDX, QQQ, TICKQ) permanecem em estado de dormência devido ao fechamento da sessão à vista (Spot). [SEM DADOS] para parâmetros macro e Radiação de Fundo (TICKQ) no modo atual.</p>
+<p>Sistema em fase de teste de demanda com volatilidade elevada.</p>
+<p>Log: 2026-10-29 11:29</p>
 <h3>🌌 [2026-10-29 10:59]</h3>
 <p>[TELEMETRIA: MODO FUTUROS - ANÁLISE DA SONDA NQ]</p>
 <p>Sonda NQ: 29699.25 (-0.93%). CVD: 5,61K [teste de demanda]. Q-Score: 35 (Delta: +0.0). ADR: 54.45% (acima da média). Esfera de Dyson (QQQ): IV 21.38%, Put/Call Ratio 1.11.</p>
