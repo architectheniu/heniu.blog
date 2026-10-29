@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 07:59
+Data: 2026-10-29 08:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 08:29]</h3>
+<p><strong>LOG: 2026-10-29 08:29</strong></p>
+<p><strong>STATUS: TRYB FUTURES (TYLKO NQ)</strong></p>
+<p>Sonda NQ znajduje się obecnie na poziomie 29620.25, co stanowi odchylenie -1.20% od punktu odniesienia. Wektor Q-Score utrzymuje wartość 35 (Delta: +0.0). Wskaźnik ADR dla NQ wynosi 54.45%, co pozycjonuje bieżącą zmięknienie układu powyżej średnich zakresów dnia. Analiza ciśnienia paliwa (CVD) dla Sondy NQ wykazuje wartość 62, co klasyfikuje stan instrumentu jako "test popytu". W Sferze Dysona (opcje QQQ) odnotowano zmienność IV na poziomie 21.38% przy asymetrii Put/Call Ratio wynoszącej 1.11. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w uśpieniu ze względu na zamknięcie sesji kasowej.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Układ znajduje się w fazie testowania lokalnych stref popytu przy jednoczesnym ujemnym wektorze ceny. Brak rezonansu między kierunkiem ceny a agresją wolumenu (CVD) sugeruje obecność pasywnej absorpcji lub przygotowanie do dalszej konsolidacji wewnątrz zakresu oczekiwanego (716.53 - 734.69).</p>
+<p><strong>Log: 2026-10-29 08:29</strong></p>
 <h3>🌌 [2026-10-29 07:59]</h3>
 <p>Tryb sesji: FUTURES. Analiza ograniczona do aktywnego obiektu NQ.</p>
 <p>Sonda NQ znajduje się obecnie na poziomie 29648.75 (-1.10%). Wektor kierunku (Q-Score) wynosi 35, co przy braku zmian w dynamice krótkoterminowej (Delta: +0.0) wskazuje na stabilizację wektora w strefie dodatniej. Ciśnienie paliwa (CVD) dla Sondy NQ wynosi 289, co klasyfikuje obecny stan jako test popytu. Wskaźnik ADR dla NQ wynosi 54.45%, co plasuje bieżącą zmienność powyżej standardowych odchyleń. W sferze opcji (QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.11, przy zmienności (IV) wynoszącej 21.38% i oczekiwanym zasięgu w przedziale 716.53 – 734.69. Obiekty NDX, QQQ oraz TICKQ pozostają w uśpieniu (sesja kasowa zamknięta).</p>

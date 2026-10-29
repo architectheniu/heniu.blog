@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 07:59
+Data: 2026-10-29 08:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 08:29]</h3>
+<p><strong>LOG: 2026-10-29 08:29</strong></p>
+<p><strong>STATUS: MODO FUTUROS (APENAS NQ)</strong></p>
+<p>a Sonda NQ encontra-se atualmente no nível 29620.25, o que representa um desvio de -1.20% do ponto de referência. O vetor Q-Score mantém o valor de 35 (Delta: +0.0). O indicador ADR para NQ é de 54.45%, o que posiciona o atual amolecimento do sistema acima das médias de amplitude diária. A análise do fluxo de energia (CVD) para a Sonda NQ mostra um valor de 62, o que classifica o estado do instrumento como "teste de demanda". Na Esfera de Dyson (opções QQQ), registrou-se volatilidade IV no nível de 21.38% com uma assimetria Put/Call Ratio de 1.11. Os demais objetos (NDX, QQQ, TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot).</p>
+<p><strong>DIAGNÓSTICO DO SISTEMA:</strong><br />
+O sistema encontra-se em fase de teste de zonas locais de demanda com um vetor de preço negativo simultâneo. A falta de ressonância entre a direção do preço e a agressão de volume (CVD) sugere a presença de absorção passiva ou preparação para uma maior consolidação dentro do intervalo esperado (716.53 - 734.69).</p>
+<p><strong>Log: 2026-10-29 08:29</strong></p>
 <h3>🌌 [2026-10-29 07:59]</h3>
 <p>Modo de sessão: a sessão de futuros. Análise limitada ao objeto ativo NQ.</p>
 <p>a Sonda NQ encontra-se atualmente no nível 29648.75 (-1.10%). O vetor de direção (Q-Score) é de 35, o que, na ausência de mudanças na dinâmica de curto prazo (Delta: +0.0), indica uma estabilização do vetor na zona positiva. A pressão do combustível (CVD) para a Sonda NQ é de 289, o que classifica o estado atual como um teste de demanda. O indicador ADR para NQ é de 54.45%, o que posiciona a volatilidade atual acima dos desvios padrão. Na Esfera de Dyson (QQQ), foi registrada uma assimetria de volume com Put/Call Ratio no nível de 1.11, com volatilidade (IV) de 21.38% e alcance esperado no intervalo de 716.53 – 734.69. Os objetos NDX, QQQ e TICKQ permanecem em dormência (a sessão à vista (Spot) está fechada).</p>
