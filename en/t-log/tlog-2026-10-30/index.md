@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Date: 2026-10-30 00:29
+Date: 2026-10-30 00:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.30 [EN]</h1>
+<h3>⏱️ [2026-10-30 00:59] · Futures (cash market closed)</h3>
+<ul>
+<li><strong>NQ contract:</strong> <strong>29113.00</strong> (-1.52%; since the previous entry +25.50 pts, +0.09%) · share of the average daily range (ADR) used <strong>25.00%</strong></li>
+<li><strong>NQ flow:</strong> CVD <strong>-2.44 K</strong> [supply test] (since the previous entry +0.93 K) · direction gauge <strong>30</strong> (±100 scale; +0)</li>
+<li>NDX, QQQ, market breadth and the company basket return with the opening of the cash session at 14:30 Polish time.</li>
+</ul>
+<p>The value of the NQ contract increased compared to the previous reading, although a downward trend persists. CVD flow shows an increase, which contradicts the direction of the contract price movement.</p>
 <h3>⏱️ [2026-10-30 00:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>29087.50</strong> (-1.61%; since the previous entry +38.25 pts, +0.13%) · share of the average daily range (ADR) used <strong>25.00%</strong></li>
