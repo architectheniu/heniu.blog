@@ -1,0 +1,19 @@
+# Fundamentals #0047: Monolithic Power Systems: 3Q2026 results
+
+Date: 2026-10-30 00:23
+URL: https://heniu.blog/en/f-log/flog-2026-10-29-0047/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Monolithic Power Systems (MPWR) revenue in the third quarter was 1.20 billion USD (+63.1% y/y), and earnings per share (adjusted) reached 8.19 USD (+73.2% y/y).
+
+### Quarterly results
+
+Gross margin was 55.4% (0.3 pp y/y), while operating income was 357.69 million USD (+83.3% y/y). Earnings per share (GAAP) was 5.51 USD (+47.3% y/y), and earnings per share (GAAP, basic) reached 5.53 USD (+47.5% y/y).
+
+### What management says
+
+Management assesses growth drivers very well, although they indicate it is still too early for next year's forecast. According to management, notebook sales are weaker due to memory shortages at manufacturers, but in the long term, this market is viewed optimistically thanks to technology and market share. Management emphasized that at the current growth rate, operating costs will come in below the company's model due to R&D efficiency. According to management, increasing production capacity should not require a large increase in capital expenditures or a change in capital structure. Management also noted that the company is not raising prices, but rather sharing part of the cost increase with customers.
+
