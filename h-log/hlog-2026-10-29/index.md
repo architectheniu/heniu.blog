@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 19:07
+Data: 2026-10-29 20:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.29</h1>
+<h3>📈 [2026-10-29 20:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX odnotował spadek o 1.65% do poziomu 29321.29, co stanowi cofnięcie o 526 pkt od szczytu z 28.10 (29847.38). Mimo spadku ceny, skumulowany przepływ (CVD) dla NDX wynosi −4,17 M, co wskazuje na test podaży. Kontrakty NQ spadły o 1.67% (29477.75) przy dodatnim CVD (16,49 K), natomiast ETF QQQ spadł o 1.70% (713.26) przy CVD na poziomie 787,21 K, co sugeruje test popytu w sektorze kasowym. Wskaźnik kierunku przepływów wynosi 12, co oznacza słabą przewagę napływu kapitału.</li>
+<li><strong>Rynek szeroki i zmienność:</strong> Wskaźnik TICKQ wynosi 91.00, co przy średniej SMA200 na poziomie 26.27 wskazuje na silną presję sprzedażową w szerokim rynku akcji Nasdaq. Zmienność implikowana (IV) dla opcji QQQ wynosi 22.37%, przy wolumenie 5,235,120 kontraktów. Put/Call Ratio na poziomie 1.19 wskazuje na przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na dalszą presję spadkową. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 705.29 do 719.57.</li>
+<li><strong>Analiza techniczna i poziomy:</strong> Bieżąca korekta jest płytka na tle historycznych ruchów (największa: -11.96%). Kluczowe węzły wolumenu znajdują się w strefie wsparcia 29090–29110 (1.3% wolumenu) oraz w strefie oporu 29410–29430 (0.8% wolumenu). Obecna cena NDX (29321.29) znajduje się w strefie o wysokiej koncentracji wolumenu (29310–29330), co może determinować najbliższe reakcje rynku.</li>
+</ul>
+<p>Raport H-Log: 2026-10-29 20:07</p>
 <h3>📈 [2026-10-29 19:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
