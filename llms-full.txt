@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0046: Mondelez International: wyniki za 3Q2026
+
+Data: 2026-10-30 00:20
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0046/
+
+
+Przychody Mondelez International (MDLZ) w trzecim kwartale wyniosły 9,97 mld USD (+2,3% r/r), a zysk netto wzrósł o 75,3% r/r do poziomu 1,31 mld USD.
+
+### Wyniki kwartału
+
+Zysk operacyjny osiągnął 1,76 mld USD (+136,3% r/r), natomiast zysk na akcję (księgowy) oraz zysk na akcję (księgowy, podstawowy) wyniosły 1,02 USD (+79,0% r/r). Skorygowany zysk na akcję ukształtował się na poziomie 0,78 USD.
+
+### Prognoza spółki
+
+Spółka spodziewa się wolnych przepływów pieniężnych na poziomie 3,00 mld USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że zaufanie konsumentów na rynkach wschodzących pozostaje odporne, a sprzedaż czekolady w Brazylii zaczyna odbijać pod względem wolumenu. Według zarządu nowa taktyka promocji w Ameryce Północnej przynosi dobre efekty, a mimo słabszej sytuacji w Chinach, spółka patrzy na ten rynek pozytywnie. Zarząd wskazywał, że nadwyżki będą reinwestowane w rynki wschodzące oraz nowości produktowe, a koszty związane z wojną na Bliskim Wschodzie są uwzględnione w obecnej prognozie. Według zarządu zapasy kakao są na odpowiednim poziomie, co pozwala pokryć ewentualne niedobory, a w zakresie rozwoju spółka nie szuka dużych przejęć, lecz celowanych mniejszych zakupów uzupełniających luki regionalne i produktowe.
+
+
+---
+
 ## Fundamenty #0045: Gilead Sciences: wyniki za 3Q2026
 
 Data: 2026-10-30 00:17
@@ -921,86 +944,6 @@ Układ znajduje się w stanie wysokiej niestabilności termodynamicznej. Silny s
     "name": "Heniu.blog"
   },
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
-}
-</script>
-
-
----
-
-## Log #0210: Podsumowanie sesji 2026-10-23: NDX 28956.26 (0.00%)
-
-Data: 2026-10-23 22:03
-Adres: https://heniu.blog/posts/log-0210/
-
-
-**Data sesji:** 2026-10-23
-
-> *Zamknięcie sesji 2026-10-23: NDX 28956.26 (0.00%), NQ 29129.75 (-0.04%), QQQ 704.39 (-0.02%).*
-
----
-
-### Przebieg sesji
-
-**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (15:30 PL) przy poziomie NDX 28857.26. W pierwszych 30 minutach NDX wzrósł o 147.34 pkt do poziomu 29004.60. Minimum sesji wyniosło 28827.46 o 9:37 ET (15:37 PL), a maksimum 29159.78 o 10:53 ET (16:53 PL). Zamknięcie na poziomie 28956.26 znajduje się 203.52 pkt poniżej maksimum oraz 128.80 pkt powyżej minimum.
-
-**Przepływy i szerokość rynku.** Kierunek przepływu skumulowanego (CVD) był dodatni dla NDX, NQ i QQQ, co oznacza zgodność kierunków na tych trzech instrumentach. Odczyt TICKQ na zamknięciu wyniósł 511.00, podczas gdy średnia SMA200 wynosiła -21.55. Udział spółek o kapitalizacji powyżej 1 bln USD w koszyku wynosił 66.17%.
-
-**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX spadł o 31.24 pkt do poziomu 28956.26. Anomalia na zamknięciu (MOC) wyniosła +24,23 M. Zmienność implikowana (IV) dla opcji na QQQ wynosiła 25.05%, a stosunek put/call wyniósł 1.43.
-
-**Bilans dnia.** Indeks Nasdaq-100 zamknął się na poziomie 28956.26.
-
----
-
-### Telemetria Zamknięcia
-
-* **Indeks Nasdaq-100 (NDX):** zamknięcie **28956.26 (0.00%)**
-    * Przepływ skumulowany (CVD): **188,83 M [euforia]**
-    * Anomalia na zamknięciu (MOC): **+24,23 M**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **84.95%**
-    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-7.27%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
-
-* **Kontrakt terminowy NQ:** zamknięcie **29129.75 (-0.04%)**
-    * Przepływ skumulowany (CVD): **46,2 K [wystrzał rynku]**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **60.81%**
-
-* **ETF QQQ:** zamknięcie **704.39 (-0.02%)**
-    * Przepływ skumulowany (CVD): **2,19 M [wystrzał rynku]**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **83.83%**
-
-* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **511.00 [wystrzał rynku]**
-    * Średnia 200 odczytów (SMA200): **-21.55 [wyprzedaż]**
-
-* **Opcje na QQQ:**
-    * Zmienność implikowana (IV): **25.05%**
-    * Stosunek put/call (otwarte pozycje, OI): **1.43**
-
-* **Koszyk Nasdaq-100:**
-    * Łączna kapitalizacja: **41.20 bln USD** (zmiana od poprzedniego zamknięcia: **-0.05 bln USD**)
-    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **66.17%** (zmiana: **-0.09 pkt proc.**)
-    * Średnia cena akcji w koszyku: **$297.51** (zmiana: **$-1.45**)
-    * Zmiany w grupie spółek powyżej 1 bln USD: **bez zmian**
-
-* **Zdrowie danych sesji:** odczyty przez 100,0% sesji kasowej; bez luk dłuższych niż minuta; NDX bez zmiany dłużej niż 2 min w 0,1% odczytów
-
----
-
-[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0210/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Podsumowanie sesji Nasdaq-100 2026-10-23",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
 

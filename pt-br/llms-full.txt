@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0046: Mondelez International: resultados do 3Q2026
+
+Data: 2026-10-30 00:20
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-29-0046/
+
+
+A receita da Mondelez International (MDLZ) no terceiro trimestre foi de 9,97 bi USD (+2,3% a/a), e o lucro líquido aumentou 75,3% a/a para o nível de 1,31 bi USD.
+
+### Resultados do trimestre
+
+O lucro operacional atingiu 1,76 bi USD (+136,3% a/a), enquanto o lucro por ação (contábil) e o lucro por ação (contábil, básico) foram de 1,02 USD (+79,0% a/a). O lucro por ação ajustado situou-se no nível de 0,78 USD.
+
+### Projeção da empresa
+
+A empresa espera fluxos de caixa livres no nível de 3,00 bi USD.
+
+### O que diz a diretoria
+
+A diretoria enfatizou que a confiança dos consumidores em mercados emergentes permanece resiliente, e as vendas de chocolate no Brasil começam a se recuperar em termos de volume. Segundo a diretoria, a nova tática de promoção na América do Norte está trazendo bons resultados e, apesar da situação mais fraca na China, a empresa vê este mercado de forma positiva. A diretoria indicou que os excedentes serão reinvestidos em mercados emergentes e em novidades de produtos, e os custos relacionados à guerra no Oriente Médio estão incluídos na projeção atual. Segundo a diretoria, os estoques de cacau estão em um nível adequado, o que permite cobrir eventuais escassez, e no que diz respeito ao desenvolvimento, a empresa não busca grandes aquisições, mas sim compras menores e direcionadas para preencher lacunas regionais e de produtos.
+
+
+---
+
 ## Fundamentos #0045: Gilead Sciences: resultados do 3Q2026
 
 Data: 2026-10-30 00:17
@@ -921,86 +944,6 @@ O sistema encontra-se em um estado de alta instabilidade termodinâmica. O forte
     "name": "Heniu.blog"
   },
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
-}
-</script>
-
-
----
-
-## Log #0210: Resumo da sessão 2026-10-23: NDX 28956.26 (0.00%)
-
-Data: 2026-10-23 22:03
-Endereço: https://heniu.blog/pt-br/posts/log-0210/
-
-
-**Data da sessão:** 2026-10-23
-
-> *Fechamento da sessão 2026-10-23: NDX 28956.26 (0.00%), NQ 29129.75 (-0.04%), QQQ 704.39 (-0.02%).*
-
----
-
-### Visão geral da sessão
-
-**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 28857.26. Nos primeiros 30 minutos, o NDX subiu 147.34 pts para o nível 29004.60. A mínima da sessão foi 28827.46 às 9:37 ET (15:37 PL), e a máxima 29159.78 às 10:53 ET (16:53 PL). O fechamento no nível 28956.26 está 203.52 pts abaixo da máxima e 128.80 pts acima da mínima.
-
-**Fluxos e amplitude de mercado.** A direção do fluxo acumulado (CVD) foi positiva para NDX, NQ e QQQ, o que significa a convergência de direções nestes três instrumentos. A leitura da Radiação de Fundo (TICKQ) no fechamento foi 511.00, enquanto a média SMA200 era -21.55. A participação de empresas com capitalização acima de 1 trilhão de USD na cesta era de 66.17%.
-
-**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX caiu 31.24 pts para o nível 28956.26. A Anomalia MOC no fechamento foi de +24,23 M. A volatilidade implícita (IV) para as opções sobre QQQ era de 25.05%, e a relação put/call foi de 1.43.
-
-**Balanço do dia.** O Índice Nasdaq-100 fechou no nível 28956.26.
-
----
-
-### Telemetria de Fechamento
-
-* **Índice Nasdaq-100 (NDX):** fechamento **28956.26 (0.00%)**
-    * Fluxo acumulado (CVD): **188,83 M [euforia]**
-    * Anomalia MOC: **+24,23 M**
-    * Uso da amplitude diária média (ADR): **84.95%**
-    * Recuo desde o maior fechamento registrado pelo Heniu: **-7.27%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **Contrato futuro NQ:** fechamento **29129.75 (-0.04%)**
-    * Fluxo acumulado (CVD): **46,2 K [erupção do mercado]**
-    * Uso da amplitude diária média (ADR): **60.81%**
-
-* **ETF QQQ:** fechamento **704.39 (-0.02%)**
-    * Fluxo acumulado (CVD): **2,19 M [erupção do mercado]**
-    * Uso da amplitude diária média (ADR): **83.83%**
-
-* **Amplitude de mercado (TICKQ):** leitura no fechamento **511.00 [erupção do mercado]**
-    * Média de 200 leituras (SMA200): **-21.55 [liquidação]**
-
-* **Opções sobre QQQ:**
-    * Volatilidade implícita (IV): **25.05%**
-    * Relação put/call (posições abertas, OI): **1.43**
-
-* **Cesta Nasdaq-100:**
-    * Capitalização total: **41.20 trilhões de USD** (mudança desde o fechamento anterior: **-0.05 trilhões de USD**)
-    * Participação de empresas acima de 1 trilhão de USD na capitalização da cesta: **66.17%** (mudança: **-0.09 p.p.**)
-    * Preço médio das ações na cesta: **$297.51** (mudança: **$-1.45**)
-    * Mudanças no grupo de empresas acima de 1 trilhão de USD: **sem alterações**
-
-* **Saúde dos dados da sessão:** leituras por 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem alteração por mais de 2 min em 0,1% das leituras
-
----
-
-[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0210/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Resumo da sessão Nasdaq-100 2026-10-23",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
 
