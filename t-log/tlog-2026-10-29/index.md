@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 16:29
+Data: 2026-10-29 16:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,20 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 16:44]</h3>
+<p>[TELEMETRIA_LOG: 2026-10-29 16:44]</p>
+<p><strong>STATUS: SPOT SESSION ACTIVE</strong></p>
+<p><strong>Obiekty Orbitalne:</strong><br />
+Gwiazda NDX (29479.35, -1.12%) wykazuje test popytu (CVD: 5,07M). Sonda NQ (29633.00, -1.15%) znajduje się w fazie akumulacji (CVD: 26,34K). Satelita QQQ (717.01, -1.19%) potwierdza test popytu (CVD: 709,02K).</p>
+<p><strong>Fizyka Układu:</strong><br />
+Wektor kierunkowy Q-Score wynosi 22. Szeroka Giełda TICKQ (14.00) wskazuje na test popytu, jednak pozostaje poniżej średniej radiacji SMA200 (26.43), co sygnalizuje stan BELOW. Trend promieniowania (SMA200) wykazuje malejącą dynamikę (-1.48). W Sferze Dysona (QQQ) zmienność IV wynosi 21.52% przy asymetrii wolumenu Put/Call na poziomie 1.18.</p>
+<p><strong>Masa i Gęstość:</strong><br />
+Masa Galaktyki wynosi 41.57 T (Delta: +0.06 T). Średnia Akcja (Notional Value) oscyluje wokół $306.00 (Delta: +0.32 USD), co wskazuje na powolną ekspansję koszyka. Gęstość Jądra pozostaje stabilna na poziomie 67.9%. ADR dla wszystkich kluczowych obiektów jest powyżej odczytów historycznych.</p>
+<p><strong>Analiza Kinematyczna:</strong><br />
+Występuje rozwarstwienie układu (Cross-Asset Divergence): mimo ujemnych zmian cenowych wszystkich instrumentów, agresywny wolumen (CVD) wykazuje dodatnią sygnaturę, co sugeruje pasywną absorpcję podaży w strefach wsparcia. Wektory mikro i makro nie wykazują obecnie rezonansu kinetycznego.</p>
+<p><strong>DIAGNOSTYCZNA KONKLUZJA:</strong><br />
+Układ w fazie grawitacyjnego napięcia; agresywny popyt napiera na strukturę przy jednoczesnej realizacji zysków, prowadząc do absorpcji wolumenu w niskich rejestrach.</p>
+<p>Log: 2026-10-29 16:44</p>
 <h3>🌌 [2026-10-29 16:29]</h3>
 <p>[T-LOG: 2026-10-29 16:29]</p>
 <p><strong>STATUS: SPOT | TRYB: PEŁNY</strong></p>
