@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Date: 2026-10-29 03:29
+Date: 2026-10-29 03:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,9 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.29 [EN]</h1>
+<h3>🌌 [2026-10-29 03:59]</h3>
+<p>the NQ Probe is in FUTURES mode at level 29550.75 (-1.43%). During the session, dynamic activity was recorded in the HVN zone: first, support at level 29330 was broken, only to immediately reclaim that barrier. The current market vector (Q-Score) is 15, indicating extremely low, near-zero system energy. The fuel pressure (CVD) for the NQ Probe is -6k, classifying the state as a supply test. ADR NQ holds at 54.45%. In the Dyson Sphere (QQQ options), volume asymmetry was noted with a Put/Call Ratio at 1.11, with IV volatility at 21.38% and expected range in the 716.53 – 734.69 interval. Other objects (NDX, QQQ, TICKQ) remain in dormancy due to the close of the cash session (Spot).</p>
+<p>The system is in a supply testing phase with low vector kinetics.</p>
 <h3>🌌 [2026-10-29 03:29]</h3>
 <p>[TELEMETRY - TACTICAL REPORT]<br />
 Status: OPEN | Mode: the futures session (NQ Active)</p>
