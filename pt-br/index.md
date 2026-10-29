@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0037: KLA: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0037/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/pt-br/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/pt-br/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamentos #0036: Honeywell Aerospace: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0036/index.md) (2026-10-29)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0011: Space Exploration Technologies: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-21-0011/index.md) (2026-10-21)
 - [Fundamentos #0010: Notificação da empresa Vertex Pharmaceuticals; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-21-0010/index.md) (2026-10-21)
 - [H1: 2026-10-20](https://heniu.blog/pt-br/h-log/hlog-2026-10-20/index.md) (2026-10-20)
-- [M15: 2026-10-20](https://heniu.blog/pt-br/t-log/tlog-2026-10-20/index.md) (2026-10-20)
 
