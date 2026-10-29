@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 20:29
+Data: 2026-10-29 20:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 20:44]</h3>
+<p>[T-LOG: 2026-10-29 20:44]</p>
+<p><strong>STATUS: SPOT ACTIVE</strong></p>
+<p>Wykryto gwałtowną aktywność w strefie zapór HVN: na poziomie NDX 29360 (NQ ≈ 29518) przebito zaporę w górę, jednak zaledwie 10 minut później wsparcie zostało obalone (NQ ≈ 29517). Sonda NQ znajduje się obecnie na poziomie 29485.00.</p>
+<p>Szeroka Giełda TICKQ znajduje się w fazie testu podaży (-5.00), pozostając poniżej średniej radiacji SMA200 (28.82). Masa Galaktyki wynosi 41.34 T (Delta: -0.02 T), a Średnia Akcja to $304.11 (Delta: -0.17 USD), co wskazuje na kurczenie się koszyka.</p>
+<p>Wektor kierunkowy Q-Score wynosi 25. Sfera Dysona wykazuje asymetrię wolumenu z Put/Call Ratio na poziomie 1.23. Zmienność IV wynosi 22.07% przy oczekiwanym zasięgu 705.24 - 719.14.</p>
+<p><strong>KONKLUZJA: Rozwarstwienie układu i grawitacyjne napięcie. Agresywna próba przebicia zapory HVN została zneutralizowana, co przy rozbieżnych wektorach CVD między NDX a NQ/QQQ wskazuje na strukturalną asymetrię przepływów.</strong></p>
+<p>Log: 2026-10-29 20:44</p>
 <h3>🌌 [2026-10-29 20:29]</h3>
 <p>[ZDARZENIA WOLUMENOWE]<br />
 Obalenie zapory HVN ekosystemu US100 na poziomie NDX 29310 (NQ ≈ 29468).</p>
