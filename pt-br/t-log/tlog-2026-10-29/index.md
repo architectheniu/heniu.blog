@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 21:00
+Data: 2026-10-29 21:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 21:29]</h3>
+<p>[T-LOG: 2026-10-29 21:29]</p>
+<p>a Sonda NQ encontra-se em uma fase de descompressão intensa, oscilando no nível 29235.00 (-2.49%). Nos últimos minutos, foi registrada uma série de eventos de volume: ocorreu a quebra do suporte HVN na zona 29390 - 29330 e um rompimento abrupto da barreira no nível 28990 (NQ ≈ 29148). O vetor de direção (Q-Score) é de 50, o que indica um equilíbrio neutro de forças no atual regime de futuros. A pressão atual de volume agressivo (CVD) na Sonda NQ é de 5,69K, o que classifica o estado do sistema como um teste de demanda. O ADR NQ mantém-se acima da média (119.33%). Na Esfera de Dyson (opções QQQ), registrou-se assimetria de volume com Put/Call Ratio no nível 1.23 com volatilidade IV de 21.71%. O alcance esperado para a Esfera é 707.21 - 720.11. Os demais objetos (NDX, QQQ, TICKQ) permanecem em estado de dormência devido ao fechamento da sessão à vista (Spot).</p>
+<p>Status do sistema: Consolidação próximo à barreira HVN recém-conquistada com teste de liquidez local.</p>
+<p><strong>Alarmes de fluxo do Log anterior:</strong> 21:00 fluxo repentino de NQ para cima; ignição de fluxo NQ; 21:06 fluxo repentino de NQ para cima; ignição de fluxo NQ; 21:17 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>🌌 [2026-10-29 20:59]</h3>
 <p>Log: 2026-10-29 20:59</p>
 <p>[STATUS: MODO À VISTA - ANÁLISE ATIVA]</p>

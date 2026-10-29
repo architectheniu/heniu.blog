@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 20:59
+Data: 2026-10-29 21:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 21:29]</h3>
+<p>[T-LOG: 2026-10-29 21:29]</p>
+<p>Sonda NQ znajduje się w fazie intensywnej dekompresji, oscylując na poziomie 29235.00 (-2.49%). W ostatnich minutach odnotowano serię zdarzeń wolumenowych: nastąpiło obalenie wsparcia HVN w strefie 29390 - 29330 oraz gwałtowne przebicie zapory na poziomie 28990 (NQ ≈ 29148). Wektor kierunku (Q-Score) wynosi 50, co wskazuje na neutralną równowagę sił w obecnym reżimie Futures. Bieżąca presja agresywnego wolumenu (CVD) na Sondzie NQ wynosi 5,69K, co klasyfikuje stan układu jako test popytu. ADR NQ utrzymuje się powyżej średniej (119.33%). W Sferze Dysona (opcje QQQ) odnotowano asymetrię wolumenu z Put/Call Ratio na poziomie 1.23 przy zmienności IV 21.71%. Zasięg oczekiwany dla Sfery wynosi 707.21 - 720.11. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na zamknięcie sesji kasowej.</p>
+<p>Status układu: Konsolidacja w pobliżu nowo zdobytej zapory HVN z testowaniem lokalnej płynności.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 21:00 nagły przepływ NQ w górę; zapłon przepływu NQ; 21:06 nagły przepływ NQ w górę; zapłon przepływu NQ; 21:17 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-29 20:59]</h3>
 <p>Log: 2026-10-29 20:59</p>
 <p>[STATUS: TRYB SPOT - ANALIZA AKTYWNA]</p>

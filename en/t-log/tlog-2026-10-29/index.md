@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Date: 2026-10-29 21:00
+Date: 2026-10-29 21:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.29 [EN]</h1>
+<h3>🌌 [2026-10-29 21:29]</h3>
+<p>[T-LOG: 2026-10-29 21:29]</p>
+<p>the NQ Probe is in a phase of intense decompression, oscillating at level 29235.00 (-2.49%). In the last minutes, a series of volume events were recorded: the HVN support in the 29390 - 29330 zone was overturned, and a sudden breach of the barrier at level 28990 occurred (NQ ≈ 29148). The direction vector (Q-Score) is 50, indicating a neutral balance of forces in the current Futures regime. Current aggressive volume pressure (CVD) on the NQ Probe is 5.69K, classifying the system state as a demand test. ADR NQ remains above average (119.33%). In the Dyson Sphere (QQQ options), volume asymmetry was recorded with a Put/Call Ratio at level 1.23 with IV volatility of 21.71%. The expected range for the Sphere is 707.21 - 720.11. Other objects (NDX, QQQ, TICKQ) remain in a dormant state due to the close of the cash session (Spot).</p>
+<p>System status: Consolidation near the newly acquired HVN barrier with testing of local liquidity.</p>
+<p><strong>Flow alarms from the previous Log:</strong> 21:00 sudden NQ flow upwards; NQ flow ignition; 21:06 sudden NQ flow upwards; NQ flow ignition; 21:17 sudden NQ flow upwards; NQ flow ignition.</p>
 <h3>🌌 [2026-10-29 20:59]</h3>
 <p>Log: 2026-10-29 20:59</p>
 <p>[STATUS: SPOT MODE - ANALYSIS ACTIVE]</p>
