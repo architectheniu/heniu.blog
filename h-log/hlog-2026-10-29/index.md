@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 17:07
+Data: 2026-10-29 18:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.29</h1>
+<h3>📈 [2026-10-29 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Status rynku i przepływy:</strong> Indeks NDX wynosi 29390.78 (-1.42%), przy skumulowanym przepływie CVD na poziomie -8,58 M akcji, co wskazuje na test podaży. Kontrakty NQ (29541.50, -1.46%) wykazują lekką akumulację (CVD 27,48 K), podczas gdy ETF QQQ (714.83, -1.48%) odnotowuje test popytu (CVD 911,5 K). Wskaźnik kierunku przepływów wynosi 20, co oznacza umiarkowaną przewagę napływu kapitału. Szeroki rynek Nasdaq (TICKQ) znajduje się w silnej fazie spadkowej przy wartości -292.00 (średnia SMA200: 29.85).</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 21.35%, a wolumen opcji to 3,815,454. Put/Call Volume Ratio na poziomie 1.18 sugeruje przewagę pozycji zabezpieczających (hedging) lub wzrost zainteresowania krótkimi pozycjami. Oczekiwany zasięg ruchu w ramach opcji mieści się w przedziale 709.43 do 723.11.</li>
+<li><strong>Kontekst techniczny i poziomy:</strong> Obecne cofnięcie indeksu NDX od szczytu z 28.10 (29847.38) wynosi -1.53% (-457 pkt), co stanowi 1.0 średniego zakresu dnia (ATR 20: 474 pkt). Jest to korekta o charakterze zwykłym, płytsza od ośmiu poprzednich w pamięci systemu. Najbliższe strefy wsparcia (węzeł wolumenu) znajdują się w przedziale 29310–29330 (0.21% poniżej obecnej ceny), natomiast najbliższy opór to strefa 29410–29430 (0.07% powyżej obecnej ceny).</li>
+</ul>
+<p>Raport H-Log: 2026-10-29 18:07</p>
 <h3>📈 [2026-10-29 17:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
