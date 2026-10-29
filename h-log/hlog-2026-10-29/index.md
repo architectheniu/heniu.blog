@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 15:07
+Data: 2026-10-29 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.29</h1>
+<h3>📈 [2026-10-29 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX znajduje się w trendzie spadkowym (-1.39%, cena 29399.50), jednak dane CVD na poziomie 4,15 M dla NDX oraz 513 K dla QQQ wskazują na testowanie popytu na rynku kasowym. Kontrakty NQ wykazują akumulację przy cenie 29552.50 (-1.42%, CVD 15,9 K). Zbiorczy wskaźnik kierunku przepływów wynosi 30, co wskazuje na umiarkowaną przewagę napływu kapitału. Szeroki rynek (TICKQ) przy wartości 127.00 znajduje się znacznie powyżej średniej SMA200 (29.59).</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 21.68%, przy wolumenie opcji 2,084,355. Put/Call Volume Ratio na poziomie 1.20 sugeruje przewagę pozycji krótkich, co wskazuje na budowanie zabezpieczeń (hedging) lub oczekiwanie na dalszą presję podażową. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 705.40 do 721.52.</li>
+<li><strong>Kontekst techniczny i poziomy:</strong> Obecne cofnięcie od szczytu z 28.10 (29847.38) wynosi -1.50% (-448 pkt), co przy ATR wynoszącym 473 pkt oznacza ruch o 0.9 średniego zakresu dnia. Jest to klasyczne, płytkie cofnięcie w ramach trendu. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29310–29330 (1.8% wolumenu), natomiast najbliższy opór to strefa 29410–29430 (0.8% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-10-29 16:07</p>
 <h3>📈 [2026-10-29 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
