@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 12:59
+Data: 2026-10-29 13:30
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 13:29]</h3>
+<p>MODO DE SESSÃO: FUTUROS (Objetos NDX, QQQ, TICKQ em dormência).</p>
+<p>a Sonda NQ: 29643.25 (-1.12%).<br />
+CVD NQ: 5,56 K [teste de demanda].<br />
+Q-Score: 35 (Delta: +0.0).<br />
+ADR NQ: 54.45% (acima da média).<br />
+a Esfera de Dyson (Opções QQQ): IV 21.38%, Put/Call Ratio 1.11.</p>
+<p>Análise cinética: a Sonda NQ apresenta presença de demanda agressiva na camada de CVD, apesar da mudança negativa de preço desde a última leitura. O vetor direcional do Q-Score permanece positivo, o que, com a dinâmica de preço negativa, sugere um processo de absorção passiva de oferta por ordens limit. O sistema encontra-se em fase de teste de demanda em condições de baixa liquidez da sessão fora do mercado à vista. Falta de ressonância de vetores devido à inatividade dos demais sensores.</p>
+<p>DIAGNÓSTICO: Sistema em fase de absorção passiva de oferta; teste de nível de suporte durante o atual teste de demanda por volume agressivo.</p>
+<p>Log: 2026-10-29 13:29</p>
 <h3>🌌 [2026-10-29 12:59]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-29 12:59]<br />
 Status: OPEN | Modo: FUTURES (Apenas NQ)</p>

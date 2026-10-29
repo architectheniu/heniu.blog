@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 12:59
+Data: 2026-10-29 13:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 13:29]</h3>
+<p>TRYB SESJI: FUTURES (Obiekty NDX, QQQ, TICKQ w uśpieniu).</p>
+<p>Sonda NQ: 29643.25 (-1.12%).<br />
+CVD NQ: 5,56 K [test popytu].<br />
+Q-Score: 35 (Delta: +0.0).<br />
+ADR NQ: 54.45% (powyżej średniej).<br />
+Sfera Dysona (Opcje QQQ): IV 21.38%, Put/Call Ratio 1.11.</p>
+<p>Analiza kinetyczna: Sonda NQ wykazuje obecność agresywnego popytu w warstwie CVD, mimo ujemnej zmiany ceny od ostatniego odczytu. Wektor kierunkowy Q-Score pozostaje dodatni, co przy ujemnej dynamice ceny sugeruje proces pasywnej absorpcji podaży przez zlecenia limit. Układ znajduje się w fazie testowania popytu w warunkach niskiej płynności sesji poza-kasowej. Brak rezonansu wektorów ze względu na nieaktywność pozostałych sensorów.</p>
+<p>DIAGNOZA: Układ w fazie pasywnej absorpcji podaży; testowanie poziomu wsparcia przy obecnym testowaniu popytu przez agresywny wolumen.</p>
+<p>Log: 2026-10-29 13:29</p>
 <h3>🌌 [2026-10-29 12:59]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-29 12:59]<br />
 Status: OPEN | Tryb: FUTURES (Tylko NQ)</p>

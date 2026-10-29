@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Date: 2026-10-29 12:59
+Date: 2026-10-29 13:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.29 [EN]</h1>
+<h3>🌌 [2026-10-29 13:29]</h3>
+<p>SESSION MODE: FUTURES (NDX, QQQ, TICKQ objects in sleep mode).</p>
+<p>NQ Probe: 29643.25 (-1.12%).<br />
+NQ CVD: 5,56 K [demand test].<br />
+Q-Score: 35 (Delta: +0.0).<br />
+NQ ADR: 54.45% (above average).<br />
+the Dyson Sphere (QQQ Options): IV 21.38%, Put/Call Ratio 1.11.</p>
+<p>Kinetic analysis: the NQ Probe shows the presence of aggressive demand in the CVD layer, despite the negative price change from the last reading. The Q-Score directional vector remains positive, which, given the negative price dynamics, suggests a process of passive absorption of supply by limit orders. The system is in a phase of testing demand under conditions of low liquidity in the pre-cash session. Lack of vector resonance due to the inactivity of other sensors.</p>
+<p>DIAGNOSIS: System in a phase of passive absorption of supply; testing the support level during the current demand testing by aggressive volume.</p>
+<p>Log: 2026-10-29 13:29</p>
 <h3>🌌 [2026-10-29 12:59]</h3>
 <p>[TELEMETRY DATA - 2026-10-29 12:59]<br />
 Status: OPEN | Mode: FUTURES (NQ only)</p>
