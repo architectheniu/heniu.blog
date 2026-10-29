@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0041: DoorDash: wyniki za 3Q2026
+
+Data: 2026-10-29 15:39
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0041/
+
+
+Przychody DoorDash (DASH) w trzecim kwartale wyniosły 4,62 mld USD (34,0% r/r), a zysk netto wzrósł o 91,0% r/r do poziomu 466,00 mln USD.
+
+### Wyniki kwartału
+
+Marża brutto osiągnęła 50,1% (1,1 pp r/r), natomiast zysk na akcję (księgowy) wyniósł 1,06 USD (92,7% r/r), przy zysku na akcję (księgowym, podstawowym) na poziomie 1,07 USD (87,7% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się wolnych przepływów pieniężnych w przedziale 700,00 mln USD – 800,00 mln USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że podstawowy biznes radzi sobie bardzo dobrze, a wzrost wynika z przybywania użytkowników oraz subskrypcji. Według zarządu połączenie obu platform ma przyspieszyć wzrost i zwiększyć zysk, przy czym część zysku ma być reinwestowana w lepszy produkt. Zarząd wskazał również, że budowa wspólnej platformy technologicznej ma ułatwić i przyspieszyć przyszłe integracje przejętych firm. Według zarządu podejście do skupu akcji pozostaje bez zmian i spółka zamierza kupować je okazjonalnie, gdy przynosi to dobry zwrot.
+
+
+---
+
 ## Fundamenty #0040: Zgłoszenia spółek: T-Mobile US, Meta Platforms, Microsoft; transakcje insiderów
 
 Data: 2026-10-29 10:10
@@ -990,28 +1013,5 @@ Spółka spodziewa się przychodów (FY 2026) w przedziale 20,00 mld USD – 20,
 ### Co mówi zarząd
 
 Zarząd wyraził dużą pewność co do dalszej poprawy sprzedaży oraz marży w segmencie automatyki przemysłowej ze względu na szybką poprawę fundamentów tego biznesu. Według zarządu aktywność projektowa w obszarze automatyki procesowej i technologii pozostaje bardzo silna oraz zróżnicowana. Zarząd podkreślał, że przejęcia stanowią dla spółki opcję, a kluczowym kierunkiem rozwoju byłaby rozbudowa oferty w zakresie pomiarów i czujników. Według zarządu utrzymanie podwyżek cen wymaga zapewnienia dobrej obsługi klienta oraz stałego wprowadzania nowych produktów. Zarząd wskazał, że zakładane na koniec roku spowolnienie wzrostu organicznego wynika z ostrożności, podczas gdy zamówienia o krótkim cyklu są bardzo silne. Zarząd podkreślał również wdrażanie sztucznej inteligencji, informując, że wszystkie zespoły zostały już przeszkolone lub są w trakcie szkolenia.
-
-
----
-
-## Fundamenty #0017: Texas Instruments: wyniki za 3Q2026
-
-Data: 2026-10-22 11:32
-Adres: https://heniu.blog/f-log/flog-2026-10-22-0017/
-
-
-Przychody Texas Instruments (TXN) w trzecim kwartale wyniosły 6,05 mld USD (+27,7% r/r), a zysk na akcję (księgowy) wzrósł o 77,0% r/r do poziomu 2,62 USD.
-
-### Wyniki kwartału
-
-Zysk operacyjny spółki osiągnął 2,87 mld USD (+72,8% r/r).
-
-### Prognoza spółki
-
-W czwartym kwartale spółka spodziewa się przychodów w przedziale 5,80 mld USD – 6,30 mld USD oraz zysku na akcję na poziomie 2,45 USD – 2,79 USD.
-
-### Co mówi zarząd
-
-Zarząd wskazywał, że w kolejnych kwartałach koszty operacyjne mają pozostać na podobnym poziomie lub ulec nieznacznemu zwiększeniu. Według zarządu w drugiej połowie roku nastąpił lekki wzrost cen, szczególnie w obszarze układów analogowych, a rozmowy dotyczące cen na przyszły rok są w toku. Zarząd podkreślał, że w kolejnych latach przyrost przychodów będzie w dużej mierze przekładał się na zysk brutto. Według zarządu klienci z branży motoryzacyjnej posiadają niewielkie zapasy i nie obserwuje się ich odbudowy.
 
 

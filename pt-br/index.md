@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0041: DoorDash: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0041/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/pt-br/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/pt-br/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamentos #0040: Notificações de empresas: T-Mobile US, Meta Platforms, Microsoft; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0040/index.md) (2026-10-29)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [M15: 2026-10-21](https://heniu.blog/pt-br/t-log/tlog-2026-10-21/index.md) (2026-10-21)
 - [Log #0208: Estabilização Dysoniana na Sombra da Singularidade](https://heniu.blog/pt-br/posts/log-0208/index.md) (2026-10-21)
 - [H1: 2026-10-21](https://heniu.blog/pt-br/h-log/hlog-2026-10-21/index.md) (2026-10-21)
-- [Fundamentos #0012: Intuitive Surgical: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-21-0012/index.md) (2026-10-21)
 
