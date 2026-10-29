@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 12:29
+Data: 2026-10-29 12:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 12:59]</h3>
+<p>[DADOS TELEMÉTRICOS - 2026-10-29 12:59]<br />
+Status: OPEN | Modo: FUTURES (Apenas NQ)</p>
+<p>a Sonda NQ encontra-se atualmente no nível 29631.25 (-1.17%). O vetor de direção (Q-Score) é 35, exibindo delta zero (0.0) em relação à última leitura. A pressão do combustível (CVD) para a Sonda NQ é de 6,22K, o que classifica o estado do sistema como um teste de demanda. O ADR NQ está no nível 54.45%, o que significa que o alcance atual está abaixo da média. Na Esfera de Dyson (opções QQQ), registrou-se volatilidade (IV) no nível de 21.38% com o alcance esperado na faixa de 716.53 – 734.69. A assimetria de volume Put/Call é 1.11. Os demais objetos (NDX, QQQ, TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot). [SEM DADOS] para parâmetros macro no modo atual.</p>
+<p>Sistema em fase de teste de demanda com baixa dinâmica do vetor de direção.</p>
+<p>Log: 2026-10-29 12:59</p>
 <h3>🌌 [2026-10-29 12:29]</h3>
 <p>[TELEMETRIA DE STATUS: FUTUROS - MODO NQ]</p>
 <p>a Sonda NQ encontra-se no nível 29690.25 (-0.97%). O vetor de direção (Q-Score) é 35, mostrando nenhuma mudança (Delta: +0.0) em relação à última leitura. A pressão de combustível (CVD) para a Sonda NQ é de 7,69K, o que classifica o estado do sistema como um teste de demanda. O ADR NQ é de 54.45%, o que situa a volatilidade atual dentro da atividade da sessão. Na Esfera de Dyson (opções QQQ), registrou-se volatilidade IV no nível de 21.38% com alcance esperado no intervalo de 716.53 – 734.69. A assimetria de volume Put/Call é de 1.11, indicando uma predominância de contratos Put no volume diário de opções. Outros objetos (NDX, QQQ, TICKQ) permanecem em dormência devido ao fechamento da sessão à vista (Spot).</p>

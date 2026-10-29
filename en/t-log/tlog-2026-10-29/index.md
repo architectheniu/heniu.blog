@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Date: 2026-10-29 12:29
+Date: 2026-10-29 12:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.29 [EN]</h1>
+<h3>🌌 [2026-10-29 12:59]</h3>
+<p>[TELEMETRY DATA - 2026-10-29 12:59]<br />
+Status: OPEN | Mode: FUTURES (NQ only)</p>
+<p>the NQ Probe is currently at level 29631.25 (-1.17%). The direction vector (Q-Score) is 35, showing zero delta (0.0) compared to the last reading. The fuel pressure (CVD) for the NQ Probe is 6.22K, classifying the system state as a demand test. NQ ADR is at level 54.45%, meaning the current range is below average. In the Dyson Sphere (QQQ options), volatility (IV) was recorded at level 21.38% with an expected range between 716.53 – 734.69. The Put/Call volume asymmetry is 1.11. Other objects (NDX, QQQ, TICKQ) remain in slumber due to the close of the cash session (Spot). [NO DATA] for macro parameters in the current mode.</p>
+<p>System in demand test phase with low direction vector dynamics.</p>
+<p>Log: 2026-10-29 12:59</p>
 <h3>🌌 [2026-10-29 12:29]</h3>
 <p>[STATUS TELEMETRY: FUTURES - NQ MODE]</p>
 <p>the NQ Probe is at level 29690.25 (-0.97%). The direction vector (Q-Score) is 35, showing no change (Delta: +0.0) compared to the last reading. The fuel pressure (CVD) for the NQ Probe is 7.69K, which classifies the system state as a demand test. NQ ADR is 54.45%, situating current volatility within session activity. In the Dyson Sphere (QQQ options), IV volatility was recorded at 21.38% with an expected range between 716.53 – 734.69. The Put/Call volume asymmetry is 1.11, indicating a dominance of Put contracts in the daily options volume. Other objects (NDX, QQQ, TICKQ) remain in dormancy due to the close of the cash session (Spot).</p>
