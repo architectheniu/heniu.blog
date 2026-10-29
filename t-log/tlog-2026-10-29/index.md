@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 15:29
+Data: 2026-10-29 15:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 15:44]</h3>
+<p><strong>STATUS: SPOT</strong><br />
+Intensywna wymiana wolumenowa w strefie zapór HVN na poziomie NDX 29650 - 29690 (NQ ≈ 29803 - 29843). Sonda NQ znajduje się obecnie na poziomie 29562.00. System wykazuje Q-Score na poziomie 35 przy rosnącym trendzie promieniowania (SMA200: +3.16). Szeroka Giełda (TICKQ) odnotowała wystrzał rynku (286.00), znajdując się powyżej średniej SMA200 (28.95).</p>
+<p><strong>DYNAMIKA INSTRUMENTÓW:</strong><br />
+Gwiazda NDX (29411.63) wykazuje test popytu (CVD: 3,75M). Sonda NQ (29562.00) w fazie akumulacji (CVD: 12,75K). Satelita QQQ (715.32) potwierdza test popytu (CVD: 484,67K). W Sferze Dysona IV wynosi 21.90%, przy asymetrii Put/Call na poziomie 1.22. Masa Galaktyki wynosi 41.43 T (+0.02 T), a Średnia Akcja to $305.12 (+0.27 USD), co wskazuje na ekspansję koszyka. ADR dla NQ wynosi 67.98%, co sytuuje go powyżej średnich historycznych.</p>
+<p><strong>DIAGNOSTYKA UKŁADU:</strong><br />
+Występuje wysoka synchronizacja wektorów (Kinetic Resonance) – zarówno Gwiazda, jak i Sonda oraz Satelita wykazują dodatnią presję CVD w fazie testowania popytu i akumulacji. Wzrosty są strukturalnie wspierane przez szeroki rynek (TICKQ).</p>
+<p><strong>UKŁAD W FAZIE AKRECJI Z WYSZUKIWANIEM NOWYCH ZAPÓR.</strong></p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:39 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>🌌 [2026-10-29 15:29]</h3>
 <p>[T-LOG: 2026-10-29 15:29]</p>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
