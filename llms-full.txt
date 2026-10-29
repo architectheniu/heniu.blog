@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0042: Xcel Energy: wyniki za 3Q2026
+
+Data: 2026-10-29 17:25
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0042/
+
+
+Przychody Xcel Energy (XEL) wzrosły w III kwartale o 6,6% r/r do 4,17 mld USD, a zysk na akcję (księgowy) zwiększył się o 72,7% r/r do 1,52 USD.
+
+### Wyniki kwartału
+
+brak danych.
+
+### Prognoza spółki
+
+Spółka spodziewa się zysku na akcję w przedziale 4,10 USD – 4,16 USD, 4,48 USD – 4,62 USD oraz 4,04 USD – 4,16 USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że prowadzi zaawansowane negocjacje umowy na dostawy energii z dużym odbiorcą, wskazując na największe szanse w regionach Środkowego Zachodu oraz Teksasu i Nowego Meksyku. Według zarządu wszystkie inwestycje służą klientom poprzez skupienie na bezpieczeństwie, niezawodności i obsłudze rosnącego zapotrzebowania na prąd. Zarząd zaznaczył, że chce utrzymać silny bilans, przy czym w późniejszych latach planu ma liczyć na większą swobodę finansową. Według zarządu centra danych powinny samodzielnie finansować budowane dla nich urządzenia, a spółka nie przyłączy takich obiektów, które nie przyniosą korzyści pozostałym klientom. Zarząd wskazał również, że firmy naftowe coraz częściej przechodzą na zasilanie elektryczne, co napędza sprzedaż prądu w regionie Teksasu i Nowego Meksyku. Według zarządu elektrownie gazowe o cyklu kombinowanym mogą zacząć się opłacać w przyszłości.
+
+
+---
+
 ## Fundamenty #0041: DoorDash: wyniki za 3Q2026
 
 Data: 2026-10-29 15:39
@@ -990,28 +1013,5 @@ Spółka spodziewa się zysku na akcję (skorygowany) w Q4 2026 na poziomie 5,95
 ### Co mówi zarząd
 
 Zarząd podkreślał, że przychody z kredytów w Vertafore będą przypominać subskrypcję ze względu na model zakupu stałej puli w umowach powtarzalnych. Według zarządu tempo przejścia klientów Deltek do chmury jest trudne do przewidzenia, jednak firma jest zadowolona z obecnego impetu. Zarząd wskazywał, że marża brutto na narzędziach agentowych AI jest bardzo dobra i zbliżona do marży oprogramowania, przy czym priorytetem pozostaje szybkość wdrażania produktów. Według zarządu produkty AI pozwalają na szybkie zbieranie opinii i poprawianie rozwiązań po ich wprowadzeniu. Zarząd zauważył, że w Neptune sprzedaż liczników była bliska oczekiwaniom, ale większy udział tańszych modeli mechanicznych obniżył przychody oraz marżę. Według zarządu portfel projektów na liczniki statyczne jest mocny, a projekty zostały przesunięte, co ma zapewnić lepsze warunki w przyszłym roku.
-
-
----
-
-## Fundamenty #0018: Honeywell International: wyniki za 3Q2026
-
-Data: 2026-10-22 18:38
-Adres: https://heniu.blog/f-log/flog-2026-10-22-0018/
-
-
-Przychody Honeywell International (HON) w III kwartale wyniosły 4,99 mld USD (+1,3% r/r).
-
-### Wyniki kwartału
-
-Marża operacyjna ukształtowała się na poziomie 14,8% (6,4 pp r/r).
-
-### Prognoza spółki
-
-Spółka spodziewa się przychodów (FY 2026) w przedziale 20,00 mld USD – 20,10 mld USD, natomiast w Q4 2026 prognozuje wzrost przychodów organicznych na poziomie 5,0% – 6,0%.
-
-### Co mówi zarząd
-
-Zarząd wyraził dużą pewność co do dalszej poprawy sprzedaży oraz marży w segmencie automatyki przemysłowej ze względu na szybką poprawę fundamentów tego biznesu. Według zarządu aktywność projektowa w obszarze automatyki procesowej i technologii pozostaje bardzo silna oraz zróżnicowana. Zarząd podkreślał, że przejęcia stanowią dla spółki opcję, a kluczowym kierunkiem rozwoju byłaby rozbudowa oferty w zakresie pomiarów i czujników. Według zarządu utrzymanie podwyżek cen wymaga zapewnienia dobrej obsługi klienta oraz stałego wprowadzania nowych produktów. Zarząd wskazał, że zakładane na koniec roku spowolnienie wzrostu organicznego wynika z ostrożności, podczas gdy zamówienia o krótkim cyklu są bardzo silne. Zarząd podkreślał również wdrażanie sztucznej inteligencji, informując, że wszystkie zespoły zostały już przeszkolone lub są w trakcie szkolenia.
 
 
