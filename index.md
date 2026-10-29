@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
-- [Fundamenty #0043: Starbucks: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0043/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/h-log/hlog-2026-10-29/index.md) (2026-10-29)
+- [Fundamenty #0043: Starbucks: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0043/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Log #0215: Podsumowanie sesji 2026-10-29: NDX 29407.05 (-1.38%)](https://heniu.blog/posts/log-0215/index.md) (2026-10-29)
 - [Fundamenty #0042: Xcel Energy: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0042/index.md) (2026-10-29)
