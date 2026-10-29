@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 17:14
+Data: 2026-10-29 17:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 17:29]</h3>
+<p>[T-LOG: 2026-10-29 17:29]</p>
+<p><strong>STATUS: SPOT | TRYB: SESJA KASOWA AKTYWNA</strong></p>
+<p>Wykryto przebicie zapory HVN ekosystemu US100 na poziomie NDX 29420 (NQ ≈ 29574). Obecna cena Sondy NQ wynosi 29578.75 (-1.34%), z ADR na poziomie 67.98%. Gwiazda NDX wykazuje stan "testu podaży" (CVD: -10,45M), podczas gdy Sonda NQ przechodzi w fazę "akumulacji" (CVD: 25,51K) i Satelita QQQ wykazuje "test popytu" (CVD: 803,52K). Szeroka Giełda (TICKQ) znajduje się w fazie "akumulacji" (52.00), powyżej swojej średniej SMA200 (27.56), co potwierdza rosnący trend promieniowania. Masa Galaktyki wynosi 41.45 T (+0.01 T), a Średnia Akcja w koszyku to $305.33 (+0.02 USD), co wskazuje na powolną ekspansję struktury. W Sferze Dysona IV wynosi 21.44%, z asymetrią wolumenu Put/Call na poziomie 1.20. Wektor Q-Score wynosi 7, wskazując na minimalną, lecz dodatnią orientację układu.</p>
+<p><strong>DIAGNOSTYKA: Rozwarstwienie układu (Cross-Asset Divergence). Dominacja podaży w Jądrze (NDX) przy jednoczesnej próbie akumulacji na Sondzie (NQ) i Satelicie (QQQ). Układ w fazie grawitacyjnego napięcia.</strong></p>
+<p>Log: 2026-10-29 17:29</p>
 <h3>🌌 [2026-10-29 17:14]</h3>
 <p>[T-LOG: 2026-10-29 17:14]</p>
 <p>Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29420 (NQ ≈ 29574), inicjując gwałtowny spadek kinetyki układu. Gwiazda NDX znajduje się pod presją, wykazując wyprzedaż przy cenie 29408.09 (-1.36%) i CVD na poziomie -8,5M. Sonda NQ (cena: 29563.50) wykazuje lokalną akumulację z CVD 23,16K, co sugeruje próbę absorpcji podaży na niższych poziomach. Satelita QQQ rejestruje test popytu (CVD: 725,79K) przy cenie 715.38. W szerokiej giełdzie TICKQ odnotowano wyprzedaż (-78.00), podczas gdy średnia radiacja SMA200 pozostaje w strefie akumulacji (25.55), co generuje dysonans między bieżącą szerokością a długoterminowym trendem. Masa Galaktyki skurczyła się do 41.44 T (Delta: -0.11 T), a Średnia Akcja wynosi $305.30 (Delta: -1.07 USD), co potwierdza ogólną redukcję wartości koszyka. Q-Score wynosi 12, wskazując na słaby, niemal neutralny wektor kierunkowy. Zmienność w Sferze Dysona (IV) oscyluje wokół 21.48% przy Put/Call Ratio 1.20.</p>
