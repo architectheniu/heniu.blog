@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 15:14
+Data: 2026-10-29 15:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 15:29]</h3>
+<p>[T-LOG: 2026-10-29 15:29]</p>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p>W trakcie bieżącej sesji odnotowano przebicie zapory HVN ekosystemu US100 na poziomie NDX 29360 (NQ ≈ 29514). Obecna cena Sondy NQ wynosi 29541.25 (-1.46%), przy ADR na poziomie 67.98%. Gwiazda NDX wykazuje stan testu podaży (CVD: -3.91M), podczas gdy Sonda NQ i Satelita QQQ rejestrują test popytu (CVD: 8.39K oraz 590.94K odpowiednio). Szeroka Giełda TICKQ znajduje się w fazie wyprzedaży (-124.00), co stoi w bezpośredniej sprzeczności z dodatnią dynamiką wektorów popytu na instrumentach pochodnych (NQ i QQQ) – układ wykazuje silne rozwarstwienie (Cross-Asset Divergence). Wektor kierunku Q-Score wynosi 20. W Sferze Dysona Put/Call Ratio uplasowało się na poziomie 1.14 przy zmienności IV 21.87%. Masa Galaktyki wzrosła do 41.42 T (Delta: +0.03 T), a Średnia Akcja wynosi 304.85 USD (Delta: +0.27 USD), co wskazuje na powolną ekspansję koszyka.</p>
+<p><strong>DIAGNOZA: Rozwarstwienie układu; asymetryczny wzrost napędzany przez instrumenty pochodne przy jednoczesnej dominacji podaży w szerokim rynku (TICKQ).</strong></p>
+<p>Log: 2026-10-29 15:29</p>
 <h3>🌌 [2026-10-29 15:14]</h3>
 <p>[T-LOG: 2026-10-29 15:14]</p>
 <p><strong>STATUS: SPOT</strong><br />
