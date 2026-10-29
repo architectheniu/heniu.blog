@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 18:00
+Data: 2026-10-29 18:15
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 18:14]</h3>
+<p>[STATUS: SPOT | MODO: COMPLETO]</p>
+<p><strong>ANÁLISE TELEMÉTRICA:</strong><br />
+A troca intensa na zona de suportes derrubados HVN (NDX 29420 - 29360) causou uma queda abrupta nos parâmetros do sistema. A Sonda NQ encontra-se atualmente no nível 29504.25 (-1.59%), com seu vetor CVD indicando acumulação local (23.24K). A Estrela NDX apresenta um estado de teste de oferta (CVD: -13.94M), enquanto o Satélite QQQ opera em regime de teste de demanda (CVD: 793.85K). A Amplitude de mercado (TICKQ) registra um estado de colapso do mercado (-357.00), situando-se abaixo da média da Radiação de Fundo SMA200 (29.52). A Massa da Galáxia sofreu uma contração (Delta: -0.06 T) para o nível 41.42 T, e a Ação Média caiu 0.66 USD, atingindo o valor de $304.84.</p>
+<p><strong>DINÂMICA E CINEMÁTICA:</strong><br />
+O vetor Q-Score é 15, o que, com o TICKQ negativo e a dinâmica de preços de queda, indica uma estratificação profunda do sistema (Cross-Asset Divergence). A agressão de mercado no NQ (acumulação) está em contradição com a venda dominante no Núcleo (NDX) e o colapso do mercado amplo, sugerindo que os movimentos atuais de alta da Sonda são estruturalmente vazios. A volatilidade (IV) no nível de 21.34% com um Put/Call Ratio de 1.18 indica uma crescente assimetria de volume em direção a proteções (hedging). O ADR para todos os objetos permanece abaixo das médias de vários dias.</p>
+<p><strong>DIAGNÓSTICO:</strong><br />
+Sistema em fase de tensão gravitacional; forte divergência entre a acumulação local da Sonda e o colapso macroscópico do Núcleo e do Mercado Amplo.</p>
 <h3>🌌 [2026-10-29 17:59]</h3>
 <p>[T-LOG: 2026-10-29 17:59]</p>
 <p><strong>STATUS: OPEN | MODO: SPOT</strong></p>

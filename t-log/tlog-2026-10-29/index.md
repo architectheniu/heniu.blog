@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 17:59
+Data: 2026-10-29 18:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 18:14]</h3>
+<p>[STATUS: SPOT | TRYB: PEŁNY]</p>
+<p><strong>ANALIZA TELEMETRYCZNA:</strong><br />
+Intensywna wymiana w strefie obalonych wsparć HVN (NDX 29420 - 29360) wywołała gwałtowny spadek parametrów układu. Sonda NQ znajduje się obecnie na poziomie 29504.25 (-1.59%), przy czym jej wektor CVD wskazuje na lokalną akumulację (23.24K). Gwiazda NDX wykazuje stan testu podaży (CVD: -13.94M), podczas gdy Satelita QQQ operuje w reżimie testu popytu (CVD: 793.85K). Szeroka Giełda TICKQ odnotowuje stan załamania rynku (-357.00), znajdując się poniżej średniej radiacji SMA200 (29.52). Masa Galaktyki uległa kurczeniu (Delta: -0.06 T) do poziomu 41.42 T, a Średnia Akcja spadła o 0.66 USD, osiągając wartość $304.84.</p>
+<p><strong>DYNAMIKA I KINEMATYKA:</strong><br />
+Wektor Q-Score wynosi 15, co przy ujemnym TICKQ i spadkowej dynamice cenowej wskazuje na głębokie rozwarstwienie układu (Cross-Asset Divergence). Agresja rynkowa na NQ (akumulacja) stoi w sprzeczności z dominującą wyprzedażą w Jadrze (NDX) oraz załamaniem szerokiego rynku, co sugeruje, że obecne ruchy w górę Sondy są strukturalnie puste. Zmienność (IV) na poziomie 21.34% przy Put/Call Ratio 1.18 wskazuje na rosnącą asymetrię wolumenu w stronę zabezpieczeń. ADR dla wszystkich obiektów pozostaje poniżej średnich wielodniowych.</p>
+<p><strong>DIAGNOZA:</strong><br />
+Układ w fazie grawitacyjnego napięcia; silna dywergencja między lokalną akumulacją Sondy a makroskopowym załamaniem Jądra i Szerokiego Rynku.</p>
 <h3>🌌 [2026-10-29 17:59]</h3>
 <p>[T-LOG: 2026-10-29 17:59]</p>
 <p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
