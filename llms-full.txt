@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0036: Honeywell Aerospace: wyniki za 3Q2026
+
+Data: 2026-10-29 01:52
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0036/
+
+
+Przychody Honeywell Aerospace (HONA) wzrosły w trzecim kwartale o 2,5% r/r do poziomu 4,64 mld USD, a zysk na akcję (księgowy) wzrósł o 12,8% r/r do 2,29 USD.
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) wyniósł 2,29 USD (+12,8% r/r).
+
+### Prognoza spółki
+
+Na cały rok 2026 spółka spodziewa się organicznego wzrostu na poziomie 4,0% – 5,0%, skorygowanego zysku na akcję w przedziale 7,85–8,00 USD, pro forma standalone adjusted EBIT w wysokości 4,38 mld USD – 4,42 mld USD oraz wolnych przepływów pieniężnych na poziomie 1,20 mld USD – 1,40 mld USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że luka między potrzebami spółki a dostawami od dostawców ulega zmniejszeniu. Według zarządu, przy rosnących dostawach priorytetem jest obsługa producentów samolotów w celu utrzymania ciągłości ich linii produkcyjnych, przed realizacją zamówień dla rynku wtórnego. Zarząd wskazywał, że spółka kieruje większą liczbę dostaw na potrzeby bezpieczeństwa narodowego USA niż do klientów zagranicznych, przy czym portfel zamówień nie wykazuje spadków. Według zarządu niedobory części elektronicznych nie wpłynęły istotnie na działalność, a w lotnictwie pasażerskim nie odnotowano zmian w zachowaniu klientów wynikających z cen ropy. Zarząd stwierdził również, że negocjacje odnawianych umów z producentami przebiegają zgodnie z oczekiwaniami i pozwolą na lepsze dopasowanie cen do kosztów.
+
+
+---
+
 ## Fundamenty #0035: Fortinet: wyniki za 3Q2026
 
 Data: 2026-10-29 01:49
@@ -978,91 +1001,5 @@ Javier Olivan, dyrektor operacyjny spółki Meta Platforms (META), sprzedał 1 5
 Zgłoszono też 2 innych transakcji.
 
 proxy DEF 14A (Dokument: DEF 14A; Data złożenia (czas USA): 21.10).
-
-
----
-
-## Log #0208: Dysonowska Stabilizacja w Cieniu Osobliwości
-
-Data: 2026-10-21 22:04
-Adres: https://heniu.blog/posts/log-0208/
-
-
-**Stardate:** 2026.10.21\
-**Status Systemów:** Obserwacja Zewnętrzna\
-**Sektor:** Wewnętrzne Pasma Zmienności
-
----
-
-### Telemetria Zamknięcia
-
-> *Obserwacja układu wykazuje rozbieżność między energetyką Gwiazdy NDX a dynamiką Sondy NQ. Mimo paniki w przepływie paliwa NDX, system wykazuje oznaki akumulacji w promieniowaniu tła.*
-
-* **Skaner Podprzestrzenny (Rozkład Masy):**
-    * *T-Mass Układu:* **42.57 Tryliona USD**
-    * *Delta Sesyjna (24h):* **+0.51 Tryliona USD**
-    * *Gęstość Jądra (Heavy Nine):* **68.88%** (Delta: **+0.09%**)
-    * *Średnia Akcja (Temperatura Peryferii):* **$307.65** (Delta: **+$2.97**)
-
-* **Gwiazda NDX (Słońce):** Zamknięcie: **29819.60 (+1.13%)**
-    * *Wektor (CVD):* **−155,07 M [panika]**
-    * *Anomalia MOC:* **-22,67 M**
-    * *Zużycie Zasięgu (ADR Util):* **89.12%**
-    * *Zejście od szczytu Henia:* **-4.51%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
-
-* **Sonda NQ (Merkury):** Zamknięcie: **30029.75 (+1.18%)**
-    * *Wektor (CVD):* **6,71 K [test popytu]**
-    * *Zużycie Zasięgu (ADR Util):* **70.98%**
-
-* **Sfera Dyson’a (QQQ):** Zamknięcie: **725.21 (+1.06%)**
-    * *Wektor Populacji:* **−129,25 K [test podaży]**
-    * *Zużycie Zasięgu (ADR Util):* **89.08%**
-
-* **Promieniowanie Tła (TICKQ) 191.00 [akumulacja]:**
-    * *SMA200:* **-55.48 [załamanie rynku]**
-
-* **Struktura Grawitacyjna (Opcje):**
-    * *Implied Volatility (IV):* **21.47%**
-    * *Put/Call OI:* **1.45**
-
-* **Zdrowie danych sesji:** odczyty przez 100,0% sesji kasowej; bez luk dłuższych niż minuta; NDX bez zmiany dłużej niż 2 min w 0,1% odczytów
-
----
-
-### Dziennik Pokładowy: Dysonowska Stabilizacja w Cieniu Osobliwości
-
-**1. Anomalna Akrecja i Rozbieżność Przepływów**
-Gwiazda NDX (29819.60, +1.13%) wykazuje silne ujemne ciśnienie paliwa z CVD na poziomie -155,07M, co klasyfikuje stan jako panika. Jednocześnie Sonda NQ (30029.75, +1.18%) porusza się w trybie testu popytu z CVD wynoszącym 6,71K. W kontekście historycznym, NDX znajduje się w fazie korekty od szczytu z 06.10 (31360.85) wynoszącej -4.91% (-1541 pkt), co przy 11 sesjach i średnim zakresie 3.6 ATR stanowi zdarzenie głębsze niż 57% zarejestrowanych korekt. Odległość od węzła oporu (29940–29960) wzrosła, podczas gdy najbliższy węzeł wsparcia (29640–29660) pozostaje w zasięgu odległym od aktualnej pozycji.
-
-**2. Radiacja Tła i Stabilność Sfery Dyson'a**
-Sfera Dyson'a QQQ (725.21, +1.06%) wykazuje test podaży z CVD -129,25K. Promieniowanie tła TICKQ wynosi 191.00, co wskazuje na akumulację, mimo że średnia radiacja SMA200 na poziomie -55.48 sygnalizuje załamanie rynku. Skład Jądra (>1T) pozostaje stabilny, bez wykrycia emergencji lub kolapsu nowych osobliwości. W polu fundamentalnym odnotowano zdarzenia M ≥ 40 dla SPCX (M 64), NFLX (M 56,2) oraz ISRG (M 45).
-
-**3. Dynamika Mas i Próg Unieważnienia**
-Całkowita masa układu (T-Mass) wynosi 42.57 Tryliona USD przy zmienności IV na poziomie 21.47%. Obserwuje się dysonans między wzrostem cenowych parametrów instrumentów a ujemnym ciśnieniem paliwa w centrum masy (NDX). System operuje w obszarze zwiększonej korekty względem mediany historycznej, zbliżając się do strefy wsparcia z dnia 20.10.
-
-**Werdykt Kwantowy:**
-Układ znajduje się w stanie wysokiej entropii przepływów: wzrost cen przy jednoczesnej panice paliwa NDX i akumulacji w szerokim promieniowaniu TICKQ sugeruje walkę o stabilizację pola siłowego wewnątrz Sfery Dyson'a.
-
-**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
-
-**Koniec zapisu.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro"
-}
-</script>
 
 

@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0036: Honeywell Aerospace: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0036/index.md) (2026-10-29)
 - [Fundamenty #0035: Fortinet: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0035/index.md) (2026-10-29)
 - [Fundamenty #0034: Alphabet: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0034/index.md) (2026-10-29)
 - [Fundamenty #0033: Microsoft: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-29-0033/index.md) (2026-10-29)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0010: Zgłoszenie spółki Vertex Pharmaceuticals; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-21-0010/index.md) (2026-10-21)
 - [H1: 2026-10-20](https://heniu.blog/h-log/hlog-2026-10-20/index.md) (2026-10-20)
 - [M15: 2026-10-20](https://heniu.blog/t-log/tlog-2026-10-20/index.md) (2026-10-20)
-- [Log #0207: Grawitacja w stanie zawieszenia: Rozdźwięk między energią a promieniowaniem tła](https://heniu.blog/posts/log-0207/index.md) (2026-10-20)
 
