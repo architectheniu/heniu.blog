@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 12:07
+Data: 2026-10-29 13:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.29</h1>
+<h3>📈 [2026-10-29 13:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Kontrakty NQ notowane są na poziomie 29599.00 (-1.27%), przy skumulowanym przepływie CVD wynoszącym 4,57 K, co wskazuje na testowanie popytu.</li>
+<li><strong>Analiza indeksu i przepływów:</strong> Indeks NDX zamknął sesję kasową na poziomie 29813.16 (+0.55%), przy wysokim napływie kapitału (CVD NDX = 152,42 M). Wskaźnik kierunku przepływów rynkowych wynosi 35, co oznacza umiarkowaną przewagę napływu kapitału. Odnotowano cofnięcie indeksu od szczytu z dnia 28.10 (29847.38) o 0.11% (-34 pkt). Jest to korekta o charakterze zwykłym, płytsza niż dotychczasowe odchylenia.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29780–29800. Najbliższa strefa oporu znajduje się w przedziale 29830–29850.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 21.38%, a stosunek wolumenu Put/Call (PCR) kształtuje się na poziomie 1.11, co sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na większą zmiwność. Oczekiwany zasięg ruchu w oparciu o wolumen 4,946,453 wynosi od 716.53 do 734.69 punktów.</li>
+</ul>
+<p>Raport H-Log: 2026-10-29 13:07</p>
 <h3>📈 [2026-10-29 12:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
