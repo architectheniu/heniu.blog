@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Date: 2026-10-29 13:59
+Date: 2026-10-29 14:14
 URL: https://heniu.blog/en/t-log/tlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.29 [EN]</h1>
+<h3>🌌 [2026-10-29 14:14]</h3>
+<p>[TELEMETRY - FUTURES SESSION MODE]<br />
+the NQ Probe: 29700.75 | Price Delta: -0.93% | ADR: 54.45% (above average)<br />
+NQ CVD: 9,09K [demand test] | Q-Score: 35 [Delta: +0.0]<br />
+the Dyson Sphere (QQQ): IV 0.00% | P/C Ratio: 1.11 | Range: 716.53 - 734.69</p>
+<p>[TACTICAL REPORT]<br />
+The NQ object is in a demand test phase at the current level of 29700.75, despite a recorded price decrease of 0.93%. The Q-Score vector remains stable at 35 (Delta: +0.0), showing no change in the overall directional dynamics. An asymmetry between price and volume pressure was noted: NQ CVD indicates activity in the "demand test" zone (9,09K), suggesting the presence of passive absorption of aggressive supply. ADR remains at 54.45%, placing the current range above standard volatility. The Dyson Sphere shows zero implied volatility (IV 0.00%) with a Put/Call ratio at 1.11, indicating a dominance of put option volume in the contract structure. Other objects (NDX, QQQ, TICKQ) remain dormant due to the close of the cash session (Spot).</p>
+<p>[DIAGNOSIS]<br />
+System in a passive absorption phase with testing of local demand zones.</p>
 <h3>🌌 [2026-10-29 13:59]</h3>
 <p>[TELEMETRY - FUTURES SESSION MODE]</p>
 <p>the NQ Probe is currently at level 29653.50 (-1.09%). The direction vector (Q-Score) is 35, showing no change (Delta: +0.0) compared to the last reading. The fuel pressure (CVD) on the NQ Probe is 5.82K, classifying the system state as a demand test. The ADR value for NQ is 54.45%, indicating above-average activity. In the Dyson Sphere (QQQ Options) volatility (IV) oscillates around 21.38%, with a Put/Call volume asymmetry at 1.11. Other objects (NDX, TICKQ) remain in dormancy due to the close of the cash session (Spot). No data on changes in volume structure (HVN) in the current time window.</p>
