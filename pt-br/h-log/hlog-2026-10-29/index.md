@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 08:08
+Data: 2026-10-29 09:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.29 [PT-BR]</h1>
+<h3>📈 [2026-10-29 09:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A análise baseia-se nos contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo negociados no nível 29595.50 (-1.28%), com o fluxo acumulado (CVD) no nível 830, o que indica o teste de demanda. O Índice Nasdaq-100 (NDX) fechou a sessão à vista (Spot) no nível 29821.71 (+0.55%), com um influxo de capital muito alto (CVD NDX = 152,16 M).</li>
+<li>O indicador de direção de fluxo é 35, o que significa uma vantagem moderada do influxo de capital para o sistema.</li>
+<li>Os dados do mercado de Opções sobre QQQ (volume 4,946,453; IV 21.38%) com uma razão Put/Call de 1.11 sugerem a construção de posições de proteção (hedging) para quedas. O alcance de movimento esperado pelo mercado situa-se no intervalo de 716.53 a 734.69 pontos.</li>
+<li>O Recuo desde o pico do Heniu do dia 28.10 (29847.38) é de -0.09% (-26 pts). Trata-se de uma correção de natureza comum, mais rasa do que os 8 processos de correção registrados anteriormente na memória.</li>
+<li>Níveis técnicos cruciais: a zona de suporte mais próxima encontra-se no intervalo 29780–29800 (volume 1.4%), enquanto a resistência está localizada na zona 29830–29850 (volume 1.1%).</li>
+</ul>
+<p>Relatório H-Log: 2026-10-29 09:07</p>
 <h3>📈 [2026-10-29 08:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

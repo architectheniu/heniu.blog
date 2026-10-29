@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-10-29](https://heniu.blog/pt-br/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/pt-br/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamentos #0039: Cadence Design Systems: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0039/index.md) (2026-10-29)
-- [H1: 2026-10-29](https://heniu.blog/pt-br/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamentos #0038: T-Mobile US: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0038/index.md) (2026-10-29)
 - [Fundamentos #0037: KLA: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0037/index.md) (2026-10-29)
 - [Fundamentos #0036: Honeywell Aerospace: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0036/index.md) (2026-10-29)
