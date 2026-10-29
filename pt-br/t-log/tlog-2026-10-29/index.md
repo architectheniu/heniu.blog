@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 21:30
+Data: 2026-10-29 21:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 21:59]</h3>
+<p>[DADOS TELEMÉTRICOS - 2026-10-29 21:59]<br />
+Modo de sessão: a sessão de futuros (Apenas NQ)</p>
+<p>a Sonda NQ encontra-se atualmente no nível 29215.00 (-2.55%). O vetor ativo Q-Score é de 50 (Delta: +0.0). Em condições de sessão após o horário à vista, os parâmetros NDX, QQQ e TICKQ permanecem em estado de dormência e não estão sujeitos a análise atual.</p>
+<p>A leitura do fluxo de energia (CVD) para a Sonda NQ é de 7,29K, o que classifica o estado atual como um teste de demanda. O valor ADR para NQ é de 119.33%, o que indica atividade acima das médias de amplitude diária. Na esfera de opções (a Esfera de Dyson (QQQ)), registrou-se volatilidade IV no nível de 22.07% com alcance esperado no intervalo de 705.32 a 722.34. A assimetria de volume Put/Call é de 1.25.</p>
+<p>Ausência de dados sobre eventos de volume (HVN) no fluxo atual.</p>
+<p>Sistema em fase de teste de demanda com volatilidade elevada e atividade de ADR.</p>
 <h3>🌌 [2026-10-29 21:29]</h3>
 <p>[T-LOG: 2026-10-29 21:29]</p>
 <p>a Sonda NQ encontra-se em uma fase de descompressão intensa, oscilando no nível 29235.00 (-2.49%). Nos últimos minutos, foi registrada uma série de eventos de volume: ocorreu a quebra do suporte HVN na zona 29390 - 29330 e um rompimento abrupto da barreira no nível 28990 (NQ ≈ 29148). O vetor de direção (Q-Score) é de 50, o que indica um equilíbrio neutro de forças no atual regime de futuros. A pressão atual de volume agressivo (CVD) na Sonda NQ é de 5,69K, o que classifica o estado do sistema como um teste de demanda. O ADR NQ mantém-se acima da média (119.33%). Na Esfera de Dyson (opções QQQ), registrou-se assimetria de volume com Put/Call Ratio no nível 1.23 com volatilidade IV de 21.71%. O alcance esperado para a Esfera é 707.21 - 720.11. Os demais objetos (NDX, QQQ, TICKQ) permanecem em estado de dormência devido ao fechamento da sessão à vista (Spot).</p>
