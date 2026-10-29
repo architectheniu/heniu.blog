@@ -1,0 +1,19 @@
+# Fundamenty #0035: Fortinet: wyniki za 3Q2026
+
+Data: 2026-10-29 01:49
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0035/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody Fortinet (FTNT) w III kwartale roku obrotowego 2026 wyniosły 2,08 mld USD (+20,5% r/r), a zysk na akcję (księgowy) wzrósł do 0,86 USD (+38,7% r/r).
+
+### Wyniki kwartału
+
+Zysk operacyjny osiągnął poziom 704,30 mln USD (+28,7% r/r), przy zysku netto wynoszącym 635,50 mln USD (+34,1% r/r). W podziale na segmenty przychody z segmentu Product wyniosły 765,00 mln USD (+36,8% r/r), natomiast segment Service wygenerował 1,31 mld USD (+12,7% r/r). Zysk na akcję (księgowy, podstawowy) wyniósł 0,87 USD (+38,1% r/r), podczas gdy zysk na akcję (skorygowany) spadł do 0,05 USD (−58,3% r/r).
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że bezpieczeństwo sieci stanowi kluczowy element ochrony AI, umożliwiając lepszy wgląd w ruch generowany przez te technologie. Według zarządu popyt pozostaje solidny, a rosnące zagrożenia motywują klientów do modernizacji zabezpieczeń. Zarząd wskazywał, że spółka nie dostrzega spowolnienia popytu, choć zauważa wydłużające się czasy dostaw. Według zarządu w drugiej połowie roku rosnące koszty wpływały na marżę na produktach, podczas gdy marża na usługach wyraźnie rosła. Zarząd zauważył, że klienci wdrażający infrastrukturę nie zawsze chcą od razu płacić za usługi, co stanowi jedynie przesunięcie w czasie ujęcia przychodu. Według zarządu coraz więcej firm uruchamia własne otwarte modele AI, co zwiększa zapotrzebowanie na ich monitorowanie i zabezpieczanie.
+
