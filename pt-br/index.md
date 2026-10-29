@@ -6,12 +6,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-10-29](https://heniu.blog/pt-br/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-29](https://heniu.blog/pt-br/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamentos #0036: Honeywell Aerospace: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0036/index.md) (2026-10-29)
 - [Fundamentos #0035: Fortinet: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0035/index.md) (2026-10-29)
 - [Fundamentos #0034: Alphabet: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0034/index.md) (2026-10-29)
 - [Fundamentos #0033: Microsoft: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0033/index.md) (2026-10-29)
-- [H1: 2026-10-29](https://heniu.blog/pt-br/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [M15: 2026-10-28](https://heniu.blog/pt-br/t-log/tlog-2026-10-28/index.md) (2026-10-29)
 - [H1: 2026-10-28](https://heniu.blog/pt-br/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 - [Fundamentos #0032: Teradyne: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0032/index.md) (2026-10-28)
