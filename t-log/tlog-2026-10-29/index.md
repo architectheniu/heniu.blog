@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 17:29
+Data: 2026-10-29 17:44
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 17:44]</h3>
+<p>[T-LOG: 2026-10-29 17:44]</p>
+<p><strong>STATUS: OPEN | TRYB: SPOT</strong></p>
+<p>Obalono wsparcie HVN ekosystemu US100 na poziomie NDX 29420 (NQ ≈ 29574), co wywołało gwałtowną destabilizację układu. Gwiazda NDX znajduje się obecnie na poziomie 29401.46 (-1.38%), przy czym CVD na poziomie -12,88M wskazuje na trwający test podaży. Sonda NQ (29555.50, -1.41%) wykazuje rozwarstwienie wektorów: mimo spadku ceny, CVD na poziomie 25,77K sugeruje lokalną akumulację. Satelita QQQ (715.18, -1.44%) rejestruje test popytu z CVD 830,65K. Szeroka Giełda TICKQ (31.00) utrzymuje status testu popytu, pozostając powyżej swojej średniej SMA200 (27.81), co świadczy o relatywnej stabilności szerokiego rynku mimo uderzenia w indeksy.</p>
+<p>Masa Galaktyki wynosi 41.45 T (Delta: -0.01 T), a Średnia Akcja w koszyku spadła do $305.18 (Delta: -0.15 USD), co oznacza kurczenie się objętości układu. Zmienność (IV) w Sferze Dysona wynosi 21.43%, przy Put/Call Ratio na poziomie 1.19. Wektor rynkowy (Q-Score) wynosi 15, co wskazuje na skrajną neutralność w warunkach silnej presji podażowej na indeksach.</p>
+<p><strong>DIAGNOZA: Rozwarstwienie układu (Cross-Asset Divergence). Agresywna wyprzedaż w Gwiazdzie Matce (NDX) przy jednoczesnej próbie absorpcji i akumulacji na Sondzie (NQ) oraz Satelicie (QQQ). Układ w fazie grawitacyjnego napięcia po przebiciu kluczowej zapory HVN.</strong></p>
 <h3>🌌 [2026-10-29 17:29]</h3>
 <p>[T-LOG: 2026-10-29 17:29]</p>
 <p><strong>STATUS: SPOT | TRYB: SESJA KASOWA AKTYWNA</strong></p>

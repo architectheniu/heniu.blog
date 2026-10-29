@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 17:30
+Data: 2026-10-29 17:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 17:44]</h3>
+<p>[T-LOG: 2026-10-29 17:44]</p>
+<p><strong>STATUS: OPEN | MODO: SPOT</strong></p>
+<p>O suporte HVN do ecossistema US100 foi rompido no nível NDX 29420 (NQ ≈ 29574), o que causou uma desestabilização abrupta do sistema. A Estrela NDX encontra-se atualmente no nível 29401.46 (-1.38%), com o CVD no nível -12,88M indicando um teste de oferta contínuo. A Sonda NQ (29555.50, -1.41%) mostra uma divergência de vetores: apesar da queda de preço, o CVD no nível 25,77K sugere uma acumulação local. O Satélite QQQ (715.18, -1.44%) registra um teste de demanda com CVD de 830,65K. A Amplitude de mercado (TICKQ) (31.00) mantém o status de teste de demanda, permanecendo acima de sua média SMA200 (27.81), o que demonstra uma estabilidade relativa do mercado amplo apesar do impacto nos índices.</p>
+<p>A Massa da Galáxia é de 41.45 T (Delta: -0.01 T), e a Ação Média na cesta caiu para $305.18 (Delta: -0.15 USD), o que significa uma contração no volume do sistema. A volatilidade (IV) na Esfera de Dyson (QQQ) é de 21.43%, com o Put/Call Ratio no nível de 1.19. O vetor de mercado (Q-Score) é 15, o que indica neutralidade extrema sob condições de forte pressão de oferta nos índices.</p>
+<p><strong>DIAGNÓSTICO: Divergência de ativos (Cross-Asset Divergence). Venda agressiva na Estrela-Mãe (NDX) com uma tentativa simultânea de absorção e acumulação na Sonda (NQ) e no Satélite (QQQ). Sistema em fase de tensão gravitacional após a ruptura da barreira chave HVN.</strong></p>
 <h3>🌌 [2026-10-29 17:29]</h3>
 <p>[T-LOG: 2026-10-29 17:29]</p>
 <p><strong>STATUS: SPOT | MODO: SESSÃO À VISTA ATIVA</strong></p>
