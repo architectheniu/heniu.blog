@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0044: Intel: wyniki za 3Q2026
+
+Data: 2026-10-29 23:55
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0044/
+
+
+Przychody Intel (INTC) w trzecim kwartale wyniosły 16,51 mld USD (+20,9% r/r), natomiast zysk na akcję (księgowy) spadł do 0,60 USD (−33,3% r/r).
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) osiągnął poziom 0,63 USD (−30,0% r/r), podczas gdy zysk na akcję (skorygowany) wzrósł o 126,1% r/r do 0,52 USD. Zysk operacyjny spółki wyniósł 2,52 mld USD, co stanowi wzrost o 269,2% r/r w porównaniu do 683,00 mln USD rok wcześniej.
+
+### Prognoza spółki
+
+W czwartym kwartale 2026 spółka spodziewa się przychodów w przedziale 15,00 mld USD – 16,00 mld USD.
+
+### Co mówi zarząd
+
+Zarząd wyraził optymizm względem wzrostu w segmencie centrów danych. Według zarządu w przyszłym roku spółka może nie wypracować dodatnich wolnych przepływów pieniężnych, ponieważ traktuje ten czas jako okazję do inwestycji we wzrost. Zarząd wskazał, że moce zwolnione przez słabszy rynek komputerów można przeznaczyć na płytki dla centrów danych, jednak ograniczeniem są również podłoża do układów. Według zarządu sytuacja dotycząca dostępności pamięci w przyszłym roku nie napawa optymizmem. Zarząd podkreślał, że zewnętrzni klienci fabryk zgłaszają zainteresowanie i są zadowoleni z uzysku produkcji, z którymi spółka intensywnie pracuje. Według zarządu marże procesorów Panther Lake wyraźnie się poprawiły, choć nie osiągnęły jeszcze średniej dla całej firmy.
+
+
+---
+
 ## Fundamenty #0043: Starbucks: wyniki za 3Q2026
 
 Data: 2026-10-29 22:33
@@ -984,26 +1007,5 @@ W drugim kwartale 2027 spółka spodziewa się przychodów w przedziale 5,00 mld
 ### Co mówi zarząd
 
 Zarząd podkreślał, że wzrost marży brutto ma charakter trwały i jest napędzany przez ceny, większą gęstość zapisu oraz przechodzenie klientów na dyski o większej pojemności. Według zarządu otoczenie cenowe jest korzystne, co pozwala na dalsze podnoszenie ceny za terabajt, w tym przy dostawach poza umowami długoterminowymi. Zarząd zaznaczył, że klienci bardzo dobrze oceniają nowe dyski HAMR ze względu na ich niską awaryjność, co daje pewność co do zakończenia procesu ich kwalifikacji. Według zarządu spółka nie zamierza zwiększać liczby produkowanych dysków, lecz stawia na wzrost poprzez większą gęstość zapisu, a ewentualne spowolnienie u nowych dostawców chmury dla AI nie stanowiłoby poważnego problemu ze względu na trwały popyt.
-
-
----
-
-## Fundamenty #0020: Zgłoszenia spółek: Meta Platforms, Space Exploration Technologies, Tesla; transakcje insiderów
-
-Data: 2026-10-23 10:10
-Adres: https://heniu.blog/f-log/flog-2026-10-23-0020/
-
-
-Meta Platforms (META) złożyła raport kwartalny.
-
-Space Exploration Technologies (SPCX) złożyła raport kwartalny.
-
-Tesla (TSLA) złożyła raport kwartalny.
-
-Insiderzy sprzedali akcje za 1,3 mln USD, w tym 1,3 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Apple (AAPL): 0,8 mln USD. Drugą największą sprzedaż zgłosili insiderzy Western Digital (WDC): 0,3 mln USD.
-
-Jennifer Newstead, starszy wiceprezes i główny radca prawny oraz sprawy rządowe spółki Apple (AAPL), sprzedała 2 399 akcji o wartości 0,8 mln USD w ramach planu 10b5-1.
-
-Zgłoszono też 5 innych transakcji.
 
 

@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0044: Intel: 3Q2026 results
+
+Date: 2026-10-29 23:55
+URL: https://heniu.blog/en/f-log/flog-2026-10-29-0044/
+
+
+Intel (INTC) revenue in the third quarter was 16.51 billion USD (+20.9% y/y), while earnings per share (GAAP) fell to 0.60 USD (−33.3% y/y).
+
+### Quarterly results
+
+Earnings per share (GAAP, basic) reached 0.63 USD (−30.0% y/y), while earnings per share (adjusted) increased by 126.1% y/y to 0.52 USD. The company's operating income was 2.52 billion USD, representing a 269.2% y/y increase compared to 683.00 million USD a year earlier.
+
+### Company guidance
+
+In the fourth quarter of 2026, the company expects revenue in the range of 15.00 billion USD – 16.00 billion USD.
+
+### What management says
+
+Management expressed optimism regarding growth in the data center segment. According to management, the company may not generate positive free cash flows next year, as it views this period as an opportunity to invest in growth. Management indicated that capacity released by the weaker PC market can be allocated to data center wafers, however, substrate availability is also a constraint. According to management, the situation regarding memory availability next year is not optimistic. Management emphasized that external fab customers are expressing interest and are satisfied with the production yields, which the company is working intensively on. According to management, Panther Lake processor margins have clearly improved, although they have not yet reached the company-wide average.
+
+
+---
+
 ## Fundamentals #0043: Starbucks: 3Q2026 results
 
 Date: 2026-10-29 22:33
@@ -984,26 +1007,5 @@ In the second quarter of 2027, the company expects revenues in the range of 5.00
 ### Management commentary
 
 Management emphasized that the gross margin growth is permanent and is driven by pricing, higher recording density, and customers transitioning to higher capacity drives. According to management, the pricing environment is favorable, allowing for further increases in price per terabyte, including deliveries outside of long-term agreements. Management noted that customers highly rate the new HAMR drives due to their low failure rate, which provides confidence regarding the completion of their qualification process. According to management, the company does not intend to increase the number of drives produced, but is focusing on growth through higher recording density, and any potential slowdown among new AI cloud providers would not pose a serious problem due to sustained demand.
-
-
----
-
-## Fundamentals #0020: Company filings: Meta Platforms, Space Exploration Technologies, Tesla; insider transactions
-
-Date: 2026-10-23 10:10
-URL: https://heniu.blog/en/f-log/flog-2026-10-23-0020/
-
-
-Meta Platforms (META) filed quarterly results.
-
-Space Exploration Technologies (SPCX) filed quarterly results.
-
-Tesla (TSLA) filed quarterly results.
-
-Insiders sold shares for 1.3 million USD, including 1.3 million USD from 10b5-1 plans; market purchases were 0. The largest sale was reported by Apple (AAPL) insiders: 0.8 million USD. The second largest sale was reported by Western Digital (WDC) insiders: 0.3 million USD.
-
-Jennifer Newstead, Senior Vice President and General Counsel and Government Affairs of Apple (AAPL), sold 2,399 shares valued at 0.8 million USD under a 10b5-1 plan.
-
-5 other transactions were also reported.
 
 

@@ -1,0 +1,23 @@
+# Fundamenty #0044: Intel: wyniki za 3Q2026
+
+Data: 2026-10-29 23:55
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0044/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody Intel (INTC) w trzecim kwartale wyniosły 16,51 mld USD (+20,9% r/r), natomiast zysk na akcję (księgowy) spadł do 0,60 USD (−33,3% r/r).
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) osiągnął poziom 0,63 USD (−30,0% r/r), podczas gdy zysk na akcję (skorygowany) wzrósł o 126,1% r/r do 0,52 USD. Zysk operacyjny spółki wyniósł 2,52 mld USD, co stanowi wzrost o 269,2% r/r w porównaniu do 683,00 mln USD rok wcześniej.
+
+### Prognoza spółki
+
+W czwartym kwartale 2026 spółka spodziewa się przychodów w przedziale 15,00 mld USD – 16,00 mld USD.
+
+### Co mówi zarząd
+
+Zarząd wyraził optymizm względem wzrostu w segmencie centrów danych. Według zarządu w przyszłym roku spółka może nie wypracować dodatnich wolnych przepływów pieniężnych, ponieważ traktuje ten czas jako okazję do inwestycji we wzrost. Zarząd wskazał, że moce zwolnione przez słabszy rynek komputerów można przeznaczyć na płytki dla centrów danych, jednak ograniczeniem są również podłoża do układów. Według zarządu sytuacja dotycząca dostępności pamięci w przyszłym roku nie napawa optymizmem. Zarząd podkreślał, że zewnętrzni klienci fabryk zgłaszają zainteresowanie i są zadowoleni z uzysku produkcji, z którymi spółka intensywnie pracuje. Według zarządu marże procesorów Panther Lake wyraźnie się poprawiły, choć nie osiągnęły jeszcze średniej dla całej firmy.
+
