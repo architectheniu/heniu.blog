@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [M15: 2026-10-30](https://heniu.blog/en/t-log/tlog-2026-10-30/index.md) (2026-10-30)
 - [Fundamentals #0047: Monolithic Power Systems: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0047/index.md) (2026-10-30)
 - [Fundamentals #0046: Mondelez International: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0046/index.md) (2026-10-30)
 - [Fundamentals #0045: Gilead Sciences: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0045/index.md) (2026-10-30)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [M15: 2026-10-22](https://heniu.blog/en/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [Log #0209: Session summary 2026-10-22: NDX 28962.86 (-2.90%)](https://heniu.blog/en/posts/log-0209/index.md) (2026-10-22)
 - [Fundamentals #0019: Roper Technologies: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-22-0019/index.md) (2026-10-22)
-- [Fundamentals #0018: Honeywell International: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-22-0018/index.md) (2026-10-22)
 
