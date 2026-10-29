@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 07:07
+Data: 2026-10-29 08:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.29</h1>
+<h3>📈 [2026-10-29 08:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ notowane są na poziomie 29647.50 (-1.11%), przy skumulowanym przepływie (CVD) wynoszącym 401, co wskazuje na testowanie popytu. Indeks NDX zamknął sesję kasową na poziomie 29821.71 (+0.55%) z silnym napływem kapitału (CVD 152,16 M).</li>
+<li>Obecne cofnięcie od szczytu z dnia 28.10 (29847.38) wynosi -0.09% (-26 pkt), co klasyfikuje ruch jako zwykłe cofnięcie, znacznie płytsze niż dotychczasowe korekty. Najbliższe kluczowe poziomy to wsparcie w strefie 29780–29800 oraz opór w strefie 29830–29850.</li>
+<li>Wskaźnik kierunku przepływów wynosi 35, co oznacza utrzymującą się dodatnią przewagę napływu kapitału.</li>
+<li>Dane opcyjne na QQQ wskazują na zmienność implikowaną (IV) na poziomie 21.38% oraz stosunek Put/Call Volume na poziomie 1.11, co sugeruje zwiększone zainteresowanie budowaniem zabezpieczeń (hedgingu) po stronie opcji sprzedaży. Oczekiwany zasięg ruchu wynosi 716.53 do 734.69.</li>
+</ul>
+<p>Raport H-Log: 2026-10-29 08:07</p>
 <h3>📈 [2026-10-29 07:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong>. Rynek kasowy (Spot) jest obecnie zamknięty.</p>
