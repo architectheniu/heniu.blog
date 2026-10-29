@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 14:45
+Data: 2026-10-29 14:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 14:59]</h3>
+<p><strong>Status: a sessão à vista (Spot)</strong><br />
+a Sonda NQ: 29544.25. No sistema, foi registrada uma troca intensa na zona de barreiras HVN (NDX 29330 - 29360), onde ocorreu primeiro a quebra do suporte e, em seguida, a rápida conquista das barreiras (NQ ≈ 29511). a Amplitude de mercado (TICKQ) ampla (316.00) sinaliza um disparo do mercado, significativamente acima da média de radiação SMA200 (21.59), o que indica uma forte pressão de compra em um espectro amplo. A Massa da Galáxia sofreu uma leve redução (-0.10 T) para o nível de 41.29 T, e a Ação Média caiu 0.16 USD, atingindo 304.08 USD, o que demonstra um leve encolhimento da cesta. Na a Esfera de Dyson (QQQ), o Put/Call Ratio é de 1.30 com IV de 22.16%. O Q-Score no nível 20 indica um vetor direcional fraco, porém positivo. Apesar dos testes locais de demanda nos instrumentos, a dinâmica atual do fluxo de energia (CVD) no NDX em conjunto com o alto TICKQ sugere uma estratificação do sistema e assimetria de fluxos.</p>
+<p><strong>Diagnóstico: Divergência de vetores (Cross-Asset Divergence) – dominância de compra no mercado amplo com venda simultânea no Núcleo (NDX).</strong></p>
 <h3>🌌 [2026-10-29 14:44]</h3>
 <p>Log: 2026-10-29 14:44</p>
 <p>Modo SPOT ativo. A Sonda NQ encontra-se no nível 29531.50 (-1.49%), com ADR acima da média (67.98%). No setor HVN, foi registrada uma troca intensa na zona 29330 - 29845, onde ocorreu a quebra do suporte e a captura simultânea da barreira (NDX 29330 / NQ ≈ 29484).</p>

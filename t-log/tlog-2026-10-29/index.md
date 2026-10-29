@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 14:44
+Data: 2026-10-29 14:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 14:59]</h3>
+<p><strong>Status: SPOT</strong><br />
+Sonda NQ: 29544.25. W układzie odnotowano intensywną wymianę w strefie zapór HVN (NDX 29330 - 29360), gdzie nastąpiło najpierw obalenie wsparcia, a następnie szybkie zdobycie zapor (NQ ≈ 29511). Szeroka Giełda TICKQ (316.00) sygnalizuje wystrzał rynku, znacząco powyżej średniej radiacji SMA200 (21.59), co wskazuje na silną presję popytową w szerokim spektrum. Masa Galaktyki uległa lekkiej redukcji (-0.10 T) do poziomu 41.29 T, a Średnia Akcja spadła o 0.16 USD, osiągając 304.08 USD, co świadczy o lekkim kurczeniu się koszyka. W Sferze Dysona Put/Call Ratio wynosi 1.30 przy IV 22.16%. Q-Score na poziomie 20 wskazuje na słaby, ale dodatni wektor kierunkowy. Mimo lokalnych testów popytu na instrumentach, obecna dynamika CVD na NDX w zestawieniu z wysokim TICKQ sugeruje rozwarstwienie układu i asymetrię przepływów.</p>
+<p><strong>Diagnostyka: Rozwarstwienie wektorów (Cross-Asset Divergence) – dominacja popytu w szerokim rynku przy jednoczesnej wyprzedaży w Jadrze (NDX).</strong></p>
 <h3>🌌 [2026-10-29 14:44]</h3>
 <p>Log: 2026-10-29 14:44</p>
 <p>Tryb SPOT aktywny. Sonda NQ znajduje się na poziomie 29531.50 (-1.49%), przy ADR powyżej średniej (67.98%). W sektorze HVN odnotowano intensywną wymianę w strefie 29330 - 29845, gdzie nastąpiło obalenie wsparcia i jednoczesne zdobycie zapory (NDX 29330 / NQ ≈ 29484).</p>
