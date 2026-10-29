@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 09:29
+Data: 2026-10-29 09:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 09:59]</h3>
+<p>[DANE TELEMETRYCZNE - 2026-10-29 09:59]<br />
+TRYB: FUTURES (NQ aktywny)</p>
+<p>Sonda NQ znajduje się na poziomie 29662.00 (-1.06%). Wektor Q-Score wynosi 35 (Delta: +0.0). Obiekt wykazuje obecność agresywnego popytu wewnątrz mikrostruktury, co potwierdza wartość CVD na poziomie 3.15K (stan: test popytu). ADR NQ wynosi 54.45%, co wskazuje na aktywność powyżej średnich zakresów. W sferze opcji (QQQ) zmienność (IV) oscyluje wokół 21.38%, przy zasięgu oczekiwanym w przedziale 716.53 – 734.69. Put/Call Ratio wynosi 1.11, co sygnalizuje asymetrię wolumenu na korzyść kontraktów Put. Pozostałe obiekty (NDX, QQQ, TICKQ) pozostają w stanie uśpienia ze względu na brak sesji kasowej.</p>
+<p>Układ w fazie testowania lokalnej absorpcji przy jednoczesnym występowaniu presji na ubezpieczenie spadków.</p>
+<p>Log: 2026-10-29 09:59</p>
 <h3>🌌 [2026-10-29 09:29]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-29 09:29]<br />
 Tryb Sesji: FUTURES (Tylko NQ)</p>

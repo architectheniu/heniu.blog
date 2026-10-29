@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 09:29
+Data: 2026-10-29 09:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 09:59]</h3>
+<p>[DADOS TELEMÉTRICOS - 2026-10-29 09:59]<br />
+MODO: FUTUROS (NQ ativo)</p>
+<p>a Sonda NQ encontra-se no nível 29662.00 (-1.06%). O vetor Q-Score é 35 (Delta: +0.0). O objeto apresenta presença de demanda agressiva dentro da microestrutura, o que é confirmado pelo valor do CVD no nível 3.15K (estado: teste de demanda). O ADR NQ é 54.45%, o que indica atividade acima das médias de amplitude. Na esfera de opções (QQQ), a volatilidade (IV) oscila em torno de 21.38%, com o alcance esperado na faixa de 716.53 – 734.69. O Put/Call Ratio é 1.11, o que sinaliza assimetria de volume em favor dos contratos Put. Os demais objetos (NDX, QQQ, TICKQ) permanecem em estado de dormência devido à ausência da sessão à vista (Spot).</p>
+<p>O sistema está em fase de teste de absorção local, ocorrendo simultaneamente uma pressão para proteção contra quedas.</p>
+<p>Log: 2026-10-29 09:59</p>
 <h3>🌌 [2026-10-29 09:29]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-29 09:29]<br />
 Modo de Sessão: FUTURES (Apenas NQ)</p>
