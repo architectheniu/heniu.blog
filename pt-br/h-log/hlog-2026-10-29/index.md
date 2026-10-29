@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Data: 2026-10-29 18:08
+Data: 2026-10-29 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.29 [PT-BR]</h1>
+<h3>📈 [2026-10-29 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de preços e fluxos:</strong> O Índice NDX está em 29312.98 (-1.68%), o que representa um Recuo desde o pico do Heniu de 28.10 (29847.38) de 534 pts (-1.79%). Na sessão à vista, foi registrado um teste de oferta no NDX (CVD: -9,86 M), com acumulação simultânea nos contratos NQ (CVD: 16,77 K) e teste de demanda no ETF QQQ (CVD: 595,86 K). O indicador de direção de fluxo é 12, o que indica uma leve vantagem no influxo de capital. A Amplitude de mercado (TICKQ) está no nível 98.00, significativamente acima da média SMA200 de 27.59.</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 21.56%, e o Put/Call Volume Ratio no nível de 1.16 sugere a dominância de posições de proteção (hedging) ou a expectativa de maior pressão de baixa. Com um volume de opções de 4,438,400, o alcance esperado do movimento situa-se no intervalo de 709.35 a 722.99 pontos.</p>
+</li>
+<li>
+<p><strong>Níveis técnicos:</strong> A correção atual é mais rasa do que todas as 8 correções históricas registradas na memória do sistema. Os nós de volume mais próximos são: suporte na zona 29090–29110 (1.3% do volume) e resistência na zona 29410–29430 (0.8% do volume). O preço atual está na zona 29310–29330, que concentra 1.8% do volume.</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-10-29 19:07</p>
 <h3>📈 [2026-10-29 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
