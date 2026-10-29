@@ -1,6 +1,6 @@
 # H1: 2026-10-29
 
-Date: 2026-10-29 11:08
+Date: 2026-10-29 12:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.29 [EN]</h1>
+<h3>📈 [2026-10-29 12:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on NQ futures contracts and data from the regular session close.</li>
+<li>NQ contracts show selling pressure, oscillating around the 29693.25 level (-0.95%), with a low cumulative flow (CVD) of 6.87 K, indicating a test of demand.</li>
+<li>The NDX index closed the cash session at 29813.16 (+0.55%), with a high capital inflow (CVD 152.42 M). The current drawdown from the peak of 28.10 (29847.38) is -0.11% and is classified as a regular drawdown, of a shallower nature than previous corrections.</li>
+<li>Key technical levels: the nearest support zone (volume node) is in the 29780–29800 range, while resistance is in the 29830–29850 range.</li>
+<li>The QQQ options market indicates moderate volatility (IV 21.38%) and a prevalence of short positions (Put/Call Ratio 1.11), suggesting hedging against a potential decline. The market-expected movement range is between 716.53 and 734.69 points.</li>
+<li>The aggregate flow direction indicator is 35, indicating a sustained, though moderate, prevalence of capital inflow.</li>
+</ul>
+<p>H-Log Report: 2026-10-29 12:07</p>
 <h3>📈 [2026-10-29 11:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong>. The cash session (Spot) is currently closed.</p>
