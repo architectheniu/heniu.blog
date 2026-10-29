@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 10:30
+Data: 2026-10-29 11:00
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>🌌 [2026-10-29 10:59]</h3>
+<p>[TELEMETRIA: MODO FUTUROS - ANÁLISE DA SONDA NQ]</p>
+<p>Sonda NQ: 29699.25 (-0.93%). CVD: 5,61K [teste de demanda]. Q-Score: 35 (Delta: +0.0). ADR: 54.45% (acima da média). Esfera de Dyson (QQQ): IV 21.38%, Put/Call Ratio 1.11.</p>
+<p>O objeto NQ apresenta atualmente um estado de teste de demanda com dinâmica de preço negativa, o que sugere uma tentativa de absorção de oferta no micro-regime atual. O vetor Q-Score permanece estável no nível 35, não apresentando mudanças cinéticas desde a última leitura. Apesar do valor de preço negativo, o volume agressivo (CVD) indica a presença de impulsos de compra, o que pode evidenciar a formação de absorção passiva em torno dos níveis atuais. A volatilidade na Esfera de Dyson (IV 21.38%) com a assimetria de volume Put/Call (1.11) indica uma pressão moderada para proteção de posições. Falta de dados sobre a atividade da NDX e TICKQ devido ao modo da sessão de futuros.</p>
+<p>Sistema em fase de teste de níveis locais com a atual dominância de teste de demanda no volume.</p>
+<p>Log: 2026-10-29 10:59</p>
 <h3>🌌 [2026-10-29 10:29]</h3>
 <p>[T-LOG: 2026-10-29 10:29]</p>
 <p>STATUS: MODO FUTUROS (APENAS NQ)</p>

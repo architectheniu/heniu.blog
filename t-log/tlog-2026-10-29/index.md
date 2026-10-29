@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 10:29
+Data: 2026-10-29 10:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>🌌 [2026-10-29 10:59]</h3>
+<p>[TELEMETRIA: TRYB FUTURES - ANALIZA SONDA NQ]</p>
+<p>Sonda NQ: 29699.25 (-0.93%). CVD: 5,61K [test popytu]. Q-Score: 35 (Delta: +0.0). ADR: 54.45% (powyżej średniej). Sfera Dysona (QQQ): IV 21.38%, Put/Call Ratio 1.11.</p>
+<p>Obiekt NQ wykazuje obecnie stan testu popytu przy ujemnej dynamice ceny, co sugeruje próbę absorpcji podaży w bieżącym mikro-reżimie. Wektor Q-Score pozostaje stabilny na poziomie 35, nie wykazując zmian kinetycznych od ostatniego odczytu. Mimo ujemnej wartości ceny, agresywny wolumen (CVD) wskazuje na obecność impulsów kupujących, co może świadczyć o powstawaniu pasywnej absorpcji w okolicach aktualnych poziomów. Zmienność w Sferze Dysona (IV 21.38%) przy asymetrii wolumenu Put/Call (1.11) wskazuje na umiarkowaną presję na ubezpieczenie pozycji. Brak danych o aktywności NDX oraz TICKQ ze względu na tryb sesji Futures.</p>
+<p>Układ w fazie testowania lokalnych poziomów z obecną dominacją testu popytu w wolumenie.</p>
+<p>Log: 2026-10-29 10:59</p>
 <h3>🌌 [2026-10-29 10:29]</h3>
 <p>[T-LOG: 2026-10-29 10:29]</p>
 <p>STATUS: TRYB FUTURES (TYLKO NQ)</p>
