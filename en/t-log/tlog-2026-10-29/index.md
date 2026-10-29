@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Date: 2026-10-29 21:59
+Date: 2026-10-29 23:29
 URL: https://heniu.blog/en/t-log/tlog-2026-10-29/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.29 [EN]</h1>
+<h3>⏱️ [2026-10-29 23:29] · Futures (cash market closed)</h3>
+<ul>
+<li><strong>NQ contract:</strong> <strong>29107.75</strong> (-1.54%) · share of the average daily range (ADR) used <strong>13.31%</strong></li>
+<li><strong>NQ flow:</strong> CVD <strong>-2 K</strong> [supply test] · direction gauge <strong>30</strong> (±100 scale)</li>
+<li>NDX, QQQ, market breadth and the company basket return with the opening of the cash session at 14:30 Polish time.</li>
+</ul>
+<p>The NQ contract price broke below the HVN zone support, followed by a rebound and a re-break of the same level upwards. A supply test was recorded in the flow at a negative CVD value.</p>
 <h3>🌌 [2026-10-29 21:59]</h3>
 <p>[TELEMETRY DATA - 2026-10-29 21:59]<br />
 Session mode: the futures session (Only NQ)</p>

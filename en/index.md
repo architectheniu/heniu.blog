@@ -6,9 +6,9 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [M15: 2026-10-29](https://heniu.blog/en/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/en/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamentals #0043: Starbucks: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0043/index.md) (2026-10-29)
-- [M15: 2026-10-29](https://heniu.blog/en/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Log #0215: Session summary 2026-10-29: NDX 29407.05 (-1.38%)](https://heniu.blog/en/posts/log-0215/index.md) (2026-10-29)
 - [Fundamentals #0042: Xcel Energy: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0042/index.md) (2026-10-29)
 - [Fundamentals #0041: DoorDash: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0041/index.md) (2026-10-29)

@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 21:59
+Data: 2026-10-29 23:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.29 [PT-BR]</h1>
+<h3>⏱️ [2026-10-29 23:29] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>29107.75</strong> (-1.54%) · parcela da amplitude média diária (ADR) utilizada <strong>13.31%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>-2 K</strong> [teste de oferta] · indicador de direção <strong>30</strong> (escala ±100)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista às 14:30 (horário da Polônia).</li>
+</ul>
+<p>O preço do contrato NQ rompeu para baixo o suporte da zona de HVN, seguido por um repique e uma nova ruptura desse mesmo nível para cima. No fluxo, foi registrado um teste de oferta com valor de CVD negativo.</p>
 <h3>🌌 [2026-10-29 21:59]</h3>
 <p>[DADOS TELEMÉTRICOS - 2026-10-29 21:59]<br />
 Modo de sessão: a sessão de futuros (Apenas NQ)</p>

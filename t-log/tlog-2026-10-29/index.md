@@ -1,6 +1,6 @@
 # M15: 2026-10-29
 
-Data: 2026-10-29 21:59
+Data: 2026-10-29 23:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-29/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.29</h1>
+<h3>⏱️ [2026-10-29 23:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
+<ul>
+<li><strong>Kontrakt NQ:</strong> <strong>29107.75</strong> (-1.54%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>13.31%</strong></li>
+<li><strong>Przepływ NQ:</strong> CVD <strong>-2 K</strong> [test podaży] · wskaźnik kierunku <strong>30</strong> (skala ±100)</li>
+<li>NDX, QQQ, szerokość rynku i koszyk spółek wracają z otwarciem sesji kasowej o 14:30 czasu polskiego.</li>
+</ul>
+<p>Cena kontraktu NQ przebiła w dół wsparcie strefy HVN, po czym nastąpiło jej odbicie i ponowne przebicie tego samego poziomu w górę. W przepływie odnotowano test podaży przy ujemnej wartości CVD.</p>
 <h3>🌌 [2026-10-29 21:59]</h3>
 <p>[DANE TELEMETRYCZNE - 2026-10-29 21:59]<br />
 Tryb sesji: FUTURES (Tylko NQ)</p>
