@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0038: T-Mobile US: 3Q2026 results
+
+Date: 2026-10-29 02:20
+URL: https://heniu.blog/en/f-log/flog-2026-10-29-0038/
+
+
+T-Mobile US (TMUS) revenues in the third quarter increased by 7.4% y/y to 23.58 billion USD, and earnings per share (GAAP) increased by 33.6% y/y to 3.22 USD.
+
+### Quarterly results
+
+Earnings per share (GAAP, diluted) was 3.23 USD (33.5% y/y), while operating income reached 5.66 billion USD (25.0% y/y).
+
+### Company guidance
+
+The company expects revenues in the range of 37.35 billion USD – 37.45 billion USD and free cash flows in the range of 18.70 billion USD – 18.80 billion USD, with a tax rate of 24.0% – 25.0%.
+
+### Management commentary
+
+Management emphasized that in fixed broadband via cellular networks, they see continued strong growth and increasing revenue per customer. According to management, gains from AI-driven radio network planning exceeded expectations. Management noted that satellite connectivity is treated as a complementary product, therefore they do not foresee reselling another operator's satellite services on their network. According to management, the company aims to maintain a balance between the number of customers and their value, focusing on acquiring accounts and translating this into a financial advantage. Management also pointed to a belief in bundling services rather than strictly combining fixed and mobile telephony.
+
+
+---
+
 ## Fundamentals #0037: KLA: 1Q2027 results
 
 Date: 2026-10-29 02:17
@@ -980,24 +1003,5 @@ Earnings per share (GAAP) was 2.19 USD (+76.6% y/y), while earnings per share (G
 ### Management commentary
 
 According to management, China's share of revenue in the December quarter will be significantly lower, mainly due to Chinese domestic customers. Management also noted that there is no one-time revenue in the December quarter, and equipment that does not ship in December will be shipped in the March quarter.
-
-
----
-
-## Fundamentals #0014: Meta Platforms: 3Q2026 results
-
-Date: 2026-10-22 11:17
-URL: https://heniu.blog/en/f-log/flog-2026-10-22-0014/
-
-
-Meta Platforms (META) revenue in the third quarter was 64.60 billion USD (+26.1% y/y), and net income increased by 264.0% y/y to a level of 9.86 billion USD.
-
-### Quarterly results
-
-Earnings per share (GAAP) reached 3.83 USD (+264.8% y/y), while earnings per share (GAAP, diluted) was 3.86 USD (+257.4% y/y).
-
-### Company guidance
-
-In the fourth quarter, the company expects revenue in the range of 73.00 billion USD – 76.00 billion USD, and estimates capital expenditures at 135.00 billion USD – 145.00 billion USD or 130.00 billion USD – 145.00 billion USD.
 
 

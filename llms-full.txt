@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0038: T-Mobile US: wyniki za 3Q2026
+
+Data: 2026-10-29 02:20
+Adres: https://heniu.blog/f-log/flog-2026-10-29-0038/
+
+
+Przychody T-Mobile US (TMUS) w trzecim kwartale wzrosły o 7,4% r/r do poziomu 23,58 mld USD, a zysk na akcję (księgowy) zwiększył się o 33,6% r/r do 3,22 USD.
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) wyniósł 3,23 USD (33,5% r/r), natomiast zysk operacyjny osiągnął 5,66 mld USD (25,0% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów na poziomie 37,35 mld USD – 37,45 mld USD oraz wolnych przepływów pieniężnych w przedziale 18,70 mld USD – 18,80 mld USD, przy stopie podatkowej wynoszącej 24,0% – 25,0%.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że w internecie stacjonarnym przez sieć komórkową widzi dalszy silny wzrost oraz rosnący przychód na klienta. Według zarządu zyski z planowania sieci radiowej przez AI okazały się większe od oczekiwań. Zarząd zaznaczył, że łączność satelitarna jest traktowana jako produkt uzupełniający, przez co nie przewiduje odsprzedaży usług satelitarnych innego operatora w swojej sieci. Według zarządu spółka dąży do zachowania równowagi między liczbą klientów a ich wartością, skupiając się na zdobywaniu kont i przekładaniu tego na przewagę finansową. Zarząd wskazał również na wiarę w łączenie usług w pakiety zamiast ścisłego łączenia telefonii stacjonarnej z komórkową.
+
+
+---
+
 ## Fundamenty #0037: KLA: wyniki za 1Q2027
 
 Data: 2026-10-29 02:17
@@ -980,24 +1003,5 @@ Zysk na akcję (księgowy) wyniósł 2,19 USD (+76,6% r/r), natomiast zysk na ak
 ### Co mówi zarząd
 
 Według zarządu udział Chin w przychodach w kwartale grudniowym będzie wyraźnie niższy, głównie przez chińskich klientów krajowych. Zarząd zaznaczył również, że w kwartale grudniowym nie ma przychodów jednorazowych, a sprzęt, który nie zdąży wyjechać w grudniu, zostanie wysłany w kwartale marcowym.
-
-
----
-
-## Fundamenty #0014: Meta Platforms: wyniki za 3Q2026
-
-Data: 2026-10-22 11:17
-Adres: https://heniu.blog/f-log/flog-2026-10-22-0014/
-
-
-Przychody Meta Platforms (META) w trzecim kwartale wyniosły 64,60 mld USD (+26,1% r/r), a zysk netto wzrósł o 264,0% r/r do poziomu 9,86 mld USD.
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy) osiągnął 3,83 USD (+264,8% r/r), przy czym zysk na akcję (księgowy, podstawowy) wyniósł 3,86 USD (+257,4% r/r).
-
-### Prognoza spółki
-
-W czwartym kwartale spółka spodziewa się przychodów w przedziale 73,00 mld USD – 76,00 mld USD, a nakłady inwestycyjne szacuje na 135,00 mld USD – 145,00 mld USD lub 130,00 mld USD – 145,00 mld USD.
 
 
