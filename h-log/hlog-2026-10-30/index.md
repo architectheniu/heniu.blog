@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 10:07
+Data: 2026-10-30 11:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.30</h1>
+<h3>📈 [2026-10-30 11:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ notowane są na poziomie 28878.25 (-2.32%), przy ujemnym przepływie skumulowanym (CVD) wynoszącym -6.54K, co wskazuje na test podaży w handlu terminowym.</li>
+<li>W ujęciu całego rynku, zbiorczy wskaźnik kierunku przepływów wynosi 5, co oznacza neutralną tendencję z lekką przewagą napływu kapitału.</li>
+<li>Na rynku kasowym przed zamknięciem odnotowano istotną anomalię: mimo spadku indeksu NDX o (-1.38%), skumulowany przepływ (CVD) wyniósł 6.2M akcji, co świadczy o silnej pasywnej absorpcji popytu (akumulacji) w trakcie spadków ceny.</li>
+<li>Dane opcyjne na QQQ (IV: 22.07%, PCR: 1.25, wolumen: 6,851,253) wskazują na przewagę pozycji typu Put, co sugeruje budowę zabezpieczeń (hedgingu) na wypadek dalszej zmienności. Oczekiwany zasięg ruchu mieści się w przedziale 704.07 do 726.61.</li>
+<li>Analiza techniczna: Indeks NDX znajduje się w fazie zwykłego cofnięcia od szczytu z dnia 28.10 (29847.38), wynoszącego obecnie -1.49% (-445 pkt). Najbliższa strefa wsparcia znajduje się w przedziale 29380–29400, natomiast opór wyznaczają poziomy 29470–29490.</li>
+</ul>
+<p>Raport H-Log: 2026-10-30 11:07</p>
 <h3>📈 [2026-10-30 10:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong>. Rynek kasowy (Spot) jest obecnie zamknięty.</p>
