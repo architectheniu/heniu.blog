@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 14:07
+Data: 2026-10-30 15:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.30</h1>
+<h3>📈 [2026-10-30 15:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Analiza przepływów i ceny:</strong> Indeks NDX odnotowuje spadek o -2.50% (28668.54), jednak na rynku kasowym występuje silna dywergencja względem ceny – skumulowany przepływ (CVD) dla NDX wynosi 5,49 M, co wskazuje na aktywną absorpcję popytu mimo spadków. Jednocześnie kontrakty NQ (-2.56%) oraz ETF QQQ (-2.53%) wykazują presję sprzedażową, potwierdzoną ujemnym CVD dla NQ (-26,95 K) oraz QQQ (-804,24 K). Szeroki rynek (TICKQ) znajduje się w silnym trendzie spadkowym przy wartości -111.00.</li>
+<li><strong>Sentyment i opcje:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 0, co oznacza brak wyraźnej dominacji jednej ze stron w ujęciu łącznym. Rynek opcji QQQ przy wolumenie 841,086 wskazuje na wzrost oczekiwań na zmienność (IV: 24.37%) oraz przewagę pozycji krótkich (Put/Call Ratio: 1.10), co sugeruje budowanie zabezpieczeń przed dalszymi spadkami. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 677.82 do 711.98.</li>
+<li><strong>Kontekst techniczny:</strong> Bieżąca korekta od szczytu z 28.10 (29847.38) wynosi -3.95% (-1179 pkt). Jest to ruch o charakterze zwykłego cofnięcia, mieszczący się w medianie historycznych korekt. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 28940–28960.</li>
+</ul>
+<p>Raport H-Log: 2026-10-30 15:07</p>
 <h3>📈 [2026-10-30 14:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
