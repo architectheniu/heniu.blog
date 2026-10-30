@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Date: 2026-10-30 15:59
+Date: 2026-10-30 16:14
 URL: https://heniu.blog/en/t-log/tlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.30 [EN]</h1>
+<h3>⏱️ [2026-10-30 16:14] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28570.68</strong> (-2.83%; since the previous entry -54.82 pts) · NQ <strong>28714.75</strong> (-2.87%; -52.50 pts) · QQQ <strong>695.07 USD</strong> (-2.83%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-37.74 M</strong> [sell-off] · CVD NQ <strong>-55.99 K</strong> [market breakdown] (since the previous entry -5.42 K) · CVD QQQ <strong>-1.91 M</strong> [sell-off] · TICKQ <strong>-364</strong> [market breakdown] · SMA200 average <strong>36.62</strong> [accumulation] (-1.23) · direction gauge <strong>-40</strong> (±100 scale; -10)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.45 trillion USD</strong> (since the previous entry -0.06 trillion USD) · share of companies above 1 trillion USD <strong>68.2%</strong> (+0.0 pp) · average share price <strong>297.82 USD</strong> (-0.53 USD) · QQQ options: implied volatility <strong>24.08%</strong>, put/call <strong>0.91</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28940–28960</strong> (1.29% higher)</li>
+</ul>
+<p>CVD flow for the NQ contract has deteriorated since the previous entry, which goes hand in hand with the decline in the price of this instrument. The direction gauge has decreased, reflecting the downward trend observed in the market.</p>
 <h3>⏱️ [2026-10-30 15:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>28625.50</strong> (-2.64%; since the previous entry -24.62 pts) · NQ <strong>28767.25</strong> (-2.69%; -27.75 pts) · QQQ <strong>696.34 USD</strong> (-2.66%)</li>
