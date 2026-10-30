@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 07:08
+Data: 2026-10-30 08:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.30 [PT-BR]</h1>
+<h3>📈 [2026-10-30 08:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se nos contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> O preço dos contratos é 28978.25 (-1.97%). O fluxo acumulado (CVD) no nível de -5,88 K indica um teste de oferta durante a sessão de futuros.</li>
+<li><strong>Análise do mercado à vista (fechado):</strong> O Índice Nasdaq-100 (NDX) fechou no nível de 29411.04 (-1.38%). Apesar da queda de preço, foi registrado um fluxo de capital significativo no mercado à vista (CVD NDX = 191,25 M), o que sugere um processo de absorção passiva de oferta. O indicador de direção dos fluxos é 30, o que significa uma vantagem moderada de entrada de capital.</li>
+<li><strong>Níveis técnicos:</strong> Desde o pico do dia 28.10 (29847.38), registrou-se um Recuo desde o pico do Heniu de -1.46% (-436 pts). A zona de suporte mais próxima (nó de volume) encontra-se no intervalo 29380–29400 (0.04% abaixo do preço atual do NDX). A zona de resistência mais próxima é 29470–29490 (0.20% acima do preço do NDX).</li>
+<li><strong>Mercado de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 22.07%, com volume de 6,851,253. O Put/Call Ratio no nível de 1.25 indica um aumento na atividade de opções de venda, o que sugere a construção de proteção (hedging) por parte dos investidores. O alcance esperado de movimento para o ETF QQQ situa-se no intervalo de 704.07 a 726.61.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-30 08:07</p>
 <h3>📈 [2026-10-30 07:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
