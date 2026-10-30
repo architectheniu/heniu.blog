@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 10:08
+Data: 2026-10-30 11:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.30 [PT-BR]</h1>
+<h3>📈 [2026-10-30 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A análise baseia-se nos contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo negociados no nível 28878.25 (-2.32%), com um fluxo acumulado (CVD) negativo de -6.54K, o que indica um teste de oferta na negociação de futuros.</li>
+<li>Em uma perspectiva de todo o mercado, o indicador de direção agregado de fluxos é 5, o que significa uma tendência neutra com uma leve predominância de entrada de capital.</li>
+<li>No mercado à vista (Spot), antes do fechamento, foi registrada uma anomalia significativa: apesar da queda do índice NDX de (-1.38%), o fluxo acumulado (CVD) foi de 6.2M de ações, o que demonstra uma forte absorção passiva de demanda (acumulação) durante a queda dos preços.</li>
+<li>Os dados de opções sobre QQQ (IV: 22.07%, PCR: 1.25, volume: 6,851,253) indicam uma predominância de posições do tipo Put, o que sugere a construção de proteções (hedging) para o caso de maior volatilidade. O alcance esperado de movimento situa-se no intervalo de 704.07 a 726.61.</li>
+<li>Análise técnica: O Índice Nasdaq-100 (NDX) encontra-se em uma fase de recuo comum desde o pico do dia 28.10 (29847.38), representando atualmente -1.49% (-445 pts). A zona de suporte mais próxima está no intervalo 29380–29400, enquanto a resistência é definida pelos níveis 29470–29490.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-30 11:07</p>
 <h3>📈 [2026-10-30 10:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong>. a sessão à vista (Spot) está atualmente fechada.</p>

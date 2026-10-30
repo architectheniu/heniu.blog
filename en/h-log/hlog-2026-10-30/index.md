@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Date: 2026-10-30 10:08
+Date: 2026-10-30 11:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.30 [EN]</h1>
+<h3>📈 [2026-10-30 11:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on NQ futures contracts and data from the regular session close.</li>
+<li>NQ contracts are trading at 28878.25 (-2.32%), with a negative cumulative flow (CVD) of -6.54K, indicating a supply test in futures trading.</li>
+<li>In terms of the whole market, the aggregate flow direction gauge is 5, which means a neutral trend with a slight advantage of capital inflow.</li>
+<li>In the cash session before closing, a significant anomaly was recorded: despite the NDX index falling by (-1.38%), the cumulative flow (CVD) was 6.2M shares, which testifies to strong passive demand absorption (accumulation) during price declines.</li>
+<li>Options on QQQ data (IV: 22.07%, PCR: 1.25, volume: 6,851,253) indicate a predominance of Put positions, suggesting the building of hedges against further volatility. The expected range of movement is between 704.07 and 726.61.</li>
+<li>Technical analysis: The NDX index is in a phase of a regular drawdown from the peak of 28.10 (29847.38), currently amounting to -1.49% (-445 pts). The nearest support zone is in the 29380–29400 range, while resistance is determined by the 29470–29490 levels.</li>
+</ul>
+<p>H-Log Report: 2026-10-30 11:07</p>
 <h3>📈 [2026-10-30 10:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong>. the cash session (Spot) is currently closed.</p>
