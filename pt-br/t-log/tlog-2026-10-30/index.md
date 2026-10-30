@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Data: 2026-10-30 16:14
+Data: 2026-10-30 16:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.30 [PT-BR]</h1>
+<h3>⏱️ [2026-10-30 16:29] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>28561.41</strong> (-2.86%; desde a entrada anterior -9.27 pts) · NQ <strong>28705.50</strong> (-2.90%; -9.25 pts) · QQQ <strong>694.83 USD</strong> (-2.86%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-37.76 M</strong> [sell-off] · CVD NQ <strong>-55.18 K</strong> [colapso do mercado] (desde a entrada anterior +0.81 K) · CVD QQQ <strong>-1.72 M</strong> [sell-off] · TICKQ <strong>-129</strong> [sell-off] · média SMA200 <strong>36.90</strong> [acumulação] (+0.28) · indicador de direção <strong>-40</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>40.46 trilhões de USD</strong> (desde a entrada anterior +0.00 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>68.2%</strong> (+0.0 p.p.) · preço médio das ações <strong>297.72 USD</strong> (-0.10 USD) · opções sobre QQQ: volatilidade implícita <strong>24.14%</strong>, put/call <strong>0.90</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28940–28960</strong> (1.33% acima)</li>
+</ul>
+<p>Os índices NDX e NQ caíram, o que é confirmado pelos valores negativos do fluxo CVD. Existe uma divergência entre a direção das mudanças do índice NDX e o estado da amplitude de mercado, pois o indicador TICKQ indica um sell-off. A resistência mais próxima encontra-se acima do preço atual.</p>
 <h3>⏱️ [2026-10-30 16:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>28570.68</strong> (-2.83%; desde a entrada anterior -54.82 pts) · NQ <strong>28714.75</strong> (-2.87%; -52.50 pts) · QQQ <strong>695.07 USD</strong> (-2.83%)</li>
