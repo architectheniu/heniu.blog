@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 17:08
+Data: 2026-10-30 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.30 [PT-BR]</h1>
+<h3>📈 [2026-10-30 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado:</strong> O Índice NDX registra uma queda de -3.57% (preço 28352.52), o que representa uma correção de -5.01% desde o pico de 28.10.2026 (29847.38). Trata-se de uma correção de caráter maior (acima da mediana de correções históricas), ocorrendo na segunda sessão, com volatilidade de 2.9 do intervalo médio diário (ATR 20 sessões: 516 pts).</li>
+<li><strong>Fluxos de capital e sentimento:</strong> Ocorre uma forte distribuição de ativos. O fluxo acumulado (CVD) para NDX é de -52,4 M, para QQQ é de -2,23 M, e para o contrato NQ é de -67,13 K, o que confirma a pressão de venda. O indicador de direção dos fluxos é de -58, o que significa uma clara vantagem na saída de capital do mercado. A Amplitude de mercado (TICKQ) encontra-se em estado de forte sell-off com o valor de -324.00 (média SMA200: 31.82).</li>
+<li><strong>Mercado de opções QQQ:</strong> O volume de opções atingiu o nível de 5,267,520 com a volatilidade implícita (IV) em 25.33%. O Put/Call Volume Ratio no nível de 0.88 sugere atividade moderada na construção de proteções (hedging) no lado das opções de venda. O alcance de movimento esperado pelo mercado situa-se no intervalo de 683.59 a 701.31.</li>
+<li><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 28940–28960, o que atualmente representa uma distância de cerca de 2.07% acima do preço atual.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-30 18:07</p>
 <h3>📈 [2026-10-30 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
