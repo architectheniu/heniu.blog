@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 03:08
+Data: 2026-10-30 04:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.30 [PT-BR]</h1>
+<h3>📈 [2026-10-30 04:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se no contrato futuro NQ, que está sendo negociado a 28898.00 (-2.25%), com um fluxo acumulado (CVD) negativo no nível de -10,23 K, o que indica um sell-off na sessão após o fechamento do mercado principal.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador de direção agregado de fluxos é 30, o que indica uma vantagem moderada na entrada de capital. Apesar da queda dos contratos NQ, na sessão à vista (Spot) fechada, foi observada uma divergência significativa: o índice NDX caiu (-1.38%), no entanto, o fluxo acumulado (CVD) foi de 191,25 M, o que sugere uma absorção passiva de oferta no mercado de ações.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> O volume de opções foi de 6,851,253 com a volatilidade implícita (IV) no nível de 22.07%. O Put/Call Volume Ratio é de 1.25, o que indica um aumento na atividade no setor de proteção (hedging) ou construção de posições vendidas. O alcance de movimento esperado pelo mercado está na faixa de 704.07 a 726.61.</li>
+<li><strong>Níveis técnicos:</strong> O Recuo desde o pico do Heniu do dia 28.10 (29847.38) é de -1.46% (-436 pts), o que, com um ATR de 480 pts, constitui um recuo comum de caráter raso em relação às correções históricas. A zona de suporte mais próxima (nó de volume) está na faixa de 29380–29400, enquanto a zona de resistência é 29470–29490.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-30 04:07</p>
 <h3>📈 [2026-10-30 03:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

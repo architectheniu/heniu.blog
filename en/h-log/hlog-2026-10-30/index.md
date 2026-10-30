@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Date: 2026-10-30 03:08
+Date: 2026-10-30 04:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.30 [EN]</h1>
+<h3>📈 [2026-10-30 04:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on NQ futures contracts, which are trading at 28898.00 (-2.25%), with negative cumulative flow (CVD) at -10,23 K, indicating a sell-off in the session after the main market close.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate direction gauge is 30, indicating a moderate capital inflow advantage. Despite the decline in NQ contracts, a significant divergence was noted in the closed cash session: the NDX index fell by (-1.38%), however, the cumulative flow (CVD) was 191,25 M, suggesting passive absorption of supply in the equity market.</li>
+<li><strong>QQQ Options Analysis:</strong> Options volume was 6,851,253 with implied volatility (IV) at 22.07%. The Put/Call Volume Ratio is 1.25, indicating increased activity in the hedging sector or short position building. The market-expected move range is between 704.07 and 726.61.</li>
+<li><strong>Technical levels:</strong> The current drawdown from the peak of 28.10 (29847.38) is -1.46% (-436 pts), which, with an ATR of 480 pts, constitutes a regular shallow pullback compared to historical corrections. The nearest support zone (volume node) is in the 29380–29400 range, while the resistance zone is 29470–29490.</li>
+</ul>
+<p>H-Log Report: 2026-10-30 04:07</p>
 <h3>📈 [2026-10-30 03:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
