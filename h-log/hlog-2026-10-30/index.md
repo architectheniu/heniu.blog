@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 03:07
+Data: 2026-10-30 04:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.30</h1>
+<h3>📈 [2026-10-30 04:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ, które notowane są po cenie 28898.00 (-2.25%), przy ujemnym przepływie skumulowanym (CVD) na poziomie -10,23 K, co wskazuje na wyprzedaż w sesji po zamknięciu rynku głównego.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 30, co wskazuje na umiarkowaną przewagę napływu kapitału. Mimo spadku kontraktów NQ, na zamkniętej sesji kasowej odnotowano istotną dywergencję: indeks NDX spadł o (-1.38%), jednak skumulowany przepływ (CVD) wyniósł 191,25 M, co sugeruje pasywną absorpcję podaży na rynku akcji.</li>
+<li><strong>Analiza opcji QQQ:</strong> Wolumen opcji wyniósł 6,851,253 przy zmienności implikowanej (IV) na poziomie 22.07%. Put/Call Volume Ratio wynosi 1.25, co wskazuje na zwiększoną aktywność w sektorze zabezpieczeń (hedgingu) lub budowy pozycji krótkich. Oczekiwany przez rynek zasięg ruchu mieści się w przedziale 704.07 do 726.61.</li>
+<li><strong>Poziomy techniczne:</strong> Obecna korekta od szczytu z dnia 28.10 (29847.38) wynosi -1.46% (-436 pkt), co przy ATR wynoszącym 480 pkt stanowi zwykłe cofnięcie o charakterze płytkim względem historycznych korekt. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29380–29400, natomiast strefa oporu to 29470–29490.</li>
+</ul>
+<p>Raport H-Log: 2026-10-30 04:07</p>
 <h3>📈 [2026-10-30 03:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
