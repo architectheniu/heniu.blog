@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 06:08
+Data: 2026-10-30 07:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.30 [PT-BR]</h1>
+<h3>📈 [2026-10-30 07:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ estão sendo negociados em 28958.25 (-2.05%), com o fluxo acumulado (CVD) em -6,99 K, o que indica um teste de oferta.</li>
+<li><strong>Análise de nível de preço e estrutura:</strong> O Índice Nasdaq-100 (NDX) encontra-se em fase de Recuo desde o pico do Heniu do dia 28.10 (29847.38), representando atualmente -1.46% (-436 pts). Trata-se de uma correção de caráter comum, sendo mais rasa do que as 8 correções anteriores no ciclo atual. As zonas técnicas mais próximas são suporte no intervalo 29380–29400 (1.9% de volume) e resistência no intervalo 29470–29490 (1.4% de volume).</li>
+<li><strong>Fluxos e sentimento:</strong> O indicador de direção agregado dos fluxos é 30, o que indica uma vantagem moderada na entrada de capital. Apesar da queda no preço do Índice Nasdaq-100 (NDX) de -1.38%, o fluxo acumulado (CVD) na a sessão à vista (Spot) é de 191,25 M, o que sugere a presença de demanda em preços mais baixos.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 22.07%, e a proporção de volume Put/Call é de 1.25, o que indica um aumento no interesse por proteção (hedging) ou posições vendidas. O alcance de movimento esperado pelo mercado está no intervalo de 704.07 a 726.61, com um volume total de opções de 6,851,253.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-30 07:07</p>
 <h3>📈 [2026-10-30 06:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
