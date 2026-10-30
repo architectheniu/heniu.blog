@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 07:07
+Data: 2026-10-30 08:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.30</h1>
+<h3>📈 [2026-10-30 08:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Cena kontraktów wynosi 28978.25 (-1.97%). Skumulowany przepływ (CVD) na poziomie -5,88 K wskazuje na testowanie podaży w trakcie trwania sesji terminowej.</li>
+<li><strong>Analiza rynku kasowego (zamknięty):</strong> Indeks NDX zamknął się na poziomie 29411.04 (-1.38%). Mimo spadku ceny, odnotowano istotny napływ kapitału na rynku kasowym (CVD NDX = 191,25 M), co sugeruje proces pasywnej absorpcji podaży. Wskaźnik kierunku przepływów wynosi 30, co oznacza umiarkowaną przewagę napływu kapitału.</li>
+<li><strong>Poziomy techniczne:</strong> Od szczytu z dnia 28.10 (29847.38) odnotowano cofnięcie o -1.46% (-436 pkt). Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29380–29400 (0.04% poniżej obecnej ceny NDX). Najbliższa strefa oporu to 29470–29490 (0.20% powyżej ceny NDX).</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 22.07%, przy wolumenie 6,851,253. Wskaźnik Put/Call Ratio na poziomie 1.25 wskazuje na zwiększoną aktywność w opcjach sprzedaży, co sugeruje budowę zabezpieczeń (hedgingu) przez inwestorów. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 704.07 do 726.61.</li>
+</ul>
+<p>Raport H-Log: 2026-10-30 08:07</p>
 <h3>📈 [2026-10-30 07:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
