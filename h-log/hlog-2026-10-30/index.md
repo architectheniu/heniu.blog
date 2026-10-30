@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 04:07
+Data: 2026-10-30 05:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.30</h1>
+<h3>📈 [2026-10-30 05:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ, które notowane są po cenie 28935.00 (-2.12%), przy skumulowanym przepływie (CVD) na poziomie -9,33 K, co wskazuje na testowanie podaży.</li>
+<li><strong>Kontekst indeksu NDX:</strong> Indeks kasowy zamknął sesję na poziomie 29411.04 (-1.38%). Od szczytu z dnia 28.10 (29847.38) odnotowano cofnięcie o 436 pkt (-1.46%). Jest to zwykłe cofnięcie, płytkie w porównaniu do historycznych korekt (największa wyniosła -11.96%).</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29380–29400 (1.9% wolumenu). Najbliższa strefa oporu to 29470–29490 (1.4% wolumenu).</li>
+<li><strong>Sentyment i przepływy:</strong> Wskaźnik kierunku przepływów wynosi 30, co wskazuje na umiarkowaną przewagę napływu kapitału. Mimo spadku ceny NDX o -1.38%, skumulowany przepływ (CVD) na rynku kasowym wyniósł 191,25 M, co sugeruje obecność popytu w sektorze kasowym.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 22.07%, a wskaźnik Put/Call Volume Ratio kształtuje się na poziomie 1.25, co wskazuje na przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na większą presję sprzedażową. Oczekiwany zasięg ruchu w ramach opcji mieści się w przedziale 704.07 do 726.61.</li>
+</ul>
+<p>Raport H-Log: 2026-10-30 05:07</p>
 <h3>📈 [2026-10-30 04:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
