@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Date: 2026-10-30 17:44
+Date: 2026-10-30 17:59
 URL: https://heniu.blog/en/t-log/tlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.10.30 [EN]</h1>
+<h3>⏱️ [2026-10-30 17:59] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28381.16</strong> (-3.47%; since the previous entry -85.69 pts) · NQ <strong>28527.25</strong> (-3.51%; -84.25 pts) · QQQ <strong>690.52 USD</strong> (-3.47%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-52.3 M</strong> [sell-off] · CVD NQ <strong>-64.78 K</strong> [panic] (since the previous entry -1.93 K) · CVD QQQ <strong>-1.93 M</strong> [sell-off] · TICKQ <strong>-284</strong> [market breakdown] · SMA200 average <strong>33.71</strong> [accumulation] (-2.06) · direction gauge <strong>-58</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.19 trillion USD</strong> (since the previous entry -0.12 trillion USD) · share of companies above 1 trillion USD <strong>65.7%</strong> (+0.0 pp) · average share price <strong>295.40 USD</strong> (-1.10 USD) · QQQ options: implied volatility <strong>25.38%</strong>, put/call <strong>0.87</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28940–28960</strong> (1.97% higher)</li>
+</ul>
+<p>The NQ index decline is confirmed by an aggressive sell-off visible in the CVD flows. Capital is flowing out of the market, which correlates with the deepening negative result of the panic gauge. Since the previous entry, there has been further weakening of flows and a decrease in the total market capitalization of companies.</p>
 <h3>⏱️ [2026-10-30 17:44] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>28466.85</strong> (-3.18%; since the previous entry -6.07 pts) · NQ <strong>28611.50</strong> (-3.21%; -6.00 pts) · QQQ <strong>692.54 USD</strong> (-3.19%)</li>
