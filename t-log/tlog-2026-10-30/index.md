@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Data: 2026-10-30 06:59
+Data: 2026-10-30 07:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.30</h1>
+<h3>⏱️ [2026-10-30 07:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
+<ul>
+<li><strong>Kontrakt NQ:</strong> <strong>29006.25</strong> (-1.88%; od poprzedniego wpisu +32.25 pkt, +0.11%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>59.85%</strong></li>
+<li><strong>Przepływ NQ:</strong> CVD <strong>-5.65 K</strong> [test podaży] (od poprzedniego wpisu +1.44 K) · wskaźnik kierunku <strong>30</strong> (skala ±100; +0)</li>
+<li>NDX, QQQ, szerokość rynku i koszyk spółek wracają z otwarciem sesji kasowej o 14:30 czasu polskiego.</li>
+</ul>
+<p>Cena kontraktu NQ wzrosła w stosunku do poprzedniego raportu, mimo ogólnego spadku wartości. Wskaźnik kierunku oraz ujemny przepływ CVD pozostają ze sobą zgodne, wskazując na dominację strony podażowej.</p>
 <h3>⏱️ [2026-10-30 06:59] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>28974.00</strong> (-1.99%; od poprzedniego wpisu -33.50 pkt, -0.12%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>59.85%</strong></li>
