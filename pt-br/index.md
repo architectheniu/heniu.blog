@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0049: Sandisk: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-30-0049/index.md) (2026-10-30)
 - [H1: 2026-10-30](https://heniu.blog/pt-br/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/pt-br/t-log/tlog-2026-10-30/index.md) (2026-10-30)
 - [Fundamentos #0048: Notificações de empresas: Meta Platforms, DoorDash, Microsoft e outras; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-30-0048/index.md) (2026-10-30)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0020: Notificações de empresas: Meta Platforms, Space Exploration Technologies, Tesla; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-23-0020/index.md) (2026-10-23)
 - [H1: 2026-10-22](https://heniu.blog/pt-br/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/pt-br/t-log/tlog-2026-10-22/index.md) (2026-10-22)
-- [Log #0209: Resumo da sessão 2026-10-22: NDX 28962.86 (-2.90%)](https://heniu.blog/pt-br/posts/log-0209/index.md) (2026-10-22)
 
