@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Data: 2026-10-30 18:44
+Data: 2026-10-30 18:59
 Adres: https://heniu.blog/t-log/tlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.30</h1>
+<h3>⏱️ [2026-10-30 18:59] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28252.58</strong> (-3.91%; od poprzedniego wpisu -52.07 pkt) · NQ <strong>28394.75</strong> (-3.95%; -51.50 pkt) · QQQ <strong>687.35 USD</strong> (-3.91%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-86.86 M</strong> [załamanie rynku] · CVD NQ <strong>-83.26 K</strong> [panika] (od poprzedniego wpisu -8.44 K) · CVD QQQ <strong>-3.7 M</strong> [załamanie rynku] · TICKQ <strong>-307</strong> [załamanie rynku] · średnia SMA200 <strong>28.02</strong> [akumulacja] (-0.14) · wskaźnik kierunku <strong>-63</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>39.84 bln USD</strong> (od poprzedniego wpisu -0.26 bln USD) · udział spółek powyżej 1 bln USD <strong>66.0%</strong> (+0.3 pp) · średnia cena akcji <strong>295.25 USD</strong> (+0.57 USD) · opcje QQQ: zmienność implikowana <strong>26.40%</strong>, put/call <strong>0.89</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>28940–28960</strong> (2.43% wyżej)</li>
+</ul>
+<p>Wszystkie trzy główne indeksy odnotowały spadki, przy czym NQ zanotował największą procentową stratę względem poprzedniego wpisu. Odnotowano pogłębienie ujemnych przepływów kapitału na NQ oraz dalsze spadki wartości CVD dla NDX i QQQ. Najbliższy opór znajduje się powyżej aktualnych poziomów cenowych.</p>
 <h3>⏱️ [2026-10-30 18:44] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28304.65</strong> (-3.73%; od poprzedniego wpisu -35.38 pkt) · NQ <strong>28446.25</strong> (-3.78%; -36.00 pkt) · QQQ <strong>688.61 USD</strong> (-3.74%)</li>
