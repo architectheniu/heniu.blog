@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Date: 2026-10-30 14:07
+Date: 2026-10-30 15:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.30 [EN]</h1>
+<h3>📈 [2026-10-30 15:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Flow and price analysis:</strong> Nasdaq-100 index (NDX) records a decline of -2.50% (28668.54), however, a strong divergence from price exists in the cash market – cumulative flow (CVD) for NDX is 5.49 M, indicating active demand absorption despite declines. Simultaneously, NQ futures contract (-2.56%) and QQQ ETF (-2.53%) show selling pressure, confirmed by negative CVD for NQ (-26.95 K) and QQQ (-804.24 K). Market breadth (TICKQ) is in a strong downward trend at -111.00.</li>
+<li><strong>Sentiment and options:</strong> The aggregate flow direction gauge is 0, meaning no clear dominance of one side in aggregate terms. The QQQ options market with a volume of 841,086 indicates rising volatility expectations (IV: 24.37%) and a prevalence of short positions (Put/Call Ratio: 1.10), suggesting the building of hedges against further declines. The expected range of movement for QQQ is between 677.82 and 711.98.</li>
+<li><strong>Technical context:</strong> The current drawdown from Heniu's peak on 28.10 (29847.38) is -3.95% (-1179 pts). This is a move of a regular pullback nature, falling within the median of historical corrections. The nearest resistance zone (volume node) is in the 28940–28960 range.</li>
+</ul>
+<p>H-Log Report: 2026-10-30 15:07</p>
 <h3>📈 [2026-10-30 14:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
