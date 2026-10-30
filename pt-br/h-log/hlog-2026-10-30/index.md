@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 13:08
+Data: 2026-10-30 14:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.30 [PT-BR]</h1>
+<h3>📈 [2026-10-30 14:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se no contrato futuro NQ, cujo preço é 28787.00 (-2.62%), com um fluxo acumulado (CVD) negativo no nível de -15,87 K, o que indica um sell-off nos contratos.</li>
+<li><strong>Análise de fluxo e sentimento:</strong> O indicador de direção de fluxos é 30, o que significa uma vantagem moderada de entrada de capital em termos agregados. No entanto, foi observada uma divergência em relação à sessão à vista (Spot): apesar da queda do índice NDX de -1.38%, o fluxo acumulado (CVD) para o NDX é de 191,22 M, o que sugere uma absorção ativa de oferta no mercado de ações.</li>
+<li><strong>Níveis técnicos:</strong> O índice NDX encontra-se em uma fase de Recuo desde o pico do Heniu do dia 28.10 (29847.38) de -445 pts (-1.49%). A zona de suporte mais próxima (nó de volume) está no intervalo 29380–29400, enquanto a resistência está no intervalo 29470–29490. A correção atual é mais rasa do que as 8 correções registradas até agora.</li>
+<li><strong>Mercado de opções:</strong> No mercado de opções QQQ, com volume de 33,568, registrou-se uma Put/Call Ratio de 1.34, o que indica um aumento na atividade voltada para proteção (hedging) ou posições de queda. O alcance esperado de movimento para o QQQ está no intervalo de 704.07 a 726.61.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-30 14:07</p>
 <h3>📈 [2026-10-30 13:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong>. a sessão à vista (Spot) está atualmente fechada.</p>
