@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0048: Notificações de empresas: Meta Platforms, DoorDash, Microsoft e outras; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-30-0048/index.md) (2026-10-30)
 - [H1: 2026-10-30](https://heniu.blog/pt-br/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/pt-br/t-log/tlog-2026-10-30/index.md) (2026-10-30)
 - [Fundamentos #0047: Monolithic Power Systems: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0047/index.md) (2026-10-30)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [H1: 2026-10-22](https://heniu.blog/pt-br/h-log/hlog-2026-10-22/index.md) (2026-10-22)
 - [M15: 2026-10-22](https://heniu.blog/pt-br/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 - [Log #0209: Resumo da sessão 2026-10-22: NDX 28962.86 (-2.90%)](https://heniu.blog/pt-br/posts/log-0209/index.md) (2026-10-22)
-- [Fundamentos #0019: Roper Technologies: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-22-0019/index.md) (2026-10-22)
 
