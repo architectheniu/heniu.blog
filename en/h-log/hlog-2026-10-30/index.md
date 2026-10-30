@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Date: 2026-10-30 09:08
+Date: 2026-10-30 10:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.30 [EN]</h1>
+<h3>📈 [2026-10-30 10:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong>. the cash session (Spot) is currently closed.</p>
+<ul>
+<li><strong>NQ contract situation</strong>: Contract price is 28969.25 (-2.01%), indicating strong supply pressure in after-hours trading. Cumulative flow (CVD) for NQ is -5.46K, confirming a supply test.</li>
+<li><strong>the cash session analysis (closed)</strong>: Despite the NDX index drop of (-1.38%), an extreme anomaly in the cash session flows was recorded – cumulative flow (CVD) for NDX is 6.2M, suggesting passive demand absorption and testing purchasing power at lower prices. The flow direction gauge is 5, indicating a neutral advantage in capital inflow.</li>
+<li><strong>Technical levels</strong>: The NDX index is in a drawdown from Heniu's peak on 28.10 (29847.38) by 1.49% (-445 pts). The nearest support zone (volume node) is in the 29380–29400 range, while resistance is in the 29470–29490 range.</li>
+<li><strong>QQQ options market</strong>: Implied volatility (IV) is 22.07%. The Put/Call Ratio at 1.25 suggests a dominance of hedging positions or expectation of further downward pressure. The expected range of movement for QQQ is between 704.07 and 726.61.</li>
+</ul>
+<p>H-Log Report: 2026-10-30 10:07</p>
 <h3>📈 [2026-10-30 09:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
