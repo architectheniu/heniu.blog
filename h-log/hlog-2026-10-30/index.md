@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 05:07
+Data: 2026-10-30 06:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.30</h1>
+<h3>📈 [2026-10-30 06:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ, które notowane są po cenie 29039.25 (-1.77%), przy skumulowanym przepływie (CVD) na poziomie -5,51 K, co wskazuje na testowanie podaży.</li>
+<li><strong>Kontekst indeksu:</strong> NDX znajduje się w fazie cofnięcia od szczytu z 28.10 (29847.38), wynoszącego obecnie -1.46% (-436 pkt). Jest to korekta o charakterze zwykłym, o mniejszej głębokości niż historyczne korekty (największa wyniosła -11.96%). Wskaźnik kierunku przepływów wynosi 30, co oznacza umiarkowaną przewagę napływu kapitału.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 29380–29400 (0.04% poniżej aktualnej ceny NDX). Najbliższa strefa oporu to przedział 29470–29490 (0.20% powyżej ceny NDX).</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 22.07%, a stosunek wolumenu Put/Call (PCR) kształtuje się na poziomie 1.25, co sugeruje lekką przewagę pozycji zabezpieczających przed spadkami. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale od 704.07 do 726.61 przy wolumenie opcji 6,851,253.</li>
+</ul>
+<p>Raport H-Log: 2026-10-30 06:07</p>
 <h3>📈 [2026-10-30 05:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
