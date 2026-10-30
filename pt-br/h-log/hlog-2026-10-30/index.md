@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 16:08
+Data: 2026-10-30 17:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.30 [PT-BR]</h1>
+<h3>📈 [2026-10-30 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de mercado e fluxos:</strong> O mercado encontra-se em uma fase de forte distribuição. O Índice Nasdaq-100 (NDX) caiu 3,21% para o nível 28456,50, com o fluxo acumulado (CVD) no nível de -67,04 M. O contrato NQ (28601,25, -3,25%) e o ETF QQQ (692,33, -3,22%) mostram uma forte correlação de queda com entrada negativa de capital (CVD QQQ: -2,24 M). O indicador de direção de fluxos é de -53, o que confirma a dominância da venda sobre a demanda. A Amplitude de mercado (TICKQ) encontra-se em um estado de forte sell-off no nível de -155,00, significativamente abaixo da média SMA200 (36,77).</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) subiu para 24,88%, o que indica um aumento nas expectativas quanto à volatilidade dos movimentos de preços. Com um volume de opções de 4 072 713, a razão Put/Call é de 0,90, o que sugere uma aproximação da neutralidade ou a construção de proteção (hedging) diante das quedas. O alcance de movimento esperado pelo mercado em um futuro próximo situa-se no intervalo de 688,13 a 705,13.</p>
+</li>
+<li>
+<p><strong>Contexto técnico e correção:</strong> O Recuo desde o pico de 28.10 (29847,38) é de 4,66% (-1391 pts). Trata-se de um movimento de natureza de correção maior (acima da mediana das quedas históricas), abrangendo 2,7 do intervalo médio do dia (ATR 20 sessões: 511 pts). A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 28940–28960.</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-10-30 17:07</p>
 <h3>📈 [2026-10-30 16:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>

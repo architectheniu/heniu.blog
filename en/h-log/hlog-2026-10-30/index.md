@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Date: 2026-10-30 16:07
+Date: 2026-10-30 17:08
 URL: https://heniu.blog/en/h-log/hlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.30 [EN]</h1>
+<h3>📈 [2026-10-30 17:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The market is in a strong distribution phase. The Nasdaq-100 index (NDX) fell by 3.21% to the level of 28456.50, with cumulative flow (CVD) at -67.04 M. NQ futures contracts (28601.25, -3.25%) and the QQQ ETF (692.33, -3.22%) show a strong downward correlation with negative capital inflow (CVD QQQ: -2.24 M). The direction gauge is -53, confirming the dominance of selling over demand. Market breadth (TICKQ) is in a state of strong sell-off at -155.00, significantly below the SMA200 average (36.77).</p>
+</li>
+<li>
+<p><strong>QQQ options analysis:</strong> Implied volatility (IV) increased to 24.88%, indicating rising expectations regarding the volatility of price movements. With an options volume of 4 072 713, the Put/Call ratio is 0.90, suggesting an approach toward neutrality or the building of hedging in the face of declines. The market-expected range of movement in the near future is between 688.13 and 705.13.</p>
+</li>
+<li>
+<p><strong>Technical context and correction:</strong> The current Drawdown from Heniu's peak on 28.10 (29847.38) is 4.66% (-1391 pts). This is a move characterized as a larger correction (above the median of historical declines), encompassing 2.7 of the average daily range (20-session ATR: 511 pts). The nearest resistance zone (volume node) is located in the 28940–28960 range.</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-10-30 17:07</p>
 <h3>📈 [2026-10-30 16:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
