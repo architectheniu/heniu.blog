@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Data: 2026-10-30 15:29
+Data: 2026-10-30 15:44
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.30 [PT-BR]</h1>
+<h3>⏱️ [2026-10-30 15:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>28650.12</strong> (-2.56%; desde a entrada anterior +139.03 pts) · NQ <strong>28795.00</strong> (-2.59%; +139.00 pts) · QQQ <strong>696.92 USD</strong> (-2.57%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-21.1 M</strong> [sell-off] · CVD NQ <strong>-45.21 K</strong> [colapso do mercado] (desde a entrada anterior +4.60 K) · CVD QQQ <strong>-1.73 M</strong> [sell-off] · TICKQ <strong>269</strong> [disparada do mercado] · média SMA200 <strong>37.73</strong> [acumulação] (+0.71) · indicador de direção <strong>-30</strong> (escala ±100; +10)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>40.52 trilhões de USD</strong> (desde a entrada anterior +0.20 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>68.2%</strong> (+0.1 p.p.) · preço médio das ações <strong>298.59 USD</strong> (+0.86 USD) · opções sobre QQQ: volatilidade implícita <strong>24.54%</strong>, put/call <strong>0.93</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28940–28960</strong> (1.01% acima)</li>
+</ul>
+<p>O movimento do preço ocorre com o aumento simultâneo do indicador de direção e a acumulação visível na média SMA200. A resistência mais próxima encontra-se acima dos níveis de preço atuais.</p>
 <h3>⏱️ [2026-10-30 15:29] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>28511.09</strong> (-3.03%; desde a entrada anterior -48.06 pts) · NQ <strong>28656.00</strong> (-3.06%; -49.75 pts) · QQQ <strong>693.63 USD</strong> (-3.03%)</li>
