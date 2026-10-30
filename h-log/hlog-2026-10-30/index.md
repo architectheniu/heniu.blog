@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 06:07
+Data: 2026-10-30 07:07
 Adres: https://heniu.blog/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.10.30</h1>
+<h3>📈 [2026-10-30 07:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Kontrakty NQ notowane są na poziomie 28958.25 (-2.05%), przy skumulowanym przepływie (CVD) wynoszącym -6,99 K, co wskazuje na testowanie podaży.</li>
+<li><strong>Analiza poziomu cenowego i struktury:</strong> Indeks NDX znajduje się w fazie cofnięcia od szczytu z dnia 28.10 (29847.38), wynoszącego obecnie -1.46% (-436 pkt). Jest to korekta o charakterze zwykłym, będąca płytsza od dotychczasowych 8 korekt w bieżącym cyklu. Najbliższe strefy techniczne to wsparcie w przedziale 29380–29400 (1.9% wolumenu) oraz opór w przedziale 29470–29490 (1.4% wolumenu).</li>
+<li><strong>Przepływy i sentyment:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 30, co wskazuje na umiarkowaną przewagę napływu kapitału. Mimo spadku ceny indeksu NDX o -1.38%, skumulowany przepływ (CVD) na rynku kasowym wynosi 191,25 M, co sugeruje obecność popytu przy niższych cenach.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 22.07%, a stosunek wolumenu Put/Call to 1.25, co wskazuje na zwiększone zainteresowanie zabezpieczeniami (hedgingiem) lub pozycjami krótkimi. Oczekiwany przez rynek zasięg ruchu mieści się w przedziale 704.07 do 726.61 przy całkowitym wolumenie opcji 6,851,253.</li>
+</ul>
+<p>Raport H-Log: 2026-10-30 07:07</p>
 <h3>📈 [2026-10-30 06:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
