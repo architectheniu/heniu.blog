@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 01:08
+Data: 2026-10-30 02:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.30 [PT-BR]</h1>
+<h3>📈 [2026-10-30 02:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada; a análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ caíram -2.27% para o nível 28889.25, com um fluxo acumulado (CVD) negativo no nível -11,72 K, o que indica um sell-off em andamento.</li>
+<li><strong>Análise de sentimento e opções:</strong> O indicador de direção agregado de fluxos é 30, o que indica uma vantagem moderada na entrada de capital. No mercado de opções sobre QQQ, foi registrado um volume de 6,851,253 com uma Put/Call Ratio no nível 1.25, o que sugere a construção de posições de proteção (hedging) contra maior volatilidade. A volatilidade implícita (IV) é de 22.07%, e o alcance esperado do movimento está na faixa de 704.07 a 726.61.</li>
+<li><strong>Contexto técnico:</strong> O Índice Nasdaq-100 (NDX) encontra-se em uma fase de recuo comum desde o pico do dia 28.10 (29847.38), totalizando atualmente -1.46% (-436 pts). Trata-se de uma correção de caráter raso em relação às quedas históricas.</li>
+<li><strong>Níveis de suporte e resistência:</strong> A zona de suporte mais próxima (nó de volume) encontra-se na faixa de 29380–29400, enquanto a zona de resistência encontra-se acima do preço atual na faixa de 29470–29490.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-30 02:07</p>
 <h3>📈 [2026-10-30 01:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
