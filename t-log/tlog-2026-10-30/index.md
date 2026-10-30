@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Data: 2026-10-30 16:59
+Data: 2026-10-30 17:14
 Adres: https://heniu.blog/t-log/tlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.30</h1>
+<h3>⏱️ [2026-10-30 17:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28449.24</strong> (-3.24%; od poprzedniego wpisu -74.61 pkt) · NQ <strong>28593.50</strong> (-3.28%; -70.75 pkt) · QQQ <strong>692.14 USD</strong> (-3.24%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-60.24 M</strong> [załamanie rynku] · CVD NQ <strong>-67.62 K</strong> [panika] (od poprzedniego wpisu -5.33 K) · CVD QQQ <strong>-2.15 M</strong> [załamanie rynku] · TICKQ <strong>-13</strong> [test podaży] · średnia SMA200 <strong>37.48</strong> [akumulacja] (-0.40) · wskaźnik kierunku <strong>-45</strong> (skala ±100; +3)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>40.28 bln USD</strong> (od poprzedniego wpisu -0.10 bln USD) · udział spółek powyżej 1 bln USD <strong>65.7%</strong> (-2.5 pp) · średnia cena akcji <strong>296.52 USD</strong> (-0.62 USD) · opcje QQQ: zmienność implikowana <strong>24.94%</strong>, put/call <strong>0.90</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>28940–28960</strong> (1.73% wyżej)</li>
+</ul>
+<p>Jednocześnie odnotowano spadek wartości CVD dla indeksów NQ oraz QQQ, co oznacza pogłębienie presji sprzedażowej. Najbliższy opór znajduje się powyżej aktualnych poziomów notowań.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 17:08 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-10-30 16:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28523.85</strong> (-2.99%; od poprzedniego wpisu +31.53 pkt) · NQ <strong>28664.25</strong> (-3.03%; +27.75 pkt) · QQQ <strong>693.88 USD</strong> (-3.01%)</li>
