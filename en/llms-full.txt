@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0216: Session summary 2026-10-30: NDX 28385.75 (-3.46%)
+
+Date: 2026-10-30 21:04
+URL: https://heniu.blog/en/posts/log-0216/
+
+
+**Session date:** 2026-10-30
+
+> *Session close 2026-10-30: NDX 28385.75 (-3.46%), NQ 28560.25 (-3.39%), QQQ 690.53 (-3.47%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session started at 9:30 ET (14:30 PL) at NDX level 28618.84 and NQ 28803.50. In the first 30 minutes, NDX rose by 88.29 pts (+0.31%) to 28707.13, and NQ rose by 48.75 pts (+0.17%) to 28852.25. The session maximum was recorded at 10:00 ET (15:00 PL) at level NDX 28710.87, while the minimum occurred at 14:53 ET (19:53 PL) at level NDX 28095.10. The close at level 28385.75 is 325.12 pts below the maximum and 290.65 pts above the minimum.
+
+**Flows and market breadth.** Cumulative flow (CVD) directions were divergent, as NDX recorded a positive result of 76.93 M, while NQ noted -55.79 K, and QQQ -1.85 M. Market breadth (TICKQ) at close was -421.00, and the SMA200 average of TICKQ readings was 16.31. The share of companies above 1 trillion USD in the basket capitalization was 68.19%.
+
+**End of session, options and companies.** In the last hour of the session, NDX rose by 200.30 pts (+0.71%) to the level of 28385.75. The MOC Anomaly at close was +37.11 M. Implied volatility (IV) for options on QQQ was 26.55%, and the put/call ratio was 1.39.
+
+**Day's balance.** The Nasdaq-100 index closed at level 28385.75, representing a decrease of 3.46%.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **28385.75 (-3.46%)**
+    * Cumulative flow (CVD): **76.93 M [market flare]**
+    * MOC Anomaly: **+37.11 M**
+    * Average Daily Range (ADR) utilization: **153.93%**
+    * Drawdown from Heniu's peak / highest close: **-9.10%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **28560.25 (-3.39%)**
+    * Cumulative flow (CVD): **−55.79 K [market collapse]**
+    * Average Daily Range (ADR) utilization: **158.14%**
+
+* **QQQ ETF:** close **690.53 (-3.47%)**
+    * Cumulative flow (CVD): **−1.85 M [sell-off]**
+    * Average Daily Range (ADR) utilization: **153.33%**
+
+* **Market breadth (TICKQ):** reading at close **-421.00 [market collapse]**
+    * 200 reading average (SMA200): **16.31 [demand test]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **26.55%**
+    * Put/call ratio (open interest, OI): **1.39**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **40.17 trillion USD** (change from previous close: **-1.24 trillion USD**)
+    * Share of companies above 1 trillion USD in basket capitalization: **68.19%** (change: **+0.37 pp**)
+    * Average stock price in the basket: **$294.98** (change: **$-7.72**)
+    * Changes in the group of companies above 1 trillion USD: **no change**
+
+* **Session data health:** readings through 100.0% of the cash session; no gaps longer than a minute; NDX no change longer than 2 min in 0.9% of readings
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0216/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-10-30",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0050: Regeneron Pharmaceuticals: 3Q2026 results
 
 Date: 2026-10-30 15:36
@@ -734,85 +814,5 @@ Insiders on 27.10 sold shares for 13.6 million USD, including 6.3 million USD fr
 8-K: 2.03 financial obligation (Document: 8-K 2.03; Filing date (US time): 27.10; 8-K 2.03 content (new financial obligation): quote (EN): „On October 26, 2026, Broadcom Inc. (the “Company”) arranged for financial partners to take on a portion of certain agreements to purchase AI racks based on custom AI accelerators designed by the Company and the related lease agreements with the Company’s customer that enable the deployment of compute capacity.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1730168/000119312526434271/0001193125-26-434271-index.htm).
 
 8-K: 5.02 changes in management/board (Document: 8-K 5.02; Filing date (US time): 27.10; 8-K 5.02 content (change in management or board): position: member of the board of directors; type of change: appointment; date: 26.10.2026; persons: David W. Gibbs; successor: not applicable (appointment); quote (EN): „On October 26, 2026, the Board of Directors (the “Board”) of Amgen Inc. (the “Company”) appointed David W. Gibbs as a director of the Company, effective immediately.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/318154/000031815426000144/0000318154-26-000144-index.htm).
-
-
----
-
-## Log #0213: Session summary 2026-10-27: NDX 29653.58 (+1.29%)
-
-Date: 2026-10-27 21:03
-URL: https://heniu.blog/en/posts/log-0213/
-
-
-**Session date:** 2026-10-27
-
-> *Session close 2026-10-27: NDX 29653.58 (+1.29%), NQ 29812.75 (+1.28%), QQQ 721.24 (+1.27%).*
-
----
-
-### Session overview
-
-**Opening and main move of the day.** The session started at 9:30 ET (14:30 PL) at NDX level 29411.80 and NQ 29572.75. In the first 30 minutes, NDX rose by 5.24 pts (+0.02%) to 29417.04, while NQ fell by 1.50 pts (-0.01%) to 29571.25. The lowest NDX level was recorded at 10:16 ET (15:16 PL) at 29341.71, and the highest at 15:45 ET (20:45 PL) at 29718.30. The close at 29653.58 lies 64.72 pts below the maximum and 311.87 pts above the minimum.
-
-**Flows and market breadth.** The direction of the cumulative flow (CVD) was positive for NDX, NQ, and QQQ, indicating alignment of directions across all three instruments. Market breadth (TICKQ) at the close was 117.00, signifying accumulation, while the SMA200 average was 5.46 and indicated a demand test. Companies above 1 trillion USD accounted for 68.42% of the basket capitalization.
-
-**End of session, options, and companies.** In the last hour of the session, NDX rose by 6.20 pts (+0.02%) to close at 29653.58. The MOC Anomaly at the close was +3.43 M. Implied volatility (IV) for options on QQQ was 22.06%, and the put/call ratio was 1.40.
-
-**Day's balance.** The Nasdaq-100 index closed with a result of +1.29%.
-
----
-
-### Closing Telemetry
-
-* **Nasdaq-100 index (NDX):** close **29653.58 (+1.29%)**
-    * Cumulative flow (CVD): **12,67 M [demand test]**
-    * MOC Anomaly: **+3,43 M**
-    * Average Daily Range (ADR) utilization: **91.80%**
-    * Drawdown from Heniu's highest close: **-5.04%** (highest close: **31226.82**, 2026-10-06)
-
-* **NQ futures contract:** close **29812.75 (+1.28%)**
-    * Cumulative flow (CVD): **28,79 K [accumulation]**
-    * Average Daily Range (ADR) utilization: **104.20%**
-
-* **QQQ ETF:** close **721.24 (+1.27%)**
-    * Cumulative flow (CVD): **1,14 M [accumulation]**
-    * Average Daily Range (ADR) utilization: **91.43%**
-
-* **Market breadth (TICKQ):** reading at close **117.00 [accumulation]**
-    * 200-reading average (SMA200): **5.46 [demand test]**
-
-* **Options on QQQ:**
-    * Implied volatility (IV): **22.06%**
-    * Put/call ratio (open interest, OI): **1.40**
-
-* **Nasdaq-100 basket:**
-    * Total capitalization: **42.05 trillion USD** (change from previous close: **+0.48 trillion USD**)
-    * Share of companies above 1 trillion USD in basket capitalization: **68.42%** (change: **-0.05 pp**)
-    * Average stock price in the basket: **$304.42** (change: **+$4.78**)
-    * Changes in the group of companies above 1 trillion USD: **no change**
-
-* **Session data health:** readings through 100.0% of the cash session; no gaps longer than a minute; NDX no change longer than 2 min in 0.1% of readings
-
----
-
-[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0213/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Nasdaq-100 Session Summary 2026-10-27",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 
