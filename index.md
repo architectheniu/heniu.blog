@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0050: Regeneron Pharmaceuticals: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-30-0050/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/t-log/tlog-2026-10-30/index.md) (2026-10-30)
 - [H1: 2026-10-30](https://heniu.blog/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [Fundamenty #0049: Sandisk: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-30-0049/index.md) (2026-10-30)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0021: Western Digital: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-23-0021/index.md) (2026-10-23)
 - [Fundamenty #0020: Zgłoszenia spółek: Meta Platforms, Space Exploration Technologies, Tesla; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-23-0020/index.md) (2026-10-23)
 - [H1: 2026-10-22](https://heniu.blog/h-log/hlog-2026-10-22/index.md) (2026-10-22)
-- [M15: 2026-10-22](https://heniu.blog/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 

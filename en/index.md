@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0050: Regeneron Pharmaceuticals: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-30-0050/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/en/t-log/tlog-2026-10-30/index.md) (2026-10-30)
 - [H1: 2026-10-30](https://heniu.blog/en/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [Fundamentals #0049: Sandisk: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-30-0049/index.md) (2026-10-30)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0021: Western Digital: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-23-0021/index.md) (2026-10-23)
 - [Fundamentals #0020: Company filings: Meta Platforms, Space Exploration Technologies, Tesla; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-23-0020/index.md) (2026-10-23)
 - [H1: 2026-10-22](https://heniu.blog/en/h-log/hlog-2026-10-22/index.md) (2026-10-22)
-- [M15: 2026-10-22](https://heniu.blog/en/t-log/tlog-2026-10-22/index.md) (2026-10-22)
 
