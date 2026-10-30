@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Date: 2026-10-30 15:08
+Date: 2026-10-30 16:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.30 [EN]</h1>
+<h3>📈 [2026-10-30 16:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The NDX index records a decline of -2.72% (price 28602.01), which, with cumulative CVD flow at -27.7 M shares and a decline in NQ contracts of -2.77% (price 28743.25; CVD -52.34 K), indicates strong selling pressure and capital distribution. The aggregate flow direction gauge is -30, confirming the dominance of capital outflow from the market. The Nasdaq market breadth (TICKQ) is in a state of strong negative dynamics at -81.00, significantly below the SMA200 average (38.03).</p>
+</li>
+<li>
+<p><strong>QQQ Options Analysis:</strong> Options volume is 2,703,547, with a Put/Call Ratio at 0.91, suggesting a moderate sentiment toward hedging short positions. Implied volatility (IV) is 24.24%, and the market-expected price range for the QQQ ETF lies between 687.78 and 706.88.</p>
+</li>
+<li>
+<p><strong>Technical context and levels:</strong> The current drawdown from the peak of 28.10 (29847.38) is -4.17% (-1245 pts), which over two sessions represents 2.5 times the average daily range (ATR 20: 503 pts). This is a standard retracement, deeper than in 38% of historical corrections. The nearest resistance zone (volume node) is located in the 28940–28960 range.</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-10-30 16:07</p>
 <h3>📈 [2026-10-30 15:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
