@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Date: 2026-10-30 19:08
+Date: 2026-10-30 20:07
 URL: https://heniu.blog/en/h-log/hlog-2026-10-30/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.10.30 [EN]</h1>
+<h3>📈 [2026-10-30 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Instrument and flow analysis:</strong> The market is in a phase of strong distribution. The NDX index fell by 4.12% to the level of 28191.11, with cumulative flow (CVD) at -80,43 M. NQ futures contracts recorded a decline of 4.16% (price 28334.50) with strong CVD selling pressure of -93,08 K. The QQQ ETF fell by 4.12% to 685.86, showing negative CVD flow of the order of -3,7 M. The direction gauge is -73, confirming the dominance of capital outflow from the market.</li>
+<li><strong>Broad market and volatility:</strong> The TICKQ indicator is 237.00, which, with the SMA200 average at 20.63, indicates extremely strong supply pressure in the broad Nasdaq market. Implied volatility (IV) for QQQ options increased to 27.97%. With an options volume of 8,556,651, the Put/Call Ratio is 0.96, which, with the expected movement range in the interval 675.95 – 697.53, suggests building hedges against further declines.</li>
+<li><strong>Correction context and technical levels:</strong> The current drawdown from the peak of 28.10 (29847.38) is -5.55% (-1656 pts). This is a move of a larger correction character, deeper than 50% of historical cases from the database. The nearest significant resistance (volume node) is located in the 28940–28960 zone.</li>
+</ul>
+<p>H-Log Report: 2026-10-30 20:07</p>
 <h3>📈 [2026-10-30 19:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
