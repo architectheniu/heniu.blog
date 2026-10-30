@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Data: 2026-10-30 18:14
+Data: 2026-10-30 18:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.30 [PT-BR]</h1>
+<h3>⏱️ [2026-10-30 18:29] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>28340.03</strong> (-3.61%; desde a entrada anterior +17.30 pts) · NQ <strong>28482.25</strong> (-3.65%; +14.50 pts) · QQQ <strong>689.55 USD</strong> (-3.61%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-65.49 M</strong> [colapso do mercado] · CVD NQ <strong>-70.56 K</strong> [pânico] (desde a entrada anterior +2.88 K) · CVD QQQ <strong>-2.45 M</strong> [colapso do mercado] · TICKQ <strong>-123</strong> [sell-off] · média SMA200 <strong>29.57</strong> [acumulação] (-2.66) · indicador de direção <strong>-63</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>40.13 trilhões de USD</strong> (desde a entrada anterior +0.02 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>65.7%</strong> (+0.0 p.p.) · preço médio das ações <strong>295.27 USD</strong> (+0.44 USD) · opções sobre QQQ: volatilidade implícita <strong>26.15%</strong>, put/call <strong>0.88</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28940–28960</strong> (2.12% acima)</li>
+</ul>
+<p>Existe uma divergência entre a direção da mudança do índice NDX e o indicador TICKQ, que indica um sell-off. A resistência mais próxima encontra-se acima dos níveis de preço atuais.</p>
 <h3>⏱️ [2026-10-30 18:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>28322.73</strong> (-3.67%; desde a entrada anterior -58.43 pts) · NQ <strong>28467.75</strong> (-3.70%; -59.50 pts) · QQQ <strong>689.07 USD</strong> (-3.67%)</li>

@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Data: 2026-10-30 18:14
+Data: 2026-10-30 18:29
 Adres: https://heniu.blog/t-log/tlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.10.30</h1>
+<h3>⏱️ [2026-10-30 18:29] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28340.03</strong> (-3.61%; od poprzedniego wpisu +17.30 pkt) · NQ <strong>28482.25</strong> (-3.65%; +14.50 pkt) · QQQ <strong>689.55 USD</strong> (-3.61%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-65.49 M</strong> [załamanie rynku] · CVD NQ <strong>-70.56 K</strong> [panika] (od poprzedniego wpisu +2.88 K) · CVD QQQ <strong>-2.45 M</strong> [załamanie rynku] · TICKQ <strong>-123</strong> [wyprzedaż] · średnia SMA200 <strong>29.57</strong> [akumulacja] (-2.66) · wskaźnik kierunku <strong>-63</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>40.13 bln USD</strong> (od poprzedniego wpisu +0.02 bln USD) · udział spółek powyżej 1 bln USD <strong>65.7%</strong> (+0.0 pp) · średnia cena akcji <strong>295.27 USD</strong> (+0.44 USD) · opcje QQQ: zmienność implikowana <strong>26.15%</strong>, put/call <strong>0.88</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>28940–28960</strong> (2.12% wyżej)</li>
+</ul>
+<p>Występuje rozbieżność między kierunkiem zmiany indeksu NDX a wskaźnikiem TICKQ, który wskazuje na wyprzedaż. Najbliższy opór znajduje się powyżej obecnych poziomów cenowych.</p>
 <h3>⏱️ [2026-10-30 18:14] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28322.73</strong> (-3.67%; od poprzedniego wpisu -58.43 pkt) · NQ <strong>28467.75</strong> (-3.70%; -59.50 pkt) · QQQ <strong>689.07 USD</strong> (-3.67%)</li>
