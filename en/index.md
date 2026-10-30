@@ -6,8 +6,8 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
-- [Log #0216: Session summary 2026-10-30: NDX 28385.75 (-3.46%)](https://heniu.blog/en/posts/log-0216/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/en/t-log/tlog-2026-10-30/index.md) (2026-10-30)
+- [Log #0216: Session summary 2026-10-30: NDX 28385.75 (-3.46%)](https://heniu.blog/en/posts/log-0216/index.md) (2026-10-30)
 - [H1: 2026-10-30](https://heniu.blog/en/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [Fundamentals #0050: Regeneron Pharmaceuticals: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-30-0050/index.md) (2026-10-30)
 - [Fundamentals #0049: Sandisk: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-30-0049/index.md) (2026-10-30)
