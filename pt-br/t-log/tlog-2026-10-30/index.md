@@ -1,6 +1,6 @@
 # M15: 2026-10-30
 
-Data: 2026-10-30 13:59
+Data: 2026-10-30 14:14
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.10.30 [PT-BR]</h1>
+<h3>⏱️ [2026-10-30 14:14] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>28774.25</strong> (-2.67%; desde a entrada anterior -32.75 pts, -0.11%) · parcela da amplitude média diária (ADR) utilizada <strong>70.75%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>-17.29 K</strong> [sell-off] (desde a entrada anterior -3.79 K) · indicador de direção <strong>30</strong> (escala ±100; +0)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista às 14:30 (horário da Polônia).</li>
+</ul>
+<p>O valor do contrato NQ caiu em relação à última leitura. O fluxo CVD negativo confirma a tendência de queda observada no preço.</p>
 <h3>⏱️ [2026-10-30 13:59] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>28807.00</strong> (-2.56%; desde a entrada anterior +11.00 pts, +0.04%) · parcela da amplitude média diária (ADR) utilizada <strong>69.95%</strong></li>
