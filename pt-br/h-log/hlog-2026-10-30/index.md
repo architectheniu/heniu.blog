@@ -1,6 +1,6 @@
 # H1: 2026-10-30
 
-Data: 2026-10-30 05:08
+Data: 2026-10-30 06:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-10-30/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.10.30 [PT-BR]</h1>
+<h3>📈 [2026-10-30 06:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se no contrato futuro NQ, que está sendo negociado a 29039.25 (-1.77%), com o fluxo acumulado (CVD) no nível de -5,51 K, o que indica um teste de oferta.</li>
+<li><strong>Contexto do índice:</strong> a Estrela NDX encontra-se em uma fase de Recuo desde o pico do Heniu de 28.10 (29847.38), totalizando atualmente -1.46% (-436 pts). Trata-se de uma correção de natureza comum, com menor profundidade do que correções históricas (a maior foi de -11.96%). O indicador de direção de fluxos é 30, o que significa uma vantagem moderada na entrada de capital.</li>
+<li><strong>Níveis técnicos:</strong> a zona de suporte mais próxima (nó de volume) encontra-se no intervalo 29380–29400 (0.04% abaixo do preço atual da NDX). A zona de resistência mais próxima é o intervalo 29470–29490 (0.20% acima do preço da NDX).</li>
+<li><strong>Mercado de opções QQQ:</strong> a volatilidade implícita (IV) é de 22.07%, e a relação Put/Call (PCR) está em 1.25, o que sugere uma leve vantagem de posições de hedge contra quedas. O alcance de movimento esperado para o ETF QQQ está no intervalo de 704.07 a 726.61 com um volume de opções de 6,851,253.</li>
+</ul>
+<p>Relatório H-Log: 2026-10-30 06:07</p>
 <h3>📈 [2026-10-30 05:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
