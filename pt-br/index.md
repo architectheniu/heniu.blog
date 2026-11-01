@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [M15: 2026-11-02](https://heniu.blog/pt-br/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [H1: 2026-11-02](https://heniu.blog/pt-br/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [Log #0217: Colapso Gravitacional e Expansão de Volatilidade: Semana de Deslocamento de Massa](https://heniu.blog/pt-br/posts/log-0217/index.md) (2026-11-01)
 - [H1: 2026-10-30](https://heniu.blog/pt-br/h-log/hlog-2026-10-30/index.md) (2026-10-30)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Log #0211: Compressão de Massa e Expansibilidade de Volatilidade: Semana de Acreção Negativa](https://heniu.blog/pt-br/posts/log-0211/index.md) (2026-10-25)
 - [H1: 2026-10-23](https://heniu.blog/pt-br/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [M15: 2026-10-23](https://heniu.blog/pt-br/t-log/tlog-2026-10-23/index.md) (2026-10-23)
-- [Log #0210: Resumo da sessão 2026-10-23: NDX 28956.26 (0.00%)](https://heniu.blog/pt-br/posts/log-0210/index.md) (2026-10-23)
 
