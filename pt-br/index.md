@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Log #0217: Colapso Gravitacional e Expansão de Volatilidade: Semana de Deslocamento de Massa](https://heniu.blog/pt-br/posts/log-0217/index.md) (2026-11-01)
 - [H1: 2026-10-30](https://heniu.blog/pt-br/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/pt-br/t-log/tlog-2026-10-30/index.md) (2026-10-30)
 - [Log #0216: Resumo da sessão 2026-10-30: NDX 28385.75 (-3.46%)](https://heniu.blog/pt-br/posts/log-0216/index.md) (2026-10-30)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [M15: 2026-10-23](https://heniu.blog/pt-br/t-log/tlog-2026-10-23/index.md) (2026-10-23)
 - [Log #0210: Resumo da sessão 2026-10-23: NDX 28956.26 (0.00%)](https://heniu.blog/pt-br/posts/log-0210/index.md) (2026-10-23)
 - [Fundamentos #0021: Western Digital: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-23-0021/index.md) (2026-10-23)
-- [Fundamentos #0020: Notificações de empresas: Meta Platforms, Space Exploration Technologies, Tesla; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-23-0020/index.md) (2026-10-23)
 
