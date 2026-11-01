@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-11-02](https://heniu.blog/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [Log #0217: Kolaps Grawitacyjny i Ekspansja Zmienności: Tydzień Przesunięcia Masy](https://heniu.blog/posts/log-0217/index.md) (2026-11-01)
 - [H1: 2026-10-30](https://heniu.blog/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/t-log/tlog-2026-10-30/index.md) (2026-10-30)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [H1: 2026-10-23](https://heniu.blog/h-log/hlog-2026-10-23/index.md) (2026-10-23)
 - [M15: 2026-10-23](https://heniu.blog/t-log/tlog-2026-10-23/index.md) (2026-10-23)
 - [Log #0210: Podsumowanie sesji 2026-10-23: NDX 28956.26 (0.00%)](https://heniu.blog/posts/log-0210/index.md) (2026-10-23)
-- [Fundamenty #0021: Western Digital: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-23-0021/index.md) (2026-10-23)
 
