@@ -1,0 +1,23 @@
+# Fundamenty #0052: O'Reilly Automotive: wyniki za 3Q2026
+
+Data: 2026-11-02 09:35
+Adres: https://heniu.blog/f-log/flog-2026-11-02-0052/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody O'Reilly Automotive (ORLY) w trzecim kwartale wyniosły 5,12 mld USD (8,8% r/r), a zysk na akcję (księgowy) wzrósł do 0,97 USD (12,8% r/r).
+
+### Wyniki kwartału
+
+brak danych.
+
+### Prognoza spółki
+
+Na cały rok 2026 spółka spodziewa się przychodów w przedziale 19,00 mld USD – 19,30 mld USD, wzrostu przychodów na poziomie 5,5% – 6,5%, wzrostu zysku operacyjnego w zakresie 19,5% – 20,0% oraz marży brutto na poziomie 51,6% – 52,1%. Dodatkowo spółka prognozuje zysk na akcję w przedziale 3,25–3,35 USD, nakłady inwestycyjne rzędu 1,30 mld USD – 1,40 mld USD, wolne przepływy pieniężne na poziomie 1,90 mld USD – 2,20 mld USD oraz stopę podatkową wynoszącą 22,7%.
+
+### Co mówi zarząd
+
+Zarząd wyraził duże zadowolenie z wyników sprzedaży porównywalnej, również po wyłączeniu czynników wyjątkowych. Według zarządu klienci znajdują się w dość dobrej kondycji, choć osoby o wyższych dochodach radzą sobie lepiej niż klienci o najniższych dochodach. Zarząd podkreślał, że nowe sklepy otwierane w kolejnych latach wypadają bardzo dobrze. Według zarządu podejście do zadłużenia oraz skupu akcji pozostaje bez zmian, a spółka koncentruje się na obsługze klientów i zdobywaniu udziałów w rynku zamiast na próbach przewidywania pogody. Zarząd zaznaczył również, że branża zachowuje się racjonalnie pod względem cenowym i podejście spółki do polityki cenowej nie ulegnie zmianie.
+

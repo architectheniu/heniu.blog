@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0052: O'Reilly Automotive: wyniki za 3Q2026
+
+Data: 2026-11-02 09:35
+Adres: https://heniu.blog/f-log/flog-2026-11-02-0052/
+
+
+Przychody O'Reilly Automotive (ORLY) w trzecim kwartale wyniosły 5,12 mld USD (8,8% r/r), a zysk na akcję (księgowy) wzrósł do 0,97 USD (12,8% r/r).
+
+### Wyniki kwartału
+
+brak danych.
+
+### Prognoza spółki
+
+Na cały rok 2026 spółka spodziewa się przychodów w przedziale 19,00 mld USD – 19,30 mld USD, wzrostu przychodów na poziomie 5,5% – 6,5%, wzrostu zysku operacyjnego w zakresie 19,5% – 20,0% oraz marży brutto na poziomie 51,6% – 52,1%. Dodatkowo spółka prognozuje zysk na akcję w przedziale 3,25–3,35 USD, nakłady inwestycyjne rzędu 1,30 mld USD – 1,40 mld USD, wolne przepływy pieniężne na poziomie 1,90 mld USD – 2,20 mld USD oraz stopę podatkową wynoszącą 22,7%.
+
+### Co mówi zarząd
+
+Zarząd wyraził duże zadowolenie z wyników sprzedaży porównywalnej, również po wyłączeniu czynników wyjątkowych. Według zarządu klienci znajdują się w dość dobrej kondycji, choć osoby o wyższych dochodach radzą sobie lepiej niż klienci o najniższych dochodach. Zarząd podkreślał, że nowe sklepy otwierane w kolejnych latach wypadają bardzo dobrze. Według zarządu podejście do zadłużenia oraz skupu akcji pozostaje bez zmian, a spółka koncentruje się na obsługze klientów i zdobywaniu udziałów w rynku zamiast na próbach przewidywania pogody. Zarząd zaznaczył również, że branża zachowuje się racjonalnie pod względem cenowym i podejście spółki do polityki cenowej nie ulegnie zmianie.
+
+
+---
+
 ## Fundamenty #0051: PACCAR: wyniki za 3Q2026
 
 Data: 2026-11-02 09:32
@@ -861,24 +884,5 @@ Skorygowany zysk na akcję wyniósł 0,70 USD (2,9% r/r), natomiast księgowy zy
 ### Co mówi zarząd
 
 Zarząd podkreślał, że wzrost zamówień jest napędzany przez trwałe trendy, takie jak rosnący popyt na moc wytwórczą w Stanach Zjednoczonych związany z centrami danych oraz inwestycje w infrastrukturę gazową. Według zarządu siła zamówień jest szeroka, co przejawia się wzrostem w systemach zasilania i LNG oraz rosnącą bazą sprzętu wspierającą serwis. Zarząd oczekuje wzrostu przychodów i poszerzenia marży EBITDA w kolejnym roku, zaznaczając, że poprawa marży nie będzie liniowa, lecz będzie wynikać z synergii kosztowych i korzystniejszego miksu sprzedaży. Według zarządu w kolejnych kwartałach nastąpi sezonowy spadek w pierwszym kwartale oraz wyraźniejsza poprawa w drugiej połowie roku. Zarząd przyjmuje jednocześnie ostrożne podejście do krótkoterminowych perspektyw na Bliskim Wschodzie, spodziewając się osłabienia aktywności w tym regionie.
-
-
----
-
-## Fundamenty #0026: NXP Semiconductors: wyniki za 3Q2026
-
-Data: 2026-10-28 19:35
-Adres: https://heniu.blog/f-log/flog-2026-10-28-0026/
-
-
-Przychody NXP Semiconductors (NXPI) w III kwartale wyniosły 3,79 mld USD (+19,3% r/r), a zysk na akcję (księgowy) wzrósł do 3,48 USD (+40,3% r/r).
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) osiągnął poziom 3,51 USD (+40,4% r/r), natomiast zysk na akcję (skorygowany) wyniósł 4,20 USD (+35,0% r/r).
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że w sektorze motoryzacyjnym nie obserwuje się szerokiego uzupełniania zapasów, przy czym dłuższe terminy dostaw poprawiły widoczność popytu. Według zarządu pewność dalszego wzrostu opiera się na rosnącym przyjmowaniu samochodów definiowanych programowo oraz wpływie sztucznej inteligencji na przemysł i internet rzeczy. Zarząd wskazywał, że poprawa marży brutto ma charakter strukturalny i wynika z wyższych przychodów, lepszego wykorzystania fabryk oraz sprawności operacyjnej, a podwyżki cen jedynie pokrywają wyższe koszty. Według zarządu w branży następuje strukturalna zmiana w cenach, dzięki której półprzewodniki przejmują większą część wartości w systemach. Zarząd zaznaczył, że w centrach danych wzrost zależy od startów produktów, ich akceptacji oraz wdrażania oprogramowania przez klientów. Według zarządu spółka ma już wygrane projekty w Ameryce Północnej oraz w regionie Azji i Pacyfiku, a także prowadzi kilka pilotaży w Chinach i Europie.
 
 
