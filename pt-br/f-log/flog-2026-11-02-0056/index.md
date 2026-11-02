@@ -1,0 +1,23 @@
+# Fundamentos #0056: Linde: resultados do 3Q2026
+
+Data: 2026-11-02 10:33
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-02-0056/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+A receita da empresa Linde (LIN) no terceiro trimestre foi de 9,40 bi USD.
+
+### Resultados do trimestre
+
+O lucro por ação (contábil) atingiu o nível de 3,66 USD, enquanto o lucro por ação (ajustado) foi de 4,59 USD.
+
+### Projeção da empresa
+
+A empresa espera que o lucro por ação ajustado (non-GAAP) no quarto trimestre seja de 4,40–4,50 USD (aumento de 5,0% – 7,0%), e para todo o ano de 2026 seja de 17,82–17,92 USD (aumento de 8,0% – 9,0%). Os gastos de capital para todo o ano de 2026 devem ser de 5,50 bi USD a 6,00 bi USD.
+
+### O que diz a gestão
+
+De acordo com a gestão, o mercado europeu permanece estável, no entanto, não vê indícios para o retorno do crescimento nesta região em um futuro próximo. A gestão enfatizou que o crescimento no setor de eletrônicos resulta da demanda orgânica e está confiante nesta tendência nos próximos trimestres. Diante da inflação crescente, a gestão indicou que os aumentos de preços em todo o mundo, incluindo na China, permanecem como um ponto de atenção crucial. A gestão também observou que, no longo prazo, haverá excesso de hélio no mercado, por isso a empresa mantém cautela ao definir preços em contratos de longo prazo.
+

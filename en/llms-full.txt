@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0056: Linde: 3Q2026 results
+
+Date: 2026-11-02 10:33
+URL: https://heniu.blog/en/f-log/flog-2026-11-02-0056/
+
+
+Linde (LIN) revenues in the third quarter amounted to 9.40 billion USD.
+
+### Quarterly results
+
+Earnings per share (GAAP) reached 3.66 USD, while earnings per share (adjusted) was 4.59 USD.
+
+### Company guidance
+
+The company expects adjusted earnings per share (non-GAAP) in the fourth quarter to be 4.40–4.50 USD (an increase of 5.0% – 7.0%), and for the full year 2026 to be 17.82–17.92 USD (an increase of 8.0% – 9.0%). Capital expenditures for the full year 2026 are expected to range from 5.50 billion USD to 6.00 billion USD.
+
+### Management commentary
+
+According to management, the European market remains stable, but they see no evidence for a return of growth in this region in the near future. Management emphasized that growth in the electronics sector results from organic demand and is confident about this trend in subsequent quarters. In the face of rising inflation, management indicated that price increases worldwide, including in China, remain a key point of focus. Management also noted that in the long term, there will be a helium surplus in the market, therefore the company is exercising caution when setting prices in long-term contracts.
+
+
+---
+
 ## Fundamentals #0055: DexCom: 3Q2026 results
 
 Date: 2026-11-02 10:23
@@ -818,85 +841,5 @@ For the full fiscal year 2027, the company expects revenue growth of 6.0%, (adju
 ### What management says
 
 Management emphasized that progress in the field of artificial intelligence, especially regarding the ADP Assist assistant, is significant. According to management, the selection of subsequent AI agents is based on solutions that provide measurable results to clients and solve real problems. Management indicated that the new agreement regarding the inclusion of payroll into the banking platform is a key element of strategic priority, and similar discussions are ongoing. According to management, client employment results in the quarter were satisfactory and represent a continuation of growing momentum. Management believes it is in the interest of shareholders to allocate part of the improvement in results to dividends and part to further development.
-
-
----
-
-## Log #0214: Session summary 2026-10-28: NDX 29821.65 (+0.55%)
-
-Date: 2026-10-28 21:03
-URL: https://heniu.blog/en/posts/log-0214/
-
-
-**Session date:** 2026-10-28
-
-> *Session close 2026-10-28: NDX 29821.65 (+0.55%), NQ 30066.75 (+0.85%), QQQ 725.48 (+0.59%).*
-
----
-
-### Session overview
-
-**Opening and main move of the day.** The session began at 9:30 ET (14:30 PL) at NDX level 29727.23 and NQ 29920.50. In the first 30 minutes until 10:00 ET (15:00 PL), the NDX index fell by 25.93 pts (-0.09%) to 29701.30, and NQ fell by 67.75 pts (-0.23%) to 29852.75. The session minimum was recorded at 9:49 ET (14:49 PL) at NDX level 29620.90 and NQ 29772.50, while the maximum occurred at 14:44 ET (19:44 PL) at NDX level 29847.38 and NQ 30006.00. The NDX close at level 29821.65 is 25.73 pts below the maximum and 200.75 pts above the minimum.
-
-**Flows and market breadth.** Cumulative flow (CVD) directions were divergent, as NDX recorded a positive result of 152,16 M euphoria, while NQ was negative -222 supply test, and QQQ was negative -426,08 K supply test. Market breadth (TICKQ) at close was 23.00 demand test, with a SMA200 average at 21.87 accumulation. The share of companies above 1 trillion USD in the basket capitalization was 68.25%.
-
-**End of session, options and companies.** In the last hour from 15:00 ET (20:00 PL) to the close at 16:00 ET (21:00 PL), the NDX index rose by 62.69 pts (+0.21%) to 29821.65. At the close, a MOC Anomaly of +33,02 M occurred. Implied volatility (IV) for options on QQQ was 21.41%, and the put/call ratio was 1.43.
-
-**Day's balance.** The Nasdaq-100 index closed at 29821.65 (+0.55%).
-
----
-
-### Closing Telemetry
-
-* **Nasdaq-100 index (NDX):** close **29821.65 (+0.55%)**
-    * Cumulative flow (CVD): **152,16 M [euphoria]**
-    * Closing anomaly (MOC): **+33,02 M**
-    * Average daily range (ADR) utilization: **54.69%**
-    * Drawdown from Heniu's highest close: **-4.50%** (highest close: **31226.82**, 2026-10-06)
-
-* **NQ futures contract:** close **30066.75 (+0.85%)**
-    * Cumulative flow (CVD): **−222 [supply test]**
-    * Average daily range (ADR) utilization: **70.25%**
-
-* **QQQ ETF:** close **725.48 (+0.59%)**
-    * Cumulative flow (CVD): **−426,08 K [supply test]**
-    * Average daily range (ADR) utilization: **56.43%**
-
-* **Market breadth (TICKQ):** close reading **23.00 [demand test]**
-    * 200 readings average (SMA200): **21.87 [accumulation]**
-
-* **Options on QQQ:**
-    * Implied volatility (IV): **21.41%**
-    * Put/call ratio (open interest, OI): **1.43**
-
-* **Nasdaq-100 basket:**
-    * Total capitalization: **42.15 trillion USD** (change from previous close: **+0.10 trillion USD**)
-    * Share of companies above 1 trillion USD in basket capitalization: **68.25%** (change: **-0.18 pp**)
-    * Average stock price in the basket: **$308.86** (change: **+$6.14**)
-    * Changes in the group of companies above 1 trillion USD: **unchanged**
-
-* **Session data health:** readings through 100.0% of the cash session; no gaps longer than a minute; NDX unchanged longer than 2 min in 0.0% of readings
-
----
-
-[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0214/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Nasdaq-100 session summary 2026-10-28",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 
