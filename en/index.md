@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0055: DexCom: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0055/index.md) (2026-11-02)
 - [Fundamentals #0054: Company filings: Amazon.com, Microsoft; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-02-0054/index.md) (2026-11-02)
 - [H1: 2026-11-02](https://heniu.blog/en/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [M15: 2026-11-02](https://heniu.blog/en/t-log/tlog-2026-11-02/index.md) (2026-11-02)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0023: Company filings: Meta Platforms, Space Exploration Technologies; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-27-0023/index.md) (2026-10-27)
 - [M15: 2026-10-26](https://heniu.blog/en/t-log/tlog-2026-10-26/index.md) (2026-10-26)
 - [H1: 2026-10-26](https://heniu.blog/en/h-log/hlog-2026-10-26/index.md) (2026-10-26)
-- [Log #0212: Session summary 2026-10-26: NDX 29272.46 (+1.09%)](https://heniu.blog/en/posts/log-0212/index.md) (2026-10-26)
 

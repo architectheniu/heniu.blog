@@ -7,6 +7,25 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0055: DexCom: resultados do 3Q2026
+
+Data: 2026-11-02 10:23
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-02-0055/
+
+
+A receita da DexCom (DXCM) no terceiro trimestre foi de 1,34 bi USD (+11,2% a/a), enquanto o lucro por ação (ajustado) aumentou 19,7% a/a para o nível de 0,73 USD.
+
+### Resultados do trimestre
+
+O lucro operacional da empresa atingiu 327,20 mi USD (+34,9% a/a), com uma queda simultânea no lucro líquido de 3,1% a/a para 275,10 mi USD. O lucro por ação (contábil) situou-se em 0,72 USD (+2,9% a/a), e o lucro por ação (contábil, básico) permaneceu inalterado em relação ao ano anterior, sendo de 0,73 USD (0,0% a/a).
+
+### O que diz a diretoria
+
+A diretoria enfatizou que, apesar das turbulências de mercado, a avaliação das oportunidades da empresa permanece inalterada e o plano de longo prazo gera grande confiança. Segundo a diretoria, o reembolso em mercados estrangeiros mantém um nível estável. A diretoria espera ainda este ano uma decisão sobre o reembolso para pacientes com diabetes não tratada com insulina. A diretoria indicou que a publicação de um estudo em um prestigiado periódico médico constitui uma prova decisiva da eficácia dos sistemas da empresa, o que, segundo a diretoria, deve influenciar significativamente os padrões de tratamento. Segundo a diretoria, as seguradoras geralmente garantem acesso equitativo a diferentes sistemas, pois pacientes, médicos e empregadores buscam ter opções.
+
+
+---
+
 ## Fundamentos #0054: Relatórios de empresas: Amazon.com, Microsoft; transações de insiders
 
 Data: 2026-11-02 10:10
@@ -879,28 +898,5 @@ Endereço: https://heniu.blog/pt-br/posts/log-0214/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentos #0029: Old Dominion Freight Line: resultados do 3Q2026
-
-Data: 2026-10-28 19:49
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-28-0029/
-
-
-A receita da Old Dominion Freight Line (ODFL) no terceiro trimestre foi de 1,59 bi USD (+13,1% a/a), e o lucro por ação (contábil) aumentou 28,9% a/a para o nível de 1,65 USD.
-
-### Resultados do trimestre
-
-O lucro por ação (contábil, básico) atingiu o valor de 1,66 USD (+28,7% a/a) em comparação ao ano anterior de 1,29 USD.
-
-### Projeção da empresa
-
-Os gastos de capital em FY 2026 devem ser de 380,00 mi USD.
-
-### O que diz a administração
-
-De acordo com a administração, a demanda permanece estável, e as conversas com os clientes indicam um ambiente de demanda em melhora. A administração enfatizou que o maior peso das remessas permite manter uma receita estável por unidade de peso sem combustível, o que confirma a eficácia da política de preços. A administração também indicou que a maior parte do aumento do custo por funcionário resulta do aumento dos custos de benefícios adicionais relacionados à inflação na saúde. De acordo com a administração, a empresa possui uma grande reserva de capacidade em imóveis e equipamentos e, graças ao treinamento autônomo de motoristas, não sente problemas com a aquisição de funcionários. A administração observou que, mantendo o nível atual de receitas e resultados sazonalmente melhores do que o normal, o índice operacional deve encontrar-se no limite inferior da faixa normal de deterioração.
 
 

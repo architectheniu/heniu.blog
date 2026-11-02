@@ -1,0 +1,19 @@
+# Fundamenty #0055: DexCom: wyniki za 3Q2026
+
+Data: 2026-11-02 10:22
+Adres: https://heniu.blog/f-log/flog-2026-11-02-0055/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody DexCom (DXCM) w trzecim kwartale wyniosły 1,34 mld USD (+11,2% r/r), natomiast zysk na akcję (skorygowany) wzrósł o 19,7% r/r do poziomu 0,73 USD.
+
+### Wyniki kwartału
+
+Zysk operacyjny spółki osiągnął 327,20 mln USD (+34,9% r/r), przy jednoczesnym spadku zysku netto o 3,1% r/r do 275,10 mln USD. Zysk na akcję (księgowy) ukształtował się na poziomie 0,72 USD (+2,9% r/r), a zysk na akcję (księgowy, podstawowy) pozostał bez zmian względem roku ubiegłego, wynosząc 0,73 USD (0,0% r/r).
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że mimo rynkowych zawirowań ocena szans spółki pozostaje niezmieniona, a plan długoterminowy budzi dużą pewność. Według zarządu refundacja na rynkach zagranicznych utrzymuje stabilny poziom. Zarząd oczekuje jeszcze w tym roku decyzji dotyczącej refundacji dla pacjentów z cukrzycą nieleczoną insuliną. Zarząd wskazywał, że publikacja badania w prestiżowym czasopiśmie medycznym stanowi przełomowy dowód na skuteczność systemów spółki, co według zarządu powinno znacząco wpłynąć na standardy leczenia. Według zarządu ubezpieczyciele zazwyczaj zapewniają równorzędny dostęp do różnych systemów, gdyż pacjenci, lekarze oraz pracodawcy dążą do posiadania wyboru.
+
