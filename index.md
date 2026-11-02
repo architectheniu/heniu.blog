@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [M15: 2026-11-03](https://heniu.blog/t-log/tlog-2026-11-03/index.md) (2026-11-03)
 - [H1: 2026-11-03](https://heniu.blog/h-log/hlog-2026-11-03/index.md) (2026-11-03)
 - [H1: 2026-11-02](https://heniu.blog/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [M15: 2026-11-02](https://heniu.blog/t-log/tlog-2026-11-02/index.md) (2026-11-02)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0028: PayPal: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0028/index.md) (2026-10-28)
 - [Fundamenty #0027: Baker Hughes: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0027/index.md) (2026-10-28)
 - [Fundamenty #0026: NXP Semiconductors: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0026/index.md) (2026-10-28)
-- [Fundamenty #0025: Seagate Technology Holdings PLC: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-28-0025/index.md) (2026-10-28)
 
