@@ -1,0 +1,23 @@
+# Fundamenty #0060: Exelon: wyniki za 3Q2026
+
+Data: 2026-11-02 10:48
+Adres: https://heniu.blog/f-log/flog-2026-11-02-0060/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody Exelon (EXC) w trzecim kwartale wyniosły 7,32 mld USD.
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy) ukształtował się na poziomie 0,70 USD, natomiast zysk na akcję (skorygowany) wyniósł 0,87 USD.
+
+### Prognoza spółki
+
+Spółka spodziewa się, że zysk na akcję skorygowany (non-GAAP) – „Adjusted (non-GAAP) operating earnings per share” w FY 2026 wyniesie 2,85–2,91 USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że inwestorzy budujący duże obiekty, w tym centra danych, są gotowi zaangażować się finansowo i chętnie podpisują umowy zabezpieczające przesył. Według zarządu magazyny energii stanowią potrzebne narzędzie w walce z kryzysem przystępności cen i niezawodności dostaw. Zarząd zaznaczył, że w planach uwzględnia tylko to, co realne i trwałe, z ewentualną nadwyżką w górę. Według zarządu spółka popiera utrzymanie limitu cen na aukcjach mocy, dopóki nie zostaną znalezione lepsze sposoby obniżenia kosztów.
+

@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0060: Exelon: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0060/index.md) (2026-11-02)
 - [Fundamenty #0059: Amazon.com: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0059/index.md) (2026-11-02)
 - [Fundamenty #0058: Alnylam Pharmaceuticals: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0058/index.md) (2026-11-02)
 - [Fundamenty #0057: Strategy: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0057/index.md) (2026-11-02)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0025: Seagate Technology Holdings PLC: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-28-0025/index.md) (2026-10-28)
 - [Fundamenty #0024: Zgłoszenia spółek: Broadcom, Amgen, Meta Platforms; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-28-0024/index.md) (2026-10-28)
 - [M15: 2026-10-27](https://heniu.blog/t-log/tlog-2026-10-27/index.md) (2026-10-27)
-- [H1: 2026-10-27](https://heniu.blog/h-log/hlog-2026-10-27/index.md) (2026-10-27)
 
