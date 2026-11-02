@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 20:08
+Data: 2026-11-02 21:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.02 [PT-BR]</h1>
+<h3>📈 [2026-11-02 21:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O índice NDX está em tendência de baixa, registrando uma correção de -5.53% (-1651 pts) desde o pico de 28.10.2026. Ao preço de 28196.81 (queda de -0.66%), observamos um teste de oferta no mercado à vista (CVD NDX: -869,03 K). Os contratos NQ apresentam maior pressão de venda (-0.69%, CVD: -17,24 K), enquanto o ETF QQQ mostra sinais de teste de demanda (CVD: 793,59 K). O indicador de direção de fluxo agregado é de -30, o que indica predominância de distribuição de capital.</li>
+<li><strong>Amplitude de mercado:</strong> O indicador TICKQ é de 60.00, o que, com a média SMA200 no nível de 13.86, sugere um forte deslocamento em direção à oferta dentro da sessão, apesar dos fluxos negativos nos principais instrumentos.</li>
+<li><strong>Análise de opções:</strong> A volatilidade implícita (IV) é de 27.27%, e a relação Put/Call Volume é de 0.99 com um volume de 7,060,520. Esses dados indicam um sentimento neutro com uma leve tendência de construção de hedge. O alcance de movimento esperado pelo mercado para o QQQ situa-se no intervalo de 680.80 a 697.78.</li>
+<li><strong>Níveis técnicos:</strong> A correção atual é mais profunda do que 50% das correções históricas registradas no ciclo atual. A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 28940–28960.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-02 21:07</p>
 <h3>📈 [2026-11-02 20:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
