@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 03:07
+Data: 2026-11-02 04:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.02</h1>
+<h3>📈 [2026-11-02 04:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Główny handel na instrumentach typu NDX i QQQ zakończył się silną dystrybucją, przy czym indeks NDX odnotował spadek o 3.46% (cena 28384.85), a skumulowany przepływ (CVD) wyniósł -208,4 M, co wskazuje na panikę w sektorze.</li>
+<li>Kontrakty terminowe NQ wykazują odmienne zachowanie w sesji futures, notując wzrost o 0.87% (cena 28781.75) przy skumulowanym przepływie CVD na poziomie 2,28 K, co sugeruje testowanie popytu po zamknięciu sesji kasowej.</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi -55, co potwierdza dominację odpływu kapitału z rynku.</li>
+<li>Rynek opcji QQQ przy wolumenie 11,506,640 wskazuje na zmienność implikowaną (IV) na poziomie 25.85% oraz współczynnik Put/Call Ratio wynoszący 0.95. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 681.76 do 699.22.</li>
+<li>Aktualna korekta od szczytu z dnia 28.10 (29847.38) wynosi -4.90% (-1463 pkt), co klasyfikuje obecny ruch jako większą korektę (powyżej mediany historycznych spadków). Najbliższy istotny opór znajduje się w węźle wolumenu w strefie 28940–28960.</li>
+</ul>
+<p>Raport H-Log: 2026-11-02 04:07</p>
 <h3>📈 [2026-11-02 03:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
