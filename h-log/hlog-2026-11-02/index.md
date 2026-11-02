@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 18:07
+Data: 2026-11-02 19:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.02</h1>
+<h3>📈 [2026-11-02 19:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX znajduje się obecnie na poziomie 28459.45 (+0.26%), wykazując akumulację na rynku kasowym przy skumulowanym przepływie (CVD) na poziomie 21,17 M. Występuje rozbieżność między indeksem a kontraktami NQ (28602.75, +0.24%), gdzie CVD dla kontraktów wynosi -417, co wskazuje na test podaży w sektorze terminowym. ETF QQQ (692.35, +0.27%) wykazuje test popytu z CVD na poziomie 743,55 K. Wskaźnik kierunku przepływów wynosi 0, co oznacza brak wyraźnej przewagi ani napływu, ani odpływu kapitału w ujęciu zbiorczym.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi 328.00, co przy średniej SMA200 wynoszącej 15.24 wskazuje na bardzo silną obecność kupujących w szerokim rynku akcji.</li>
+<li><strong>Rynek opcji:</strong> Zmienność implikowana (IV) dla QQQ wynosi 25.62%, przy wolumenie opcji na poziomie 4,404,123. Put/Call Volume Ratio wynosi 0.84, co sugeruje umiarkowaną przewagę pozycji długich (call) nad krótkimi (put). Oczekiwany zasięg ruchu oscyluje w granicach 685.93 do 701.23 punktów.</li>
+<li><strong>Kontekst techniczny:</strong> Trwa korekta od szczytu z dnia 28.10 (29847.38), która wyniosła do tej pory -4.65% (-1388 pkt). Jest to korekta o charakterze większym (powyżej mediany i 80. percentyla historycznych korekt). Najbliższa strefa oporu, oparta na węzłach wolumenu, znajduje się w przedziale 28940–28960.</li>
+</ul>
+<p>Raport H-Log: 2026-11-02 19:07</p>
 <h3>📈 [2026-11-02 18:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
