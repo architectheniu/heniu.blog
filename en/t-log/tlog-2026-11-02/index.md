@@ -1,6 +1,6 @@
 # M15: 2026-11-02
 
-Date: 2026-11-02 15:29
+Date: 2026-11-02 15:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-02/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.02 [EN]</h1>
+<h3>⏱️ [2026-11-02 15:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28593.86</strong> (+0.74%) · NQ <strong>28735.00</strong> (+0.70%; since the previous entry +11.75 pts) · QQQ <strong>695.65 USD</strong> (+0.75%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-13.61 M</strong> [supply test] · CVD NQ <strong>-6.25 K</strong> [supply test] (since the previous entry -2.90 K) · CVD QQQ <strong>-772.66 K</strong> [supply test] · TICKQ <strong>116</strong> [accumulation] · SMA200 average <strong>9.74</strong> [demand test] · direction gauge <strong>-38</strong> (±100 scale; +42)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.57 trillion USD</strong> · share of companies above 1 trillion USD <strong>66.0%</strong> · average share price <strong>297.95 USD</strong> · QQQ options: put/call <strong>0.71</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28940–28960</strong> (1.21% higher)</li>
+</ul>
+<p>Despite the decrease in CVD value for the NQ contract, the price of this instrument increased. Recently, several sudden upward direction changes in flow were recorded, along with one downward, which coincided with the upward trend of the quotes. The nearest resistance is located above the current price level.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 15:30 sudden NQ flow down; 15:33 sudden NQ flow up; 15:38 sudden NQ flow up.</p>
 <h3>⏱️ [2026-11-02 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>28723.25</strong> (+0.66%; since the previous entry -39.50 pts, -0.14%) · share of the average daily range (ADR) used <strong>40.48%</strong></li>

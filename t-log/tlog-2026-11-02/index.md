@@ -1,6 +1,6 @@
 # M15: 2026-11-02
 
-Data: 2026-11-02 15:29
+Data: 2026-11-02 15:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.02</h1>
+<h3>⏱️ [2026-11-02 15:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28593.86</strong> (+0.74%) · NQ <strong>28735.00</strong> (+0.70%; od poprzedniego wpisu +11.75 pkt) · QQQ <strong>695.65 USD</strong> (+0.75%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-13.61 M</strong> [test podaży] · CVD NQ <strong>-6.25 K</strong> [test podaży] (od poprzedniego wpisu -2.90 K) · CVD QQQ <strong>-772.66 K</strong> [test podaży] · TICKQ <strong>116</strong> [akumulacja] · średnia SMA200 <strong>9.74</strong> [test popytu] · wskaźnik kierunku <strong>-38</strong> (skala ±100; +42)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>40.57 bln USD</strong> · udział spółek powyżej 1 bln USD <strong>66.0%</strong> · średnia cena akcji <strong>297.95 USD</strong> · opcje QQQ: put/call <strong>0.71</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>28940–28960</strong> (1.21% wyżej)</li>
+</ul>
+<p>Mimo spadku wartości CVD dla kontraktu NQ, cena tego instrumentu wzrosła. W ostatnim czasie odnotowano kilka nagłych zmian kierunku przepływu w górę oraz jeden w dół, co zbiegło się z trendem wzrostowym notowań. Najbliższy opór znajduje się powyżej aktualnego poziomu cenowego.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:30 nagły przepływ NQ w dół; 15:33 nagły przepływ NQ w górę; 15:38 nagły przepływ NQ w górę.</p>
 <h3>⏱️ [2026-11-02 15:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>28723.25</strong> (+0.66%; od poprzedniego wpisu -39.50 pkt, -0.14%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>40.48%</strong></li>
