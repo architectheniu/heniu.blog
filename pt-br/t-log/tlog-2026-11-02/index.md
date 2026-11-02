@@ -1,6 +1,6 @@
 # M15: 2026-11-02
 
-Data: 2026-11-02 13:59
+Data: 2026-11-02 14:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.02 [PT-BR]</h1>
+<h3>⏱️ [2026-11-02 14:29] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>28694.75</strong> (+0.56%; desde a entrada anterior -12.75 pts, -0.04%) · parcela da amplitude média diária (ADR) utilizada <strong>38.51%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>1.92 K</strong> [teste de demanda] (desde a entrada anterior -0.97 K) · indicador de direção <strong>-55</strong> (escala ±100; +0)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista às 15:30 (horário da Polônia).</li>
+</ul>
+<p>Ocorreu um fluxo repentino para baixo que acionou um alarme, no entanto, a situação atual indica um teste de demanda.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 14:23 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>⏱️ [2026-11-02 13:59] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>28707.50</strong> (+0.61%; desde a entrada anterior -49.25 pts, -0.17%) · parcela da amplitude média diária (ADR) utilizada <strong>38.51%</strong></li>
