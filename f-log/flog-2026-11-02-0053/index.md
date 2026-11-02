@@ -7,6 +7,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-02)**  
+> **Prognoza zysku na akcję była opisana nieprecyzyjnie.**
+>
+> **Sprostowania:**
+> - 6,25–6,55 USD na 2026 rok, 6,75–7,05 USD na 2027 rok i 7,40–7,70 USD na 2028 rok to prognozy operacyjnego zysku na akcję (bez części pozycji jednorazowych). Prognozę na 2026 rok spółka podtrzymała, a na 2027 i 2028 rok podała po raz pierwszy.
+> - 6,11–6,41 USD to szacunek zysku na akcję w 2026 roku według zasad księgowych (GAAP), a nie druga prognoza.
+>
+> Poprawiliśmy opis w tekście; liczby się nie zmieniają.
+
 Przychody American Electric Power (AEP) wzrosły w III kwartale 2026 o 13,7% r/r do poziomu 6,83 mld USD, a zysk na akcję (księgowy) zwiększył się o 19,8% r/r do 2,18 USD.
 
 ### Wyniki kwartału
@@ -15,7 +24,7 @@ Skorygowany zysk na akcję wyniósł 2,23 USD, co oznacza wzrost o 23,9% r/r wzg
 
 ### Prognoza spółki
 
-Spółka spodziewa się zysku na akcję w FY 2026 w przedziale 6,25–6,55 USD oraz 6,11–6,41 USD, natomiast w FY 2027 prognozuje 6,75–7,05 USD, a w FY 2028 7,40–7,70 USD.
+Spółka podtrzymuje prognozę operacyjnego zysku na akcję (bez części pozycji jednorazowych) w FY 2026 w przedziale 6,25–6,55 USD i po raz pierwszy podaje prognozę operacyjnego zysku na akcję na FY 2027: 6,75–7,05 USD oraz na FY 2028: 7,40–7,70 USD. Przedział 6,11–6,41 USD to szacunek zysku na akcję w FY 2026 według zasad księgowych (GAAP), a nie prognoza.
 
 ### Co mówi zarząd
 

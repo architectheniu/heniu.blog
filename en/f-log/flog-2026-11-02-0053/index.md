@@ -7,6 +7,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-02)**  
+> **The earnings per share guidance was described imprecisely.**
+>
+> **Corrections:**
+> - 6.25–6.55 USD for 2026, 6.75–7.05 USD for 2027 and 7.40–7.70 USD for 2028 are guidance for operating earnings per share (excluding certain special items). The company maintained its 2026 guidance and provided the 2027 and 2028 guidance for the first time.
+> - 6.11–6.41 USD is an estimate of 2026 earnings per share under accounting rules (GAAP), not a second guidance range.
+>
+> We corrected the description in the text; the figures stay the same.
+
 American Electric Power (AEP) revenues increased in Q3 2026 by 13.7% y/y to 6.83 billion USD, and earnings per share (reported) increased by 19.8% y/y to 2.18 USD.
 
 ### Quarterly results
@@ -15,7 +24,7 @@ Adjusted earnings per share was 2.23 USD, representing a 23.9% y/y increase comp
 
 ### Company guidance
 
-The company expects earnings per share in FY 2026 in the range of 6.25–6.55 USD and 6.11–6.41 USD, while in FY 2027 it forecasts 6.75–7.05 USD, and in FY 2028 7.40–7.70 USD.
+The company maintains its guidance for operating earnings per share (excluding certain special items) in FY 2026 in the range of 6.25–6.55 USD and, for the first time, provides operating earnings per share guidance for FY 2027 of 6.75–7.05 USD and for FY 2028 of 7.40–7.70 USD. The range of 6.11–6.41 USD is an estimate of FY 2026 earnings per share under accounting rules (GAAP), not guidance.
 
 ### Management commentary
 
