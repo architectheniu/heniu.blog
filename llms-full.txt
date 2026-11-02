@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0053: American Electric Power: wyniki za 3Q2026
+
+Data: 2026-11-02 09:38
+Adres: https://heniu.blog/f-log/flog-2026-11-02-0053/
+
+
+Przychody American Electric Power (AEP) wzrosły w III kwartale 2026 o 13,7% r/r do poziomu 6,83 mld USD, a zysk na akcję (księgowy) zwiększył się o 19,8% r/r do 2,18 USD.
+
+### Wyniki kwartału
+
+Skorygowany zysk na akcję wyniósł 2,23 USD, co oznacza wzrost o 23,9% r/r względem 1,80 USD rok wcześniej.
+
+### Prognoza spółki
+
+Spółka spodziewa się zysku na akcję w FY 2026 w przedziale 6,25–6,55 USD oraz 6,11–6,41 USD, natomiast w FY 2027 prognozuje 6,75–7,05 USD, a w FY 2028 7,40–7,70 USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że widzi bardzo dużo potencjalnych inwestycji wykraczających poza ogłoszony plan oraz że popyt już występuje, co wymaga budowy nowych mocy wytwórczych. Według zarządu podpisane umowy przyłączenia odbiorców w Teksasie są realne, a mimo przyjęcia ostrożnego planu w tym regionie, spółka nadal widzi tam silny wzrost. Zarząd wskazał również, że pozytywnie ocenia pomysł utworzenia osobnej spółki wytwórczej i sprawdza, gdzie przyniesie ona największe korzyści klientom. Według zarządu emisje akcji muszą zwiększać zysk na akcję, gdyż spółka chce zachować ostrożność w zarządzaniu kapitałem akcjonariuszy.
+
+
+---
+
 ## Fundamenty #0052: O'Reilly Automotive: wyniki za 3Q2026
 
 Data: 2026-11-02 09:35
@@ -865,24 +888,5 @@ Zysk na akcję (księgowy, podstawowy) wyniósł 1,26 USD (−3,8% r/r). Zysk op
 ### Co mówi zarząd
 
 Zarząd podkreślał, że celem jest zwiększenie znaczenia Venmo w codziennych finansach klientów poprzez rozwój obecnej bazy i rozszerzanie oferty o usługi finansowe. Według zarządu usługi finansowe stanowią kluczowy motor przyszłego wzrostu marży transakcyjnej, w który spółka zamierza dalej inwestować. Zarząd wskazał również, że handel z udziałem agentów AI jest dla spółki priorytetem i dużą szansą, opartą na zaufaniu i bezpieczeństwie. Zarząd zaznaczył także, że w obszarze finansowania kredytów utrzyma zrównoważone podejście między bilansem własnym a poza bilansem. Według zarządu wpływ unijnych ceł de minimis na handel w Europie utrzyma się także w kolejnym kwartale. Zarząd podkreślał również, że jest otwarty na obiektywną analizę opcji zwiększających wartość dla akcjonariuszy, a obecnie skupia się na realizacji własnego planu.
-
-
----
-
-## Fundamenty #0027: Baker Hughes: wyniki za 3Q2026
-
-Data: 2026-10-28 19:38
-Adres: https://heniu.blog/f-log/flog-2026-10-28-0027/
-
-
-Przychody Baker Hughes (BKR) wzrosły w III kwartale o 14,5% r/r do 8,03 mld USD, podczas gdy zysk netto spadł o 32,5% r/r do 411,00 mln USD.
-
-### Wyniki kwartału
-
-Skorygowany zysk na akcję wyniósł 0,70 USD (2,9% r/r), natomiast księgowy zysk na akcję spadł do 0,41 USD (−32,8% r/r).
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że wzrost zamówień jest napędzany przez trwałe trendy, takie jak rosnący popyt na moc wytwórczą w Stanach Zjednoczonych związany z centrami danych oraz inwestycje w infrastrukturę gazową. Według zarządu siła zamówień jest szeroka, co przejawia się wzrostem w systemach zasilania i LNG oraz rosnącą bazą sprzętu wspierającą serwis. Zarząd oczekuje wzrostu przychodów i poszerzenia marży EBITDA w kolejnym roku, zaznaczając, że poprawa marży nie będzie liniowa, lecz będzie wynikać z synergii kosztowych i korzystniejszego miksu sprzedaży. Według zarządu w kolejnych kwartałach nastąpi sezonowy spadek w pierwszym kwartale oraz wyraźniejsza poprawa w drugiej połowie roku. Zarząd przyjmuje jednocześnie ostrożne podejście do krótkoterminowych perspektyw na Bliskim Wschodzie, spodziewając się osłabienia aktywności w tym regionie.
 
 
