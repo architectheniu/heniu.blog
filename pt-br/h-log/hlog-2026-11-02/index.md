@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 02:08
+Data: 2026-11-02 03:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.02 [PT-BR]</h1>
+<h3>📈 [2026-11-02 03:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados de fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ estão sendo negociados no nível 28752.50 (+0.77%), com um fluxo acumulado (CVD) de 2,01 K, o que indica um teste de demanda na sessão após a sessão à vista (Spot).</li>
+<li><strong>Análise da sessão à vista (fechada):</strong> O Índice Nasdaq-100 (NDX) fechou no nível 28384.85 (-3.46%) com um forte fluxo (CVD) negativo de -208,4 M, o que confirma a pressão de venda. O indicador de direção de fluxos é de -55, o que significa uma clara vantagem da distribuição de capital. O Recuo desde o pico do Heniu do dia 28.10 (29847.38) é de -4.90% (-1463 pts), o que classifica este movimento como uma correção maior em relação aos dados históricos.</li>
+<li><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 28940–28960.</li>
+<li><strong>Mercado de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 25.85%, e a relação Put/Call Volume Ratio está em 0.95 com um volume de 11,506,640. Esses dados indicam uma aproximação de um estado de equilíbrio entre proteções (hedging) e expectativas de alta, com o alcance esperado do movimento no intervalo de 681.76 a 699.22.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-02 03:07</p>
 <h3>📈 [2026-11-02 02:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
