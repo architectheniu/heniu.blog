@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 15:08
+Data: 2026-11-02 16:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.02 [PT-BR]</h1>
+<h3>📈 [2026-11-02 16:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de preços e fluxos:</strong> O Índice NDX sobe 0,58% para o nível 28550,07, no entanto, foi registrada uma forte distribuição no mercado à vista com o fluxo acumulado (CVD) no nível de −20,35 M de ações. Em contraste com o índice, os contratos NQ (+0,56%) e o ETF QQQ (+0,59%) mostram um teste de demanda com CVD positivo (respectivamente 303 e 252,29 K). O indicador de direção de fluxos é 0, o que indica um equilíbrio neutro entre a entrada e a saída de capital.</li>
+<li><strong>Amplitude de mercado e volatilidade:</strong> O indicador TICKQ é 157,00, o que, com uma média SMA200 de 11,69, indica uma atividade muito alta de compradores na amplitude de mercado de ações da Nasdaq. A volatilidade implícita (IV) para as opções sobre QQQ é de 25,09%, com um volume de 498,111 contratos e uma razão Put/Call no nível de 1,00, o que sugere a ausência de um viés claro de sentimento em direção a proteções contra quedas. O alcance de movimento esperado pelo mercado para QQQ situa-se no intervalo de 685,85 a 704,21.</li>
+<li>Ela é mais profunda do que 50% das correções históricas registradas no ciclo atual. A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 28940–28960.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-02 16:07</p>
 <h3>📈 [2026-11-02 15:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
