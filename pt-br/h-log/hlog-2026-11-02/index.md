@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 18:08
+Data: 2026-11-02 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.02 [PT-BR]</h1>
+<h3>📈 [2026-11-02 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O Índice NDX encontra-se atualmente no nível 28459.45 (+0.26%), exibindo acumulação no mercado à vista com o fluxo acumulado (CVD) no nível de 21,17 M. Existe uma divergência entre o índice e o contrato NQ (28602.75, +0.24%), onde o CVD para os contratos é de -417, o que indica um teste de oferta no setor de futuros. O ETF QQQ (692.35, +0.27%) exibe um teste de demanda com CVD no nível de 743,55 K. O indicador de direção de fluxos é 0, o que significa a ausência de uma vantagem clara de entrada ou saída de capital em termos agregados.</li>
+<li><strong>Amplitude de mercado:</strong> O indicador TICKQ é de 328.00, o que, com uma média SMA200 de 15.24, indica uma presença muito forte de compradores na amplitude de mercado de ações.</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) para QQQ é de 25.62%, com volume de opções no nível de 4,404,123. O Put/Call Volume Ratio é de 0.84, o que sugere uma vantagem moderada de posições longas (call) sobre as curtas (put). O alcance esperado do movimento oscila entre 685.93 e 701.23 pontos.</li>
+<li><strong>Contexto técnico:</strong> Está ocorrendo um Recuo desde o pico do dia 28.10 (29847.38), que até agora foi de -4.65% (-1388 pts). Trata-se de uma correção de caráter maior (acima da mediana e do percentil 80 de correções históricas). A zona de resistência mais próxima, baseada em nós de volume, encontra-se no intervalo 28940–28960.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-02 19:07</p>
 <h3>📈 [2026-11-02 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
