@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 21:08
+Data: 2026-11-02 23:07
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.02 [PT-BR]</h1>
+<h3>📈 [2026-11-02 fechamento]</h3>
+<p><strong>H-LOG: Resumo da sessão à vista (Spot)</strong></p>
+<p>Este é o resumo da sessão à vista (Spot) de 2026-11-02. O Índice Nasdaq-100 (NDX) fechou em 27994.99, o que representa uma mudança de -1.39%, com CVD em 54,5 M e consumo de alcance ADR de 181.41%. O contrato NQ encerrou a sessão em 28200.75 com uma mudança de -1.17%, com CVD de -11,95 K e ADR em 124.36%. O ETF QQQ atingiu o fechamento de 681.13, o que significa uma queda de -1.37%, com CVD de 1,1 M e consumo de alcance de 179.51%. O indicador TICKQ fechou em -318.00 com SMA200 em 11.45, enquanto foi registrada uma Anomalia MOC de +34,61 M.</p>
+<p>Relatório H-Log: resumo da sessão 2026-11-02</p>
 <h3>📈 [2026-11-02 21:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
