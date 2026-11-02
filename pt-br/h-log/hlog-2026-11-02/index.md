@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 14:08
+Data: 2026-11-02 15:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.02 [PT-BR]</h1>
+<h3>📈 [2026-11-02 15:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na atividade dos contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo negociados em 28771.75 (+0.83%), com um fluxo acumulado (CVD) de 813, o que indica um teste de demanda na sessão de futuros.</li>
+<li>O Índice Nasdaq-100 (NDX) fechou a sessão à vista com um resultado de -3.46% (preço 28384.85). Foi observada uma forte distribuição no mercado à vista, onde o fluxo acumulado (CVD) para o NDX foi de -208,4 M, o que confirma a pressão de venda. O indicador de direção de fluxo agregado é de -60, o que significa uma clara vantagem do outflow de capital.</li>
+<li>O Recuo desde o pico do Heniu do dia 28.10 (29847.38) é de -4.90% (-1463 pts). Esta é uma correção de natureza maior que a mediana dos movimentos históricos (mais profunda que 50% dos casos analisados).</li>
+<li>Os dados de opções sobre QQQ com volume de 20,124 indicam um Put/Call Ratio em 0.62. Com a volatilidade implícita (IV) em 0.00% e o alcance esperado de movimento no intervalo de 678.46 a 702.52, o mercado precifica uma estabilização em um canal determinado, com um nível relativamente baixo de proteção contra quedas.</li>
+<li>A principal resistência encontra-se no nó de volume na zona 28940–28960 (1.3% do volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-02 15:07</p>
 <h3>📈 [2026-11-02 14:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
