@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Date: 2026-11-02 08:08
+Date: 2026-11-02 09:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-02/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.02 [EN]</h1>
+<h3>📈 [2026-11-02 09:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contracts situation:</strong> NQ contracts are trading at 28754.75 (+0.77%), with a cumulative flow (CVD) of 3,61 K, indicating a demand test in the pre-market session.</li>
+<li><strong>NDX index context:</strong> The cash index closed the session at 28384.85 (-3.46%). From the peak on 28.10 (29847.38), a drawdown of -4.90% (-1463 pts) has been recorded. This is a correction larger than the median of historical movements, with the current decline being deeper than 50% of all recorded corrections to date. The largest historical correction in the studied period was -11.96%.</li>
+<li><strong>Flows and sentiment:</strong> The aggregate direction gauge of flows is -55, indicating a clear dominance of capital distribution. Strong selling pressure was recorded in the cash session (CVD NDX: -208,4 M; CVD QQQ: -1,84 M).</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 25.85%, and options volume is 11,506,640. A Put/Call Ratio at 0.95 suggests a near equilibrium between hedges and long positions, with the market expecting a move range between 681.76 and 699.22 points.</li>
+<li><strong>Technical levels:</strong> The nearest resistance zone (volume node) is located above the price in the 28940–28960 range.</li>
+</ul>
+<p>H-Log Report: 2026-11-02 09:07</p>
 <h3>📈 [2026-11-02 08:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
