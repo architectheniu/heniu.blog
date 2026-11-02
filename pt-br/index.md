@@ -6,10 +6,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [M15: 2026-11-02](https://heniu.blog/pt-br/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [Fundamentos #0055: DexCom: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0055/index.md) (2026-11-02)
 - [Fundamentos #0054: Relatórios de empresas: Amazon.com, Microsoft; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0054/index.md) (2026-11-02)
 - [H1: 2026-11-02](https://heniu.blog/pt-br/h-log/hlog-2026-11-02/index.md) (2026-11-02)
-- [M15: 2026-11-02](https://heniu.blog/pt-br/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [Fundamentos #0053: American Electric Power: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0053/index.md) (2026-11-02)
 - [Fundamentos #0052: O'Reilly Automotive: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0052/index.md) (2026-11-02)
 - [Fundamentos #0051: PACCAR: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0051/index.md) (2026-11-02)
