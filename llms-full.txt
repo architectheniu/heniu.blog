@@ -7,6 +7,21 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0054: Zgłoszenia spółek: Amazon.com, Microsoft; transakcje insiderów
+
+Data: 2026-11-02 10:10
+Adres: https://heniu.blog/f-log/flog-2026-11-02-0054/
+
+
+raport kwartalny 10-Q (Dokument: 10-Q; Data złożenia (czas USA): 30.10).
+
+materiały ofertowe FWP (Dokument: FWP; Data złożenia (czas USA): 30.10).
+
+Insiderzy 30.10 sprzedali akcje za 16,0 mln USD, w tym 13,7 mln USD z planów 10b5-1; zakupy na rynku wyniosły 25 tys. USD. Największą sprzedaż zgłosili insiderzy Datadog (DDOG): 12,1 mln USD. Insiderzy Texas Instruments (TXN) sprzedali akcje za 1,9 mln USD.
+
+
+---
+
 ## Fundamenty #0053: American Electric Power: wyniki za 3Q2026
 
 Data: 2026-11-02 09:38
@@ -887,24 +902,5 @@ Nakłady inwestycyjne w FY 2026 mają wynieść 380,00 mln USD.
 ### Co mówi zarząd
 
 Według zarządu popyt pozostaje stabilny, a rozmowy z klientami wskazują na poprawiające się otoczenie popytu. Zarząd podkreślał, że wyższa waga przesyłek pozwala utrzymać stabilny przychód na jednostkę wagi bez paliwa, co potwierdza skuteczność polityki cenowej. Zarząd wskazał również, że większość wzrostu kosztu na pracownika wynika z rosnących kosztów świadczeń dodatkowych związanych z inflacją w ochronie zdrowia. Według zarządu spółka posiada duży zapas mocy w nieruchomościach i sprzęcie, a dzięki samodzielnemu szkoleniu kierowców nie odczuwa problemów z pozyskiwaniem pracowników. Zarząd zaznaczył, że przy utrzymaniu obecnego poziomu przychodów i lepszych niż zwykle sezonowo wynikach, wskaźnik operacyjny powinien znaleźć się przy dolnej granicy normalnego zakresu pogorszenia.
-
-
----
-
-## Fundamenty #0028: PayPal: wyniki za 3Q2026
-
-Data: 2026-10-28 19:41
-Adres: https://heniu.blog/f-log/flog-2026-10-28-0028/
-
-
-Przychody PayPal (PYPL) w III kwartale wyniosły 8,58 mld USD (+2,0% r/r), natomiast zysk na akcję (księgowy) spadł do 1,25 USD (−3,9% r/r).
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) wyniósł 1,26 USD (−3,8% r/r). Zysk operacyjny spółki ukształtował się na poziomie 1,40 mld USD (−7,8% r/r).
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że celem jest zwiększenie znaczenia Venmo w codziennych finansach klientów poprzez rozwój obecnej bazy i rozszerzanie oferty o usługi finansowe. Według zarządu usługi finansowe stanowią kluczowy motor przyszłego wzrostu marży transakcyjnej, w który spółka zamierza dalej inwestować. Zarząd wskazał również, że handel z udziałem agentów AI jest dla spółki priorytetem i dużą szansą, opartą na zaufaniu i bezpieczeństwie. Zarząd zaznaczył także, że w obszarze finansowania kredytów utrzyma zrównoważone podejście między bilansem własnym a poza bilansem. Według zarządu wpływ unijnych ceł de minimis na handel w Europie utrzyma się także w kolejnym kwartale. Zarząd podkreślał również, że jest otwarty na obiektywną analizę opcji zwiększających wartość dla akcjonariuszy, a obecnie skupia się na realizacji własnego planu.
 
 

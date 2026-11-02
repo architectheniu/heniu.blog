@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0054: Relatórios de empresas: Amazon.com, Microsoft; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0054/index.md) (2026-11-02)
 - [H1: 2026-11-02](https://heniu.blog/pt-br/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [M15: 2026-11-02](https://heniu.blog/pt-br/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [Fundamentos #0053: American Electric Power: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0053/index.md) (2026-11-02)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [M15: 2026-10-26](https://heniu.blog/pt-br/t-log/tlog-2026-10-26/index.md) (2026-10-27)
 - [H1: 2026-10-26](https://heniu.blog/pt-br/h-log/hlog-2026-10-26/index.md) (2026-10-26)
 - [Log #0212: Resumo da sessão 2026-10-26: NDX 29272.46 (+1.09%)](https://heniu.blog/pt-br/posts/log-0212/index.md) (2026-10-26)
-- [Fundamentos #0022: Notificações de empresas: Marvell Technology, Workday; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-26-0022/index.md) (2026-10-26)
 
