@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Date: 2026-11-02 04:08
+Date: 2026-11-02 05:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-02/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.02 [EN]</h1>
+<h3>📈 [2026-11-02 05:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status and the cash session (Spot):</strong> The cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close. The NDX index closed the cash session at 28384.85 (-3.46%), with cumulative flow (CVD) at -208,4 M, indicating strong selling pressure (panic) in the equity sector.</li>
+<li><strong>Futures contracts (NQ):</strong> NQ contracts are currently showing a slight appreciation (+0.94%) at a price of 28803.25 and positive CVD at 3,6 K, suggesting a demand test in the session after the regular session. The aggregate flow direction gauge is -55, confirming the dominance of capital distribution in the current cycle.</li>
+<li><strong>QQQ Options Analysis:</strong> Implied volatility (IV) is 25.85%, with options volume at 11,506,640. The Put/Call Volume Ratio is 0.95, which, given the current declines, indicates a near equilibrium between hedging and speculative positions. The expected range of movement for QQQ lies between 681.76 and 699.22.</li>
+<li><strong>Technical context and levels:</strong> A correction from the peak on 28.10 (29847.38) is underway, which currently amounts to -4.90% (-1463 pts). This is a larger-scale correction (above the median of historical drawdowns). The nearest significant resistance (volume node) is located in the 28940–28960 zone.</li>
+</ul>
+<p>H-Log Report: 2026-11-02 05:07</p>
 <h3>📈 [2026-11-02 04:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
