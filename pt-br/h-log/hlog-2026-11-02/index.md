@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 12:08
+Data: 2026-11-02 13:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.02 [PT-BR]</h1>
+<h3>📈 [2026-11-02 13:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo negociados no nível 28743.00 (+0.73%) com um fluxo acumulado (CVD) de 4,16 K, o que indica um teste de demanda na sessão após a sessão à vista (Spot).</li>
+<li>O indicador de direção dos fluxos é -55, o que significa uma clara vantagem da distribuição de capital em escala de todo o mercado. No fechamento da sessão à vista (Spot), foi observada uma forte pressão de venda: o NDX caiu -3.46% (preço 28384.85) com o CVD acumulado no nível -208,4 M, e o ETF QQQ caiu -3.47% (preço 690.53) com CVD de -1,84 M.</li>
+<li>O Recuo desde o pico do Heniu do índice NDX desde o dia 28.10 (28.10: 29847.38) é atualmente de -4.90% (-1463 pts), o que classifica o movimento atual como uma correção maior em relação aos desvios históricos.</li>
+<li>O mercado de opções QQQ com volume de 11,506,640 indica uma volatilidade implícita (IV) no nível de 25.85%. O Put/Call Volume Ratio é de 0.95, o que sugere um equilíbrio próximo entre a demanda por proteção e por exposição de alta. O alcance de movimento esperado pelo mercado situa-se na faixa de 681.76 a 699.22 pontos.</li>
+<li>A principal resistência técnica encontra-se no nó de volume na zona 28940–28960.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-02 13:07</p>
 <h3>📈 [2026-11-02 12:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
