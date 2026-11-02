@@ -1,0 +1,80 @@
+# Log #0218: Resumo da sessão 2026-11-02: NDX 27994.99 (-1.39%)
+
+Data: 2026-11-02 22:04
+Endereço: https://heniu.blog/pt-br/posts/log-0218/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+**Data da sessão:** 2026-11-02
+
+> *Fechamento da sessão 2026-11-02: NDX 27994.99 (-1.39%), NQ 28200.75 (-1.17%), QQQ 681.13 (-1.37%).*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) nos níveis de NDX 28558.03 e NQ 28702.00. Nos primeiros 30 minutos até as 10:00 ET (16:00 PL), houve uma queda de NDX de 6.83 pts para 28551.20 e NQ de 8.50 pts para 28693.50. O máximo da sessão foi registrado às 10:29 ET (16:29 PL) no nível de NDX 28753.14, e o mínimo às 15:57 ET (21:57 PL) no nível de NDX 27968.73. O fechamento no nível de 27994.99 está 758.15 pts abaixo do máximo e 26.26 pts acima do mínimo.
+
+**Fluxos e amplitude de mercado.** As direções do fluxo acumulado foram divergentes: NDX e QQQ mostraram acumulação, enquanto o NQ registrou um sell-off. A amplitude de mercado (TICKQ) no fechamento foi de -318.00, o que significou um colapso do mercado, com uma média de 200 leituras SMA200 no nível de 11.45. Empresas acima de 1 tri USD representaram 68.45% da capitalização da cesta.
+
+**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX caiu 189.46 pts para o nível de 27994.99. No fechamento, registrou-se uma Anomalia MOC de +34,61 M. A volatilidade implícita (IV) para opções sobre QQQ era de 27.71%, e a proporção put/call foi de 1.31.
+
+**Balanço do dia.** O Índice Nasdaq-100 fechou com uma queda de 1.39% no nível de 27994.99.
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **27994.99 (-1.39%)**
+    * Fluxo acumulado (CVD): **54,5 M [acumulação]**
+    * Anomalia no fechamento (MOC): **+34,61 M**
+    * Utilização do alcance diário médio (ADR): **181.41%**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **-10.35%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **Contrato futuro NQ:** fechamento **28200.75 (-1.17%)**
+    * Fluxo acumulado (CVD): **−11,95 K [sell-off]**
+    * Utilização do alcance diário médio (ADR): **124.36%**
+
+* **ETF QQQ:** fechamento **681.13 (-1.37%)**
+    * Fluxo acumulado (CVD): **1,1 M [acumulação]**
+    * Utilização do alcance diário médio (ADR): **179.51%**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **-318.00 [colapso do mercado]**
+    * Média de 200 leituras (SMA200): **11.45 [teste de demanda]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **27.71%**
+    * Proporção put/call (posições abertas, OI): **1.31**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **39.73 tri USD** (mudança desde o fechamento anterior: **-0.44 tri USD**)
+    * Participação de empresas acima de 1 tri USD na capitalização da cesta: **68.45%** (mudança: **+0.27 p.p.**)
+    * Preço médio das ações na cesta: **$293.66** (mudança: **$-2.32**)
+    * Mudanças no grupo de empresas acima de 1 tri USD: **acima de 1 tri USD entraram: WMT; abaixo de 1 tri USD caíram: MU**
+
+* **Saúde dos dados da sessão:** leituras durante 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 6,1% das leituras; leituras desatualizadas rejeitadas: 91
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0218/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-11-02",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+

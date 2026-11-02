@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Log #0218: SESSION REPORT 2026-11-02: NDX 27994.99 (-1.39%)](https://heniu.blog/en/posts/log-0218/index.md) (2026-11-02)
 - [M15: 2026-11-02](https://heniu.blog/en/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [H1: 2026-11-02](https://heniu.blog/en/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [Fundamentals #0060: Exelon: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0060/index.md) (2026-11-02)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0026: NXP Semiconductors: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0026/index.md) (2026-10-28)
 - [Fundamentals #0025: Seagate Technology Holdings PLC: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-28-0025/index.md) (2026-10-28)
 - [Fundamentals #0024: Company filings: Broadcom, Amgen, Meta Platforms; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-28-0024/index.md) (2026-10-28)
-- [M15: 2026-10-27](https://heniu.blog/en/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 
