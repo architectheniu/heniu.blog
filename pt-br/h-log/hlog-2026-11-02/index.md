@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 16:08
+Data: 2026-11-02 17:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.02 [PT-BR]</h1>
+<h3>📈 [2026-11-02 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O Índice NDX sobe 0.71% para o nível 28586.90, com acumulação simultânea no mercado à vista (CVD NDX: 25,16 M). Isso confirma a tendência de alta também nos contratos NQ (+0.69%, preço 28732.00) e no ETF QQQ (+0.73%, preço 695.54). O indicador de direção de fluxo agregado é 25, o que indica uma vantagem moderada na entrada de capital no mercado.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> O indicador TICKQ é 133.00, o que, com uma média SMA200 no nível 14.22, indica uma pressão de compra muito forte na amplitude de mercado de ações da Nasdaq.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 24.34%, e a relação de volume Put/Call no nível 0.75 sugere a dominância de posições compradas (call), o que demonstra uma atitude otimista dos participantes do mercado. O alcance esperado de movimento para QQQ situa-se no intervalo de 686.99 a 703.47.</li>
+<li><strong>Contexto de correção:</strong> O Recuo desde o pico do Heniu do dia 28.10 (29847.38) é de -4.22% (-1260 pts). Com base em dados históricos, trata-se de um recuo comum, mais profundo do que 38% das correções anteriores.</li>
+<li><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 28940–28960.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-02 17:07</p>
 <h3>📈 [2026-11-02 16:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
