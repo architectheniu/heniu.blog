@@ -1,6 +1,6 @@
 # H1: 2026-11-02
 
-Data: 2026-11-02 17:08
+Data: 2026-11-02 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-02/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.02 [PT-BR]</h1>
+<h3>📈 [2026-11-02 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O Índice NDX encontra-se atualmente no nível 28526.76 (+0.50%), exibindo acumulação no mercado à vista com fluxo acumulado (CVD) no nível de 30,95 M. Os contratos NQ (28666.00, +0.46%) e o ETF QQQ (693.93, +0.50%) confirmam esta tendência, exibindo, respectivamente, um teste de demanda e acumulação. O indicador de direção de fluxos é 22, o que indica uma vantagem moderada de entrada de capital.</li>
+<li><strong>Amplitude de mercado:</strong> O indicador TICKQ é 205.00, o que, com a média SMA200 no nível de 15.10, indica uma presença muito forte de oferta na amplitude de mercado de ações Nasdaq.</li>
+<li><strong>Análise de opções QQQ:</strong> Com um volume de opções de 3,305,071 e uma razão Put/Call no nível de 0.80, o mercado exibe inclinação para a construção de posições longas. A volatilidade implícita (IV) é de 25.15%, e o alcance esperado de movimento para o QQQ situa-se no intervalo de 688.22 a 703.62.</li>
+<li>Trata-se de uma correção de caráter maior (acima da mediana de correções históricas), embora ainda menor que a maior registrada (-11.96%).</li>
+<li><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 28940–28960.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-02 18:07</p>
 <h3>📈 [2026-11-02 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
