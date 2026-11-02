@@ -6,11 +6,11 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [H1: 2026-11-02](https://heniu.blog/en/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [M15: 2026-11-02](https://heniu.blog/en/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [Fundamentals #0053: American Electric Power: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0053/index.md) (2026-11-02)
 - [Fundamentals #0052: O'Reilly Automotive: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0052/index.md) (2026-11-02)
 - [Fundamentals #0051: PACCAR: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0051/index.md) (2026-11-02)
-- [H1: 2026-11-02](https://heniu.blog/en/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [Log #0217: Gravitational Collapse and Volatility Expansion: Mass Shift Week](https://heniu.blog/en/posts/log-0217/index.md) (2026-11-01)
 - [H1: 2026-10-30](https://heniu.blog/en/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/en/t-log/tlog-2026-10-30/index.md) (2026-10-30)
