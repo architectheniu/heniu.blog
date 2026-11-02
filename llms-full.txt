@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0059: Amazon.com: wyniki za 3Q2026
+
+Data: 2026-11-02 10:42
+Adres: https://heniu.blog/f-log/flog-2026-11-02-0059/
+
+
+Przychody Amazon.com (AMZN) w trzecim kwartale wyniosły 201,94 mld USD (12,1% r/r), natomiast zysk na akcję (księgowy) spadł o 3,1% r/r do poziomu 1,89 USD.
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) wyniósł 1,92 USD (−3,0% r/r).
+
+### Prognoza spółki
+
+W czwartym kwartale 2026 spółka spodziewa się przychodów w przedziale 240,00 mld USD – 247,00 mld USD, co oznaczałoby wzrost przychodów na poziomie 12,0% – 16,0%, natomiast zysk operacyjny w tym samym okresie ma wynieść 28,50 mld USD – 33,50 mld USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że popyt na moc obliczeniową AWS jest tak duży, że klienci wykorzystują nowe zasoby niemal tak szybko, jak spółka je instaluje. Według zarządu firma ma bardzo dobrą widoczność popytu na AWS na kolejne lata, ponieważ duże bloki mocy są rezerwowane z dużym wyprzedzeniem. Zarząd wskazywał, że szybki wzrost usług AI obniża marżę AWS jako całości, gdyż marże w AI są obecnie niższe niż w podstawowych usługach chmurowych. Według zarządu AI stanowi wyjątkową, historyczną okazję, dlatego spółka będzie dalej mocno inwestować, aby pozostać liderem. Zarząd wspomniał również, że coraz więcej powtarzalnych prac w centrach logistycznych będą wykonywać roboty, a nowe obiekty są projektowane z dużym udziałem robotyki. Według zarządu sprzedaż własnych chipów na zewnątrz generuje szybszy przychód, jednak używanie ich we własnej chmurze przynosi w sumie więcej przychodów i gotówki.
+
+
+---
+
 ## Fundamenty #0058: Alnylam Pharmaceuticals: wyniki za 3Q2026
 
 Data: 2026-11-02 10:39
@@ -814,28 +837,5 @@ Zysk operacyjny wyniósł 45,91 mld USD, co stanowi wzrost o 20,9% r/r względem
 ### Co mówi zarząd
 
 Zarząd podkreślał, że dąży do maksymalnej wydajności i wymienności całej infrastruktury, przy czym moce są przydzielane zgodnie z sygnałami popytu. Według zarządu zespoły inżynierskie regularnie poprawiają wydajność na poziomie platformy. Zarząd wskazał, że kluczowym sposobem na utrzymanie marży jest wzrost przychodów. Według zarządu z każdym nowym modelem AI subskrypcja Copilota ma dostarczać klientom coraz większą wartość. Zarząd zauważył, że choć przejście na rozliczanie według zużycia poza programowaniem zajmie więcej czasu, to widoczne są zachęcające sygnały. Zarząd podkreślał również, że spółka posiada dużą swobodę w pozyskiwaniu finansowania w atrakcyjnych warunkach.
-
-
----
-
-## Fundamenty #0032: Teradyne: wyniki za 3Q2026
-
-Data: 2026-10-28 21:49
-Adres: https://heniu.blog/f-log/flog-2026-10-28-0032/
-
-
-Przychody Teradyne (TER) w III kwartale wyniosły 1,31 mld USD (+69,8% r/r), a zysk na akcję (księgowy) wzrósł do 2,17 USD (+189,3% r/r).
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) ukształtował się na poziomie 2,19 USD (+192,0% r/r), natomiast zysk na akcję (skorygowany) wyniósł 2,29 USD (+169,4% r/r).
-
-### Prognoza spółki
-
-W Q4 2026 spółka spodziewa się przychodów w przedziale 1,25 mld USD – 1,35 mld USD, przy zysku na akcję (skorygowanym) na poziomie 1,95–2,25 USD.
-
-### Co mówi zarząd
-
-Zarząd oczekuje w kolejnym roku znaczącego wzrostu w segmencie pamięci, który ma objąć wszystkie segmenty, ze szczególnym uwzględnieniem technologii HBM. Według zarządu zapasy rosną w związku z przygotowaniami do wzrostu oraz wydłużeniem terminów dostaw komponentów do testerów, dlatego spółka agresywnie zwiększa zdolności produkcyjne w obszarze testerów pamięci oraz linii testów zasilania. Zarząd podkreślał, że w kolejnym roku wzrost ma narastać kwartał po kwartale, mimo że spółka unika konkretnych prognoz ze względu na zmienność cykli składania linii testowych przez klientów. Według zarządu w obszarze robotyki portfel możliwości się powiększa, a od największego klienta oczekuje się w kolejnym roku solidnego wzrostu. Zarząd pozostaje zainteresowany technologią optyki współpakowanej, jednak tempo jej rozwoju zależy od opłacalności pozwalającej na zwiększenie produkcji.
 
 

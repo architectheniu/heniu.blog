@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0059: Amazon.com: 3Q2026 results
+
+Date: 2026-11-02 10:42
+URL: https://heniu.blog/en/f-log/flog-2026-11-02-0059/
+
+
+Amazon.com (AMZN) revenues in the third quarter were 201.94 billion USD (12.1% y/y), while earnings per share (GAAP) fell by 3.1% y/y to 1.89 USD.
+
+### Quarterly results
+
+Earnings per share (GAAP, diluted) was 1.92 USD (−3.0% y/y).
+
+### Company guidance
+
+In the fourth quarter of 2026, the company expects revenues in the range of 240.00 billion USD – 247.00 billion USD, which would mean revenue growth at a level of 12.0% – 16.0%, while operating income in the same period is expected to be 28.50 billion USD – 33.50 billion USD.
+
+### Management commentary
+
+Management emphasized that demand for AWS computing power is so high that customers are utilizing new resources almost as quickly as the company installs them. According to management, the company has very good visibility into AWS demand for the coming years, as large blocks of capacity are reserved well in advance. Management indicated that the rapid growth of AI services is lowering the overall AWS margin, as margins in AI are currently lower than in core cloud services. According to management, AI represents an exceptional, historic opportunity, so the company will continue to invest heavily to remain a leader. Management also mentioned that more and more repetitive tasks in logistics centers will be performed by robots, and new facilities are being designed with a high degree of robotics. According to management, selling their own chips externally generates faster revenue, however, using them in their own cloud brings more total revenue and cash.
+
+
+---
+
 ## Fundamentals #0058: Alnylam Pharmaceuticals: 3Q2026 results
 
 Date: 2026-11-02 10:39
@@ -814,28 +837,5 @@ Operating income was 45.91 billion USD, representing a 20.9% y/y increase compar
 ### What management says
 
 Management emphasized that it strives for maximum efficiency and interchangeability of the entire infrastructure, with capacity being allocated according to demand signals. According to management, engineering teams are regularly improving efficiency at the platform level. Management indicated that the key way to maintain margin is revenue growth. According to management, with every new AI model, the Copilot subscription is intended to deliver increasing value to customers. Management noted that although the transition to consumption-based billing outside of programming will take more time, encouraging signals are visible. Management also emphasized that the company has great flexibility in securing financing on attractive terms.
-
-
----
-
-## Fundamentals #0032: Teradyne: 3Q2026 results
-
-Date: 2026-10-28 21:49
-URL: https://heniu.blog/en/f-log/flog-2026-10-28-0032/
-
-
-Teradyne (TER) revenue in Q3 was 1.31 billion USD (+69.8% y/y), and earnings per share (GAAP) increased to 2.17 USD (+189.3% y/y).
-
-### Quarterly results
-
-Earnings per share (GAAP, basic) stood at 2.19 USD (+192.0% y/y), while earnings per share (adjusted) was 2.29 USD (+169.4% y/y).
-
-### Company guidance
-
-In Q4 2026, the company expects revenue in the range of 1.25 billion USD – 1.35 billion USD, with adjusted earnings per share at 1.95–2.25 USD.
-
-### Management commentary
-
-Management expects significant growth in the memory segment in the coming year, which is expected to encompass all segments, with a particular focus on HBM technology. According to management, inventories are increasing due to preparations for growth and extended lead times for component deliveries for testers; therefore, the company is aggressively increasing production capacity in the area of memory testers and power test lines. Management emphasized that growth is expected to accelerate quarter by quarter in the coming year, although the company avoids specific forecasts due to the volatility of customer test line assembly cycles. According to management, the robotics portfolio is expanding, and solid growth is expected from the largest customer in the coming year. Management remains interested in co-packaged optics technology, but its development pace depends on profitability allowing for increased production.
 
 

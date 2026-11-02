@@ -1,0 +1,23 @@
+# Fundamenty #0059: Amazon.com: wyniki za 3Q2026
+
+Data: 2026-11-02 10:42
+Adres: https://heniu.blog/f-log/flog-2026-11-02-0059/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody Amazon.com (AMZN) w trzecim kwartale wyniosły 201,94 mld USD (12,1% r/r), natomiast zysk na akcję (księgowy) spadł o 3,1% r/r do poziomu 1,89 USD.
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) wyniósł 1,92 USD (−3,0% r/r).
+
+### Prognoza spółki
+
+W czwartym kwartale 2026 spółka spodziewa się przychodów w przedziale 240,00 mld USD – 247,00 mld USD, co oznaczałoby wzrost przychodów na poziomie 12,0% – 16,0%, natomiast zysk operacyjny w tym samym okresie ma wynieść 28,50 mld USD – 33,50 mld USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że popyt na moc obliczeniową AWS jest tak duży, że klienci wykorzystują nowe zasoby niemal tak szybko, jak spółka je instaluje. Według zarządu firma ma bardzo dobrą widoczność popytu na AWS na kolejne lata, ponieważ duże bloki mocy są rezerwowane z dużym wyprzedzeniem. Zarząd wskazywał, że szybki wzrost usług AI obniża marżę AWS jako całości, gdyż marże w AI są obecnie niższe niż w podstawowych usługach chmurowych. Według zarządu AI stanowi wyjątkową, historyczną okazję, dlatego spółka będzie dalej mocno inwestować, aby pozostać liderem. Zarząd wspomniał również, że coraz więcej powtarzalnych prac w centrach logistycznych będą wykonywać roboty, a nowe obiekty są projektowane z dużym udziałem robotyki. Według zarządu sprzedaż własnych chipów na zewnątrz generuje szybszy przychód, jednak używanie ich we własnej chmurze przynosi w sumie więcej przychodów i gotówki.
+
