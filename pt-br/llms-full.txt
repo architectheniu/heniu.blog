@@ -7,6 +7,25 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0057: Strategy: resultados do 3Q2026
+
+Data: 2026-11-02 10:36
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-02-0057/
+
+
+A receita da empresa Strategy (MSTR) no terceiro trimestre de 2026 foi de 125,43 milhões de USD (−2,5% a/a), enquanto o lucro líquido cresceu 601,4% a/a para o nível de 19,53 bilhões de USD.
+
+### Resultados do trimestre
+
+O lucro operacional atingiu 20,91 bilhões de USD (437,4% a/a), e o lucro por ação (contábil) foi de 44,75 USD (431,5% a/a). O lucro por ação (contábil, básico) situou-se no nível de 47,78 USD (413,8% a/a).
+
+### O que diz a administração
+
+A administração enfatizou que a empresa possui atualmente uma grande reserva de capacidade de crédito no balanço, o que permite a criação de uma grande quantidade de crédito. De acordo com a administração, o objetivo mais importante é o retorno do instrumento Stretch ao seu valor nominal e seu desenvolvimento para a compra de bitcoins e o aumento do valor das ações ordinárias. A administração indicou que a empresa pode atualmente emitir instrumentos de crédito digitais, enquanto anteriormente baseava-se principalmente em obrigações conversíveis. Segundo a administração, a entrada de grandes instituições financeiras valida o bitcoin, o que reduz o risco de todo o setor. A administração também observou que, após a perturbação das cotações, todos os instrumentos de crédito da empresa recuperaram as perdas em grau semelhante.
+
+
+---
+
 ## Fundamentos #0056: Linde: resultados do 3Q2026
 
 Data: 2026-11-02 10:33
@@ -818,28 +837,5 @@ A empresa espera para todo o ano de 2026 um crescimento da receita orgânica no 
 ### O que diz a administração
 
 A administração enfatizou que as tecnologias de imagem estão no topo das listas de gastos de investimento dos clientes, e as vendas do novo produto de imagem PET estão progredindo conforme o esperado. De acordo com a administração, o pipeline de oportunidades de vendas permanece forte e em crescimento, o que constitui a base da resiliência do mercado. A administração também indicou que o desenvolvimento de centros de dados e IA afeta a disponibilidade de alguns componentes, no entanto, a empresa garantiu prioridade em entregas e preços. Segundo a administração, as orientações para o final do ano refletem a força demonstrada até agora, mantendo a cautela em relação ao ambiente macroeconômico variável.
-
-
----
-
-## Fundamentos #0030: Automatic Data Processing: resultados do 1Q2027
-
-Data: 2026-10-28 21:39
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-28-0030/
-
-
-A receita da Automatic Data Processing (ADP) aumentou no primeiro trimestre do ano fiscal de 2027 em 6,1% a/a para 5,49 bi USD, e o lucro por ação (contábil) aumentou 13,7% a/a para 2,83 USD.
-
-### Resultados do trimestre
-
-O lucro por ação (contábil, básico) foi de 2,84 USD (13,6% a/a).
-
-### Projeção da empresa
-
-Para todo o ano fiscal de 2027, a empresa espera um aumento na receita de 6,0%, um aumento no lucro por ação (ajustado) na faixa de 10,0% – 12,0% e um aumento no lucro por ação de 12,0% – 14,0%. A empresa também projeta receitas de juros no nível de 1,59 bi USD – 1,61 bi USD e uma taxa de imposto no nível de 23,0%.
-
-### O que diz a administração
-
-A administração enfatizou que o progresso na área de inteligência artificial, especialmente no caso do assistente ADP Assist, é significativo. De acordo com a administração, a escolha dos próximos agentes de IA baseia-se em soluções que proporcionam aos clientes efeitos mensuráveis e resolvem problemas reais. A administração indicou que o novo contrato relativo à inclusão de pagamentos na plataforma bancária é um elemento chave da prioridade estratégica, e discussões semelhantes estão em andamento. De acordo com a administração, o resultado de contratações dos clientes no trimestre foi satisfatório e representa a continuação do momentum crescente. A administração acredita que é do interesse dos acionistas destinar parte da melhoria dos resultados para dividendos e parte para o desenvolvimento contínuo.
 
 

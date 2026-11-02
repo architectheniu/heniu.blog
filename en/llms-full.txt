@@ -7,6 +7,25 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0057: Strategy: 3Q2026 results
+
+Date: 2026-11-02 10:36
+URL: https://heniu.blog/en/f-log/flog-2026-11-02-0057/
+
+
+Strategy company (MSTR) revenues in the third quarter of 2026 amounted to 125.43 million USD (−2.5% y/y), while net income increased by 601.4% y/y to the level of 19.53 billion USD.
+
+### Quarterly results
+
+Operating income reached 20.91 billion USD (437.4% y/y), and earnings per share (reported) was 44.75 USD (431.5% y/y). Earnings per share (reported, basic) was formed at the level of 47.78 USD (413.8% y/y).
+
+### What management says
+
+Management emphasized that the company currently possesses a large reserve of credit capacity on the balance sheet, which allows for the creation of a large amount of credit. According to management, the most important goal is the return of the Stretch instrument to its nominal value and its development for the purpose of purchasing bitcoins and increasing the value of common shares. Management indicated that the company can currently issue digital credit instruments, whereas previously it relied mainly on convertible bonds. According to management, the entry of large financial institutions validates bitcoin, which reduces the risk for the entire industry. Management also noted that after the disruption of quotes, all of the company's credit instruments recovered losses to a similar extent.
+
+
+---
+
 ## Fundamentals #0056: Linde: 3Q2026 results
 
 Date: 2026-11-02 10:33
@@ -818,28 +837,5 @@ The company expects for the full year 2026 organic revenue growth at 4.0%, EBIT 
 ### Management commentary
 
 Management emphasized that imaging technologies are at the top of customers' investment expenditure lists, and sales of the new PET imaging product are progressing as expected. According to management, the sales opportunity pipeline remains strong and growing, which forms the basis of market resilience. Management also indicated that the development of data centers and AI affects the availability of certain components, however, the company has secured priority in deliveries and pricing. According to management, year-end guidance reflects current strength, while maintaining caution regarding the changing macroeconomic environment.
-
-
----
-
-## Fundamentals #0030: Automatic Data Processing: 1Q2027 results
-
-Date: 2026-10-28 21:39
-URL: https://heniu.blog/en/f-log/flog-2026-10-28-0030/
-
-
-Automatic Data Processing (ADP) revenues increased in the first quarter of fiscal year 2027 by 6.1% y/y to 5.49 billion USD, and earnings per share (reported) increased by 13.7% y/y to 2.83 USD.
-
-### Quarterly results
-
-Earnings per share (reported, basic) was 2.84 USD (13.6% y/y).
-
-### Company guidance
-
-For the full fiscal year 2027, the company expects revenue growth of 6.0%, (adjusted) earnings per share growth in the range of 10.0% – 12.0%, and earnings per share growth of 12.0% – 14.0%. The company also forecasts interest income at 1.59 billion USD – 1.61 billion USD and a tax rate of 23.0%.
-
-### What management says
-
-Management emphasized that progress in the field of artificial intelligence, especially regarding the ADP Assist assistant, is significant. According to management, the selection of subsequent AI agents is based on solutions that provide measurable results to clients and solve real problems. Management indicated that the new agreement regarding the inclusion of payroll into the banking platform is a key element of strategic priority, and similar discussions are ongoing. According to management, client employment results in the quarter were satisfactory and represent a continuation of growing momentum. Management believes it is in the interest of shareholders to allocate part of the improvement in results to dividends and part to further development.
 
 
