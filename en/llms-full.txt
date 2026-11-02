@@ -7,6 +7,25 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0051: PACCAR: 3Q2026 results
+
+Date: 2026-11-02 09:32
+URL: https://heniu.blog/en/f-log/flog-2026-11-02-0051/
+
+
+PACCAR (PCAR) revenue in Q3 was 7.94 billion USD (+19.0% y/y), and net income increased by 43.6% y/y to 847.50 million USD.
+
+### Quarterly results
+
+Earnings per share (GAAP) was 1.61 USD (+43.8% y/y), which is identical to the earnings per share (GAAP, diluted) result of 1.61 USD (+43.8% y/y).
+
+### What management says
+
+Management emphasized closer cooperation with suppliers to ensure parts necessary for truck production. According to management, customers are starting to place orders for next year, which is only the beginning of this process. Management expects further growth in parts sales by the end of the year and gaining market share. According to management, uncertainty should subside, and the market will strengthen over the next year. Management also mentioned that the new PACCAR Connect platform operates like an open system with applications that can generate additional revenue.
+
+
+---
+
 ## Log #0217: Gravitational Collapse and Volatility Expansion: Mass Shift Week
 
 Date: 2026-11-01 09:01
@@ -861,24 +880,5 @@ Earnings per share (GAAP, basic) reached 3.51 USD (+40.4% y/y), while earnings p
 ### What management says
 
 Management emphasized that no widespread inventory replenishment is being observed in the automotive sector, with longer lead times improving demand visibility. According to management, confidence in continued growth is based on the increasing adoption of software-defined vehicles and the impact of artificial intelligence on industry and the Internet of Things. Management indicated that the gross margin improvement is structural and results from higher revenues, better fab utilization, and operational efficiency, while price increases merely cover higher costs. According to management, there is a structural shift in pricing within the industry, allowing semiconductors to capture a larger share of value in systems. Management noted that in data centers, growth depends on product launches, their adoption, and software deployment by customers. According to management, the company already has won projects in North America and the Asia-Pacific region, and is also conducting several pilots in China and Europe.
-
-
----
-
-## Fundamentals #0025: Seagate Technology Holdings PLC: 1Q2027 results
-
-Date: 2026-10-28 19:33
-URL: https://heniu.blog/en/f-log/flog-2026-10-28-0025/
-
-
-Seagate Technology Holdings PLC (STX) revenues in the first quarter were 4.23 billion USD (+61.0% y/y), and earnings per share (reported) increased to 7.59 USD (+212.3% y/y).
-
-### Quarterly results
-
-Earnings per share (reported, basic) reached 7.72 USD (+199.2% y/y), while earnings per share (adjusted) was 7.68 USD. The company's operating income was 2.06 billion USD (+197.4% y/y).
-
-### Management commentary
-
-Management emphasized that instead of destroying demand, they are observing its increasing creation on a quarter-to-quarter basis. According to management, the slower growth in shipments in the past period was planned well in advance and was not a result of issues during product transitions. Management noted that the pricing strategy remains unchanged, and new contracts incorporate higher costs of external components, which are more than covered by rising prices. According to management, the share buyback will clearly increase from the next quarter, as the company no longer plans further debt repayment activities. Management also indicated that corporate customers and hardware manufacturers are increasingly less likely to fall behind in purchasing the highest-capacity drives.
 
 

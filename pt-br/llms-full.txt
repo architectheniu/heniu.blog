@@ -7,6 +7,25 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0051: PACCAR: resultados do 3Q2026
+
+Data: 2026-11-02 09:33
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-02-0051/
+
+
+A receita da PACCAR (PCAR) no terceiro trimestre foi de 7,94 bilhões de USD (+19,0% a/a), e o lucro líquido aumentou 43,6% a/a para o nível de 847,50 milhões de USD.
+
+### Resultados do trimestre
+
+O lucro por ação (contábil) foi de 1,61 USD (+43,8% a/a), o que é idêntico ao resultado do lucro por ação (contábil, básico) no nível de 1,61 USD (+43,8% a/a).
+
+### O que diz a administração
+
+A administração enfatizou uma colaboração mais estreita com os fornecedores para garantir as peças necessárias para a produção de caminhões. De acordo com a administração, os clientes estão começando a fazer pedidos para o próximo ano, o que é apenas o início deste processo. A administração espera um crescimento contínuo nas vendas de peças até o final do ano e a conquista de participação de mercado. Segundo a administração, a incerteza deve diminuir, e o mercado se fortalecerá ao longo do próximo ano. A administração também mencionou que a nova plataforma PACCAR Connect funciona como um sistema aberto com aplicativos que podem gerar receitas adicionais.
+
+
+---
+
 ## Log #0217: Colapso Gravitacional e Expansão de Volatilidade: Semana de Deslocamento de Massa
 
 Data: 2026-11-01 09:01
@@ -861,24 +880,5 @@ O lucro por ação (contábil, básico) atingiu o nível de 3,51 USD (+40,4% a/a
 ### O que diz a administração
 
 A administração enfatizou que não se observa uma reposição ampla de estoques no setor automotivo, sendo que prazos de entrega mais longos melhoraram a visibilidade da demanda. Segundo a administração, a confiança no crescimento contínuo baseia-se na crescente adoção de veículos definidos por software e no impacto da inteligência artificial na indústria e na internet das coisas. A administração indicou que a melhoria na margem bruta é de natureza estrutural e resulta de receitas mais altas, melhor utilização das fábricas e eficiência operacional, enquanto os aumentos de preços apenas cobrem custos mais elevados. Segundo a administração, está ocorrendo uma mudança estrutural nos preços do setor, permitindo que os semicondutores assumam uma parte maior do valor nos sistemas. A administração observou que, nos centros de dados, o crescimento depende do lançamento de produtos, sua aceitação e a implementação de software pelos clientes. Segundo a administração, a empresa já possui projetos ganhos na América do Norte e na região Ásia-Pacífico, além de conduzir vários pilotos na China e na Europa.
-
-
----
-
-## Fundamentos #0025: Seagate Technology Holdings PLC: resultados do 1Q2027
-
-Data: 2026-10-28 19:33
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-28-0025/
-
-
-A receita da Seagate Technology Holdings PLC (STX) no primeiro trimestre foi de 4,23 bilhões de USD (+61,0% a/a), e o lucro por ação (contábil) aumentou para 7,59 USD (+212,3% a/a).
-
-### Resultados do trimestre
-
-O lucro por ação (contábil, básico) atingiu o nível de 7,72 USD (+199,2% a/a), enquanto o lucro por ação (ajustado) foi de 7,68 USD. O lucro operacional da empresa situou-se em 2,06 bilhões de USD (+197,4% a/a).
-
-### O que diz a administração
-
-A administração enfatizou que, em vez de destruir a demanda, observa sua criação cada vez maior na comparação trimestre a trimestre. Segundo a administração, o crescimento mais lento das remessas no período passado foi planejado com grande antecedência e não resultou de problemas na mudança de produtos. A administração observou que a estratégia de preços permanece inalterada e que nos novos contratos são considerados custos mais elevados de componentes externos, que são amplamente cobertos pelos preços crescentes. Segundo a administração, a recompra de ações aumentará claramente a partir do próximo trimestre, pois a empresa não planeja mais novas ações relacionadas ao pagamento de dívidas. A administração também indicou que clientes corporativos e fabricantes de hardware estão ficando cada vez menos para trás nas compras de discos de maior capacidade.
 
 

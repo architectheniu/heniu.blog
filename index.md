@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0051: PACCAR: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0051/index.md) (2026-11-02)
 - [M15: 2026-11-02](https://heniu.blog/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [H1: 2026-11-02](https://heniu.blog/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [Log #0217: Kolaps Grawitacyjny i Ekspansja Zmienności: Tydzień Przesunięcia Masy](https://heniu.blog/posts/log-0217/index.md) (2026-11-01)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0022: Zgłoszenia spółek: Marvell Technology, Workday; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-26-0022/index.md) (2026-10-26)
 - [Log #0211: Kompresja Masy i Rozszerzalność Zmienności: Tydzień Negatywnej Akrecji](https://heniu.blog/posts/log-0211/index.md) (2026-10-25)
 - [H1: 2026-10-23](https://heniu.blog/h-log/hlog-2026-10-23/index.md) (2026-10-23)
-- [M15: 2026-10-23](https://heniu.blog/t-log/tlog-2026-10-23/index.md) (2026-10-23)
 
