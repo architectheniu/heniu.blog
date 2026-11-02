@@ -6,12 +6,12 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [M15: 2026-11-02](https://heniu.blog/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [Fundamenty #0060: Exelon: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0060/index.md) (2026-11-02)
 - [Fundamenty #0059: Amazon.com: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0059/index.md) (2026-11-02)
 - [Fundamenty #0058: Alnylam Pharmaceuticals: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0058/index.md) (2026-11-02)
 - [Fundamenty #0057: Strategy: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0057/index.md) (2026-11-02)
 - [Fundamenty #0056: Linde: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0056/index.md) (2026-11-02)
-- [M15: 2026-11-02](https://heniu.blog/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [Fundamenty #0055: DexCom: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0055/index.md) (2026-11-02)
 - [Fundamenty #0054: Zgłoszenia spółek: Amazon.com, Microsoft; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-02-0054/index.md) (2026-11-02)
 - [H1: 2026-11-02](https://heniu.blog/h-log/hlog-2026-11-02/index.md) (2026-11-02)
