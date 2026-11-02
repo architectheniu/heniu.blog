@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0058: Alnylam Pharmaceuticals: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0058/index.md) (2026-11-02)
 - [Fundamentals #0057: Strategy: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0057/index.md) (2026-11-02)
 - [Fundamentals #0056: Linde: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0056/index.md) (2026-11-02)
 - [M15: 2026-11-02](https://heniu.blog/en/t-log/tlog-2026-11-02/index.md) (2026-11-02)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [M15: 2026-10-27](https://heniu.blog/en/t-log/tlog-2026-10-27/index.md) (2026-10-27)
 - [H1: 2026-10-27](https://heniu.blog/en/h-log/hlog-2026-10-27/index.md) (2026-10-27)
 - [Log #0213: Session summary 2026-10-27: NDX 29653.58 (+1.29%)](https://heniu.blog/en/posts/log-0213/index.md) (2026-10-27)
-- [Fundamentals #0023: Company filings: Meta Platforms, Space Exploration Technologies; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-27-0023/index.md) (2026-10-27)
 
