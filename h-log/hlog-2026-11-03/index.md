@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 02:07
+Data: 2026-11-03 03:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.03</h1>
+<h3>📈 [2026-11-03 03:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ notowane są na poziomie 28242.25 (+0.41%) z dodatnim przepływem skumulowanym (CVD) wynoszącym 2,59 K, co wskazuje na testowanie popytu w sesji po sesji kasowej.</li>
+<li>Indeks NDX zamknął sesję kasową przy cenie 27994.99 (-1.39%), przy silnej wyprzedaży (CVD NDX: -23,68 M).</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi -20, co oznacza przewagę dystrybucji kapitału na rynku.</li>
+<li>Rynek opcji QQQ wykazuje zmienność implikowaną (IV) na poziomie 27.88% przy Put/Call Volume Ratio wynoszącym 1.01, co sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na większą zmienność. Oczekiwany zasięg ruchu wynosi od 666.68 do 695.50 punktów.</li>
+<li>Najbliższy istotny opór znajduje się w węźle wolumenu w strefie 28940–28960.</li>
+</ul>
+<p>Raport H-Log: 2026-11-03 03:07</p>
 <h3>📈 [2026-11-03 02:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
