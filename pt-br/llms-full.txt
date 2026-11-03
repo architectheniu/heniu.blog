@@ -7,6 +7,86 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0219: Resumo da sessão 2026-11-03: NDX 28180.26 (+0.68%)
+
+Data: 2026-11-03 22:04
+Endereço: https://heniu.blog/pt-br/posts/log-0219/
+
+
+**Data da sessão:** 2026-11-03
+
+> *Fechamento da sessão 2026-11-03: NDX 28180.26 (+0.68%), NQ 28302.75 (+0.62%), QQQ 685.34 (+0.62%).*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 28096.64. Nos primeiros 30 minutos, o índice NDX subiu 57.86 pts (+0.21%) para o nível 28154.50. O nível mais baixo do NDX foi registrado às 9:30 ET (15:30 PL), e o mais alto às 11:03 ET (17:03 PL). O fechamento no nível 28180.26 está 124.54 pts abaixo do máximo da sessão.
+
+**Fluxos e amplitude de mercado.** As direções do fluxo acumulado (CVD) para NDX, NQ e QQQ foram negativas e consistentes em todos os três instrumentos. A leitura da Radiação de Fundo (TICKQ) no fechamento foi de -757.00, enquanto a média SMA200 era de 7.73. A participação de empresas com capitalização acima de 1 tri USD na cesta foi de 66.11%.
+
+**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX subiu 45.66 pts (+0.16%) para o nível 28180.26. A Anomalia MOC no fechamento foi de -30,58 M. A volatilidade implícita (IV) para as opções sobre QQQ era de 27.63%, e a razão put/call foi de 1.26.
+
+**Balanço do dia.** O Índice Nasdaq-100 fechou no nível 28180.26, o que representa uma alta de 0.68%.
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **28180.26 (+0.68%)**
+    * Fluxo acumulado (CVD): **−67,89 M [colapso do mercado]**
+    * Anomalia MOC: **-30,58 M**
+    * Utilização da amplitude diária média (ADR): **46.98%**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **-9.76%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **Contrato futuro NQ:** fechamento **28302.75 (+0.62%)**
+    * Fluxo acumulado (CVD): **−12,14 K [sell-off]**
+    * Utilização da amplitude diária média (ADR): **60.60%**
+
+* **ETF QQQ:** fechamento **685.34 (+0.62%)**
+    * Fluxo acumulado (CVD): **−2,88 M [colapso do mercado]**
+    * Utilização da amplitude diária média (ADR): **47.42%**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **-757.00 [pânico]**
+    * Média de 200 leituras (SMA200): **7.73 [teste de demanda]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **27.63%**
+    * Razão put/call (posições abertas, OI): **1.26**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **40.08 tri USD** (mudança desde o fechamento anterior: **+0.35 tri USD**)
+    * Participação de empresas acima de 1 tri USD na capitalização da cesta: **66.11%** (mudança: **-2.35 p.p.**)
+    * Preço médio das ações na cesta: **$295.46** (mudança: **+$1.98**)
+    * Mudanças no grupo de empresas acima de 1 tri USD: **abaixo de 1 tri USD caíram: WMT**
+
+* **Saúde dos dados da sessão:** leituras por 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,0% das leituras; leituras desatualizadas rejeitadas: 160
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0219/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-11-03",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentos #0062: Vertex Pharmaceuticals: resultados do 3Q2026
 
 Data: 2026-11-03 13:33
@@ -893,24 +973,5 @@ A empresa espera receitas no nível de 37,35 bi USD – 37,45 bi USD e fluxos de
 ### O que diz a diretoria
 
 A diretoria enfatizou que vê um forte crescimento contínuo na internet fixa via rede móvel, bem como um aumento na receita por cliente. Segundo a diretoria, os lucros do planejamento de rede de rádio por IA foram maiores do que o esperado. A diretoria observou que a conectividade via satélite é tratada como um produto complementar, razão pela qual não prevê a revenda de serviços de satélite de outro operador em sua rede. Segundo a diretoria, a empresa busca manter o equilíbrio entre o número de clientes e seu valor, focando em conquistar contas e converter isso em vantagem financeira. A diretoria também indicou a crença na combinação de serviços em pacotes, em vez de uma integração estrita entre telefonia fixa e móvel.
-
-
----
-
-## Fundamentos #0037: KLA: resultados do 1Q2027
-
-Data: 2026-10-29 02:17
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-29-0037/
-
-
-A receita da KLA (KLAC) no primeiro trimestre do ano fiscal de 2027 foi de 4,14 bi USD (+28,9% a/a), e o lucro líquido aumentou 38,1% a/a para o nível de 1,55 bi USD.
-
-### Resultados do trimestre
-
-O lucro por ação (ajustado) atingiu 1,22 USD (+38,6% a/a), enquanto o lucro por ação (contábil) foi de 1,18 USD (+38,8% a/a). No segmento Semiconductor Process Control, a receita foi de 3,75 bi USD (+29,5% a/a), enquanto no segmento Specialty Semiconductor Process registrou-se 139,49 mi USD (+16,5% a/a).
-
-### O que diz a administração
-
-De acordo com a administração, o crescimento contínuo deve ser mais uniforme, ao mesmo tempo em que se espera um crescimento de trimestre para trimestre. A administração enfatizou que os fabricantes de memória DRAM apreciaram o valor de um maior rendimento de produção, o que se traduz em uma intensidade crescente de controle de processo. Segundo a administração, as vendas na China estão crescendo muito mais lentamente do que em escala de toda a empresa. A administração também indicou que, devido às pressões dos clientes para a priorização de projetos, a empresa deve investir em recursos humanos, instalações e cadeia de suprimentos.
 
 
