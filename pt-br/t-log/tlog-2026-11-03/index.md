@@ -1,6 +1,6 @@
 # M15: 2026-11-03
 
-Data: 2026-11-03 19:44
+Data: 2026-11-03 19:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.03 [PT-BR]</h1>
+<h3>⏱️ [2026-11-03 19:59] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>28258.33</strong> (+0.96%; desde a entrada anterior -4.45 pts) · NQ <strong>28389.75</strong> (+0.93%; -4.50 pts) · QQQ <strong>687.40 USD</strong> (+0.93%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>127.12 M</strong> [euforia] · CVD NQ <strong>5.54 K</strong> [teste de demanda] (desde a entrada anterior +1.02 K) · CVD QQQ <strong>-371.17 K</strong> [teste de oferta] · TICKQ <strong>159</strong> [acumulação] · média SMA200 <strong>11.29</strong> [teste de demanda] (+1.32) · indicador de direção <strong>60</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>40.16 trilhões de USD</strong> (desde a entrada anterior +0.44 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>66.1%</strong> (-2.4 p.p.) · preço médio das ações <strong>296.16 USD</strong> (+3.03 USD) · opções sobre QQQ: volatilidade implícita <strong>27.12%</strong>, put/call <strong>1.05</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28940–28960</strong> (2.41% acima)</li>
+</ul>
+<p>A participação das maiores empresas na cesta caiu, apesar de o preço médio das ações ter subido. A resistência mais próxima encontra-se acima dos níveis de preço atuais.</p>
 <h3>⏱️ [2026-11-03 19:44] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>28262.78</strong> (+0.98%; desde a entrada anterior +11.54 pts) · NQ <strong>28394.25</strong> (+0.95%; +4.75 pts) · QQQ <strong>687.51 USD</strong> (+0.94%)</li>
