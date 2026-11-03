@@ -1,4 +1,4 @@
-# Fundamentals #0043: Starbucks: 3Q2026 results
+# Fundamentals #0043: Starbucks: 4Q2026 results
 
 Date: 2026-10-29 22:33
 URL: https://heniu.blog/en/f-log/flog-2026-10-29-0043/
@@ -7,7 +7,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 ---
 
 
-Starbucks (SBUX) revenue fell by 4.5% y/y in the third quarter of fiscal year 2026 to 9.14 billion USD, while net income increased by 408.8% y/y to 677.20 million USD.
+> ⚠️ **ERRATUM (2026-11-03)**  
+> **The post stated the wrong quarter.**
+>
+> **Correction:**
+> - The results are for the fourth quarter of fiscal year 2026 (ended September 27, 2026), not the third quarter.
+>
+> We corrected the title and the text; the figures stay the same.
+
+Starbucks (SBUX) revenue fell by 4.5% y/y in the fourth quarter of fiscal year 2026 to 9.14 billion USD, while net income increased by 408.8% y/y to 677.20 million USD.
 
 ### Quarterly results
 

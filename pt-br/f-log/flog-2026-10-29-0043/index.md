@@ -1,4 +1,4 @@
-# Fundamentos #0043: Starbucks: resultados do 3Q2026
+# Fundamentos #0043: Starbucks: resultados do 4Q2026
 
 Data: 2026-10-29 22:33
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-29-0043/
@@ -7,7 +7,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 ---
 
 
-As receitas da Starbucks (SBUX) caíram no terceiro trimestre do ano fiscal de 2026 em 4,5% a/a para o nível de 9,14 bi USD, enquanto o lucro líquido aumentou 408,8% a/a para 677,20 mi USD.
+> ⚠️ **ERRATUM (2026-11-03)**  
+> **O post indicava o trimestre errado.**
+>
+> **Correção:**
+> - Os resultados são do quarto trimestre do ano fiscal de 2026 (encerrado em 27 de setembro de 2026), e não do terceiro trimestre.
+>
+> Corrigimos o título e o texto; os números não mudam.
+
+As receitas da Starbucks (SBUX) caíram no quarto trimestre do ano fiscal de 2026 em 4,5% a/a para o nível de 9,14 bi USD, enquanto o lucro líquido aumentou 408,8% a/a para 677,20 mi USD.
 
 ### Resultados do trimestre
 

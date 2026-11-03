@@ -36,7 +36,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [M15: 2026-10-29](https://heniu.blog/pt-br/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamentos #0044: Intel: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0044/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/pt-br/h-log/hlog-2026-10-29/index.md) (2026-10-29)
-- [Fundamentos #0043: Starbucks: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0043/index.md) (2026-10-29)
+- [Fundamentos #0043: Starbucks: resultados do 4Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0043/index.md) (2026-10-29)
 - [Log #0215: Resumo da sessão 2026-10-29: NDX 29407.05 (-1.38%)](https://heniu.blog/pt-br/posts/log-0215/index.md) (2026-10-29)
 - [Fundamentos #0042: Xcel Energy: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0042/index.md) (2026-10-29)
 - [Fundamentos #0041: DoorDash: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0041/index.md) (2026-10-29)

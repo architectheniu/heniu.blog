@@ -1,4 +1,4 @@
-# Fundamenty #0043: Starbucks: wyniki za 3Q2026
+# Fundamenty #0043: Starbucks: wyniki za 4Q2026
 
 Data: 2026-10-29 22:33
 Adres: https://heniu.blog/f-log/flog-2026-10-29-0043/
@@ -7,7 +7,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
-Przychody Starbucks (SBUX) spadły w III kwartale roku obrotowego 2026 o 4,5% r/r do poziomu 9,14 mld USD, podczas gdy zysk netto wzrósł o 408,8% r/r do 677,20 mln USD.
+> ⚠️ **ERRATUM (2026-11-03)**  
+> **Wpis podawał zły kwartał.**
+>
+> **Sprostowanie:**
+> - Wyniki dotyczą IV kwartału roku obrotowego 2026 (zakończonego 27 września 2026), a nie III kwartału.
+>
+> Poprawiliśmy tytuł i tekst; liczby się nie zmieniają.
+
+Przychody Starbucks (SBUX) spadły w IV kwartale roku obrotowego 2026 o 4,5% r/r do poziomu 9,14 mld USD, podczas gdy zysk netto wzrósł o 408,8% r/r do 677,20 mln USD.
 
 ### Wyniki kwartału
 
