@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 15:07
+Data: 2026-11-03 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.03</h1>
+<h3>📈 [2026-11-03 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Analiza przepływów i sentymentu:</strong> Rynek wykazuje silną dywergencję między indeksem NDX a instrumentami pochodnymi. Podczas gdy NDX rośnie o 0.67% z wysokim napływem kapitału (CVD NDX = 97,24 M), kontrakty NQ (+0.65%) oraz ETF QQQ (+0.63%) wykazują ujemny przepływ skumulowany (CVD odpowiednio: -5,52 K oraz -394,52 K), co sugeruje testowanie podaży i potencjalne fałszywe wybicie w górę. Zbiorczy wskaźnik kierunku przepływów wynosi 45, co wskazuje na umiarkowaną przewagę napływu kapitału.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi 53.00, co przy średniej SMA200 na poziomie 8.28 wskazuje na bardzo silną presję kupujących w szerokim rynku akcji.</li>
+<li><strong>Rynek opcji:</strong> Zmienność implikowana (IV) wynosi 27.18%, a stosunek Put/Call Ratio kształtuje się na poziomie 0.79 przy wolumenie 313,701 kontraktów. Dane te wskazują na umiarkowany sentyment i budowanie zabezpieczeń w zakresie oczekiwanego ruchu między 666.68 a 695.50 punktów.</li>
+<li><strong>Kontekst techniczny:</strong> Trwająca korekta od szczytu z 28.10 (28176.16 vs 29847.38) wynosi -5.60% (-1671 pkt). Jest to korekta o charakterze większym niż mediana historycznych ruchów, ale mniejsza niż największa odnotowana (-11.96%). Najbliższy istotny opór (węzeł wolumenu) znajduje się w strefie 28940–28960.</li>
+</ul>
+<p>Raport H-Log: 2026-11-03 16:07</p>
 <h3>📈 [2026-11-03 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
