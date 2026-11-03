@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 20:08
+Data: 2026-11-03 21:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.03 [PT-BR]</h1>
+<h3>📈 [2026-11-03 21:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Análise de fluxo e preço:</strong> O Índice NDX sobe 0,53% para o nível 28137,97, com uma entrada simultânea de capital forte (CVD NDX = 104,86 M). No entanto, ocorre uma divergência em relação aos contratos NQ (preço +0,50%, mas CVD = -8,21 K) e ao ETF QQQ (preço +0,49%, mas CVD = -2,22 M), o que sugere um teste de oferta nos contratos e um enfraquecimento da força da tendência no setor à vista. O indicador de direção do fluxo é 60, o que indica a predominância da entrada de capital.</li>
+<li><strong>Amplitude de mercado:</strong> O indicador TICKQ é 145,00, o que, com a média SMA200 no nível 10,42, indica uma tensão extremamente alta e grande atividade de compradores na amplitude de mercado.</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) é de 27,61%, e o Put/Call Volume Ratio no nível de 1,10 sugere uma leve predominância de posições de proteção (hedging) ou a expectativa de maior volatilidade. O alcance de movimento esperado pelo mercado para o QQQ está na faixa de 675,73 a 699,09.</li>
+<li><strong>Contexto técnico:</strong> O recuo atual desde o pico de 28.10 (28137,97 em relação a 29847,38) é de -5,73% (-1709 pts). Este é um recuo com caráter maior do que a mediana dos movimentos históricos. A zona de resistência mais próxima (nó de volume) encontra-se na faixa de 28940–28960.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-03 21:07</p>
 <h3>📈 [2026-11-03 20:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
