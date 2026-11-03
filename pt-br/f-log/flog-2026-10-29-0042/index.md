@@ -9,10 +9,6 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 A receita da Xcel Energy (XEL) aumentou 6,6% ano a ano no terceiro trimestre para 4,17 bilhões de USD, e o lucro por ação (contábil) aumentou 72,7% ano a ano para 1,52 USD.
 
-### Resultados do trimestre
-
-[SEM DADOS]
-
 ### Projeção da empresa
 
 A empresa espera um lucro por ação na faixa de 4,10 USD – 4,16 USD, 4,48 USD – 4,62 USD e 4,04 USD – 4,16 USD.

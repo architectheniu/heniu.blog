@@ -18,10 +18,6 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 Przychody O'Reilly Automotive (ORLY) w trzecim kwartale wyniosły 5,12 mld USD (8,8% r/r), a zysk na akcję (księgowy) wzrósł do 0,97 USD (12,8% r/r).
 
-### Wyniki kwartału
-
-brak danych.
-
 ### Prognoza spółki
 
 Na cały rok 2026 spółka spodziewa się przychodów w przedziale 19,00 mld USD – 19,30 mld USD, wzrostu sprzedaży w porównywalnych sklepach na poziomie 5,5% – 6,5%, marży operacyjnej (zysk operacyjny jako procent sprzedaży) w zakresie 19,5% – 20,0% oraz marży brutto na poziomie 51,6% – 52,1%. Dodatkowo spółka prognozuje zysk na akcję w przedziale 3,25–3,35 USD, nakłady inwestycyjne rzędu 1,30 mld USD – 1,40 mld USD, wolne przepływy pieniężne na poziomie 1,90 mld USD – 2,20 mld USD oraz stopę podatkową wynoszącą 22,7%.

@@ -9,10 +9,6 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 Przychody Xcel Energy (XEL) wzrosły w III kwartale o 6,6% r/r do 4,17 mld USD, a zysk na akcję (księgowy) zwiększył się o 72,7% r/r do 1,52 USD.
 
-### Wyniki kwartału
-
-brak danych.
-
 ### Prognoza spółki
 
 Spółka spodziewa się zysku na akcję w przedziale 4,10 USD – 4,16 USD, 4,48 USD – 4,62 USD oraz 4,04 USD – 4,16 USD.

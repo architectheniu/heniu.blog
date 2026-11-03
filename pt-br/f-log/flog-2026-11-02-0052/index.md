@@ -18,10 +18,6 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 A receita da O'Reilly Automotive (ORLY) no terceiro trimestre foi de 5,12 bi USD (8,8% a/a), e o lucro por ação (contábil) aumentou para 0,97 USD (12,8% a/a).
 
-### Resultados do trimestre
-
-[SEM DADOS].
-
 ### Projeção da empresa
 
 Para todo o ano de 2026, a empresa espera uma receita na faixa de 19,00 bi USD – 19,30 bi USD, um crescimento das vendas em lojas comparáveis no nível de 5,5% – 6,5%, uma margem operacional (lucro operacional como percentual das vendas) na faixa de 19,5% – 20,0% e uma margem bruta no nível de 51,6% – 52,1%. Além disso, a empresa projeta o lucro por ação na faixa de 3,25–3,35 USD, gastos de capital na ordem de 1,30 bi USD – 1,40 bi USD, fluxo de caixa livre no nível de 1,90 bi USD – 2,20 bi USD e uma taxa de imposto de 22,7%.

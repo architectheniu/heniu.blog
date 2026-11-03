@@ -9,10 +9,6 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 Vertex Pharmaceuticals (VRTX) revenue in Q3 increased by 11.8% year over year to 3.44 billion USD, while earnings per share (GAAP, basic) fell by 39.1% year over year to 2.58 USD.
 
-### Quarterly results
-
-no data.
-
 ### Company guidance
 
 For the full year 2026, the company expects revenue in the range of 13.15 billion USD – 13.25 billion USD, including "PALSONIFY" sales revenue at a level of 40.00 million USD – 50.00 million USD.

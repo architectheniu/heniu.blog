@@ -9,10 +9,6 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 Xcel Energy (XEL) revenues increased in Q3 by 6.6% y/y to 4.17 billion USD, and earnings per share (reported) increased by 72.7% y/y to 1.52 USD.
 
-### Quarterly results
-
-no data.
-
 ### Company guidance
 
 The company expects earnings per share in the range of 4.10 USD – 4.16 USD, 4.48 USD – 4.62 USD and 4.04 USD – 4.16 USD.
