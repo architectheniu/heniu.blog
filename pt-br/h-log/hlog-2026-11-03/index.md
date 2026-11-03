@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 19:08
+Data: 2026-11-03 20:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.03 [PT-BR]</h1>
+<h3>📈 [2026-11-03 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>Apesar do aumento do preço, há uma divergência visível no mercado à vista: o fluxo acumulado (CVD) para o NDX é de 120,16 M, o que indica uma forte euforia, enquanto o ETF QQQ apresenta um teste de oferta com CVD negativo no nível de -504,44 K. Os contratos NQ (28364,00, +0,84%) testam a demanda com CVD baixo (3,41 K). O indicador de direção de fluxo é 60, o que confirma a dominância da entrada de capital.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> O indicador TICKQ é de -335,00, o que, com uma média SMA200 no nível de 9,01, sinaliza pressão de venda na amplitude de mercado de ações da Nasdaq, apesar das altas do índice principal.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 27,10%, e a relação de volume Put/Call (PCR) está no nível de 1,06. Com um volume de opções de 4 779 263, um PCR acima de 1,0 sugere a construção de posições de hedge ou vantagem de opções de venda, o que pode indicar cautela dos investidores apesar das altas atuais. O alcance esperado de movimento para o QQQ situa-se no intervalo de 674,57 a 698,89 pts.</li>
+<li><strong>Níveis técnicos:</strong> A correção atual é classificada como maior (acima da mediana das correções históricas). A zona de resistência mais próxima (nó de volume) encontra-se no intervalo de 28940–28960, o que representa um nível 2,51% acima do preço atual.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-03 20:07</p>
 <h3>📈 [2026-11-03 19:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
