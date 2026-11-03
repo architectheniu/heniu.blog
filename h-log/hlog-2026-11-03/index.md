@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 18:07
+Data: 2026-11-03 19:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.03</h1>
+<h3>📈 [2026-11-03 19:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX rośnie o 0,98% do poziomu 28266,12, przy czym skumulowany przepływ (CVD) na rynku kasowym wynosi 127,82 M, co wskazuje na silną presję zakupową. Kontrakty NQ wykazują wzrost o 0,96% (cena 28397,00) z testowaniem popytu (CVD 5,05 K), podczas gdy ETF QQQ przy wzroście o 0,95% (687,59) wykazuje test podaży (CVD -357,69 K). Wskaźnik kierunku przepływów wynosi 60, co potwierdza dominację napływu kapitału. Szeroki rynek (TICKQ) znajduje się na poziomie 302,00, co przy średniej SMA200 wynoszącej 8,87 wskazuje na skrajnie wysokie momentum wzrostowe.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 27,54%, a stosunek wolumenu opcji Put do Call (PCR) kształtuje się na poziomie 1,05 przy łącznym wolumenie 3 955 747. Wskazuje to na lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwania na większą zmiwność, przy oczekiwanym zasięgu ruchu w przedziale od 674,29 do 698,11 punktów.</li>
+<li>Jest to ruch o charakterze większej korekty, głębszej niż 50% historycznych wycofań w badanym okresie. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 28940–28960.</li>
+</ul>
+<p>Raport H-Log: 2026-11-03 19:07</p>
 <h3>📈 [2026-11-03 18:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
