@@ -7,6 +7,25 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0063: Apple: 4Q2026 results
+
+Date: 2026-11-03 23:42
+URL: https://heniu.blog/en/f-log/flog-2026-11-03-0063/
+
+
+Apple (AAPL) revenue in the fourth quarter of fiscal year 2026 was 114.48 billion USD (+11.7% year over year), and earnings per share (accounting) increased by 13.5% year over year to 2.10 USD.
+
+### Quarterly results
+
+Earnings per share (accounting, basic) was 2.11 USD (+14.1% year over year), with operating income at 35.63 billion USD (+9.9% year over year).
+
+### What management says
+
+Management emphasized that Siri AI serves as an assistant whose capabilities will be gradually expanded while maintaining an emphasis on privacy and security. According to management, the iPhone is set to become the user's intelligent personal hub, as it stores the most important data to which even the company does not have access. Management is optimistic about long-term services growth, pointing to the growing number of active devices as the foundation of this process. According to management, rising memory prices are putting pressure on product prices, making programs that facilitate customer purchases important. Management also noted that in subsequent quarters, the benefit from cheaper inventory will decrease in the face of unprecedented memory prices. According to management, production of the new iPhone Duo is growing, however, it is currently difficult to predict when supply will meet demand.
+
+
+---
+
 ## Log #0219: SESSION REPORT 2026-11-03: NDX 28180.26 (+0.68%)
 
 Date: 2026-11-03 22:04
@@ -950,28 +969,5 @@ The company expects fourth quarter revenue in the range of 1.70 billion USD – 
 ### Management commentary
 
 Management emphasized that recurring revenue is performing very well, and AI agents are increasing the use of the company's core tools. According to management, AI agents are driving demand for chip design tools because they can call the company's compute engines multiple times. Management indicated that the company's strategy focuses on selling high-value engineering software, rather than building large-scale general-purpose AI infrastructure. According to management, design verification hardware recorded another record quarter due to demand from customers in the AI industry, and the company expects another record year in the hardware segment in subsequent quarters, although sales may fluctuate between quarters.
-
-
----
-
-## Fundamentals #0038: T-Mobile US: 3Q2026 results
-
-Date: 2026-10-29 02:20
-URL: https://heniu.blog/en/f-log/flog-2026-10-29-0038/
-
-
-T-Mobile US (TMUS) revenues in the third quarter increased by 7.4% y/y to 23.58 billion USD, and earnings per share (GAAP) increased by 33.6% y/y to 3.22 USD.
-
-### Quarterly results
-
-Earnings per share (GAAP, diluted) was 3.23 USD (33.5% y/y), while operating income reached 5.66 billion USD (25.0% y/y).
-
-### Company guidance
-
-The company expects revenues in the range of 37.35 billion USD – 37.45 billion USD and free cash flows in the range of 18.70 billion USD – 18.80 billion USD, with a tax rate of 24.0% – 25.0%.
-
-### Management commentary
-
-Management emphasized that in fixed broadband via cellular networks, they see continued strong growth and increasing revenue per customer. According to management, gains from AI-driven radio network planning exceeded expectations. Management noted that satellite connectivity is treated as a complementary product, therefore they do not foresee reselling another operator's satellite services on their network. According to management, the company aims to maintain a balance between the number of customers and their value, focusing on acquiring accounts and translating this into a financial advantage. Management also pointed to a belief in bundling services rather than strictly combining fixed and mobile telephony.
 
 

@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0063: Apple: wyniki za 4Q2026](https://heniu.blog/f-log/flog-2026-11-03-0063/index.md) (2026-11-03)
 - [H1: 2026-11-03](https://heniu.blog/h-log/hlog-2026-11-03/index.md) (2026-11-03)
 - [M15: 2026-11-03](https://heniu.blog/t-log/tlog-2026-11-03/index.md) (2026-11-03)
 - [Log #0219: Podsumowanie sesji 2026-11-03: NDX 28180.26 (+0.68%)](https://heniu.blog/posts/log-0219/index.md) (2026-11-03)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0031: GE HealthCare Technologies: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0031/index.md) (2026-10-28)
 - [Fundamenty #0030: Automatic Data Processing: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-28-0030/index.md) (2026-10-28)
 - [Log #0214: Podsumowanie sesji 2026-10-28: NDX 29821.65 (+0.55%)](https://heniu.blog/posts/log-0214/index.md) (2026-10-28)
-- [Fundamenty #0029: Old Dominion Freight Line: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0029/index.md) (2026-10-28)
 
