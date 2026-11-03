@@ -1,6 +1,6 @@
 # M15: 2026-11-03
 
-Date: 2026-11-03 17:29
+Date: 2026-11-03 17:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-03/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.03 [EN]</h1>
+<h3>⏱️ [2026-11-03 17:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28168.45</strong> (+0.64%; since the previous entry -40.99 pts) · NQ <strong>28301.50</strong> (+0.62%; -42.00 pts) · QQQ <strong>685.25 USD</strong> (+0.61%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>124.48 M</strong> [euphoria] · CVD NQ <strong>3.21 K</strong> [demand test] (since the previous entry -4.24 K) · CVD QQQ <strong>-234.87 K</strong> [supply test] · TICKQ <strong>-510</strong> [market breakdown] · SMA200 average <strong>5.29</strong> [demand test] (-5.85) · direction gauge <strong>42</strong> (±100 scale; -3)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.03 trillion USD</strong> (since the previous entry -0.05 trillion USD) · share of companies above 1 trillion USD <strong>66.0%</strong> (+0.0 pp) · average share price <strong>295.49 USD</strong> (-0.63 USD) · QQQ options: implied volatility <strong>27.26%</strong>, put/call <strong>0.91</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28940–28960</strong> (2.74% higher)</li>
+</ul>
+<p>NQ price first broke below the support level, then reclaimed the same point, breaking through it to the upside. The NQ CVD value fell since the previous entry, indicating a demand test. The nearest resistance is located above current quotes.</p>
 <h3>⏱️ [2026-11-03 17:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>28209.44</strong> (+0.78%; since the previous entry -68.11 pts) · NQ <strong>28343.50</strong> (+0.77%; -65.75 pts) · QQQ <strong>686.25 USD</strong> (+0.76%)</li>
