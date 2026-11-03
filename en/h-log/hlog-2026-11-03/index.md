@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Date: 2026-11-03 15:07
+Date: 2026-11-03 16:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-03/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.03 [EN]</h1>
+<h3>📈 [2026-11-03 16:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Flow and sentiment analysis:</strong> The market shows a strong divergence between the NDX index and derivatives. While the NDX is rising by 0.67% with high capital inflow (CVD NDX = 97,24 M), the NQ futures contracts (+0.65%) and the QQQ ETF (+0.63%) show negative cumulative flow (CVD: -5,52 K and -394,52 K respectively), suggesting a supply test and a potential false upside breakout. The aggregate flow direction gauge is 45, indicating a moderate advantage in capital inflow.</li>
+<li><strong>Broad market:</strong> The TICKQ indicator is 53.00, which, given the SMA200 average at 8.28, indicates very strong buying pressure in the broad equity market.</li>
+<li><strong>Options market:</strong> Implied volatility (IV) is 27.18%, and the Put/Call Ratio stands at 0.79 with a volume of 313,701 contracts. This data indicates moderate sentiment and hedging for the expected move between 666.68 and 695.50 points.</li>
+<li><strong>Technical context:</strong> The ongoing drawdown from the peak on 28.10 (28176.16 vs 29847.38) is -5.60% (-1671 pts). This is a correction larger than the median of historical moves, but smaller than the largest recorded (-11.96%). The nearest significant resistance (volume node) is located in the 28940–28960 zone.</li>
+</ul>
+<p>H-Log Report: 2026-11-03 16:07</p>
 <h3>📈 [2026-11-03 15:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
