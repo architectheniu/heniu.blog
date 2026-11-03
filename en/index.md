@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [H1: 2026-11-04](https://heniu.blog/en/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamentals #0063: Apple: 4Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-03-0063/index.md) (2026-11-03)
 - [H1: 2026-11-03](https://heniu.blog/en/h-log/hlog-2026-11-03/index.md) (2026-11-03)
 - [M15: 2026-11-03](https://heniu.blog/en/t-log/tlog-2026-11-03/index.md) (2026-11-03)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0032: Teradyne: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0032/index.md) (2026-10-28)
 - [Fundamentals #0031: GE HealthCare Technologies: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-28-0031/index.md) (2026-10-28)
 - [Fundamentals #0030: Automatic Data Processing: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-28-0030/index.md) (2026-10-28)
-- [Log #0214: Session summary 2026-10-28: NDX 29821.65 (+0.55%)](https://heniu.blog/en/posts/log-0214/index.md) (2026-10-28)
 
