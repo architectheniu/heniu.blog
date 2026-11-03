@@ -1,6 +1,6 @@
 # M15: 2026-11-03
 
-Data: 2026-11-03 18:44
+Data: 2026-11-03 18:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.03 [PT-BR]</h1>
+<h3>⏱️ [2026-11-03 18:59] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>28233.65</strong> (+0.87%; desde a entrada anterior +23.45 pts) · NQ <strong>28366.75</strong> (+0.85%; +26.00 pts) · QQQ <strong>686.82 USD</strong> (+0.84%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>122.06 M</strong> [euforia] · CVD NQ <strong>449</strong> [teste de demanda] (desde a entrada anterior -1.06 K) · CVD QQQ <strong>-456.33 K</strong> [teste de oferta] · TICKQ <strong>61</strong> [acumulação] · média SMA200 <strong>6.33</strong> [teste de demanda] (-0.45) · indicador de direção <strong>60</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>40.14 trilhões de USD</strong> (desde a entrada anterior +0.04 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>66.1%</strong> (+0.0 p.p.) · preço médio das ações <strong>296.08 USD</strong> (+0.37 USD) · opções sobre QQQ: volatilidade implícita <strong>27.44%</strong>, put/call <strong>1.02</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28940–28960</strong> (2.50% acima)</li>
+</ul>
+<p>O preço do NQ subiu após romper a zona de volume de resistência para cima. Simultaneamente, o fluxo CVD para o NQ registrou uma queda em comparação com a entrada anterior, o que indica um teste de demanda.</p>
 <h3>⏱️ [2026-11-03 18:44] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>28210.20</strong> (+0.79%; desde a entrada anterior -43.08 pts) · NQ <strong>28340.75</strong> (+0.76%; -46.00 pts) · QQQ <strong>686.22 USD</strong> (+0.75%)</li>
