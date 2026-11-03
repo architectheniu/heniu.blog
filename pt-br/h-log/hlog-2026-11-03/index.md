@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 17:08
+Data: 2026-11-03 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.03 [PT-BR]</h1>
+<h3>📈 [2026-11-03 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação do mercado:</strong> O Índice NDX está subindo 0,86% (28231,92 pts), após um Recuo desde o pico de 28.10 (29847,38) de 5,41% (-1615 pts). O recuo atual é mais profundo do que 50% dos recuos históricos registrados na memória do sistema. A resistência importante mais próxima encontra-se na zona de volume 28940–28960.</li>
+<li><strong>Fluxo de capital (CVD):</strong> Foi observada uma forte divergência entre os instrumentos. O NDX apresenta forte pressão de compra com acumulação de CVD no nível de 129,13 mi de ações. Simultaneamente, o ETF QQQ apresenta um teste de oferta com fluxo CVD negativo de -170,53 K, enquanto os contratos NQ apresentam apenas um teste de demanda (5,17 K). O indicador de direção do fluxo é 42, o que indica uma entrada de capital positiva, porém moderada.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> A Radiação de Fundo (TICKQ) é de 49,00, o que, com uma média SMA200 de 6,30, indica uma atividade de compra muito forte no mercado amplo da Nasdaq.</li>
+<li><strong>Mercado de opções:</strong> O volume de opções é de 2 969 888, com uma Put/Call Ratio de 0,97, o que sugere um equilíbrio próximo entre a demanda por proteção e as posições longas. A volatilidade implícita (IV) é de 27,56%, e o alcance de movimento esperado pelo mercado situa-se no intervalo de 676,12 a 699,38 pontos.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-03 18:07</p>
 <h3>📈 [2026-11-03 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
