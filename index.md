@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [M15: 2026-11-04](https://heniu.blog/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [H1: 2026-11-04](https://heniu.blog/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamenty #0063: Apple: wyniki za 4Q2026](https://heniu.blog/f-log/flog-2026-11-03-0063/index.md) (2026-11-03)
 - [H1: 2026-11-03](https://heniu.blog/h-log/hlog-2026-11-03/index.md) (2026-11-03)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [H1: 2026-10-28](https://heniu.blog/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 - [Fundamenty #0032: Teradyne: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0032/index.md) (2026-10-28)
 - [Fundamenty #0031: GE HealthCare Technologies: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-28-0031/index.md) (2026-10-28)
-- [Fundamenty #0030: Automatic Data Processing: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-28-0030/index.md) (2026-10-28)
 
