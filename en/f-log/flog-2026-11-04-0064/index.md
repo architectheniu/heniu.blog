@@ -1,0 +1,23 @@
+# Fundamentals #0064: Advanced Micro Devices: 3Q2026 results
+
+Date: 2026-11-04 00:55
+URL: https://heniu.blog/en/f-log/flog-2026-11-04-0064/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Advanced Micro Devices (AMD) revenue increased in the third quarter of 2026 by 44.7% year over year to 13.38 billion USD, and earnings per share (GAAP) increased by 94.7% year over year to 1.46 USD.
+
+### Quarterly results
+
+Gross margin was 54.0% (2.0 pp year over year), while earnings per share (GAAP, diluted) stood at 1.48 USD (94.7% year over year).
+
+### Company guidance
+
+In the fourth quarter of 2026, the company expects revenue in the range of 16.49 billion USD – 17.51 billion USD or approximately 17.00 billion USD, and adjusted gross margin (non-GAAP) is expected to be approximately 55.0%.
+
+### Management commentary
+
+Management emphasized that demand exceeds supply, therefore the company is working with suppliers to increase supply. According to management, customer deployments are planned, and the company knows which data centers its accelerators will go to. Management indicated that in the face of rising component costs, these costs are to be shared with customers. According to management, operating costs are expected to grow slower than revenue, which is intended to increase the operating margin. Management anticipates a weaker upcoming year in the personal computer market and is monitoring inventory levels in the distribution channel. According to management, the growth in server processor sales is primarily due to the number of chips and cores sold, rather than higher prices.
+

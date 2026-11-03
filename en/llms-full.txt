@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0064: Advanced Micro Devices: 3Q2026 results
+
+Date: 2026-11-04 00:55
+URL: https://heniu.blog/en/f-log/flog-2026-11-04-0064/
+
+
+Advanced Micro Devices (AMD) revenue increased in the third quarter of 2026 by 44.7% year over year to 13.38 billion USD, and earnings per share (GAAP) increased by 94.7% year over year to 1.46 USD.
+
+### Quarterly results
+
+Gross margin was 54.0% (2.0 pp year over year), while earnings per share (GAAP, diluted) stood at 1.48 USD (94.7% year over year).
+
+### Company guidance
+
+In the fourth quarter of 2026, the company expects revenue in the range of 16.49 billion USD – 17.51 billion USD or approximately 17.00 billion USD, and adjusted gross margin (non-GAAP) is expected to be approximately 55.0%.
+
+### Management commentary
+
+Management emphasized that demand exceeds supply, therefore the company is working with suppliers to increase supply. According to management, customer deployments are planned, and the company knows which data centers its accelerators will go to. Management indicated that in the face of rising component costs, these costs are to be shared with customers. According to management, operating costs are expected to grow slower than revenue, which is intended to increase the operating margin. Management anticipates a weaker upcoming year in the personal computer market and is monitoring inventory levels in the distribution channel. According to management, the growth in server processor sales is primarily due to the number of chips and cores sold, rather than higher prices.
+
+
+---
+
 ## Fundamentals #0063: Apple: 4Q2026 results
 
 Date: 2026-11-03 23:42
@@ -946,28 +969,5 @@ Insiders on 28.10 sold shares for 6.4 million USD, including 3.9 million USD fro
 8-K: 5.02 changes in management/board (Document: 8-K 5.02; Filing date (US time): 28.10; 8-K 5.02 content (change in management or board): position: board member; type of change: departure (resignation); date: 1.11.2026; persons: G. Michael Sievert; successor: not indicated; quote (EN): „On October 26, 2026, G. Michael Sievert notified the Board of Directors (the “Board”) of T-Mobile US, Inc. (the “Company”) of his decision to resign from the Board and its Transaction Committee, effective November 1, 2026.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1283699/000119312526435233/0001193125-26-435233-index.htm).
 
 8-K: 8.01 other events (Document: 8-K 8.01,9.01; Filing date (US time): 28.10; 8-K 8.01 content (other event): quote (EN): „Other Events Microsoft Corporation (the “Company”) is filing this Current Report on Form 8-K to recast certain previously reported amounts to conform with segment reporting changes made to align our segments with how we manage our business, with respect to the financial information contained in our Annual Report on…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/789019/000119312526436149/0001193125-26-436149-index.htm).
-
-
----
-
-## Fundamentals #0039: Cadence Design Systems: 3Q2026 results
-
-Date: 2026-10-29 08:17
-URL: https://heniu.blog/en/f-log/flog-2026-10-29-0039/
-
-
-Cadence Design Systems (CDNS) revenue in the third quarter was 1.63 billion USD (+22.0% y/y), while earnings per share (adjusted) increased by 9.3% y/y to 2.11 USD.
-
-### Quarterly results
-
-Earnings per share (GAAP) was 1.05 USD (0.0% y/y), and earnings per share (GAAP, diluted) was 1.06 USD (0.0% y/y).
-
-### Company guidance
-
-The company expects fourth quarter revenue in the range of 1.70 billion USD – 1.73 billion USD, and forecasts full-year revenue at 6.39 billion USD – 6.42 billion USD.
-
-### Management commentary
-
-Management emphasized that recurring revenue is performing very well, and AI agents are increasing the use of the company's core tools. According to management, AI agents are driving demand for chip design tools because they can call the company's compute engines multiple times. Management indicated that the company's strategy focuses on selling high-value engineering software, rather than building large-scale general-purpose AI infrastructure. According to management, design verification hardware recorded another record quarter due to demand from customers in the AI industry, and the company expects another record year in the hardware segment in subsequent quarters, although sales may fluctuate between quarters.
 
 
