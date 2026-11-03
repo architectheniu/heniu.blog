@@ -1,6 +1,6 @@
 # M15: 2026-11-03
 
-Data: 2026-11-03 15:29
+Data: 2026-11-03 15:44
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.03 [PT-BR]</h1>
+<h3>⏱️ [2026-11-03 15:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>28222.26</strong> (+0.84%) · NQ <strong>28353.25</strong> (+0.80%; desde a entrada anterior +70.50 pts) · QQQ <strong>686.52 USD</strong> (+0.80%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>94.62 M</strong> [euforia] · CVD NQ <strong>-396</strong> [teste de oferta] (desde a entrada anterior -335.00) · CVD QQQ <strong>-301.73 K</strong> [teste de oferta] · TICKQ <strong>-136</strong> [sell-off] · média SMA200 <strong>7.52</strong> [teste de demanda] · indicador de direção <strong>37</strong> (escala ±100; +47)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>40.03 trilhões de USD</strong> · participação das empresas acima de 1 trilhão de USD <strong>65.9%</strong> · preço médio das ações <strong>296.10 USD</strong> · opções sobre QQQ: volatilidade implícita <strong>27.11%</strong>, put/call <strong>0.77</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28940–28960</strong> (2.54% acima)</li>
+</ul>
+<p>O preço do contrato NQ subiu, o que ocorreu após o rompimento da barreira do nível HVN do ecossistema US100. Simultaneamente, foi registrado um declínio no valor do CVD para NQ, o que indica um teste de oferta.</p>
+<p><strong>Alarmes de fluxo desde a entrada anterior:</strong> 15:30 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>⏱️ [2026-11-03 15:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>28282.75</strong> (+0.55%; desde a entrada anterior -31.00 pts, -0.11%) · parcela da amplitude média diária (ADR) utilizada <strong>58.05%</strong></li>

@@ -1,6 +1,6 @@
 # M15: 2026-11-03
 
-Date: 2026-11-03 15:29
+Date: 2026-11-03 15:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-03/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.03 [EN]</h1>
+<h3>⏱️ [2026-11-03 15:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28222.26</strong> (+0.84%) · NQ <strong>28353.25</strong> (+0.80%; since the previous entry +70.50 pts) · QQQ <strong>686.52 USD</strong> (+0.80%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>94.62 M</strong> [euphoria] · CVD NQ <strong>-396</strong> [supply test] (since the previous entry -335.00) · CVD QQQ <strong>-301.73 K</strong> [supply test] · TICKQ <strong>-136</strong> [sell-off] · SMA200 average <strong>7.52</strong> [demand test] · direction gauge <strong>37</strong> (±100 scale; +47)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.03 trillion USD</strong> · share of companies above 1 trillion USD <strong>65.9%</strong> · average share price <strong>296.10 USD</strong> · QQQ options: implied volatility <strong>27.11%</strong>, put/call <strong>0.77</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28940–28960</strong> (2.54% higher)</li>
+</ul>
+<p>The NQ contract price rose, following a breach of the US100 ecosystem HVN level. At the same time, a decrease in NQ CVD value was recorded, indicating a supply test.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 15:30 sudden NQ flow down; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-03 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>28282.75</strong> (+0.55%; since the previous entry -31.00 pts, -0.11%) · share of the average daily range (ADR) used <strong>58.05%</strong></li>
