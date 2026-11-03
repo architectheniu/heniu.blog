@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 08:08
+Data: 2026-11-03 09:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.03 [PT-BR]</h1>
+<h3>📈 [2026-11-03 09:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>a sessão à vista (Spot) está atualmente fechada.</strong> A análise baseia-se na atividade dos contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contratos NQ:</strong> O preço é 28149.25 (+0.08%), com o fluxo acumulado CVD em -3,12 mil ações, o que indica um teste de oferta na sessão pré-mercado.</li>
+<li>Esta é uma correção de natureza maior do que a mediana dos movimentos históricos, com a amplitude diária média (ATR) em 524 pts. A resistência significativa mais próxima (zona de volume) encontra-se na zona 28940–28960.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 27.88%, e o Put/Call Ratio em 1.01 sugere um sentimento neutro a levemente bearish, com uma leve predominância de posições de proteção. O alcance esperado de movimento para o instrumento situa-se no intervalo de 666.68 a 695.50.</li>
+<li><strong>Fluxos de capital:</strong> O indicador de direção agregado dos fluxos é 5, o que significa um sentimento quase neutro com uma predominância muito fraca de entrada de capital.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-03 09:07</p>
 <h3>📈 [2026-11-03 08:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
