@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 06:08
+Data: 2026-11-03 07:07
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.03 [PT-BR]</h1>
+<h3>📈 [2026-11-03 07:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> O preço dos contratos é 28095.50 (-0.11%), e o fluxo acumulado (CVD) no nível de -2,23 K indica um teste de oferta. O indicador de direção agregado dos fluxos de mercado é -40, o que confirma a predominância da distribuição de capital.</li>
+<li><strong>Contexto de correção:</strong> o Índice Nasdaq-100 (NDX) encontra-se em uma fase de correção desde o pico do dia 28.10 (29847.38), que atualmente é de -6.21% (-1852 pts). Esta é uma correção com caráter maior do que a mediana dos movimentos históricos, com a amplitude média diária de movimento (ATR) em 524 pts. A zona de resistência mais próxima (nó de volume) está no intervalo de 28940–28960.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 27.88%. O Put/Call Volume Ratio no nível de 1.01 com um volume de 9,215,781 indica demanda e oferta equilibradas em opções, com uma leve predominância de coberturas de queda. O alcance esperado do movimento situa-se no intervalo de 666.68 a 695.50.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-03 07:07</p>
 <h3>📈 [2026-11-03 06:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
