@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Date: 2026-11-03 12:07
+Date: 2026-11-03 13:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-03/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.03 [EN]</h1>
+<h3>📈 [2026-11-03 13:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot):</strong> The equity market is currently closed; the TICKQ indicator is inactive. At the close of the cash session, the NDX index recorded a decline of -1.39% to the level of 27989.82, with the cumulative flow (CVD) for NDX amounting to 112.39 M, indicating strong buying pressure (euphoria) despite the price decline. The QQQ ETF closed at 681.13 (-1.36%) with a positive CVD flow of 1.1 M, suggesting an accumulation process in the sector.</li>
+<li><strong>NQ futures contracts:</strong> NQ contract trading is currently underway at a price of 28163.75 (+0.13%). The cumulative flow (CVD) for the contracts is negative and amounts to -3.32 K, indicating a supply test in the current move.</li>
+<li><strong>QQQ Options Analysis:</strong> Implied volatility (IV) is 27.88%, and the Put/Call Ratio at the level of 1.01 suggests a neutral or slightly bearish sentiment. The expected range of movement based on options volume (9,215,781) falls within the 666.68 to 695.50 range.</li>
+<li><strong>Technical context:</strong> The ongoing drawdown from Heniu's peak on 28.10 (29847.38) is -6.22% (-1858 pts). This is a correction larger than the median of historical moves (deeper than 50% of recorded corrections). The nearest resistance zone (volume node) is located in the 28940–28960 range.</li>
+<li><strong>Sentiment:</strong> The aggregate direction gauge of flows is 5, indicating a weak advantage of capital inflow on a market-wide scale.</li>
+</ul>
+<p>H-Log Report: 2026-11-03 13:07</p>
 <h3>📈 [2026-11-03 12:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
