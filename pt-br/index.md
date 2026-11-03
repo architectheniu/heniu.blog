@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0062: Vertex Pharmaceuticals: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-03-0062/index.md) (2026-11-03)
 - [M15: 2026-11-03](https://heniu.blog/pt-br/t-log/tlog-2026-11-03/index.md) (2026-11-03)
 - [H1: 2026-11-03](https://heniu.blog/pt-br/h-log/hlog-2026-11-03/index.md) (2026-11-03)
 - [Fundamentos #0061: Relatórios de empresas: Lumentum, Marvell Technology, Intuitive Surgical e outras; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-03-0061/index.md) (2026-11-03)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Log #0214: Resumo da sessão 2026-10-28: NDX 29821.65 (+0.55%)](https://heniu.blog/pt-br/posts/log-0214/index.md) (2026-10-28)
 - [Fundamentos #0029: Old Dominion Freight Line: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0029/index.md) (2026-10-28)
 - [Fundamentos #0028: PayPal: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0028/index.md) (2026-10-28)
-- [Fundamentos #0027: Baker Hughes: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0027/index.md) (2026-10-28)
 
