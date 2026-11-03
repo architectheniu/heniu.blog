@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 17:07
+Data: 2026-11-03 18:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.03</h1>
+<h3>📈 [2026-11-03 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Indeks NDX rośnie o 0,86% (28231,92 pkt), co następuje po korekcie od szczytu z 28.10 (29847,38) wynoszącej 5,41% (-1615 pkt). Obecna korekta jest głębsza niż 50% historycznych korekt zarejestrowanych w pamięci systemu. Najbliższy istotny opór znajduje się w strefie węzła wolumenu 28940–28960.</li>
+<li><strong>Przepływy kapitału (CVD):</strong> Odnotowano silną rozbieżność między instrumentami. NDX wykazuje silną presję kupujących z kumulacją CVD na poziomie 129,13 M akcji. Jednocześnie ETF QQQ wykazuje test podaży z ujemnym przepływem CVD wynoszącym -170,53 K, a kontrakty NQ wykazują jedynie test popytu (5,17 K). Wskaźnik kierunku przepływów wynosi 42, co wskazuje na dodatni, ale umiarkowany napływ kapitału.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi 49,00, co przy średniej SMA200 wynoszącej 6,30 wskazuje na bardzo silną aktywność kupujących w szerokim rynku Nasdaq.</li>
+<li><strong>Rynek opcji:</strong> Wolumen opcji wynosi 2 969 888, przy współczynniku Put/Call Ratio na poziomie 0,97, co sugeruje zbliżoną równowagę między popytem na zabezpieczenia a pozycjami długimi. Zmienność implikowana (IV) wynosi 27,56%, a oczekiwany przez rynek zasięg ruchu mieści się w przedziale 676,12 do 699,38 punktów.</li>
+</ul>
+<p>Raport H-Log: 2026-11-03 18:07</p>
 <h3>📈 [2026-11-03 17:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
