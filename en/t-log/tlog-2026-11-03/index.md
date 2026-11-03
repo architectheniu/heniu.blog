@@ -1,6 +1,6 @@
 # M15: 2026-11-03
 
-Date: 2026-11-03 20:59
+Date: 2026-11-03 21:14
 URL: https://heniu.blog/en/t-log/tlog-2026-11-03/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.03 [EN]</h1>
+<h3>⏱️ [2026-11-03 21:14] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28141.29</strong> (+0.55%; since the previous entry +20.56 pts) · NQ <strong>28273.50</strong> (+0.52%; +22.50 pts) · QQQ <strong>684.56 USD</strong> (+0.51%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>103.32 M</strong> [euphoria] · CVD NQ <strong>-8.57 K</strong> [supply test] (since the previous entry -0.35 K) · CVD QQQ <strong>-2.2 M</strong> [market breakdown] · TICKQ <strong>-127</strong> [sell-off] · SMA200 average <strong>9.06</strong> [demand test] (-1.25) · direction gauge <strong>52</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.04 trillion USD</strong> (since the previous entry +0.04 trillion USD) · share of companies above 1 trillion USD <strong>66.1%</strong> (+0.0 pp) · average share price <strong>295.05 USD</strong> (+0.37 USD) · QQQ options: implied volatility <strong>27.70%</strong>, put/call <strong>1.11</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28940–28960</strong> (2.84% higher)</li>
+</ul>
+<p>Indices recorded gains, even though market breadth indicates an intense sell-off. A divergence exists between the direction of changes in the main indices and the action of the TICKQ indicator. The nearest resistance is located above current quotes.</p>
 <h3>⏱️ [2026-11-03 20:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>28120.73</strong> (+0.47%; since the previous entry -61.29 pts) · NQ <strong>28251.00</strong> (+0.44%; -65.00 pts) · QQQ <strong>684.03 USD</strong> (+0.43%)</li>
