@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-11-03](https://heniu.blog/h-log/hlog-2026-11-03/index.md) (2026-11-03)
 - [M15: 2026-11-03](https://heniu.blog/t-log/tlog-2026-11-03/index.md) (2026-11-03)
 - [Fundamenty #0061: Zgłoszenia spółek: Lumentum, Marvell Technology, Intuitive Surgical i inne; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-03-0061/index.md) (2026-11-03)
-- [H1: 2026-11-03](https://heniu.blog/h-log/hlog-2026-11-03/index.md) (2026-11-03)
 - [H1: 2026-11-02](https://heniu.blog/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [M15: 2026-11-02](https://heniu.blog/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 - [Log #0218: Podsumowanie sesji 2026-11-02: NDX 27994.99 (-1.39%)](https://heniu.blog/posts/log-0218/index.md) (2026-11-02)
