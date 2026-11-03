@@ -1,6 +1,6 @@
 # M15: 2026-11-03
 
-Data: 2026-11-03 21:59
+Data: 2026-11-03 22:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.03 [PT-BR]</h1>
+<h3>⏱️ [2026-11-03 22:29] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>28409.00</strong> (+1.00%; desde a entrada anterior +83.75 pts, +0.30%) · parcela da amplitude média diária (ADR) utilizada <strong>60.60%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>-5.83 K</strong> [teste de oferta] (desde a entrada anterior +0.29 K) · indicador de direção <strong>-45</strong> (escala ±100; -97)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista às 15:30 (horário da Polônia).</li>
+</ul>
+<p>O preço do contrato NQ subiu, apesar de várias tentativas de romper o nível HVN do ecossistema US100 em ambas as direções. Simultaneamente, registrou-se uma deterioração no fluxo CVD, o que indica um teste de oferta.</p>
 <h3>⏱️ [2026-11-03 21:59] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>28192.30</strong> (+0.73%; desde a entrada anterior +5.45 pts) · NQ <strong>28325.25</strong> (+0.70%; +9.50 pts) · QQQ <strong>685.82 USD</strong> (+0.69%)</li>

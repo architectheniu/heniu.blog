@@ -1,6 +1,6 @@
 # M15: 2026-11-03
 
-Data: 2026-11-03 21:59
+Data: 2026-11-03 22:29
 Adres: https://heniu.blog/t-log/tlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.03</h1>
+<h3>⏱️ [2026-11-03 22:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
+<ul>
+<li><strong>Kontrakt NQ:</strong> <strong>28409.00</strong> (+1.00%; od poprzedniego wpisu +83.75 pkt, +0.30%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>60.60%</strong></li>
+<li><strong>Przepływ NQ:</strong> CVD <strong>-5.83 K</strong> [test podaży] (od poprzedniego wpisu +0.29 K) · wskaźnik kierunku <strong>-45</strong> (skala ±100; -97)</li>
+<li>NDX, QQQ, szerokość rynku i koszyk spółek wracają z otwarciem sesji kasowej o 15:30 czasu polskiego.</li>
+</ul>
+<p>Cena kontraktu NQ wzrosła, mimo kilkukrotnych prób przebicia poziomu HVN ekosystemu US100 w obu kierunkach. Jednocześnie w przepływie CVD odnotowano pogorszenie, co wskazuje na testowanie podaży.</p>
 <h3>⏱️ [2026-11-03 21:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28192.30</strong> (+0.73%; od poprzedniego wpisu +5.45 pkt) · NQ <strong>28325.25</strong> (+0.70%; +9.50 pkt) · QQQ <strong>685.82 USD</strong> (+0.69%)</li>
