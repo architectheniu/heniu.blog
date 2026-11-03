@@ -7,6 +7,39 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0061: Zgłoszenia spółek: Lumentum, Marvell Technology, Intuitive Surgical i inne; transakcje insiderów
+
+Data: 2026-11-03 10:10
+Adres: https://heniu.blog/f-log/flog-2026-11-03-0061/
+
+
+Lumentum (LITE) zawarła istotną umowę, odwołała prezesa zarządu (CEO) oraz złożyła raport dotyczący ujawnienia informacji.
+
+Marvell Technology (MRVL) zawarła istotną umowę.
+
+Intuitive Surgical (ISRG) powołała Aarona Martina na członka rady dyrektorów oraz złożyła raport dotyczący ujawnienia informacji.
+
+Alphabet (GOOGL) złożyła prospekt emisyjny.
+
+Microsoft (MSFT) złożyła prospekt emisyjny.
+
+Alphabet (GOOGL) złożyła materiały ofertowe.
+
+Insiderzy 2.11 sprzedali akcje za 13,8 mln USD, w tym 13,8 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Gilead Sciences (GILD): 5,3 mln USD.
+
+8-K: 1.01 istotna umowa, 5.02 zmiany w zarządzie/radzie, 7.01 Reg FD (Dokument: 8-K 1.01,5.02,7.01,9.01; Data złożenia (czas USA): 2.11; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On November 1, 2026, Lumentum Holdings Inc., a Delaware corporation (“ Lumentum ” or the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Marvell Technology, Inc., a Delaware corporation (“ Marvell ”), Java Merger Sub, Inc., a Delaware corporation and a wholly owned…”; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: prezes zarządu (CEO); rodzaj zmiany: odwołanie; data: 1.11.2026; następca: nie wskazano; cytat (EN): „On November 1, 2026, the Company entered into a reimbursement and indemnification agreement (a “Tax reimbursement agreement”) with the Company’s Chief Executive Officer, Michael Hurlston, pursuant to which, in connection with the Merger, (i) the Company and Mr. Hurlston will cooperate in good faith with respect to…”; Treść 8-K 7.01 (komunikat (Reg FD)): cytat (EN): „In connection with the Transaction, Marvell intends to file with the SEC a registration statement on Form S-4 (the “Form S-4”) that will include a joint proxy statement for Marvell’s and Lumentum’s respective stockholders and that will also constitute a prospectus with respect to the shares of Marvell’s common stock…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1633978/000119312526442758/0001193125-26-442758-index.htm).
+
+8-K: 1.01 istotna umowa (Dokument: 8-K 1.01,9.01; Data złożenia (czas USA): 2.11; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On November 1, 2026, Marvell Technology, Inc., a Delaware corporation (“ Marvell ”) entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Lumentum Holdings Inc., a Delaware corporation (“ Lumentum ”), Java Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Marvell (“…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1835632/000119312526442717/0001193125-26-442717-index.htm).
+
+8-K: 5.02 zmiany w zarządzie/radzie, 7.01 Reg FD (Dokument: 8-K 5.02,7.01,9.01; Data złożenia (czas USA): 2.11; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: członek rady dyrektorów; rodzaj zmiany: powołanie; data: 1.01.2027; osoby: Aaron Martin; następca: nie dotyczy (powołanie); cytat (EN): „On October 29, 2026, the Board of Directors (the “Board”) of Intuitive Surgical, Inc. (the “Company”) approved an increase in the size of the Board from ten to eleven members and appointed Aaron Martin to fill the resulting vacancy, effective as of January 1, 2027.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1035267/000103526726000074/0001035267-26-000074-index.htm).
+
+formularz 424B5 (Dokument: 424B5; Data złożenia (czas USA): 2.11).
+
+prospekt emisji 424B2 (Dokument: 424B2; Data złożenia (czas USA): 2.11).
+
+
+---
+
 ## Log #0218: Podsumowanie sesji 2026-11-02: NDX 27994.99 (-1.39%)
 
 Data: 2026-11-02 22:04
@@ -883,24 +916,5 @@ Na cały rok 2026 spółka spodziewa się organicznego wzrostu na poziomie 4,0% 
 ### Co mówi zarząd
 
 Zarząd podkreślał, że luka między potrzebami spółki a dostawami od dostawców ulega zmniejszeniu. Według zarządu, przy rosnących dostawach priorytetem jest obsługa producentów samolotów w celu utrzymania ciągłości ich linii produkcyjnych, przed realizacją zamówień dla rynku wtórnego. Zarząd wskazywał, że spółka kieruje większą liczbę dostaw na potrzeby bezpieczeństwa narodowego USA niż do klientów zagranicznych, przy czym portfel zamówień nie wykazuje spadków. Według zarządu niedobory części elektronicznych nie wpłynęły istotnie na działalność, a w lotnictwie pasażerskim nie odnotowano zmian w zachowaniu klientów wynikających z cen ropy. Zarząd stwierdził również, że negocjacje odnawianych umów z producentami przebiegają zgodnie z oczekiwaniami i pozwolą na lepsze dopasowanie cen do kosztów.
-
-
----
-
-## Fundamenty #0035: Fortinet: wyniki za 3Q2026
-
-Data: 2026-10-29 01:49
-Adres: https://heniu.blog/f-log/flog-2026-10-29-0035/
-
-
-Przychody Fortinet (FTNT) w III kwartale roku obrotowego 2026 wyniosły 2,08 mld USD (+20,5% r/r), a zysk na akcję (księgowy) wzrósł do 0,86 USD (+38,7% r/r).
-
-### Wyniki kwartału
-
-Zysk operacyjny osiągnął poziom 704,30 mln USD (+28,7% r/r), przy zysku netto wynoszącym 635,50 mln USD (+34,1% r/r). W podziale na segmenty przychody z segmentu Product wyniosły 765,00 mln USD (+36,8% r/r), natomiast segment Service wygenerował 1,31 mld USD (+12,7% r/r). Zysk na akcję (księgowy, podstawowy) wyniósł 0,87 USD (+38,1% r/r), podczas gdy zysk na akcję (skorygowany) spadł do 0,05 USD (−58,3% r/r).
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że bezpieczeństwo sieci stanowi kluczowy element ochrony AI, umożliwiając lepszy wgląd w ruch generowany przez te technologie. Według zarządu popyt pozostaje solidny, a rosnące zagrożenia motywują klientów do modernizacji zabezpieczeń. Zarząd wskazywał, że spółka nie dostrzega spowolnienia popytu, choć zauważa wydłużające się czasy dostaw. Według zarządu w drugiej połowie roku rosnące koszty wpływały na marżę na produktach, podczas gdy marża na usługach wyraźnie rosła. Zarząd zauważył, że klienci wdrażający infrastrukturę nie zawsze chcą od razu płacić za usługi, co stanowi jedynie przesunięcie w czasie ujęcia przychodu. Według zarządu coraz więcej firm uruchamia własne otwarte modele AI, co zwiększa zapotrzebowanie na ich monitorowanie i zabezpieczanie.
 
 

@@ -7,6 +7,39 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0061: Company filings: Lumentum, Marvell Technology, Intuitive Surgical and others; insider transactions
+
+Date: 2026-11-03 10:10
+URL: https://heniu.blog/en/f-log/flog-2026-11-03-0061/
+
+
+Lumentum (LITE) entered into a material agreement, removed its Chief Executive Officer (CEO), and filed a disclosure report.
+
+Marvell Technology (MRVL) entered into a material agreement.
+
+Intuitive Surgical (ISRG) appointed Aaron Martin as a member of the Board of Directors and filed a disclosure report.
+
+Alphabet (GOOGL) filed a prospectus.
+
+Microsoft (MSFT) filed a prospectus.
+
+Alphabet (GOOGL) filed offering materials.
+
+Insiders sold 13.8 million USD in shares on 2.11, including 13.8 million USD from 10b5-1 plans; market purchases were 0. The largest sale was reported by Gilead Sciences (GILD) insiders: 5.3 million USD.
+
+8-K: 1.01 material agreement, 5.02 changes in management/board, 7.01 Reg FD (Document: 8-K 1.01,5.02,7.01,9.01; Filing Date (US time): 2.11; 8-K Content 1.01 (entry into a material agreement): agreement: Material Definitive Agreement; quote (EN): „On November 1, 2026, Lumentum Holdings Inc., a Delaware corporation (“ Lumentum ” or the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Marvell Technology, Inc., a Delaware corporation (“ Marvell ”), Java Merger Sub, Inc., a Delaware corporation and a wholly owned…”; 8-K Content 5.02 (change in management or board): position: Chief Executive Officer (CEO); type of change: removal; date: 1.11.2026; successor: not specified; quote (EN): „On November 1, 2026, the Company entered into a reimbursement and indemnification agreement (a “Tax reimbursement agreement”) with the Company’s Chief Executive Officer, Michael Hurlston, pursuant to which, in connection with the Merger, (i) the Company and Mr. Hurlston will cooperate in good faith with respect to…”; 8-K Content 7.01 (communication (Reg FD)): quote (EN): „In connection with the Transaction, Marvell intends to file with the SEC a registration statement on Form S-4 (the “Form S-4”) that will include a joint proxy statement for Marvell’s and Lumentum’s respective stockholders and that will also constitute a prospectus with respect to the shares of Marvell’s common stock…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1633978/000119312526442758/0001193125-26-442758-index.htm).
+
+8-K: 1.01 material agreement (Document: 8-K 1.01,9.01; Filing Date (US time): 2.11; 8-K Content 1.01 (entry into a material agreement): agreement: Material Definitive Agreement; quote (EN): „On November 1, 2026, Marvell Technology, Inc., a Delaware corporation (“ Marvell ”) entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Lumentum Holdings Inc., a Delaware corporation (“ Lumentum ”), Java Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Marvell (“…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1835632/000119312526442717/0001193125-26-442717-index.htm).
+
+8-K: 5.02 changes in management/board, 7.01 Reg FD (Document: 8-K 5.02,7.01,9.01; Filing Date (US time): 2.11; 8-K Content 5.02 (change in management or board): position: member of the Board of Directors; type of change: appointment; date: 1.01.2027; persons: Aaron Martin; successor: not applicable (appointment); quote (EN): „On October 29, 2026, the Board of Directors (the “Board”) of Intuitive Surgical, Inc. (the “Company”) approved an increase in the size of the Board from ten to eleven members and appointed Aaron Martin to fill the resulting vacancy, effective as of January 1, 2027.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1035267/000103526726000074/0001035267-26-000074-index.htm).
+
+form 424B5 (Document: 424B5; Filing Date (US time): 2.11).
+
+prospectus 424B2 (Document: 424B2; Filing Date (US time): 2.11).
+
+
+---
+
 ## Log #0218: SESSION REPORT 2026-11-02: NDX 27994.99 (-1.39%)
 
 Date: 2026-11-02 22:04
@@ -883,24 +916,5 @@ For the full year 2026, the company expects organic growth at a level of 4.0% �
 ### What management says
 
 Management emphasized that the gap between the company's needs and deliveries from suppliers is narrowing. According to management, with increasing deliveries, the priority is serving aircraft manufacturers to maintain the continuity of their production lines, before fulfilling orders for the aftermarket. Management indicated that the company is directing a larger number of deliveries toward US national security needs than to foreign customers, while the order backlog shows no declines. According to management, electronic component shortages have not significantly impacted operations, and no changes in customer behavior resulting from oil prices were observed in passenger aviation. Management also stated that negotiations for renewed contracts with manufacturers are proceeding as expected and will allow for a better alignment of prices with costs.
-
-
----
-
-## Fundamentals #0035: Fortinet: 3Q2026 results
-
-Date: 2026-10-29 01:49
-URL: https://heniu.blog/en/f-log/flog-2026-10-29-0035/
-
-
-Fortinet (FTNT) revenue in the third quarter of fiscal year 2026 was 2.08 billion USD (+20.5% y/y), and earnings per share (GAAP) increased to 0.86 USD (+38.7% y/y).
-
-### Quarterly results
-
-Operating income reached 704.30 million USD (+28.7% y/y), with net income amounting to 635.50 million USD (+34.1% y/y). Broken down by segments, Product segment revenue was 765.00 million USD (+36.8% y/y), while the Service segment generated 1.31 billion USD (+12.7% y/y). Earnings per share (GAAP, basic) was 0.87 USD (+38.1% y/y), while earnings per share (adjusted) fell to 0.05 USD (−58.3% y/y).
-
-### What management says
-
-Management emphasized that network security is a key element of AI protection, enabling better insight into traffic generated by these technologies. According to management, demand remains solid, and increasing threats are motivating customers to modernize security. Management indicated that the company does not see a slowdown in demand, although it notes lengthening delivery times. According to management, in the second half of the year, rising costs affected product margins, while service margins grew significantly. Management noted that customers deploying infrastructure do not always want to pay for services immediately, which represents only a shift in the timing of revenue recognition. According to management, more and more companies are launching their own open AI models, which increases the demand for their monitoring and securing.
 
 
