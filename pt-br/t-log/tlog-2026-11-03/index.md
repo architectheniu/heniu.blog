@@ -1,6 +1,6 @@
 # M15: 2026-11-03
 
-Data: 2026-11-03 16:14
+Data: 2026-11-03 16:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.03 [PT-BR]</h1>
+<h3>⏱️ [2026-11-03 16:29] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>28206.27</strong> (+0.77%; desde a entrada anterior +34.69 pts) · NQ <strong>28342.00</strong> (+0.77%; +39.75 pts) · QQQ <strong>686.24 USD</strong> (+0.75%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>109.69 M</strong> [euforia] · CVD NQ <strong>-1.13 K</strong> [teste de oferta] (desde a entrada anterior +4.79 K) · CVD QQQ <strong>-199.64 K</strong> [teste de oferta] · TICKQ <strong>85</strong> [acumulação] · média SMA200 <strong>9.66</strong> [teste de demanda] (+1.33) · indicador de direção <strong>50</strong> (escala ±100; +5)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>40.05 trilhões de USD</strong> (desde a entrada anterior +0.32 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>66.0%</strong> (-2.5 p.p.) · preço médio das ações <strong>296.14 USD</strong> (+3.01 USD) · opções sobre QQQ: volatilidade implícita <strong>27.29%</strong>, put/call <strong>0.84</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28940–28960</strong> (2.60% acima)</li>
+</ul>
+<p>O índice NQ subiu, apesar de o indicador CVD indicar um teste de oferta. Ocorreu um rompimento do nível do nó de volume para cima, o que levou ao aumento do preço do contrato.</p>
 <h3>⏱️ [2026-11-03 16:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>28171.58</strong> (+0.65%; desde a entrada anterior +24.30 pts) · NQ <strong>28302.25</strong> (+0.64%; +28.25 pts) · QQQ <strong>685.45 USD</strong> (+0.63%)</li>
