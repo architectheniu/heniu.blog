@@ -1,6 +1,6 @@
 # H1: 2026-11-03
 
-Data: 2026-11-03 07:07
+Data: 2026-11-03 08:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-03/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.03</h1>
+<h3>📈 [2026-11-03 08:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Cena kontraktów wynosi 28051.25 (-0.27%). Skumulowany przepływ (CVD) na poziomie -3,79 K wskazuje na testowanie podaży w obecnym przedziale handlowym.</li>
+<li><strong>Kontekst indeksu NDX:</strong> Indeks odnotowuje korektę wynoszącą -6.22% (-1858 pkt) od szczytu z dnia 28.10.2026 (29847.38). Jest to korekta o charakterze większym niż mediana historycznych ruchów (ponad 50% zarejestrowanych korekt). Najbliższy istotny opór (węzeł wolumenu) znajduje się w strefie 28940–28960.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 27.88%, a współczynnik Put/Call Volume Ratio to 1.01, co sugeruje niemal pełną równowagę między popytem na zabezpieczenia (put) a ekspozycją na wzrosty (call). Oczekiwany zasięg ruchu wynosi od 666.68 do 695.50 przy wolumenie opcji 9,215,781.</li>
+<li><strong>Przepływy kapitałowe:</strong> Wskaźnik kierunku przepływów wynosi 5, co przy skali -100 do +100 wskazuje na neutralną przewagę napływu kapitału, przy jednoczesnym braku wyraźnego trendu kierunkowego w sesji futures.</li>
+</ul>
+<p>Raport H-Log: 2026-11-03 08:07</p>
 <h3>📈 [2026-11-03 07:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
