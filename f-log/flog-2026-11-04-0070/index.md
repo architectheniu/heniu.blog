@@ -7,7 +7,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
-Przychody Amgen (AMGN) w III kwartale 2026 wyniosły 10,37 mld USD (+8,4% r/r), a zysk na akcję (księgowy) wzrósł o 19,4% r/r do poziomu 7,08 USD.
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Jedna liczba była błędnie zaokrąglona na ostatniej cyfrze.**
+>
+> **Sprostowanie:**
+> - Przychody wzrosły r/r o 8,5% (nie 8,4%).
+>
+> Poprawiliśmy tę liczbę w tekście; pozostałe się nie zmieniają.
+
+Przychody Amgen (AMGN) w III kwartale 2026 wyniosły 10,37 mld USD (+8,5% r/r), a zysk na akcję (księgowy) wzrósł o 19,4% r/r do poziomu 7,08 USD.
 
 ### Wyniki kwartału
 

@@ -7,7 +7,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 ---
 
 
-Amgen (AMGN) revenue in Q3 2026 was 10.37 billion USD (+8.4% year over year), and earnings per share (reported) increased by 19.4% year over year to 7.08 USD.
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **One figure was rounded incorrectly in the last digit.**
+>
+> **Correction:**
+> - Revenue grew 8.5% year over year (not 8.4%).
+>
+> We corrected this figure in the text; the other figures stay the same.
+
+Amgen (AMGN) revenue in Q3 2026 was 10.37 billion USD (+8.5% year over year), and earnings per share (reported) increased by 19.4% year over year to 7.08 USD.
 
 ### Quarterly results
 

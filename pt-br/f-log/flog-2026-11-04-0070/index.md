@@ -7,7 +7,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 ---
 
 
-A receita da Amgen (AMGN) no terceiro trimestre de 2026 foi de 10,37 bi USD (+8,4% ano a ano), e o lucro por ação (contábil) aumentou 19,4% ano a ano para o nível de 7,08 USD.
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Um número foi arredondado incorretamente no último dígito.**
+>
+> **Correção:**
+> - A receita cresceu 8,5% ano a ano (e não 8,4%).
+>
+> Corrigimos esse número no texto; os demais não mudam.
+
+A receita da Amgen (AMGN) no terceiro trimestre de 2026 foi de 10,37 bi USD (+8,5% ano a ano), e o lucro por ação (contábil) aumentou 19,4% ano a ano para o nível de 7,08 USD.
 
 ### Resultados do trimestre
 

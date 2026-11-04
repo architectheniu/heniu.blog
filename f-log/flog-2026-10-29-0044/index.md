@@ -7,11 +7,19 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Jedna liczba była błędnie zaokrąglona na ostatniej cyfrze.**
+>
+> **Sprostowanie:**
+> - Wzrost zysku operacyjnego r/r wyniósł 269,3% (nie 269,2%).
+>
+> Poprawiliśmy tę liczbę w tekście; pozostałe się nie zmieniają.
+
 Przychody Intel (INTC) w trzecim kwartale wyniosły 16,51 mld USD (+20,9% r/r), natomiast zysk na akcję (księgowy) spadł do 0,60 USD (−33,3% r/r).
 
 ### Wyniki kwartału
 
-Zysk na akcję (księgowy, podstawowy) osiągnął poziom 0,63 USD (−30,0% r/r), podczas gdy zysk na akcję (skorygowany) wzrósł o 126,1% r/r do 0,52 USD. Zysk operacyjny spółki wyniósł 2,52 mld USD, co stanowi wzrost o 269,2% r/r w porównaniu do 683,00 mln USD rok wcześniej.
+Zysk na akcję (księgowy, podstawowy) osiągnął poziom 0,63 USD (−30,0% r/r), podczas gdy zysk na akcję (skorygowany) wzrósł o 126,1% r/r do 0,52 USD. Zysk operacyjny spółki wyniósł 2,52 mld USD, co stanowi wzrost o 269,3% r/r w porównaniu do 683,00 mln USD rok wcześniej.
 
 ### Prognoza spółki
 
