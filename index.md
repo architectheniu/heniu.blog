@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
-- [M15: 2026-11-04](https://heniu.blog/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [H1: 2026-11-04](https://heniu.blog/h-log/hlog-2026-11-04/index.md) (2026-11-04)
+- [M15: 2026-11-04](https://heniu.blog/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamenty #0070: Amgen: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0070/index.md) (2026-11-04)
 - [Fundamenty #0069: Astera Labs: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0069/index.md) (2026-11-04)
 - [Fundamenty #0068: Palantir Technologies: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0068/index.md) (2026-11-04)
