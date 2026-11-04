@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 20:07
+Data: 2026-11-04 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.04</h1>
+<h3>📈 [2026-11-04 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX rośnie o 1,02% do poziomu 28467,48, przy skumulowanym przepływie (CVD) na poziomie 102,67 M akcji, co wskazuje na silną presję zakupową. Kontrakty NQ (+1,04%) oraz ETF QQQ (+1,06%) potwierdzają ten trend, wykazując testowanie popytu. Wskaźnik kierunku przepływów wynosi 35, co oznacza dodatni bilans napływu kapitału do rynku. Szeroki rynek (TICKQ) znajduje się na poziomie 117,00, co znacząco przewyższa średnią SMA200 wynoszącą 15,07.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 22,66%, przy wolumenie opcji na poziomie 8 145 713 kontraktów. Wskaźnik Put/Call Ratio wynosi 1,10, co sugeruje przewagę pozycji zabezpieczających (hedging) lub budowanie pozycji pod spadki, mimo bieżącej wzrostowej dynamiki ceny. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 686,10 do 699,76.</li>
+<li><strong>Kontekst techniczny i korekta:</strong> Obecna sytuacja stanowi kontynuację korekty od szczytu z 28.10 (28467,48 względem 29847,38), która wyniosła -4,62% w ciągu 5 sesji. Jest to korekta o charakterze większym (powyżej mediany historycznych ruchów).</li>
+<li><strong>Poziomy wsparcia i oporu:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 28230–28250 (1,0% wolumenu). Najbliższa strefa oporu znajduje się w przedziale 28940–28960 (1,2% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-11-04 21:07</p>
 <h3>📈 [2026-11-04 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
