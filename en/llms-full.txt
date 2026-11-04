@@ -7,6 +7,53 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0067: Company filings: Shopify, Apple, Meta Platforms; insider transactions
+
+Date: 2026-11-04 10:11
+URL: https://heniu.blog/en/f-log/flog-2026-11-04-0067/
+
+
+### **Insider transactions summary**
+
+#### **PANW (Palo Alto Networks)**
+
+*Dominant activity related to stock disposals for tax coverage and new grant awards.*
+
+* **William D. Jenkins Jr.
+
+* **Net total (90 days):** **−17.7 million USD**
+
+#### **STX (Seagate Technology)**
+
+*Very high scale of selling by management.*
+
+* **Net total (90 days):** **−48.0 million USD**
+
+#### **FTNT (Fortinet)**
+
+*Activity focused around option exercises and tax settlements.*
+
+* **Net total (90 days):** **−21.3 million USD**
+
+#### **RKLB (Rocket Lab USA)**
+
+* **Net total (90 days):** **−17.9 million USD**
+
+#### **MDLZ (Mondelez International)**
+
+shelf registration S-3ASR (Document: S-3ASR; Filing date (USA time): 3.11).
+
+annual report 10-K (Document: 10-K; Filing date (USA time): 3.11).
+
+form 424B5 (Document: 424B5; Filing date (USA time): 3.11).
+
+FWP offering materials (Document: FWP; Filing date (USA time): 3.11).
+
+Insiders 3.11: stock transactions (Form 4) (Period (filing dates, USA time): 3.11; Sell: 102.9 million USD; Including 10b5-1 plans: 100.9 million USD; Market buys: 0; Largest insider sell: Fortinet (FTNT) 21.3 million USD; second: Walmart (WMT) 20.9 million USD; Net insider total, 90 days: ADI: −14.1 million USD (buys 0, sells 14.1 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: ADP: −6.5 million USD (buys 0, sells 6.5 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: FTNT: −21.3 million USD (buys 0, sells 21.3 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: LRCX: −7.3 million USD (buys 0, sells 7.3 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: MDLZ: −8.5 million USD (buys 0, sells 8.5 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: MRVL: −7.4 million USD (buys 0, sells 7.4 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: PANW: −17.7 million USD (buys 0, sells 17.7 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: REGN: −6.2 million USD (buys 0, sells 6.2 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: RKLB: −17.9 million USD (buys 0, sells 17.9 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: ROP: −8.8 million USD (buys 0, sells 8.8 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: SNDK: −1.7 million USD (buys 0, sells 1.7 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: STX: −48.0 million USD (buys 0, sells 48.0 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: TER: −1.9 million USD (buys 0, sells 1.9 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: TMUS: −17 thousand USD (buys 0, sells 17 thousand USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: WMT: −23.8 million USD (buys 0, sells 23.8 million USD; period 6.08–3.11; data in archive since 28.09)).
+
+
+---
+
 ## Fundamentals #0066: Thomson Reuters: 3Q2026 results
 
 Date: 2026-11-04 02:33
@@ -953,24 +1000,5 @@ URL: https://heniu.blog/en/posts/log-0215/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentals #0042: Xcel Energy: 3Q2026 results
-
-Date: 2026-10-29 17:26
-URL: https://heniu.blog/en/f-log/flog-2026-10-29-0042/
-
-
-Xcel Energy (XEL) revenues increased in Q3 by 6.6% y/y to 4.17 billion USD, and earnings per share (reported) increased by 72.7% y/y to 1.52 USD.
-
-### Company guidance
-
-The company expects earnings per share in the range of 4.10 USD – 4.16 USD, 4.48 USD – 4.62 USD and 4.04 USD – 4.16 USD.
-
-### Management commentary
-
-Management emphasized that it is conducting advanced negotiations for an energy supply agreement with a large consumer, pointing to the greatest opportunities in the Midwest, Texas, and New Mexico regions. According to management, all investments serve customers through a focus on safety, reliability, and meeting the growing demand for electricity. Management noted that it wants to maintain a strong balance sheet, with plans to expect greater financial flexibility in the later years of the plan. According to management, data centers should self-fund the facilities being built for them, and the company will not connect facilities that do not benefit other customers. Management also indicated that oil companies are increasingly transitioning to electric power, which is driving electricity sales in the Texas and New Mexico region. According to management, combined-cycle gas power plants may become profitable in the future.
 
 
