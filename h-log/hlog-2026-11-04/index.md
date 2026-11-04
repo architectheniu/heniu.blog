@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 10:07
+Data: 2026-11-04 11:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.04</h1>
+<h3>📈 [2026-11-04 11:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku i kontrakty NQ:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Handel odbywa się na kontraktach terminowych NQ, których cena wynosi 28495.25 (+0.67%). Skumulowany przepływ (CVD) dla kontraktów wynosi 5,44 K, co wskazuje na testowanie popytu w bieżącym handlu poza sesją regularną.</li>
+<li><strong>Analiza przepływów i sentymentu:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -25, co oznacza przewagę dystrybucji kapitału. Mimo wzrostu ceny kontraktów, dane z zamkniętej sesji kasowej wykazują silną presję sprzedażową: NDX odnotował CVD na poziomie −67,89 M, a QQQ −2,88 M, co potwierdza załamanie rynku w trakcie sesji regularnej.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 27.63%, przy wolumenie opcji na poziomie 7,422,868. Wskaźnik Put/Call Ratio wynosi 1.12, co sugeruje przewagę pozycji zabezpieczających (hedgingu) lub oczekiwanie na spadki. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 670.14 do 700.42.</li>
+<li><strong>Kontekst techniczny i poziomy:</strong> Trwa większa korekta od szczytu z dnia 28.10 (29847.38), która wyniosła obecnie -5.59% (-1670 pkt). Jest ona głębsza niż 50% historycznych korekt w analizowanym okresie. Kluczowe węzły wolumenu stanowią strefa wsparcia 28170–28190 oraz opór w przedziale 28230–28250.</li>
+</ul>
+<p>Raport H-Log: 2026-11-04 11:07</p>
 <h3>📈 [2026-11-04 10:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
