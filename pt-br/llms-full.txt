@@ -13,6 +13,15 @@ Data: 2026-11-04 02:33
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-04-0066/
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **O post indicava a projeção da empresa de forma errada.**
+>
+> **Correção:**
+> - O intervalo de 9,5% – 10,0% para o crescimento da receita e da receita orgânica em 2026 é a projeção dos três principais segmentos da empresa ("Big 3"), e não da empresa como um todo.
+> - Cerca de 42% no quarto trimestre de 2026 é a margem EBITDA ajustada esperada, e não o crescimento da receita orgânica; o crescimento da receita orgânica no quarto trimestre deve ser de cerca de 8%.
+>
+> Corrigimos a parte da projeção; os resultados do trimestre não mudam.
+
 A receita da Thomson Reuters (TRI) aumentou no terceiro trimestre em 10,6% ano a ano para 1,83 bi USD, com uma queda simultânea no lucro por ação contábil de 17,0% ano a ano para 0,78 USD.
 
 ### Resultados do trimestre
@@ -21,7 +30,7 @@ O lucro por ação ajustado aumentou 14,1% ano a ano para o nível de 0,81 USD.
 
 ### Projeção da empresa
 
-A empresa espera um crescimento da receita em 2026 no nível de 9,5% – 10,0%, sendo que o crescimento da receita orgânica no mesmo período deve ser de 9,5% – 10,0%. No quarto trimestre de 2026, o crescimento da receita deve ser de cerca de 8,0%, enquanto na segunda variante, o crescimento da receita orgânica no quarto trimestre de 2026 deve ser de cerca de 42,0%.
+A empresa projeta para 2026, sem o negócio Global Print, crescimento da receita de cerca de 9,5%, crescimento da receita orgânica de 8,5% – 9,0% e margem EBITDA ajustada de cerca de 39%. A empresa espera, no quarto trimestre de 2026, crescimento da receita orgânica de cerca de 8% e margem EBITDA ajustada de cerca de 42%.
 
 ### O que diz a diretoria
 

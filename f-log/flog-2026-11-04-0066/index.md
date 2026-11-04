@@ -7,6 +7,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Wpis podawał błędną prognozę spółki.**
+>
+> **Sprostowanie:**
+> - Przedział 9,5% – 10,0% wzrostu przychodów i przychodów organicznych w 2026 roku to prognoza trzech głównych segmentów spółki („Big 3”), a nie całej spółki.
+> - Około 42% w IV kwartale 2026 to prognozowana marża skorygowanej EBITDA, a nie wzrost przychodów organicznych; wzrost przychodów organicznych w IV kwartale to około 8%.
+>
+> Poprawiliśmy część o prognozie; wyniki kwartału się nie zmieniają.
+
 Przychody Thomson Reuters (TRI) wzrosły w III kwartale o 10,6% r/r do 1,83 mld USD, przy jednoczesnym spadku księgowego zysku na akcję o 17,0% r/r do 0,78 USD.
 
 ### Wyniki kwartału
@@ -15,7 +24,7 @@ Skorygowany zysk na akcję wzrósł o 14,1% r/r do poziomu 0,81 USD.
 
 ### Prognoza spółki
 
-Spółka spodziewa się wzrostu przychodów w roku 2026 na poziomie 9,5% – 10,0%, przy czym wzrost przychodów organicznych w tym samym okresie ma wynieść 9,5% – 10,0%. W IV kwartale 2026 wzrost przychodów ma wynieść ok. 8,0%, natomiast w drugim wariancie wzrost przychodów organicznych w IV kwartale 2026 ma wynieść ok. 42,0%.
+Spółka prognozuje na rok 2026, bez biznesu Global Print, wzrost przychodów o ok. 9,5%, wzrost przychodów organicznych o 8,5% – 9,0% i marżę skorygowanej EBITDA ok. 39%. Spółka spodziewa się w IV kwartale 2026 wzrostu przychodów organicznych o ok. 8% i marży skorygowanej EBITDA ok. 42%.
 
 ### Co mówi zarząd
 

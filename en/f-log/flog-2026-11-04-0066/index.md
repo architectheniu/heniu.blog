@@ -7,6 +7,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **The post misstated the company's guidance.**
+>
+> **Correction:**
+> - The 9.5% – 10.0% range for 2026 revenue and organic revenue growth is the guidance for the company's three main segments ("Big 3"), not for the whole company.
+> - Approximately 42% in the fourth quarter of 2026 is the expected adjusted EBITDA margin, not organic revenue growth; organic revenue growth in the fourth quarter is expected at approximately 8%.
+>
+> We corrected the guidance section; the quarterly results stay the same.
+
 Thomson Reuters (TRI) revenue grew by 10.6% year over year in the third quarter to 1.83 billion USD, while reported earnings per share fell by 17.0% year over year to 0.78 USD.
 
 ### Quarterly results
@@ -15,7 +24,7 @@ Adjusted earnings per share grew by 14.1% year over year to a level of 0.81 USD.
 
 ### Company guidance
 
-The company expects revenue growth in 2026 at a level of 9.5% – 10.0%, with organic revenue growth in the same period expected to be 9.5% – 10.0%. In the fourth quarter of 2026, revenue growth is expected to be approximately 8.0%, while in the second scenario, organic revenue growth in the fourth quarter of 2026 is expected to be approximately 42.0%.
+The company forecasts for 2026, excluding the Global Print business, revenue growth of approximately 9.5%, organic revenue growth of 8.5% – 9.0% and an adjusted EBITDA margin of approximately 39%. The company expects organic revenue growth of approximately 8% and an adjusted EBITDA margin of approximately 42% in the fourth quarter of 2026.
 
 ### What management says
 
