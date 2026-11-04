@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 18:07
+Data: 2026-11-04 19:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.04</h1>
+<h3>📈 [2026-11-04 19:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX wynosi 28622.74 (+1.57%), przy skumulowanym przepływie CVD na poziomie 155,8 M. Kontrakty NQ (28758.25, +1.60%) oraz ETF QQQ (696.33, +1.61%) wykazują oznaki akumulacji. Wskaźnik kierunku przepływów wynosi 35, co potwierdza dodatni napływ kapitału do rynku. Szeroki rynek Nasdaq (TICKQ) znajduje się na poziomie 281.00, co przy średniej SMA200 wynoszącej 13.37 wskazuje na bardzo silną presję kupujących.</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Wolumen opcji osiągnął poziom 5,957,464 przy zmienności implikowanej (IV) wynoszącej 23.31%. Put/Call Volume Ratio na poziomie 1.01 sugeruje wyrównany sentyment z lekką przewagą opcji sprzedaży, co może wskazywać na budowanie zabezpieczeń (hedging) w obliczu obecnych wzrostów. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 686.73 do 702.20.</p>
+</li>
+<li>
+<p><strong>Kontekst techniczny i poziomy:</strong> Bieżąca korekta od szczytu z dnia 28.10 (29847.38) wynosi -4.10% (-1225 pkt). Jest to zwykłe cofnięcie, głębsze niż w 38% odnotowanych historycznie przypadków. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 28230–28250. Kluczowa strefa oporu to 28940–28960.</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-11-04 19:07</p>
 <h3>📈 [2026-11-04 18:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
