@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-11-04](https://heniu.blog/pt-br/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/pt-br/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamentos #0067: Relatórios de empresas: Shopify, Apple, Meta Platforms; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0067/index.md) (2026-11-04)
-- [H1: 2026-11-04](https://heniu.blog/pt-br/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamentos #0066: Thomson Reuters: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0066/index.md) (2026-11-04)
 - [Fundamentos #0065: Booking: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0065/index.md) (2026-11-04)
 - [Fundamentos #0064: Advanced Micro Devices: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0064/index.md) (2026-11-04)

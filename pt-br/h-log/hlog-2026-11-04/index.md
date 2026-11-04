@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 10:08
+Data: 2026-11-04 11:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.04 [PT-BR]</h1>
+<h3>📈 [2026-11-04 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado e contratos NQ:</strong> a sessão à vista (Spot) está atualmente fechada. A negociação ocorre nos contratos futuros NQ, cujo preço é 28495.25 (+0.67%). O fluxo acumulado (CVD) para os contratos é de 5,44 K, o que indica um teste de demanda no comércio atual fora do horário regular.</li>
+<li><strong>Análise de fluxo e sentimento:</strong> O indicador de direção agregado de fluxos é -25, o que significa uma predominância de distribuição de capital. Apesar do aumento no preço dos contratos, os dados da sessão à vista fechada mostram uma forte pressão de venda: o NDX registrou um CVD no nível de −67,89 M, e o QQQ −2,88 M, o que confirma o colapso do mercado durante a sessão regular.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 27.63%, com um volume de opções no nível de 7,422,868. O Put/Call Ratio é de 1.12, o que sugere uma predominância de posições de hedge ou a expectativa de quedas. O alcance esperado de movimento para o QQQ está na faixa de 670.14 a 700.42.</li>
+<li><strong>Contexto técnico e níveis:</strong> Está ocorrendo um Recuo desde o pico do dia 28.10 (29847.38), que atualmente é de -5.59% (-1670 pts). Ele é mais profundo do que 50% das correções históricas no período analisado. Os nós de volume cruciais constituem a zona de suporte 28170–28190 e a resistência na faixa de 28230–28250.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-04 11:07</p>
 <h3>📈 [2026-11-04 10:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
