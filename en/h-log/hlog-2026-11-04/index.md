@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Date: 2026-11-04 19:07
+Date: 2026-11-04 20:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-04/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.04 [EN]</h1>
+<h3>📈 [2026-11-04 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation:</strong> The NDX index is currently at 28558.02 (+1.34%), showing a rebound during an ongoing correction, which from the peak on 28.10 (29847.38) amounted to -4.32%. The direction gauge is 35, confirming a positive inflow of capital into the market. Nasdaq market breadth (TICKQ) shows an extreme value of 353.00, significantly above the SMA200 average of 15.94.</li>
+<li><strong>Flow analysis (CVD):</strong> Strong accumulation is observed in the cash market. Cumulative flow (CVD) for NDX is 138.26 M, for NQ contracts 12.49 K, and for the QQQ ETF 1.18 M. This data indicates an active process of asset accumulation by market participants.</li>
+<li><strong>Options market:</strong> QQQ options volume reached 6,838,573 with implied volatility (IV) at 23.03%. The Put/Call Volume Ratio is 1.05, suggesting a slight advantage of hedging positions or anticipation of higher volatility. The market-expected range of movement for QQQ is between 689.76 and 703.60.</li>
+<li><strong>Technical levels:</strong> The nearest support zone (volume node) is located in the 28230–28250 range (1.0% volume below current price). Key resistance (volume node) is located at the 28940–28960 level (1.2% volume above current price).</li>
+</ul>
+<p>H-Log Report: 2026-11-04 20:07</p>
 <h3>📈 [2026-11-04 19:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>

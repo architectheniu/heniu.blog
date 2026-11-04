@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 19:08
+Data: 2026-11-04 20:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.04 [PT-BR]</h1>
+<h3>📈 [2026-11-04 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado:</strong> O Índice NDX encontra-se atualmente no nível 28558.02 (+1.34%), exibindo um repique durante a correção em curso, que desde o pico de 28.10 (29847.38) foi de -4.32%. O indicador de direção de fluxos é de 35, o que confirma a entrada positiva de capital no mercado. A Amplitude de mercado (TICKQ) apresenta um valor extremo de 353.00, significativamente acima da média SMA200 de 15.94.</li>
+<li><strong>Análise de fluxos (CVD):</strong> Na sessão à vista observa-se uma forte acumulação. O fluxo acumulado (CVD) para NDX é de 138,26 M, para o contrato NQ de 12,49 K, e para o ETF QQQ de 1,18 M. Estes dados indicam um processo ativo de compra de ativos pelos participantes do mercado.</li>
+<li><strong>Mercado de opções:</strong> O volume de opções sobre QQQ atingiu o nível de 6,838,573 com a volatilidade implícita (IV) no nível de 23.03%. O Put/Call Volume Ratio é de 1.05, o que sugere uma leve vantagem de posições de proteção (hedging) ou a expectativa de maior volatilidade. O alcance de movimento esperado pelo mercado para o QQQ está na faixa de 689.76 a 703.60.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima (nó de volume) encontra-se na faixa de 28230–28250 (1.0% de volume abaixo do preço atual). A resistência crucial (nó de volume) está localizada no nível 28940–28960 (1.2% de volume acima do preço atual).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-04 20:07</p>
 <h3>📈 [2026-11-04 19:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
