@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 18:08
+Data: 2026-11-04 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.04 [PT-BR]</h1>
+<h3>📈 [2026-11-04 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de mercado e fluxos:</strong> O Índice NDX está em 28622.74 (+1.57%), com o fluxo acumulado (CVD) em 155,8 M. Os contratos NQ (28758.25, +1.60%) e o ETF QQQ (696.33, +1.61%) mostram sinais de acumulação. O indicador de direção dos fluxos é 35, o que confirma a entrada positiva de capital no mercado. A Amplitude de mercado (TICKQ) está em 281.00, o que, com uma média SMA200 de 13.37, indica uma pressão de compra muito forte.</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> O volume de opções atingiu o nível de 5,957,464 com a volatilidade implícita (IV) em 23.31%. O Put/Call Volume Ratio em 1.01 sugere um sentimento equilibrado com uma leve vantagem para opções de venda, o que pode indicar a construção de proteções (hedging) diante das atuais altas. O alcance de movimento esperado para o QQQ está na faixa de 686.73 a 702.20.</p>
+</li>
+<li>
+<p><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico do dia 28.10 (29847.38) é de -4.10% (-1225 pts). Isso é um recuo comum, mais profundo do que em 38% dos casos registrados historicamente. A zona de suporte mais próxima (nó de volume) está na faixa de 28230–28250. A zona de resistência crucial é 28940–28960.</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-11-04 19:07</p>
 <h3>📈 [2026-11-04 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
