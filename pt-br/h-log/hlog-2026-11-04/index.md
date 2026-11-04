@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 17:08
+Data: 2026-11-04 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.04 [PT-BR]</h1>
+<h3>📈 [2026-11-04 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de preços e fluxos:</strong> O Índice NDX está subindo 1,35% (28556,23 pts), com o fluxo acumulado (CVD) em 154,46 M, o que indica uma forte euforia de compra. Os contratos NQ (+1,38%, 28696,75 pts) mostram acumulação, e o ETF QQQ (+1,40%, 694,89 pts) confirma um teste de demanda. O indicador de direção de fluxos é 35, o que significa uma entrada positiva de capital no mercado.</li>
+<li><strong>Amplitude de mercado e opções:</strong> O indicador TICKQ é 193,00, o que, com a média SMA200 em 3,31, indica uma pressão de compra muito forte na amplitude de mercado Nasdaq. No mercado de opções QQQ, a volatilidade implícita (IV) é de 23,92%, e a Put/Call Volume Ratio em 1,01 sugere um sentimento equilibrado com uma leve predominância de posições de hedge. O alcance esperado do movimento oscila entre 684,32 e 701,24 pts com um volume de opções de 4,859,461.</li>
+<li>Isto é uma correção de caráter maior do que a mediana dos movimentos históricos. A resistência mais próxima encontra-se na zona de volume 28940–28960 (1,2% do volume), enquanto o suporte crucial rompe na zona 28230–28250 (1,0% do volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-04 18:07</p>
 <h3>📈 [2026-11-04 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>

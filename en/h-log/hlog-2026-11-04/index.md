@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Date: 2026-11-04 17:08
+Date: 2026-11-04 18:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-04/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.04 [EN]</h1>
+<h3>📈 [2026-11-04 18:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price situation and flows:</strong> The NDX index is rising by 1.35% (28556.23 pts), with cumulative flow (CVD) at 154.46 M, indicating strong buying euphoria. NQ futures (+1.38%, 28696.75 pts) show accumulation, and the QQQ ETF (+1.40%, 694.89 pts) confirms a demand test. The direction gauge is 35, meaning a positive capital inflow to the market.</li>
+<li><strong>Broad market and options:</strong> The TICKQ indicator is 193.00, which, with a SMA200 average at 3.31, indicates very strong buying pressure in the broad Nasdaq market. In the QQQ options market, implied volatility (IV) is 23.92%, and the Put/Call Volume Ratio at 1.01 suggests balanced sentiment with a slight edge toward hedging positions. The expected movement range oscillates between 684.32 and 701.24 pts with an options volume of 4,859,461.</li>
+<li>This is a correction of a greater nature than the median of historical movements. The nearest resistance is located in the volume zone 28940–28960 (1.2% volume), while key support is breaking through in the 28230–28250 zone (1.0% volume).</li>
+</ul>
+<p>H-Log Report: 2026-11-04 18:07</p>
 <h3>📈 [2026-11-04 17:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
