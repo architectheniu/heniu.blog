@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 15:08
+Data: 2026-11-04 16:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.04 [PT-BR]</h1>
+<h3>📈 [2026-11-04 16:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O Índice NDX está subindo 1,96% (28733,92), com o fluxo acumulado CVD em 180,64 M, o que indica euforia no setor à vista. Os contratos NQ (+2,00% / 28871,50) e o ETF QQQ (+2,01% / 699,07) mostram uma forte acumulação de capital. O indicador de direção de fluxo agregado é 35, o que confirma a entrada líquida de fundos no mercado.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> A Amplitude de mercado (TICKQ) é de -18,00, o que, com a média SMA200 em 3,42, sugere a presença de pressão de venda em um amplo espectro de ações da Nasdaq, apesar das altas dos principais índices.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 23,96%, e a relação Put/Call Volume Ratio está em 0,90 com um volume de 455,018. Esses dados indicam um equilíbrio relativo entre a demanda por proteção e as posições de alta, com o mercado esperando um alcance de movimento na faixa de 670,14 a 700,42 pontos.</li>
+<li><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico de 28.10 (29847,38) é atualmente de -3,73% (-1113 pts). Trata-se de um recuo comum, mais profundo do que 38% das correções históricas do período analisado. A resistência mais próxima encontra-se na zona de volume 28940–28960, enquanto o suporte está localizado na zona 28230–28250.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-04 16:07</p>
 <h3>📈 [2026-11-04 15:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
