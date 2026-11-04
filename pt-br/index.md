@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0070: Amgen: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0070/index.md) (2026-11-04)
 - [Fundamentos #0069: Astera Labs: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0069/index.md) (2026-11-04)
 - [Fundamentos #0068: Palantir Technologies: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0068/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/pt-br/t-log/tlog-2026-11-04/index.md) (2026-11-04)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0038: T-Mobile US: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0038/index.md) (2026-10-29)
 - [Fundamentos #0037: KLA: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0037/index.md) (2026-10-29)
 - [Fundamentos #0036: Honeywell Aerospace: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0036/index.md) (2026-10-29)
-- [Fundamentos #0035: Fortinet: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0035/index.md) (2026-10-29)
 

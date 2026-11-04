@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0070: Amgen: wyniki za 3Q2026
+
+Data: 2026-11-04 11:57
+Adres: https://heniu.blog/f-log/flog-2026-11-04-0070/
+
+
+Przychody Amgen (AMGN) w III kwartale 2026 wyniosły 10,37 mld USD (+8,4% r/r), a zysk na akcję (księgowy) wzrósł o 19,4% r/r do poziomu 7,08 USD.
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy, podstawowy) osiągnął wartość 7,14 USD (+19,4% r/r).
+
+### Prognoza spółki
+
+Na rok 2026 spółka spodziewa się przychodów w przedziale 38,90 mld USD – 39,70 mld USD oraz zysku na akcję (GAAP) na poziomie 18,34–19,28 USD. Spółka prognozuje również zysk na akcję skorygowany (non-GAAP) w przedziale 22,90–23,70 USD oraz nakłady inwestycyjne na poziomie ok. 2,60 mld USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że spółka chce zachować dyscyplinę w wydatkach, tak aby przy przejęciach zysk odnosiły także akcjonariusze. Według zarządu, po aktualizacji wytycznych lekarze szybko zmienią sposób leczenia na korzyść leku IMDELLTRA, który działa mocno w połączeniu z chemioterapią. Zarząd wyraził oczekiwanie podobnej skuteczności w połączeniu z koniugatami przeciwciało–lek oraz zaznaczył, że spółka jest pewna swojej pozycji jako niezawodny dostawca leków biopodobnych, projektując nowe moce produkcyjne pod większe ilości białka. Według zarządu daxdilimab w toczniu skórnym będzie przepisywany głównie przez dermatologów, w czym spółka posiada doświadczenie i odpowiednie zespoły.
+
+
+---
+
 ## Fundamenty #0069: Astera Labs: wyniki za 3Q2026
 
 Data: 2026-11-04 11:56
@@ -920,28 +943,5 @@ Zysk na akcję (księgowy, podstawowy) wyniósł 1,96 USD (−20,3% r/r), podcza
 ### Co mówi zarząd
 
 Według zarządu w segmencie HIV sprzyjały korzystne ceny w niektórych kanałach oraz popyt, a udział leku Biktarvy w rynku nadal rośnie. Zarząd podkreślał, że spółce zależy na rozwoju w obszarach onkologii oraz chorób zapalnych. Według zarządu cotygodniowa doustna profilaktyka HIV ma trafić do osób preferujących leki o dłuższym działaniu zamiast zastrzyków. Zarząd wskazał, że sposób ustalania cen leków w ramach ustawy IRA może w przyszłym roku zagrozić inwestycjom w nowe produkty. Według zarządu wpływ nowych cen dotyczy głównie programu Medicare oraz objawia się efektem przeniesienia na inne kanały sprzedaży. Zarząd wyraził zadowolenie z faktu, że spółka w tym roku wchłonęła koszty nowo przejętych programów, i zamierza kontynuować ten proces w kolejnych latach.
-
-
----
-
-## Fundamenty #0044: Intel: wyniki za 3Q2026
-
-Data: 2026-10-29 23:55
-Adres: https://heniu.blog/f-log/flog-2026-10-29-0044/
-
-
-Przychody Intel (INTC) w trzecim kwartale wyniosły 16,51 mld USD (+20,9% r/r), natomiast zysk na akcję (księgowy) spadł do 0,60 USD (−33,3% r/r).
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) osiągnął poziom 0,63 USD (−30,0% r/r), podczas gdy zysk na akcję (skorygowany) wzrósł o 126,1% r/r do 0,52 USD. Zysk operacyjny spółki wyniósł 2,52 mld USD, co stanowi wzrost o 269,2% r/r w porównaniu do 683,00 mln USD rok wcześniej.
-
-### Prognoza spółki
-
-W czwartym kwartale 2026 spółka spodziewa się przychodów w przedziale 15,00 mld USD – 16,00 mld USD.
-
-### Co mówi zarząd
-
-Zarząd wyraził optymizm względem wzrostu w segmencie centrów danych. Według zarządu w przyszłym roku spółka może nie wypracować dodatnich wolnych przepływów pieniężnych, ponieważ traktuje ten czas jako okazję do inwestycji we wzrost. Zarząd wskazał, że moce zwolnione przez słabszy rynek komputerów można przeznaczyć na płytki dla centrów danych, jednak ograniczeniem są również podłoża do układów. Według zarządu sytuacja dotycząca dostępności pamięci w przyszłym roku nie napawa optymizmem. Zarząd podkreślał, że zewnętrzni klienci fabryk zgłaszają zainteresowanie i są zadowoleni z uzysku produkcji, z którymi spółka intensywnie pracuje. Według zarządu marże procesorów Panther Lake wyraźnie się poprawiły, choć nie osiągnęły jeszcze średniej dla całej firmy.
 
 
