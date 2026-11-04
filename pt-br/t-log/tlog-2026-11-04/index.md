@@ -1,6 +1,6 @@
 # M15: 2026-11-04
 
-Data: 2026-11-04 21:14
+Data: 2026-11-04 21:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.04 [PT-BR]</h1>
+<h3>⏱️ [2026-11-04 21:29] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>28474.81</strong> (+1.04%; desde a entrada anterior +22.24 pts) · NQ <strong>28603.25</strong> (+1.05%; +19.25 pts) · QQQ <strong>692.67 USD</strong> (+1.08%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>96.91 M</strong> [euforia] · CVD NQ <strong>5.95 K</strong> [teste de demanda] (desde a entrada anterior +0.95 K) · CVD QQQ <strong>326.13 K</strong> [teste de demanda] · TICKQ <strong>40</strong> [teste de demanda] · média SMA200 <strong>14.46</strong> [teste de demanda] (+0.07) · indicador de direção <strong>35</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>40.71 trilhões de USD</strong> (desde a entrada anterior +0.02 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>69.2%</strong> (+0.0 p.p.) · preço médio das ações <strong>294.93 USD</strong> (+0.40 USD) · opções sobre QQQ: volatilidade implícita <strong>22.64%</strong>, put/call <strong>1.12</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>28230–28250</strong> (0.79% abaixo) · mais próxima acima do preço <strong>28940–28960</strong> (1.63% acima)</li>
+</ul>
+<p>Após a última queda súbita e a divergência dos índices, o preço do NQ moveu-se para cima, e o fluxo CVD mostra um leve aumento. O suporte mais próximo encontra-se abaixo dos níveis atuais, enquanto a resistência foi localizada acima do preço atual.</p>
+<p><strong>Alarmes de fluxo desde a entrada anterior:</strong> 21:27 fluxo súbito de NQ para baixo; divergência NQ e NDX; ignição de fluxo NQ.</p>
 <h3>⏱️ [2026-11-04 21:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>28452.57</strong> (+0.97%; desde a entrada anterior -14.67 pts) · NQ <strong>28584.00</strong> (+0.98%; -14.25 pts) · QQQ <strong>692.13 USD</strong> (+1.00%)</li>
