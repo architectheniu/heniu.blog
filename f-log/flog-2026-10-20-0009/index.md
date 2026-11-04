@@ -7,6 +7,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Przy zdaniach o dokumentach spółek nie było widać, której spółki dotyczą.**
+>
+> **Sprostowanie:**
+> - Dopisaliśmy nazwy i tickery spółek na początku tych zdań.
+>
+> Liczby i daty się nie zmieniają.
+
 Tesla (TSLA) złożyła dokument dotyczący pełnomocnictwa do zgromadzenia walnego.
 
 Insiderzy 19.10 sprzedali akcje za 24,3 mln USD, w tym 23,7 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Advanced Micro Devices (AMD): 9,3 mln USD. Największą sprzedaż zgłosili insiderzy CrowdStrike (CRWD): 7,0 mln USD.
@@ -17,5 +25,5 @@ Prezes i dyrektor generalny spółki CrowdStrike (CRWD) sprzedał 20 000 akcji o
 
 Zgłoszono też 16 innych transakcji.
 
-proxy DEF 14A (Dokument: DEF 14A; Data złożenia (czas USA): 19.10).
+Tesla (TSLA): proxy DEF 14A (Dokument: DEF 14A; Data złożenia (czas USA): 19.10).
 

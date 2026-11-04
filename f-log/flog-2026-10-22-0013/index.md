@@ -7,6 +7,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Przy zdaniach o dokumentach spółek nie było widać, której spółki dotyczą.**
+>
+> **Sprostowanie:**
+> - Dopisaliśmy nazwy i tickery spółek na początku tych zdań.
+>
+> Liczby i daty się nie zmieniają.
+
 Microsoft (MSFT) złożył dokument dotyczący pełnomocnictw na walne zgromadzenie.
 
 Insiderzy sprzedali akcje za 6,3 mln USD, w tym 6,3 mln USD z planów 10b5-1; zakupy na rynku wyniosły 50 tys. USD. Największą sprzedaż zgłosili insiderzy CrowdStrike (CRWD): 4,6 mln USD.
@@ -17,5 +25,5 @@ Javier Olivan, dyrektor operacyjny spółki Meta Platforms (META), sprzedał 1 5
 
 Zgłoszono też 2 innych transakcji.
 
-proxy DEF 14A (Dokument: DEF 14A; Data złożenia (czas USA): 21.10).
+Microsoft (MSFT): proxy DEF 14A (Dokument: DEF 14A; Data złożenia (czas USA): 21.10).
 

@@ -7,9 +7,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 ---
 
 
-quarterly report 10-Q (Document: 10-Q; Filing date (USA time): 30.10).
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Sentences about company filings did not say which company they concerned.**
+>
+> **Correction:**
+> - We added the company names and tickers at the start of these sentences.
+>
+> The figures and dates stay the same.
 
-FWP offering materials (Document: FWP; Filing date (USA time): 30.10).
+Amazon.com (AMZN): quarterly report 10-Q (Document: 10-Q; Filing date (USA time): 30.10).
+
+Microsoft (MSFT): FWP offering materials (Document: FWP; Filing date (USA time): 30.10).
 
 Insiders on 30.10 sold shares for 16.0 million USD, including 13.7 million USD from 10b5-1 plans; market purchases amounted to 25 thousand USD. The largest sale was reported by Datadog (DDOG) insiders: 12.1 million USD. Texas Instruments (TXN) insiders sold shares for 1.9 million USD.
 

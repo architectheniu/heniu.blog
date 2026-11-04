@@ -7,9 +7,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
-raport kwartalny 10-Q (Dokument: 10-Q; Data złożenia (czas USA): 30.10).
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Przy zdaniach o dokumentach spółek nie było widać, której spółki dotyczą.**
+>
+> **Sprostowanie:**
+> - Dopisaliśmy nazwy i tickery spółek na początku tych zdań.
+>
+> Liczby i daty się nie zmieniają.
 
-materiały ofertowe FWP (Dokument: FWP; Data złożenia (czas USA): 30.10).
+Amazon.com (AMZN): raport kwartalny 10-Q (Dokument: 10-Q; Data złożenia (czas USA): 30.10).
+
+Microsoft (MSFT): materiały ofertowe FWP (Dokument: FWP; Data złożenia (czas USA): 30.10).
 
 Insiderzy 30.10 sprzedali akcje za 16,0 mln USD, w tym 13,7 mln USD z planów 10b5-1; zakupy na rynku wyniosły 25 tys. USD. Największą sprzedaż zgłosili insiderzy Datadog (DDOG): 12,1 mln USD. Insiderzy Texas Instruments (TXN) sprzedali akcje za 1,9 mln USD.
 

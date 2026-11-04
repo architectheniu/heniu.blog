@@ -147,6 +147,14 @@ Date: 2026-11-04 10:11
 URL: https://heniu.blog/en/f-log/flog-2026-11-04-0067/
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Sentences about company filings did not say which company they concerned.**
+>
+> **Correction:**
+> - We added the company names and tickers at the start of these sentences.
+>
+> The figures and dates stay the same.
+
 ### **Insider transactions summary**
 
 #### **PANW (Palo Alto Networks)**
@@ -175,13 +183,13 @@ URL: https://heniu.blog/en/f-log/flog-2026-11-04-0067/
 
 #### **MDLZ (Mondelez International)**
 
-shelf registration S-3ASR (Document: S-3ASR; Filing date (USA time): 3.11).
+Shopify (SHOP): shelf registration S-3ASR (Document: S-3ASR; Filing date (USA time): 3.11).
 
-annual report 10-K (Document: 10-K; Filing date (USA time): 3.11).
+Apple (AAPL): annual report 10-K (Document: 10-K; Filing date (USA time): 3.11).
 
-form 424B5 (Document: 424B5; Filing date (USA time): 3.11).
+Meta Platforms (META): form 424B5 (Document: 424B5; Filing date (USA time): 3.11).
 
-FWP offering materials (Document: FWP; Filing date (USA time): 3.11).
+Meta Platforms (META): FWP offering materials (Document: FWP; Filing date (USA time): 3.11).
 
 Insiders 3.11: stock transactions (Form 4) (Period (filing dates, USA time): 3.11; Sell: 102.9 million USD; Including 10b5-1 plans: 100.9 million USD; Market buys: 0; Largest insider sell: Fortinet (FTNT) 21.3 million USD; second: Walmart (WMT) 20.9 million USD; Net insider total, 90 days: ADI: −14.1 million USD (buys 0, sells 14.1 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: ADP: −6.5 million USD (buys 0, sells 6.5 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: FTNT: −21.3 million USD (buys 0, sells 21.3 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: LRCX: −7.3 million USD (buys 0, sells 7.3 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: MDLZ: −8.5 million USD (buys 0, sells 8.5 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: MRVL: −7.4 million USD (buys 0, sells 7.4 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: PANW: −17.7 million USD (buys 0, sells 17.7 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: REGN: −6.2 million USD (buys 0, sells 6.2 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: RKLB: −17.9 million USD (buys 0, sells 17.9 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: ROP: −8.8 million USD (buys 0, sells 8.8 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: SNDK: −1.7 million USD (buys 0, sells 1.7 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: STX: −48.0 million USD (buys 0, sells 48.0 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: TER: −1.9 million USD (buys 0, sells 1.9 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: TMUS: −17 thousand USD (buys 0, sells 17 thousand USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: WMT: −23.8 million USD (buys 0, sells 23.8 million USD; period 6.08–3.11; data in archive since 28.09)).
 
@@ -386,6 +394,14 @@ Date: 2026-11-03 10:10
 URL: https://heniu.blog/en/f-log/flog-2026-11-03-0061/
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Sentences about company filings did not say which company they concerned.**
+>
+> **Correction:**
+> - We added the company names and tickers at the start of these sentences.
+>
+> The figures and dates stay the same.
+
 Lumentum (LITE) entered into a material agreement, removed its Chief Executive Officer (CEO), and filed a disclosure report.
 
 Marvell Technology (MRVL) entered into a material agreement.
@@ -406,9 +422,9 @@ Insiders sold 13.8 million USD in shares on 2.11, including 13.8 million USD fro
 
 8-K: 5.02 changes in management/board, 7.01 Reg FD (Document: 8-K 5.02,7.01,9.01; Filing Date (US time): 2.11; 8-K Content 5.02 (change in management or board): position: member of the Board of Directors; type of change: appointment; date: 1.01.2027; persons: Aaron Martin; successor: not applicable (appointment); quote (EN): „On October 29, 2026, the Board of Directors (the “Board”) of Intuitive Surgical, Inc. (the “Company”) approved an increase in the size of the Board from ten to eleven members and appointed Aaron Martin to fill the resulting vacancy, effective as of January 1, 2027.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1035267/000103526726000074/0001035267-26-000074-index.htm).
 
-form 424B5 (Document: 424B5; Filing Date (US time): 2.11).
+Alphabet (GOOGL): form 424B5 (Document: 424B5; Filing Date (US time): 2.11).
 
-prospectus 424B2 (Document: 424B2; Filing Date (US time): 2.11).
+Microsoft (MSFT): prospectus 424B2 (Document: 424B2; Filing Date (US time): 2.11).
 
 
 ---
@@ -629,9 +645,17 @@ Date: 2026-11-02 10:10
 URL: https://heniu.blog/en/f-log/flog-2026-11-02-0054/
 
 
-quarterly report 10-Q (Document: 10-Q; Filing date (USA time): 30.10).
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Sentences about company filings did not say which company they concerned.**
+>
+> **Correction:**
+> - We added the company names and tickers at the start of these sentences.
+>
+> The figures and dates stay the same.
 
-FWP offering materials (Document: FWP; Filing date (USA time): 30.10).
+Amazon.com (AMZN): quarterly report 10-Q (Document: 10-Q; Filing date (USA time): 30.10).
+
+Microsoft (MSFT): FWP offering materials (Document: FWP; Filing date (USA time): 30.10).
 
 Insiders on 30.10 sold shares for 16.0 million USD, including 13.7 million USD from 10b5-1 plans; market purchases amounted to 25 thousand USD. The largest sale was reported by Datadog (DDOG) insiders: 12.1 million USD. Texas Instruments (TXN) insiders sold shares for 1.9 million USD.
 
@@ -932,6 +956,14 @@ Date: 2026-10-30 10:11
 URL: https://heniu.blog/en/f-log/flog-2026-10-30-0048/
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Sentences about company filings did not say which company they concerned.**
+>
+> **Correction:**
+> - We added the company names and tickers at the start of these sentences.
+>
+> The figures and dates stay the same.
+
 Meta Platforms (META) filed a report on the entry into a material agreement and amendments to the articles of association.
 
 DoorDash (DASH) filed a report on the entry into a material agreement, dissemination of market information, and other events.
@@ -946,6 +978,6 @@ Insiders on 29.10 sold shares for 10.7 million USD, including 6.2 million USD fr
 
 8-K: 1.01 material agreement, 7.01 Reg FD, 8.01 other events (Document: 8-K 1.01,7.01,8.01,9.01; Filing date (USA time): 29.10; 8-K 1.01 content (entry into a material agreement): agreement: Material Definitive Agreement; quote (EN): „On October 28, 2026, DoorDash, Inc., a Nevada corporation (“ DoorDash ” or the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Maplebear Inc., a Delaware corporation (“ Instacart ”), and Ibiza Merger Sub, Inc., a Delaware corporation and wholly owned subsidiary of DoorDash…”; 8-K 8.01 content (other event): quote (EN): „On October 28, 2026, in connection with the entry into the Merger Agreement, DoorDash entered into a commitment letter (the “ Commitment Letter ”) with JPMorgan Chase Bank, N.A. (“ JPMorgan ”), pursuant to which JPMorgan committed to provide a 364-day senior unsecured bridge term loan facility (the “ Bridge Facility…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1792789/000114036126041111/0001140361-26-041111-index.htm).
 
-prospectus 424B2 (Document: 424B2; Filing date (USA time): 29.10).
+Microsoft (MSFT): prospectus 424B2 (Document: 424B2; Filing date (USA time): 29.10).
 
 

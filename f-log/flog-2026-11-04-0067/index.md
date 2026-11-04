@@ -7,6 +7,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **Przy zdaniach o dokumentach spółek nie było widać, której spółki dotyczą.**
+>
+> **Sprostowanie:**
+> - Dopisaliśmy nazwy i tickery spółek na początku tych zdań.
+>
+> Liczby i daty się nie zmieniają.
+
 ### **Zestawienie transakcji insiderów**
 
 #### **PANW (Palo Alto Networks)**
@@ -35,13 +43,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 #### **MDLZ (Mondelez International)**
 
-rejestracja półkowa S-3ASR (Dokument: S-3ASR; Data złożenia (czas USA): 3.11).
+Shopify (SHOP): rejestracja półkowa S-3ASR (Dokument: S-3ASR; Data złożenia (czas USA): 3.11).
 
-raport roczny 10-K (Dokument: 10-K; Data złożenia (czas USA): 3.11).
+Apple (AAPL): raport roczny 10-K (Dokument: 10-K; Data złożenia (czas USA): 3.11).
 
-formularz 424B5 (Dokument: 424B5; Data złożenia (czas USA): 3.11).
+Meta Platforms (META): formularz 424B5 (Dokument: 424B5; Data złożenia (czas USA): 3.11).
 
-materiały ofertowe FWP (Dokument: FWP; Data złożenia (czas USA): 3.11).
+Meta Platforms (META): materiały ofertowe FWP (Dokument: FWP; Data złożenia (czas USA): 3.11).
 
 Insiderzy 3.11: transakcje akcjami (Form 4) (Okres (daty złożenia, czas USA): 3.11; Sprzedaż: 102,9 mln USD; W tym z planów 10b5-1: 100,9 mln USD; Zakupy na rynku: 0; Największa sprzedaż insiderów: Fortinet (FTNT) 21,3 mln USD; druga: Walmart (WMT) 20,9 mln USD; Suma netto insiderów, 90 dni: ADI: −14,1 mln USD (zakupy 0, sprzedaż 14,1 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ADP: −6,5 mln USD (zakupy 0, sprzedaż 6,5 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: FTNT: −21,3 mln USD (zakupy 0, sprzedaż 21,3 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: LRCX: −7,3 mln USD (zakupy 0, sprzedaż 7,3 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: MDLZ: −8,5 mln USD (zakupy 0, sprzedaż 8,5 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: MRVL: −7,4 mln USD (zakupy 0, sprzedaż 7,4 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: PANW: −17,7 mln USD (zakupy 0, sprzedaż 17,7 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: REGN: −6,2 mln USD (zakupy 0, sprzedaż 6,2 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: RKLB: −17,9 mln USD (zakupy 0, sprzedaż 17,9 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ROP: −8,8 mln USD (zakupy 0, sprzedaż 8,8 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: SNDK: −1,7 mln USD (zakupy 0, sprzedaż 1,7 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: STX: −48,0 mln USD (zakupy 0, sprzedaż 48,0 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: TER: −1,9 mln USD (zakupy 0, sprzedaż 1,9 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: TMUS: −17 tys. USD (zakupy 0, sprzedaż 17 tys. USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: WMT: −23,8 mln USD (zakupy 0, sprzedaż 23,8 mln USD; okres 6.08–3.11; dane w archiwum od 28.09)).
 

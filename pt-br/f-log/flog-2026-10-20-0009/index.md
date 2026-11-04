@@ -7,6 +7,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **As frases sobre documentos das empresas não indicavam de qual empresa se tratava.**
+>
+> **Correção:**
+> - Acrescentamos os nomes e os tickers das empresas no início dessas frases.
+>
+> Os números e as datas não mudam.
+
 Tesla (TSLA) protocolou um documento referente à procuração para a assembleia geral.
 
 Insiders venderam ações em 19.10 no valor de 24,3 mi USD, incluindo 23,7 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi reportada por insiders da Advanced Micro Devices (AMD): 9,3 mi USD. A maior venda foi reportada por insiders da CrowdStrike (CRWD): 7,0 mi USD.
@@ -17,5 +25,5 @@ O Presidente e Diretor Geral da empresa CrowdStrike (CRWD) vendeu 20 000 ações
 
 Também foram reportadas outras 16 transações.
 
-proxy DEF 14A (Documento: DEF 14A; Data de protocolo (horário EUA): 19.10).
+Tesla (TSLA): proxy DEF 14A (Documento: DEF 14A; Data de protocolo (horário EUA): 19.10).
 

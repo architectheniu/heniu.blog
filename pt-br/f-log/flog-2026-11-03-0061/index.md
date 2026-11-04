@@ -7,6 +7,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-04)**  
+> **As frases sobre documentos das empresas não indicavam de qual empresa se tratava.**
+>
+> **Correção:**
+> - Acrescentamos os nomes e os tickers das empresas no início dessas frases.
+>
+> Os números e as datas não mudam.
+
 Lumentum (LITE) celebrou um contrato importante, destituiu o CEO e apresentou um relatório de divulgação de informações.
 
 Marvell Technology (MRVL) celebrou um contrato importante.
@@ -27,7 +35,7 @@ Insiders venderam ações em 2.11 por 13,8 mi USD, incluindo 13,8 mi USD de plan
 
 8-K: 5.02 mudanças na diretoria/conselho, 7.01 Reg FD (Documento: 8-K 5.02,7.01,9.01; Data de submissão (hora EUA): 2.11; Conteúdo 8-K 5.02 (mudança na diretoria ou conselho): cargo: membro do conselho de administração; tipo de mudança: nomeação; data: 1.01.2027; pessoas: Aaron Martin; sucessor: não aplicável (nomeação); citação (EN): „On October 29, 2026, the Board of Directors (the “Board”) of Intuitive Surgical, Inc. (the “Company”) approved an increase in the size of the Board from ten to eleven members and appointed Aaron Martin to fill the resulting vacancy, effective as of January 1, 2027.”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1035267/000103526726000074/0001035267-26-000074-index.htm).
 
-formulário 424B5 (Documento: 424B5; Data de submissão (hora EUA): 2.11).
+Alphabet (GOOGL): formulário 424B5 (Documento: 424B5; Data de submissão (hora EUA): 2.11).
 
-prospecto de emissão 424B2 (Documento: 424B2; Data de submissão (hora EUA): 2.11).
+Microsoft (MSFT): prospecto de emissão 424B2 (Documento: 424B2; Data de submissão (hora EUA): 2.11).
 
