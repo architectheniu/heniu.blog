@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 02:07
+Data: 2026-11-04 03:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.04</h1>
+<h3>📈 [2026-11-04 03:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ, które notowane są po cenie 27929.50 (-1.33%), co wskazuje na testowanie podaży przy skumulowanym przepływie CVD na poziomie -8,47 K.</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi -45, co oznacza wyraźną przewagę dystrybucji kapitału i negatywny sentyment rynkowy.</li>
+<li>Biorąc pod uwagę zamknięcie sesji kasowej, indeks NDX zamknął się na poziomie 28177.55 (+0.68%), jednak skumulowany przepływ CVD dla indeksu wyniósł -67,89 M, co przy jednoczesnym wzroście ceny wskazuje na proces załamania rynku i presję sprzedażową.</li>
+<li>Rynek opcji QQQ przy wolumenie 7,422,868 wskazuje na Put/Call Ratio na poziomie 1.12, co sugeruje przewagę pozycji zabezpieczających (hedgingu) lub oczekiwania na spadki. Zmienność implikowana (IV) wynosi 27.63%, a oczekiwany zasięg ruchu mieści się w przedziale 670.14 do 700.42 punktów.</li>
+<li>Obecna korekta od szczytu z dnia 28.10 (29847.38) wynosi -5.59% (-1670 pkt). Jest to korekta o charakterze większym niż mediana historycznych ruchów, co pozycjonuje obecne spadki w górnym percentylu statystycznym.</li>
+<li>Kluczowe poziomy techniczne: najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 28170–28190. Opór znajduje się powyżej aktualnej ceny, w strefie 28230–28250.</li>
+</ul>
+<p>Raport H-Log: 2026-11-04 03:07</p>
 <h3>📈 [2026-11-04 02:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
