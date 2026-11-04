@@ -1,6 +1,6 @@
 # M15: 2026-11-04
 
-Data: 2026-11-04 20:29
+Data: 2026-11-04 20:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.04</h1>
+<h3>⏱️ [2026-11-04 20:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28496.27</strong> (+1.12%; od poprzedniego wpisu -24.37 pkt) · NQ <strong>28626.50</strong> (+1.13%; -27.50 pkt) · QQQ <strong>693.15 USD</strong> (+1.15%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>116.37 M</strong> [euforia] · CVD NQ <strong>5.84 K</strong> [test popytu] (od poprzedniego wpisu -2.81 K) · CVD QQQ <strong>771.54 K</strong> [test popytu] · TICKQ <strong>-220</strong> [załamanie rynku] · średnia SMA200 <strong>14.03</strong> [test popytu] (+0.44) · wskaźnik kierunku <strong>27</strong> (skala ±100; -8)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>40.77 bln USD</strong> (od poprzedniego wpisu -0.02 bln USD) · udział spółek powyżej 1 bln USD <strong>69.2%</strong> (+0.0 pp) · średnia cena akcji <strong>294.91 USD</strong> (-0.44 USD) · opcje QQQ: zmienność implikowana <strong>22.68%</strong>, put/call <strong>1.08</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>28230–28250</strong> (0.86% niżej) · najbliższa powyżej ceny <strong>28940–28960</strong> (1.56% wyżej)</li>
+</ul>
+<p>Obecnie najbliższe wsparcie znajduje się poniżej aktualnego poziomu, natomiast opór jest zlokalizowany powyżej.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 20:31 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-04 20:29] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28520.64</strong> (+1.21%; od poprzedniego wpisu -35.16 pkt) · NQ <strong>28654.00</strong> (+1.23%; -32.25 pkt) · QQQ <strong>693.82 USD</strong> (+1.25%)</li>
