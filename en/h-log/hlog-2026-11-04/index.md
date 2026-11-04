@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Date: 2026-11-04 05:08
+Date: 2026-11-04 06:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-04/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.04 [EN]</h1>
+<h3>📈 [2026-11-04 06:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of the NQ futures contract and data from the regular session close.</li>
+<li><strong>NQ contract situation:</strong> the NQ futures contract price is 28002.25 (-1.07%), which, with cumulative flow (CVD) at -8.14K, indicates a supply test. The aggregate direction gauge of flows is -45, confirming the dominance of capital distribution in the current environment.</li>
+<li><strong>NDX index context:</strong> Since the peak on 28.10 (28177.55), the index has recorded a correction of -5.59% (-1670 pts). The current scale of declines classifies this move as a major correction (above the median and 80th percentile of historical corrections).</li>
+<li><strong>Technical levels:</strong> The nearest resistance zone (volume node) is located in the 28230–28250 range. The current price is in the 28170–28190 support zone, where 1.9% of volume is concentrated.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 27.63%, and the Put/Call Volume Ratio at 1.12 suggests increased activity in the hedging area or increased interest in put options. The expected move range is between 670.14 and 700.42 with a volume of 7,422,868.</li>
+</ul>
+<p>H-Log Report: 2026-11-04 06:07</p>
 <h3>📈 [2026-11-04 05:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
