@@ -1,6 +1,6 @@
 # M15: 2026-11-04
 
-Data: 2026-11-04 15:29
+Data: 2026-11-04 15:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.04</h1>
+<h3>⏱️ [2026-11-04 15:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28651.34</strong> (+1.68%) · NQ <strong>28781.25</strong> (+1.68%; od poprzedniego wpisu +358.50 pkt) · QQQ <strong>696.98 USD</strong> (+1.71%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>181.29 M</strong> [euforia] · CVD NQ <strong>36.83 K</strong> [akumulacja] (od poprzedniego wpisu +29.57 K) · CVD QQQ <strong>1.9 M</strong> [akumulacja] · TICKQ <strong>446</strong> [wystrzał rynku] · średnia SMA200 <strong>4.88</strong> [test popytu] · wskaźnik kierunku <strong>50</strong> (skala ±100; +70)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>40.80 bln USD</strong> · udział spółek powyżej 1 bln USD <strong>68.9%</strong> · średnia cena akcji <strong>297.70 USD</strong> · opcje QQQ: zmienność implikowana <strong>25.48%</strong>, put/call <strong>1.56</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>28230–28250</strong> (1.40% niżej) · najbliższa powyżej ceny <strong>28940–28960</strong> (1.01% wyżej)</li>
+</ul>
+<p>Cena kontraktu NQ wzrosła, co jest powiązane ze zwiększeniem wartości CVD. W trakcie sesji odnotowano alarmy nagłych przepływów w dół, jednak obecny ruch odbywa się w stronę najbliższego oporu.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:33 nagły przepływ NQ w dół; zapłon przepływu NQ; 15:39 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-04 15:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>28422.75</strong> (+0.42%; od poprzedniego wpisu +15.50 pkt, +0.05%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>163.47%</strong></li>
