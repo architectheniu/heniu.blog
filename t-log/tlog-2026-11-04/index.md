@@ -1,6 +1,6 @@
 # M15: 2026-11-04
 
-Data: 2026-11-04 17:29
+Data: 2026-11-04 17:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.04</h1>
+<h3>⏱️ [2026-11-04 17:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28534.68</strong> (+1.26%; od poprzedniego wpisu +144.71 pkt) · NQ <strong>28671.50</strong> (+1.30%; +143.50 pkt) · QQQ <strong>694.19 USD</strong> (+1.31%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>151.83 M</strong> [euforia] · CVD NQ <strong>10.66 K</strong> [akumulacja] (od poprzedniego wpisu +19.73 K) · CVD QQQ <strong>22.77 K</strong> [test popytu] · TICKQ <strong>477</strong> [wystrzał rynku] · średnia SMA200 <strong>2.94</strong> [test popytu] (+1.81) · wskaźnik kierunku <strong>25</strong> (skala ±100; +3)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>40.73 bln USD</strong> (od poprzedniego wpisu +0.18 bln USD) · udział spółek powyżej 1 bln USD <strong>69.2%</strong> (+0.1 pp) · średnia cena akcji <strong>295.59 USD</strong> (+1.73 USD) · opcje QQQ: zmienność implikowana <strong>23.99%</strong>, put/call <strong>0.96</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>28230–28250</strong> (1.00% niżej) · najbliższa powyżej ceny <strong>28940–28960</strong> (1.42% wyżej)</li>
+</ul>
+<p>Wzrosty na NQ są wspierane przez rosnący przepływ CVD, co potwierdza akumulację. Wskaźnik TICKQ oraz CVD dla NDX wskazują na silną aktywność kupujących, a cena znajduje się obecnie powyżej najbliższego wsparcia i poniżej oporu.</p>
 <h3>⏱️ [2026-11-04 17:29] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28389.97</strong> (+0.74%; od poprzedniego wpisu -114.56 pkt) · NQ <strong>28528.00</strong> (+0.78%; -109.00 pkt) · QQQ <strong>690.73 USD</strong> (+0.79%)</li>
