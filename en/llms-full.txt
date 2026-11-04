@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0071: Keurig Dr Pepper: 3Q2026 results
+
+Date: 2026-11-04 13:40
+URL: https://heniu.blog/en/f-log/flog-2026-11-04-0071/
+
+
+Keurig Dr Pepper (KDP) revenue increased in Q3 by 70.5% year over year to 7.34 billion USD, and earnings per share (GAAP, diluted) increased by 22.4% year over year to 0.60 USD.
+
+### Quarterly results
+
+Operating income was 1.33 billion USD (+34.0% year over year) with net income at 952.00 million USD (+43.8% year over year).
+
+### Company guidance
+
+For 2026, the company expects revenue in the range of 25.90 billion USD – 26.40 billion USD.
+
+### Management commentary
+
+Management emphasized that price reductions and promotions in the single-serve coffee segment are appropriate steps for the business, even though they weigh on some of the profit in the short term. According to management, weaker demand for pods and a larger share of private labels are transitional and cyclical phenomena that may last longer. Management noted that work on the company split is proceeding according to schedule. According to management, the company is optimistic about the energy drink market and highly values its position in this sector.
+
+
+---
+
 ## Fundamentals #0070: Amgen: 3Q2026 results
 
 Date: 2026-11-04 11:58
@@ -924,24 +947,5 @@ The company expects free cash flows at a level of 3.00 billion USD.
 ### What management says
 
 Management emphasized that consumer confidence in emerging markets remains resilient, and chocolate sales in Brazil are starting to rebound in terms of volume. According to management, the new promotion tactics in North America are yielding good results, and despite the weaker situation in China, the company views this market positively. Management indicated that surpluses will be reinvested in emerging markets and product innovations, and costs related to the war in the Middle East are included in the current guidance. According to management, cocoa inventories are at an appropriate level, allowing for the coverage of potential shortages, and regarding development, the company is not looking for large acquisitions, but rather targeted smaller purchases to fill regional and product gaps.
-
-
----
-
-## Fundamentals #0045: Gilead Sciences: 3Q2026 results
-
-Date: 2026-10-30 00:17
-URL: https://heniu.blog/en/f-log/flog-2026-10-29-0045/
-
-
-Gilead Sciences (GILD) revenue in the third quarter was 8.30 billion USD (+6.8% y/y), while earnings per share (GAAP) fell by 20.2% y/y to 1.94 USD.
-
-### Quarterly results
-
-Earnings per share (GAAP, basic) was 1.96 USD (−20.3% y/y), while adjusted earnings per share increased by 3.2% y/y to 2.55 USD. Operating income reached 3.46 billion USD (+4.1% y/y), with an operating margin at 41.7% (−1.1 pp y/y).
-
-### Management commentary
-
-According to management, the HIV segment benefited from favorable pricing in certain channels and demand, and Biktarvy's market share continues to grow. Management emphasized that the company is focused on growth in the areas of oncology and inflammatory diseases. According to management, weekly oral HIV prevention is intended to reach individuals who prefer long-acting medications instead of injections. Management indicated that the way drug pricing is established under the IRA act may threaten investments in new products next year. According to management, the impact of new prices primarily concerns the Medicare program and manifests as a spillover effect to other sales channels. Management expressed satisfaction that the company absorbed the costs of newly acquired programs this year and intends to continue this process in the following years.
 
 

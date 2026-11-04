@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0071: Keurig Dr Pepper: wyniki za 3Q2026
+
+Data: 2026-11-04 13:40
+Adres: https://heniu.blog/f-log/flog-2026-11-04-0071/
+
+
+Przychody Keurig Dr Pepper (KDP) wzrosły w III kwartale o 70,5% r/r do 7,34 mld USD, a zysk na akcję (księgowy, podstawowy) zwiększył się o 22,4% r/r do 0,60 USD.
+
+### Wyniki kwartału
+
+Zysk operacyjny wyniósł 1,33 mld USD (+34,0% r/r) przy zysku netto na poziomie 952,00 mln USD (+43,8% r/r).
+
+### Prognoza spółki
+
+Na rok 2026 spółka spodziewa się przychodów w przedziale 25,90 mld USD – 26,40 mld USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że obniżki cen oraz promocje w segmencie kawy w kapsułkach są właściwymi krokami dla biznesu, mimo że w krótkim terminie obciążają część zysku. Według zarządu słabszy popyt na kapsułki oraz większy udział marek własnych sklepów to zjawiska przejściowe i cykliczne, które mogą potrwać dłużej. Zarząd zaznaczył, że prace nad podziałem spółki przebiegają zgodnie z harmonogramem. Według zarządu spółka jest optymistycznie nastawiona do rynku napojów energetycznych i bardzo dobrze ocenia swoją pozycję w tym sektorze.
+
+
+---
+
 ## Fundamenty #0070: Amgen: wyniki za 3Q2026
 
 Data: 2026-11-04 11:57
@@ -924,24 +947,5 @@ Spółka spodziewa się wolnych przepływów pieniężnych na poziomie 3,00 mld 
 ### Co mówi zarząd
 
 Zarząd podkreślał, że zaufanie konsumentów na rynkach wschodzących pozostaje odporne, a sprzedaż czekolady w Brazylii zaczyna odbijać pod względem wolumenu. Według zarządu nowa taktyka promocji w Ameryce Północnej przynosi dobre efekty, a mimo słabszej sytuacji w Chinach, spółka patrzy na ten rynek pozytywnie. Zarząd wskazywał, że nadwyżki będą reinwestowane w rynki wschodzące oraz nowości produktowe, a koszty związane z wojną na Bliskim Wschodzie są uwzględnione w obecnej prognozie. Według zarządu zapasy kakao są na odpowiednim poziomie, co pozwala pokryć ewentualne niedobory, a w zakresie rozwoju spółka nie szuka dużych przejęć, lecz celowanych mniejszych zakupów uzupełniających luki regionalne i produktowe.
-
-
----
-
-## Fundamenty #0045: Gilead Sciences: wyniki za 3Q2026
-
-Data: 2026-10-30 00:17
-Adres: https://heniu.blog/f-log/flog-2026-10-29-0045/
-
-
-Przychody Gilead Sciences (GILD) w trzecim kwartale wyniosły 8,30 mld USD (+6,8% r/r), natomiast zysk na akcję (księgowy) spadł o 20,2% r/r do poziomu 1,94 USD.
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) wyniósł 1,96 USD (−20,3% r/r), podczas gdy skorygowany zysk na akcję wzrósł o 3,2% r/r do 2,55 USD. Zysk operacyjny osiągnął 3,46 mld USD (+4,1% r/r), przy marży operacyjnej na poziomie 41,7% (−1,1 pp r/r).
-
-### Co mówi zarząd
-
-Według zarządu w segmencie HIV sprzyjały korzystne ceny w niektórych kanałach oraz popyt, a udział leku Biktarvy w rynku nadal rośnie. Zarząd podkreślał, że spółce zależy na rozwoju w obszarach onkologii oraz chorób zapalnych. Według zarządu cotygodniowa doustna profilaktyka HIV ma trafić do osób preferujących leki o dłuższym działaniu zamiast zastrzyków. Zarząd wskazał, że sposób ustalania cen leków w ramach ustawy IRA może w przyszłym roku zagrozić inwestycjom w nowe produkty. Według zarządu wpływ nowych cen dotyczy głównie programu Medicare oraz objawia się efektem przeniesienia na inne kanały sprzedaży. Zarząd wyraził zadowolenie z faktu, że spółka w tym roku wchłonęła koszty nowo przejętych programów, i zamierza kontynuować ten proces w kolejnych latach.
 
 

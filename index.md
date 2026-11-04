@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0071: Keurig Dr Pepper: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0071/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [H1: 2026-11-04](https://heniu.blog/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamenty #0070: Amgen: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0070/index.md) (2026-11-04)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0039: Cadence Design Systems: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0039/index.md) (2026-10-29)
 - [Fundamenty #0038: T-Mobile US: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0038/index.md) (2026-10-29)
 - [Fundamenty #0037: KLA: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-29-0037/index.md) (2026-10-29)
-- [Fundamenty #0036: Honeywell Aerospace: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0036/index.md) (2026-10-29)
 
