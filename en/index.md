@@ -6,9 +6,9 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [H1: 2026-11-04](https://heniu.blog/en/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/en/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamentals #0065: Booking: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0065/index.md) (2026-11-04)
-- [H1: 2026-11-04](https://heniu.blog/en/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamentals #0064: Advanced Micro Devices: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0064/index.md) (2026-11-04)
 - [Fundamentals #0063: Apple: 4Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-03-0063/index.md) (2026-11-03)
 - [H1: 2026-11-03](https://heniu.blog/en/h-log/hlog-2026-11-03/index.md) (2026-11-03)
