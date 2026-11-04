@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0073: Datadog: wyniki za 3Q2026
+
+Data: 2026-11-04 16:39
+Adres: https://heniu.blog/f-log/flog-2026-11-04-0073/
+
+
+Przychody Datadog (DDOG) w trzecim kwartale wyniosły 1,20 mld USD (+35,2% r/r), a zysk na akcję (skorygowany) osiągnął poziom 0,81 USD (+47,3% r/r).
+
+### Wyniki kwartału
+
+Zysk na akcję (księgowy) wyniósł 0,32 USD (+220,0% r/r), natomiast zysk na akcję (księgowy, podstawowy) ukształtował się na poziomie 0,33 USD (+230,0% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów w IV kwartale 2026 na poziomie 1,19 mld USD – 1,20 mld USD, a za cały rok 2026 w przedziale 4,515 mld USD – 4,525 mld USD. W IV kwartale 2026 zysk operacyjny skorygowany (non-GAAP) ma wynieść 280,00 mln USD – 290,00 mln USD, a zysk na akcję skorygowany (non-GAAP) w przedziale 0,69–0,71 USD, przy prognozie na cały rok 2026 wynoszącej 2,73–2,75 USD na akcję.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że wcześniejsze odnowienia umów przez dużych klientów są pozytywnym zjawiskiem, choć w krótkim terminie hamują one przychody. Według zarządu klienci spoza branży AI również wdrażają rozwiązania oparte na sztucznej inteligencji, co przekłada się na większe zużycie chmury i zapowiada długi okres wzrostu. Zarząd wskazał, że grupa klientów z branży AI będzie się poszerzać, co w przyszłości zapewni stabilniejsze wyniki. Według zarządu wcześniejsze odnowienia umów wynikają z szybkiego wzrostu firm tych klientów, a nie z cięcia kosztów. Zarząd zaznaczył również, że asystent Bits AI to najlepiej przyjęty debiut produktu w historii spółki. Według zarządu klienci odnawiający umowy wcześniej zobowiązują się do wyższych wydatków, w zamian za co otrzymują rabaty za większy wolumen.
+
+
+---
+
 ## Fundamenty #0072: Shopify: wyniki za 3Q2026
 
 Data: 2026-11-04 13:41
@@ -924,24 +947,5 @@ Insiderzy 29.10 sprzedali akcje za 10,7 mln USD, w tym 6,2 mln USD z planów 10b
 8-K: 1.01 istotna umowa, 7.01 Reg FD, 8.01 inne zdarzenia (Dokument: 8-K 1.01,7.01,8.01,9.01; Data złożenia (czas USA): 29.10; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On October 28, 2026, DoorDash, Inc., a Nevada corporation (“ DoorDash ” or the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Maplebear Inc., a Delaware corporation (“ Instacart ”), and Ibiza Merger Sub, Inc., a Delaware corporation and wholly owned subsidiary of DoorDash…”; Treść 8-K 8.01 (inne zdarzenie): cytat (EN): „On October 28, 2026, in connection with the entry into the Merger Agreement, DoorDash entered into a commitment letter (the “ Commitment Letter ”) with JPMorgan Chase Bank, N.A. (“ JPMorgan ”), pursuant to which JPMorgan committed to provide a 364-day senior unsecured bridge term loan facility (the “ Bridge Facility…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1792789/000114036126041111/0001140361-26-041111-index.htm).
 
 prospekt emisji 424B2 (Dokument: 424B2; Data złożenia (czas USA): 29.10).
-
-
----
-
-## Fundamenty #0047: Monolithic Power Systems: wyniki za 3Q2026
-
-Data: 2026-10-30 00:23
-Adres: https://heniu.blog/f-log/flog-2026-10-29-0047/
-
-
-Przychody Monolithic Power Systems (MPWR) w III kwartale wyniosły 1,20 mld USD (+63,1% r/r), a zysk na akcję (skorygowany) osiągnął poziom 8,19 USD (+73,2% r/r).
-
-### Wyniki kwartału
-
-Marża brutto wyniosła 55,4% (0,3 pp r/r), natomiast zysk operacyjny ukształtował się na poziomie 357,69 mln USD (+83,3% r/r). Zysk na akcję (księgowy) wyniósł 5,51 USD (+47,3% r/r), a zysk na akcję (księgowy, podstawowy) osiągnął 5,53 USD (+47,5% r/r).
-
-### Co mówi zarząd
-
-Zarząd ocenia czynniki wzrostu bardzo dobrze, choć wskazuje, że na prognozę na przyszły rok jest jeszcze za wcześnie. Według zarządu sprzedaż do notebooków jest słabsza przez braki pamięci u producentów, jednak w długim terminie rynek ten jest oceniany optymistycznie dzięki technologii i udziałom w rynku. Zarząd podkreślał, że przy obecnym tempie wzrostu koszty operacyjne wypadną poniżej modelu spółki ze względu na efektywność badań i rozwoju. Według zarządu zwiększenie mocy produkcyjnych nie powinno wymagać dużego wzrostu nakładów inwestycyjnych ani zmiany struktury kapitału. Zarząd zaznaczył również, że spółka nie podnosi cen, lecz część wzrostu kosztów dzieli z klientami.
 
 
