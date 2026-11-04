@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0066: Thomson Reuters: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0066/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [H1: 2026-11-04](https://heniu.blog/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamenty #0065: Booking: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0065/index.md) (2026-11-04)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0034: Alphabet: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0034/index.md) (2026-10-29)
 - [Fundamenty #0033: Microsoft: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-29-0033/index.md) (2026-10-29)
 - [M15: 2026-10-28](https://heniu.blog/t-log/tlog-2026-10-28/index.md) (2026-10-28)
-- [H1: 2026-10-28](https://heniu.blog/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 

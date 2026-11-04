@@ -1,0 +1,23 @@
+# Fundamentals #0066: Thomson Reuters: 3Q2026 results
+
+Date: 2026-11-04 02:33
+URL: https://heniu.blog/en/f-log/flog-2026-11-04-0066/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Thomson Reuters (TRI) revenue grew by 10.6% year over year in the third quarter to 1.83 billion USD, while reported earnings per share fell by 17.0% year over year to 0.78 USD.
+
+### Quarterly results
+
+Adjusted earnings per share grew by 14.1% year over year to a level of 0.81 USD.
+
+### Company guidance
+
+The company expects revenue growth in 2026 at a level of 9.5% – 10.0%, with organic revenue growth in the same period expected to be 9.5% – 10.0%. In the fourth quarter of 2026, revenue growth is expected to be approximately 8.0%, while in the second scenario, organic revenue growth in the fourth quarter of 2026 is expected to be approximately 42.0%.
+
+### What management says
+
+Management emphasized growing optimism regarding the new CoCounsel Legal tool. According to management, shifting the most burdensome tasks from external AI models to Thomson's own model has allowed for greater speed, accuracy, and cost advantage. Management indicated that cooperation with the Skadden law firm is expected to bring attractive revenue, although the company has not yet estimated it. According to management, the company is consciously increasing investments in new AI tools to accelerate revenue growth next year, and details on this matter will be provided in subsequent quarters. Management noted that the business model based primarily on licensing agreements provides predictability of costs for clients. According to management, the closing of the Weil Gotshal law firm will not have a significant impact on the company's business.
+

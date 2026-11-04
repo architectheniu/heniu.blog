@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0066: Thomson Reuters: wyniki za 3Q2026
+
+Data: 2026-11-04 02:33
+Adres: https://heniu.blog/f-log/flog-2026-11-04-0066/
+
+
+Przychody Thomson Reuters (TRI) wzrosły w III kwartale o 10,6% r/r do 1,83 mld USD, przy jednoczesnym spadku księgowego zysku na akcję o 17,0% r/r do 0,78 USD.
+
+### Wyniki kwartału
+
+Skorygowany zysk na akcję wzrósł o 14,1% r/r do poziomu 0,81 USD.
+
+### Prognoza spółki
+
+Spółka spodziewa się wzrostu przychodów w roku 2026 na poziomie 9,5% – 10,0%, przy czym wzrost przychodów organicznych w tym samym okresie ma wynieść 9,5% – 10,0%. W IV kwartale 2026 wzrost przychodów ma wynieść ok. 8,0%, natomiast w drugim wariancie wzrost przychodów organicznych w IV kwartale 2026 ma wynieść ok. 42,0%.
+
+### Co mówi zarząd
+
+Zarząd podkreślał rosnący optymizm wobec nowego narzędzia CoCounsel Legal. Według zarządu przeniesienie najbardziej obciążających zadań z zewnętrznych modeli AI na własny model Thomson pozwoliło uzyskać większą szybkość, dokładność oraz przewagę kosztową. Zarząd wskazywał, że współpraca z kancelarią Skadden ma przynieść atrakcyjne przychody, choć spółka ich jeszcze nie oszacowała. Według zarządu spółka świadomie zwiększa inwestycje w nowe narzędzia AI, aby w przyszłym roku przyspieszyć wzrost przychodów, a szczegóły na ten temat zostaną podane w kolejnych kwartałach. Zarząd zaznaczał, że model biznesowy oparty głównie na umowach licencyjnych zapewnia klientom przewidywalność kosztów. Według zarządu zamknięcie kancelarii Weil Gotshal nie będzie miało istotnego wpływu na biznes spółki.
+
+
+---
+
 ## Fundamenty #0065: Booking: wyniki za 3Q2026
 
 Data: 2026-11-04 01:22
@@ -940,28 +963,5 @@ Spółka spodziewa się zysku na akcję w przedziale 4,10 USD – 4,16 USD, 4,48
 ### Co mówi zarząd
 
 Zarząd podkreślał, że prowadzi zaawansowane negocjacje umowy na dostawy energii z dużym odbiorcą, wskazując na największe szanse w regionach Środkowego Zachodu oraz Teksasu i Nowego Meksyku. Według zarządu wszystkie inwestycje służą klientom poprzez skupienie na bezpieczeństwie, niezawodności i obsłudze rosnącego zapotrzebowania na prąd. Zarząd zaznaczył, że chce utrzymać silny bilans, przy czym w późniejszych latach planu ma liczyć na większą swobodę finansową. Według zarządu centra danych powinny samodzielnie finansować budowane dla nich urządzenia, a spółka nie przyłączy takich obiektów, które nie przyniosą korzyści pozostałym klientom. Zarząd wskazał również, że firmy naftowe coraz częściej przechodzą na zasilanie elektryczne, co napędza sprzedaż prądu w regionie Teksasu i Nowego Meksyku. Według zarządu elektrownie gazowe o cyklu kombinowanym mogą zacząć się opłacać w przyszłości.
-
-
----
-
-## Fundamenty #0041: DoorDash: wyniki za 3Q2026
-
-Data: 2026-10-29 15:39
-Adres: https://heniu.blog/f-log/flog-2026-10-29-0041/
-
-
-Przychody DoorDash (DASH) w trzecim kwartale wyniosły 4,62 mld USD (34,0% r/r), a zysk netto wzrósł o 91,0% r/r do poziomu 466,00 mln USD.
-
-### Wyniki kwartału
-
-Marża brutto osiągnęła 50,1% (1,1 pp r/r), natomiast zysk na akcję (księgowy) wyniósł 1,06 USD (92,7% r/r), przy zysku na akcję (księgowym, podstawowym) na poziomie 1,07 USD (87,7% r/r).
-
-### Prognoza spółki
-
-Spółka spodziewa się wolnych przepływów pieniężnych w przedziale 700,00 mln USD – 800,00 mln USD.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że podstawowy biznes radzi sobie bardzo dobrze, a wzrost wynika z przybywania użytkowników oraz subskrypcji. Według zarządu połączenie obu platform ma przyspieszyć wzrost i zwiększyć zysk, przy czym część zysku ma być reinwestowana w lepszy produkt. Zarząd wskazał również, że budowa wspólnej platformy technologicznej ma ułatwić i przyspieszyć przyszłe integracje przejętych firm. Według zarządu podejście do skupu akcji pozostaje bez zmian i spółka zamierza kupować je okazjonalnie, gdy przynosi to dobry zwrot.
 
 

@@ -1,0 +1,23 @@
+# Fundamentos #0066: Thomson Reuters: resultados do 3Q2026
+
+Data: 2026-11-04 02:33
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-04-0066/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+A receita da Thomson Reuters (TRI) aumentou no terceiro trimestre em 10,6% ano a ano para 1,83 bi USD, com uma queda simultânea no lucro por ação contábil de 17,0% ano a ano para 0,78 USD.
+
+### Resultados do trimestre
+
+O lucro por ação ajustado aumentou 14,1% ano a ano para o nível de 0,81 USD.
+
+### Projeção da empresa
+
+A empresa espera um crescimento da receita em 2026 no nível de 9,5% – 10,0%, sendo que o crescimento da receita orgânica no mesmo período deve ser de 9,5% – 10,0%. No quarto trimestre de 2026, o crescimento da receita deve ser de cerca de 8,0%, enquanto na segunda variante, o crescimento da receita orgânica no quarto trimestre de 2026 deve ser de cerca de 42,0%.
+
+### O que diz a diretoria
+
+A diretoria enfatizou o otimismo crescente em relação à nova ferramenta CoCounsel Legal. Segundo a diretoria, a transferência das tarefas mais onerosas de modelos externos de IA para o modelo próprio da Thomson permitiu obter maior velocidade, precisão e vantagem de custo. A diretoria indicou que a colaboração com o escritório Skadden deve trazer receitas atraentes, embora a empresa ainda não as tenha estimado. Segundo a diretoria, a empresa está aumentando conscientemente os investimentos em novas ferramentas de IA para acelerar o crescimento da receita no próximo ano, e os detalhes sobre isso serão fornecidos nos próximos trimestres. A diretoria destacou que o modelo de negócios baseado principalmente em contratos de licenciamento garante previsibilidade de custos aos clientes. Segundo a diretoria, o fechamento do escritório Weil Gotshal não terá um impacto significativo nos negócios da empresa.
+

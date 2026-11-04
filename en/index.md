@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0066: Thomson Reuters: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0066/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/en/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [H1: 2026-11-04](https://heniu.blog/en/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamentals #0065: Booking: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0065/index.md) (2026-11-04)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0034: Alphabet: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0034/index.md) (2026-10-29)
 - [Fundamentals #0033: Microsoft: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-29-0033/index.md) (2026-10-29)
 - [M15: 2026-10-28](https://heniu.blog/en/t-log/tlog-2026-10-28/index.md) (2026-10-28)
-- [H1: 2026-10-28](https://heniu.blog/en/h-log/hlog-2026-10-28/index.md) (2026-10-28)
 
