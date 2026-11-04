@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0072: Shopify: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0072/index.md) (2026-11-04)
 - [Fundamentos #0071: Keurig Dr Pepper: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0071/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/pt-br/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [H1: 2026-11-04](https://heniu.blog/pt-br/h-log/hlog-2026-11-04/index.md) (2026-11-04)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0040: Notificações de empresas: T-Mobile US, Meta Platforms, Microsoft; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0040/index.md) (2026-10-29)
 - [Fundamentos #0039: Cadence Design Systems: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0039/index.md) (2026-10-29)
 - [Fundamentos #0038: T-Mobile US: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0038/index.md) (2026-10-29)
-- [Fundamentos #0037: KLA: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0037/index.md) (2026-10-29)
 

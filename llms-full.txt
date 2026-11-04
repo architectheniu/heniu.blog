@@ -7,6 +7,25 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0072: Shopify: wyniki za 3Q2026
+
+Data: 2026-11-04 13:41
+Adres: https://heniu.blog/f-log/flog-2026-11-04-0072/
+
+
+Przychody Shopify (SHOP) w III kwartale wyniosły 3,74 mld USD (+31,6% r/r), a zysk na akcję (księgowy) wzrósł o 80,0% r/r do poziomu 0,36 USD.
+
+### Wyniki kwartału
+
+Zysk operacyjny spółki osiągnął 568,00 mln USD (+65,6% r/r), podczas gdy zysk netto wyniósł 462,00 mln USD (+75,0% r/r).
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że osobisty agenci AI stanowią zupełnie nowy kanał sprzedaży, który pozwala sprzedawcom pozyskiwać nowych klientów. Według zarządu zakupy realizowane przez agentów AI są na wczesnym etapie, jednak tempo ich rozwoju jest wyraźnie mocne. Zarząd zaznaczył, że gdy klient trafia do sklepu za pośrednictwem agenta AI, zarobek spółki pozostaje taki sam jak przy innych sposobach dotarcia do klienta. Według zarządu mimo przesunięcia wydatków na marketing i infrastrukturę w czasie, nic zasadniczo nie zmieniło się w kosztach i rentowności spółki. Zarząd wskazał również, że zakup domeny shop.com jest deklaracją ambitniejszych planów wobec aplikacji Shop jako miejsca zakupów. Według zarządu sprzedaż w sklepach stacjonarnych nie stanowi osobnego biznesu, lecz opiera się na tej samej platformie, katalogu i relacjach z kupującymi.
+
+
+---
+
 ## Fundamenty #0071: Keurig Dr Pepper: wyniki za 3Q2026
 
 Data: 2026-11-04 13:40
@@ -924,28 +943,5 @@ Marża brutto wyniosła 55,4% (0,3 pp r/r), natomiast zysk operacyjny ukształto
 ### Co mówi zarząd
 
 Zarząd ocenia czynniki wzrostu bardzo dobrze, choć wskazuje, że na prognozę na przyszły rok jest jeszcze za wcześnie. Według zarządu sprzedaż do notebooków jest słabsza przez braki pamięci u producentów, jednak w długim terminie rynek ten jest oceniany optymistycznie dzięki technologii i udziałom w rynku. Zarząd podkreślał, że przy obecnym tempie wzrostu koszty operacyjne wypadną poniżej modelu spółki ze względu na efektywność badań i rozwoju. Według zarządu zwiększenie mocy produkcyjnych nie powinno wymagać dużego wzrostu nakładów inwestycyjnych ani zmiany struktury kapitału. Zarząd zaznaczył również, że spółka nie podnosi cen, lecz część wzrostu kosztów dzieli z klientami.
-
-
----
-
-## Fundamenty #0046: Mondelez International: wyniki za 3Q2026
-
-Data: 2026-10-30 00:20
-Adres: https://heniu.blog/f-log/flog-2026-10-29-0046/
-
-
-Przychody Mondelez International (MDLZ) w trzecim kwartale wyniosły 9,97 mld USD (+2,3% r/r), a zysk netto wzrósł o 75,3% r/r do poziomu 1,31 mld USD.
-
-### Wyniki kwartału
-
-Zysk operacyjny osiągnął 1,76 mld USD (+136,3% r/r), natomiast zysk na akcję (księgowy) oraz zysk na akcję (księgowy, podstawowy) wyniosły 1,02 USD (+79,0% r/r). Skorygowany zysk na akcję ukształtował się na poziomie 0,78 USD.
-
-### Prognoza spółki
-
-Spółka spodziewa się wolnych przepływów pieniężnych na poziomie 3,00 mld USD.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że zaufanie konsumentów na rynkach wschodzących pozostaje odporne, a sprzedaż czekolady w Brazylii zaczyna odbijać pod względem wolumenu. Według zarządu nowa taktyka promocji w Ameryce Północnej przynosi dobre efekty, a mimo słabszej sytuacji w Chinach, spółka patrzy na ten rynek pozytywnie. Zarząd wskazywał, że nadwyżki będą reinwestowane w rynki wschodzące oraz nowości produktowe, a koszty związane z wojną na Bliskim Wschodzie są uwzględnione w obecnej prognozie. Według zarządu zapasy kakao są na odpowiednim poziomie, co pozwala pokryć ewentualne niedobory, a w zakresie rozwoju spółka nie szuka dużych przejęć, lecz celowanych mniejszych zakupów uzupełniających luki regionalne i produktowe.
 
 
