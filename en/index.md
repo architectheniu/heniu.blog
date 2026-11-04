@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [H1: 2026-11-05](https://heniu.blog/en/h-log/hlog-2026-11-05/index.md) (2026-11-05)
 - [H1: 2026-11-04](https://heniu.blog/en/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/en/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [Log #0220: SESSION REPORT 2026-11-04: NDX 28438.26 (+0.91%)](https://heniu.blog/en/posts/log-0220/index.md) (2026-11-04)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Log #0215: Session summary 2026-10-29: NDX 29407.05 (-1.38%)](https://heniu.blog/en/posts/log-0215/index.md) (2026-10-29)
 - [Fundamentals #0042: Xcel Energy: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0042/index.md) (2026-10-29)
 - [Fundamentals #0041: DoorDash: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0041/index.md) (2026-10-29)
-- [Fundamentals #0040: Company filings: T-Mobile US, Meta Platforms, Microsoft; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-29-0040/index.md) (2026-10-29)
 
