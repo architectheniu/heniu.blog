@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-11-04](https://heniu.blog/pt-br/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/pt-br/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamentos #0064: Advanced Micro Devices: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0064/index.md) (2026-11-04)
-- [H1: 2026-11-04](https://heniu.blog/pt-br/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamentos #0063: Apple: resultados do 4Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-03-0063/index.md) (2026-11-03)
 - [H1: 2026-11-03](https://heniu.blog/pt-br/h-log/hlog-2026-11-03/index.md) (2026-11-03)
 - [M15: 2026-11-03](https://heniu.blog/pt-br/t-log/tlog-2026-11-03/index.md) (2026-11-03)

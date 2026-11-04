@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 00:08
+Data: 2026-11-04 01:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.04 [PT-BR]</h1>
+<h3>📈 [2026-11-04 01:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>A sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo negociados em 28368.25 (+0.23%), com o fluxo acumulado (CVD) em -160, o que indica um teste de oferta.</li>
+<li>O indicador de direção de fluxo agregado é -45, o que significa uma clara predominância de distribuição de capital no mercado.</li>
+<li>Os dados de opções sobre QQQ indicam um aumento nas expectativas de volatilidade (IV: 27.63%) e a dominância de posições vendidas (Put/Call Ratio: 1.12), o que sugere a construção de proteção (hedging) contra quedas adicionais. O alcance esperado de movimento dentro das opções é a faixa de 670.14 a 700.42 pontos.</li>
+<li>No contexto técnico, o preço encontra-se na zona de suporte 28170–28190 (1.9% de volume). A resistência significativa mais próxima encontra-se na zona 28230–28250 (1.0% de volume).</li>
+<li>O recuo atual desde o pico do dia 28.10 (29847.38) é de -5.59% (-1667 pts), o que classifica o movimento atual como uma correção maior em relação aos desvios históricos.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-04 01:07</p>
 <h3>📈 [2026-11-04 00:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
