@@ -1,6 +1,6 @@
 # H1: 2026-11-04
 
-Data: 2026-11-04 15:07
+Data: 2026-11-04 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-04/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.04</h1>
+<h3>📈 [2026-11-04 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX rośnie o 1,96% (28733,92), przy skumulowanym przepływie CVD na poziomie 180,64 M, co wskazuje na euforię w sektorze kasowym. Kontrakty NQ (+2,00% / 28871,50) oraz ETF QQQ (+2,01% / 699,07) wykazują silną akumulację kapitału. Zbiorczy wskaźnik kierunku przepływów wynosi 35, co potwierdza dodatni napływ środków do rynku.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi -18,00, co przy średniej SMA200 na poziomie 3,42 sugeruje obecność presji sprzedażowej w szerokim spektrum akcji Nasdaq, mimo wzrostów głównych indeksów.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 23,96%, a stosunek Put/Call Volume Ratio kształtuje się na poziomie 0,90 przy wolumenie 455,018. Dane te wskazują na relatywną równowagę między popytem na zabezpieczenia a pozycjami wzrostowymi, przy oczekiwanym przez rynek zasięgu ruchu w przedziale od 670,14 do 700,42 punktów.</li>
+<li><strong>Kontekst techniczny i poziomy:</strong> Trwająca korekta od szczytu z dnia 28.10 (29847,38) wynosi obecnie -3,73% (-1113 pkt). Jest to zwykłe cofnięcie, głębsze niż 38% historycznych korekt z analizowanego okresu. Najbliższy opór znajduje się w strefie węzła wolumenu 28940–28960, natomiast wsparcie zlokalizowane jest w strefie 28230–28250.</li>
+</ul>
+<p>Raport H-Log: 2026-11-04 16:07</p>
 <h3>📈 [2026-11-04 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
