@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0065: Booking: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0065/index.md) (2026-11-04)
 - [H1: 2026-11-04](https://heniu.blog/pt-br/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/pt-br/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [Fundamentos #0064: Advanced Micro Devices: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0064/index.md) (2026-11-04)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0033: Microsoft: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0033/index.md) (2026-10-29)
 - [M15: 2026-10-28](https://heniu.blog/pt-br/t-log/tlog-2026-10-28/index.md) (2026-10-29)
 - [H1: 2026-10-28](https://heniu.blog/pt-br/h-log/hlog-2026-10-28/index.md) (2026-10-28)
-- [Fundamentos #0032: Teradyne: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-28-0032/index.md) (2026-10-28)
 

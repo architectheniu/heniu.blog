@@ -1,0 +1,19 @@
+# Fundamentos #0065: Booking: resultados do 3Q2026
+
+Data: 2026-11-04 01:23
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-04-0065/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+A receita da Booking (BKNG) no terceiro trimestre foi de 8,89 bi USD (−1,3% ano a ano), enquanto o lucro por ação (contábil) cresceu 6,8% ano a ano para o nível de 3,61 USD.
+
+### Resultados do trimestre
+
+O lucro por ação (ajustado) atingiu 4,66 USD (+17,1% ano a ano), sendo que o lucro operacional foi de 3,42 bi USD (−1,9% ano a ano). O lucro líquido da empresa situou-se no nível de 2,72 bi USD (−1,1% ano a ano).
+
+### O que diz a administração
+
+A administração enfatizou que o tráfego gerado por ferramentas de IA é atualmente pequeno, mas a empresa está capturando a maior parte desse tráfego, o que, com a dinâmica atual, é uma fase inicial. De acordo com a administração, a colaboração com criadores de agentes de IA visa construir uma vantagem econômica por meio da diferenciação das fontes de tráfego. A administração observou que em algumas regiões, especialmente na Europa, regulamentações podem retardar a adoção de agentes de IA pessoais. Segundo a administração, hotéis pequenos e médios podem contar com o suporte da empresa, pois as taxas são cobradas apenas após a chegada do hóspede. A administração também afirmou que as reservas antecipadas para o próximo ano parecem saudáveis, o que dá à empresa confiança quanto às perspectivas.
+
