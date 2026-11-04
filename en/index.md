@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0069: Astera Labs: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0069/index.md) (2026-11-04)
 - [Fundamentals #0068: Palantir Technologies: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0068/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/en/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [H1: 2026-11-04](https://heniu.blog/en/h-log/hlog-2026-11-04/index.md) (2026-11-04)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0037: KLA: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-29-0037/index.md) (2026-10-29)
 - [Fundamentals #0036: Honeywell Aerospace: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0036/index.md) (2026-10-29)
 - [Fundamentals #0035: Fortinet: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0035/index.md) (2026-10-29)
-- [Fundamentals #0034: Alphabet: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0034/index.md) (2026-10-29)
 

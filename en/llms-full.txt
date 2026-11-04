@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0069: Astera Labs: 3Q2026 results
+
+Date: 2026-11-04 11:56
+URL: https://heniu.blog/en/f-log/flog-2026-11-04-0069/
+
+
+Astera Labs (ALAB) revenue increased by 153.7% year over year in Q3 to 584.90 million USD, and earnings per share (reported) increased by 98.0% year over year to 0.99 USD.
+
+### Quarterly results
+
+Earnings per share (reported, basic) was 1.05 USD, representing a 94.4% year over year increase compared to 0.54 USD the previous year.
+
+### Company guidance
+
+In Q4 2026, the company expects revenue in the range of 730.00 million USD – 750.00 million USD and earnings per share (GAAP) at the level of 1.13–1.17 USD. The company also forecasts gross margin at approximately 72.0% and adjusted earnings per share (non-GAAP) in the range of 1.62–1.66 USD.
+
+### Management commentary
+
+Management emphasized that the business model is generating increasing leverage, as operating costs are growing slower than revenue. According to management, Scorpio X switches are expected to continue recording growth thanks to new customers and platforms. Management indicated that Orion rack solutions are expected to improve margin through software sales and licensing fees. According to management, the transition to optical connectivity increases the company's chances, as it earns significantly more from it than from copper solutions. Management also noted that the new Orion rack is not dependent on a single accelerator supplier.
+
+
+---
+
 ## Fundamentals #0068: Palantir Technologies: 3Q2026 results
 
 Date: 2026-11-04 11:38
@@ -920,28 +943,5 @@ In the fourth quarter of 2026, the company expects revenue in the range of 15.00
 ### What management says
 
 Management expressed optimism regarding growth in the data center segment. According to management, the company may not generate positive free cash flows next year, as it views this period as an opportunity to invest in growth. Management indicated that capacity released by the weaker PC market can be allocated to data center wafers, however, substrate availability is also a constraint. According to management, the situation regarding memory availability next year is not optimistic. Management emphasized that external fab customers are expressing interest and are satisfied with the production yields, which the company is working intensively on. According to management, Panther Lake processor margins have clearly improved, although they have not yet reached the company-wide average.
-
-
----
-
-## Fundamentals #0043: Starbucks: 4Q2026 results
-
-Date: 2026-10-29 22:33
-URL: https://heniu.blog/en/f-log/flog-2026-10-29-0043/
-
-
-> ⚠️ **ERRATUM (2026-11-03)**  
-> **The post stated the wrong quarter.**
->
-> **Correction:**
-> - The results are for the fourth quarter of fiscal year 2026 (ended September 27, 2026), not the third quarter.
->
-> We corrected the title and the text; the figures stay the same.
-
-Starbucks (SBUX) revenue fell by 4.5% y/y in the fourth quarter of fiscal year 2026 to 9.14 billion USD, while net income increased by 408.8% y/y to 677.20 million USD.
-
-### Quarterly results
-
-Operating income was 991.80 million USD (+256.5% y/y), and earnings per share (GAAP) stood at 0.59 USD, with adjusted earnings per share of 0.80 USD. In the Company-operated coffeehouses segment, revenue fell by 5.5% y/y to 7.43 billion USD, whereas the Licensed coffeehouses segment saw an increase of 9.4% y/y to 1.20 billion USD, while the Other segment shrank by 16.0% y/y to 515.50 million USD.
 
 

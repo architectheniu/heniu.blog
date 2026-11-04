@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0069: Astera Labs: resultados do 3Q2026
+
+Data: 2026-11-04 11:56
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-04-0069/
+
+
+A receita da Astera Labs (ALAB) aumentou no III trimestre em 153,7% ano a ano para 584,90 mi USD, e o lucro por ação (contábil) aumentou em 98,0% ano a ano para 0,99 USD.
+
+### Resultados do trimestre
+
+O lucro por ação (contábil, básico) foi de 1,05 USD, o que representa um aumento de 94,4% ano a ano em comparação com 0,54 USD no ano anterior.
+
+### Projeção da empresa
+
+No IV trimestre de 2026, a empresa espera uma receita na faixa de 730,00 mi USD – 750,00 mi USD e um lucro por ação (GAAP) no nível de 1,13–1,17 USD. A empresa também projeta uma margem bruta de aproximadamente 72,0% e um lucro por ação ajustado (non-GAAP) na faixa de 1,62–1,66 USD.
+
+### O que diz a diretoria
+
+A diretoria enfatizou que o modelo de negócios gera uma alavancagem cada vez maior, pois os custos operacionais crescem mais lentamente do que a receita. De acordo com a diretoria, os switches Scorpio X devem continuar registrando crescimentos graças a novos clientes e plataformas. A diretoria indicou que as soluções de rack Orion devem melhorar a margem através da venda de software e cobrança de taxas de licenciamento. Segundo a diretoria, a transição para conectividade óptica aumenta as chances da empresa, pois ela lucra muito mais com ela do que com soluções de cobre. A diretoria também observou que o novo rack Orion não depende de um único fornecedor de aceleradores.
+
+
+---
+
 ## Fundamentos #0068: Palantir Technologies: resultados do 3Q2026
 
 Data: 2026-11-04 11:38
@@ -920,28 +943,5 @@ No quarto trimestre de 2026, a empresa espera uma receita na faixa de 15,00 bi U
 ### O que diz a administração
 
 A administração expressou otimismo em relação ao crescimento no segmento de centros de dados. Segundo a administração, no próximo ano a empresa pode não gerar fluxos de caixa livre positivos, pois trata este período como uma oportunidade para investir no crescimento. A administração indicou que a capacidade liberada pelo mercado de computadores mais fraco pode ser destinada a wafers para centros de dados, porém os substratos para os circuitos também são uma limitação. Segundo a administração, a situação referente à disponibilidade de memória no próximo ano não é otimista. A administração enfatizou que clientes externos das fábricas estão demonstrando interesse e estão satisfeitos com o rendimento da produção, nos quais a empresa está trabalhando intensamente. Segundo a administração, as margens dos processadores Panther Lake melhoraram visivelmente, embora ainda não tenham atingido a média de toda a empresa.
-
-
----
-
-## Fundamentos #0043: Starbucks: resultados do 4Q2026
-
-Data: 2026-10-29 22:33
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-29-0043/
-
-
-> ⚠️ **ERRATUM (2026-11-03)**  
-> **O post indicava o trimestre errado.**
->
-> **Correção:**
-> - Os resultados são do quarto trimestre do ano fiscal de 2026 (encerrado em 27 de setembro de 2026), e não do terceiro trimestre.
->
-> Corrigimos o título e o texto; os números não mudam.
-
-As receitas da Starbucks (SBUX) caíram no quarto trimestre do ano fiscal de 2026 em 4,5% a/a para o nível de 9,14 bi USD, enquanto o lucro líquido aumentou 408,8% a/a para 677,20 mi USD.
-
-### Resultados do trimestre
-
-O lucro operacional foi de 991,80 mi USD (+256,5% a/a), e o lucro por ação (contábil) situou-se no nível de 0,59 USD, com o lucro por ação ajustado sendo de 0,80 USD. No segmento Company-operated coffeehouses, as receitas caíram 5,5% a/a para 7,43 bi USD, enquanto no segmento Licensed coffeehouses registrou-se um aumento de 9,4% a/a para 1,20 bi USD, enquanto o segmento Other encolheu 16,0% a/a para 515,50 mi USD.
 
 
