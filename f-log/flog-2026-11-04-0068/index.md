@@ -1,0 +1,23 @@
+# Fundamenty #0068: Palantir Technologies: wyniki za 3Q2026
+
+Data: 2026-11-04 11:37
+Adres: https://heniu.blog/f-log/flog-2026-11-04-0068/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody Palantir Technologies (PLTR) w trzecim kwartale wyniosły 2,31 mld USD (+95,9% r/r), a księgowy zysk na akcję wzrósł do 0,44 USD (+144,4% r/r).
+
+### Wyniki kwartału
+
+Podstawowy księgowy zysk na akcję wyniósł 0,47 USD (+135,0% r/r), natomiast skorygowany zysk na akcję osiągnął poziom 0,44 USD (+109,5% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów w IV kwartale 2026 na poziomie 2,65 mld USD oraz w całym roku 2026 na poziomie 8,53 mld USD. Według prognoz skorygowany zysk operacyjny (non-GAAP) ma wynieść 1,64 mld USD w IV kwartale 2026 i 5,25 mld USD w całym roku 2026, przy skorygowanych wolnych przepływach pieniężnych (non-GAAP) w przedziale 4,80 mld USD – 5,00 mld USD za cały rok 2026.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że klienci komercyjni znacznie szybciej przechodzą od rozmów do fazy pilotażu i wdrożenia, przy czym umowy początkowe są krótsze, ale ulegają znacznemu rozszerzeniu. Według zarządu spółka nie nadąża z obsługą popytu, co wymusza przesunięcie zasobów ludzkich w stronę klientów przychodzących samodzielnie ze względu na ograniczone moce przerobowe. Zarząd wskazywał, że obecne wyniki wynikają w większym stopniu z gwałtownego wzrostu całego rynku niż z samej skuteczności spółki. Według zarządu wartość sztucznej inteligencji tworzona jest na poziomie procesów wewnątrz organizacji, a nie tylko poprzez zwiększanie wydajności pojedynczych pracowników. Zarząd zaznaczył również, że klienci korzystający z warsztatów Sovereign AI wdrażają rozwiązania z dużym pośpiechem, co zdaniem zarządu stanowi jedynie początek tego trendu.
+

@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0068: Palantir Technologies: resultados do 3Q2026
+
+Data: 2026-11-04 11:38
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-04-0068/
+
+
+A receita da Palantir Technologies (PLTR) no terceiro trimestre foi de 2,31 bi USD (+95,9% ano a ano), e o lucro por ação contábil aumentou para 0,44 USD (+144,4% ano a ano).
+
+### Resultados do trimestre
+
+O lucro por ação contábil básico foi de 0,47 USD (+135,0% ano a ano), enquanto o lucro por ação ajustado atingiu o nível de 0,44 USD (+109,5% ano a ano).
+
+### Projeção da empresa
+
+A empresa espera uma receita no IV trimestre de 2026 no nível de 2,65 bi USD e para todo o ano de 2026 no nível de 8,53 bi USD. De acordo com as projeções, o lucro operacional ajustado (non-GAAP) deve ser de 1,64 bi USD no IV trimestre de 2026 e 5,25 bi USD para todo o ano de 2026, com o fluxo de caixa livre ajustado (non-GAAP) na faixa de 4,80 bi USD – 5,00 bi USD para todo o ano de 2026.
+
+### O que diz a administração
+
+A administração enfatizou que os clientes comerciais estão passando muito mais rapidamente das conversas para a fase de piloto e implementação, sendo que os contratos iniciais são mais curtos, mas sofrem uma expansão significativa. Segundo a administração, a empresa não está conseguindo acompanhar a demanda, o que força o deslocamento de recursos humanos em direção aos clientes que chegam de forma autônoma devido à capacidade limitada. A administração indicou que os resultados atuais decorrem em maior medida do crescimento abrupto de todo o mercado do que da própria eficácia da empresa. Segundo a administração, o valor da inteligência artificial é criado no nível dos processos dentro da organização, e não apenas através do aumento da eficiência de funcionários individuais. A administração também observou que os clientes que utilizam os workshops de Sovereign AI estão implementando soluções com grande pressa, o que, na opinião da administração, representa apenas o início desta tendência.
+
+
+---
+
 ## Fundamentos #0067: Relatórios de empresas: Shopify, Apple, Meta Platforms; transações de insiders
 
 Data: 2026-11-04 10:12
@@ -920,85 +943,5 @@ As receitas da Starbucks (SBUX) caíram no quarto trimestre do ano fiscal de 202
 ### Resultados do trimestre
 
 O lucro operacional foi de 991,80 mi USD (+256,5% a/a), e o lucro por ação (contábil) situou-se no nível de 0,59 USD, com o lucro por ação ajustado sendo de 0,80 USD. No segmento Company-operated coffeehouses, as receitas caíram 5,5% a/a para 7,43 bi USD, enquanto no segmento Licensed coffeehouses registrou-se um aumento de 9,4% a/a para 1,20 bi USD, enquanto o segmento Other encolheu 16,0% a/a para 515,50 mi USD.
-
-
----
-
-## Log #0215: Resumo da sessão 2026-10-29: NDX 29407.05 (-1.38%)
-
-Data: 2026-10-29 21:04
-Endereço: https://heniu.blog/pt-br/posts/log-0215/
-
-
-**Data da sessão:** 2026-10-29
-
-> *Fechamento da sessão 2026-10-29: NDX 29407.05 (-1.38%), NQ 29324.25 (-2.17%), QQQ 715.33 (-1.42%).*
-
----
-
-### Visão geral da sessão
-
-**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (14:30 PL) no nível NDX 29419.15 e NQ 29619.25. Nos primeiros 30 minutos até 10:00 ET (15:00 PL), o NDX caiu 26.32 pts (-0.09%) para 29392.83, e o NQ caiu 70.75 pts (-0.24%) para 29548.50. Primeiro foi registrado a mínima da sessão NDX 29262.84 às 9:35 ET (14:35 PL), e em seguida a máxima NDX 29707.82 às 10:40 ET (15:40 PL). O fechamento no nível 29407.05 está 300.77 pts abaixo da máxima e 144.21 pts acima da mínima.
-
-**Fluxos e amplitude de mercado.** O fluxo acumulado (CVD) para NDX, NQ e QQQ foi positivo, o que significa uma direção consistente em todos os três instrumentos. O indicador TICKQ no fechamento foi de 331.00, enquanto a média SMA200 era de 33.94. A participação de empresas acima de 1 trilhão de USD na capitalização da cesta foi de 67.84%.
-
-**Final da sessão, opções e empresas.** Na última hora da sessão, a partir de 15:00 ET (20:00 PL), o NDX subiu 95.38 pts (+0.33%) até o fechamento. A Anomalia MOC no fechamento foi de +28,23 M. A volatilidade implícita (IV) para as opções sobre QQQ foi de 21.80%, e a relação put/call era de 1.40.
-
-**Balanço do dia.** O Índice Nasdaq-100 fechou no nível 29407.05, o que representa uma queda de 1.38%.
-
----
-
-### Telemetria de Fechamento
-
-* **Índice Nasdaq-100 (NDX):** fechamento **29407.05 (-1.38%)**
-    * Fluxo acumulado (CVD): **191,25 M [euforia]**
-    * Anomalia MOC no fechamento: **+28,23 M**
-    * Utilização da amplitude diária média (ADR): **65.70%**
-    * Recuo desde o maior fechamento registrado pelo Heniu: **-5.83%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **Contrato futuro NQ:** fechamento **29324.25 (-2.17%)**
-    * Fluxo acumulado (CVD): **15,9 K [acumulação]**
-    * Utilização da amplitude diária média (ADR): **84.92%**
-
-* **ETF QQQ:** fechamento **715.33 (-1.42%)**
-    * Fluxo acumulado (CVD): **2,51 M [erupção do mercado]**
-    * Utilização da amplitude diária média (ADR): **66.02%**
-
-* **Amplitude de mercado (TICKQ):** leitura no fechamento **331.00 [erupção do mercado]**
-    * Média de 200 leituras (SMA200): **33.94 [acumulação]**
-
-* **Opções sobre QQQ:**
-    * Volatilidade implícita (IV): **21.80%**
-    * Relação put/call (posições abertas, OI): **1.40**
-
-* **Cesta Nasdaq-100:**
-    * Capitalização total: **41.44 trilhões de USD** (mudança em relação ao fechamento anterior: **-0.72 trilhões de USD**)
-    * Participação de empresas acima de 1 trilhão de USD na capitalização da cesta: **67.84%** (mudança: **-0.41 p.p.**)
-    * Preço médio das ações na cesta: **$304.81** (mudança: **$-3.59**)
-    * Mudanças no grupo de empresas acima de 1 trilhão de USD: **sem mudanças**
-
-* **Saúde dos dados da sessão:** leituras por 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,1% das leituras
-
----
-
-[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0215/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Resumo da sessão Nasdaq-100 2026-10-29",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 

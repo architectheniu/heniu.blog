@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0068: Palantir Technologies: 3Q2026 results
+
+Date: 2026-11-04 11:38
+URL: https://heniu.blog/en/f-log/flog-2026-11-04-0068/
+
+
+Palantir Technologies (PLTR) revenue in the third quarter was 2.31 billion USD (+95.9% year over year), and GAAP earnings per share increased to 0.44 USD (+144.4% year over year).
+
+### Quarterly results
+
+GAAP earnings per share was 0.47 USD (+135.0% year over year), while adjusted earnings per share reached the level of 0.44 USD (+109.5% year over year).
+
+### Company guidance
+
+The company expects revenue in Q4 2026 at the level of 2.65 billion USD and for the full year 2026 at the level of 8.53 billion USD. According to guidance, adjusted operating income (non-GAAP) is expected to be 1.64 billion USD in Q4 2026 and 5.25 billion USD for the full year 2026, with adjusted free cash flows (non-GAAP) in the range of 4.80 billion USD – 5.00 billion USD for the full year 2026.
+
+### What management says
+
+Management emphasized that commercial customers are moving from discussions to the pilot and implementation phase significantly faster, with initial contracts being shorter but undergoing significant expansion. According to management, the company cannot keep up with demand, which forces a shift of human resources toward inbound customers due to limited capacity. Management indicated that current results stem to a greater extent from the rapid growth of the entire market than from the company's own effectiveness. According to management, the value of artificial intelligence is being created at the level of processes within an organization, and not just by increasing the efficiency of individual employees. Management also noted that customers using Sovereign AI workshops are implementing solutions with great haste, which, according to management, is only the beginning of this trend.
+
+
+---
+
 ## Fundamentals #0067: Company filings: Shopify, Apple, Meta Platforms; insider transactions
 
 Date: 2026-11-04 10:11
@@ -920,85 +943,5 @@ Starbucks (SBUX) revenue fell by 4.5% y/y in the fourth quarter of fiscal year 2
 ### Quarterly results
 
 Operating income was 991.80 million USD (+256.5% y/y), and earnings per share (GAAP) stood at 0.59 USD, with adjusted earnings per share of 0.80 USD. In the Company-operated coffeehouses segment, revenue fell by 5.5% y/y to 7.43 billion USD, whereas the Licensed coffeehouses segment saw an increase of 9.4% y/y to 1.20 billion USD, while the Other segment shrank by 16.0% y/y to 515.50 million USD.
-
-
----
-
-## Log #0215: Session summary 2026-10-29: NDX 29407.05 (-1.38%)
-
-Date: 2026-10-29 21:04
-URL: https://heniu.blog/en/posts/log-0215/
-
-
-**Session date:** 2026-10-29
-
-> *Session close 2026-10-29: NDX 29407.05 (-1.38%), NQ 29324.25 (-2.17%), QQQ 715.33 (-1.42%).*
-
----
-
-### Session overview
-
-**Opening and main move of the day.** The session started at 9:30 ET (14:30 PL) at NDX 29419.15 and NQ 29619.25. During the first 30 minutes until 10:00 ET (15:00 PL), NDX fell by 26.32 pts (-0.09%) to 29392.83, and NQ fell by 70.75 pts (-0.24%) to 29548.50. First, a session low of NDX 29262.84 was recorded at 9:35 ET (14:35 PL), followed by a high of NDX 29707.82 at 10:40 ET (15:40 PL). The close at 29407.05 lies 300.77 pts below the high and 144.21 pts above the low.
-
-**Flows and market breadth.** Cumulative flow (CVD) for NDX, NQ, and QQQ was positive, indicating a consistent direction across all three instruments. The TICKQ indicator at close was 331.00, while the SMA200 average was 33.94. The share of companies above 1 trillion USD in the basket capitalization was 67.84%.
-
-**End of session, options and companies.** In the last hour of the session from 15:00 ET (20:00 PL), NDX rose by 95.38 pts (+0.33%) until the close. The MOC Anomaly at close was +28.23 M. Implied volatility (IV) for options on QQQ was 21.80%, and the put/call ratio was 1.40.
-
-**Day's balance.** The Nasdaq-100 index closed at 29407.05, representing a decline of 1.38%.
-
----
-
-### Closing Telemetry
-
-* **Nasdaq-100 index (NDX):** close **29407.05 (-1.38%)**
-    * Cumulative flow (CVD): **191,25 M [euphoria]**
-    * MOC Anomaly: **+28,23 M**
-    * Average Daily Range (ADR) utilization: **65.70%**
-    * Drawdown from Heniu's highest close: **-5.83%** (highest close: **31226.82**, 2026-10-06)
-
-* **NQ futures contract:** close **29324.25 (-2.17%)**
-    * Cumulative flow (CVD): **15,9 K [accumulation]**
-    * Average Daily Range (ADR) utilization: **84.92%**
-
-* **QQQ ETF:** close **715.33 (-1.42%)**
-    * Cumulative flow (CVD): **2,51 M [market flare]**
-    * Average Daily Range (ADR) utilization: **66.02%**
-
-* **Market breadth (TICKQ):** reading at close **331.00 [market flare]**
-    * 200-reading average (SMA200): **33.94 [accumulation]**
-
-* **Options on QQQ:**
-    * Implied volatility (IV): **21.80%**
-    * Put/call ratio (open interest, OI): **1.40**
-
-* **Nasdaq-100 basket:**
-    * Total capitalization: **41.44 trillion USD** (change from previous close: **-0.72 trillion USD**)
-    * Share of companies above 1 trillion USD in basket capitalization: **67.84%** (change: **-0.41 pp**)
-    * Average stock price in the basket: **$304.81** (change: **$-3.59**)
-    * Changes in the group of companies above 1 trillion USD: **no change**
-
-* **Session data health:** readings through 100.0% of the cash session; no gaps longer than one minute; NDX no change longer than 2 min in 0.1% of readings
-
----
-
-[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0215/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Nasdaq-100 session summary 2026-10-29",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 
