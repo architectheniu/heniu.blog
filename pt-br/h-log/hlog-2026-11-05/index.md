@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 06:08
+Data: 2026-11-05 07:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.05 [PT-BR]</h1>
+<h3>📈 [2026-11-05 07:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ estão sendo negociados no nível 28193.00, o que representa uma queda de 1.31%. O fluxo acumulado (CVD) para NQ é de -11,22 K, o que indica um sell-off ativo na sessão de futuros.</li>
+<li><strong>Contexto do índice NDX e QQQ:</strong> No fechamento da sessão à vista (Spot), o índice NDX fechou no nível 28438.26 (+0.91%) com CVD no nível 118,07 M, enquanto o ETF QQQ atingiu 691.85 (+0.97%) com CVD de 1,27 M (acumulação). Está ocorrendo um Recuo desde o pico de 28.10 (28438.26 vs 29847.38), que atualmente é de -4.72%.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima (nó de volume) encontra-se no intervalo 28230–28250. A zona de resistência mais próxima é 28530–28550.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 22.99%. O Put/Call Volume Ratio no nível 1.14 sugere a predominância de posições do tipo Put, o que pode indicar a construção de proteção (hedging) contra maior volatilidade. O alcance esperado do movimento do instrumento está no intervalo de 682.19 a 701.71.</li>
+<li><strong>Sentimento:</strong> O indicador de direção do fluxo é 5, o que, em uma escala de -100 a +100, significa uma vantagem neutra e muito fraca de entrada de capital.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-05 07:07</p>
 <h3>📈 [2026-11-05 06:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
