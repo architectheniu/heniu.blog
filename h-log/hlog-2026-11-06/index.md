@@ -1,0 +1,23 @@
+# H1: 2026-11-06
+
+Data: 2026-11-06 00:07
+Adres: https://heniu.blog/h-log/hlog-2026-11-06/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.11.06</h1>
+<h3>📈 [2026-11-06 00:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ wyceniane są na poziomie 26616.50 (-0.51%), przy skumulowanym przepływie (CVD) wynoszącym 301, co wskazuje na testowanie popytu w sesji poza sesją główną.</li>
+<li>Indeks NDX zamknął sesję kasową na poziomie 26643.16 (-6.36%), przy skumulowanym odpływie kapitału (CVD) wynoszącym -28,93 M. Zbiorczy wskaźnik kierunku przepływów wynosi -30, co potwierdza przewagę dystrybucji kapitału.</li>
+<li>Korekta indeksu od szczytu z dnia 28.10 (29847.38) wynosi obecnie -10.74% (-3204 pkt). Jest to ruch o charakterze dużego swingu, głębszy niż 88% dotychczasowych korekt w analizowanym okresie.</li>
+<li>W sektorze opcji QQQ odnotowano wolumen 13,846,349 przy zmienności implikowanej (IV) na poziomie 33.90%. Wskaźnik Put/Call Ratio wynosi 1.03, co sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwania na dalszą presję sprzedażową. Oczekiwany przez rynek zasięg ruchu mieści się w przedziale 633.47 do 660.63.</li>
+<li>Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 28170–28190.</li>
+</ul>
+<p>Raport H-Log: 2026-11-06 00:07</p>
+
