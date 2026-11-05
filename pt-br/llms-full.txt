@@ -7,6 +7,86 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0221: Resumo da sessão 2026-11-05: NDX 26643.16 (-6.36%)
+
+Data: 2026-11-05 22:04
+Endereço: https://heniu.blog/pt-br/posts/log-0221/
+
+
+**Data da sessão:** 2026-11-05
+
+> *Fechamento da sessão 2026-11-05: NDX 26643.16 (-6.36%), NQ 26691.50 (-6.57%), QQQ 647.77 (-6.37%).*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 28048.49. Nos primeiros 30 minutos até 10:00 ET (16:00 PL), o NDX caiu 642.23 pontos (-2.29%) para 27406.26. O máximo da sessão foi registrado às 9:30 ET (15:30 PL) no nível NDX 28050.26, e o mínimo às 15:58 ET (21:58 PL) no nível 26608.26. O fechamento no nível 26643.16 está 1407.10 pontos abaixo do máximo e 34.90 pontos acima do mínimo.
+
+**Fluxos e amplitude de mercado.** A direção do fluxo acumulado (CVD) foi negativa para NDX, NQ e QQQ, o que significa a concordância de direções em todos os três instrumentos. A amplitude de mercado (TICKQ) no fechamento foi de 255.00, e a média de 200 leituras SMA200 foi de -6.71. A participação de empresas acima de 1 trilhão de USD na capitalização da cesta foi de 69.55%.
+
+**Final da sessão, opções e empresas.** Na última hora da sessão, de 15:00 ET (21:00 PL) até o fechamento, o NDX caiu 361.93 pontos (-1.34%) para 26643.16. A Anomalia MOC no fechamento foi de -10,69 M. A volatilidade implícita IV para opções sobre QQQ foi de 32.76%, e a relação put/call foi de 1.21.
+
+**Balanço do dia.** O Índice Nasdaq-100 fechou com uma queda de 6.36% no nível 26643.16.
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **26643.16 (-6.36%)**
+    * Fluxo acumulado (CVD): **−28,93 M [sell-off]**
+    * Anomalia no fechamento (MOC): **-10,69 M**
+    * Utilização da amplitude média diária (ADR): **329.62%**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **-14.68%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **Contrato futuro NQ:** fechamento **26691.50 (-6.57%)**
+    * Fluxo acumulado (CVD): **−128,12 K [pânico]**
+    * Utilização da amplitude média diária (ADR): **293.31%**
+
+* **ETF QQQ:** fechamento **647.77 (-6.37%)**
+    * Fluxo acumulado (CVD): **−7,04 M [pânico]**
+    * Utilização da amplitude média diária (ADR): **333.00%**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **255.00 [erupção do mercado]**
+    * Média de 200 leituras (SMA200): **-6.71 [teste de oferta]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **32.76%**
+    * Relação put/call (posições abertas, OI): **1.21**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **38.38 tri de USD** (mudança desde o fechamento anterior: **-2.21 tri de USD**)
+    * Participação de empresas acima de 1 trilhão de USD na capitalização da cesta: **69.55%** (mudança: **+0.53 p.p.**)
+    * Preço médio das ações na cesta: **$274.10** (mudança: **$-19.82**)
+    * Mudanças no grupo de empresas acima de 1 trilhão de USD: **sem mudanças**
+
+* **Saúde dos dados da sessão:** leituras durante 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,1% das leituras; leituras desatualizadas rejeitadas: 199
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0221/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-11-05",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Log #0220: Resumo da sessão 2026-11-04: NDX 28438.26 (+0.91%)
 
 Data: 2026-11-04 22:04
@@ -1011,28 +1091,5 @@ O lucro por ação (contábil, básico) atingiu o nível de 19,16 USD (+36,0% a/
 ### O que diz a administração
 
 A administração enfatizou que o relacionamento com o parceiro Sanofi é muito bom, e a colaboração está em um caminho sólido e aberta a novos projetos. Segundo a administração, a empresa está aberta a aquisições e licenciamentos em cada etapa do desenvolvimento de um medicamento, no entanto, as decisões são determinadas pela ciência. A administração observou que, ao comparar oportunidades externas com seu próprio departamento de pesquisa, geralmente os próprios projetos são escolhidos. De acordo com a administração, os preparativos para o lançamento de um novo medicamento para miastenia estão em estágio avançado. A administração também enfatizou que, ao entrar em novas áreas, como o tratamento da obesidade, a empresa visa soluções que mudem de fato a situação dos pacientes, e não apenas mais medicamentos semelhantes.
-
-
----
-
-## Fundamentos #0049: Sandisk: resultados do 1Q2027
-
-Data: 2026-10-30 11:17
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-30-0049/
-
-
-A receita da Sandisk (SNDK) aumentou no primeiro trimestre do ano fiscal de 2027 para 11,03 bi USD (+377,9% a/a), e o lucro por ação (contábil) atingiu o nível de 52,60 USD (+6 913,3% a/a).
-
-### Resultados do trimestre
-
-O lucro por ação (contábil, básico) foi de 55,49 USD (+7 106,5% a/a), enquanto o lucro por ação (ajustado) situou-se no nível de 49,51 USD (+3 958,2% a/a).
-
-### Projeção da empresa
-
-No segundo trimestre de 2027, a empresa espera uma receita na faixa de 12,20 bi USD – 12,60 bi USD e um lucro por ação ajustado (non-GAAP) no nível de 55,00–57,00 USD.
-
-### O que diz a administração
-
-A administração enfatizou que a lista de potenciais contratos de longo prazo com clientes é muito forte e está crescendo, tornando-se a principal forma de colaboração. De acordo com a administração, todas as partes do mercado de memória flash, incluindo computadores, smartphones e centros de dados, crescerão no próximo ano devido ao aumento da demanda por memória em dispositivos. A administração afirmou que os clientes subestimaram a demanda por memória flash para a operação de sua infraestrutura, e a demanda dos clientes está se fortalecendo em comparação com o trimestre anterior, sem a influência de problemas de crédito no mercado. Segundo a administração, a demanda por memória SLC representa uma abordagem mais refinada para a construção de sistemas e não retira mercado de outros tipos de memória flash. A administração também expressou o desejo de continuar operando sem dívidas, mantendo um balanço muito forte e investindo no negócio.
 
 

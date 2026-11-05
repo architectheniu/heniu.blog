@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0221: Session summary 2026-11-05: NDX 26643.16 (-6.36%)
+
+Date: 2026-11-05 22:04
+URL: https://heniu.blog/en/posts/log-0221/
+
+
+**Session date:** 2026-11-05
+
+> *Session close 2026-11-05: NDX 26643.16 (-6.36%), NQ 26691.50 (-6.57%), QQQ 647.77 (-6.37%).*
+
+---
+
+### Session overview
+
+**Opening and main movement of the day.** The session began at 9:30 ET (15:30 PL) at NDX level 28048.49. In the first 30 minutes until 10:00 ET (16:00 PL), NDX fell by 642.23 pts (-2.29%) to 27406.26. The session maximum was recorded at 9:30 ET (15:30 PL) at NDX level 28050.26, and the minimum at 15:58 ET (21:58 PL) at level 26608.26. The close at level 26643.16 lies 1407.10 pts below the maximum and 34.90 pts above the minimum.
+
+**Flows and market breadth.** The direction of the cumulative flow (CVD) was negative for NDX, NQ, and QQQ, indicating direction alignment across all three instruments. Market breadth (TICKQ) at the close was 255.00, and the 200-reading average SMA200 was -6.71. The share of companies with capitalization above 1 trillion USD in the basket capitalization was 69.55%.
+
+**End of session, options, and companies.** In the last hour of the session from 15:00 ET (21:00 PL) to the close, NDX fell by 361.93 pts (-1.34%) to 26643.16. The MOC Anomaly at the close was -10.69 M. Implied volatility (IV) for options on QQQ was 32.76%, and the put/call ratio was 1.21.
+
+**Day's balance.** The Nasdaq-100 index closed with a 6.36% decrease at level 26643.16.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **26643.16 (-6.36%)**
+    * Cumulative flow (CVD): **−28.93 M [sell-off]**
+    * MOC Anomaly: **-10.69 M**
+    * Average Daily Range (ADR) utilization: **329.62%**
+    * Drawdown from Heniu's peak / highest close: **-14.68%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **26691.50 (-6.57%)**
+    * Cumulative flow (CVD): **−128.12 K [panic]**
+    * Average Daily Range (ADR) utilization: **293.31%**
+
+* **QQQ ETF:** close **647.77 (-6.37%)**
+    * Cumulative flow (CVD): **−7.04 M [panic]**
+    * Average Daily Range (ADR) utilization: **333.00%**
+
+* **Market breadth (TICKQ):** reading at close **255.00 [market flare]**
+    * 200-reading average (SMA200): **-6.71 [supply test]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **32.76%**
+    * Put/call ratio (open interest, OI): **1.21**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **38.38 trillion USD** (change from previous close: **-2.21 trillion USD**)
+    * Share of companies with capitalization above 1 trillion USD in the basket capitalization: **69.55%** (change: **+0.53 pp**)
+    * Average share price in the basket: **$274.10** (change: **$-19.82**)
+    * Changes in the group of companies above 1 trillion USD: **unchanged**
+
+* **Session data health:** readings through 100.0% of the cash session; no gaps longer than a minute; NDX unchanged for longer than 2 min in 0.1% of readings; stale readings rejected: 199
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0221/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-11-05",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Log #0220: SESSION REPORT 2026-11-04: NDX 28438.26 (+0.91%)
 
 Date: 2026-11-04 22:04
@@ -1011,28 +1091,5 @@ Earnings per share (GAAP, basic) reached 19.16 USD (+36.0% y/y), while earnings 
 ### What management says
 
 Management emphasized that relations with partner Sanofi are very good, and the cooperation is on a strong track and open to new projects. According to management, the company is open to acquisitions and licenses at every stage of drug development, however, science decides the decisions. Management noted that when comparing external opportunities with their own research department, their own projects are usually selected. According to management, preparations for introducing a new drug for myasthenia are highly advanced. Management also emphasized that when entering new areas, such as obesity treatment, the company aims for solutions that realistically change the situation for patients, rather than just more similar drugs.
-
-
----
-
-## Fundamentals #0049: Sandisk: 1Q2027 results
-
-Date: 2026-10-30 11:17
-URL: https://heniu.blog/en/f-log/flog-2026-10-30-0049/
-
-
-Sandisk (SNDK) revenue increased in the first quarter of fiscal year 2027 to 11.03 billion USD (+377.9% y/y), and earnings per share (GAAP) reached 52.60 USD (+6,913.3% y/y).
-
-### Quarterly results
-
-Earnings per share (GAAP, basic) was 55.49 USD (+7,106.5% y/y), while earnings per share (adjusted) stood at 49.51 USD (+3,958.2% y/y).
-
-### Company guidance
-
-In the second quarter of 2027, the company expects revenue in the range of 12.20 billion USD – 12.60 billion USD and adjusted earnings per share (non-GAAP) at the level of 55.00–57.00 USD.
-
-### Management commentary
-
-Management emphasized that the list of potential long-term customer contracts is very strong and growing, becoming the primary mode of collaboration. According to management, all segments of the flash memory market, including computers, smartphones, and data centers, will grow next year due to increased demand for memory in devices. Management stated that customers underestimated the demand for flash memory to run their infrastructure, and customer demand is strengthening compared to the previous quarter, with no impact from credit issues on the market. According to management, demand for SLC memory represents a more refined approach to system building and is not taking market share from other types of flash memory. Management also expressed the desire to continue operating debt-free while maintaining a very strong balance sheet and investing in the business.
 
 
