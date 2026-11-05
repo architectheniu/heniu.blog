@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 18:08
+Data: 2026-11-05 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.05 [PT-BR]</h1>
+<h3>📈 [2026-11-05 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de mercado e fluxos:</strong> O mercado encontra-se em uma fase de distribuição abrupta. O Índice NDX caiu 6.01% (26728.61), e o fluxo acumulado (CVD) para o NDX é de -251,35 M, o que indica uma forte pressão de venda. Isso é confirmado pelos contratos NQ (26849.25, -6.01%, CVD -93,68 K) e pelo ETF QQQ (650.22, -6.03%, CVD -4,67 M). O indicador de direção de fluxos é de -75, o que significa uma saída dominante de capital do mercado. A Amplitude de mercado (TICKQ) mostra uma forte dinâmica negativa no nível de -138.00, com uma média SMA200 de -4.92.</p>
+</li>
+<li>
+<p><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) subiu para o nível de 32.50%, o que reflete o aumento das expectativas de movimentos bruscos de preços. O Put/Call Volume Ratio é de 1.05 com um volume de 8,712,132, o que sugere uma leve vantagem de posições de hedge ou a expectativa de maior pressão de baixa. O alcance de movimento esperado pelo mercado está na faixa de 643.27 a 671.59 pontos.</p>
+</li>
+<li>
+<p><strong>Contexto de correção e níveis técnicos:</strong> O Recuo desde o pico do Heniu do dia 28.10 (29847.38) é atualmente de -10.45% (-3119 pts). Este é um movimento de grande swing, mais profundo do que 88% das correções históricas registradas no banco de dados. A maior correção registrada na memória do sistema foi de -11.96%. A zona de resistência mais próxima (nó de volume) está na faixa de 28170–28190, o que atualmente representa um nível afastado em cerca de 5.39% do preço atual.</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-11-05 19:07</p>
 <h3>📈 [2026-11-05 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
