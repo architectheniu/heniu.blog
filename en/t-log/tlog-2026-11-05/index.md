@@ -1,6 +1,6 @@
 # M15: 2026-11-05
 
-Date: 2026-11-05 21:29
+Date: 2026-11-05 21:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-05/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.05 [EN]</h1>
+<h3>⏱️ [2026-11-05 21:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26729.15</strong> (-6.01%; since the previous entry -43.14 pts) · NQ <strong>26842.50</strong> (-6.03%; -39.25 pts) · QQQ <strong>650.29 USD</strong> (-6.02%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-279.51 M</strong> [panic] · CVD NQ <strong>-101.55 K</strong> [panic] (since the previous entry +1.06 K) · CVD QQQ <strong>-5.16 M</strong> [panic] · TICKQ <strong>-179</strong> [sell-off] · SMA200 average <strong>-5.96</strong> [supply test] (+1.05) · direction gauge <strong>-75</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.48 trillion USD</strong> (since the previous entry +0.00 trillion USD) · share of companies above 1 trillion USD <strong>69.5%</strong> (+0.0 pp) · average share price <strong>275.29 USD</strong> (-0.47 USD) · QQQ options: implied volatility <strong>32.33%</strong>, put/call <strong>1.01</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28170–28190</strong> (5.39% higher)</li>
+</ul>
+<p>Indices and the QQQ instrument recorded declines, which goes hand in hand with negative capital flows. There is a divergence between the direction of the NDX index movement and the TICKQ indicator, which indicates a sell-off. Price is below the nearest volume zone, which acts as resistance.</p>
 <h3>⏱️ [2026-11-05 21:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26772.29</strong> (-5.86%; since the previous entry -29.40 pts) · NQ <strong>26881.75</strong> (-5.90%; -39.75 pts) · QQQ <strong>651.21 USD</strong> (-5.89%)</li>
