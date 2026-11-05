@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 19:07
+Data: 2026-11-05 20:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,24 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.05</h1>
+<h3>📈 [2026-11-05 20:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Status rynku i przepływy:</strong> Rynek znajduje się w fazie silnej dystrybucji. Indeks NDX spadł o 5,95% (cena 26744,25), a skumulowany przepływ (CVD) dla NDX wynosi -264,71 M, co przy jednoczesnych spadkach na kontraktach NQ (-5,97%) oraz ETF QQQ (-5,99%) potwierdza masową wyprzedaż. Zbiorczy wskaźnik kierunku przepływów wynosi -67, co wskazuje na silną przewagę odpływu kapitału z rynku. Szeroki rynek (TICKQ) znajduje się na poziomie -151,00, co przy średniej SMA200 wynoszącej -4,76, oznacza ekstremalne przesunięcie w stronę sprzedaży.</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Wolumen opcji osiągnął poziom 10 086 801, przy wskaźniku Put/Call Ratio wynoszącym 1,05, co sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub spekulacyjnych na spadki. Zmienność implikowana (IV) wzrosła do 33,70%, a oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 639,58 do 667,92.</p>
+</li>
+<li>
+<p><strong>Kontekst techniczny i korekta:</strong> Bieżąca korekta od szczytu z dnia 28.10 (29847,38) wynosi obecnie -10,40% (-3103 pkt). Jest to ruch o charakterze dużego swingu, głębszy niż 88% dotychczasowych korekt w badanym okresie. Największa odnotowana korekta w pamięci wynosiła -11,96%.</p>
+</li>
+<li>
+<p><strong>Poziomy oporu i wsparcia:</strong> Główny węzeł wolumenu stanowiący opór znajduje się w strefie 28170–28190 (5,33% powyżej aktualnej ceny). Brak wyraźnych poziomów wsparcia w bezpośrednim sąsiedztwie bieżącej wyceny.</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-11-05 20:07</p>
 <h3>📈 [2026-11-05 19:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
