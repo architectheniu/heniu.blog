@@ -1,6 +1,6 @@
 # M15: 2026-11-05
 
-Date: 2026-11-05 16:29
+Date: 2026-11-05 16:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-05/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.05 [EN]</h1>
+<h3>⏱️ [2026-11-05 16:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27005.06</strong> (-5.04%; since the previous entry -72.73 pts) · NQ <strong>27119.25</strong> (-5.05%; -72.50 pts) · QQQ <strong>656.88 USD</strong> (-5.08%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-237.05 M</strong> [panic] · CVD NQ <strong>-105.99 K</strong> [panic] (since the previous entry +3.65 K) · CVD QQQ <strong>-6.45 M</strong> [panic] · TICKQ <strong>-674</strong> [panic] · SMA200 average <strong>13.68</strong> [demand test] (-2.55) · direction gauge <strong>-63</strong> (±100 scale; -5)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>39.00 trillion USD</strong> (since the previous entry +0.08 trillion USD) · share of companies above 1 trillion USD <strong>69.3%</strong> (+0.0 pp) · average share price <strong>279.25 USD</strong> (-0.48 USD) · QQQ options: implied volatility <strong>29.54%</strong>, put/call <strong>1.19</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28170–28190</strong> (4.31% higher)</li>
+</ul>
+<p>The decline in the NQ and QQQ indices continues, and this movement is supported by strong selling visible in the CVD flows. The TICKQ indicator indicates a sharp increase in the number of sell transactions, while the nearest resistance is located above current price levels.</p>
 <h3>⏱️ [2026-11-05 16:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27077.79</strong> (-4.78%; since the previous entry -114.13 pts) · NQ <strong>27191.75</strong> (-4.80%; -126.25 pts) · QQQ <strong>658.68 USD</strong> (-4.81%)</li>
