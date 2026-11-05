@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 16:07
+Data: 2026-11-05 17:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.05</h1>
+<h3>📈 [2026-11-05 17:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Status rynku i przepływy:</strong> Rynek znajduje się w silnej fazie dystrybucji. Indeks NDX traci 5,95% (26747,91), a skumulowany przepływ CVD dla NDX wynosi -264,21 M, co przy jednoczesnym spadku kontraktów NQ (-5,96%) i ETF QQQ (-5,97%) potwierdza masową wyprzedaż aktywów. Wskaźnik kierunku przepływów wynosi -63, co oznacza silną przewagę odpływu kapitału. Szeroki rynek (TICKQ) znajduje się na poziomie -630,00, co przy średniej SMA200 wynoszącej 12,28 wskazuje na skrajnie negatywny sentyment.</li>
+<li><strong>Analiza opcji QQQ:</strong> Na rynku opcji odnotowano wolumen 4 624 993 kontraktów przy współczynniku Put/Call Ratio na poziomie 1,09, co sugeruje zwiększone zainteresowanie zabezpieczeniami (hedging) lub pozycjami krótkimi. Zmienność implikowana (IV) wynosi 32,28%, a oczekiwany przez rynek zakres ruchu mieści się w przedziale od 651,22 do 679,95.</li>
+<li><strong>Kontekst korekty:</strong> Bieżąca korekta od szczytu z dnia 28.10 (29847,38) wynosi -10,38% (-3099 pkt). Jest to ruch o charakterze dużego swingu, głębszy niż 88% historycznych korekt z analizowanego okresu.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 28170–28190. Obecna cena pozostaje znacznie poniżej tego poziomu, co zwiększa dystans niezbędny do powrotu do strefy akumulacji.</li>
+</ul>
+<p>Raport H-Log: 2026-11-05 17:07</p>
 <h3>📈 [2026-11-05 16:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
