@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 10:08
+Data: 2026-11-05 11:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.05 [PT-BR]</h1>
+<h3>📈 [2026-11-05 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se no Contrato futuro NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ estão sendo negociados no nível 28391.00 (-0.61%). O fluxo acumulado (CVD) no nível -6,79 K indica um teste de oferta no atual intervalo de preço.</li>
+<li><strong>Fluxos e sentimento:</strong> O indicador de direção agregado de fluxos é -55, o que significa uma vantagem clara da distribuição de capital (saída) sobre a sua entrada. Apesar disso, no fechamento da sessão à vista (Spot), foi observada uma divergência: o preço do NDX subiu 0.91%, enquanto o CVD para o índice era de -98,08 M, o que sugere pressão de venda simultânea ao aumento do índice.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 22.99%, e o Put/Call Ratio no nível 1.14 indica uma vantagem de posições de proteção (hedging) ou expectativa de quedas. O alcance esperado do movimento do instrumento QQQ situa-se no intervalo de 682.19 a 701.71 com volume de opções de 9,635,958.</li>
+<li><strong>Níveis técnicos:</strong> Está ocorrendo um Recuo desde o pico de 28.10 (29847.38), que atualmente é de -4.72% (-1410 pts). A resistência significativa mais próxima encontra-se na zona de volume 28530–28550, enquanto o suporte está localizado na zona 28230–28250.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-05 11:07</p>
 <h3>📈 [2026-11-05 10:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
