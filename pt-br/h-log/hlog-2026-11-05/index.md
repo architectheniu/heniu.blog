@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 13:08
+Data: 2026-11-05 14:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.05 [PT-BR]</h1>
+<h3>📈 [2026-11-05 14:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise concentra-se no Contrato futuro NQ, que oscila em torno do nível 28347.00 (-0.77%), com o fluxo acumulado (CVD) indicando um teste de oferta no nível de -9,29 mil.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador de direção agregado de fluxos é de -55, o que significa uma clara predominância de distribuição de capital. Apesar disso, no mercado à vista fechado, foi observada uma divergência: o preço do Índice Nasdaq-100 (NDX) subiu 0.91% (28437.17), enquanto o fluxo acumulado (CVD) foi de -98,08 mi de ações, o que sugere pressão de venda simultânea ao aumento de preço.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> O mercado de opções mostra uma predominância de posições vendidas (Put/Call Volume Ratio = 1.14) com volume de 9 635 958. A volatilidade implícita (IV) é de 22.99%, e o alcance esperado de movimento entre 682.19 e 701.71 indica a construção de proteções contra maior volatilidade.</li>
+<li><strong>Contexto técnico:</strong> O Recuo desde o pico do Heniu de 28.10 (29847.38) é de -4.72% (-1410 pts), o que o classifica como uma correção maior em relação aos dados históricos. A resistência importante mais próxima está na zona de volume 28530–28550, enquanto o suporte técnico está localizado no intervalo 28230–28250.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-05 14:07</p>
 <h3>📈 [2026-11-05 13:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
