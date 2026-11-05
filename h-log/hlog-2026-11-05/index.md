@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 17:07
+Data: 2026-11-05 18:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.05</h1>
+<h3>📈 [2026-11-05 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Indeks NDX odnotowuje silną przecenę (-5.31%), osiągając poziom 26926.00 pkt. Skumulowany przepływ kapitału (CVD) na rynku kasowym wykazuje gwałtowną dystrybucję: NDX -231,61 M, QQQ -5,3 M oraz kontrakty NQ -91,72 K, co potwierdza panikę sprzedażową. Wskaźnik kierunku przepływów wynosi -63, co oznacza wyraźną przewagę odpływu kapitału z rynku.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi -440.00, co przy średniej SMA200 na poziomie 4.50 wskazuje na skrajnie negatywny sentyment i dominację podaży w szerokim rynku Nasdaq.</li>
+<li><strong>Analiza opcji:</strong> Zmienność implikowana (IV) wzrosła do 31.20%, a stosunek wolumenu Put/Call wynosi 1.03 przy całkowitym wolumenie opcji 7,144,284. Sugeruje to budowę pozycji zabezpieczających (hedging) oraz wzrost oczekiwań na dalszą zmienność w przewidywanym przedziale ruchu 638.45 do 669.63 punktów.</li>
+<li><strong>Kontekst techniczny:</strong> Bieżąca korekta od szczytu z 28.10 (29847.38) wynosi -9.79% (-2921 pkt). Jest to ruch o charakterze dużego swingu, głębszy niż 88% historycznych korekcji z analizowanego okresu. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 28170–28190.</li>
+</ul>
+<p>Raport H-Log: 2026-11-05 18:07</p>
 <h3>📈 [2026-11-05 17:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
