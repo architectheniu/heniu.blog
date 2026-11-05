@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Errata: indicadores “Oracle” nas entradas M15 de 13/07 a 21/10/2026](https://heniu.blog/pt-br/t-log/errata-2026-11-05/index.md) (2026-11-05)
 - [M15: 2026-11-05](https://heniu.blog/pt-br/t-log/tlog-2026-11-05/index.md) (2026-11-05)
 - [H1: 2026-11-05](https://heniu.blog/pt-br/h-log/hlog-2026-11-05/index.md) (2026-11-05)
 - [H1: 2026-11-04](https://heniu.blog/pt-br/h-log/hlog-2026-11-04/index.md) (2026-11-04)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [H1: 2026-10-29](https://heniu.blog/pt-br/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamentos #0043: Starbucks: resultados do 4Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0043/index.md) (2026-10-29)
 - [Log #0215: Resumo da sessão 2026-10-29: NDX 29407.05 (-1.38%)](https://heniu.blog/pt-br/posts/log-0215/index.md) (2026-10-29)
-- [Fundamentos #0042: Xcel Energy: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0042/index.md) (2026-10-29)
 
