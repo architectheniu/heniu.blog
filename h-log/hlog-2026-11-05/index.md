@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 09:07
+Data: 2026-11-05 10:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.05</h1>
+<h3>📈 [2026-11-05 10:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku i przepływy:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. W handlu kontraktami terminowymi NQ cena wynosi 28325.75 (-0.85%), przy skumulowanym przepływie CVD na poziomie -7,55 K, co wskazuje na testowanie podaży. Zbiorczy wskaźnik kierunku przepływów wynosi -55, co oznacza przewagę dystrybucji kapitału.</li>
+<li><strong>Analiza rynku kasowego (zamknięty):</strong> Na zamknięciu sesji kasowej odnotowano rozbieżność między indeksem NDX (+0.91%, CVD -98,08 M) a ETF QQQ (+0.97%, CVD +1,27 M). Skumulowany ujemny przepływ na NDX przy wzroście ceny sugeruje presję sprzedażową, podczas gdy QQQ wykazuje oznaki akumulacji.</li>
+<li><strong>Kontekst korekty:</strong> Obecna korekta od szczytu z dnia 28.10 (28437.17 względem 29847.38) wynosi -4.72% (-1410 pkt). Jest to ruch głębszy niż w 50% historycznych korekt, co klasyfikuje obecną sytuację jako większą korektę.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 28230–28250. Najbliższa strefa oporu to 28530–28550.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 22.99%, a stosunek Put/Call Volume wynosi 1.14, co wskazuje na większą aktywność w opcjach sprzedaży i budowanie zabezpieczeń (hedgingu). Oczekiwany zasięg ruchu mieści się w przedziale 682.19 do 701.71.</li>
+</ul>
+<p>Raport H-Log: 2026-11-05 10:07</p>
 <h3>📈 [2026-11-05 09:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
