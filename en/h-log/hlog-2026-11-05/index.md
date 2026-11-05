@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Date: 2026-11-05 16:08
+Date: 2026-11-05 17:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-05/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.05 [EN]</h1>
+<h3>📈 [2026-11-05 17:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market status and flows:</strong> The market is in a strong distribution phase. The NDX index is losing 5.95% (26747.91), and the cumulative flow (CVD) for NDX is -264.21 M, which, combined with the simultaneous decline of NQ futures contracts (-5.96%) and the QQQ ETF (-5.97%), confirms a mass sell-off of assets. The direction gauge is -63, which means a strong dominance of capital outflow. Market breadth (TICKQ) is at the level of -630.00, which, with a SMA200 average of 12.28, indicates extremely negative sentiment.</li>
+<li><strong>QQQ options analysis:</strong> A volume of 4,624,993 contracts was recorded in the options market with a Put/Call Ratio at the level of 1.09, suggesting increased interest in hedging or short positions. Implied volatility (IV) is 32.28%, and the market-expected range of movement is between 651.22 and 679.95.</li>
+<li><strong>Correction context:</strong> The current drawdown from the peak of 28.10 (29847.38) is -10.38% (-3099 pts). This is a large swing move, deeper than 88% of historical corrections from the analyzed period.</li>
+<li><strong>Technical levels:</strong> The nearest resistance zone (volume node) is in the 28170–28190 range. The current price remains significantly below this level, which increases the distance required to return to the accumulation zone.</li>
+</ul>
+<p>H-Log Report: 2026-11-05 17:07</p>
 <h3>📈 [2026-11-05 16:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
