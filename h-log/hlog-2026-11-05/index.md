@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 21:07
+Data: 2026-11-05 23:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.05</h1>
+<h3>📈 [2026-11-05 zamknięcie]</h3>
+<p><strong>H-LOG: Podsumowanie sesji kasowej</strong></p>
+<p>Jest to podsumowanie sesji kasowej (Spot) z 2026-11-05. Indeks NDX zamknął się na poziomie 26643.16, co oznacza zmianę o -6.36% przy CVD na poziomie -28,93 M. Kontrakt NQ osiągnął zamknięcie 26691.50 ze spadkiem o -6.57% oraz CVD wynoszącym -128,12 K. ETF QQQ zakończył sesję na poziomie 647.77, odnotowując zmianę -6.37% i CVD na poziomie -7,04 M. Wskaźnik TICKQ zamknął się na wartości 255.00, podczas gdy SMA200 dla tego wskaźnika wynosiło -6.71.</p>
+<p>Raport H-Log: podsumowanie sesji 2026-11-05</p>
 <h3>📈 [2026-11-05 21:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
