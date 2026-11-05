@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 17:08
+Data: 2026-11-05 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.05 [PT-BR]</h1>
+<h3>📈 [2026-11-05 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação do mercado:</strong> O índice NDX registra uma forte desvalorização (-5.31%), atingindo o nível de 26926.00 pts. O fluxo acumulado (CVD) no mercado à vista mostra uma distribuição abrupta: NDX -231,61 mi, QQQ -5,3 mi e contratos NQ -91,72 K, o que confirma o pânico de venda. O indicador de direção dos fluxos é de -63, o que significa uma clara vantagem da saída de capital do mercado.</li>
+<li><strong>Amplitude de mercado:</strong> O indicador TICKQ é de -440.00, o que, com a média SMA200 no nível de 4.50, indica um sentimento extremamente negativo e a dominância de oferta na amplitude de mercado da Nasdaq.</li>
+<li><strong>Análise de opções:</strong> A volatilidade implícita (IV) subiu para 31.20%, e a proporção de volume Put/Call é de 1.03 com um volume total de opções de 7,144,284. Isso sugere a construção de posições de hedge e o aumento das expectativas de maior volatilidade na faixa prevista de movimento de 638.45 a 669.63 pontos.</li>
+<li><strong>Contexto técnico:</strong> O Recuo desde o pico de 28.10 (29847.38) é de -9.79% (-2921 pts). Este é um movimento de grande swing, mais profundo do que 88% das correções históricas do período analisado. A zona de resistência mais próxima (nó de volume) encontra-se no intervalo de 28170–28190.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-05 18:07</p>
 <h3>📈 [2026-11-05 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
