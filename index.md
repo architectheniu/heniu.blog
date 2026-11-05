@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Log #0221: Podsumowanie sesji 2026-11-05: NDX 26643.16 (-6.36%)](https://heniu.blog/posts/log-0221/index.md) (2026-11-05)
 - [M15: 2026-11-05](https://heniu.blog/t-log/tlog-2026-11-05/index.md) (2026-11-05)
 - [H1: 2026-11-05](https://heniu.blog/h-log/hlog-2026-11-05/index.md) (2026-11-05)
 - [Errata: wskaźniki „Oracle” we wpisach M15 z 13.07–21.10.2026](https://heniu.blog/t-log/errata-2026-11-05/index.md) (2026-11-05)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0044: Intel: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0044/index.md) (2026-10-29)
 - [H1: 2026-10-29](https://heniu.blog/h-log/hlog-2026-10-29/index.md) (2026-10-29)
 - [Fundamenty #0043: Starbucks: wyniki za 4Q2026](https://heniu.blog/f-log/flog-2026-10-29-0043/index.md) (2026-10-29)
-- [Log #0215: Podsumowanie sesji 2026-10-29: NDX 29407.05 (-1.38%)](https://heniu.blog/posts/log-0215/index.md) (2026-10-29)
 
