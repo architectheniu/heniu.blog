@@ -1,6 +1,6 @@
 # H1: 2026-11-05
 
-Data: 2026-11-05 20:07
+Data: 2026-11-05 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-05/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.05</h1>
+<h3>📈 [2026-11-05 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Rynek znajduje się w fazie silnej wyprzedaży. Indeks NDX spadł o 5.50% do poziomu 26873.51, przy skumulowanym przepływie CVD na poziomie −277,48 M, co wskazuje na panikę wśród sprzedających. Potwierdza to ETF QQQ (cena 653.77, spadek 5.52%) z ujemnym przepływem −4,8 M oraz kontrakty NQ (cena 26991.00, spadek 5.53%). Wskaźnik kierunku przepływów wynosi -75, co oznacza silną przewagę dystrybucji kapitału. Szeroki rynek (TICKQ) wynosi -266.00, co przy średniej SMA200 na poziomie -5.58 potwierdza skrajnie negatywny sentyment.</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wzrosła do 31.46%. Oczekiwany zasięg ruchu w najbliższym czasie mieści się w przedziale od 637.85 do 665.73 punktów. Put/Call Volume Ratio wynosi 1.03, co przy wolumenie opcji 11,452,660 wskazuje na zbliżoną równowagę między zabezpieczeniami (hedgingiem) a nowymi pozycjami krótkimi, z lekką przewagą opcji sprzedaży.</p>
+</li>
+<li>
+<p><strong>Kontekst techniczny i korekta:</strong> Obecna korekta od szczytu z dnia 28.10 (29847.38) wynosi 9.96% (-2974 pkt). Jest to ruch o charakterze dużego swingu, głębszy niż 88% historycznych korekt odnotowanych w bazie danych. Największa odnotowana korekta wynosiła -11.96%. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 28170–28190.</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-11-05 21:07</p>
 <h3>📈 [2026-11-05 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
