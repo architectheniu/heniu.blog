@@ -1,6 +1,6 @@
 # H1: 2026-11-06
 
-Date: 2026-11-06 16:08
+Date: 2026-11-06 18:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-06/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.06 [EN]</h1>
+<h3>📈 [2026-11-06 18:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is rising by 1.81% to the level of 27113.54, with cumulative flow (CVD) at 120.81 M, indicating strong euphoria in the cash segment. NQ futures contracts show an increase of 1.73% (price 27215.00) with accumulation at the level of 14.71 K. However, a divergence was noted in the QQQ ETF: despite a price increase of 1.92% (659.46), the CVD flow is -1.59 M, suggesting a sell-off in this instrument. The market flow direction gauge is 38, which means a moderate advantage of capital inflow.</li>
+<li><strong>Broad market:</strong> The TICKQ indicator is 234.00, which, with an SMA200 average at -4.22, indicates strong, current upward momentum in the Nasdaq broad market.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 29.19%, and options volume is 3 675 463 contracts. The Put/Call Volume Ratio at 1.02 with an expected move range between 645.05 and 669.47 suggests balanced sentiment with a slight tilt toward hedging on the put side.</li>
+<li><strong>Technical context:</strong> The current drawdown from the peak of 28.10 (29847.38) is -9.16% (-2734 pts). This is a deeper move than 88% of historical corrections recorded in the system memory, classifying the current situation as a large swing. The nearest resistance zone (volume node) is located in the 28170–28190 range.</li>
+</ul>
+<p>H-Log Report: 2026-11-06 18:07</p>
 <h3>📈 [2026-11-06 16:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
