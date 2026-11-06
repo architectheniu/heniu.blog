@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Date: 2026-11-06 20:14
+Date: 2026-11-06 20:29
 URL: https://heniu.blog/en/t-log/tlog-2026-11-06/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.06 [EN]</h1>
+<h3>⏱️ [2026-11-06 20:29] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27078.70</strong> (+1.69%; since the previous entry -27.12 pts) · NQ <strong>27185.50</strong> (+1.62%; -26.75 pts) · QQQ <strong>658.69 USD</strong> (+1.80%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>121.93 M</strong> [euphoria] · CVD NQ <strong>9.08 K</strong> [demand test] (since the previous entry -3.21 K) · CVD QQQ <strong>-1.96 M</strong> [sell-off] · TICKQ <strong>-37</strong> [supply test] · SMA200 average <strong>-0.49</strong> [supply test] (-1.11) · direction gauge <strong>38</strong> (±100 scale; -12)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.88 trillion USD</strong> (since the previous entry -0.04 trillion USD) · share of companies above 1 trillion USD <strong>66.9%</strong> (+0.0 pp) · average share price <strong>277.25 USD</strong> (-0.18 USD) · QQQ options: implied volatility <strong>28.94%</strong>, put/call <strong>1.16</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28170–28190</strong> (4.03% higher)</li>
+</ul>
+<p>The CVD flow for NQ fell compared to the previous entry, and the direction gauge also recorded a decrease. These changes do not go in line with the NQ price, which rose despite these declines. The nearest resistance is located above current levels.</p>
 <h3>⏱️ [2026-11-06 20:14] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27105.82</strong> (+1.79%; since the previous entry +5.86 pts) · NQ <strong>27212.25</strong> (+1.72%; +9.75 pts) · QQQ <strong>659.36 USD</strong> (+1.90%)</li>
