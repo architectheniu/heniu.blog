@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Log #0222: Session summary 2026-11-06: NDX 26979.68 (+1.35%)](https://heniu.blog/en/posts/log-0222/index.md) (2026-11-06)
 - [M15: 2026-11-06](https://heniu.blog/en/t-log/tlog-2026-11-06/index.md) (2026-11-06)
 - [H1: 2026-11-06](https://heniu.blog/en/h-log/hlog-2026-11-06/index.md) (2026-11-06)
 - [H1: 2026-11-05](https://heniu.blog/en/h-log/hlog-2026-11-05/index.md) (2026-11-05)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0046: Mondelez International: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0046/index.md) (2026-10-30)
 - [Fundamentals #0045: Gilead Sciences: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0045/index.md) (2026-10-30)
 - [M15: 2026-10-29](https://heniu.blog/en/t-log/tlog-2026-10-29/index.md) (2026-10-29)
-- [Fundamentals #0044: Intel: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0044/index.md) (2026-10-29)
 

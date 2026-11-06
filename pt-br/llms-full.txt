@@ -7,6 +7,86 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0222: Resumo da sessão 2026-11-06: NDX 26979.68 (+1.35%)
+
+Data: 2026-11-06 22:04
+Endereço: https://heniu.blog/pt-br/posts/log-0222/
+
+
+**Data da sessão:** 2026-11-06
+
+> *Fechamento da sessão 2026-11-06: NDX 26979.68 (+1.35%), NQ 27102.75 (+1.31%), QQQ 656.19 (+1.40%).*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e movimento principal do dia.** A sessão abriu às 9:30 ET (15:30 PL) no nível NDX 27028.65. O máximo da sessão ocorreu às 10:00 ET (16:00 PL) no nível 27269.60, e o mínimo às 12:53 ET (18:53 PL) no nível 26889.48. O fechamento no nível 26979.68 está 289.92 pts abaixo do máximo e 90.20 pts acima do mínimo.
+
+**Fluxos e amplitude de mercado.** As direções do fluxo acumulado (CVD) para NDX, NQ e QQQ foram divergentes, pois NDX e QQQ registraram valores negativos, enquanto NQ registrou valor positivo. A amplitude de mercado TICKQ no fechamento foi de 223.00, com a média SMA200 no nível de 2.94. Empresas acima de 1 tri USD representam 66.89% da capitalização da cesta.
+
+**Final da sessão, opções e empresas.** Na última hora da sessão, de 15:00 ET (21:00 PL) até o fechamento às 16:00 ET (22:00 PL), o índice NDX caiu 123.77 pts (-0.46%). A Anomalia MOC no fechamento foi de -34,21 M. A volatilidade implícita (IV) para opções sobre QQQ foi de 29.27%, e a relação put/call foi de 1.09.
+
+**Balanço do dia.** O Índice Nasdaq-100 fechou com resultado de +1.35% no nível 26979.68.
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **26979.68 (+1.35%)**
+    * Fluxo acumulado (CVD): **−99,22 M [pânico]**
+    * Anomalia MOC: **-34,21 M**
+    * Utilização da amplitude média diária (ADR): **86.01%**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **-13.60%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **Contrato futuro NQ:** fechamento **27102.75 (+1.31%)**
+    * Fluxo acumulado (CVD): **5,12 K [teste de demanda]**
+    * Utilização da amplitude média diária (ADR): **136.18%**
+
+* **ETF QQQ:** fechamento **656.19 (+1.40%)**
+    * Fluxo acumulado (CVD): **−3,02 M [colapso do mercado]**
+    * Utilização da amplitude média diária (ADR): **85.96%**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **223.00 [explosão do mercado]**
+    * Média de 200 leituras (SMA200): **2.94 [teste de demanda]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **29.27%**
+    * Relação put/call (posições abertas, OI): **1.09**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **38.74 tri USD** (mudança desde o fechamento anterior: **+0.31 tri USD**)
+    * Participação de empresas acima de 1 tri USD na capitalização da cesta: **66.89%** (mudança: **-2.65 p.p.**)
+    * Preço médio das ações na cesta: **$277.01** (mudança: **+$2.89**)
+    * Mudanças no grupo de empresas acima de 1 tri USD: **abaixo de 1 tri USD caíram: WMT**
+
+* **Saúde dos dados da sessão:** leituras durante 92,5% da sessão à vista (Spot); maior lacuna de 1 min; NDX sem mudança por mais de 2 min em 4,0% das leituras; leituras desatualizadas rejeitadas: 4933
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0222/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-11-06",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Log #0221: Resumo da sessão 2026-11-05: NDX 26643.16 (-6.36%)
 
 Data: 2026-11-05 22:04
@@ -1072,24 +1152,5 @@ Endereço: https://heniu.blog/pt-br/posts/log-0216/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentos #0050: Regeneron Pharmaceuticals: resultados do 3Q2026
-
-Data: 2026-10-30 15:36
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-10-30-0050/
-
-
-A receita da Regeneron Pharmaceuticals (REGN) no terceiro trimestre foi de 5,12 bi USD (+36,3% a/a), e o lucro por ação (contábil) aumentou para 18,45 USD (+35,5% a/a).
-
-### Resultados do trimestre
-
-O lucro por ação (contábil, básico) atingiu o nível de 19,16 USD (+36,0% a/a), enquanto o lucro por ação (ajustado) aumentou 69,7% a/a para 20,07 USD. O lucro operacional da empresa foi de 2,05 bi USD, o que representa um aumento de 99,5% a/a em comparação com 1,03 bi USD no ano anterior.
-
-### O que diz a administração
-
-A administração enfatizou que o relacionamento com o parceiro Sanofi é muito bom, e a colaboração está em um caminho sólido e aberta a novos projetos. Segundo a administração, a empresa está aberta a aquisições e licenciamentos em cada etapa do desenvolvimento de um medicamento, no entanto, as decisões são determinadas pela ciência. A administração observou que, ao comparar oportunidades externas com seu próprio departamento de pesquisa, geralmente os próprios projetos são escolhidos. De acordo com a administração, os preparativos para o lançamento de um novo medicamento para miastenia estão em estágio avançado. A administração também enfatizou que, ao entrar em novas áreas, como o tratamento da obesidade, a empresa visa soluções que mudem de fato a situação dos pacientes, e não apenas mais medicamentos semelhantes.
 
 
