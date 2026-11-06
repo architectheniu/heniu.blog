@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Data: 2026-11-06 21:29
+Data: 2026-11-06 21:44
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-06/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.06 [PT-BR]</h1>
+<h3>⏱️ [2026-11-06 21:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27040.01</strong> (+1.54%; desde a entrada anterior -59.15 pts) · NQ <strong>27141.00</strong> (+1.46%; -60.25 pts) · QQQ <strong>657.69 USD</strong> (+1.64%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>128.51 M</strong> [euforia] · CVD NQ <strong>13.11 K</strong> [acumulação] (desde a entrada anterior -1.44 K) · CVD QQQ <strong>-1.58 M</strong> [sell-off] · TICKQ <strong>-189</strong> [sell-off] · média SMA200 <strong>3.59</strong> [teste de demanda] (+0.99) · indicador de direção <strong>50</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>38.81 trilhões de USD</strong> (desde a entrada anterior -0.07 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>66.9%</strong> (+0.0 p.p.) · preço médio das ações <strong>277.07 USD</strong> (-0.32 USD) · opções sobre QQQ: volatilidade implícita <strong>28.68%</strong>, put/call <strong>1.19</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28170–28190</strong> (4.18% acima)</li>
+</ul>
+<p>Nos fluxos CVD para NQ, foi observada uma queda no nível de acumulação.</p>
 <h3>⏱️ [2026-11-06 21:29] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27099.16</strong> (+1.76%; desde a entrada anterior -31.23 pts) · NQ <strong>27201.25</strong> (+1.68%; -29.50 pts) · QQQ <strong>659.13 USD</strong> (+1.87%)</li>
