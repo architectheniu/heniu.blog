@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Data: 2026-11-06 21:14
+Data: 2026-11-06 21:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-06/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.06 [PT-BR]</h1>
+<h3>⏱️ [2026-11-06 21:29] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27099.16</strong> (+1.76%; desde a entrada anterior -31.23 pts) · NQ <strong>27201.25</strong> (+1.68%; -29.50 pts) · QQQ <strong>659.13 USD</strong> (+1.87%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>129.91 M</strong> [euforia] · CVD NQ <strong>14.55 K</strong> [acumulação] (desde a entrada anterior -0.93 K) · CVD QQQ <strong>-1.51 M</strong> [sell-off] · TICKQ <strong>290</strong> [disparada do mercado] · média SMA200 <strong>2.60</strong> [teste de demanda] (+0.76) · indicador de direção <strong>50</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>38.89 trilhões de USD</strong> (desde a entrada anterior -0.07 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>66.9%</strong> (+0.0 p.p.) · preço médio das ações <strong>277.39 USD</strong> (-0.52 USD) · opções sobre QQQ: volatilidade implícita <strong>28.73%</strong>, put/call <strong>1.19</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28170–28190</strong> (3.95% acima)</li>
+</ul>
+<p>O preço do NQ caiu após romper o suporte, que foi formado por um novo nó de volume. Simultaneamente, nos fluxos CVD para NQ, foi registrado um declínio no nível de acumulação.</p>
 <h3>⏱️ [2026-11-06 21:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27130.39</strong> (+1.88%; desde a entrada anterior +38.71 pts) · NQ <strong>27230.75</strong> (+1.80%; +17.50 pts) · QQQ <strong>659.81 USD</strong> (+1.97%)</li>
