@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Data: 2026-11-06 15:29
+Data: 2026-11-06 15:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-06/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.06</h1>
+<h3>⏱️ [2026-11-06 15:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX brak danych · NQ brak danych · QQQ brak danych</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX brak danych · CVD NQ brak danych · CVD QQQ brak danych · TICKQ brak danych · średnia SMA200 brak danych · wskaźnik kierunku <strong>15</strong> (skala ±100; od poprzedniego wpisu +40)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.99 bln USD</strong> · udział spółek powyżej 1 bln USD <strong>66.9%</strong> · średnia cena akcji <strong>278.17 USD</strong> · opcje QQQ: zmienność implikowana <strong>31.21%</strong>, put/call <strong>1.42</strong></li>
+</ul>
+<p>Od ostatniego wpisu odnotowano serię nagłych przepływów w dół na kontraktach NQ, co potwierdzają alarmy przepływu. W związku z tymi zdarzeniami cena NQ spadła, a wartość CVD również uległa obniżeniu.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:31 nagły przepływ NQ w dół; zapłon przepływu NQ; 15:36 nagły przepływ NQ w dół; zapłon przepływu NQ; 15:41 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-06 15:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>27159.00</strong> (+1.52%; od poprzedniego wpisu +40.00 pkt, +0.15%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>113.86%</strong></li>

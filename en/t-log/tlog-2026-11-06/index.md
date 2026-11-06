@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Date: 2026-11-06 15:29
+Date: 2026-11-06 15:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-06/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.06 [EN]</h1>
+<h3>⏱️ [2026-11-06 15:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX no data · NQ no data · QQQ no data</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX no data · CVD NQ no data · CVD QQQ no data · TICKQ no data · SMA200 average no data · direction gauge <strong>15</strong> (±100 scale; since the previous entry +40)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.99 trillion USD</strong> · share of companies above 1 trillion USD <strong>66.9%</strong> · average share price <strong>278.17 USD</strong> · QQQ options: implied volatility <strong>31.21%</strong>, put/call <strong>1.42</strong></li>
+</ul>
+<p>Since the previous entry, a series of sudden downward flows on NQ contracts has been recorded, as confirmed by flow alarms. In connection with these events, the NQ price has fallen, and the CVD value has also been lowered.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 15:31 sudden NQ flow down; NQ flow ignition; 15:36 sudden NQ flow down; NQ flow ignition; 15:41 sudden NQ flow down; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-06 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>27159.00</strong> (+1.52%; since the previous entry +40.00 pts, +0.15%) · share of the average daily range (ADR) used <strong>113.86%</strong></li>
