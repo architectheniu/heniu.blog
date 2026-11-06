@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Date: 2026-11-06 19:14
+Date: 2026-11-06 19:29
 URL: https://heniu.blog/en/t-log/tlog-2026-11-06/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.06 [EN]</h1>
+<h3>⏱️ [2026-11-06 19:29] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26980.89</strong> (+1.32%; since the previous entry +1.06 pts) · NQ <strong>27089.75</strong> (+1.26%; +9.00 pts) · QQQ <strong>656.41 USD</strong> (+1.44%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>112.38 M</strong> [euphoria] · CVD NQ <strong>4.52 K</strong> [demand test] (since the previous entry -0.52 K) · CVD QQQ <strong>-2.27 M</strong> [market breakdown] · TICKQ <strong>373</strong> [market surge] · SMA200 average <strong>-1.85</strong> [supply test] (+0.87) · direction gauge <strong>38</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.74 trillion USD</strong> (since the previous entry +0.01 trillion USD) · share of companies above 1 trillion USD <strong>69.6%</strong> (+0.0 pp) · average share price <strong>276.15 USD</strong> (+0.01 USD) · QQQ options: implied volatility <strong>30.28%</strong>, put/call <strong>1.13</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28170–28190</strong> (4.41% higher)</li>
+</ul>
+<p>The CVD flow for NDX and NQ increased, while for QQQ a decrease was recorded. Implied volatility on QQQ options is slightly over thirty percent, and the put-to-call ratio stands at a level above unity. The nearest resistance is located above the current NDX index price.</p>
 <h3>⏱️ [2026-11-06 19:14] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26979.83</strong> (+1.31%; since the previous entry -14.20 pts) · NQ <strong>27080.75</strong> (+1.24%; -19.50 pts) · QQQ <strong>656.23 USD</strong> (+1.42%)</li>
