@@ -7,6 +7,86 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Log #0222: Podsumowanie sesji 2026-11-06: NDX 26979.68 (+1.35%)
+
+Data: 2026-11-06 22:04
+Adres: https://heniu.blog/posts/log-0222/
+
+
+**Data sesji:** 2026-11-06
+
+> *Zamknięcie sesji 2026-11-06: NDX 26979.68 (+1.35%), NQ 27102.75 (+1.31%), QQQ 656.19 (+1.40%).*
+
+---
+
+### Przebieg sesji
+
+**Otwarcie i główny ruch dnia.** Sesja otworzyła się o 9:30 ET (15:30 PL) na poziomie NDX 27028.65. Maksimum sesji nastąpiło o 10:00 ET (16:00 PL) na poziomie 27269.60, a minimum o 12:53 ET (18:53 PL) na poziomie 26889.48. Zamknięcie na poziomie 26979.68 znajduje się 289.92 pkt poniżej maksimum oraz 90.20 pkt powyżej minimum.
+
+**Przepływy i szerokość rynku.** Kierunki skumulowanego przepływu (CVD) dla NDX, NQ i QQQ były rozbieżne, ponieważ NDX i QQQ odnotowały wartości ujemne, a NQ wartość dodatnią. Szerokość rynku TICKQ na zamknięciu wyniosła 223.00, przy średniej SMA200 na poziomie 2.94. Spółki powyżej 1 bln USD stanowią 66.89% kapitalizacji koszyka.
+
+**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji od 15:00 ET (21:00 PL) do zamknięcia o 16:00 ET (22:00 PL) indeks NDX spadł o 123.77 pkt (-0.46%). Anomalia na zamknięciu (MOC) wyniosła -34,21 M. Zmienność implikowana (IV) dla opcji na QQQ wynosiła 29.27%, a stosunek put/call wyniósł 1.09.
+
+**Bilans dnia.** Indeks Nasdaq-100 zamknął się z wynikiem +1.35% na poziomie 26979.68.
+
+---
+
+### Telemetria Zamknięcia
+
+* **Indeks Nasdaq-100 (NDX):** zamknięcie **26979.68 (+1.35%)**
+    * Przepływ skumulowany (CVD): **−99,22 M [panika]**
+    * Anomalia na zamknięciu (MOC): **-34,21 M**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **86.01%**
+    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-13.60%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+
+* **Kontrakt terminowy NQ:** zamknięcie **27102.75 (+1.31%)**
+    * Przepływ skumulowany (CVD): **5,12 K [test popytu]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **136.18%**
+
+* **ETF QQQ:** zamknięcie **656.19 (+1.40%)**
+    * Przepływ skumulowany (CVD): **−3,02 M [załamanie rynku]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **85.96%**
+
+* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **223.00 [wystrzał rynku]**
+    * Średnia 200 odczytów (SMA200): **2.94 [test popytu]**
+
+* **Opcje na QQQ:**
+    * Zmienność implikowana (IV): **29.27%**
+    * Stosunek put/call (otwarte pozycje, OI): **1.09**
+
+* **Koszyk Nasdaq-100:**
+    * Łączna kapitalizacja: **38.74 bln USD** (zmiana od poprzedniego zamknięcia: **+0.31 bln USD**)
+    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **66.89%** (zmiana: **-2.65 pkt proc.**)
+    * Średnia cena akcji w koszyku: **$277.01** (zmiana: **+$2.89**)
+    * Zmiany w grupie spółek powyżej 1 bln USD: **poniżej 1 bln USD spadły: WMT**
+
+* **Zdrowie danych sesji:** odczyty przez 92,5% sesji kasowej; najdłuższa luka 1 min; NDX bez zmiany dłużej niż 2 min w 4,0% odczytów; odrzucone nieaktualne odczyty: 4933
+
+---
+
+[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0222/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Podsumowanie sesji Nasdaq-100 2026-11-06",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Log #0221: Podsumowanie sesji 2026-11-05: NDX 26643.16 (-6.36%)
 
 Data: 2026-11-05 22:04
@@ -1072,24 +1152,5 @@ Adres: https://heniu.blog/posts/log-0216/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamenty #0050: Regeneron Pharmaceuticals: wyniki za 3Q2026
-
-Data: 2026-10-30 15:35
-Adres: https://heniu.blog/f-log/flog-2026-10-30-0050/
-
-
-Przychody Regeneron Pharmaceuticals (REGN) w III kwartale wyniosły 5,12 mld USD (+36,3% r/r), a zysk na akcję (księgowy) wzrósł do 18,45 USD (+35,5% r/r).
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) osiągnął poziom 19,16 USD (+36,0% r/r), podczas gdy zysk na akcję (skorygowany) wzrósł o 69,7% r/r do 20,07 USD. Zysk operacyjny spółki wyniósł 2,05 mld USD, co stanowi wzrost o 99,5% r/r w porównaniu do 1,03 mld USD rok wcześniej.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że relacje z partnerem Sanofi są bardzo dobre, a współpraca jest na mocnym torze i otwarta na nowe projekty. Według zarządu spółka jest otwarta na przejęcia i licencje na każdym etapie rozwoju leku, jednak o decyzjach decyduje nauka. Zarząd zaznaczył, że w przypadku porównywania zewnętrznych okazji z własnym działem badań, zazwyczaj wybierane są własne projekty. Według zarządu przygotowania do wprowadzenia nowego leku na miastenię są mocno zaawansowane. Zarząd podkreślał również, że wchodząc w nowe obszary, takie jak leczenie otyłości, spółka celuje w rozwiązania realnie zmieniające sytuację pacjentów, a nie w kolejne podobne leki.
 
 
