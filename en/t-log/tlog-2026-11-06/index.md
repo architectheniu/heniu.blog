@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Date: 2026-11-06 16:29
+Date: 2026-11-06 17:14
 URL: https://heniu.blog/en/t-log/tlog-2026-11-06/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.06 [EN]</h1>
+<h3>⏱️ [2026-11-06 17:14] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27024.40</strong> (+1.48%; since the previous entry -139.01 pts) · NQ <strong>27130.75</strong> (+1.42%; +143.75 pts) · QQQ <strong>657.36 USD</strong> (+1.59%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>120.67 M</strong> [euphoria] · CVD NQ <strong>17.63 K</strong> [accumulation] (since the previous entry +4.13 K) · CVD QQQ <strong>-1.23 M</strong> [sell-off] · TICKQ <strong>-291</strong> [market breakdown] · SMA200 average <strong>-9.38</strong> [supply test] (-3.42) · direction gauge <strong>20</strong> (±100 scale; -18)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.84 trillion USD</strong> (since the previous entry -0.16 trillion USD) · share of companies above 1 trillion USD <strong>69.6%</strong> (+2.5 pp) · average share price <strong>276.44 USD</strong> (-0.72 USD) · QQQ options: implied volatility <strong>29.11%</strong>, put/call <strong>0.97</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28170–28190</strong> (4.24% higher)</li>
+</ul>
+<p>Cumulative buy volume on NQ increased, while the CVD indicator for QQQ indicates a sell-off. The nearest support is below current prices, and resistance occurs above.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 17:10 sudden NQ flow down.</p>
 <h3>⏱️ [2026-11-06 16:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27163.41</strong> (+1.88%; since the previous entry -21.17 pts) · NQ <strong>26987.00</strong> (+1.83%; -315.25 pts) · QQQ <strong>660.88 USD</strong> (+2.02%)</li>
