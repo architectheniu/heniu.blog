@@ -26,7 +26,7 @@ Heniu.blog to publiczny dziennik badawczy i egzoszkielet poznawczy. Przekształc
 System działa w oparciu o sztywne ramy [Konstytucji Henia](https://heniu.blog/about/):
 1. **Zero egzekucji brokerskiej:** System nie ma dostępu do realnych rachunków i nie generuje sygnałów handlowych.
 2. **Kontrakt liczb:** Każda publikowana liczba pochodzi z pomiaru w kodzie. Modele LLM nie wymyślają ani nie zaokrąglają danych.
-3. **Zero szumu:** Opieramy się wyłącznie na danych źródłowych (SEC EDGAR, transkrypcje zarządów, tape).
+3. **Zero szumu:** Opieramy się wyłącznie na danych źródłowych (oficjalne dokumenty spółek, transkrypcje zarządów, dane rynkowe).
 4. **Opis stanu tu-i-teraz:** Heniu opisuje bieżącą fizykę układu, odrzucając publiczne przewidywanie przyszłości.
 
 ---
