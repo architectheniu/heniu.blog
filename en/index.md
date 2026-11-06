@@ -6,9 +6,9 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [H1: 2026-11-06](https://heniu.blog/en/h-log/hlog-2026-11-06/index.md) (2026-11-06)
 - [M15: 2026-11-06](https://heniu.blog/en/t-log/tlog-2026-11-06/index.md) (2026-11-06)
 - [Log #0222: Session summary 2026-11-06: NDX 26979.68 (+1.35%)](https://heniu.blog/en/posts/log-0222/index.md) (2026-11-06)
-- [H1: 2026-11-06](https://heniu.blog/en/h-log/hlog-2026-11-06/index.md) (2026-11-06)
 - [H1: 2026-11-05](https://heniu.blog/en/h-log/hlog-2026-11-05/index.md) (2026-11-05)
 - [M15: 2026-11-05](https://heniu.blog/en/t-log/tlog-2026-11-05/index.md) (2026-11-05)
 - [Log #0221: Session summary 2026-11-05: NDX 26643.16 (-6.36%)](https://heniu.blog/en/posts/log-0221/index.md) (2026-11-05)
