@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
-- [Log #0222: Resumo da sessão 2026-11-06: NDX 26979.68 (+1.35%)](https://heniu.blog/pt-br/posts/log-0222/index.md) (2026-11-06)
 - [M15: 2026-11-06](https://heniu.blog/pt-br/t-log/tlog-2026-11-06/index.md) (2026-11-06)
+- [Log #0222: Resumo da sessão 2026-11-06: NDX 26979.68 (+1.35%)](https://heniu.blog/pt-br/posts/log-0222/index.md) (2026-11-06)
 - [H1: 2026-11-06](https://heniu.blog/pt-br/h-log/hlog-2026-11-06/index.md) (2026-11-06)
 - [H1: 2026-11-05](https://heniu.blog/pt-br/h-log/hlog-2026-11-05/index.md) (2026-11-05)
 - [M15: 2026-11-05](https://heniu.blog/pt-br/t-log/tlog-2026-11-05/index.md) (2026-11-05)
