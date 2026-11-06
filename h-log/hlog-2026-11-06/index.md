@@ -1,6 +1,6 @@
 # H1: 2026-11-06
 
-Data: 2026-11-06 20:07
+Data: 2026-11-06 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-06/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.06</h1>
+<h3>📈 [2026-11-06 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX rośnie o 1,76% do poziomu 27098,59, przy czym skumulowany przepływ (CVD) wynosi 125,35 M, co wskazuje na silną euforię kupujących. Kontrakty NQ wykazują wzrost o 1,69% (cena 27205,00) z akumulacją na poziomie 12,71 K. Odnotowano jednak dywergencję w ETF QQQ: mimo wzrostu ceny o 1,88% (659,21), przepływ CVD wynosi -1,72 M, co sugeruje dystrybucję na rynku kasowym. Wskaźnik kierunku przepływów wynosi 50, co oznacza neutralny balans między napływem a odpływem kapitału.</li>
+<li><strong>Szeroki rynek i opcje:</strong> Aktywność TICKQ wynosi 239,00, co przy średniej SMA200 na poziomie 2,58 wskazuje na bardzo wysoką intensywność ruchów na szerokim rynku Nasdaq. Na rynku opcji QQQ wolumen osiągnął 6,552,086, przy zmienności implikowanej (IV) 28,86%. Wskaźnik Put/Call Ratio na poziomie 1,18 sugeruje przewagę pozycji zabezpieczających (hedgingu) lub oczekiwania na większą zmienność, przy oczekiwanym przez rynek zasięgu ruchu w przedziale 647,37 do 669,09 punktów.</li>
+<li><strong>Kontekst techniczny:</strong> Bieżąca korekta od szczytu z dnia 28.10 (29847,38) wynosi -9,21% (-2749 pkt). Na podstawie danych historycznych jest to korekta głębsza niż 88% dotychczasowych ruchów, co klasyfikuje ją jako duży swing. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 28170–28190.</li>
+</ul>
+<p>Raport H-Log: 2026-11-06 21:07</p>
 <h3>📈 [2026-11-06 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
