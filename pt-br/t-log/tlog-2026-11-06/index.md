@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Data: 2026-11-06 15:44
+Data: 2026-11-06 16:14
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-06/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.06 [PT-BR]</h1>
+<h3>⏱️ [2026-11-06 16:14] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27184.58</strong> (+2.08%) · NQ <strong>27302.25</strong> (+2.03%) · QQQ <strong>661.48 USD</strong> (+2.23%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>150.27 M</strong> [euforia] · CVD NQ <strong>26.13 K</strong> [acumulação] · CVD QQQ <strong>-495.5 K</strong> [teste de oferta] · TICKQ <strong>466</strong> [disparada do mercado] · média SMA200 <strong>-4.63</strong> [teste de oferta] · indicador de direção <strong>23</strong> (escala ±100; desde a entrada anterior +8)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>39.04 trilhões de USD</strong> (desde a entrada anterior +0.05 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>67.0%</strong> (+0.1 p.p.) · preço médio das ações <strong>277.52 USD</strong> (-0.65 USD) · opções sobre QQQ: volatilidade implícita <strong>28.33%</strong>, put/call <strong>0.75</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28170–28190</strong> (3.62% acima)</li>
+</ul>
+<p>Após a ocorrência de um fluxo repentino para baixo, seguido por um movimento rápido para cima nos contratos NQ, o preço registrou uma alta. No nível dos índices US100, formou-se uma nova zona de volume acima das cotações atuais, que exerce a função de resistência.</p>
+<p><strong>Alarmes de fluxo desde a entrada anterior:</strong> 16:05 fluxo repentino de NQ para baixo; 16:10 fluxo repentino de NQ para cima.</p>
 <h3>⏱️ [2026-11-06 15:44] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX sem dados · NQ sem dados · QQQ sem dados</li>
