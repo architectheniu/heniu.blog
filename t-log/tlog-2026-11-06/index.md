@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Data: 2026-11-06 20:59
+Data: 2026-11-06 21:14
 Adres: https://heniu.blog/t-log/tlog-2026-11-06/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.06</h1>
+<h3>⏱️ [2026-11-06 21:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27130.39</strong> (+1.88%; od poprzedniego wpisu +38.71 pkt) · NQ <strong>27230.75</strong> (+1.80%; +17.50 pkt) · QQQ <strong>659.81 USD</strong> (+1.97%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>130.72 M</strong> [euforia] · CVD NQ <strong>15.48 K</strong> [akumulacja] (od poprzedniego wpisu +1.79 K) · CVD QQQ <strong>-1.54 M</strong> [wyprzedaż] · TICKQ <strong>92</strong> [akumulacja] · średnia SMA200 <strong>1.84</strong> [test popytu] (+0.82) · wskaźnik kierunku <strong>50</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.96 bln USD</strong> (od poprzedniego wpisu +0.11 bln USD) · udział spółek powyżej 1 bln USD <strong>66.9%</strong> (+0.0 pp) · średnia cena akcji <strong>277.91 USD</strong> (+0.82 USD) · opcje QQQ: zmienność implikowana <strong>28.89%</strong>, put/call <strong>1.18</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>28170–28190</strong> (3.83% wyżej)</li>
+</ul>
+<p>Cena NQ wzrosła po nagłym przepływie kapitału, który został odnotowany w poprzednim alarmie. W przepływie CVD dla NQ nastąpił wzrost akumulacji, a najbliższy opór znajduje się powyżej obecnych poziomów.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 21:01 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-06 20:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27091.68</strong> (+1.73%; od poprzedniego wpisu +9.62 pkt) · NQ <strong>27213.25</strong> (+1.69%; +30.75 pkt) · QQQ <strong>659.41 USD</strong> (+1.90%)</li>
