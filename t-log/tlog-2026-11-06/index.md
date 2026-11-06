@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Data: 2026-11-06 17:59
+Data: 2026-11-06 18:14
 Adres: https://heniu.blog/t-log/tlog-2026-11-06/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.06</h1>
+<h3>⏱️ [2026-11-06 18:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27102.36</strong> (+1.77%; od poprzedniego wpisu -58.76 pkt) · NQ <strong>27210.00</strong> (+1.71%; -57.75 pkt) · QQQ <strong>659.30 USD</strong> (+1.89%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>122.99 M</strong> [euforia] · CVD NQ <strong>12.83 K</strong> [akumulacja] (od poprzedniego wpisu -4.76 K) · CVD QQQ <strong>-1.6 M</strong> [wyprzedaż] · TICKQ <strong>194</strong> [akumulacja] · średnia SMA200 <strong>-4.42</strong> [test podaży] (+0.20) · wskaźnik kierunku <strong>38</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.92 bln USD</strong> (od poprzedniego wpisu -0.08 bln USD) · udział spółek powyżej 1 bln USD <strong>67.0%</strong> (+0.0 pp) · średnia cena akcji <strong>277.63 USD</strong> (-0.57 USD) · opcje QQQ: zmienność implikowana <strong>29.12%</strong>, put/call <strong>1.02</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>28170–28190</strong> (3.94% wyżej)</li>
+</ul>
+<p>Nastąpiło przebicie wsparcia węzła wolumenowego ekosystemu US100, co spowodowało spadek notowań. Przepływ CVD dla indeksu NQ uległ zmniejszeniu w porównaniu do poprzedniego wpisu, natomiast wskaźnik TICKQ wskazuje na akumulację. Najbliższy opór znajduje się powyżej obecnych poziomów cenowych.</p>
 <h3>⏱️ [2026-11-06 17:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27161.12</strong> (+1.99%; od poprzedniego wpisu +16.03 pkt) · NQ <strong>27267.75</strong> (+1.92%; +14.25 pkt) · QQQ <strong>660.68 USD</strong> (+2.11%)</li>
