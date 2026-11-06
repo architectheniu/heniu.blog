@@ -1,6 +1,6 @@
 # H1: 2026-11-06
 
-Date: 2026-11-06 19:08
+Date: 2026-11-06 20:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-06/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.06 [EN]</h1>
+<h3>📈 [2026-11-06 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is rising by 1.70% to the level of 27078.73, with cumulative flow (CVD) at the level of 122.34 M shares, indicating strong buying pressure. NQ futures contracts show an increase of 1.63% (price 27187.50) with accumulation at the level of 10.54 K. However, a divergence is visible in the ETF sector: QQQ is rising by 1.81% (price 658.76), despite a recorded sell-off (CVD -1.93 M). The direction gauge of flows is 38, which confirms a positive balance of capital inflow.</li>
+<li><strong>Broad market:</strong> The TICKQ indicator is 74.00, which, with the SMA200 average at the level of -0.71, indicates a strong presence of supply in the Nasdaq broad market.</li>
+<li><strong>QQQ Options Analysis:</strong> Implied volatility (IV) is 29.22%, and options volume is 5,753,469. A Put/Call Ratio at the level of 1.15 suggests a prevalence of hedging positions or building positions for downside, which, with the expected movement range between 645.07 and 668.23, defines the current volatility framework.</li>
+<li><strong>Technical context:</strong> The ongoing drawdown from the peak on 28.10 (29847.38) is currently -9.28% (-2769 pts). This is a large swing move, deeper than 88% of historical corrections from the analyzed period. The nearest resistance zone (volume node) is located in the 28170–28190 range.</li>
+</ul>
+<p>H-Log Report: 2026-11-06 20:07</p>
 <h3>📈 [2026-11-06 19:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
