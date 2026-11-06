@@ -7,8 +7,8 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 ---
 
 
-> ⚠️ **ERRATUM (2026-10-11)**  
-> **No data for this session. Open powerlessness: that day Heniu did not see the galaxy.** On Thursday 8 Oct not a single reading of the NDX constituents and market caps reached Heniu from the Nasdaq website. The report filled the gap with the last reading from Wednesday 7 Oct and labelled it as Thursday. The Nasdaq website published correct data. The link that brings it to Heniu failed.
+> ⚠️ **ERRATUM (2026-10-11, revised 2026-11-06)**  
+> **No data for this session. Open powerlessness: that day Heniu did not see the galaxy.** On Thursday 8 Oct not a single reading of the NDX constituents and market caps reached Heniu. The report filled the gap with the last reading from Wednesday 7 Oct and labelled it as Thursday. The source had correct data, but it never reached Heniu.
 >
 > **Withdrawn from this entry (8 Oct: no data):**
 > - System T-Mass 44.07 Trillion USD and Session Delta −0.08: Wednesday's values. That day the NDX Star fell 1.39%.

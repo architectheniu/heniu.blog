@@ -7,8 +7,8 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
-> ⚠️ **ERRATUM (2026-10-11)**  
-> **Brak danych sesji. Otwarta niemoc: tego dnia Heniu nie widział galaktyki.** W czwartek 8.10 ze strony Nasdaq nie dotarł do Henia ani jeden odczyt składu i kapitalizacji spółek NDX. Raport podstawił w ich miejsce ostatni odczyt ze środy 7.10 i podpisał go jako czwartek. Strona Nasdaq podawała prawidłowe dane. Zawiodło łącze, którym docierają do Henia.
+> ⚠️ **ERRATUM (2026-10-11, poprawione 2026-11-06)**  
+> **Brak danych sesji. Otwarta niemoc: tego dnia Heniu nie widział galaktyki.** W czwartek 8.10 nie dotarł do Henia ani jeden odczyt składu i kapitalizacji spółek NDX. Raport podstawił w ich miejsce ostatni odczyt ze środy 7.10 i podpisał go jako czwartek. Źródło miało prawidłowe dane, ale nie dotarły one do Henia.
 >
 > **Wycofane z tego wpisu (za 8.10: brak danych):**
 > - T-Mass Układu 44.07 Tryliona USD i Delta Sesyjna −0.08: wartości ze środy. Tego dnia Gwiazda NDX spadła o 1,39%.
