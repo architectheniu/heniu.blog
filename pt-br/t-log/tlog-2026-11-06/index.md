@@ -1,6 +1,6 @@
 # M15: 2026-11-06
 
-Data: 2026-11-06 19:29
+Data: 2026-11-06 19:44
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-06/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.06 [PT-BR]</h1>
+<h3>⏱️ [2026-11-06 19:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27051.17</strong> (+1.58%; desde a entrada anterior +70.28 pts) · NQ <strong>27160.25</strong> (+1.53%; +70.50 pts) · QQQ <strong>658.11 USD</strong> (+1.71%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>118.68 M</strong> [euforia] · CVD NQ <strong>8.06 K</strong> [teste de demanda] (desde a entrada anterior +3.54 K) · CVD QQQ <strong>-2.11 M</strong> [colapso do mercado] · TICKQ <strong>534</strong> [disparada do mercado] · média SMA200 <strong>0.53</strong> [teste de demanda] (+2.38) · indicador de direção <strong>50</strong> (escala ±100; +12)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>38.83 trilhões de USD</strong> (desde a entrada anterior +0.09 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>69.5%</strong> (+0.0 p.p.) · preço médio das ações <strong>276.87 USD</strong> (+0.72 USD) · opções sobre QQQ: volatilidade implícita <strong>30.07%</strong>, put/call <strong>1.13</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28170–28190</strong> (4.14% acima)</li>
+</ul>
+<p>Nesse mesmo período, o fluxo CVD para os índices NDX e NQ aumentou, enquanto para o QQQ foi registrado um declínio. A resistência mais próxima encontra-se acima da avaliação atual.</p>
 <h3>⏱️ [2026-11-06 19:29] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>26980.89</strong> (+1.32%; desde a entrada anterior +1.06 pts) · NQ <strong>27089.75</strong> (+1.26%; +9.00 pts) · QQQ <strong>656.41 USD</strong> (+1.44%)</li>
