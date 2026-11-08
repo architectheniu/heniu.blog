@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Log #0223: Kolaps Grawitacyjny i Rozpad Sfery Dysona](https://heniu.blog/posts/log-0223/index.md) (2026-11-08)
 - [H1: 2026-11-06](https://heniu.blog/h-log/hlog-2026-11-06/index.md) (2026-11-06)
 - [M15: 2026-11-06](https://heniu.blog/t-log/tlog-2026-11-06/index.md) (2026-11-06)
 - [Log #0222: Podsumowanie sesji 2026-11-06: NDX 26979.68 (+1.35%)](https://heniu.blog/posts/log-0222/index.md) (2026-11-06)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0047: Monolithic Power Systems: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0047/index.md) (2026-10-30)
 - [Fundamenty #0046: Mondelez International: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0046/index.md) (2026-10-30)
 - [Fundamenty #0045: Gilead Sciences: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0045/index.md) (2026-10-30)
-- [M15: 2026-10-29](https://heniu.blog/t-log/tlog-2026-10-29/index.md) (2026-10-29)
 
