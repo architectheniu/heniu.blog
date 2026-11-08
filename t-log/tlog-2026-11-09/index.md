@@ -1,0 +1,19 @@
+# M15: 2026-11-09
+
+Data: 2026-11-09 00:29
+Adres: https://heniu.blog/t-log/tlog-2026-11-09/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>T-LOG 2026.11.09</h1>
+<h3>⏱️ [2026-11-09 00:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
+<ul>
+<li><strong>Kontrakt NQ:</strong> <strong>27125.25</strong> (+0.15%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>47.95%</strong></li>
+<li><strong>Przepływ NQ:</strong> CVD <strong>4.03 K</strong> [test popytu] · wskaźnik kierunku <strong>-30</strong> (skala ±100)</li>
+<li>NDX, QQQ, szerokość rynku i koszyk spółek wracają z otwarciem sesji kasowej o 15:30 czasu polskiego.</li>
+</ul>
+<p>Cena kontraktu NQ kilkukrotnie przebiła poziomy wsparcia i oporu, co spowodowało dużą zmienność w krótkim czasie. Po wcześniejszym nagłym przepływie w górę, obecny stan wskaźnika CVD sugeruje testowanie popytu, a kontrakt utrzymuje się powyżej ostatnio przebitego wsparcia. Na rynku pojawił się nowy węzeł wolumenowy znacznie poniżej aktualnej ceny.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 00:06 nagły przepływ NQ w górę.</p>
+

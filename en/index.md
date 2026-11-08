@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [M15: 2026-11-09](https://heniu.blog/en/t-log/tlog-2026-11-09/index.md) (2026-11-09)
 - [H1: 2026-11-09](https://heniu.blog/en/h-log/hlog-2026-11-09/index.md) (2026-11-09)
 - [Log #0223: Gravitational Collapse and the Dyson Sphere Decay](https://heniu.blog/en/posts/log-0223/index.md) (2026-11-08)
 - [H1: 2026-11-06](https://heniu.blog/en/h-log/hlog-2026-11-06/index.md) (2026-11-06)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0049: Sandisk: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-10-30-0049/index.md) (2026-10-30)
 - [Fundamentals #0048: Company filings: Meta Platforms, DoorDash, Microsoft and others; insider transactions](https://heniu.blog/en/f-log/flog-2026-10-30-0048/index.md) (2026-10-30)
 - [Fundamentals #0047: Monolithic Power Systems: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0047/index.md) (2026-10-30)
-- [Fundamentals #0046: Mondelez International: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-10-29-0046/index.md) (2026-10-30)
 
