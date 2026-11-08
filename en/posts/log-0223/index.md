@@ -1,0 +1,87 @@
+# Log #0223: Gravitational Collapse and the Dyson Sphere Decay
+
+Date: 2026-11-08 09:01
+URL: https://heniu.blog/en/posts/log-0223/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+**Stardate:** 2026.11.08\
+**Systems Status:** External Observation\
+**Sector:** Inner Volatility Bands
+
+---
+
+### Weekly Telemetry: Opening and Closing Balance
+
+> *The weekly cycle was characterized by rapid mass decompression and a negative energy balance, leading to a significant reduction in T-Mass of 3.58%. The system transitioned from a state of expansion to a state of rapid contraction under the influence of dominant supply pressure.*
+
+* **Subspace Scanner (Weekly Mass Balance):**
+    * *System T-Mass (Open → Close):* **40.17 T → 38.73 trillion USD**
+    * *Weekly Mass Delta:* **-1.44 trillion USD (-3.58%)**
+    * *Core Density (Heavy Nine):* **68.19% → 66.90%** (Delta: **-1.29 pp**)
+    * *Average Action (Periphery Temperature):* **$295.98 → $277.01** (Delta: **-$18.97 | -6.41%**)
+    * *Core Composition Fluctuation (>1T):* **Stability (no emergence/collapse)**
+
+* **the NDX Star (Sun — 5 Session Balance):**
+    * *Price (Previous Friday Close → Friday Close):* **28389.61 → 26979.68 (-1409.93 pts | -4.97%)**
+    * *Weekly Range (Extremes):* **26625.50 — 28801.48 (Amplitude: 2175.98 pts)**
+    * *Cumulative Energy Flow (Weekly CVD):* **−23.47 M [sell-off]**
+
+* **the NQ Probe (Mercury — 5 Session Balance):**
+    * *Price (Previous Friday Close → Friday Close):* **28534.60 → 27102.75 (-1431.85 pts | -5.02%)**
+    * *Weekly Range (Extremes):* **26595.00 — 28937.00 (Amplitude: 2342.00 pts)**
+    * *Cumulative Energy Flow (Weekly CVD):* **−143.76 K [panic]**
+
+* **the Dyson Sphere (QQQ) (— 5 Session Balance):**
+    * *Price (Previous Friday Close → Friday Close):* **690.59 → 656.19 (-34.40 USD | -4.98%)**
+    * *Weekly Range (Extremes):* **647.77 — 700.66 (Amplitude: 52.89 USD)**
+    * *Cumulative Population Flow (Weekly CVD):* **−10.57 M [panic]**
+
+* **Background Radiation (TICKQ — Weekly Market Breadth):**
+    * *Weekly Average Radiation (TICKQ SMA200):* **+6.59 [demand test]**
+    * *Weekly Radiation Range:* **Min -9.38 / Max +18.64**
+
+* **Gravitational Structure (Options — the Dyson Sphere (QQQ)):**
+    * *Implied Volatility (IV):* **29.27%** (Weekly Average: **27.41%** | Change from Monday: **+1.56 pp**)
+    * *Position Structure (Put/Call OI):* **1.09**
+
+---
+
+### Logbook: Gravitational Collapse and Dyson Sphere Disintegration
+
+**1. Weekly Trajectory and Price Volatility (Session overview Monday–Friday)**
+In the studied cycle, a rapid change in object trajectories occurred. the NDX Star transitioned from the 28389.61 level to 26979.68, representing a drop of 1409.93 pts (-4.97%). The amplitude of fluctuations on a weekly scale (2175.98 pts) indicates extreme orbital instability. the NQ Probe showed a higher movement amplitude (2342.00 pts), ending the cycle at 27102.75 (-5.02%). the Dyson Sphere (QQQ) correlated with the central movement, losing 4.98% of its value (from 690.59 to 656.19 USD). The entire system transitioned from a phase of testing upper extremes (High: NDX 28801.48) to deep compression towards local lows (Low: NDX 26625.50).
+
+**2. Energy Balance and Cumulative Fuel (Weekly CVD and Volume)**
+The energy balance indicates total dominance of selling forces. Cumulative CVD for NDX amounted to -23.47M, signifying massive liquidity extraction. In the case of the NQ Probe, a state of panic was recorded (CVD: -143.76K), and the QQQ Sphere showed a cumulative flow of aggressive supply at the level of -10.57M. The total fuel balance in this cycle is strongly negative, which prevented the maintenance of previous support levels and led to a rapid outflow of energy from the system.
+
+**3. Mass Evolution, Core Density, and Option Shields**
+A significant reduction in the total mass of the system (T-Mass) occurred, from 40.17 T to 38.73 T (-3.58%). Core density (objects >1T) underwent dilution, falling from 68.19% to 66.90%. The average action in the system lost 6.41% of its value ($295.98 → $277.01). Despite mass degradation, the Core composition remained stable without sudden collapses of individual singularities. Implied Volatility (IV) rose to 29.27% (an increase of 1.56 pp from the beginning of the week), which, with Put/Call OI at the 1.09 level, indicates the construction of protective shields in response to increased turbulence. TICKQ radiation (SMA200: +6.59) suggests attempts at local demand testing within the volatility noise.
+
+**Quantum Verdict:**
+The system is in a phase of rapid mass decrease. Dominant supply force generated a strong downward vector, which reduced T-Mass and lowered core density. The physics of the system after the cycle close indicates a state of high kinetic energy (volatility) coupled with a lack of fuel for immediate expansion.
+
+**Status:** EXTERNAL OBSERVATION. Shields active.
+
+**End of log.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Quantum Market Cosmology: Logbook",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+
