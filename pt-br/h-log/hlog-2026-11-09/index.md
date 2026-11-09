@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Data: 2026-11-09 11:08
+Data: 2026-11-09 12:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-09/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.09 [PT-BR]</h1>
+<h3>📈 [2026-11-09 12:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado à vista:</strong> a sessão à vista (Spot) está atualmente fechada; o indicador TICKQ está inativo. A análise baseia-se em contratos futuros e dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ estão sendo negociados em 27158.25 (+0.27%) com um fluxo acumulado (CVD) positivo de 7,83 K, o que indica um teste de demanda em uma sessão fora do horário regular.</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 30.40%, e o Put/Call Volume Ratio em 1.21 sugere uma predominância de posições de hedge ou a expectativa de uma maior pressão de oferta. O alcance esperado de movimento com base no volume de 8,237,419 opções está na faixa de 645.32 a 666.88.</li>
+<li><strong>Contexto de correção e níveis:</strong> A correção em curso desde o pico do dia 28.10 (29847.38) é de -9.57% (-2857 pts), o que classifica este movimento como um grande swing, mais profundo do que 88% das correções históricas no período analisado. A zona de resistência mais próxima (nó de volume) encontra-se na faixa de 26990–27010.</li>
+<li><strong>Fluxos de capital:</strong> O indicador de direção agregado de fluxos é 5, o que indica uma tendência neutra com uma leve predominância de entrada de capital.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-09 12:07</p>
 <h3>📈 [2026-11-09 11:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

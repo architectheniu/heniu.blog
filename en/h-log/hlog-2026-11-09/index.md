@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Date: 2026-11-09 11:07
+Date: 2026-11-09 12:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.09 [EN]</h1>
+<h3>📈 [2026-11-09 12:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>the cash session (Spot) status:</strong> the cash session (Spot) is currently closed; TICKQ indicator is inactive. Analysis is based on futures contracts and data from the regular session close.</li>
+<li><strong>NQ contract situation:</strong> NQ contracts are trading at 27158.25 (+0.27%) with a positive cumulative flow (CVD) of 7.83 K, indicating a demand test in the after-hours session.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 30.40%, and the Put/Call Volume Ratio at 1.21 suggests a dominance of hedging positions or anticipation of greater supply pressure. The expected range of movement based on a volume of 8,237,419 options lies within the 645.32 to 666.88 range.</li>
+<li><strong>Correction context and levels:</strong> The ongoing drawdown from Heniu's peak on 28.10 (29847.38) is -9.57% (-2857 pts), which classifies this move as a large swing, deeper than 88% of historical corrections in the studied period. The nearest resistance zone (volume node) is located in the 26990–27010 range.</li>
+<li><strong>Capital flows:</strong> The aggregate direction gauge of flows is 5, indicating a neutral trend with a slight predominance of capital inflow.</li>
+</ul>
+<p>H-Log Report: 2026-11-09 12:07</p>
 <h3>📈 [2026-11-09 11:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
