@@ -1,6 +1,6 @@
 # M15: 2026-11-09
 
-Date: 2026-11-09 18:14
+Date: 2026-11-09 18:29
 URL: https://heniu.blog/en/t-log/tlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.09 [EN]</h1>
+<h3>⏱️ [2026-11-09 18:29] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27862.19</strong> (+3.23%; since the previous entry +9.38 pts) · NQ <strong>27961.25</strong> (+3.23%; +4.25 pts) · QQQ <strong>677.65 USD</strong> (+3.28%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-28.37 M</strong> [sell-off] · CVD NQ <strong>51.02 K</strong> [market surge] (since the previous entry -0.25 K) · CVD QQQ <strong>1.84 M</strong> [accumulation] · TICKQ <strong>437</strong> [market surge] · SMA200 average <strong>7.61</strong> [demand test] (+2.24) · direction gauge <strong>-10</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>39.78 trillion USD</strong> (since the previous entry -0.02 trillion USD) · share of companies above 1 trillion USD <strong>66.5%</strong> (+0.0 pp) · average share price <strong>288.21 USD</strong> (-0.23 USD) · QQQ options: implied volatility <strong>25.61%</strong>, put/call <strong>1.07</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26990–27010</strong> (3.06% lower) · nearest above the price <strong>28170–28190</strong> (1.10% higher)</li>
+</ul>
+<p>The TICKQ indicator and CVD for QQQ indicate increasing dynamics and accumulation, while for NDX a sell-off was recorded. The current NDX price is above the nearest support and below the nearest resistance.</p>
 <h3>⏱️ [2026-11-09 18:14] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27852.81</strong> (+3.20%; since the previous entry +26.01 pts) · NQ <strong>27957.00</strong> (+3.22%; +20.75 pts) · QQQ <strong>677.52 USD</strong> (+3.26%)</li>
