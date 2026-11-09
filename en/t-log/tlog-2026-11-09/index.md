@@ -1,6 +1,6 @@
 # M15: 2026-11-09
 
-Date: 2026-11-09 17:59
+Date: 2026-11-09 18:14
 URL: https://heniu.blog/en/t-log/tlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.09 [EN]</h1>
+<h3>⏱️ [2026-11-09 18:14] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27852.81</strong> (+3.20%; since the previous entry +26.01 pts) · NQ <strong>27957.00</strong> (+3.22%; +20.75 pts) · QQQ <strong>677.52 USD</strong> (+3.26%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-34.22 M</strong> [sell-off] · CVD NQ <strong>51.27 K</strong> [market surge] (since the previous entry +2.53 K) · CVD QQQ <strong>1.87 M</strong> [accumulation] · TICKQ <strong>244</strong> [market surge] · SMA200 average <strong>5.37</strong> [demand test] (-1.24) · direction gauge <strong>-10</strong> (±100 scale; +45)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>39.80 trillion USD</strong> (since the previous entry +0.07 trillion USD) · share of companies above 1 trillion USD <strong>66.5%</strong> (+0.0 pp) · average share price <strong>288.44 USD</strong> (+0.40 USD) · QQQ options: implied volatility <strong>25.79%</strong>, put/call <strong>1.07</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26990–27010</strong> (3.03% lower) · nearest above the price <strong>28170–28190</strong> (1.14% higher)</li>
+</ul>
+<p>Indices are rising, despite a sell-off being recorded for NDX, while the TICKQ indicator shows a sharp increase in market dynamics. Market capitalization and the average stock price have increased since the previous entry. Resistance is located above current levels, and support is below.</p>
 <h3>⏱️ [2026-11-09 17:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27826.80</strong> (+3.11%; since the previous entry +53.56 pts) · NQ <strong>27936.25</strong> (+3.14%; +60.00 pts) · QQQ <strong>677.04 USD</strong> (+3.19%)</li>
