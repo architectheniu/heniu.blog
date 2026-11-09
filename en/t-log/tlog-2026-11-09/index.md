@@ -1,6 +1,6 @@
 # M15: 2026-11-09
 
-Date: 2026-11-09 21:59
+Date: 2026-11-09 22:29
 URL: https://heniu.blog/en/t-log/tlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.09 [EN]</h1>
+<h3>⏱️ [2026-11-09 22:29] · Futures (cash market closed)</h3>
+<ul>
+<li><strong>NQ contract:</strong> <strong>27977.50</strong> (+3.29%; since the previous entry -52.00 pts, -0.19%) · share of the average daily range (ADR) used <strong>172.52%</strong></li>
+<li><strong>NQ flow:</strong> CVD <strong>38.38 K</strong> [accumulation] (since the previous entry -13.57 K) · direction gauge <strong>-100</strong> (±100 scale; -40)</li>
+<li>NDX, QQQ, market breadth and the company basket return with the opening of the cash session on Tuesday at 15:30 Polish time.</li>
+</ul>
+<p>There is therefore a discrepancy between flow dynamics and the instrument's movement. The nearest resistance is located above the current level, while support is located lower.</p>
 <h3>⏱️ [2026-11-09 21:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27923.67</strong> (+3.46%; since the previous entry -46.37 pts) · NQ <strong>28029.50</strong> (+3.49%; -40.50 pts) · QQQ <strong>679.25 USD</strong> (+3.53%)</li>
