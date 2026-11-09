@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Data: 2026-11-09 01:08
+Data: 2026-11-09 02:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-09/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.09 [PT-BR]</h1>
+<h3>📈 [2026-11-09 02:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se nos contratos futuros NQ e nos dados de fechamento da sessão regular.</li>
+<li><strong>Contratos NQ:</strong> O preço dos contratos é 27120.25 (+0.12%). O fluxo acumulado (CVD) no nível de 6,43 K indica um teste de demanda na atual sessão de futuros.</li>
+<li><strong>Análise do mercado à vista (fechamento):</strong> O Índice NDX fechou no nível de 26985.66 (+1.35%), no entanto, o fluxo acumulado (CVD) foi de −99,22 mi, o que indica uma forte pressão de venda e pânico no setor durante a sessão regular. O indicador de direção de fluxo agregado é de -30, o que confirma a predominância da distribuição de capital.</li>
+<li><strong>Contexto de correção:</strong> Está ocorrendo um grande swing de baixa. Desde o pico do dia 28.10 (29847.38), o índice NDX perdeu 9.59% (2862 pts). A correção atual é mais profunda do que 88% das correções históricas no período analisado. A maior correção registrada foi de -11.96%.</li>
+<li><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 26990–27010.</li>
+<li><strong>Mercado de opções sobre QQQ:</strong> Com um volume de 8,237,419 e uma Put/Call Ratio no nível de 1.21, o mercado mostra dominância de posições de hedge e expectativas de queda. A volatilidade implícita (IV) é de 30.40%, e o alcance esperado de movimento situa-se no intervalo de 645.32 a 666.88.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-09 02:07</p>
 <h3>📈 [2026-11-09 01:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

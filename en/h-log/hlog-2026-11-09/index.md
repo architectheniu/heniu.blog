@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Date: 2026-11-09 01:08
+Date: 2026-11-09 02:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.09 [EN]</h1>
+<h3>📈 [2026-11-09 02:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contracts:</strong> Contract price is 27120.25 (+0.12%). Cumulative flow (CVD) at 6,43 K indicates a demand test in the current futures session.</li>
+<li><strong>the cash session analysis (close):</strong> the NDX Star closed at 26985.66 (+1.35%), however, cumulative flow (CVD) was −99,22 M, indicating strong selling pressure and panic in the sector during the regular session. The aggregate direction gauge of flows is -30, confirming the dominance of capital distribution.</li>
+<li><strong>Correction context:</strong> A large downward swing is underway. From the peak on 28.10 (29847.38), the NDX Star has lost 9.59% (2862 pts). The current correction is deeper than 88% of historical corrections in the analyzed period. The largest recorded correction was -11.96%.</li>
+<li><strong>Technical levels:</strong> The nearest resistance zone (volume node) is located in the 26990–27010 range.</li>
+<li><strong>Options on QQQ market:</strong> With a volume of 8,237,419 and a Put/Call Ratio at 1.21, the market shows a dominance of hedging positions and expectations for declines. Implied volatility (IV) is 30.40%, and the expected range of movement is between 645.32 and 666.88.</li>
+</ul>
+<p>H-Log Report: 2026-11-09 02:07</p>
 <h3>📈 [2026-11-09 01:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
