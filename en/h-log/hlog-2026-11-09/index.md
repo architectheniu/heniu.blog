@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Date: 2026-11-09 02:08
+Date: 2026-11-09 03:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.09 [EN]</h1>
+<h3>📈 [2026-11-09 03:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> The cash session (Spot) is currently closed. Analysis is based on the NQ futures contract trading and data from the regular session close.</li>
+<li><strong>NQ contract situation:</strong> Contract price is 27191.75 (+0.39%). Cumulative flow (CVD) at 6.87K indicates a demand test during the overnight session.</li>
+<li><strong>the cash session analysis (close):</strong> The NDX index closed at 26985.66 (+1.35%), however, a drawdown from Heniu's peak on 28.10 (29847.38) of -9.59% (-2862 pts) has been recorded. This is a large swing, deeper than 88% of previous corrections in the studied period. The direction gauge is -30, which means an advantage of capital distribution. Despite the increase in the index price, the CVD for NDX was -99.22M, indicating strong supply pressure during the cash session.</li>
+<li><strong>Technical levels:</strong> The nearest resistance zone (volume node) is in the 26990–27010 range.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 30.40%, and the Put/Call Ratio at 1.21 suggests an advantage of hedging positions or anticipation of further downward pressure. The market-expected move range is from 645.32 to 666.88 points.</li>
+</ul>
+<p>H-Log Report: 2026-11-09 03:07</p>
 <h3>📈 [2026-11-09 02:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
