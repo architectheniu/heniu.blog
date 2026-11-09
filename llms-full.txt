@@ -7,6 +7,86 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Log #0224: Podsumowanie sesji 2026-11-09: NDX 27905.46 (+3.40%)
+
+Data: 2026-11-09 22:04
+Adres: https://heniu.blog/posts/log-0224/
+
+
+**Data sesji:** 2026-11-09
+
+> *Zamknięcie sesji 2026-11-09: NDX 27905.46 (+3.40%), NQ 27991.00 (+3.35%), QQQ 678.77 (+3.44%).*
+
+---
+
+### Przebieg sesji
+
+**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (15:30 PL) od poziomów NDX 27256.30 i NQ 27342.00. W ciągu pierwszych 30 minut NDX wzrósł o 429.82 pkt (+1.58%) do 27686.12, a NQ wzrósł o 445.25 pkt (+1.63%) do 27787.25. Minimum sesji odnotowano o 9:31 ET (15:31 PL) na poziomie NDX 27233.70, a maksimum o 15:29 ET (21:29 PL) na poziomie NDX 28022.97. Zamknięcie na poziomie 27905.46 leży 117.51 pkt poniżej maksimum i 671.76 pkt powyżej minimum.
+
+**Przepływy i szerokość rynku.** Kierunki przepływu skumulowanego CVD dla NDX (ujemny), NQ (dodatni) oraz QQQ (dodatni) były rozbieżne. Wskaźnik TICKQ na zamknięciu wyniósł 211.00, przy średniej SMA200 na poziomie 27.54. Udział spółek powyżej 1 bln USD w kapitalizacji koszyka wyniósł 66.41%.
+
+**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX spadł o 11.93 pkt (-0.04%) do zamknięcia. Anomalia na zamknięciu (MOC) wyniosła -243,36 M. Dla opcji na QQQ zmienność implikowana (IV) wynosiła 25.09%, a stosunek put/call wynosił 1.10.
+
+**Bilans dnia.** Indeks Nasdaq-100 zamknął się ze wzrostem o 3.40% na poziomie 27905.46.
+
+---
+
+### Telemetria Zamknięcia
+
+* **Indeks Nasdaq-100 (NDX):** zamknięcie **27905.46 (+3.40%)**
+    * Przepływ skumulowany (CVD): **−330,18 M [panika]**
+    * Anomalia na zamknięciu (MOC): **-243,36 M**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **157.98%**
+    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-10.64%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+
+* **Kontrakt terminowy NQ:** zamknięcie **27991.00 (+3.35%)**
+    * Przepływ skumulowany (CVD): **38,59 K [akumulacja]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **172.52%**
+
+* **ETF QQQ:** zamknięcie **678.77 (+3.44%)**
+    * Przepływ skumulowany (CVD): **289,63 K [test popytu]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **164.60%**
+
+* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **211.00 [wystrzał rynku]**
+    * Średnia 200 odczytów (SMA200): **27.54 [akumulacja]**
+
+* **Opcje na QQQ:**
+    * Zmienność implikowana (IV): **25.09%**
+    * Stosunek put/call (otwarte pozycje, OI): **1.10**
+
+* **Koszyk Nasdaq-100:**
+    * Łączna kapitalizacja: **39.82 bln USD** (zmiana od poprzedniego zamknięcia: **+1.09 bln USD**)
+    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **66.41%** (zmiana: **-0.49 pkt proc.**)
+    * Średnia cena akcji w koszyku: **$288.79** (zmiana: **+$11.83**)
+    * Zmiany w grupie spółek powyżej 1 bln USD: **bez zmian**
+
+* **Zdrowie danych sesji:** odczyty przez 100,0% sesji kasowej; bez luk dłuższych niż minuta; NDX bez zmiany dłużej niż 2 min w 0,1% odczytów; odrzucone nieaktualne odczyty: 67
+
+---
+
+[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0224/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Podsumowanie sesji Nasdaq-100 2026-11-09",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Log #0223: Kolaps Grawitacyjny i Rozpad Sfery Dysona
 
 Data: 2026-11-08 09:01
@@ -1072,92 +1152,5 @@ Zysk na akcję (księgowy) wyniósł 1,61 USD (+43,8% r/r), co jest tożsamo z w
 ### Co mówi zarząd
 
 Zarząd podkreślał ściślejszą współpracę z dostawcami w celu zapewnienia części niezbędnych do produkcji ciężarówek. Według zarządu klienci zaczynają składać zamówienia na przyszły rok, co stanowi jedynie początek tego procesu. Zarząd spodziewa się dalszego wzrostu sprzedaży części do końca roku oraz zdobywania udziałów w rynku. Według zarządu niepewność powinna ustępować, a rynek będzie się wzmacniał w ciągu przyszłego roku. Zarząd wspomniał również, że nowa platforma PACCAR Connect działa jak otwarty system z aplikacjami, które mogą generować dodatkowe przychody.
-
-
----
-
-## Log #0217: Kolaps Grawitacyjny i Ekspansja Zmienności: Tydzień Przesunięcia Masy
-
-Data: 2026-11-01 09:01
-Adres: https://heniu.blog/posts/log-0217/
-
-
-**Stardate:** 2026.11.01\
-**Status Systemów:** Obserwacja Zewnętrzna\
-**Sektor:** Wewnętrzne Pasma Zmienności
-
----
-
-### Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia
-
-> *Mimo ujemnej trajektorii kursowej i utraty 1.06 T w całkowitej masie układu, skumulowany bilans CVD wskazuje na agresywną akumulację energii wewnątrz struktur. Układ przechodzi fazę kompresji pod rosnącym ciśnieniem zmienności implikowanej.*
-
-* **Skaner Podprzestrzenny (Bilans Masy Tygodnia):**
-    * *T-Mass Układu (Otwarcie → Zamknięcie):* **41.23 T → 40.17 Tryliona USD**
-    * *Delta Tygodniowa Masy:* **-1.06 Tryliona USD (-2.57%)**
-    * *Gęstość Jądra (Heavy Nine):* **66.20% → 68.19%** (Delta: **+1.99 p.p.**)
-    * *Średnia Akcja (Temperatura Peryferii):* **$297.47 → $294.98** (Delta: **-$2.49 | -0.84%**)
-    * *Fluktuacja Składu Jądra (>1T):* **Stabilność (brak emergencji/kolapsu)**
-
-* **Gwiazda NDX (Słońce — Bilans 5 Sesji):**
-    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **28956.83 → 28385.75 (-571.08 pkt | -1.97%)**
-    * *Zakres Tygodniowy (Ekstrema):* **28173.99 — 29821.65 (Amplituda: 1647.66 pkt)**
-    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **+318.26 M [euforia]**
-
-* **Sonda NQ (Merkury — Bilans 5 Sesji):**
-    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **29117.39 → 28560.25 (-557.14 pkt | -1.91%)**
-    * *Zakres Tygodniowy (Ekstrema):* **28313.75 — 30066.75 (Amplituda: 1753.00 pkt)**
-    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **+10.47 K [akumulacja]**
-
-* **Sfera Dyson’a (QQQ — Bilans 5 Sesji):**
-    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **704.30 → 690.53 (-13.77 USD | -1.96%)**
-    * *Zakres Tygodniowy (Ekstrema):* **685.42 — 725.48 (Amplituda: 40.06 USD)**
-    * *Skumulowany Przepływ Populacji (CVD Tygodnia):* **+4.22 M [wystrzał rynku]**
-
-* **Promieniowanie Tła (TICKQ — Szerokość Rynku w Tygodniu):**
-    * *Średnia Radiacja Tygodniowa (TICKQ SMA200):* **+13.98 [test popytu]**
-    * *Zakres Radiacji w Tygodniu:* **Min -36.11 / Max +37.88**
-
-* **Struktura Grawitacyjna (Opcje — Sfera Dysona):**
-    * *Implied Volatility (IV):* **26.55%** (Średnia Tygodniowa: **22.95%** | Zmiana od poniedziałku: **+3.65 p.p.**)
-    * *Struktura Pozycji (Put/Call OI):* **1.39**
-
----
-
-### Dziennik Pokładowy: Kolaps Grawitacyjny i Ekspansja Zmienności: Tydzień Przesunięcia Masy
-
-**1. Trajektoria Tygodniowa i Zmienność Kursu (Przebieg Sesji Poniedziałek–Piątek)**
-W cyklu 2026.10.26 — 2026.10.30 nastąpiła gwałtowna rekonfiguracja trajektorii wszystkich obiektów. Gwiazda NDX przeszła z poziomu 28956.83 do 28385.75, notując spadek o 571.08 pkt (-1.97%) przy wysokiej amplitudzie wahań (1647.66 pkt). Sonda NQ powtórzyła ten wzorzec, spadając o 557.14 pkt (-1.91%) w szerokim zakresie ruchu (1753.00 pkt). Sfera Dyson'a QQQ skurczyła się o 13.77 USD (-1.96%). Cały układ przeszedł z fazy ekspansji w fazę silnej kompresji, osiągając tygodniowe minima poniżej poziomów otwarcia, przy jednoczesnym wzroście amplitudy wahań w porównaniu do poprzedniego cyklu.
-
-**2. Bilans Energii i Skumulowane Paliwo (Tygodniowy CVD i Wolumen)**
-Mimo spadku cenowego, telemetria przepływu agresywnego wolumenu wykazuje anomalny bilans energetyczny. Skumulowany CVD dla NDX wyniósł +318.26 M, co w logice Ghostwheel klasyfikuje jako euforię nabywczą wewnątrz spadającej trajektorii. Sonda NQ wykazała akumulację na poziomie +10.47 K, a Sfera QQQ odnotowała potężny zastrzyk energii (+4.22 M). Rozdźwięk między ujemną zmianą kursu a dodatnim CVD sugeruje, że agresywne wejścia w wolumen odbywały się w strefach wysokiej absorpcji, budując fundament pod przyszłą rekonfigurację.
-
-**3. Ewolucja Masy, Zagęszczenie Jądra i Tarcze Opcyjne**
-Całkowita masa układu (T-Mass) uległa erozji z 41.23 T do 40.17 T (-2.57%). Odnotowano jednak wzrost gęstości Jądra (>1T) z 66.20% do 68.19%, co świadczy o koncentracji masy w największych osobliwościach mimo ogólnego odpływu kapitału. Średnia akcja spadła o 0.84% ($294.98). System odnotował gwałtowny wzrost ciśnienia w tarczach opcyjnych: zmienność implikowana (IV) wzrosła do 26.55% (średnia tygodniowa: 22.95%), a wskaźnik Put/Call OI ustabilizował się na poziomie 1.39. Promieniowanie tła TICKQ (SMA200) na poziomie +13.98 sugeruje testowanie odporności popytu w warunkach zwiększonej fluktuacji.
-
-**Werdykt Kwantowy:**
-Układ znajduje się w stanie wysokiego napięcia. Nastąpiła degradacja masy całkowitej przy jednoczesnym zagęszczeniu struktury jądra i agresywnej akumulacji energii (CVD). Fizyka układu wskazuje na przygotowanie do gwałtownego wyrzutu energii lub dalszej kompresji pod rosnącą zmiennością.
-
-**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
-
-**Koniec zapisu.**
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
-}
-</script>
 
 

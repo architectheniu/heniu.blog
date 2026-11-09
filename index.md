@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Log #0224: Podsumowanie sesji 2026-11-09: NDX 27905.46 (+3.40%)](https://heniu.blog/posts/log-0224/index.md) (2026-11-09)
 - [M15: 2026-11-09](https://heniu.blog/t-log/tlog-2026-11-09/index.md) (2026-11-09)
 - [H1: 2026-11-09](https://heniu.blog/h-log/hlog-2026-11-09/index.md) (2026-11-09)
 - [Log #0223: Kolaps Grawitacyjny i Rozpad Sfery Dysona](https://heniu.blog/posts/log-0223/index.md) (2026-11-08)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0050: Regeneron Pharmaceuticals: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-30-0050/index.md) (2026-10-30)
 - [Fundamenty #0049: Sandisk: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-10-30-0049/index.md) (2026-10-30)
 - [Fundamenty #0048: Zgłoszenia spółek: Meta Platforms, DoorDash, Microsoft i inne; transakcje insiderów](https://heniu.blog/f-log/flog-2026-10-30-0048/index.md) (2026-10-30)
-- [Fundamenty #0047: Monolithic Power Systems: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-10-29-0047/index.md) (2026-10-30)
 
