@@ -1,0 +1,80 @@
+# Log #0224: Session summary 2026-11-09: NDX 27905.46 (+3.40%)
+
+Date: 2026-11-09 22:04
+URL: https://heniu.blog/en/posts/log-0224/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+**Session Date:** 2026-11-09
+
+> *Session close 2026-11-09: NDX 27905.46 (+3.40%), NQ 27991.00 (+3.35%), QQQ 678.77 (+3.44%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session began at 9:30 ET (15:30 PL) at NDX levels 27256.30 and NQ 27342.00. Within the first 30 minutes, NDX rose by 429.82 pts (+1.58%) to 27686.12, and NQ rose by 445.25 pts (+1.63%) to 27787.25. The session minimum was recorded at 9:31 ET (15:31 PL) at NDX 27233.70, and the maximum at 15:29 ET (21:29 PL) at NDX 28022.97. The close at 27905.46 lies 117.51 pts below the maximum and 671.76 pts above the minimum.
+
+**Flows and market breadth.** Cumulative flow (CVD) directions for NDX (negative), NQ (positive), and QQQ (positive) were divergent. The TICKQ indicator at the close was 211.00, with a SMA200 average at 27.54. The share of companies above 1 trillion USD in the basket capitalization was 66.41%.
+
+**End of session, options, and companies.** In the last hour of the session, NDX fell by 11.93 pts (-0.04%) to the close. The MOC Anomaly at the close was -243.36 M. For options on QQQ, implied volatility (IV) was 25.09%, and the put/call ratio was 1.10.
+
+**Day's balance.** The Nasdaq-100 index closed with an increase of 3.40% at 27905.46.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **27905.46 (+3.40%)**
+    * Cumulative flow (CVD): **−330.18 M [panic]**
+    * MOC Anomaly: **-243.36 M**
+    * Average Daily Range (ADR) utilization: **157.98%**
+    * Drawdown from Heniu's highest close: **-10.64%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **27991.00 (+3.35%)**
+    * Cumulative flow (CVD): **38.59 K [accumulation]**
+    * Average Daily Range (ADR) utilization: **172.52%**
+
+* **QQQ ETF:** close **678.77 (+3.44%)**
+    * Cumulative flow (CVD): **289.63 K [demand test]**
+    * Average Daily Range (ADR) utilization: **164.60%**
+
+* **Market breadth (TICKQ):** closing reading **211.00 [market flare]**
+    * 200-reading average (SMA200): **27.54 [accumulation]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **25.09%**
+    * Put/call ratio (open interest, OI): **1.10**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **39.82 trillion USD** (change from previous close: **+1.09 trillion USD**)
+    * Share of companies above 1 trillion USD in basket capitalization: **66.41%** (change: **-0.49 pp**)
+    * Average share price in the basket: **$288.79** (change: **+$11.83**)
+    * Changes in the group of companies above 1 trillion USD: **unchanged**
+
+* **Session data health:** readings through 100.0% of the cash session; no gaps longer than one minute; NDX unchanged for more than 2 min in 0.1% of readings; stale readings rejected: 67
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0224/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-11-09",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+

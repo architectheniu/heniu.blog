@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Log #0224: Resumo da sessão 2026-11-09: NDX 27905.46 (+3.40%)](https://heniu.blog/pt-br/posts/log-0224/index.md) (2026-11-09)
 - [M15: 2026-11-09](https://heniu.blog/pt-br/t-log/tlog-2026-11-09/index.md) (2026-11-09)
 - [H1: 2026-11-09](https://heniu.blog/pt-br/h-log/hlog-2026-11-09/index.md) (2026-11-09)
 - [Log #0223: Colapso Gravitacional e Desintegração da Esfera de Dyson](https://heniu.blog/pt-br/posts/log-0223/index.md) (2026-11-08)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0050: Regeneron Pharmaceuticals: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-30-0050/index.md) (2026-10-30)
 - [Fundamentos #0049: Sandisk: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-10-30-0049/index.md) (2026-10-30)
 - [Fundamentos #0048: Notificações de empresas: Meta Platforms, DoorDash, Microsoft e outras; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-10-30-0048/index.md) (2026-10-30)
-- [Fundamentos #0047: Monolithic Power Systems: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-29-0047/index.md) (2026-10-30)
 
