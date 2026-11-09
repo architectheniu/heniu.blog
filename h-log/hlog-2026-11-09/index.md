@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Data: 2026-11-09 11:07
+Data: 2026-11-09 12:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-09/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.09</h1>
+<h3>📈 [2026-11-09 12:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku kasowego:</strong> Rynek kasowy (Spot) jest obecnie zamknięty; wskaźnik TICKQ jest nieaktywny. Analiza opiera się na kontraktach terminowych oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Kontrakty NQ notowane są na poziomie 27158.25 (+0.27%) z dodatnim przepływem skumulowanym (CVD) wynoszącym 7,83 K, co wskazuje na testowanie popytu w sesji poza sesją główną.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 30.40%, a wskaźnik Put/Call Volume Ratio na poziomie 1.21 sugeruje przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na większą presję podażową. Oczekiwany zasięg ruchu w oparciu o wolumen 8,237,419 opcji mieści się w przedziale 645.32 do 666.88.</li>
+<li><strong>Kontekst korekty i poziomy:</strong> Trwająca korekta od szczytu z dnia 28.10 (29847.38) wynosi -9.57% (-2857 pkt), co klasyfikuje ten ruch jako duży swing, głębszy niż 88% historycznych korekt w badanym okresie. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26990–27010.</li>
+<li><strong>Przepływy kapitału:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 5, co wskazuje na neutralną tendencję z lekką przewagą napływu kapitału.</li>
+</ul>
+<p>Raport H-Log: 2026-11-09 12:07</p>
 <h3>📈 [2026-11-09 11:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
