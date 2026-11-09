@@ -1,6 +1,6 @@
 # M15: 2026-11-09
 
-Date: 2026-11-09 13:29
+Date: 2026-11-09 13:59
 URL: https://heniu.blog/en/t-log/tlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.09 [EN]</h1>
+<h3>⏱️ [2026-11-09 13:59] · Futures (cash market closed)</h3>
+<ul>
+<li><strong>NQ contract:</strong> <strong>27353.25</strong> (+0.99%; since the previous entry +123.50 pts, +0.45%) · share of the average daily range (ADR) used <strong>78.46%</strong></li>
+<li><strong>NQ flow:</strong> CVD <strong>17.33 K</strong> [accumulation] (since the previous entry +6.98 K) · direction gauge <strong>5</strong> (±100 scale; +0)</li>
+<li>NDX, QQQ, market breadth and the company basket return with the opening of the cash session at 15:30 Polish time.</li>
+</ul>
+<p>The NQ contract price increase occurred after two sudden upward flow alarms were recorded in the afternoon hours. At the same time, the CVD value increased, indicating ongoing accumulation.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 13:31 sudden NQ flow up; NQ flow ignition; 13:50 sudden NQ flow up; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-09 13:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>27229.75</strong> (+0.53%; since the previous entry +31.25 pts, +0.11%) · share of the average daily range (ADR) used <strong>71.08%</strong></li>
