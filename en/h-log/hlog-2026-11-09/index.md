@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Date: 2026-11-09 20:08
+Date: 2026-11-09 21:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.09 [EN]</h1>
+<h3>📈 [2026-11-09 21:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is rising by 3.43% (27919.39), however, a negative cumulative flow (CVD) of −43,25 M was recorded, indicating selling pressure in the cash market. This contrasts with the NQ futures contract (+3.45%, CVD 64,7 K) and the QQQ ETF (+3.49%, CVD 2,71 M), where accumulation is visible. The aggregate direction gauge of flows is -55, which means a dominance of capital distribution in general terms. Market breadth (TICKQ) shows an extreme value of 275.00 against a SMA200 average of 22.36.</li>
+<li><strong>QQQ options analysis:</strong> Options volume is 7,358,083 with implied volatility (IV) at 25.03%. The Put/Call Volume Ratio is 1.19, suggesting a slight advantage of hedging positions or anticipation of greater downward volatility. The expected range of movement lies between 669.81 and 684.91.</li>
+<li><strong>Technical context and correction:</strong> The current drawdown from the peak of 28.10 (28190) is -6.46% (-1928 pts). This is a correction larger than the median of historical movements, placing it in the higher percentiles of drawdown depth.</li>
+<li><strong>Support and resistance levels:</strong> The nearest significant resistance is located in the volume zone 28170–28190 (1.7% volume, price there 03.11). The nearest support is located in the zone 26990–27010 (0.8% volume, price there 06.11).</li>
+</ul>
+<p>H-Log Report: 2026-11-09 21:07</p>
 <h3>📈 [2026-11-09 20:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
