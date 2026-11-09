@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Date: 2026-11-09 00:08
+Date: 2026-11-09 01:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.09 [EN]</h1>
+<h3>📈 [2026-11-09 01:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ futures contracts:</strong> Price is 27010.25 (-0.27%), with cumulative flow (CVD) at 2.73K, indicating a demand test in the current session.</li>
+<li><strong>the NDX Star context:</strong> The index is in a correction phase from the peak on 28.10 (29847.38), which currently stands at -9.59% (-2862 pts). This is a deeper move than 88% of historical corrections in the studied period, classifying the current situation as a large swing. The nearest resistance (volume node) is located in the 26990–27010 zone.</li>
+<li><strong>Flows and sentiment:</strong> The aggregate direction gauge of flows is -30, meaning capital distribution dominance. Strong selling pressure was recorded in the cash session (CVD NDX: -99.22M; CVD QQQ: -3.02M).</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 30.40%, and the Put/Call Ratio at 1.21 suggests increased interest in hedging or building short positions. The market-expected range of movement for QQQ is between 645.32 and 666.88.</li>
+</ul>
+<p>H-Log Report: 2026-11-09 01:07</p>
 <h3>📈 [2026-11-09 00:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
