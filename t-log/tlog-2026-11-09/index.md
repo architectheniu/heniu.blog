@@ -1,6 +1,6 @@
 # M15: 2026-11-09
 
-Data: 2026-11-09 19:59
+Data: 2026-11-09 20:14
 Adres: https://heniu.blog/t-log/tlog-2026-11-09/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.09</h1>
+<h3>⏱️ [2026-11-09 20:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27854.85</strong> (+3.20%; od poprzedniego wpisu -11.14 pkt) · NQ <strong>27961.75</strong> (+3.24%; -5.25 pkt) · QQQ <strong>677.64 USD</strong> (+3.28%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-47.38 M</strong> [wyprzedaż] · CVD NQ <strong>52.62 K</strong> [wystrzał rynku] (od poprzedniego wpisu +0.18 K) · CVD QQQ <strong>1.55 M</strong> [akumulacja] · TICKQ <strong>432</strong> [wystrzał rynku] · średnia SMA200 <strong>18.52</strong> [test popytu] (+4.49) · wskaźnik kierunku <strong>-50</strong> (skala ±100; +5)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>39.76 bln USD</strong> (od poprzedniego wpisu +0.00 bln USD) · udział spółek powyżej 1 bln USD <strong>66.4%</strong> (+0.0 pp) · średnia cena akcji <strong>288.46 USD</strong> (-0.22 USD) · opcje QQQ: zmienność implikowana <strong>25.32%</strong>, put/call <strong>1.21</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>26990–27010</strong> (3.03% niżej) · najbliższa powyżej ceny <strong>28170–28190</strong> (1.13% wyżej)</li>
+</ul>
+<p>Wartość indeksu NDX spadła względem poprzedniego wpisu, podczas gdy wskaźnik TICKQ wykazał gwałtowny wzrost. Występuje rozbieżność między spadkiem indeksu a silnym wzrostem szerokości rynku. Obecnie cena znajduje się powyżej wsparcia i poniżej oporu.</p>
 <h3>⏱️ [2026-11-09 19:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27865.99</strong> (+3.25%; od poprzedniego wpisu +17.34 pkt) · NQ <strong>27967.00</strong> (+3.26%; +13.50 pkt) · QQQ <strong>677.77 USD</strong> (+3.30%)</li>
