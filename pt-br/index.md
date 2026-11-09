@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
-- [M15: 2026-11-09](https://heniu.blog/pt-br/t-log/tlog-2026-11-09/index.md) (2026-11-09)
 - [H1: 2026-11-09](https://heniu.blog/pt-br/h-log/hlog-2026-11-09/index.md) (2026-11-09)
+- [M15: 2026-11-09](https://heniu.blog/pt-br/t-log/tlog-2026-11-09/index.md) (2026-11-09)
 - [Log #0223: Colapso Gravitacional e Desintegração da Esfera de Dyson](https://heniu.blog/pt-br/posts/log-0223/index.md) (2026-11-08)
 - [H1: 2026-11-06](https://heniu.blog/pt-br/h-log/hlog-2026-11-06/index.md) (2026-11-06)
 - [M15: 2026-11-06](https://heniu.blog/pt-br/t-log/tlog-2026-11-06/index.md) (2026-11-06)
