@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Data: 2026-11-09 06:07
+Data: 2026-11-09 07:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-09/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.09</h1>
+<h3>📈 [2026-11-09 07:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Kontrakty NQ notowane są po cenie 27121.50 (+0.13%), przy skumulowanym przepływie (CVD) na poziomie 4.96K, co wskazuje na testowanie popytu w sesji przedsesyjnej.</li>
+<li><strong>Kontekst indeksu NDX:</strong> Indeks NDX znajduje się na poziomie 26985.66 (+1.35%). Od szczytu z dnia 28.10 (29847.38) odnotowano korektę o -9.59% (-2862 pkt). Jest to duży swing, głębszy niż 88% historycznych korekt w analizowanym okresie. Najbliższy opór (węzeł wolumenu) znajduje się w strefie 26990–27010.</li>
+<li><strong>Przepływy i sentyment:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -30, co oznacza przewagę dystrybucji kapitału. Mimo wzrostu ceny indeksu NDX o 1.35%, skumulowany przepływ na rynku kasowym (CVD NDX) wynosi -99.22M, co wskazuje na silną presję sprzedażową na zamknięciu sesji regularnej.</li>
+<li><strong>Rynek opcji QQQ:</strong> Put/Call Volume Ratio wynosi 1.21, co sugeruje przewagę pozycji typu Put i budowanie zabezpieczeń (hedgingu) na spadki. Zmienność implikowana (IV) wynosi 30.40%, a oczekiwany zasięg ruchu dla instrumentu QQQ mieści się w przedziale 645.32 do 666.88 przy wolumenie opcji 8,237,419.</li>
+</ul>
+<p>Raport H-Log: 2026-11-09 07:07</p>
 <h3>📈 [2026-11-09 06:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
