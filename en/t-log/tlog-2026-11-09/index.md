@@ -1,6 +1,6 @@
 # M15: 2026-11-09
 
-Date: 2026-11-09 15:29
+Date: 2026-11-09 15:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.09 [EN]</h1>
+<h3>⏱️ [2026-11-09 15:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27555.52</strong> (+2.10%) · NQ <strong>27654.50</strong> (+2.09%; since the previous entry +299.25 pts) · QQQ <strong>670.18 USD</strong> (+2.15%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-53.9 M</strong> [sell-off] · CVD NQ <strong>47.12 K</strong> [market surge] (since the previous entry +24.31 K) · CVD QQQ <strong>1.06 M</strong> [accumulation] · TICKQ <strong>74</strong> [accumulation] · SMA200 average <strong>-0.37</strong> [supply test] · direction gauge <strong>-50</strong> (±100 scale; -55)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>39.52 trillion USD</strong> · share of companies above 1 trillion USD <strong>67.0%</strong> · average share price <strong>283.04 USD</strong> · QQQ options: implied volatility <strong>28.81%</strong>, put/call <strong>1.67</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26990–27010</strong> (1.98% lower) · nearest above the price <strong>28170–28190</strong> (2.23% higher)</li>
+</ul>
+<p>NQ price rose, which was preceded by a break below support and a recovery of HVN levels in a short period of time. Sudden upward flows and an increase in NQ CVD value were recorded, with simultaneous accumulation visible in QQQ flows.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 15:30 sudden NQ flow up; NQ flow ignition; 15:35 sudden NQ flow up; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-09 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>27355.25</strong> (+1.00%; since the previous entry +48.75 pts, +0.18%) · share of the average daily range (ADR) used <strong>78.46%</strong></li>
