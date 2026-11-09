@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Date: 2026-11-09 17:08
+Date: 2026-11-09 18:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.09 [EN]</h1>
+<h3>📈 [2026-11-09 18:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is 27827.52 (+3.10%), however, a strong divergence between instruments was noted: while NQ futures (+3.12%) and QQQ ETF (+3.17%) show capital inflow (CVD 49,55 K and 1,82 M respectively), the cumulative flow for the NDX index is -35,89 M, indicating a sell-off in the underlying component itself. The aggregate direction gauge of flows is -55, confirming the dominance of capital distribution at this moment. Nasdaq market breadth (TICKQ) is at 341.00, which constitutes an extreme deviation from the SMA200 average (5.86).</li>
+<li><strong>QQQ Options Analysis:</strong> Options volume was 4,352,993 with implied volatility (IV) at 25.79%. The Put/Call Volume Ratio is 1.07, suggesting a slight advantage in hedging positions or an expectation of greater downside volatility. The market-expected range of movement lies within the interval of 666.63 to 683.57 points.</li>
+<li><strong>Correction context and technical levels:</strong> The current drawdown from the peak of 28.10 (29847.38) is -6.77% (-2020 pts). This is a movement of a larger correction character, deeper than 50% of historical cases in the analyzed period. The nearest significant resistance is located in the 28170–28190 zone (1.23% above the current price), while the nearest support is the 26990–27010 zone (2.94% below the current price).</li>
+</ul>
+<p>H-Log Report: 2026-11-09 18:07</p>
 <h3>📈 [2026-11-09 17:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
