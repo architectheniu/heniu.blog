@@ -1,6 +1,6 @@
 # H1: 2026-11-09
 
-Date: 2026-11-09 18:08
+Date: 2026-11-09 19:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.09 [EN]</h1>
+<h3>📈 [2026-11-09 19:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The NDX index is at 27827.58 (+3.10%), however, a divergence between instruments has been noted: while NQ futures contracts (27930.50, +3.12%) and QQQ ETF (676.87, +3.17%) show accumulation (CVD 49 K and 1.65 M respectively), the cumulative flow for the NDX index is -42.39 M, indicating a sell-off. The aggregate direction gauge is -55, which signifies a dominance of capital distribution. Market breadth (TICKQ) at 181.00 is significantly above the SMA200 average (11.25).</p>
+</li>
+<li>
+<p><strong>QQQ options analysis:</strong> Implied volatility (IV) is 25.44%, and the Put-to-Call ratio (PCR) stands at 1.12. With a total options volume of 5,372,486, a PCR above 1.0 suggests increased interest in hedging or building short positions, which, given the expected movement range between 668.73 and 684.91, defines the current volatility framework.</p>
+</li>
+<li>
+<p><strong>Correction context and technical levels:</strong> The current drawdown from the peak on 28.10 (29847.38) is -6.77% (-2020 pts), classifying it as a larger correction (above the median of historical moves). The nearest support zone is in the 26990–27010 range (2.94% distance below price), while the resistance zone is 28170–28190 (1.23% distance above price).</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-11-09 19:07</p>
 <h3>📈 [2026-11-09 18:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
