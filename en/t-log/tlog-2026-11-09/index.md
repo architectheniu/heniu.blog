@@ -1,6 +1,6 @@
 # M15: 2026-11-09
 
-Date: 2026-11-09 20:44
+Date: 2026-11-09 20:59
 URL: https://heniu.blog/en/t-log/tlog-2026-11-09/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.09 [EN]</h1>
+<h3>⏱️ [2026-11-09 20:59] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27911.89</strong> (+3.41%; since the previous entry -33.03 pts) · NQ <strong>28016.25</strong> (+3.43%; -32.25 pts) · QQQ <strong>678.92 USD</strong> (+3.48%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-42.83 M</strong> [sell-off] · CVD NQ <strong>62.7 K</strong> [euphoria] (since the previous entry -3.57 K) · CVD QQQ <strong>2.68 M</strong> [market surge] · TICKQ <strong>145</strong> [accumulation] · SMA200 average <strong>20.66</strong> [accumulation] (-0.18) · direction gauge <strong>-50</strong> (±100 scale; -45)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>39.85 trillion USD</strong> (since the previous entry -0.05 trillion USD) · share of companies above 1 trillion USD <strong>66.4%</strong> (+0.0 pp) · average share price <strong>288.89 USD</strong> (-0.60 USD) · QQQ options: implied volatility <strong>25.16%</strong>, put/call <strong>1.21</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26990–27010</strong> (3.23% lower) · nearest above the price <strong>28170–28190</strong> (0.92% higher)</li>
+</ul>
+<p>NQ CVD flow decreased since the previous entry, with the direction gauge also recording a decrease. Despite these changes, the NQ price remains higher than in the previous reading.</p>
 <h3>⏱️ [2026-11-09 20:44] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27944.92</strong> (+3.54%; since the previous entry +116.51 pts) · NQ <strong>28048.50</strong> (+3.56%; +117.00 pts) · QQQ <strong>679.73 USD</strong> (+3.60%)</li>
