@@ -1,6 +1,6 @@
 # M15: 2026-11-09
 
-Data: 2026-11-09 18:44
+Data: 2026-11-09 18:59
 Adres: https://heniu.blog/t-log/tlog-2026-11-09/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.09</h1>
+<h3>⏱️ [2026-11-09 18:59] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27841.76</strong> (+3.16%; od poprzedniego wpisu +4.24 pkt) · NQ <strong>27945.00</strong> (+3.17%; +1.50 pkt) · QQQ <strong>677.27 USD</strong> (+3.23%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-35.76 M</strong> [wyprzedaż] · CVD NQ <strong>50.47 K</strong> [wystrzał rynku] (od poprzedniego wpisu +0.01 K) · CVD QQQ <strong>1.7 M</strong> [akumulacja] · TICKQ <strong>265</strong> [wystrzał rynku] · średnia SMA200 <strong>10.22</strong> [test popytu] (+0.99) · wskaźnik kierunku <strong>-55</strong> (skala ±100; -45)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>39.75 bln USD</strong> (od poprzedniego wpisu -0.01 bln USD) · udział spółek powyżej 1 bln USD <strong>66.5%</strong> (+0.0 pp) · średnia cena akcji <strong>288.25 USD</strong> (+0.09 USD) · opcje QQQ: zmienność implikowana <strong>25.38%</strong>, put/call <strong>1.10</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>26990–27010</strong> (2.99% niżej) · najbliższa powyżej ceny <strong>28170–28190</strong> (1.18% wyżej)</li>
+</ul>
+<p>Przepływ CVD dla NQ wzrósł względem poprzedniego wpisu, a wskaźnik kierunku zmienił się na wartość dodatnią. Zmiany te idą w parze ze wzrostem ceny NQ. Obecna wycena znajduje się powyżej najbliższego wsparcia i poniżej najbliższego oporu.</p>
 <h3>⏱️ [2026-11-09 18:44] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27837.52</strong> (+3.14%; od poprzedniego wpisu -24.67 pkt) · NQ <strong>27943.50</strong> (+3.17%; -17.75 pkt) · QQQ <strong>677.18 USD</strong> (+3.21%)</li>
