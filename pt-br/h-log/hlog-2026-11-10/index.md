@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 11:08
+Data: 2026-11-10 12:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.10 [PT-BR]</h1>
+<h3>📈 [2026-11-10 12:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos e fluxos:</strong> Os contratos NQ estão sendo precificados em 27926.25 (-0.32%), o que, com o fluxo acumulado (CVD) em -2,71 K, indica um teste de oferta. O indicador de direção de fluxos agregado é de -55, o que confirma a predominância da distribuição de capital no cenário atual.</li>
+<li><strong>Análise do mercado à vista (fechado):</strong> No fechamento da sessão à vista, observou-se uma divergência significativa; apesar da alta do índice NDX de +3.40% (preço 27908.16), o fluxo acumulado (CVD) foi de -330,18 M, o que sugere pressão de venda simultânea ao aumento de preço. O ETF QQQ fechou em 678.77 (+3.54%) com fluxo acumulado (CVD) positivo de 289,63 K, o que indica um teste de demanda.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 25.12%, e o Put/Call Ratio em 1.17 sugere uma leve predominância de posições de proteção (hedging) ou expectativa de quedas. O alcance esperado do movimento está na faixa de 658.19 – 700.51 com volume de 9,240,302.</li>
+<li><strong>Níveis técnicos:</strong> O índice NDX encontra-se em uma fase de recuo comum desde o pico do dia 09.11 (28022.97). A resistência significativa mais próxima (nó de volume) está na zona de 28170–28190 (0.94% acima do preço atual), enquanto o suporte está na zona de 27020–27040 (3.11% abaixo do preço atual).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-10 12:07</p>
 <h3>📈 [2026-11-10 11:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
