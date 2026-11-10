@@ -1,6 +1,6 @@
 # M15: 2026-11-10
 
-Data: 2026-11-10 16:14
+Data: 2026-11-10 16:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.10 [PT-BR]</h1>
+<h3>⏱️ [2026-11-10 16:29] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27804.21</strong> (-0.38%; desde a entrada anterior -116.49 pts) · NQ <strong>27898.25</strong> (-0.42%; -123.50 pts) · QQQ <strong>676.30 USD</strong> (-0.45%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-87.23 M</strong> [colapso do mercado] · CVD NQ <strong>-2.81 K</strong> [teste de oferta] (desde a entrada anterior -9.98 K) · CVD QQQ <strong>-283.91 K</strong> [teste de oferta] · TICKQ <strong>-424</strong> [colapso do mercado] · média SMA200 <strong>20.51</strong> [acumulação] (-3.94) · indicador de direção <strong>-53</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>39.62 trilhões de USD</strong> (desde a entrada anterior -0.16 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>66.5%</strong> (+0.0 p.p.) · preço médio das ações <strong>286.86 USD</strong> (-1.30 USD) · opções sobre QQQ: volatilidade implícita <strong>24.84%</strong>, put/call <strong>1.05</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>27020–27040</strong> (2.75% abaixo) · mais próxima acima do preço <strong>28170–28190</strong> (1.32% acima)</li>
+</ul>
+<p>O preço do NQ caiu, o que está relacionado com o agravamento dos fluxos CVD e o rompimento do suporte no nível do nó de volume. Um novo nó surgiu acima dos níveis atuais, porém foi rapidamente derrubado. A resistência mais próxima encontra-se acima do preço atual, e o suporte está localizado abaixo.</p>
 <h3>⏱️ [2026-11-10 16:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27920.70</strong> (+0.05%; desde a entrada anterior +26.46 pts) · NQ <strong>28021.75</strong> (+0.01%; +31.00 pts) · QQQ <strong>679.25 USD</strong> (-0.01%)</li>
