@@ -1,6 +1,6 @@
 # M15: 2026-11-10
 
-Date: 2026-11-10 18:44
+Date: 2026-11-10 18:59
 URL: https://heniu.blog/en/t-log/tlog-2026-11-10/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.10 [EN]</h1>
+<h3>⏱️ [2026-11-10 18:59] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27548.40</strong> (-1.29%; since the previous entry +82.76 pts) · NQ <strong>27646.25</strong> (-1.32%; +83.25 pts) · QQQ <strong>670.18 USD</strong> (-1.35%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-114.06 M</strong> [panic] · CVD NQ <strong>-21.75 K</strong> [sell-off] (since the previous entry +6.28 K) · CVD QQQ <strong>-800.54 K</strong> [supply test] · TICKQ <strong>117</strong> [accumulation] · SMA200 average <strong>15.10</strong> [demand test] (-0.13) · direction gauge <strong>-40</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>39.22 trillion USD</strong> (since the previous entry +0.09 trillion USD) · share of companies above 1 trillion USD <strong>66.4%</strong> (-2.6 pp) · average share price <strong>284.38 USD</strong> (+0.84 USD) · QQQ options: implied volatility <strong>26.50%</strong>, put/call <strong>1.22</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>27020–27040</strong> (1.85% lower) · nearest above the price <strong>28170–28190</strong> (2.26% higher)</li>
+</ul>
+<p>Price movement is occurring amidst weakening capital flow, as confirmed by negative CVD values for NDX and QQQ. The nearest support is located below current levels, and resistance is above.</p>
 <h3>⏱️ [2026-11-10 18:44] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27465.64</strong> (-1.58%; since the previous entry -69.57 pts) · NQ <strong>27563.00</strong> (-1.61%; -72.25 pts) · QQQ <strong>668.06 USD</strong> (-1.66%)</li>
