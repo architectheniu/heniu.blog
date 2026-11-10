@@ -7,6 +7,25 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0076: Rocket Lab: wyniki za 3Q2026
+
+Data: 2026-11-10 16:41
+Adres: https://heniu.blog/f-log/flog-2026-11-10-0076/
+
+
+Przychody Rocket Lab (RKLB) wzrosły w trzecim kwartale o 72,7% r/r do 267,83 mln USD, natomiast zysk na akcję wyniósł −0,12 USD wobec −0,03 USD rok wcześniej.
+
+### Prognoza spółki
+
+Spółka spodziewa się w czwartym kwartale 2026 przychodów w przedziale 270,00 mln USD – 290,00 mln USD. Spółka prognozuje marżę brutto (GAAP) na poziomie 34,0% – 36,0%, a skorygowaną marżę brutto na poziomie 39,0% – 41,0% w czwartym kwartale 2026. Spółka prognozuje koszty operacyjne (GAAP) w czwartym kwartale 2026 na poziomie 162,00 mln USD – 168,00 mln USD, natomiast skorygowane koszty operacyjne na poziomie 136,00 mln USD – 142,00 mln USD. Spółka spodziewa się przychodów odsetkowych netto w wysokości 45,00 mln USD w czwartym kwartale 2026. Spółka prognozuje skorygowaną EBITDA w czwartym kwartale 2026 na poziomie −20,00 mln USD – −14,00 mln USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że na rynku startów rakiet brakuje mocy, co było przewidywane przez spółkę. Według zarządu, po wykonaniu nowej kopuły zbiornika rakiety Neutron, problem z wadliwym elementem został rozwiązany, choć zbiornik oczekuje na testy. Zarząd podkreślał, że nie zostanie podany dokładny termin debiutu rakiety Neutron, dopóki zbiornik nie przejdzie wszystkich testów. Według zarządu, przy rosnącym popycie należy spodziewać się wyższych cen startów Electron i HASTE. Zarząd podkreślał, że spółka mogła podpisać więcej kontraktów na starty Neutrona, ale zdecydowała się na wyższe ceny przy mniejszej liczbie startów. Według zarządu, ujemne przepływy pieniężne nie odwrócą się trwale przed wejściem rakiety Neutron do produkcji bez przejmowanego Iridium, a obraz ma się zmienić po zamknięciu przejęcia.
+
+
+---
+
 ## Fundamenty #0075: Take-Two Interactive Software: wyniki za 2Q2027
 
 Data: 2026-11-10 13:49
@@ -1163,37 +1182,5 @@ Amazon.com (AMZN): raport kwartalny 10-Q (Dokument: 10-Q; Data złożenia (czas 
 Microsoft (MSFT): materiały ofertowe FWP (Dokument: FWP; Data złożenia (czas USA): 30.10).
 
 Insiderzy 30.10 sprzedali akcje za 16,0 mln USD, w tym 13,7 mln USD z planów 10b5-1; zakupy na rynku wyniosły 25 tys. USD. Największą sprzedaż zgłosili insiderzy Datadog (DDOG): 12,1 mln USD. Insiderzy Texas Instruments (TXN) sprzedali akcje za 1,9 mln USD.
-
-
----
-
-## Fundamenty #0053: American Electric Power: wyniki za 3Q2026
-
-Data: 2026-11-02 09:38
-Adres: https://heniu.blog/f-log/flog-2026-11-02-0053/
-
-
-> ⚠️ **ERRATUM (2026-11-02)**  
-> **Prognoza zysku na akcję była opisana nieprecyzyjnie.**
->
-> **Sprostowania:**
-> - 6,25–6,55 USD na 2026 rok, 6,75–7,05 USD na 2027 rok i 7,40–7,70 USD na 2028 rok to prognozy operacyjnego zysku na akcję (bez części pozycji jednorazowych). Prognozę na 2026 rok spółka podtrzymała, a na 2027 i 2028 rok podała po raz pierwszy.
-> - 6,11–6,41 USD to szacunek zysku na akcję w 2026 roku według zasad księgowych (GAAP), a nie druga prognoza.
->
-> Poprawiliśmy opis w tekście; liczby się nie zmieniają.
-
-Przychody American Electric Power (AEP) wzrosły w III kwartale 2026 o 13,7% r/r do poziomu 6,83 mld USD, a zysk na akcję (księgowy) zwiększył się o 19,8% r/r do 2,18 USD.
-
-### Wyniki kwartału
-
-Skorygowany zysk na akcję wyniósł 2,23 USD, co oznacza wzrost o 23,9% r/r względem 1,80 USD rok wcześniej.
-
-### Prognoza spółki
-
-Spółka podtrzymuje prognozę operacyjnego zysku na akcję (bez części pozycji jednorazowych) w FY 2026 w przedziale 6,25–6,55 USD i po raz pierwszy podaje prognozę operacyjnego zysku na akcję na FY 2027: 6,75–7,05 USD oraz na FY 2028: 7,40–7,70 USD. Przedział 6,11–6,41 USD to szacunek zysku na akcję w FY 2026 według zasad księgowych (GAAP), a nie prognoza.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że widzi bardzo dużo potencjalnych inwestycji wykraczających poza ogłoszony plan oraz że popyt już występuje, co wymaga budowy nowych mocy wytwórczych. Według zarządu podpisane umowy przyłączenia odbiorców w Teksasie są realne, a mimo przyjęcia ostrożnego planu w tym regionie, spółka nadal widzi tam silny wzrost. Zarząd wskazał również, że pozytywnie ocenia pomysł utworzenia osobnej spółki wytwórczej i sprawdza, gdzie przyniesie ona największe korzyści klientom. Według zarządu emisje akcji muszą zwiększać zysk na akcję, gdyż spółka chce zachować ostrożność w zarządzaniu kapitałem akcjonariuszy.
 
 

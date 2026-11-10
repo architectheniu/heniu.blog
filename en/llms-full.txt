@@ -7,6 +7,25 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0076: Rocket Lab: 3Q2026 results
+
+Date: 2026-11-10 16:41
+URL: https://heniu.blog/en/f-log/flog-2026-11-10-0076/
+
+
+Rocket Lab (RKLB) revenue increased in the third quarter by 72.7% year over year to 267.83 million USD, while earnings per share were −0.12 USD compared to −0.03 USD a year earlier.
+
+### Company guidance
+
+The company expects revenue in the fourth quarter of 2026 in the range of 270.00 million USD – 290.00 million USD. The company forecasts gross margin (GAAP) at 34.0% – 36.0%, and adjusted gross margin at 39.0% – 41.0% in the fourth quarter of 2026. The company forecasts operating expenses (GAAP) in the fourth quarter of 2026 at 162.00 million USD – 168.00 million USD, while adjusted operating expenses are at 136.00 million USD – 142.00 million USD. The company expects net interest income of 45.00 million USD in the fourth quarter of 2026. The company forecasts adjusted EBITDA in the fourth quarter of 2026 at −20.00 million USD – −14.00 million USD.
+
+### What management says
+
+Management emphasized that there is a lack of capacity in the rocket launch market, which was anticipated by the company. According to management, after the fabrication of a new Neutron rocket tank dome, the issue with the faulty component has been resolved, although the tank is awaiting testing. Management emphasized that an exact debut date for the Neutron rocket will not be provided until the tank passes all tests. According to management, with rising demand, higher prices for Electron and HASTE launches should be expected. Management emphasized that the company could have signed more Neutron launch contracts, but decided on higher prices with fewer launches. According to management, negative cash flows will not permanently reverse before the Neutron rocket enters production without the acquired Iridium, and the picture is expected to change after the closing of the acquisition.
+
+
+---
+
 ## Fundamentals #0075: Take-Two Interactive Software: 2Q2027 results
 
 Date: 2026-11-10 13:50
@@ -1128,33 +1147,5 @@ The company maintains its guidance for operating earnings per share (excluding c
 ### Management commentary
 
 Management emphasized that they see a great deal of potential investment extending beyond the announced plan and that demand is already occurring, which requires the construction of new generation capacity. According to management, signed customer connection agreements in Texas are real, and despite adopting a cautious plan in this region, the company still sees strong growth there. Management also indicated that they view the idea of creating a separate generation company positively and are checking where it will bring the greatest benefits to customers. According to management, share issuances must increase earnings per share, as the company wants to remain cautious in managing shareholder capital.
-
-
----
-
-## Fundamentals #0052: O'Reilly Automotive: 3Q2026 results
-
-Date: 2026-11-02 09:36
-URL: https://heniu.blog/en/f-log/flog-2026-11-02-0052/
-
-
-> ⚠️ **ERRATUM (2026-11-02)**  
-> **Two items of the company guidance were mislabelled.**
->
-> **Corrections:**
-> - 5.5% – 6.5% is the guidance for comparable store sales growth, not revenue growth.
-> - 19.5% – 20.0% is the guidance for operating margin (operating income as a percentage of sales), not operating income growth.
->
-> We corrected the labels in the text; the figures stay the same.
-
-O'Reilly Automotive (ORLY) revenue in the third quarter was 5.12 billion USD (8.8% y/y), and earnings per share (reported) increased to 0.97 USD (12.8% y/y).
-
-### Company guidance
-
-For the full year 2026, the company expects revenue in the range of 19.00 billion USD – 19.30 billion USD, comparable store sales growth at the level of 5.5% – 6.5%, an operating margin (operating income as a percentage of sales) in the range of 19.5% – 20.0%, and gross margin at the level of 51.6% – 52.1%. Additionally, the company forecasts earnings per share in the range of 3.25–3.35 USD, capital expenditures in the order of 1.30 billion USD – 1.40 billion USD, free cash flow at the level of 1.90 billion USD – 2.20 billion USD, and a tax rate of 22.7%.
-
-### What management says
-
-Management expressed great satisfaction with comparable sales results, also after excluding exceptional factors. According to management, customers are in fairly good condition, although higher-income individuals are performing better than lowest-income customers. Management emphasized that new stores being opened in subsequent years are performing very well. According to management, the approach to debt and share buybacks remains unchanged, and the company is focusing on serving customers and gaining market share instead of trying to predict the weather. Management also noted that the industry is behaving rationally in terms of pricing and the company's approach to pricing policy will not change.
 
 

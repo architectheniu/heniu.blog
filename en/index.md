@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0076: Rocket Lab: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-10-0076/index.md) (2026-11-10)
 - [M15: 2026-11-10](https://heniu.blog/en/t-log/tlog-2026-11-10/index.md) (2026-11-10)
 - [H1: 2026-11-10](https://heniu.blog/en/h-log/hlog-2026-11-10/index.md) (2026-11-10)
 - [Fundamentals #0075: Take-Two Interactive Software: 2Q2027 results](https://heniu.blog/en/f-log/flog-2026-11-10-0075/index.md) (2026-11-10)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Log #0217: Gravitational Collapse and Volatility Expansion: Mass Shift Week](https://heniu.blog/en/posts/log-0217/index.md) (2026-11-01)
 - [H1: 2026-10-30](https://heniu.blog/en/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/en/t-log/tlog-2026-10-30/index.md) (2026-10-30)
-- [Log #0216: Session summary 2026-10-30: NDX 28385.75 (-3.46%)](https://heniu.blog/en/posts/log-0216/index.md) (2026-10-30)
 
