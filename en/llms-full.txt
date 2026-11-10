@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0225: Session summary 2026-11-10: NDX 27740.94 (-0.60%)
+
+Date: 2026-11-10 22:04
+URL: https://heniu.blog/en/posts/log-0225/
+
+
+**Session date:** 2026-11-10
+
+> *Session close 2026-11-10: NDX 27740.94 (-0.60%), NQ 27846.25 (-0.60%), QQQ 674.81 (-0.67%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session began at 9:30 ET (15:30 PL) at NDX 27637.74 and NQ 27770.00. In the first 30 minutes, the NDX index rose by 264.00 pts (+0.96%) to 27901.74, and NQ rose by 227.00 pts (+0.82%) to 27997.00. The session maximum was recorded at 10:02 ET (16:02 PL) for NDX at 27989.59, and the minimum at 12:41 ET (18:41 PL) for NDX at 27425.32. The NDX close at 27740.94 is 248.65 pts below the maximum and 315.62 pts above the minimum.
+
+**Flows and market breadth.** Cumulative flow directions were divergent, as NDX recorded a positive result of 24,67 M [accumulation], while NQ recorded a negative result of -17,16 K [sell-off], and QQQ recorded a negative -483,86 K [supply test]. Market breadth at close was -138.00 [sell-off], which, with a SMA200 average at 25.20 [accumulation], indicates a deviation from the average. The share of companies above 1 trillion USD in the basket capitalization was 66.36%.
+
+**End of session, options, and companies.** In the last hour of the session, NDX rose by 88.60 pts (+0.32%) to the level of 27740.94. At the close, a MOC Anomaly of -27,52 M occurred. Implied volatility (IV) for options on QQQ was 25.32%, and the put/call ratio was 1.11.
+
+**Day's balance.** The Nasdaq-100 index closed with a decrease of 0.60% at 27740.94.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **27740.94 (-0.60%)**
+    * Cumulative flow (CVD): **24,67 M [accumulation]**
+    * MOC Anomaly at close: **-27,52 M**
+    * Average Daily Range (ADR) utilization: **108.12%**
+    * Drawdown from Heniu's highest close: **-11.16%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **27846.25 (-0.60%)**
+    * Cumulative flow (CVD): **−17,16 K [sell-off]**
+    * Average Daily Range (ADR) utilization: **68.90%**
+
+* **QQQ ETF:** close **674.81 (-0.67%)**
+    * Cumulative flow (CVD): **−483,86 K [supply test]**
+    * Average Daily Range (ADR) utilization: **106.84%**
+
+* **Market breadth (TICKQ):** reading at close **-138.00 [sell-off]**
+    * 200 reading average (SMA200): **25.20 [accumulation]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **25.32%**
+    * Put/call ratio (open interest, OI): **1.11**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **39.47 trillion USD** (change from previous close: **-0.34 trillion USD**)
+    * Share of companies above 1 trillion USD in the basket capitalization: **66.36%** (change: **-0.05 pp**)
+    * Average share price in the basket: **$286.47** (change: **$-2.26**)
+    * Changes in the group of companies above 1 trillion USD: **no change**
+
+* **Session data health:** readings for 100.0% of the cash session; no gaps longer than one minute; NDX no change longer than 2 min in 0.1% of readings; stale readings rejected: 2349
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0225/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-11-10",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0076: Rocket Lab: 3Q2026 results
 
 Date: 2026-11-10 16:41
@@ -1115,37 +1195,5 @@ Amazon.com (AMZN): quarterly report 10-Q (Document: 10-Q; Filing date (USA time)
 Microsoft (MSFT): FWP offering materials (Document: FWP; Filing date (USA time): 30.10).
 
 Insiders on 30.10 sold shares for 16.0 million USD, including 13.7 million USD from 10b5-1 plans; market purchases amounted to 25 thousand USD. The largest sale was reported by Datadog (DDOG) insiders: 12.1 million USD. Texas Instruments (TXN) insiders sold shares for 1.9 million USD.
-
-
----
-
-## Fundamentals #0053: American Electric Power: 3Q2026 results
-
-Date: 2026-11-02 09:39
-URL: https://heniu.blog/en/f-log/flog-2026-11-02-0053/
-
-
-> ⚠️ **ERRATUM (2026-11-02)**  
-> **The earnings per share guidance was described imprecisely.**
->
-> **Corrections:**
-> - 6.25–6.55 USD for 2026, 6.75–7.05 USD for 2027 and 7.40–7.70 USD for 2028 are guidance for operating earnings per share (excluding certain special items). The company maintained its 2026 guidance and provided the 2027 and 2028 guidance for the first time.
-> - 6.11–6.41 USD is an estimate of 2026 earnings per share under accounting rules (GAAP), not a second guidance range.
->
-> We corrected the description in the text; the figures stay the same.
-
-American Electric Power (AEP) revenues increased in Q3 2026 by 13.7% y/y to 6.83 billion USD, and earnings per share (reported) increased by 19.8% y/y to 2.18 USD.
-
-### Quarterly results
-
-Adjusted earnings per share was 2.23 USD, representing a 23.9% y/y increase compared to 1.80 USD the previous year.
-
-### Company guidance
-
-The company maintains its guidance for operating earnings per share (excluding certain special items) in FY 2026 in the range of 6.25–6.55 USD and, for the first time, provides operating earnings per share guidance for FY 2027 of 6.75–7.05 USD and for FY 2028 of 7.40–7.70 USD. The range of 6.11–6.41 USD is an estimate of FY 2026 earnings per share under accounting rules (GAAP), not guidance.
-
-### Management commentary
-
-Management emphasized that they see a great deal of potential investment extending beyond the announced plan and that demand is already occurring, which requires the construction of new generation capacity. According to management, signed customer connection agreements in Texas are real, and despite adopting a cautious plan in this region, the company still sees strong growth there. Management also indicated that they view the idea of creating a separate generation company positively and are checking where it will bring the greatest benefits to customers. According to management, share issuances must increase earnings per share, as the company wants to remain cautious in managing shareholder capital.
 
 

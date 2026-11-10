@@ -7,6 +7,86 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0225: Resumo da sessão 2026-11-10: NDX 27740.94 (-0.60%)
+
+Data: 2026-11-10 22:04
+Endereço: https://heniu.blog/pt-br/posts/log-0225/
+
+
+**Data da sessão:** 2026-11-10
+
+> *Fechamento da sessão 2026-11-10: NDX 27740.94 (-0.60%), NQ 27846.25 (-0.60%), QQQ 674.81 (-0.67%).*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 27637.74 e NQ 27770.00. Nos primeiros 30 minutos, o índice NDX subiu 264.00 pts (+0.96%) para 27901.74, e o NQ subiu 227.00 pts (+0.82%) para 27997.00. O máximo da sessão foi registrado às 10:02 ET (16:02 PL) para o NDX no nível 27989.59, e o mínimo às 12:41 ET (18:41 PL) para o NDX no nível 27425.32. O fechamento do NDX no nível 27740.94 está 248.65 pts abaixo do máximo e 315.62 pts acima do mínimo.
+
+**Fluxos e amplitude de mercado.** As direções do fluxo acumulado foram divergentes, pois para o NDX foi registrado um resultado positivo de 24,67 M [acumulação], enquanto para o NQ o resultado foi negativo de -17,16 K [sell-off], e para o QQQ negativo de -483,86 K [teste de oferta]. A amplitude de mercado no fechamento foi de -138.00 [sell-off], o que, com a média SMA200 no nível de 25.20 [acumulação], indica um desvio da média. A participação de empresas acima de 1 tri USD na capitalização da cesta foi de 66.36%.
+
+**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX subiu 88.60 pts (+0.32%) para o nível 27740.94. No fechamento, ocorreu uma Anomalia MOC de -27,52 M. A volatilidade implícita (IV) para as opções sobre QQQ foi de 25.32%, e a relação put/call foi de 1.11.
+
+**Balanço do dia.** O Índice Nasdaq-100 fechou com uma queda de 0.60% no nível 27740.94.
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **27740.94 (-0.60%)**
+    * Fluxo acumulado (CVD): **24,67 M [acumulação]**
+    * Anomalia no fechamento (MOC): **-27,52 M**
+    * Utilização da amplitude diária média (ADR): **108.12%**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **-11.16%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **Contrato futuro NQ:** fechamento **27846.25 (-0.60%)**
+    * Fluxo acumulado (CVD): **−17,16 K [sell-off]**
+    * Utilização da amplitude diária média (ADR): **68.90%**
+
+* **ETF QQQ:** fechamento **674.81 (-0.67%)**
+    * Fluxo acumulado (CVD): **−483,86 K [teste de oferta]**
+    * Utilização da amplitude diária média (ADR): **106.84%**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **-138.00 [sell-off]**
+    * Média de 200 leituras (SMA200): **25.20 [acumulação]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **25.32%**
+    * Relação put/call (posições abertas, OI): **1.11**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **39.47 tri USD** (mudança desde o fechamento anterior: **-0.34 tri USD**)
+    * Participação de empresas acima de 1 tri USD na capitalização da cesta: **66.36%** (mudança: **-0.05 p.p.**)
+    * Preço médio das ações na cesta: **$286.47** (mudança: **$-2.26**)
+    * Mudanças no grupo de empresas acima de 1 tri USD: **sem mudanças**
+
+* **Saúde dos dados da sessão:** leituras por 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,1% das leituras; leituras desatualizadas rejeitadas: 2349
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0225/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-11-10",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentos #0076: Rocket Lab: resultados do 3Q2026
 
 Data: 2026-11-10 16:41
@@ -1115,37 +1195,5 @@ Amazon.com (AMZN): relatório trimestral 10-Q (Documento: 10-Q; Data de submiss�
 Microsoft (MSFT): materiais de oferta FWP (Documento: FWP; Data de submissão (hora EUA): 30.10).
 
 Insiders em 30.10 venderam ações no valor de 16,0 mi USD, incluindo 13,7 mi USD de planos 10b5-1; compras no mercado totalizaram 25 mil USD. A maior venda foi reportada pelos insiders da Datadog (DDOG): 12,1 mi USD. Insiders da Texas Instruments (TXN) venderam ações no valor de 1,9 mi USD.
-
-
----
-
-## Fundamentos #0053: American Electric Power: resultados do 3Q2026
-
-Data: 2026-11-02 09:39
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-02-0053/
-
-
-> ⚠️ **ERRATUM (2026-11-02)**  
-> **A projeção de lucro por ação estava descrita de forma imprecisa.**
->
-> **Correções:**
-> - 6,25–6,55 USD para 2026, 6,75–7,05 USD para 2027 e 7,40–7,70 USD para 2028 são projeções de lucro operacional por ação (excluindo certos itens especiais). A empresa manteve a projeção para 2026 e apresentou as de 2027 e 2028 pela primeira vez.
-> - 6,11–6,41 USD é uma estimativa do lucro por ação de 2026 segundo as regras contábeis (GAAP), e não uma segunda projeção.
->
-> Corrigimos a descrição no texto; os números não mudam.
-
-A receita da American Electric Power (AEP) aumentou no terceiro trimestre de 2026 em 13,7% a/a para o nível de 6,83 bi USD, e o lucro por ação (contábil) aumentou em 19,8% a/a para 2,18 USD.
-
-### Resultados do trimestre
-
-O lucro por ação ajustado foi de 2,23 USD, o que representa um aumento de 23,9% a/a em relação aos 1,80 USD do ano anterior.
-
-### Projeção da empresa
-
-A empresa mantém a projeção de lucro operacional por ação (excluindo certos itens especiais) no FY 2026 na faixa de 6,25–6,55 USD e, pela primeira vez, apresenta a projeção de lucro operacional por ação para o FY 2027 de 6,75–7,05 USD e para o FY 2028 de 7,40–7,70 USD. A faixa de 6,11–6,41 USD é uma estimativa do lucro por ação do FY 2026 segundo as regras contábeis (GAAP), e não uma projeção.
-
-### O que diz a administração
-
-A administração enfatizou que vê muitas oportunidades de investimento potenciais que vão além do plano anunciado e que a demanda já está ocorrendo, o que exige a construção de novas capacidades de geração. De acordo com a administração, os contratos de conexão de consumidores assinados no Texas são reais e, apesar da adoção de um plano cauteloso nesta região, a empresa ainda vê um forte crescimento lá. A administração também indicou que avalia positivamente a ideia de criar uma empresa de geração separada e está verificando onde ela trará os maiores benefícios aos clientes. De acordo com a administração, as emissões de ações devem aumentar o lucro por ação, pois a empresa deseja manter a cautela na gestão do capital dos acionistas.
 
 
