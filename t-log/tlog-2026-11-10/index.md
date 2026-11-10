@@ -1,6 +1,6 @@
 # M15: 2026-11-10
 
-Data: 2026-11-10 21:14
+Data: 2026-11-10 21:29
 Adres: https://heniu.blog/t-log/tlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.10</h1>
+<h3>⏱️ [2026-11-10 21:29] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27716.68</strong> (-0.68%; od poprzedniego wpisu +55.17 pkt) · NQ <strong>27814.75</strong> (-0.71%; +58.25 pkt) · QQQ <strong>674.24 USD</strong> (-0.75%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-87.22 M</strong> [załamanie rynku] · CVD NQ <strong>-16.61 K</strong> [wyprzedaż] (od poprzedniego wpisu +4.29 K) · CVD QQQ <strong>-428.61 K</strong> [test podaży] · TICKQ <strong>-28</strong> [test podaży] · średnia SMA200 <strong>24.58</strong> [akumulacja] (+2.47) · wskaźnik kierunku <strong>-45</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>39.46 bln USD</strong> (od poprzedniego wpisu +0.08 bln USD) · udział spółek powyżej 1 bln USD <strong>66.4%</strong> (+0.0 pp) · średnia cena akcji <strong>286.37 USD</strong> (+0.73 USD) · opcje QQQ: zmienność implikowana <strong>25.67%</strong>, put/call <strong>1.16</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>27020–27040</strong> (2.44% niżej) · najbliższa powyżej ceny <strong>28170–28190</strong> (1.64% wyżej)</li>
+</ul>
+<p>Od poprzedniego wpisu indeksy zanotowały wzrosty punktowe, jednak towarzyszy im ujemny przepływ CVD na indeksach NDX i NQ, co wskazuje na sprzedaż przy rosnącej cenie. Wskaźnik TICKQ oraz CVD na QQQ sugerują testowanie podaży. Najbliższy opór znajduje się powyżej obecnych poziomów, a wsparcie poniżej.</p>
 <h3>⏱️ [2026-11-10 21:14] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27661.51</strong> (-0.88%; od poprzedniego wpisu +7.26 pkt) · NQ <strong>27756.50</strong> (-0.92%; +3.25 pkt) · QQQ <strong>672.85 USD</strong> (-0.95%)</li>
