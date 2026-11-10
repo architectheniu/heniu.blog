@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Date: 2026-11-10 03:08
+Date: 2026-11-10 04:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-10/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.10 [EN]</h1>
+<h3>📈 [2026-11-10 04:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Trading is occurring on NQ futures contracts, which are pricing the index at 27983.00 (-0.11%).</li>
+<li><strong>Flows and sentiment:</strong> The direction gauge is -100, indicating a total dominance of capital distribution. On NQ contracts, a cumulative flow (CVD) of -803 was recorded, indicating a supply test. Despite this, on the closed cash market (NDX) at a price of 27908.16 (+3.40%), an extreme negative cumulative flow (CVD) of -330,18 M shares was recorded, demonstrating strong selling pressure during the regular session.</li>
+<li><strong>QQQ Options Analysis:</strong> Options volume was 9,240,302 with implied volatility (IV) at 25.12%. The Put/Call Volume Ratio is 1.17, indicating a dominance of Put positions and hedging by investors. The expected movement range for QQQ is between 658.19 and 700.51.</li>
+<li><strong>Technical levels:</strong> The current drawdown from the peak of 09.11 (28022.97) is -0.41% (-115 pts), which classifies the move as a standard pullback, significantly shallower than historical corrections. The nearest resistance (volume node) is located in the 28170–28190 zone (0.94% above price). The nearest support is located in the 27020–27040 zone (3.11% below price).</li>
+</ul>
+<p>H-Log Report: 2026-11-10 04:07</p>
 <h3>📈 [2026-11-10 03:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>

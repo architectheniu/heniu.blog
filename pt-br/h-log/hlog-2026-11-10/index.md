@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 03:08
+Data: 2026-11-10 04:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.10 [PT-BR]</h1>
+<h3>📈 [2026-11-10 04:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Estado do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A negociação ocorre nos contratos futuros NQ, que precificam o índice em 27983.00 (-0.11%).</li>
+<li><strong>Fluxos e sentimento:</strong> o indicador de direção de fluxos é -100, o que significa uma vantagem total de distribuição de capital. Nos contratos NQ, registrou-se um fluxo acumulado (CVD) de -803, o que indica um teste de oferta. Apesar disso, no mercado à vista (NDX) fechado, ao preço de 27908.16 (+3.40%), registrou-se um fluxo (CVD) negativo extremo de -330,18 mi de ações, o que demonstra uma forte pressão de venda durante a sessão regular.</li>
+<li><strong>Análise de opções QQQ:</strong> o volume de opções foi de 9,240,302 com a volatilidade implícita (IV) no nível de 25.12%. O Put/Call Volume Ratio é de 1.17, o que indica uma vantagem de posições do tipo Put e a construção de hedge pelos investidores. O alcance esperado de movimento para o QQQ está na faixa de 658.19 a 700.51.</li>
+<li><strong>Níveis técnicos:</strong> o Recuo desde o pico de 09.11 (28022.97) é de -0.41% (-115 pts), o que classifica o movimento como um recuo comum, significativamente mais raso do que correções históricas. A resistência mais próxima (zona de volume) encontra-se na zona de 28170–28190 (0.94% acima do preço). O suporte mais próximo encontra-se na zona de 27020–27040 (3.11% abaixo do preço).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-10 04:07</p>
 <h3>📈 [2026-11-10 03:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
