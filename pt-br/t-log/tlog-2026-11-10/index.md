@@ -1,6 +1,6 @@
 # M15: 2026-11-10
 
-Data: 2026-11-10 17:44
+Data: 2026-11-10 17:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.10 [PT-BR]</h1>
+<h3>⏱️ [2026-11-10 17:59] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27539.26</strong> (-1.32%; desde a entrada anterior -76.07 pts) · NQ <strong>27638.00</strong> (-1.34%; -85.50 pts) · QQQ <strong>669.99 USD</strong> (-1.38%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-133.36 M</strong> [pânico] · CVD NQ <strong>-33.18 K</strong> [sell-off] (desde a entrada anterior -6.06 K) · CVD QQQ <strong>-1.17 M</strong> [sell-off] · TICKQ <strong>-321</strong> [colapso do mercado] · média SMA200 <strong>9.94</strong> [teste de demanda] (-1.96) · indicador de direção <strong>-53</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>39.29 trilhões de USD</strong> (desde a entrada anterior -0.05 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>66.4%</strong> (+0.0 p.p.) · preço médio das ações <strong>284.07 USD</strong> (-0.97 USD) · opções sobre QQQ: volatilidade implícita <strong>25.69%</strong>, put/call <strong>1.18</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>27020–27040</strong> (1.81% abaixo) · mais próxima acima do preço <strong>28170–28190</strong> (2.29% acima)</li>
+</ul>
+<p>O suporte HVN do ecossistema US100 foi rompido para baixo, o que levou à queda dos índices. Também foi registrado um sell-off adicional nos fluxos CVD no NQ desde a entrada anterior.</p>
 <h3>⏱️ [2026-11-10 17:44] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27615.33</strong> (-1.03%; desde a entrada anterior -59.48 pts) · NQ <strong>27723.50</strong> (-1.04%; -47.00 pts) · QQQ <strong>671.97 USD</strong> (-1.08%)</li>
