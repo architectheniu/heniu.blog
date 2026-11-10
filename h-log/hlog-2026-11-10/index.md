@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 16:07
+Data: 2026-11-10 17:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.10</h1>
+<h3>📈 [2026-11-10 17:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Indeks NDX znajduje się w fazie cofnięcia od szczytu z dnia 09.11 (28022.97) o 1.10% (-309 pkt). Jest to korekta o charakterze zwykłym, płytsza niż 9 poprzednich w pamięci systemu. Wskaźnik kierunku przepływów wynosi -53, co potwierdza dominację dystrybucji kapitału.</li>
+<li><strong>Analiza przepływów (CVD):</strong> Odnotowano silną presję sprzedażową na rynku kasowym. Skumulowany przepływ NDX wynosi -113,29 M, co przy spadku ceny o 0.69% wskazuje na panikę w sektorze. Podobny trend widoczny jest w kontraktach NQ (CVD -20,88 K) oraz ETF QQQ (CVD -743,93 K), co sygnalizuje testowanie popytu przy obecnych poziomach.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi -401.00, przy średniej SMA200 na poziomie 12.44, co wskazuje na silną dominację podaży w szerokim rynku Nasdaq.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 25.37%, a współczynnik Put/Call Ratio na poziomie 1.13 sugeruje zwiększoną aktywność w budowaniu zabezpieczeń (hedging) oraz przewagę pozycji krótkich. Oczekiwany przez rynek zakres ruchu mieści się w przedziale 670.61 do 686.65 przy wolumenie 2,567,232 kontraktów.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 27020–27040 (2.43% poniżej obecnej ceny). Strefa oporu znajduje się w przedziale 28170–28190 (1.64% powyżej obecnej ceny).</li>
+</ul>
+<p>Raport H-Log: 2026-11-10 17:07</p>
 <h3>📈 [2026-11-10 16:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
