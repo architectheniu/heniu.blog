@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 04:08
+Data: 2026-11-10 05:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.10 [PT-BR]</h1>
+<h3>📈 [2026-11-10 05:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contratos futuros (NQ):</strong> O preço dos contratos é 27921.25 (-0.33%). O fluxo acumulado (CVD) no nível de -1,88 K indica um teste de oferta na sessão atual.</li>
+<li><strong>Análise do índice e fluxos:</strong> Apesar do fechamento da sessão à vista (Spot), os dados de fechamento indicam uma forte distribuição no índice NDX, onde o fluxo acumulado (CVD) foi de -330,18 mi de ações com um aumento de preço de +3.40%. O indicador de direção de fluxos é -100, o que significa uma vantagem total da distribuição de capital.</li>
+<li><strong>Níveis técnicos:</strong> O índice NDX encontra-se em uma fase de Recuo desde o pico do Heniu do dia 09.11 (28022.97) de 0.41% (-115 pkt). A resistência mais próxima (nó de volume) está na zona 28170–28190 (0.94% acima do preço atual), enquanto o suporte está na zona 27020–27040 (3.11% abaixo do preço atual).</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 25.12%, e o Put/Call Volume Ratio é 1.17, o que sugere uma vantagem de posições de hedge ou a expectativa de uma maior pressão de venda. O alcance esperado de movimento para o QQQ está na faixa de 658.19 a 700.51 com um volume de opções de 9,240,302.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-10 05:07</p>
 <h3>📈 [2026-11-10 04:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
