@@ -1,6 +1,6 @@
 # M15: 2026-11-10
 
-Data: 2026-11-10 17:59
+Data: 2026-11-10 18:14
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.10 [PT-BR]</h1>
+<h3>⏱️ [2026-11-10 18:14] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27582.27</strong> (-1.17%; desde a entrada anterior +43.01 pts) · NQ <strong>27677.25</strong> (-1.20%; +39.25 pts) · QQQ <strong>670.95 USD</strong> (-1.24%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-133.07 M</strong> [pânico] · CVD NQ <strong>-28.96 K</strong> [sell-off] (desde a entrada anterior +4.22 K) · CVD QQQ <strong>-992.99 K</strong> [teste de oferta] · TICKQ <strong>294</strong> [disparada do mercado] · média SMA200 <strong>13.24</strong> [teste de demanda] (+3.30) · indicador de direção <strong>-40</strong> (escala ±100; +13)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>39.31 trilhões de USD</strong> (desde a entrada anterior +0.02 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>69.0%</strong> (+2.6 p.p.) · preço médio das ações <strong>284.54 USD</strong> (+0.47 USD) · opções sobre QQQ: volatilidade implícita <strong>25.74%</strong>, put/call <strong>1.21</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>27020–27040</strong> (1.97% abaixo) · mais próxima acima do preço <strong>28170–28190</strong> (2.13% acima)</li>
+</ul>
+<p>O fluxo CVD no NQ melhorou em relação à entrada anterior, porém o indicador de direção registrou uma alta.</p>
 <h3>⏱️ [2026-11-10 17:59] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27539.26</strong> (-1.32%; desde a entrada anterior -76.07 pts) · NQ <strong>27638.00</strong> (-1.34%; -85.50 pts) · QQQ <strong>669.99 USD</strong> (-1.38%)</li>
