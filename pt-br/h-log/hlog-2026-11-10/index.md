@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 07:08
+Data: 2026-11-10 08:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.10 [PT-BR]</h1>
+<h3>📈 [2026-11-10 08:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na atividade do Contrato futuro NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> O preço dos contratos é 27970.00 (-0.16%), o que, com o fluxo acumulado (CVD) no nível de -383, indica um teste de oferta no pré-mercado.</li>
+<li><strong>Fluxos e sentimento:</strong> O indicador de direção agregado de fluxos é -55, o que significa uma predominância de distribuição de capital. Apesar disso, no fechamento da sessão à vista (Spot), foi registrada uma anomalia significativa: o índice NDX subiu +3.40%, no entanto, o fluxo acumulado (CVD) foi de -330,18 M, o que indica uma forte pressão de venda simultânea ao aumento do preço.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 25.12%, e o Put/Call Ratio no nível de 1.17 sugere uma predominância de posições de hedge ou a expectativa de maior volatilidade em direção à queda. O alcance esperado de movimento para o ETF QQQ está na faixa de 658.19 a 700.51.</li>
+<li><strong>Níveis técnicos:</strong> O Recuo desde o pico do Heniu do dia 09.11 (28022.97) é de -0.41% (-115 pts). A resistência mais próxima encontra-se no nó de volume na zona 28170–28190 (0.94% acima do preço atual), enquanto o suporte está na zona 27020–27040 (3.11% abaixo).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-10 08:07</p>
 <h3>📈 [2026-11-10 07:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
