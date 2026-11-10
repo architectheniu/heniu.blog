@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 18:08
+Data: 2026-11-10 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.10 [PT-BR]</h1>
+<h3>📈 [2026-11-10 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado:</strong> O Índice NDX encontra-se em fase de Recuo desde o pico do Heniu do dia 09.11 (28022.97), perdendo atualmente 1.75% (-491 pkt). Trata-se de uma correção de natureza comum, que permanece mais rasa do que todas as 9 correções registradas na memória do sistema.</li>
+<li><strong>Fluxos de capital e sentimento:</strong> O indicador de direção de fluxos é de -40, o que confirma a predominância da distribuição de capital. Foi registrada uma forte pressão de venda no setor à vista: o fluxo acumulado (CVD) para NDX é de -115,07 M, para o contrato NQ é de -23,71 K, e para o ETF QQQ é de -862,49 K. O indicador TICKQ no nível de 201.00 com a média SMA200 de 15.80 indica uma presença extremamente forte de oferta na amplitude de mercado.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> O mercado de opções mostra um sentimento de baixa, o que é confirmado pelo Put/Call Volume Ratio no nível de 1.23. A volatilidade implícita (IV) é de 26.44%, e com um volume de 5,268,167 contratos, o alcance esperado do movimento oscila entre 661.98 e 677.86.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima (zona de volume) encontra-se no intervalo 27020–27040 (distância de 1.79% do preço atual). A zona de resistência mais próxima encontra-se no intervalo 28170–28190 (distância de 2.32% do preço atual).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-10 19:07</p>
 <h3>📈 [2026-11-10 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
