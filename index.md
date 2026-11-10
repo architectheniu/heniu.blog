@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0077: CoreWeave: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-11-0077/index.md) (2026-11-11)
 - [M15: 2026-11-11](https://heniu.blog/t-log/tlog-2026-11-11/index.md) (2026-11-11)
 - [H1: 2026-11-11](https://heniu.blog/h-log/hlog-2026-11-11/index.md) (2026-11-11)
 - [H1: 2026-11-10](https://heniu.blog/h-log/hlog-2026-11-10/index.md) (2026-11-10)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0055: DexCom: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0055/index.md) (2026-11-02)
 - [Fundamenty #0054: Zgłoszenia spółek: Amazon.com, Microsoft; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-02-0054/index.md) (2026-11-02)
 - [Fundamenty #0053: American Electric Power: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0053/index.md) (2026-11-02)
-- [Fundamenty #0052: O'Reilly Automotive: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0052/index.md) (2026-11-02)
 

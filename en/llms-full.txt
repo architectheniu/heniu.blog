@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0077: CoreWeave: 3Q2026 results
+
+Date: 2026-11-11 00:50
+URL: https://heniu.blog/en/f-log/flog-2026-11-11-0077/
+
+
+CoreWeave (CRWV) revenue increased in the third quarter by 168.2% year over year to 3.66 billion USD, while earnings per share was −1.27 USD compared to −0.22 USD a year earlier.
+
+### Quarterly results
+
+Operating income was 207.00 million USD compared to 52.00 million USD a year earlier (+298.1% year over year). Operating margin was 6% compared to 4% a year earlier.
+
+### Company guidance
+
+The company expects revenue in 2026 at a level of 13.00 billion USD – 13.30 billion USD. The company forecasts adjusted operating income in 2026 at a level of 1.275 billion USD – 1.375 billion USD. The company expects active capacity at the end of the year to be over 1.85 GW. The company forecasts capital expenditures in 2026 at a level of 37.00 billion USD – 39.00 billion USD. The company expects interest costs in the fourth quarter of 2026 at a level of 1.05 billion USD – 1.15 billion USD. The company forecasts an annualized revenue run rate at the end of the year at a level of 20.00 billion USD – 21.00 billion USD.
+
+### Management commentary
+
+Management emphasized that demand for computing power is growing faster than the ability to deliver infrastructure, as seen in the increasing margins on subsequent contracts. According to management, demand and prices are strengthening, which helps the company achieve better returns on investment. Management emphasized that at current profitability levels, the company does not need to finance itself with unsecured debt. According to management, the company does not expect the impact of a major regulatory change in the USA, as data centers have permits and are under construction. Management emphasized that the Forge platform represents the first step for corporate clients to utilize the company's infrastructure.
+
+
+---
+
 ## Log #0225: Session summary 2026-11-10: NDX 27740.94 (-0.60%)
 
 Date: 2026-11-10 22:04
@@ -1172,28 +1195,5 @@ The company's operating income reached 327.20 million USD (+34.9% y/y), while ne
 ### What management says
 
 Management emphasized that despite market turbulence, the assessment of the company's opportunities remains unchanged, and the long-term plan inspires great confidence. According to management, reimbursement in international markets is maintaining a stable level. Management expects a decision regarding reimbursement for patients with diabetes not treated with insulin later this year. Management indicated that the publication of a study in a prestigious medical journal constitutes breakthrough evidence of the effectiveness of the company's systems, which, according to management, should significantly impact treatment standards. According to management, insurers typically provide equitable access to different systems, as patients, physicians, and employers strive to have a choice.
-
-
----
-
-## Fundamentals #0054: Company filings: Amazon.com, Microsoft; insider transactions
-
-Date: 2026-11-02 10:10
-URL: https://heniu.blog/en/f-log/flog-2026-11-02-0054/
-
-
-> ⚠️ **ERRATUM (2026-11-04)**  
-> **Sentences about company filings did not say which company they concerned.**
->
-> **Correction:**
-> - We added the company names and tickers at the start of these sentences.
->
-> The figures and dates stay the same.
-
-Amazon.com (AMZN): quarterly report 10-Q (Document: 10-Q; Filing date (USA time): 30.10).
-
-Microsoft (MSFT): FWP offering materials (Document: FWP; Filing date (USA time): 30.10).
-
-Insiders on 30.10 sold shares for 16.0 million USD, including 13.7 million USD from 10b5-1 plans; market purchases amounted to 25 thousand USD. The largest sale was reported by Datadog (DDOG) insiders: 12.1 million USD. Texas Instruments (TXN) insiders sold shares for 1.9 million USD.
 
 

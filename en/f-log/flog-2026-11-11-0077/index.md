@@ -1,0 +1,23 @@
+# Fundamentals #0077: CoreWeave: 3Q2026 results
+
+Date: 2026-11-11 00:50
+URL: https://heniu.blog/en/f-log/flog-2026-11-11-0077/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+CoreWeave (CRWV) revenue increased in the third quarter by 168.2% year over year to 3.66 billion USD, while earnings per share was −1.27 USD compared to −0.22 USD a year earlier.
+
+### Quarterly results
+
+Operating income was 207.00 million USD compared to 52.00 million USD a year earlier (+298.1% year over year). Operating margin was 6% compared to 4% a year earlier.
+
+### Company guidance
+
+The company expects revenue in 2026 at a level of 13.00 billion USD – 13.30 billion USD. The company forecasts adjusted operating income in 2026 at a level of 1.275 billion USD – 1.375 billion USD. The company expects active capacity at the end of the year to be over 1.85 GW. The company forecasts capital expenditures in 2026 at a level of 37.00 billion USD – 39.00 billion USD. The company expects interest costs in the fourth quarter of 2026 at a level of 1.05 billion USD – 1.15 billion USD. The company forecasts an annualized revenue run rate at the end of the year at a level of 20.00 billion USD – 21.00 billion USD.
+
+### Management commentary
+
+Management emphasized that demand for computing power is growing faster than the ability to deliver infrastructure, as seen in the increasing margins on subsequent contracts. According to management, demand and prices are strengthening, which helps the company achieve better returns on investment. Management emphasized that at current profitability levels, the company does not need to finance itself with unsecured debt. According to management, the company does not expect the impact of a major regulatory change in the USA, as data centers have permits and are under construction. Management emphasized that the Forge platform represents the first step for corporate clients to utilize the company's infrastructure.
+

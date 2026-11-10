@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0077: CoreWeave: wyniki za 3Q2026
+
+Data: 2026-11-11 00:50
+Adres: https://heniu.blog/f-log/flog-2026-11-11-0077/
+
+
+Przychody CoreWeave (CRWV) wzrosły w trzecim kwartale o 168,2% r/r do 3,66 mld USD, natomiast zysk na akcję wyniósł −1,27 USD wobec −0,22 USD rok wcześniej.
+
+### Wyniki kwartału
+
+Zysk operacyjny wyniósł 207,00 mln USD wobec 52,00 mln USD rok wcześniej (+298,1% r/r). Marża operacyjna wyniosła 6% wobec 4% rok wcześniej.
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów w roku 2026 na poziomie 13,00 mld USD – 13,30 mld USD. Spółka prognozuje skorygowany zysk operacyjny w roku 2026 na poziomie 1,275 mld USD – 1,375 mld USD. Spółka spodziewa się aktywnej mocy na koniec roku wynoszącej ponad 1,85 GW. Spółka prognozuje nakłady inwestycyjne w roku 2026 na poziomie 37,00 mld USD – 39,00 mld USD. Spółka spodziewa się kosztów odsetek w czwartym kwartale 2026 na poziomie 1,05 mld USD – 1,15 mld USD. Spółka prognozuje zannualizowane tempo przychodów na wyjściu z roku na poziomie 20,00 mld USD – 21,00 mld USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że popyt na moc obliczeniową rośnie szybciej niż możliwości dostarczania infrastruktury, co widać po rosnących marżach na kolejnych umowach. Według zarządu popyt i ceny się umacniają, co pomaga spółce osiągać lepsze zwroty z inwestycji. Zarząd podkreślał, że przy obecnych rentownościach spółka nie musi finansować się długiem niezabezpieczonym. Według zarządu spółka nie spodziewa się wpływu dużej zmiany regulacyjnej w USA, ponieważ centra danych mają pozwolenia i są w budowie. Zarząd podkreślał, że platforma Forge stanowi dla klientów korporacyjnych pierwszy krok do korzystania z infrastruktury spółki.
+
+
+---
+
 ## Log #0225: Podsumowanie sesji 2026-11-10: NDX 27740.94 (-0.60%)
 
 Data: 2026-11-10 22:04
@@ -1220,24 +1243,5 @@ Spółka spodziewa się, że zysk na akcję skorygowany (non-GAAP) w czwartym kw
 ### Co mówi zarząd
 
 Według zarządu rynek europejski pozostaje stabilny, jednak nie widzi on przesłanek do powrotu wzrostów w tym regionie w najbliższym czasie. Zarząd podkreślał, że wzrost w sektorze elektroniki wynika z organicznego popytu i jest spokojny o ten trend w kolejnych kwartałach. W obliczu narastającej inflacji zarząd wskazywał, że podwyżki cen na całym świecie, w tym w Chinach, pozostają kluczowym punktem uwagi. Zarząd zaznaczył również, że w dłuższym terminie na rynku będzie występować nadmiar helu, dlatego spółka zachowuje rozwagę przy ustalaniu cen w długoterminowych kontraktach.
-
-
----
-
-## Fundamenty #0055: DexCom: wyniki za 3Q2026
-
-Data: 2026-11-02 10:22
-Adres: https://heniu.blog/f-log/flog-2026-11-02-0055/
-
-
-Przychody DexCom (DXCM) w trzecim kwartale wyniosły 1,34 mld USD (+11,2% r/r), natomiast zysk na akcję (skorygowany) wzrósł o 19,7% r/r do poziomu 0,73 USD.
-
-### Wyniki kwartału
-
-Zysk operacyjny spółki osiągnął 327,20 mln USD (+34,9% r/r), przy jednoczesnym spadku zysku netto o 3,1% r/r do 275,10 mln USD. Zysk na akcję (księgowy) ukształtował się na poziomie 0,72 USD (+2,9% r/r), a zysk na akcję (księgowy, podstawowy) pozostał bez zmian względem roku ubiegłego, wynosząc 0,73 USD (0,0% r/r).
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że mimo rynkowych zawirowań ocena szans spółki pozostaje niezmieniona, a plan długoterminowy budzi dużą pewność. Według zarządu refundacja na rynkach zagranicznych utrzymuje stabilny poziom. Zarząd oczekuje jeszcze w tym roku decyzji dotyczącej refundacji dla pacjentów z cukrzycą nieleczoną insuliną. Zarząd wskazywał, że publikacja badania w prestiżowym czasopiśmie medycznym stanowi przełomowy dowód na skuteczność systemów spółki, co według zarządu powinno znacząco wpłynąć na standardy leczenia. Według zarządu ubezpieczyciele zazwyczaj zapewniają równorzędny dostęp do różnych systemów, gdyż pacjenci, lekarze oraz pracodawcy dążą do posiadania wyboru.
 
 
