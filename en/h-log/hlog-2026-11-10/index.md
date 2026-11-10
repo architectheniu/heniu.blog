@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Date: 2026-11-10 05:07
+Date: 2026-11-10 06:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-10/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.10 [EN]</h1>
+<h3>📈 [2026-11-10 06:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on NQ futures contracts and data from the regular session close.</li>
+<li><strong>Contract situation:</strong> NQ contracts are trading at 27962.00 (-0.19%), which, with cumulative flow (CVD) at -819, indicates a supply test. The NDX index closed the session with a result of +3.40% (27908.16), however, from the peak on 09.11 (28022.97), a drawdown of 0.41% (-115 pts) has been recorded. This is a standard pullback, deeper than the median of historical corrections.</li>
+<li><strong>Flows and sentiment:</strong> The aggregate direction gauge is -55, which means a dominance of capital distribution. Despite the rise in the NDX index, the cumulative flow in the cash session (CVD NDX) was -330.18 M, indicating strong selling pressure during the session.</li>
+<li><strong>Options market:</strong> In the QQQ options market, volume was 9,240,302 with a Put/Call Ratio at 1.17, suggesting a dominance of hedging positions or anticipation of declines. Implied volatility (IV) is 25.12%, and the expected range of movement is between 658.19 and 700.51.</li>
+<li><strong>Technical levels:</strong> The nearest resistance is located in the volume zone 28170–28190 (0.94% above the current price). The nearest support was identified in the zone 27020–27040 (3.11% below the current price).</li>
+</ul>
+<p>H-Log Report: 2026-11-10 06:07</p>
 <h3>📈 [2026-11-10 05:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
