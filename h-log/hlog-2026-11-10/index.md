@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 01:07
+Data: 2026-11-10 02:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.10</h1>
+<h3>📈 [2026-11-10 02:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku kasowego:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Aktywność kontraktów NQ:</strong> Kontrakty NQ notowane są na poziomie 27984.25 (-0.10%). Skumulowany przepływ (CVD) wynosi -1,61 K, co wskazuje na testowanie podaży w obecnej sesji terminowej.</li>
+<li><strong>Analiza zamknięcia sesji kasowej:</strong> Indeks NDX zamknął się na poziomie 27908.16 (+3.40%), jednak od szczytu z dnia 09.11 (28022.97) odnotowano cofnięcie o -0.41% (-115 pkt). Mimo wzrostu ceny, skumulowany przepływ na rynku kasowym (CVD NDX) wyniósł -330,18 M, co wskazuje na silną presję sprzedażową i dystrybucję w trakcie sesji. Wskaźnik kierunku przepływów wynosi -100, co oznacza całkowitą przewagę dystrybucji kapitału.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 25.12%, a współczynnik Put/Call Ratio to 1.17, co sugeruje zwiększone zainteresowanie zabezpieczeniami (hedgingiem) po stronie opcji sprzedaży. Oczekiwany zasięg ruchu mieści się w przedziale 658.19 do 700.51 przy wolumenie 9,240,302.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 27020–27040 (3.11% poniżej obecnej ceny). Najbliższa strefa oporu znajduje się w przedziale 28170–28190 (0.94% powyżej obecnej ceny). Obecne cofnięcie jest klasyfikowane jako zwykłe cofnięcie, o charakterystyce płytszej niż historyczne korekty.</li>
+</ul>
+<p>Raport H-Log: 2026-11-10 02:07</p>
 <h3>📈 [2026-11-10 01:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
