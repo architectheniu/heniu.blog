@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 20:07
+Data: 2026-11-10 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.10</h1>
+<h3>📈 [2026-11-10 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Rynek znajduje się w fazie dystrybucji. Indeks NDX spadł o 1.00% do poziomu 27628.85, przy skumulowanym przepływie (CVD) na poziomie −110,55 M, co wskazuje na panikę w sektorze kasowym. Kontrakty NQ spadły o 1.04% (27723.50) z wyraźną wyprzedażą (CVD: −23,1 K), a ETF QQQ odnotował spadek o 1.07% (672.05), testując podaż. Wskaźnik kierunku przepływów wynosi -55, co potwierdza dominację odpływu kapitału. Szeroki rynek (TICKQ) wykazuje silną presję sprzedażową przy wartości -76.00 (średnia SMA200 wynosi 21.80).</p>
+</li>
+<li>
+<p><strong>Analiza opcji:</strong> Na rynku opcji QQQ odnotowano wolumen 7,061,878. Put/Call Volume Ratio wynosi 1.17, co sugeruje zwiększoną aktywność w budowaniu zabezpieczeń (hedgingu) lub przewagę pozycji krótkich. Zmienność implikowana (IV) wynosi 25.45%, a oczekiwany teoretyczny zasięg ruchu mieści się w przedziale 664.01 do 678.57.</p>
+</li>
+<li>
+<p><strong>Kontekst techniczny i poziomy:</strong> Bieżące cofnięcie od szczytu z dnia 09.11 (28022.97) wynosi 1.41% (-394 pkt). Jest to korekta o charakterze zwykłym, płytsza niż dotychczasowe 9 odnotowanych w pamięci korekt. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 27020–27040 (2.13% poniżej obecnej ceny). Strefa oporu znajduje się powyżej poziomu 28170–28190 (1.96% powyżej obecnej ceny).</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-11-10 21:07</p>
 <h3>📈 [2026-11-10 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
