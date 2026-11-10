@@ -1,6 +1,6 @@
 # M15: 2026-11-10
 
-Date: 2026-11-10 16:29
+Date: 2026-11-10 16:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-10/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.10 [EN]</h1>
+<h3>⏱️ [2026-11-10 16:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27729.12</strong> (-0.64%; since the previous entry -75.09 pts) · NQ <strong>27830.00</strong> (-0.67%; -68.25 pts) · QQQ <strong>674.69 USD</strong> (-0.69%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-94.7 M</strong> [panic] · CVD NQ <strong>-7.69 K</strong> [supply test] (since the previous entry -4.88 K) · CVD QQQ <strong>-349.75 K</strong> [supply test] · TICKQ <strong>-700</strong> [panic] · SMA200 average <strong>18.39</strong> [demand test] (-2.12) · direction gauge <strong>-53</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>39.56 trillion USD</strong> (since the previous entry -0.06 trillion USD) · share of companies above 1 trillion USD <strong>66.5%</strong> (+0.0 pp) · average share price <strong>286.19 USD</strong> (-0.67 USD) · QQQ options: implied volatility <strong>25.07%</strong>, put/call <strong>1.07</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>27020–27040</strong> (2.49% lower) · nearest above the price <strong>28170–28190</strong> (1.59% higher)</li>
+</ul>
+<p>NQ price fell after the volume node level was first broken up and then quickly overturned. CVD flows deteriorated, which, alongside the simultaneous decline in indices, indicates an increase in selling pressure. The nearest resistance is located above current levels, while support is located lower.</p>
 <h3>⏱️ [2026-11-10 16:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27804.21</strong> (-0.38%; since the previous entry -116.49 pts) · NQ <strong>27898.25</strong> (-0.42%; -123.50 pts) · QQQ <strong>676.30 USD</strong> (-0.45%)</li>
