@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 13:08
+Data: 2026-11-10 14:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.10 [PT-BR]</h1>
+<h3>📈 [2026-11-10 14:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong>. a sessão à vista (Spot) está atualmente fechada.</p>
+<ul>
+<li><strong>Status dos contratos e sentimento:</strong> Os contratos NQ apresentam uma leve pressão de baixa com o preço em 27901.50 (-0.40%), o que, com o fluxo acumulado (CVD) no nível de -3,92 K, sugere um teste de oferta. O indicador de direção de fluxo agregado é de -55, o que significa uma clara vantagem da distribuição de capital no momento atual.</li>
+<li><strong>Análise do mercado à vista (fechado):</strong> Apesar do fechamento da sessão regular, os dados da última sessão indicam uma forte anomalia; o índice NDX fechou no nível de 27908.16 (+3.40%), no entanto, o fluxo acumulado (CVD) foi de -330,18 M, o que indica uma intensa pressão de venda durante a sessão.</li>
+<li><strong>Níveis técnicos:</strong> O Recuo desde o pico do Heniu de 09.11 (28022.97) é de -0.41% (-115 pts), o que classifica o movimento como um recuo comum, significativamente mais raso do que as correções anteriores. A resistência mais próxima encontra-se no nó de volume na zona 28170–28190 (0.94% acima do preço), enquanto o suporte está localizado na zona 27020–27040 (3.11% abaixo do preço).</li>
+<li><strong>Mercado de opções QQQ:</strong> Com volume de 9,240,302 e uma relação Put/Call Ratio de 1.17, o mercado mostra uma tendência de construção de hedge no lado das opções de venda. A volatilidade implícita (IV) é de 25.12%, e o alcance esperado do movimento situa-se no intervalo de 658.19 a 700.51.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-10 14:07</p>
 <h3>📈 [2026-11-10 13:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
