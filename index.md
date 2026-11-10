@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0075: Take-Two Interactive Software: wyniki za 2Q2027](https://heniu.blog/f-log/flog-2026-11-10-0075/index.md) (2026-11-10)
 - [M15: 2026-11-10](https://heniu.blog/t-log/tlog-2026-11-10/index.md) (2026-11-10)
 - [H1: 2026-11-10](https://heniu.blog/h-log/hlog-2026-11-10/index.md) (2026-11-10)
 - [Fundamenty #0074: Zgłoszenia spółek: Microsoft, Space Exploration Technologies, Micron Technology i inne; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-10-0074/index.md) (2026-11-10)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0217: Kolaps Grawitacyjny i Ekspansja Zmienności: Tydzień Przesunięcia Masy](https://heniu.blog/posts/log-0217/index.md) (2026-11-01)
 - [H1: 2026-10-30](https://heniu.blog/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/t-log/tlog-2026-10-30/index.md) (2026-10-30)
-- [Log #0216: Podsumowanie sesji 2026-10-30: NDX 28385.75 (-3.46%)](https://heniu.blog/posts/log-0216/index.md) (2026-10-30)
 

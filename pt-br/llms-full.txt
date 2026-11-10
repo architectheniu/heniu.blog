@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0075: Take-Two Interactive Software: resultados do 2Q2027
+
+Data: 2026-11-10 13:51
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-10-0075/
+
+
+A receita da Take-Two Interactive Software (TTWO) caiu 15,6% ano a ano no trimestre para 1,50 bi USD, e o lucro por ação foi de −0,29 USD contra −0,73 USD no ano anterior.
+
+### Resultados do trimestre
+
+A receita líquida da plataforma Mobile foi de 731,10 mi USD contra 821,60 mi USD no ano anterior (−11,0% ano a ano). A receita líquida da plataforma Console foi de 615,40 mi USD contra 720,00 mi USD no ano anterior (−14,5% ano a ano). A receita líquida da plataforma PC and other foi de 150,50 mi USD contra 232,20 mi USD no ano anterior (−35,2% ano a ano).
+
+### Projeção da empresa
+
+A empresa espera receita líquida (GAAP) no terceiro trimestre do ano fiscal 2027 na faixa de 3,27 bi USD – 3,42 bi USD e em todo o ano fiscal 2027 na faixa de 7,98 bi USD – 8,18 bi USD. A empresa projeta custos operacionais (GAAP) para o terceiro trimestre do ano fiscal 2027 no nível de 1,162 bi USD – 1,182 bi USD e para todo o ano fiscal 2027 no nível de 4,078 bi USD – 4,098 bi USD. A empresa espera lucro líquido (GAAP) no terceiro trimestre do ano fiscal 2027 na faixa de 250,00 mi USD – 276,00 mi USD e em todo o ano fiscal 2027 na faixa de 109,00 mi USD – 142,00 mi USD. A empresa projeta o lucro por ação diluído (GAAP) para o terceiro trimestre do ano fiscal 2027 no nível de 1,30–1,44 USD e para todo o ano fiscal 2027 no nível de 0,57–0,75 USD. A empresa espera EBITDA (non-GAAP) no terceiro trimestre do ano fiscal 2027 na faixa de 651,00 mi USD – 698,00 mi USD e em todo o ano fiscal 2027 na faixa de 1,024 bi USD – 1,082 bi USD. A empresa projeta Net Bookings no terceiro trimestre do ano fiscal 2027 na faixa de 3,35 bi USD – 3,50 bi USD e em todo o ano fiscal 2027 na faixa de 8,00 bi USD – 8,20 bi USD.
+
+### O que diz a diretoria
+
+A diretoria enfatizou que está acompanhando o reconhecimento e a expectativa para o lançamento de GTA VI, o que está seguindo em uma boa direção. De acordo com a diretoria, as vendas diretas em jogos móveis têm uma participação significativa e crescente, o que melhora as margens e o lucro. A diretoria também enfatizou uma grande oportunidade em anúncios em jogos móveis, inclusive para marcas fora da indústria de jogos. De acordo com a diretoria, em resposta ao risco de pirataria apoiada por IA, a empresa está reforçando as proteções técnicas e as ações legais. A diretoria enfatizou que não vê necessidade de alterar as projeções antes do lançamento de GTA VI. De acordo com a diretoria, as vendas do novo jogo NBA devem se recuperar na segunda metade do ano.
+
+
+---
+
 ## Log #0224: Resumo da sessão 2026-11-09: NDX 27905.46 (+3.40%)
 
 Data: 2026-11-09 22:04
@@ -1133,24 +1156,5 @@ Para todo o ano de 2026, a empresa espera uma receita na faixa de 19,00 bi USD �
 ### O que diz a administração
 
 A administração expressou grande satisfação com os resultados das vendas comparáveis, inclusive após a exclusão de fatores extraordinários. Segundo a administração, os clientes encontram-se em uma condição razoavelmente boa, embora pessoas com rendas mais altas estejam se saindo melhor do que os clientes com as rendas mais baixas. A administração enfatizou que as novas lojas abertas nos próximos anos estão apresentando um desempenho muito bom. De acordo com a administração, a abordagem em relação ao endividamento e à recompra de ações permanece inalterada, e a empresa está concentrada no atendimento aos clientes e na conquista de participação de mercado, em vez de tentar prever o tempo. A administração também observou que o setor está se comportando de forma racional em termos de preços e que a abordagem da empresa em relação à política de preços não mudará.
-
-
----
-
-## Fundamentos #0051: PACCAR: resultados do 3Q2026
-
-Data: 2026-11-02 09:33
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-02-0051/
-
-
-A receita da PACCAR (PCAR) no terceiro trimestre foi de 7,94 bilhões de USD (+19,0% a/a), e o lucro líquido aumentou 43,6% a/a para o nível de 847,50 milhões de USD.
-
-### Resultados do trimestre
-
-O lucro por ação (contábil) foi de 1,61 USD (+43,8% a/a), o que é idêntico ao resultado do lucro por ação (contábil, básico) no nível de 1,61 USD (+43,8% a/a).
-
-### O que diz a administração
-
-A administração enfatizou uma colaboração mais estreita com os fornecedores para garantir as peças necessárias para a produção de caminhões. De acordo com a administração, os clientes estão começando a fazer pedidos para o próximo ano, o que é apenas o início deste processo. A administração espera um crescimento contínuo nas vendas de peças até o final do ano e a conquista de participação de mercado. Segundo a administração, a incerteza deve diminuir, e o mercado se fortalecerá ao longo do próximo ano. A administração também mencionou que a nova plataforma PACCAR Connect funciona como um sistema aberto com aplicativos que podem gerar receitas adicionais.
 
 

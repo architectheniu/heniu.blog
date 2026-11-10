@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0075: Take-Two Interactive Software: resultados do 2Q2027](https://heniu.blog/pt-br/f-log/flog-2026-11-10-0075/index.md) (2026-11-10)
 - [M15: 2026-11-10](https://heniu.blog/pt-br/t-log/tlog-2026-11-10/index.md) (2026-11-10)
 - [H1: 2026-11-10](https://heniu.blog/pt-br/h-log/hlog-2026-11-10/index.md) (2026-11-10)
 - [H1: 2026-11-09](https://heniu.blog/pt-br/h-log/hlog-2026-11-09/index.md) (2026-11-09)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [H1: 2026-10-30](https://heniu.blog/pt-br/h-log/hlog-2026-10-30/index.md) (2026-10-30)
 - [M15: 2026-10-30](https://heniu.blog/pt-br/t-log/tlog-2026-10-30/index.md) (2026-10-30)
 - [Log #0216: Resumo da sessão 2026-10-30: NDX 28385.75 (-3.46%)](https://heniu.blog/pt-br/posts/log-0216/index.md) (2026-10-30)
-- [Fundamentos #0050: Regeneron Pharmaceuticals: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-10-30-0050/index.md) (2026-10-30)
 

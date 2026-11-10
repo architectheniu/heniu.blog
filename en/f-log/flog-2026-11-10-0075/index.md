@@ -1,0 +1,23 @@
+# Fundamentals #0075: Take-Two Interactive Software: 2Q2027 results
+
+Date: 2026-11-10 13:50
+URL: https://heniu.blog/en/f-log/flog-2026-11-10-0075/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Take-Two Interactive Software (TTWO) revenue fell 15.6% year over year to 1.50 billion USD, and earnings per share was −0.29 USD compared to −0.73 USD a year earlier.
+
+### Quarterly results
+
+Net revenue from the Mobile platform was 731.10 million USD compared to 821.60 million USD a year earlier (−11.0% year over year). Net revenue from the Console platform was 615.40 million USD compared to 720.00 million USD a year earlier (−14.5% year over year). Net revenue from the PC and other platform was 150.50 million USD compared to 232.20 million USD a year earlier (−35.2% year over year).
+
+### Company guidance
+
+The company expects net revenue (GAAP) in the third quarter of fiscal year 2027 in the range of 3.27 billion USD – 3.42 billion USD and for the full fiscal year 2027 in the range of 7.98 billion USD – 8.18 billion USD. The company forecasts operating costs (GAAP) for the third quarter of fiscal year 2027 at 1.162 billion USD – 1.182 billion USD and for the full fiscal year 2027 at 4.078 billion USD – 4.098 billion USD. The company expects net income (GAAP) in the third quarter of fiscal year 2027 in the range of 250.00 million USD – 276.00 million USD and for the full fiscal year 2027 in the range of 109.00 million USD – 142.00 million USD. The company forecasts diluted earnings per share (GAAP) in the third quarter of fiscal year 2027 at 1.30–1.44 USD and for the full fiscal year 2027 at 0.57–0.75 USD. The company expects EBITDA (non-GAAP) in the third quarter of fiscal year 2027 in the range of 651.00 million USD – 698.00 million USD and for the full fiscal year 2027 in the range of 1.024 billion USD – 1.082 billion USD. The company forecasts Net Bookings in the third quarter of fiscal year 2027 in the range of 3.35 billion USD – 3.50 billion USD and for the full fiscal year 2027 in the range of 8.00 billion USD – 8.20 billion USD.
+
+### Management commentary
+
+Management emphasized that they are monitoring the brand recognition and anticipation for the release of GTA VI, which is moving in a positive direction. According to management, direct sales in mobile games have a significant and growing share, which improves margins and profit. Management also emphasized a large opportunity in mobile game advertising, including for brands outside the gaming industry. According to management, in response to the risk of AI-supported piracy, the company is strengthening technical protections and legal actions. Management emphasized that they see no need to change guidance before the release of GTA VI. According to management, sales of the new NBA game should rebound in the second half of the year.
+
