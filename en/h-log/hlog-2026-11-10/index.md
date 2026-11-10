@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Date: 2026-11-10 14:08
+Date: 2026-11-10 15:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-10/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.10 [EN]</h1>
+<h3>📈 [2026-11-10 15:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>Situation on contracts and indices:</strong> NQ contracts show decreases of -1.10% (price 27706.00) with CVD flow at -6,69 K, indicating a supply test. The NDX index, despite the close of the cash session, recorded an increase of +3.40% (price 27908.16), however, the cumulative CVD flow in the cash session amounted to -330,18 M shares, which testifies to strong selling pressure (panic) during the session.</li>
+<li><strong>Sentiment and options:</strong> The aggregate direction gauge of flows is -50, which means a clear advantage of capital distribution. In the QQQ options market, a volume of 44,419 was recorded with a Put/Call Ratio at 1.92, indicating intensive building of hedging positions or expectation of declines. Implied volatility (IV) is 26.10%, and the expected range of movement is between 658.19 and 700.51.</li>
+<li><strong>Technical analysis and levels:</strong> The current Drawdown from Heniu's peak on 09.11 (28022.97) is -0.41% (-115 pts), which classifies this move as a regular pullback, significantly shallower than historical corrections. The nearest significant support level (volume zone) is located in the 27020–27040 zone, while resistance is located in the 28170–28190 zone.</li>
+</ul>
+<p>H-Log Report: 2026-11-10 15:07</p>
 <h3>📈 [2026-11-10 14:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong>. the cash session (Spot) is currently closed.</p>

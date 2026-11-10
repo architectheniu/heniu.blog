@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 14:08
+Data: 2026-11-10 15:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.10 [PT-BR]</h1>
+<h3>📈 [2026-11-10 15:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de o contrato NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos e índices:</strong> os contratos NQ mostram quedas de -1.10% (preço 27706.00) com o fluxo CVD no nível de -6,69 K, o que indica um teste de oferta. O índice NDX, apesar do fechamento da sessão à vista (Spot), registrou uma alta de +3.40% (preço 27908.16), no entanto, o fluxo acumulado (CVD) no mercado à vista foi de -330,18 mi de ações, o que demonstra uma forte pressão de venda (pânico) durante a sessão.</li>
+<li><strong>Sentimento e opções:</strong> o indicador de direção agregado de fluxos é de -50, o que significa uma clara vantagem de distribuição de capital. No mercado de opções sobre QQQ, registrou-se um volume de 44,419 com o Put/Call Ratio no nível de 1.92, o que indica uma construção intensa de posições de proteção (hedging) ou a expectativa de quedas. A volatilidade implícita (IV) é de 26.10%, e o alcance esperado do movimento está na faixa de 658.19 a 700.51.</li>
+<li><strong>Análise técnica e níveis:</strong> o Recuo desde o pico do Heniu do índice NDX em relação ao pico do dia 09.11 (28022.97) é de -0.41% (-115 pts), o que classifica este movimento como um recuo comum, significativamente mais raso do que correções históricas. O nível de suporte mais próximo (zona de volume) encontra-se na zona de 27020–27040, enquanto a resistência encontra-se na zona de 28170–28190.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-10 15:07</p>
 <h3>📈 [2026-11-10 14:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong>. a sessão à vista (Spot) está atualmente fechada.</p>
