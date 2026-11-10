@@ -1,6 +1,6 @@
 # M15: 2026-11-10
 
-Data: 2026-11-10 15:59
+Data: 2026-11-10 16:14
 Adres: https://heniu.blog/t-log/tlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.10</h1>
+<h3>⏱️ [2026-11-10 16:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27920.70</strong> (+0.05%; od poprzedniego wpisu +26.46 pkt) · NQ <strong>28021.75</strong> (+0.01%; +31.00 pkt) · QQQ <strong>679.25 USD</strong> (-0.01%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-76.01 M</strong> [załamanie rynku] · CVD NQ <strong>7.17 K</strong> [test popytu] (od poprzedniego wpisu +10.37 K) · CVD QQQ <strong>80.49 K</strong> [test popytu] · TICKQ <strong>-19</strong> [test podaży] · średnia SMA200 <strong>24.45</strong> [akumulacja] (-1.59) · wskaźnik kierunku <strong>-53</strong> (skala ±100; -15)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>39.78 bln USD</strong> (od poprzedniego wpisu +0.10 bln USD) · udział spółek powyżej 1 bln USD <strong>66.4%</strong> (+0.0 pp) · średnia cena akcji <strong>288.16 USD</strong> (+0.19 USD) · opcje QQQ: zmienność implikowana <strong>25.45%</strong>, put/call <strong>1.30</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>27020–27040</strong> (3.15% niżej) · najbliższa powyżej ceny <strong>28170–28190</strong> (0.89% wyżej)</li>
+</ul>
+<p>Cena NQ wzrosła, przy czym przepływy CVD dla tego indeksu poprawiły się względem poprzedniego wpisu. Na rynku pojawił się nowy węzeł wolumenowy na poziomie NDX 27870, który obejmuje ułamek wolumenu z ostatnich pięciu dni handlu. Najbliższy opór znajduje się powyżej obecnych poziomów, a wsparcie zlokalizowane jest niżej.</p>
 <h3>⏱️ [2026-11-10 15:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27894.24</strong> (-0.05%; od poprzedniego wpisu +147.54 pkt) · NQ <strong>27990.75</strong> (-0.09%; +145.00 pkt) · QQQ <strong>678.55 USD</strong> (-0.12%)</li>
