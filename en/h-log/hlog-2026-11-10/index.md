@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Date: 2026-11-10 21:08
+Date: 2026-11-10 23:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-10/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.10 [EN]</h1>
+<h3>📈 [2026-11-10 close]</h3>
+<p><strong>H-LOG: the cash session (Spot) summary</strong></p>
+<p>This is the summary of the cash session (Spot) from 2026-11-10. The NDX index closed at 27740.94, representing a change of -0.60% with CVD at 24,67 M and ADR usage of 108.12%. The NQ contract recorded a close at 27846.25 (-0.60%) with CVD of -17,16 K and ADR of 68.90%. The QQQ ETF finished the session at 674.81, which is a decrease of -0.67%, with CVD of -483,86 K and ADR usage of 106.84%. The TICKQ indicator closed at a value of -138.00, while TICKQ SMA200 was 25.20.</p>
+<p>H-Log report: session summary 2026-11-10</p>
 <h3>📈 [2026-11-10 21:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
