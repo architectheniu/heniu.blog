@@ -1,6 +1,6 @@
 # H1: 2026-11-10
 
-Data: 2026-11-10 02:08
+Data: 2026-11-10 03:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.10 [PT-BR]</h1>
+<h3>📈 [2026-11-10 03:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ estão sendo negociados ao preço de 28006.50 (-0.03%), o que indica um teste de oferta com o fluxo acumulado (CVD) em -1,03 K.</li>
+<li><strong>Análise do índice e fluxos:</strong> O índice NDX fechou a sessão à vista (Spot) em 27908.16 (+3.40%). No entanto, foi registrada uma Anomalia MOC significativa nos fluxos do mercado à vista – o CVD acumulado para o NDX foi de -330,18 M, o que, com o aumento do preço, indica uma forte pressão de venda (pânico) dentro da sessão. O indicador de direção de fluxo agregado é de -100, o que significa uma vantagem total de distribuição de capital.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 25.12%, e a relação Put/Call no nível de 1.17 sugere uma vantagem de posições de hedge ou a expectativa de maior volatilidade para baixo. O alcance de movimento esperado para o QQQ situa-se no intervalo de 658.19 a 700.51 com volume de opções de 9,240,302.</li>
+<li><strong>Níveis técnicos:</strong> O Recuo desde o pico de 09.11 (28022.97) é de -0.41% (-115 pts), o que classifica o movimento como um recuo comum, significativamente mais raso do que as correções históricas. A resistência mais próxima (nó de volume) encontra-se na zona de 28170–28190, enquanto o suporte está na zona de 27020–27040.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-10 03:07</p>
 <h3>📈 [2026-11-10 02:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
