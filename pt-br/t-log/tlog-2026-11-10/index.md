@@ -1,6 +1,6 @@
 # M15: 2026-11-10
 
-Data: 2026-11-10 18:29
+Data: 2026-11-10 18:44
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-10/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.10 [PT-BR]</h1>
+<h3>⏱️ [2026-11-10 18:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27465.64</strong> (-1.58%; desde a entrada anterior -69.57 pts) · NQ <strong>27563.00</strong> (-1.61%; -72.25 pts) · QQQ <strong>668.06 USD</strong> (-1.66%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-128.69 M</strong> [pânico] · CVD NQ <strong>-28.03 K</strong> [sell-off] (desde a entrada anterior +2.28 K) · CVD QQQ <strong>-1.09 M</strong> [sell-off] · TICKQ <strong>167</strong> [acumulação] · média SMA200 <strong>15.23</strong> [teste de demanda] (+2.30) · indicador de direção <strong>-40</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>39.13 trilhões de USD</strong> (desde a entrada anterior -0.12 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>69.0%</strong> (+0.0 p.p.) · preço médio das ações <strong>283.54 USD</strong> (-0.54 USD) · opções sobre QQQ: volatilidade implícita <strong>25.96%</strong>, put/call <strong>1.22</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>27020–27040</strong> (1.55% abaixo) · mais próxima acima do preço <strong>28170–28190</strong> (2.56% acima)</li>
+</ul>
+<p>O preço do NQ caiu, e o fluxo CVD para este instrumento aumentou em comparação com a entrada anterior. Foi observado um fluxo repentino de capital para cima, o que desencadeou uma erupção de fluxo no NQ. O suporte mais próximo encontra-se abaixo da avaliação atual, enquanto a resistência ocorre acima.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 18:42 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>⏱️ [2026-11-10 18:29] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27535.21</strong> (-1.33%; desde a entrada anterior -47.06 pts) · NQ <strong>27635.25</strong> (-1.36%; -42.00 pts) · QQQ <strong>669.90 USD</strong> (-1.39%)</li>
