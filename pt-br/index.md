@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [M15: 2026-11-11](https://heniu.blog/pt-br/t-log/tlog-2026-11-11/index.md) (2026-11-11)
 - [H1: 2026-11-11](https://heniu.blog/pt-br/h-log/hlog-2026-11-11/index.md) (2026-11-11)
 - [H1: 2026-11-10](https://heniu.blog/pt-br/h-log/hlog-2026-11-10/index.md) (2026-11-10)
 - [M15: 2026-11-10](https://heniu.blog/pt-br/t-log/tlog-2026-11-10/index.md) (2026-11-10)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0053: American Electric Power: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0053/index.md) (2026-11-02)
 - [Fundamentos #0052: O'Reilly Automotive: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0052/index.md) (2026-11-02)
 - [Fundamentos #0051: PACCAR: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0051/index.md) (2026-11-02)
-- [Log #0217: Colapso Gravitacional e Expansão de Volatilidade: Semana de Deslocamento de Massa](https://heniu.blog/pt-br/posts/log-0217/index.md) (2026-11-01)
 
