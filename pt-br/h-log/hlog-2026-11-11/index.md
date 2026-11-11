@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 10:08
+Data: 2026-11-11 11:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.11 [PT-BR]</h1>
+<h3>📈 [2026-11-11 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. Análise baseada nos contratos futuros NQ e dados do fechamento da sessão regular.</li>
+<li><strong>Contratos NQ:</strong> O preço dos contratos é 28302.25 (+1.68%), com o fluxo acumulado (CVD) em 11,9 K, o que indica uma acumulação ativa na sessão pré-mercado.</li>
+<li><strong>Análise de recuo e níveis:</strong> o Índice Nasdaq-100 (NDX) está em uma fase de Recuo desde o pico do Heniu do dia 09.11 (28022.97), representando atualmente -1.01% (-282 pts). Trata-se de uma correção de caráter comum, mais rasa do que os 9 movimentos registrados anteriormente na memória. A resistência mais próxima encontra-se na zona de volume 28170–28190 (1.6% acima do preço atual), enquanto o suporte está na zona 27020–27040 (2.53% abaixo do preço).</li>
+<li><strong>Mercado de opções QQQ:</strong> a volatilidade implícita (IV) é de 25.21%, e o Put/Call Ratio em 1.15 sugere uma predominância de posições de proteção (hedging) ou a expectativa de maior volatilidade de baixa. O alcance de movimento esperado pelo mercado situa-se no intervalo de 664.90 a 684.62 pontos.</li>
+<li><strong>Sentimento:</strong> o indicador de direção de fluxo é 10, o que indica uma vantagem muito fraca de entrada de capital, oscilando perto do limite neutro com um leve desvio em direção à distribuição.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-11 11:07</p>
 <h3>📈 [2026-11-11 10:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong>. a sessão à vista (Spot) está atualmente fechada.</p>
