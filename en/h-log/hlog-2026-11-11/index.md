@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Date: 2026-11-11 17:08
+Date: 2026-11-11 18:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-11/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.11 [EN]</h1>
+<h3>📈 [2026-11-11 18:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price situation and flows:</strong> The NDX index is currently at the swing peak of 11.11, at a price of 28487.63 (+2.69%). A significant divergence has been noted between the cash and futures markets: despite the rise in the NDX index, the cumulative flow (CVD) in the cash market is -164,13 M (panic), while NQ contracts show accumulation at a level of 12,56 K at a price of 28589.25 (+2.71%). The QQQ ETF shows a supply test with CVD at a level of -287,08 K. The aggregate flow direction gauge is -60, which indicates a clear dominance of capital distribution.</li>
+<li><strong>Market breadth and sentiment:</strong> The TICKQ indicator is 17.00, which, compared to the SMA200 average of 35.19, indicates a weakening of the Nasdaq market breadth dynamics.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 23.58%, and the Put/Call Volume Ratio is at 0.90 with a volume of 4,232,210. The market-expected price range for QQQ is between 684.78 and 698.04.</li>
+<li><strong>Technical context and levels:</strong> The current pullback is a standard pullback (below the median and the 80th percentile of historical corrections). The largest recorded correction this year was -11.96%. A key support zone is located in the volume zone in the 28230–28250 range (0.9% volume), while the nearest technical resistance is located in the 28530–28550 zone (0.8% volume).</li>
+</ul>
+<p>H-Log Report: 2026-11-11 18:07</p>
 <h3>📈 [2026-11-11 17:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
