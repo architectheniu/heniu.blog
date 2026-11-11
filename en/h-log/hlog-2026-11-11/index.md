@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Date: 2026-11-11 16:07
+Date: 2026-11-11 17:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-11/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.11 [EN]</h1>
+<h3>📈 [2026-11-11 17:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price situation and flows:</strong> The NDX index is near the swing peak from 11.11 (28385.94), recording an increase of 2.33%. Despite the price increase, there is strong selling pressure in the cumulative flow on the cash market (CVD NDX: −187,17 M), suggesting distribution at higher levels. NQ futures contracts show a slight demand test (CVD: 2,19 K) at a price of 28488.00 (+2.35%), while the QQQ ETF shows a supply test (CVD: −921,85 K) at a price of 690.51 (+2.33%). The direction gauge is -50, which means an advantage of capital outflow from the market.</li>
+<li><strong>Broad market and sentiment:</strong> The TICKQ indicator is 322.00, which constitutes a significant deviation from the SMA200 average of 34.34, indicating very strong upward momentum in the broad Nasdaq equity market.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 23.38%, with options volume at 2,475,927. The Put/Call Volume Ratio is 0.98, indicating a near equilibrium between demand for call and put options. The market-expected range of movement lies between 679.09 and 692.93.</li>
+<li><strong>Technical analysis and levels:</strong> The current drawdown is classified as a regular pullback (the median level of historical corrections). The nearest resistance is located in the volume zone 28530–28550 (0.8% volume), and the nearest support is in the zone 28230–28250 (0.9% volume).</li>
+</ul>
+<p>H-Log Report: 2026-11-11 17:07</p>
 <h3>📈 [2026-11-11 16:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
