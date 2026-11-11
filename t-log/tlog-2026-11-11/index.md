@@ -1,6 +1,6 @@
 # M15: 2026-11-11
 
-Data: 2026-11-11 02:59
+Data: 2026-11-11 03:29
 Adres: https://heniu.blog/t-log/tlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.11</h1>
+<h3>⏱️ [2026-11-11 03:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
+<ul>
+<li><strong>Kontrakt NQ:</strong> <strong>28113.00</strong> (+1.00%; od poprzedniego wpisu +30.50 pkt, +0.11%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>32.78%</strong></li>
+<li><strong>Przepływ NQ:</strong> CVD <strong>4.06 K</strong> [test popytu] (od poprzedniego wpisu -0.51 K) · wskaźnik kierunku <strong>10</strong> (skala ±100; +0)</li>
+<li>NDX, QQQ, szerokość rynku i koszyk spółek wracają z otwarciem sesji kasowej o 15:30 czasu polskiego.</li>
+</ul>
+<p>Wskaźnik kierunku wskazuje na brak wyraźnego trendu, co nie współgra z kierunkiem przepływu pieniężnego.</p>
 <h3>⏱️ [2026-11-11 02:59] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>28082.50</strong> (+0.89%; od poprzedniego wpisu +34.25 pkt, +0.12%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>32.78%</strong></li>
