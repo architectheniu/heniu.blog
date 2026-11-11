@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 16:07
+Data: 2026-11-11 17:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.11</h1>
+<h3>📈 [2026-11-11 17:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX znajduje się przy szczycie swingu z dnia 11.11 (28385.94), odnotowując wzrost o 2.33%. Mimo wzrostu ceny, na rynku kasowym występuje silna presja sprzedażowa w skumulowanym przepływie (CVD NDX: −187,17 M), co sugeruje dystrybucję przy wyższych poziomach. Kontrakty NQ wykazują lekki test popytu (CVD: 2,19 K) przy cenie 28488.00 (+2.35%), natomiast ETF QQQ wykazuje test podaży (CVD: −921,85 K) przy cenie 690.51 (+2.33%). Wskaźnik kierunku przepływów wynosi -50, co oznacza przewagę odpływu kapitału z rynku.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi 322.00, co stanowi istotne odchylenie od średniej SMA200 wynoszącej 34.34, wskazując na bardzo silną dynamikę wzrostową w szerokim rynku akcji Nasdaq.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 23.38%, przy wolumenie opcji na poziomie 2,475,927. Put/Call Volume Ratio wynosi 0.98, co wskazuje na zbliżoną równowagę między popytem na opcje kupna i sprzedaży. Oczekiwany przez rynek zasięg ruchu mieści się w przedziale od 679.09 do 692.93.</li>
+<li><strong>Analiza techniczna i poziomy:</strong> Bieżące cofnięcie jest klasyfikowane jako zwykłe cofnięcie (poziom mediany historycznych korekt). Najbliższy opór znajduje się w strefie węzła wolumenu 28530–28550 (0.8% wolumenu), a najbliższe wsparcie w strefie 28230–28250 (0.9% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-11-11 17:07</p>
 <h3>📈 [2026-11-11 16:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
