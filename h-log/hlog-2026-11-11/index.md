@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 02:07
+Data: 2026-11-11 03:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.11</h1>
+<h3>📈 [2026-11-11 03:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong><br />
+Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</p>
+<ul>
+<li><strong>Kontrakty terminowe i rynek kasowy:</strong> Kontrakty NQ notowane są na poziomie 28083.50 (+0.88%), co wskazuje na wzrosty w sesji terminowej, podczas gdy indeks NDX zamknął sesję kasową spadkiem o -0.60% (cena 27740.94). Mimo spadku ceny indeksu, skumulowany przepływ (CVD) dla NDX wynosi 24,67 M akcji, co wskazuje na obecność akumulacji na rynku kasowym. Wskaźnik kierunku przepływów wynosi 10, co oznacza bliski zeru, neutralny sentyment rynkowy.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 25.21%, przy wolumenie opcji na poziomie 8,570,464. Put/Call Volume Ratio wynosi 1.15, co sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na większą zmienność w stronę spadkową. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale od 664.90 do 684.62.</li>
+<li><strong>Poziomy techniczne:</strong> Bieżące cofnięcie indeksu NDX od szczytu z 09.11 (28022.97) wynosi -1.01% (-282 pkt), co klasyfikuje ten ruch jako zwykłe cofnięcie, znacznie płytsze od historycznych korekt. Najbliższy istotny opór znajduje się w węźle wolumenu w strefie 28170–28190 (1.55% powyżej obecnej ceny), natomiast najbliższe wsparcie znajduje się w strefie 27020–27040 (2.53% poniżej obecnej ceny).</li>
+</ul>
+<p>Raport H-Log: 2026-11-11 03:07</p>
 <h3>📈 [2026-11-11 02:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
