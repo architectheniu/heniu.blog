@@ -7,6 +7,19 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0078: Costco Wholesale company filing; insider transactions
+
+Date: 2026-11-11 10:10
+URL: https://heniu.blog/en/f-log/flog-2026-11-11-0078/
+
+
+Costco Wholesale (COST) filed a report on changes to its board of directors, indicating the departure of Helena B. Foulkes from her position as a member of the board of directors effective 7.11.2026.
+
+Insiders sold shares for 39.8 million USD, including 37.4 million USD from 10b5-1 plans; market purchases were 0. The largest sale was reported by Airbnb (ABNB) insiders: 21.9 million USD, and the second largest is Vertex Pharmaceuticals (VRTX): 6.3 million USD.
+
+
+---
+
 ## Fundamentals #0077: CoreWeave: 3Q2026 results
 
 Date: 2026-11-11 00:50
@@ -1176,24 +1189,5 @@ The company expects adjusted earnings per share (non-GAAP) in the fourth quarter
 ### Management commentary
 
 According to management, the European market remains stable, but they see no evidence for a return of growth in this region in the near future. Management emphasized that growth in the electronics sector results from organic demand and is confident about this trend in subsequent quarters. In the face of rising inflation, management indicated that price increases worldwide, including in China, remain a key point of focus. Management also noted that in the long term, there will be a helium surplus in the market, therefore the company is exercising caution when setting prices in long-term contracts.
-
-
----
-
-## Fundamentals #0055: DexCom: 3Q2026 results
-
-Date: 2026-11-02 10:23
-URL: https://heniu.blog/en/f-log/flog-2026-11-02-0055/
-
-
-DexCom (DXCM) revenues in the third quarter were 1.34 billion USD (+11.2% y/y), while earnings per share (adjusted) increased by 19.7% y/y to 0.73 USD.
-
-### Quarterly results
-
-The company's operating income reached 327.20 million USD (+34.9% y/y), while net income decreased by 3.1% y/y to 275.10 million USD. Earnings per share (GAAP) stood at 0.72 USD (+2.9% y/y), and earnings per share (GAAP, basic) remained unchanged compared to the previous year, at 0.73 USD (0.0% y/y).
-
-### What management says
-
-Management emphasized that despite market turbulence, the assessment of the company's opportunities remains unchanged, and the long-term plan inspires great confidence. According to management, reimbursement in international markets is maintaining a stable level. Management expects a decision regarding reimbursement for patients with diabetes not treated with insulin later this year. Management indicated that the publication of a study in a prestigious medical journal constitutes breakthrough evidence of the effectiveness of the company's systems, which, according to management, should significantly impact treatment standards. According to management, insurers typically provide equitable access to different systems, as patients, physicians, and employers strive to have a choice.
 
 

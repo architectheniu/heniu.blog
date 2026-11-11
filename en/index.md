@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0078: Costco Wholesale company filing; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-11-0078/index.md) (2026-11-11)
 - [H1: 2026-11-11](https://heniu.blog/en/h-log/hlog-2026-11-11/index.md) (2026-11-11)
 - [M15: 2026-11-11](https://heniu.blog/en/t-log/tlog-2026-11-11/index.md) (2026-11-11)
 - [Fundamentals #0077: CoreWeave: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-11-0077/index.md) (2026-11-11)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0055: DexCom: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0055/index.md) (2026-11-02)
 - [Fundamentals #0054: Company filings: Amazon.com, Microsoft; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-02-0054/index.md) (2026-11-02)
 - [Fundamentals #0053: American Electric Power: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0053/index.md) (2026-11-02)
-- [Fundamentals #0052: O'Reilly Automotive: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-02-0052/index.md) (2026-11-02)
 

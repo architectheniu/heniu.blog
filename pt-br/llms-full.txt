@@ -7,6 +7,19 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0078: Notificação da empresa Costco Wholesale; transações de insiders
+
+Data: 2026-11-11 10:10
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-11-0078/
+
+
+A Costco Wholesale (COST) apresentou um relatório de mudanças no conselho de administração, indicando a saída de Helena B. Foulkes do cargo de membro do conselho de administração com data de 7.11.2026.
+
+Insiders venderam ações por 39,8 mi USD, incluindo 37,4 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi reportada por insiders da Airbnb (ABNB): 21,9 mi USD, e a segunda maior é da Vertex Pharmaceuticals (VRTX): 6,3 mi USD.
+
+
+---
+
 ## Fundamentos #0077: CoreWeave: resultados do 3Q2026
 
 Data: 2026-11-11 00:50
@@ -1176,24 +1189,5 @@ A empresa espera que o lucro por ação ajustado (non-GAAP) no quarto trimestre 
 ### O que diz a gestão
 
 De acordo com a gestão, o mercado europeu permanece estável, no entanto, não vê indícios para o retorno do crescimento nesta região em um futuro próximo. A gestão enfatizou que o crescimento no setor de eletrônicos resulta da demanda orgânica e está confiante nesta tendência nos próximos trimestres. Diante da inflação crescente, a gestão indicou que os aumentos de preços em todo o mundo, incluindo na China, permanecem como um ponto de atenção crucial. A gestão também observou que, no longo prazo, haverá excesso de hélio no mercado, por isso a empresa mantém cautela ao definir preços em contratos de longo prazo.
-
-
----
-
-## Fundamentos #0055: DexCom: resultados do 3Q2026
-
-Data: 2026-11-02 10:23
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-02-0055/
-
-
-A receita da DexCom (DXCM) no terceiro trimestre foi de 1,34 bi USD (+11,2% a/a), enquanto o lucro por ação (ajustado) aumentou 19,7% a/a para o nível de 0,73 USD.
-
-### Resultados do trimestre
-
-O lucro operacional da empresa atingiu 327,20 mi USD (+34,9% a/a), com uma queda simultânea no lucro líquido de 3,1% a/a para 275,10 mi USD. O lucro por ação (contábil) situou-se em 0,72 USD (+2,9% a/a), e o lucro por ação (contábil, básico) permaneceu inalterado em relação ao ano anterior, sendo de 0,73 USD (0,0% a/a).
-
-### O que diz a diretoria
-
-A diretoria enfatizou que, apesar das turbulências de mercado, a avaliação das oportunidades da empresa permanece inalterada e o plano de longo prazo gera grande confiança. Segundo a diretoria, o reembolso em mercados estrangeiros mantém um nível estável. A diretoria espera ainda este ano uma decisão sobre o reembolso para pacientes com diabetes não tratada com insulina. A diretoria indicou que a publicação de um estudo em um prestigiado periódico médico constitui uma prova decisiva da eficácia dos sistemas da empresa, o que, segundo a diretoria, deve influenciar significativamente os padrões de tratamento. Segundo a diretoria, as seguradoras geralmente garantem acesso equitativo a diferentes sistemas, pois pacientes, médicos e empregadores buscam ter opções.
 
 

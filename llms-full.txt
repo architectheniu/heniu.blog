@@ -7,6 +7,19 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0078: Zgłoszenie spółki Costco Wholesale; transakcje insiderów
+
+Data: 2026-11-11 10:10
+Adres: https://heniu.blog/f-log/flog-2026-11-11-0078/
+
+
+Costco Wholesale (COST) złożyła raport o zmianach w radzie dyrektorów, w którym wskazano odejście Heleny B. Foulkes ze stanowiska członka rady dyrektorów z datą 7.11.2026.
+
+Insiderzy sprzedali akcje za 39,8 mln USD, w tym 37,4 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Airbnb (ABNB): 21,9 mln USD, a druga największa to Vertex Pharmaceuticals (VRTX): 6,3 mln USD.
+
+
+---
+
 ## Fundamenty #0077: CoreWeave: wyniki za 3Q2026
 
 Data: 2026-11-11 00:50
@@ -1220,28 +1233,5 @@ Zysk operacyjny osiągnął 20,91 mld USD (437,4% r/r), a zysk na akcję (księg
 ### Co mówi zarząd
 
 Zarząd podkreślał, że spółka posiada obecnie duży zapas zdolności kredytowej w bilansie, co pozwala na tworzenie dużej ilości kredytu. Według zarządu najważniejszym celem jest powrót instrumentu Stretch do wartości nominalnej oraz jego rozwój w celu zakupu bitcoinów i zwiększania wartości akcji zwykłych. Zarząd wskazał, że spółka może obecnie emitować cyfrowe instrumenty kredytowe, podczas gdy wcześniej opierała się głównie na obligacjach zamiennych. Według zarządu wejście dużych instytucji finansowych uwiarygadnia bitcoin, co zmniejsza ryzyko całej branży. Zarząd zauważył również, że po zaburzeniu notowań wszystkie instrumenty kredytowe spółki odrobiły straty w podobnym stopniu.
-
-
----
-
-## Fundamenty #0056: Linde: wyniki za 3Q2026
-
-Data: 2026-11-02 10:33
-Adres: https://heniu.blog/f-log/flog-2026-11-02-0056/
-
-
-Przychody spółki Linde (LIN) w trzecim kwartale wyniosły 9,40 mld USD.
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy) osiągnął poziom 3,66 USD, natomiast zysk na akcję (skorygowany) wyniósł 4,59 USD.
-
-### Prognoza spółki
-
-Spółka spodziewa się, że zysk na akcję skorygowany (non-GAAP) w czwartym kwartale wyniesie 4,40–4,50 USD (wzrost o 5,0% – 7,0%), a w całym roku 2026 wyniesie 17,82–17,92 USD (wzrost o 8,0% – 9,0%). Nakłady inwestycyjne w całym roku 2026 mają wynieść od 5,50 mld USD do 6,00 mld USD.
-
-### Co mówi zarząd
-
-Według zarządu rynek europejski pozostaje stabilny, jednak nie widzi on przesłanek do powrotu wzrostów w tym regionie w najbliższym czasie. Zarząd podkreślał, że wzrost w sektorze elektroniki wynika z organicznego popytu i jest spokojny o ten trend w kolejnych kwartałach. W obliczu narastającej inflacji zarząd wskazywał, że podwyżki cen na całym świecie, w tym w Chinach, pozostają kluczowym punktem uwagi. Zarząd zaznaczył również, że w dłuższym terminie na rynku będzie występować nadmiar helu, dlatego spółka zachowuje rozwagę przy ustalaniu cen w długoterminowych kontraktach.
 
 
