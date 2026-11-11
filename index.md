@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-11-12](https://heniu.blog/h-log/hlog-2026-11-12/index.md) (2026-11-12)
 - [H1: 2026-11-11](https://heniu.blog/h-log/hlog-2026-11-11/index.md) (2026-11-11)
 - [M15: 2026-11-11](https://heniu.blog/t-log/tlog-2026-11-11/index.md) (2026-11-11)
 - [Log #0226: Podsumowanie sesji 2026-11-11: NDX 28374.01 (+2.28%)](https://heniu.blog/posts/log-0226/index.md) (2026-11-11)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0058: Alnylam Pharmaceuticals: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0058/index.md) (2026-11-02)
 - [Fundamenty #0057: Strategy: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0057/index.md) (2026-11-02)
 - [Fundamenty #0056: Linde: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0056/index.md) (2026-11-02)
-- [Fundamenty #0055: DexCom: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0055/index.md) (2026-11-02)
 
