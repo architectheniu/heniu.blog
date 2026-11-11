@@ -1,6 +1,6 @@
 # M15: 2026-11-11
 
-Date: 2026-11-11 18:59
+Date: 2026-11-11 19:14
 URL: https://heniu.blog/en/t-log/tlog-2026-11-11/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.11 [EN]</h1>
+<h3>⏱️ [2026-11-11 19:14] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28538.82</strong> (+2.87%; since the previous entry +0.88 pts) · NQ <strong>28640.50</strong> (+2.89%; +2.00 pts) · QQQ <strong>694.18 USD</strong> (+2.88%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-159.85 M</strong> [panic] · CVD NQ <strong>15.86 K</strong> [accumulation] (since the previous entry -2.30 K) · CVD QQQ <strong>-191.97 K</strong> [supply test] · TICKQ <strong>101</strong> [accumulation] · SMA200 average <strong>41.46</strong> [accumulation] (+0.28) · direction gauge <strong>-60</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.37 trillion USD</strong> (since the previous entry +0.01 trillion USD) · share of companies above 1 trillion USD <strong>65.8%</strong> (+0.0 pp) · average share price <strong>297.33 USD</strong> (-0.05 USD) · QQQ options: implied volatility <strong>23.50%</strong>, put/call <strong>0.87</strong></li>
+<li><strong>Volume zones from session profiles:</strong> price inside the zone <strong>28530–28550</strong> · nearest below the price <strong>28230–28250</strong> (1.01% lower) · nearest above the price <strong>28940–28960</strong> (1.41% higher)</li>
+</ul>
+<p>A sudden downward flow occurred on NQ, which preceded an increase in CVD value for this index, even though for NDX and QQQ these values remain negative. NQ price is currently in a volume zone, and the nearest resistance and support are located away from it above and below.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 19:01 sudden NQ flow downwards; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-11 18:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>28537.94</strong> (+2.87%; since the previous entry -7.64 pts) · NQ <strong>28638.50</strong> (+2.89%; -8.75 pts) · QQQ <strong>694.16 USD</strong> (+2.87%)</li>
