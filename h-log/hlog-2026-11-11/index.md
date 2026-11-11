@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 19:07
+Data: 2026-11-11 20:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.11</h1>
+<h3>📈 [2026-11-11 20:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX znajduje się obecnie przy szczycie swingu z dnia 11.11 na poziomie 28512.64 (+2.78%). Mimo wzrostu ceny, na rynku kasowym występuje silna dywergencja: skumulowany przepływ (CVD) dla NDX wynosi -166,31 M (panika), podczas gdy kontrakty NQ wykazują akumulację na poziomie 15,97 K. ETF QQQ odnotowuje test podaży z CVD na poziomie -206,71 K. Zbiorczy wskaźnik kierunku przepływów wynosi -60, co oznacza wyraźną przewagę dystrybucji kapitału.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi -206.00, co przy średniej SMA200 wynoszącej 47.37 wskazuje na silną presję sprzedażową w szerokim spektrum akcji Nasdaq.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 23.28%, a stosunek Put/Call Volume Ratio uplasował się na poziomie 0.90 przy wolumenie 6,811,326. Dane te sugerują umiarkowane nastroje z lekką przewagą pozycji długich, przy oczekiwanym przez rynek zasięgu ruchu w przedziale 687.90 do 700.40.</li>
+<li><strong>Kontekst techniczny:</strong> Bieżące cofnięcie jest klasyfikowane jako zwykłe cofnięcie (poniżej 80. percentyla historycznych korekt). Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 28230–28250, natomiast opór techniczny zlokalizowany jest powyżej 28530–28550.</li>
+</ul>
+<p>Raport H-Log: 2026-11-11 20:07</p>
 <h3>📈 [2026-11-11 19:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
