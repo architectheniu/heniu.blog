@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 18:07
+Data: 2026-11-11 19:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.11</h1>
+<h3>📈 [2026-11-11 19:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX znajduje się obecnie przy szczycie swingu z dnia 11.11 na poziomie 28506.36 (+2.75%). Odnotowano istotną dywergencję między rynkiem kasowym a terminowym: podczas gdy kontrakty NQ wykazują akumulację (CVD 14,25 K), rynek kasowy wykazuje silną presję sprzedażową (CVD NDX: −165,34 M oraz CVD QQQ: −280,66 K). Zbiorczy wskaźnik kierunku przepływów wynosi -60, co potwierdza dominację dystrybucji kapitału.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi -89.00, co przy średniej SMA200 na poziomie 40.51 wskazuje na silną presję podażową w szerokim rynku akcji Nasdaq.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 23.62% przy wolumenie opcji 5,560,989. Put/Call Ratio na poziomie 0.86 sugeruje umiarkowane nastawienie, jednak oczekiwany zasięg ruchu w przedziale 686.65 do 700.03 wskazuje na wycenę konkretnych progów zmienności.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższy opór znajduje się w strefie węzła wolumenu 28530–28550 (ostatnia cena w tym obszarze: 04.11). Kluczowe wsparcie zidentyfikowano w strefie 28230–28250 (ostatnia cena w tym obszarze: 03.11).</li>
+<li><strong>Kontekst korekty:</strong> Bieżące cofnięcie ma charakter zwykłej korekty, będąc płytszym od 9 poprzednich ruchów korygujących.</li>
+</ul>
+<p>Raport H-Log: 2026-11-11 19:07</p>
 <h3>📈 [2026-11-11 18:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
