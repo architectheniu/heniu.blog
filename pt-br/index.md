@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Log #0226: Resumo da sessão 2026-11-11: NDX 28374.01 (+2.28%)](https://heniu.blog/pt-br/posts/log-0226/index.md) (2026-11-11)
 - [M15: 2026-11-11](https://heniu.blog/pt-br/t-log/tlog-2026-11-11/index.md) (2026-11-11)
 - [H1: 2026-11-11](https://heniu.blog/pt-br/h-log/hlog-2026-11-11/index.md) (2026-11-11)
 - [Fundamentos #0078: Notificação da empresa Costco Wholesale; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-11-0078/index.md) (2026-11-11)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0056: Linde: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0056/index.md) (2026-11-02)
 - [Fundamentos #0055: DexCom: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0055/index.md) (2026-11-02)
 - [Fundamentos #0054: Relatórios de empresas: Amazon.com, Microsoft; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0054/index.md) (2026-11-02)
-- [Fundamentos #0053: American Electric Power: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-02-0053/index.md) (2026-11-02)
 

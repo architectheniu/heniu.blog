@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0226: Session summary 2026-11-11: NDX 28374.01 (+2.28%)
+
+Date: 2026-11-11 22:04
+URL: https://heniu.blog/en/posts/log-0226/
+
+
+**Session date:** 2026-11-11
+
+> *Session close 2026-11-11: NDX 28374.01 (+2.28%), NQ 28461.00 (+2.25%), QQQ 690.38 (+2.33%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session began at 9:30 ET (15:30 PL) at NDX level 28246.21. In the first 30 minutes, the NDX index fell by 56.29 pts (-0.20%) to the level of 28189.92. The lowest NDX level was recorded at 9:47 ET (15:47 PL) at 28103.58, and the highest at 13:47 ET (19:47 PL) at 28593.00. The close at 28374.01 is 218.99 pts below the maximum and 270.43 pts above the minimum.
+
+**Flows and market breadth.** The cumulative flow (CVD) direction was divergent, as NDX was negative, while NQ and QQQ were positive. The TICKQ value at close was 202.00, representing a market flare, and the SMA200 reading was 56.09. The share of companies above 1 trillion USD in the basket capitalization was 65.76%.
+
+**End of session, options, and companies.** In the last hour of the session from 15:00 ET (21:00 PL) to the close, the NDX index fell by 72.71 pts (-0.26%) to the level of 28374.01. The MOC Anomaly at close was -26.19 M. Implied volatility (IV) for options on QQQ was 23.60%, and the put/call ratio was 1.12.
+
+**Day's balance.** The Nasdaq-100 index closed with a result of +2.28%.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **28374.01 (+2.28%)**
+    * Cumulative flow (CVD): **−1.65 M [supply test]**
+    * MOC Anomaly: **-26.19 M**
+    * Average Daily Range (ADR) utilization: **90.36%**
+    * Drawdown from Heniu's highest close: **-9.14%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **28461.00 (+2.25%)**
+    * Cumulative flow (CVD): **22.5 K [accumulation]**
+    * Average Daily Range (ADR) utilization: **97.01%**
+
+* **QQQ ETF:** close **690.38 (+2.33%)**
+    * Cumulative flow (CVD): **742.37 K [demand test]**
+    * Average Daily Range (ADR) utilization: **89.56%**
+
+* **Market breadth (TICKQ):** reading at close **202.00 [market flare]**
+    * 200-reading average (SMA200): **56.09 [market flare]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **23.60%**
+    * Put/call ratio (open interest, OI): **1.12**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **40.11 trillion USD** (change from previous close: **+0.63 trillion USD**)
+    * Share of companies above 1 trillion USD in the basket capitalization: **65.76%** (change: **-0.60 pp**)
+    * Average share price in the basket: **$296.11** (change: **+$8.96**)
+    * Changes in the group of companies above 1 trillion USD: **unchanged**
+
+* **Session data health:** readings through 100.0% of the cash session; no gaps longer than one minute; NDX unchanged for more than 2 min in 0.1% of readings; stale readings rejected: 26
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0226/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-11-11",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0078: Costco Wholesale company filing; insider transactions
 
 Date: 2026-11-11 10:10
@@ -1166,28 +1246,5 @@ Operating income reached 20.91 billion USD (437.4% y/y), and earnings per share 
 ### What management says
 
 Management emphasized that the company currently possesses a large reserve of credit capacity on the balance sheet, which allows for the creation of a large amount of credit. According to management, the most important goal is the return of the Stretch instrument to its nominal value and its development for the purpose of purchasing bitcoins and increasing the value of common shares. Management indicated that the company can currently issue digital credit instruments, whereas previously it relied mainly on convertible bonds. According to management, the entry of large financial institutions validates bitcoin, which reduces the risk for the entire industry. Management also noted that after the disruption of quotes, all of the company's credit instruments recovered losses to a similar extent.
-
-
----
-
-## Fundamentals #0056: Linde: 3Q2026 results
-
-Date: 2026-11-02 10:33
-URL: https://heniu.blog/en/f-log/flog-2026-11-02-0056/
-
-
-Linde (LIN) revenues in the third quarter amounted to 9.40 billion USD.
-
-### Quarterly results
-
-Earnings per share (GAAP) reached 3.66 USD, while earnings per share (adjusted) was 4.59 USD.
-
-### Company guidance
-
-The company expects adjusted earnings per share (non-GAAP) in the fourth quarter to be 4.40–4.50 USD (an increase of 5.0% – 7.0%), and for the full year 2026 to be 17.82–17.92 USD (an increase of 8.0% – 9.0%). Capital expenditures for the full year 2026 are expected to range from 5.50 billion USD to 6.00 billion USD.
-
-### Management commentary
-
-According to management, the European market remains stable, but they see no evidence for a return of growth in this region in the near future. Management emphasized that growth in the electronics sector results from organic demand and is confident about this trend in subsequent quarters. In the face of rising inflation, management indicated that price increases worldwide, including in China, remain a key point of focus. Management also noted that in the long term, there will be a helium surplus in the market, therefore the company is exercising caution when setting prices in long-term contracts.
 
 
