@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 06:08
+Data: 2026-11-11 07:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.11 [PT-BR]</h1>
+<h3>📈 [2026-11-11 07:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contexto de preço e técnico:</strong> o Índice Nasdaq-100 (NDX) encontra-se em uma fase de Recuo desde o pico do Heniu do dia 09.11 (28022.97), resultando atualmente em -1.01% (-282 pts). Trata-se de uma correção de caráter comum, mais rasa do que as nove anteriores registradas na memória do sistema. O nível de suporte mais próximo nas zonas de volume está na zona 27020–27040 (2.53% abaixo do preço atual), enquanto a resistência é definida pela zona 28170–28190 (1.55% acima do preço atual).</li>
+<li><strong>Atividade de contratos NQ:</strong> os contratos NQ estão sendo negociados no nível 28235.00 (+1.43%), com o fluxo acumulado (CVD) em 9,48 K, o que indica um teste de demanda na sessão de futuros.</li>
+<li><strong>Fluxos de capital e sentimento:</strong> o indicador de direção de fluxos é 10, o que significa uma vantagem muito fraca de entrada de capital. Apesar disso, no fechamento da sessão à vista (Spot), foi observada acumulação no índice NDX (CVD = 24,67 M) com uma queda de preço de -0.60%.</li>
+<li><strong>Mercado de opções QQQ:</strong> a volatilidade implícita (IV) é de 25.21%, e o Put/Call Ratio no nível de 1.15 sugere a dominância de posições de hedge ou a expectativa de uma maior pressão de oferta. O alcance de movimento esperado pelo mercado com base no volume de opções (8,570,464) situa-se no intervalo de 664.90 a 684.62 pontos.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-11 07:07</p>
 <h3>📈 [2026-11-11 06:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

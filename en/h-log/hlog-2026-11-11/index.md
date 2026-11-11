@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Date: 2026-11-11 06:08
+Date: 2026-11-11 07:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-11/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.11 [EN]</h1>
+<h3>📈 [2026-11-11 07:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on NQ futures contract trading and data from the regular session close.</li>
+<li><strong>Price and technical context:</strong> the NDX Star is in a phase of drawdown from the peak of 09.11 (28022.97), currently amounting to -1.01% (-282 pts). This is a standard correction, shallower than the previous nine recorded in system memory. The nearest support level in volume nodes is located in the 27020–27040 zone (2.53% below current price), while resistance is defined by the 28170–28190 zone (1.55% above current price).</li>
+<li><strong>NQ contract activity:</strong> NQ contracts are trading at 28235.00 (+1.43%), with a cumulative flow (CVD) of 9.48 K, indicating a demand test in the futures session.</li>
+<li><strong>Capital flows and sentiment:</strong> The direction gauge is 10, signifying a very weak capital inflow advantage. Despite this, accumulation on the NDX Star was recorded at the close of the cash session (CVD = 24.67 M) with a price drop of -0.60%.</li>
+<li><strong>QQQ ETF options market:</strong> Implied volatility (IV) is 25.21%, and the Put/Call Ratio at 1.15 suggests a dominance of hedging positions or expectation of greater supply pressure. The market-expected range of movement based on options volume (8,570,464) falls within the range of 664.90 to 684.62 points.</li>
+</ul>
+<p>H-Log Report: 2026-11-11 07:07</p>
 <h3>📈 [2026-11-11 06:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
