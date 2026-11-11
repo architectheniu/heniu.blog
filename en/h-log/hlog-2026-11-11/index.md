@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Date: 2026-11-11 20:08
+Date: 2026-11-11 21:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-11/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.11 [EN]</h1>
+<h3>📈 [2026-11-11 21:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price situation and flows:</strong> The NDX index reached the level of 28422.91 (+2.46%), which constitutes the swing peak from 11.11. Despite the price increase, strong selling pressure was noted in the cash market – the cumulative flow (CVD) for NDX is −174,64 M, indicating panic in the sector. This contrasts with the NQ futures contract (28525.50, +2.48%), where CVD indicates slight accumulation (10,11 K). The QQQ ETF (691.40, +2.47%) shows a supply test with CVD at the level of −363,59 K. The aggregate direction gauge of flows is -60, which means a clear advantage of capital outflow from the market.</li>
+<li><strong>Broad market and sentiment:</strong> The TICKQ indicator is 59.00, which places it above the SMA200 average (54.84), confirming the current strength of the upward trend in the broad market.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 23.46%, with options volume at 7,999,607. The Put/Call Volume Ratio is 0.95, suggesting a near equilibrium between demand for protection and upside speculation. The market-expected range of movement for QQQ lies between 688.81 and 701.25.</li>
+<li><strong>Technical context and levels:</strong> The current correction is shallower than the 9 previous ones recorded in memory (the largest was -11.96%). It is classified as a standard pullback. The nearest support and resistance zones are: support in the volume zone 28230–28250 (0.9% of volume) and resistance in the 28530–28550 zone (0.8% of volume).</li>
+</ul>
+<p>H-Log Report: 2026-11-11 21:07</p>
 <h3>📈 [2026-11-11 20:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
