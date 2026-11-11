@@ -1,6 +1,6 @@
 # M15: 2026-11-11
 
-Date: 2026-11-11 21:29
+Date: 2026-11-11 21:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-11/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.11 [EN]</h1>
+<h3>⏱️ [2026-11-11 21:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28403.52</strong> (+2.39%; since the previous entry -21.94 pts) · NQ <strong>28507.25</strong> (+2.41%; -23.25 pts) · QQQ <strong>690.97 USD</strong> (+2.40%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-169.43 M</strong> [panic] · CVD NQ <strong>12.92 K</strong> [accumulation] (since the previous entry +0.07 K) · CVD QQQ <strong>-383.53 K</strong> [supply test] · TICKQ <strong>33</strong> [demand test] · SMA200 average <strong>55.16</strong> [market surge] (-0.10) · direction gauge <strong>-60</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.15 trillion USD</strong> (since the previous entry -0.04 trillion USD) · share of companies above 1 trillion USD <strong>65.8%</strong> (+0.0 pp) · average share price <strong>296.05 USD</strong> (-0.38 USD) · QQQ options: implied volatility <strong>23.55%</strong>, put/call <strong>0.98</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>28230–28250</strong> (0.54% lower) · nearest above the price <strong>28530–28550</strong> (0.45% higher)</li>
+</ul>
+<p>The CVD flow for NQ increased, while for the remaining indices it remains negative. The NDX price is located between support below the current level and resistance above.</p>
 <h3>⏱️ [2026-11-11 21:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>28425.46</strong> (+2.47%; since the previous entry -8.97 pts) · NQ <strong>28530.50</strong> (+2.50%; -7.75 pts) · QQQ <strong>691.51 USD</strong> (+2.48%)</li>
