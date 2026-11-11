@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 15:07
+Data: 2026-11-11 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.11</h1>
+<h3>📈 [2026-11-11 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX osiągnął poziom 28212.39 (+1.70%), znajdując się obecnie przy szczycie swingu z dnia 11.11. Mimo wzrostu ceny, na rynku kasowym odnotowano silną presję podażową – skumulowany przepływ (CVD) dla NDX wynosi −174,41 M, co wskazuje na panikę sprzedażową. Kontrastywny obraz widać w kontraktach NQ (CVD +3,52 K), co sugeruje test popytu na rynku terminowym, podczas gdy ETF QQQ wykazuje test podaży (CVD −789,31 K). Zbiorczy wskaźnik kierunku przepływów wynosi -50, co oznacza przewagę odpływu kapitału z rynku.</li>
+<li><strong>Rynek szeroki i sentyment:</strong> Wskaźnik TICKQ wynosi 82.00, co przy średniej SMA200 na poziomie 30.82 wskazuje na bardzo silną presję kupujących w szerokim rynku akcji Nasdaq.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 24.36%. Przy wolumenie opcji 753,579 i współczynniku Put/Call Ratio na poziomie 0.94, rynek wykazuje zbliżoną równowagę między popytem na zabezpieczenia (hedging) a pozycjami wzrostowymi. Oczekiwany przez rynek zasięg ruchu mieści się w przedziale od 679.34 do 695.20 punktów.</li>
+<li><strong>Poziomy techniczne:</strong> Bieżące cofnięcie jest klasyfikowane jako zwykłe, o charakterystyce płytszej niż dotychczasowe korekty. Najbliższy opór znajduje się w strefie węzła wolumenu 28230–28250 (0.9% wolumenu). Kluczowe wsparcie zlokalizowane jest w strefie 28170–28190 (1.6% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-11-11 16:07</p>
 <h3>📈 [2026-11-11 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
