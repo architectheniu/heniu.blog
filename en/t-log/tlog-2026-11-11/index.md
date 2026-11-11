@@ -1,6 +1,6 @@
 # M15: 2026-11-11
 
-Date: 2026-11-11 15:29
+Date: 2026-11-11 15:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-11/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.11 [EN]</h1>
+<h3>⏱️ [2026-11-11 15:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28176.51</strong> (+1.56%) · NQ <strong>28279.75</strong> (+1.60%; since the previous entry -74.75 pts) · QQQ <strong>685.43 USD</strong> (+1.58%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-151.46 M</strong> [panic] · CVD NQ <strong>8.72 K</strong> [demand test] (since the previous entry -9.26 K) · CVD QQQ <strong>-326.57 K</strong> [supply test] · TICKQ <strong>149</strong> [accumulation] · SMA200 average <strong>27.75</strong> [accumulation] · direction gauge <strong>-55</strong> (±100 scale; -50)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.00 trillion USD</strong> · share of companies above 1 trillion USD <strong>66.2%</strong> · average share price <strong>292.03 USD</strong> · QQQ options: implied volatility <strong>24.02%</strong>, put/call <strong>0.50</strong></li>
+<li><strong>Volume zones from session profiles:</strong> price inside the zone <strong>28170–28190</strong> · nearest below the price <strong>27020–27040</strong> (4.03% lower) · nearest above the price <strong>28230–28250</strong> (0.19% higher)</li>
+</ul>
+<p>In the meantime, there were multiple breaks of support and resistance levels in the US100 ecosystem, which was associated with sudden flows in both directions. Currently, the price is located close to the nearest resistance, and the nearest support lies significantly below current levels.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 15:31 sudden NQ flow up; NQ flow ignition; 15:37 sudden NQ flow down; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-11 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>28354.50</strong> (+1.87%; since the previous entry -1.00 pts, +0.00%) · share of the average daily range (ADR) used <strong>63.80%</strong></li>
