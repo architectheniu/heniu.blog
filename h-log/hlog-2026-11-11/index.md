@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 20:07
+Data: 2026-11-11 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.11</h1>
+<h3>📈 [2026-11-11 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX osiągnął poziom 28422.91 (+2.46%), co stanowi szczyt swingu z dnia 11.11. Mimo wzrostu ceny, na rynku kasowym odnotowano silną presję sprzedażową – skumulowany przepływ (CVD) dla NDX wynosi −174,64 M, co wskazuje na panikę w sektorze. Kontrastuje to z kontraktami NQ (28525.50, +2.48%), gdzie CVD wskazuje na lekką akumulację (10,11 K). ETF QQQ (691.40, +2.47%) wykazuje test podaży z CVD na poziomie −363,59 K. Zbiorczy wskaźnik kierunku przepływów wynosi -60, co oznacza wyraźną przewagę odpływu kapitału z rynku.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi 59.00, co plasuje go powyżej średniej SMA200 (54.84), potwierdzając obecną siłę trendu wzrostowego w szerokim rynku.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 23.46%, przy wolumenie opcji na poziomie 7,999,607. Wskaźnik Put/Call Volume Ratio wynosi 0.95, co sugeruje zbliżoną równowagę między popytem na ochronę a spekulacją wzrostową. Oczekiwany przez rynek zasięg ruchu dla QQQ mieści się w przedziale od 688.81 do 701.25.</li>
+<li><strong>Kontekst techniczny i poziomy:</strong> Bieżąca korekta jest płytsza od 9 poprzednich odnotowanych w pamięci (największa wyniosła -11.96%). Klasyfikowana jest jako zwykłe cofnięcie. Najbliższe strefy wsparcia i oporu to: wsparcie w węźle wolumenu 28230–28250 (0.9% wolumenu) oraz opór w strefie 28530–28550 (0.8% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-11-11 21:07</p>
 <h3>📈 [2026-11-11 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
