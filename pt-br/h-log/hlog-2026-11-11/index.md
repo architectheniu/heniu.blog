@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 14:08
+Data: 2026-11-11 15:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.11 [PT-BR]</h1>
+<h3>📈 [2026-11-11 15:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado e contratos:</strong> a sessão à vista (Spot) está atualmente fechada. A negociação ativa ocorre nos contratos futuros NQ, cujo preço é 28363.00 (+1.89%), com o fluxo acumulado CVD em 20,31 K (acumulação).</li>
+<li><strong>Análise do índice e fluxos:</strong> o Índice Nasdaq-100 (NDX) registrou uma queda de (-0.60%) para o nível 27740.94. O indicador de direção de fluxos é -5, o que significa uma leve vantagem na distribuição de capital. Apesar da queda no preço do índice, o fluxo acumulado (CVD) para o NDX é de 24,67 M (acumulação), o que sugere uma absorção passiva de oferta na sessão à vista (Spot) antes do fechamento da sessão.</li>
+<li><strong>Níveis técnicos:</strong> o Recuo desde o pico de 09.11 (28022.97) é de -1.01% (-282 pts). Trata-se de uma correção de caráter comum, mais rasa do que os desvios históricos. A resistência mais próxima encontra-se na zona de volume 28170–28190 (1.6% de volume), enquanto o suporte está na zona 27020–27040 (0.5% de volume).</li>
+<li><strong>Mercado de opções QQQ:</strong> a volatilidade implícita (IV) é de 24.10%, e a proporção Put/Call Volume é de 0.52, o que indica a dominância de posições compradas (call) e um sentimento de alta moderado. O alcance esperado de movimento para o ETF QQQ está na faixa de 664.90 a 684.62 com volume de opções de 62,390.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-11 15:07</p>
 <h3>📈 [2026-11-11 14:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
