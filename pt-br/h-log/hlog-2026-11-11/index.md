@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Data: 2026-11-11 19:08
+Data: 2026-11-11 20:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-11/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.11 [PT-BR]</h1>
+<h3>📈 [2026-11-11 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de preços e fluxos:</strong> O Índice NDX encontra-se atualmente no pico do swing do dia 11.11 no nível 28512.64 (+2.78%). Apesar da alta do preço, ocorre uma forte divergência no mercado à vista: o fluxo acumulado (CVD) para o NDX é de -166,31 M (pânico), enquanto os contratos NQ mostram acumulação no nível de 15,97 K. O ETF QQQ registra um teste de oferta com CVD no nível de -206,71 K. O indicador de direção de fluxo agregado é de -60, o que significa uma clara vantagem de distribuição de capital.</li>
+<li><strong>Amplitude de mercado:</strong> O indicador TICKQ é de -206.00, o que, com uma média SMA200 de 47.37, indica forte pressão de venda no amplo espectro de ações da Nasdaq.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 23.28%, e a relação Put/Call Volume Ratio posicionou-se no nível de 0.90 com um volume de 6,811,326. Esses dados sugerem sentimentos moderados com uma leve vantagem de posições compradas, com o alcance de movimento esperado pelo mercado na faixa de 687.90 a 700.40.</li>
+<li><strong>Contexto técnico:</strong> O recuo atual é classificado como um recuo comum (abaixo do percentil 80 de correções históricas). A zona de suporte mais próxima (nó de volume) encontra-se na faixa de 28230–28250, enquanto a resistência técnica está localizada acima de 28530–28550.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-11 20:07</p>
 <h3>📈 [2026-11-11 19:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>

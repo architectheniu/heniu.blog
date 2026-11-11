@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Date: 2026-11-11 19:08
+Date: 2026-11-11 20:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-11/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.11 [EN]</h1>
+<h3>📈 [2026-11-11 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price situation and flows:</strong> The NDX index is currently at the swing high from 11.11 at the level of 28512.64 (+2.78%). Despite the price increase, a strong divergence is occurring in the cash market: cumulative flow (CVD) for NDX is -166,31 M (panic), while NQ futures show accumulation at the level of 15,97 K. QQQ ETF is recording a supply test with CVD at the level of -206,71 K. The aggregate flow direction gauge is -60, which signifies a clear dominance of capital distribution.</li>
+<li><strong>Broad market:</strong> The TICKQ indicator is -206.00, which, with an SMA200 average of 47.37, indicates strong selling pressure across the broad spectrum of Nasdaq stocks.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 23.28%, and the Put/Call Volume Ratio settled at 0.90 with a volume of 6,811,326. These data suggest moderate sentiment with a slight advantage for long positions, with a market-expected movement range between 687.90 and 700.40.</li>
+<li><strong>Technical context:</strong> The current pullback is classified as a regular pullback (below the 80th percentile of historical corrections). The nearest support zone (volume node) is located in the 28230–28250 range, while technical resistance is located above 28530–28550.</li>
+</ul>
+<p>H-Log Report: 2026-11-11 20:07</p>
 <h3>📈 [2026-11-11 19:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
