@@ -1,6 +1,6 @@
 # H1: 2026-11-11
 
-Date: 2026-11-11 04:08
+Date: 2026-11-11 05:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-11/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.11 [EN]</h1>
+<h3>📈 [2026-11-11 05:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contracts situation:</strong> NQ contracts are trading at 28210.75 (+1.35%), with cumulative flow (CVD) at 6.93 K, indicating a demand test.</li>
+<li><strong>Price level analysis:</strong> the NDX Star is in a phase of a regular drawdown from the peak of 09.11 (28022.97), currently at -1.01% (-282 pts). This is a shallow correction compared to historical movements. The nearest resistance (volume node) is located in the 28170–28190 zone (1.55% above price), while support is in the 27020–27040 zone (2.53% below price).</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 25.21%, and a Put/Call Ratio at 1.15 suggests a prevalence of hedging positions or bearish sentiment. The expected range of movement for the instrument is between 664.90 and 684.62 with a volume of 8,570,464.</li>
+<li><strong>Capital flows:</strong> The aggregate direction gauge of flows is 10, indicating a very weak advantage of capital inflow on a market-wide scale.</li>
+</ul>
+<p>H-Log Report: 2026-11-11 05:07</p>
 <h3>📈 [2026-11-11 04:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
