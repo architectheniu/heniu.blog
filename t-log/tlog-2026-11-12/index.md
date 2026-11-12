@@ -1,6 +1,6 @@
 # M15: 2026-11-12
 
-Data: 2026-11-12 17:59
+Data: 2026-11-12 18:14
 Adres: https://heniu.blog/t-log/tlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.12</h1>
+<h3>⏱️ [2026-11-12 18:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28399.95</strong> (+0.09%; od poprzedniego wpisu -38.57 pkt) · NQ <strong>28503.00</strong> (+0.10%; -37.00 pkt) · QQQ <strong>690.80 USD</strong> (+0.08%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>256.27 M</strong> [euforia] · CVD NQ <strong>-4.71 K</strong> [test podaży] (od poprzedniego wpisu +0.10 K) · CVD QQQ <strong>648.33 K</strong> [test popytu] · TICKQ <strong>54</strong> [akumulacja] · średnia SMA200 <strong>54.70</strong> [wystrzał rynku] (-1.15) · wskaźnik kierunku <strong>47</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>40.18 bln USD</strong> (od poprzedniego wpisu -0.11 bln USD) · udział spółek powyżej 1 bln USD <strong>65.9%</strong> (+0.0 pp) · średnia cena akcji <strong>294.07 USD</strong> (-0.55 USD) · opcje QQQ: zmienność implikowana <strong>23.65%</strong>, put/call <strong>0.93</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>28360–28380</strong> (0.07% niżej) · najbliższa powyżej ceny <strong>28430–28450</strong> (0.11% wyżej)</li>
+</ul>
+<p>Cena indeksu NQ spadła po przebiciu wsparcia ekosystemu US100, co wiązało się z przejściem przez poziom HVN. Przepływ CVD dla NQ uległ poprawie, stając się mniej ujemnym względem poprzedniego wpisu. Obecnie najbliższy opór znajduje się powyżej aktualnej wyceny, a wsparcie poniżej.</p>
 <h3>⏱️ [2026-11-12 17:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28438.52</strong> (+0.23%; od poprzedniego wpisu +56.77 pkt) · NQ <strong>28540.00</strong> (+0.23%; +57.50 pkt) · QQQ <strong>691.81 USD</strong> (+0.21%)</li>
