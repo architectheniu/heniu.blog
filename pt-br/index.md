@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
-- [M15: 2026-11-12](https://heniu.blog/pt-br/t-log/tlog-2026-11-12/index.md) (2026-11-12)
 - [H1: 2026-11-12](https://heniu.blog/pt-br/h-log/hlog-2026-11-12/index.md) (2026-11-12)
+- [M15: 2026-11-12](https://heniu.blog/pt-br/t-log/tlog-2026-11-12/index.md) (2026-11-12)
 - [Fundamentos #0079: Nebius: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-12-0079/index.md) (2026-11-12)
 - [H1: 2026-11-11](https://heniu.blog/pt-br/h-log/hlog-2026-11-11/index.md) (2026-11-11)
 - [M15: 2026-11-11](https://heniu.blog/pt-br/t-log/tlog-2026-11-11/index.md) (2026-11-11)
