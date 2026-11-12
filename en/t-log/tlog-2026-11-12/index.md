@@ -1,6 +1,6 @@
 # M15: 2026-11-12
 
-Date: 2026-11-12 16:14
+Date: 2026-11-12 16:29
 URL: https://heniu.blog/en/t-log/tlog-2026-11-12/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.12 [EN]</h1>
+<h3>⏱️ [2026-11-12 16:29] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28209.24</strong> (-0.58%; since the previous entry +53.77 pts) · NQ <strong>28312.50</strong> (-0.56%; +59.50 pts) · QQQ <strong>686.37 USD</strong> (-0.58%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>245.43 M</strong> [euphoria] · CVD NQ <strong>3.42 K</strong> [demand test] (since the previous entry +6.72 K) · CVD QQQ <strong>847.16 K</strong> [demand test] · TICKQ <strong>-60</strong> [sell-off] · SMA200 average <strong>58.30</strong> [market surge] (+2.64) · direction gauge <strong>60</strong> (±100 scale; +3)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>39.86 trillion USD</strong> (since the previous entry -0.09 trillion USD) · share of companies above 1 trillion USD <strong>68.5%</strong> (+2.6 pp) · average share price <strong>292.06 USD</strong> (+0.00 USD) · QQQ options: implied volatility <strong>24.68%</strong>, put/call <strong>0.97</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>28170–28190</strong> (0.07% lower) · nearest above the price <strong>28240–28260</strong> (0.11% higher)</li>
+</ul>
+<p>NQ price, after a brief breakout above the HVN level, was pushed back below the same point. The nearest resistance is located above the current price, while support is located below.</p>
 <h3>⏱️ [2026-11-12 16:14] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>28155.47</strong> (-0.77%; since the previous entry -95.24 pts) · NQ <strong>28253.00</strong> (-0.78%; -99.50 pts) · QQQ <strong>684.84 USD</strong> (-0.80%)</li>

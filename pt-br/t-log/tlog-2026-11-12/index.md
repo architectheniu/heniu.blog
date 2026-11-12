@@ -1,6 +1,6 @@
 # M15: 2026-11-12
 
-Data: 2026-11-12 16:14
+Data: 2026-11-12 16:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.12 [PT-BR]</h1>
+<h3>⏱️ [2026-11-12 16:29] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>28209.24</strong> (-0.58%; desde a entrada anterior +53.77 pts) · NQ <strong>28312.50</strong> (-0.56%; +59.50 pts) · QQQ <strong>686.37 USD</strong> (-0.58%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>245.43 M</strong> [euforia] · CVD NQ <strong>3.42 K</strong> [teste de demanda] (desde a entrada anterior +6.72 K) · CVD QQQ <strong>847.16 K</strong> [teste de demanda] · TICKQ <strong>-60</strong> [sell-off] · média SMA200 <strong>58.30</strong> [disparada do mercado] (+2.64) · indicador de direção <strong>60</strong> (escala ±100; +3)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>39.86 trilhões de USD</strong> (desde a entrada anterior -0.09 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>68.5%</strong> (+2.6 p.p.) · preço médio das ações <strong>292.06 USD</strong> (+0.00 USD) · opções sobre QQQ: volatilidade implícita <strong>24.68%</strong>, put/call <strong>0.97</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>28170–28190</strong> (0.07% abaixo) · mais próxima acima do preço <strong>28240–28260</strong> (0.11% acima)</li>
+</ul>
+<p>O preço do NQ, após um breve rompimento do nível HVN para cima, foi empurrado de volta para baixo desse mesmo ponto. A resistência mais próxima encontra-se acima da cotação atual, enquanto o suporte está localizado abaixo.</p>
 <h3>⏱️ [2026-11-12 16:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>28155.47</strong> (-0.77%; desde a entrada anterior -95.24 pts) · NQ <strong>28253.00</strong> (-0.78%; -99.50 pts) · QQQ <strong>684.84 USD</strong> (-0.80%)</li>
