@@ -7,6 +7,86 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0227: Resumo da sessão 2026-11-12: NDX 28286.72 (-0.30%)
+
+Data: 2026-11-12 22:04
+Endereço: https://heniu.blog/pt-br/posts/log-0227/
+
+
+**Data da sessão:** 2026-11-12
+
+> *Fechamento da sessão 2026-11-12: NDX 28286.72 (-0.30%), NQ 28407.75 (-0.23%), QQQ 688.20 (-0.32%).*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 27956.18. Nos primeiros 30 minutos até as 10:00 ET (16:00 PL), o índice NDX subiu 301.74 pts para o nível 28257.92. A mínima da sessão foi 27949.67 às 9:31 ET (15:31 PL), e a máxima foi atingida às 11:21 ET (17:21 PL) no nível 28546.62. O fechamento no nível 28286.72 está 259.90 pts abaixo da máxima e 337.05 pts acima da mínima.
+
+**Fluxos e amplitude de mercado.** As direções do fluxo acumulado (CVD) para NDX, NQ e QQQ foram divergentes, pois NDX e QQQ registraram valores positivos, enquanto NQ registrou um valor negativo. A amplitude de mercado TICKQ no fechamento foi de -232.00 [colapso de mercado], com a média SMA200 no nível 44.34 [acumulação]. A participação de empresas acima de 1 tri de USD na capitalização da cesta foi de 65.88%.
+
+**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX subiu 7.28 pts até o fechamento. A Anomalia MOC no fechamento foi de +25,93 M. A volatilidade implícita IV para opções sobre QQQ foi de 24.64%, e a relação put/call foi de 1.12. Na empresa NVDA, houve uma mudança na diretoria.
+
+**Balanço do dia.** O Índice Nasdaq-100 fechou no nível 28286.72.
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **28286.72 (-0.30%)**
+    * Fluxo acumulado (CVD): **390,97 M [euforia]**
+    * Anomalia no fechamento (MOC): **+25,93 M**
+    * Utilização da amplitude diária média (ADR): **112.91%**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **-9.42%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **Contrato futuro NQ:** fechamento **28407.75 (-0.23%)**
+    * Fluxo acumulado (CVD): **−3,92 K [teste de oferta]**
+    * Utilização da amplitude diária média (ADR): **73.60%**
+
+* **ETF QQQ:** fechamento **688.20 (-0.32%)**
+    * Fluxo acumulado (CVD): **1,13 M [acumulação]**
+    * Utilização da amplitude diária média (ADR): **110.75%**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **-232.00 [colapso de mercado]**
+    * Média de 200 leituras (SMA200): **44.34 [acumulação]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **24.64%**
+    * Relação put/call (posições abertas, OI): **1.12**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **39.96 tri de USD** (mudança desde o fechamento anterior: **-0.15 tri de USD**)
+    * Participação de empresas acima de 1 tri de USD na capitalização da cesta: **65.88%** (mudança: **+0.12 p.p.**)
+    * Preço médio das ações na cesta: **$293.00** (mudança: **$-3.08**)
+    * Mudanças no grupo de empresas acima de 1 tri de USD: **sem mudanças**
+
+* **Saúde dos dados da sessão:** leituras por 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,0% das leituras; leituras desatualizadas rejeitadas: 38
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0227/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-11-12",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentos #0079: Nebius: resultados do 3Q2026
 
 Data: 2026-11-12 16:57
@@ -1223,28 +1303,5 @@ No quarto trimestre de 2026, a empresa espera uma receita na faixa de 240,00 bi 
 ### O que diz a administração
 
 A administração enfatizou que a demanda por poder computacional da AWS é tão grande que os clientes estão utilizando novos recursos quase tão rápido quanto a empresa os instala. De acordo com a administração, a empresa tem uma visibilidade muito boa da demanda pela AWS para os próximos anos, pois grandes blocos de potência são reservados com grande antecedência. A administração indicou que o rápido crescimento dos serviços de IA reduz a margem da AWS como um todo, pois as margens em IA são atualmente menores do que nos serviços de nuvem básicos. De acordo com a administração, a IA representa uma oportunidade histórica excepcional, por isso a empresa continuará a investir fortemente para permanecer como líder. A administração também mencionou que cada vez mais trabalhos repetitivos nos centros logísticos serão realizados por robôs, e as novas instalações estão sendo projetadas com uma grande participação de robótica. De acordo com a administração, a venda de chips próprios para o exterior gera uma receita mais rápida, no entanto, o uso deles em sua própria nuvem traz, no total, mais receita e caixa.
-
-
----
-
-## Fundamentos #0058: Alnylam Pharmaceuticals: resultados do 3Q2026
-
-Data: 2026-11-02 10:39
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-02-0058/
-
-
-As receitas da Alnylam Pharmaceuticals (ALNY) no terceiro trimestre foram de 1,46 bi USD (+16,7% a/a), e o lucro por ação (contábil) aumentou para 15,72 USD (+634,6% a/a).
-
-### Resultados do trimestre
-
-O lucro por ação (contábil, básico) atingiu o nível de 16,19 USD (+626,0% a/a), enquanto o lucro por ação (ajustado) foi de 16,26 USD (+409,7% a/a).
-
-### Projeção da empresa
-
-A empresa espera que as receitas líquidas totais de produtos (Total net product revenues) em 2026 variem de 4,70 bi USD a 5,10 bi USD. De acordo com as projeções, o crescimento das receitas líquidas de produtos em 2026, a taxas de câmbio constantes, deve ser de 57,0% a 70,0%.
-
-### O que diz a administração
-
-A administração admitiu que não está satisfeita com o ritmo de crescimento da demanda por um dos produtos, apesar de ter ocorrido um aumento significativo desde o seu lançamento. Segundo a administração, as expectativas em relação ao nucresiran permanecem inalteradas, tanto no que diz respeito à eficácia em monoterapia quanto em combinação com um medicamento estabilizador. A administração indicou que está buscando soluções que permitam aos hospitais manter a rentabilidade do tratamento, apesar das mudanças no programa de reembolso. Segundo a administração, os cronogramas de pesquisa não mudaram e, no caso da doença de Huntington, a empresa utiliza uma abordagem distinta que permite o silenciamento profundo do gene. A administração enfatizou que vê grandes oportunidades de crescimento e está investindo na expansão do grupo de médicos que prescrevem os medicamentos, bem como no desenvolvimento de produtos que vão além da franquia atual.
 
 

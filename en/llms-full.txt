@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0227: SESSION REPORT 2026-11-12: NDX 28286.72 (-0.30%)
+
+Date: 2026-11-12 22:04
+URL: https://heniu.blog/en/posts/log-0227/
+
+
+**Session date:** 2026-11-12
+
+> *Session close 2026-11-12: NDX 28286.72 (-0.30%), NQ 28407.75 (-0.23%), QQQ 688.20 (-0.32%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session started at 9:30 ET (15:30 PL) at the NDX level of 27956.18. In the first 30 minutes until 10:00 ET (16:00 PL), the NDX index rose by 301.74 pts to the level of 28257.92. The session minimum was 27949.67 at 9:31 ET (15:31 PL), and the maximum was reached at 11:21 ET (17:21 PL) at the level of 28546.62. The close at 28286.72 is 259.90 pts below the maximum and 337.05 pts above the minimum.
+
+**Flows and market breadth.** Cumulative flow (CVD) directions for NDX, NQ, and QQQ were divergent, as NDX and QQQ recorded positive values, while NQ recorded a negative value. Market breadth (TICKQ) at the close was -232.00 market breakdown, with a SMA200 average at 44.34 accumulation. The share of companies above 1 trillion USD in the basket capitalization was 65.88%.
+
+**End of session, options, and companies.** In the last hour of the session, NDX rose by 7.28 pts to the close. The MOC Anomaly at the close was +25.93 M. Implied volatility (IV) for options on QQQ was 24.64%, and the put/call ratio was 1.12. There was a change in management at NVDA.
+
+**Day's balance.** The Nasdaq-100 index closed at 28286.72.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **28286.72 (-0.30%)**
+    * Cumulative flow (CVD): **390,97 M [euphoria]**
+    * MOC Anomaly: **+25.93 M**
+    * Average Daily Range (ADR) utilization: **112.91%**
+    * Drawdown from Heniu's peak / highest close: **-9.42%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **28407.75 (-0.23%)**
+    * Cumulative flow (CVD): **−3.92 K [supply test]**
+    * Average Daily Range (ADR) utilization: **73.60%**
+
+* **QQQ ETF:** close **688.20 (-0.32%)**
+    * Cumulative flow (CVD): **1.13 M [accumulation]**
+    * Average Daily Range (ADR) utilization: **110.75%**
+
+* **Market breadth (TICKQ):** reading at close **-232.00 [market breakdown]**
+    * 200 reading average (SMA200): **44.34 [accumulation]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **24.64%**
+    * Put/call ratio (open interest, OI): **1.12**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **39.96 trillion USD** (change from previous close: **-0.15 trillion USD**)
+    * Share of companies above 1 trillion USD in the basket capitalization: **65.88%** (change: **+0.12 pp**)
+    * Average share price in the basket: **$293.00** (change: **$-3.08**)
+    * Changes in the group of companies above 1 trillion USD: **no change**
+
+* **Session data health:** readings for 100.0% of the cash session; no gaps longer than one minute; NDX unchanged for more than 2 min in 0.0% of readings; stale readings rejected: 38
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0227/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-11-12",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0079: Nebius: 3Q2026 results
 
 Date: 2026-11-12 16:57
@@ -1223,28 +1303,5 @@ In the fourth quarter of 2026, the company expects revenues in the range of 240.
 ### Management commentary
 
 Management emphasized that demand for AWS computing power is so high that customers are utilizing new resources almost as quickly as the company installs them. According to management, the company has very good visibility into AWS demand for the coming years, as large blocks of capacity are reserved well in advance. Management indicated that the rapid growth of AI services is lowering the overall AWS margin, as margins in AI are currently lower than in core cloud services. According to management, AI represents an exceptional, historic opportunity, so the company will continue to invest heavily to remain a leader. Management also mentioned that more and more repetitive tasks in logistics centers will be performed by robots, and new facilities are being designed with a high degree of robotics. According to management, selling their own chips externally generates faster revenue, however, using them in their own cloud brings more total revenue and cash.
-
-
----
-
-## Fundamentals #0058: Alnylam Pharmaceuticals: 3Q2026 results
-
-Date: 2026-11-02 10:39
-URL: https://heniu.blog/en/f-log/flog-2026-11-02-0058/
-
-
-Alnylam Pharmaceuticals (ALNY) revenues in the third quarter were 1.46 billion USD (+16.7% y/y), and earnings per share (GAAP) increased to 15.72 USD (+634.6% y/y).
-
-### Quarterly results
-
-Earnings per share (GAAP, basic) reached 16.19 USD (+626.0% y/y), while earnings per share (adjusted) were 16.26 USD (+409.7% y/y).
-
-### Company guidance
-
-The company expects total net product revenues in 2026 to be between 4.70 billion USD and 5.10 billion USD. According to forecasts, net product revenue growth in 2026 at constant exchange rates is expected to be between 57.0% and 70.0%.
-
-### Management commentary
-
-Management admitted that they are not satisfied with the demand growth rate for one of the products, despite a significant increase since its launch. According to management, expectations for nucresiran remain unchanged, both in terms of efficacy in monotherapy and in combination with a stabilizing drug. Management indicated that they are seeking solutions to allow hospitals to maintain treatment profitability despite changes in the reimbursement program. According to management, study timelines have not changed, and in the case of Huntington's disease, the company is employing a distinctive approach that allows for deep gene silencing. Management emphasized that they see great growth opportunities and are investing in expanding the circle of prescribing physicians and developing products beyond the current franchise.
 
 
