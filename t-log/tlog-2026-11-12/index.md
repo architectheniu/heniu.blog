@@ -1,6 +1,6 @@
 # M15: 2026-11-12
 
-Data: 2026-11-12 21:44
+Data: 2026-11-12 21:59
 Adres: https://heniu.blog/t-log/tlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.12</h1>
+<h3>⏱️ [2026-11-12 21:59] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28284.84</strong> (-0.33%; od poprzedniego wpisu +39.48 pkt) · NQ <strong>28380.50</strong> (-0.32%; +35.25 pkt) · QQQ <strong>688.06 USD</strong> (-0.34%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>246.12 M</strong> [euforia] · CVD NQ <strong>-16.05 K</strong> [wyprzedaż] (od poprzedniego wpisu +2.83 K) · CVD QQQ <strong>579.18 K</strong> [test popytu] · TICKQ <strong>-320</strong> [załamanie rynku] · średnia SMA200 <strong>43.95</strong> [akumulacja] (+0.16) · wskaźnik kierunku <strong>57</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>39.96 bln USD</strong> (od poprzedniego wpisu +0.04 bln USD) · udział spółek powyżej 1 bln USD <strong>65.9%</strong> (+0.0 pp) · średnia cena akcji <strong>292.79 USD</strong> (+0.27 USD) · opcje QQQ: zmienność implikowana <strong>24.61%</strong>, put/call <strong>1.05</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>28240–28260</strong> (0.09% niżej) · najbliższa powyżej ceny <strong>28360–28380</strong> (0.27% wyżej)</li>
+</ul>
+<p>W międzyczasie nastąpiło dwukrotne przebicie poziomu węzła wolumenowego, najpierw w górę, a następnie w dół, co doprowadziło do obalenia wsparcia. Najbliższy opór znajduje się powyżej obecnego poziomu, a wsparcie poniżej.</p>
 <h3>⏱️ [2026-11-12 21:44] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28245.36</strong> (-0.45%; od poprzedniego wpisu -13.34 pkt) · NQ <strong>28345.25</strong> (-0.45%; -15.75 pkt) · QQQ <strong>687.13 USD</strong> (-0.47%)</li>
