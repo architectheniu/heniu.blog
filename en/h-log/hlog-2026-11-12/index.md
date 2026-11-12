@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Date: 2026-11-12 20:08
+Date: 2026-11-12 21:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-12/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.12 [EN]</h1>
+<h3>📈 [2026-11-12 21:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market status and flows:</strong> The NDX index is currently at 28257.81 (-0.41%), representing a pullback of 335 pts from the peak on 11.11 (28593.00). Despite the price drop, the cumulative flow (CVD) for NDX shows strong demand pressure at 230,67 M, indicating active absorption of supply in the cash market. This contrasts with the NQ futures contract (28358.00, -0.40%), where CVD is -17,15 K, suggesting distribution in the futures segment. The flow direction gauge is 57, confirming a general dominance of capital inflow.</li>
+<li><strong>Market breadth and ETF:</strong> The TICKQ indicator is -401.00 (with the SMA200 average at 44.50), reflecting negative sentiment in the broad equity market. The QQQ ETF is at 687.44 (-0.43%) with a cumulative flow of 381,43 K, suggesting a testing of current demand levels.</li>
+<li><strong>Options market:</strong> Implied volatility (IV) is 24.56%, and the Put/Call ratio (PCR) stands at 1.05. With an options volume of 6,895,770, these data indicate a slight advantage in hedging positions or an expectation of higher volatility, with the market pricing in a movement range between 681.69 and 696.63 points.</li>
+<li><strong>Technical analysis and levels:</strong> The current pullback is shallower than the previous 9 corrections recorded in the database. Key volume nodes (support zones) are located in the 28240–28260 (current price) and 28170–28190 (zone with 1.7% volume) ranges. The nearest significant resistance is located in the 28360–28380 zone.</li>
+</ul>
+<p>H-Log Report: 2026-11-12 21:07</p>
 <h3>📈 [2026-11-12 20:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
