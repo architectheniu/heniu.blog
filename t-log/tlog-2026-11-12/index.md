@@ -1,6 +1,6 @@
 # M15: 2026-11-12
 
-Data: 2026-11-12 21:59
+Data: 2026-11-12 22:29
 Adres: https://heniu.blog/t-log/tlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.12</h1>
+<h3>⏱️ [2026-11-12 22:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
+<ul>
+<li><strong>Kontrakt NQ:</strong> <strong>28434.75</strong> (-0.14%; od poprzedniego wpisu +54.25 pkt, +0.19%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>73.60%</strong></li>
+<li><strong>Przepływ NQ:</strong> CVD <strong>-3.34 K</strong> [test podaży] (od poprzedniego wpisu +12.71 K) · wskaźnik kierunku <strong>30</strong> (skala ±100; -27)</li>
+<li>NDX, QQQ, szerokość rynku i koszyk spółek wracają z otwarciem sesji kasowej w piątek o 15:30 czasu polskiego.</li>
+</ul>
+<p>Cena kontraktu NQ wzrosła, przebijając zaporę węzła wolumenowego w górę, jednak po nagłym przepływie kapitału w dół nastąpiło obalenie wsparcia. Mimo tego ruchu, wartość CVD wzrosła względem poprzedniego wpisu, co przy obecnym kierunku wskazuje na testowanie podaży.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 22:00 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-12 21:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28284.84</strong> (-0.33%; od poprzedniego wpisu +39.48 pkt) · NQ <strong>28380.50</strong> (-0.32%; +35.25 pkt) · QQQ <strong>688.06 USD</strong> (-0.34%)</li>
