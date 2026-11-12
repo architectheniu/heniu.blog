@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 09:07
+Data: 2026-11-12 10:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.12</h1>
+<h3>📈 [2026-11-12 10:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong><br />
+Rynek kasowy (Spot) jest obecnie zamknięty. Analiza oparta na kontraktach terminowych oraz poziomach z sesji regularnej.</p>
+<ul>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Cena kontraktów wynosi 28226.25 (-0.87%). Skumulowany przepływ (CVD) na poziomie 38 wskazuje na neutralny test popytu w trakcie trwania sesji terminowej.</li>
+<li><strong>Analiza poziomów i struktury:</strong> Indeks NDX znajduje się w fazie cofnięcia od szczytu z dnia 11.11 (28593.00), wynoszącego obecnie -0.77% (-219 pkt). Jest to korekta o charakterze zwykłym, płytsza od wszystkich 9 historycznych korekt odnotowanych w pamięci. Najbliższe wsparcie (węzeł wolumenu) znajduje się w strefie 28240–28260, natomiast opór w strefie 28430–28450.</li>
+<li><strong>Sentyment i przepływy:</strong> Wskaźnik kierunku przepływów wynosi 15, co oznacza słabą przewagę napływu kapitału. Dane z zamkniętej sesji kasowej wykazują rozbieżność: mimo wzrostu ceny NDX o +2.28%, skumulowany przepływ (CVD) wynosi -1,84 M, co sugeruje test podaży na rynku kasowym.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 23.51%. Put/Call Volume Ratio na poziomie 1.01 wskazuje na niemal pełną równowagę między wolumenem opcji kupna i sprzedaży, co przy wolumenie 9,566,741 sugeruje neutralne nastawienie i budowanie pozycji zabezpieczających w szerokim zakresie oczekiwanego ruchu (681.31 do 699.45).</li>
+</ul>
+<p>Raport H-Log: 2026-11-12 10:07</p>
 <h3>📈 [2026-11-12 09:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
