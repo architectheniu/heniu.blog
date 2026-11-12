@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 11:07
+Data: 2026-11-12 12:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.12</h1>
+<h3>📈 [2026-11-12 12:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong><br />
+Rynek kasowy (Spot) jest obecnie zamknięty; analiza oparta na kontraktach terminowych oraz danych z zamknięcia sesji regularnej.</p>
+<ul>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Cena kontraktów wynosi 28250.25 (-0.78%), przy skumulowanym przepływie CVD na poziomie 632 (test popytu). Indeks NDX zamknął sesję kasową na poziomie 28374.01 (+2.28%), co oznacza, że obecne spadki na futures stanowią cofnięcie od szczytu z dnia 11.11 (28593.00) o 219 pkt (-0.77%).</li>
+<li><strong>Poziomy techniczne:</strong> Kluczowa strefa wsparcia znajduje się w przedziale 28240–28260 (0.9% wolumenu), gdzie cena znajdowała się 11.11. Najbliższy opór zidentyfikowano w strefie 28430–28450 (0.9% wolumenu).</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 23.51%, a wskaźnik Put/Call Ratio na poziomie 1.01 sugeruje neutralny sentyment z lekką przewagą pozycji zabezpieczających (hedging). Oczekiwany przez rynek zasięg ruchu mieści się w przedziale 681.31 do 699.45 punktów przy wolumenie opcji 9,566,741.</li>
+<li><strong>Przepływy kapitałowe:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 15, co wskazuje na słabą przewagę napływu kapitału w stronę wzrostową. Charakter cofnięcia jest obecnie klasyfikowany jako zwykłe cofnięcie, będące płytszym ruchem niż dotychczasowe korekty w bieżącym cyklu.</li>
+</ul>
+<p>Raport H-Log: 2026-11-12 12:07</p>
 <h3>📈 [2026-11-12 11:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
