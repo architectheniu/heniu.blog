@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 17:07
+Data: 2026-11-12 18:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.12</h1>
+<h3>📈 [2026-11-12 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX znajduje się obecnie na poziomie 28393.63 (+0.07%), wykazując lekkie cofnięcie od szczytu z dnia 11.11 (28593.00) o 0.70% (-199 pkt). Mimo niemal zerowej zmiany ceny, skumulowany przepływ (CVD) dla NDX wynosi 248,57 M, co wskazuje na silną euforię i napływ kapitału na rynku kasowym. Wskaźnik kierunku przepływów wynosi 47, co potwierdza umiarkowaną przewagę napływu kapitału. Występuje rozbieżność między rynkiem kasowym (NDX CVD: 248,57 M [euforia]) a kontraktami terminowymi NQ (CVD: -6,92 K [test podaży]), co sugeruje testowanie podaży na kontraktach przy jednoczesnej akumulacji na rynku spot.</li>
+<li><strong>Szeroki rynek i ETF:</strong> Wskaźnik TICKQ wynosi -243.00 (przy średniej SMA200 53.21), co wskazuje na negatywny sentyment w szerokim rynku akcji Nasdaq. ETF QQQ oscyluje wokół 690.68 (+0.04%) z CVD na poziomie 601,26 K, co stanowi test popytu.</li>
+<li><strong>Analiza opcji:</strong> Zmienność implikowana (IV) dla QQQ wynosi 23.90%, a stosunek wolumenu Put/Call (PCR) kształtuje się na poziomie 0.92 przy całkowitym wolumenie 3,913,560. Dane te wskazują na zbliżoną równowagę między zabezpieczeniami a pozycjami wzrostowymi, z oczekiwanym zakresem ruchu w przedziale 685.25 do 700.61 punktów.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższe wsparcie (węzeł wolumenu) znajduje się w strefie 28360–28380 (0.6% wolumenu). Opór znajduje się w strefie 28430–28450 (0.9% wolumenu). Obecne cofnięcie jest klasyfikowane jako zwykłe cofnięcie, będące płytszym ruchem niż 9 historycznych korekt odnotowanych w pamięci systemu.</li>
+</ul>
+<p>Raport H-Log: 2026-11-12 18:07</p>
 <h3>📈 [2026-11-12 17:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
