@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 01:07
+Data: 2026-11-12 02:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.12</h1>
+<h3>📈 [2026-11-12 02:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong>. Rynek kasowy (Spot) jest obecnie zamknięty.</p>
+<ul>
+<li><strong>Status kontraktów NQ:</strong> Kontrakty terminowe NQ notowane są na poziomie 28208.50 (-0.94%), przy skumulowanym przepływie CVD wynoszącym -3.66K, co wskazuje na test podaży w obecnej sesji.</li>
+<li><strong>Analiza zamknięcia sesji kasowej:</strong> Indeks NDX zamknął sesję na poziomie 28381.40 (+2.28%). Od szczytu z dnia 11.11 (28593.00) odnotowano cofnięcie o 212 pkt (-0.74%). Jest to korekta o charakterze zwykłym, płytsza niż dotychczasowe odchylenia w rejestrowanej pamięci.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 28360–28380. Opór zidentyfikowano w strefie 28430–28450.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 23.51%, a wskaźnik Put/Call Ratio na poziomie 1.01 sugeruje zbliżoną równowagę między popytem na zabezpieczenia a pozycjami wzrostowymi. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 681.31 do 699.45 przy wolumenie opcji 9,566,741.</li>
+<li><strong>Sentyment przepływów:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -5, co oznacza lekką przewagę dystrybucji nad akumulacją w całym systemie.</li>
+</ul>
+<p>Raport H-Log: 2026-11-12 02:07</p>
 <h3>📈 [2026-11-12 01:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
