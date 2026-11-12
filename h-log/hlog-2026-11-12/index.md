@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 05:07
+Data: 2026-11-12 06:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.12</h1>
+<h3>📈 [2026-11-12 06:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Stan rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Handel odbywa się na kontraktach terminowych NQ, których cena wynosi 28214.50 (-0.91%). Indeks NDX zamknął sesję kasową na poziomie 28381.40 (+2.28%), a ETF QQQ na poziomie 690.38 (+2.31%).</li>
+<li><strong>Przepływy i sentyment:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -5, co wskazuje na lekką przewagę dystrybucji kapitału. Na zamknięciu sesji kasowej odnotowano test podaży w NDX (CVD: -1,84 M) oraz w kontraktach NQ (CVD: -1,9 K), podczas gdy QQQ wykazało test popytu (CVD: 746,6 K).</li>
+<li><strong>Analiza opcji QQQ:</strong> Przy wolumenie 9,566,741, wskaźnik Put/Call Ratio wynosi 1.01, co sugeruje neutralną postawę z lekkim przesunięciem w stronę zabezpieczeń spadkowych. Zmienność implikowana (IV) na poziomie 23.51% oraz oczekiwany zasięg ruchu w przedziale 681.31 do 699.45 wyznaczają bieżące ramy zmienności dla instrumentu.</li>
+<li><strong>Poziomy techniczne:</strong> Bieżące cofnięcie NDX od szczytu z 11.11 (28593.00) wynosi -0.74% (-212 pkt), co klasyfikuje ten ruch jako zwykłe cofnięcie, znacznie płytsze od historycznych korekt. Najbliższe strefy wsparcia to 28360–28380 (0.6% wolumenu), natomiast opór znajduje się w strefie 28430–28450 (0.9% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-11-12 06:07</p>
 <h3>📈 [2026-11-12 05:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
