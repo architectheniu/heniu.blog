@@ -1,6 +1,6 @@
 # M15: 2026-11-12
 
-Date: 2026-11-12 21:29
+Date: 2026-11-12 21:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-12/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.12 [EN]</h1>
+<h3>⏱️ [2026-11-12 21:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28245.36</strong> (-0.45%; since the previous entry -13.34 pts) · NQ <strong>28345.25</strong> (-0.45%; -15.75 pts) · QQQ <strong>687.13 USD</strong> (-0.47%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>229.1 M</strong> [euphoria] · CVD NQ <strong>-18.88 K</strong> [sell-off] (since the previous entry +0.19 K) · CVD QQQ <strong>210.81 K</strong> [demand test] · TICKQ <strong>-239</strong> [market breakdown] · SMA200 average <strong>43.79</strong> [accumulation] (-1.72) · direction gauge <strong>57</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>39.92 trillion USD</strong> (since the previous entry -0.05 trillion USD) · share of companies above 1 trillion USD <strong>65.9%</strong> (+0.0 pp) · average share price <strong>292.53 USD</strong> (+0.16 USD) · QQQ options: implied volatility <strong>24.44%</strong>, put/call <strong>1.04</strong></li>
+<li><strong>Volume zones from session profiles:</strong> price inside the zone <strong>28240–28260</strong> · nearest below the price <strong>28170–28190</strong> (0.20% lower) · nearest above the price <strong>28360–28380</strong> (0.41% higher)</li>
+</ul>
+<p>A breach of the US100 ecosystem support occurred, triggering a sudden downward capital flow on NQ. A decrease in the index value and a negative NQ CVD flow reading were recorded, which is linked to the flow alarm registered since the previous entry. The nearest support is located below the current price, while resistance occurs above.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 21:32 sudden NQ flow downwards; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-12 21:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>28258.70</strong> (-0.40%; since the previous entry +4.94 pts) · NQ <strong>28361.00</strong> (-0.39%; +8.75 pts) · QQQ <strong>687.50 USD</strong> (-0.42%)</li>
