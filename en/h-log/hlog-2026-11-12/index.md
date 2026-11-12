@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Date: 2026-11-12 11:08
+Date: 2026-11-12 12:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-12/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.12 [EN]</h1>
+<h3>📈 [2026-11-12 12:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong><br />
+the cash session (Spot) is currently closed; analysis based on futures contracts and data from the regular session close.</p>
+<ul>
+<li><strong>NQ contract situation:</strong> Contract price is 28250.25 (-0.78%), with cumulative flow (CVD) at 632 (demand test). The NDX index closed the cash session at 28374.01 (+2.28%), meaning current futures declines represent a drawdown from the peak of 11.11 (28593.00) by 219 pts (-0.77%).</li>
+<li><strong>Technical levels:</strong> A key support zone is located in the 28240–28260 range (0.9% volume), where the price was on 11.11. The nearest resistance was identified in the 28430–28450 zone (0.9% volume).</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 23.51%, and the Put/Call Ratio at 1.01 suggests neutral sentiment with a slight edge toward hedging positions. The market-expected move range is between 681.31 and 699.45 points with an options volume of 9,566,741.</li>
+<li><strong>Capital flows:</strong> The aggregate direction gauge of flows is 15, indicating a weak advantage of capital inflow toward the upside. The nature of the pullback is currently classified as a standard pullback, representing a shallower move than previous corrections in the current cycle.</li>
+</ul>
+<p>H-Log Report: 2026-11-12 12:07</p>
 <h3>📈 [2026-11-12 11:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
