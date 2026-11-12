@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 14:07
+Data: 2026-11-12 15:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.12</h1>
+<h3>📈 [2026-11-12 15:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza koncentruje się na kontraktach terminowych NQ oraz poziomach z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ notowane są przy cenie 28114.00 (-1.27%), przy skumulowanym przepływie CVD na poziomie -2.02K, co wskazuje na test podaży w handlu poza sesją.</li>
+<li>Obserwowane cofnięcie od szczytu z dnia 11.11 (28593.00) wynosi -0.77% (-219 pkt), co przy ATR 20 sesji wynoszącym 667 pkt stanowi zwykłe cofnięcie, znacznie płytsze niż historyczne korekty.</li>
+<li>Kluczowe poziomy techniczne: najbliższe wsparcie znajduje się w strefie węzła wolumenu 28240–28260 (0.9% wolumenu), natomiast opór w strefie 28430–28450 (0.9% wolumenu).</li>
+<li>Dane z rynku opcji QQQ (IV: 25.34%, PCR: 1.63, wolumen: 46,668) wskazują na przewagę pozycji typu Put, co sugeruje budowę zabezpieczeń (hedging) lub wzrost oczekiwań na presję sprzedażową. Oczekiwany przez rynek zasięg ruchu wynosi od 681.31 do 699.45 punktów.</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi 0, co oznacza brak wyraźnej dominacji ani napływu, ani odpływu kapitału w ujęciu skumulowanym.</li>
+</ul>
+<p>Raport H-Log: 2026-11-12 15:07</p>
 <h3>📈 [2026-11-12 14:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
