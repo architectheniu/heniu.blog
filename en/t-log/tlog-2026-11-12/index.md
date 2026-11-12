@@ -1,6 +1,6 @@
 # M15: 2026-11-12
 
-Date: 2026-11-12 15:29
+Date: 2026-11-12 15:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-12/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.12 [EN]</h1>
+<h3>⏱️ [2026-11-12 15:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>28227.98</strong> (-0.52%) · NQ <strong>28318.50</strong> (-0.54%; since the previous entry +249.75 pts) · QQQ <strong>686.56 USD</strong> (-0.56%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>273.25 M</strong> [euphoria] · CVD NQ <strong>14.9 K</strong> [accumulation] (since the previous entry +16.11 K) · CVD QQQ <strong>1.13 M</strong> [accumulation] · TICKQ <strong>-396</strong> [market breakdown] · SMA200 average <strong>56.84</strong> [market surge] · direction gauge <strong>67</strong> (±100 scale; +67)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>40.11 trillion USD</strong> · share of companies above 1 trillion USD <strong>65.8%</strong> · average share price <strong>293.66 USD</strong> · QQQ options: implied volatility <strong>25.42%</strong>, put/call <strong>1.81</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>28170–28190</strong> (0.13% lower) · nearest above the price <strong>28240–28260</strong> (0.04% higher)</li>
+</ul>
+<p>During the session, two sudden flows in opposite directions occurred, which translated into price changes. The nearest resistance is located slightly above the current price, and support is located below.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 15:30 sudden NQ flow up; NQ flow ignition; 15:38 sudden NQ flow down; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-12 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>28068.75</strong> (-1.43%; since the previous entry -12.50 pts, -0.04%) · share of the average daily range (ADR) used <strong>40.92%</strong></li>

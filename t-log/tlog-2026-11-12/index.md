@@ -1,6 +1,6 @@
 # M15: 2026-11-12
 
-Data: 2026-11-12 15:29
+Data: 2026-11-12 15:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.12</h1>
+<h3>⏱️ [2026-11-12 15:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28227.98</strong> (-0.52%) · NQ <strong>28318.50</strong> (-0.54%; od poprzedniego wpisu +249.75 pkt) · QQQ <strong>686.56 USD</strong> (-0.56%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>273.25 M</strong> [euforia] · CVD NQ <strong>14.9 K</strong> [akumulacja] (od poprzedniego wpisu +16.11 K) · CVD QQQ <strong>1.13 M</strong> [akumulacja] · TICKQ <strong>-396</strong> [załamanie rynku] · średnia SMA200 <strong>56.84</strong> [wystrzał rynku] · wskaźnik kierunku <strong>67</strong> (skala ±100; +67)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>40.11 bln USD</strong> · udział spółek powyżej 1 bln USD <strong>65.8%</strong> · średnia cena akcji <strong>293.66 USD</strong> · opcje QQQ: zmienność implikowana <strong>25.42%</strong>, put/call <strong>1.81</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>28170–28190</strong> (0.13% niżej) · najbliższa powyżej ceny <strong>28240–28260</strong> (0.04% wyżej)</li>
+</ul>
+<p>W trakcie sesji wystąpiły dwa nagłe przepływy w kierunku przeciwnym do siebie, co przełożyło się na zmiany kursu. Najbliższy opór znajduje się nieco powyżej obecnej ceny, a wsparcie znajduje się poniżej.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:30 nagły przepływ NQ w górę; zapłon przepływu NQ; 15:38 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-12 15:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>28068.75</strong> (-1.43%; od poprzedniego wpisu -12.50 pkt, -0.04%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>40.92%</strong></li>
