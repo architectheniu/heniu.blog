@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 13:07
+Data: 2026-11-12 14:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.12</h1>
+<h3>📈 [2026-11-12 14:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywności kontraktów terminowych NQ oraz poziomach zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ notowane są przy cenie 28156.75 (-1.13%), przy skumulowanym przepływie CVD na poziomie -3.63K, co wskazuje na testowanie podaży w sesji terminowej. Zbiorczy wskaźnik kierunku przepływów wynosi -5, co oznacza lekką przewagę dystrybucji kapitału.</li>
+<li>Indeks NDX zamknął sesję kasową na poziomie 28374.01 (+2.28%). Od szczytu z dnia 11.11 (28593.00) odnotowano cofnięcie o 219 pkt (-0.77%), co stanowi płytką korektę w porównaniu do historycznych ruchów (największa wyniosła -11.96%).</li>
+<li>Kluczowe poziomy techniczne: najbliższe wsparcie znajduje się w strefie węzła wolumenu 28240–28260 (0.9% wolumenu). Opór zlokalizowany jest w strefie 28430–28450 (0.9% wolumenu).</li>
+<li>Dane opcyjne na QQQ: Przy wolumenie 9,566,741 i współczynniku Put/Call Ratio 1.01, rynek wykazuje neutralno-negatywny sentyment z lekką przewagą zabezpieczeń spadkowych. Zmienność implikowana (IV) wynosi 23.51%, a oczekiwany zasięg ruchu mieści się w przedziale 681.31 do 699.45 punktów.</li>
+</ul>
+<p>Raport H-Log: 2026-11-12 14:07</p>
 <h3>📈 [2026-11-12 13:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
