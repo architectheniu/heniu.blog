@@ -1,6 +1,6 @@
 # M15: 2026-11-12
 
-Data: 2026-11-12 19:59
+Data: 2026-11-12 20:14
 Adres: https://heniu.blog/t-log/tlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.12</h1>
+<h3>⏱️ [2026-11-12 20:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>28345.36</strong> (-0.10%; od poprzedniego wpisu +13.12 pkt) · NQ <strong>28447.00</strong> (-0.09%; +17.75 pkt) · QQQ <strong>689.61 USD</strong> (-0.11%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>232.77 M</strong> [euforia] · CVD NQ <strong>-12.66 K</strong> [wyprzedaż] (od poprzedniego wpisu -1.71 K) · CVD QQQ <strong>492.4 K</strong> [test popytu] · TICKQ <strong>-71</strong> [wyprzedaż] · średnia SMA200 <strong>50.41</strong> [wystrzał rynku] (-1.60) · wskaźnik kierunku <strong>57</strong> (skala ±100; +10)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>40.11 bln USD</strong> (od poprzedniego wpisu -0.06 bln USD) · udział spółek powyżej 1 bln USD <strong>65.9%</strong> (+0.0 pp) · średnia cena akcji <strong>293.44 USD</strong> (-0.18 USD) · opcje QQQ: zmienność implikowana <strong>24.27%</strong>, put/call <strong>1.02</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>28240–28260</strong> (0.30% niżej) · najbliższa powyżej ceny <strong>28360–28380</strong> (0.05% wyżej)</li>
+</ul>
+<p>Najbliższy opór znajduje się nieznacznie powyżej obecnych poziomów, natomiast wsparcie zlokalizowane jest poniżej aktualnej ceny.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 20:04 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-12 19:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>28332.24</strong> (-0.15%; od poprzedniego wpisu -48.54 pkt) · NQ <strong>28429.25</strong> (-0.15%; -51.00 pkt) · QQQ <strong>689.11 USD</strong> (-0.18%)</li>
