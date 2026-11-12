@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Date: 2026-11-12 15:07
+Date: 2026-11-12 16:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-12/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.12 [EN]</h1>
+<h3>📈 [2026-11-12 16:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price situation and flows:</strong> The NDX index is currently at 28131.35 (-0.85%), representing a drawdown of 462 pts from the peak on 11.11 (28593.00). Despite the price drop, the cumulative flow on the cash market (CVD NDX) is 226.31 M, indicating the presence of demand within the index. NQ futures contracts (28231.50, -0.84%) show negative CVD at -2.47 K, suggesting a supply test in the futures sector. The flow direction gauge is 67, meaning positive sentiment and capital inflow into the system.</li>
+<li><strong>Broad market and ETF:</strong> The TICKQ indicator is -468.00 (with the SMA200 average at 55.84), confirming selling pressure in the broad equity market. QQQ ETF (684.40, -0.87%) shows a demand test with CVD at 558.02 K.</li>
+<li><strong>Options analysis:</strong> Implied volatility (IV) for QQQ is 24.51%, and options volume is 652,341 contracts. The Put/Call Ratio at 0.86 suggests a moderate advantage for long positions. The market-expected price range for QQQ is between 681.31 and 699.45.</li>
+<li><strong>Technical levels:</strong> The nearest resistance is located in the volume node zone 28170–28190 (1.7% volume). The nearest support was identified in the 27730–27750 zone (0.6% volume), which the price last reached on 10.11. The current drawdown is classified as ordinary, with a shallower character than historical corrections.</li>
+</ul>
+<p>H-Log Report: 2026-11-12 16:07</p>
 <h3>📈 [2026-11-12 15:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
