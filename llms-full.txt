@@ -7,6 +7,25 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0079: Nebius: wyniki za 3Q2026
+
+Data: 2026-11-12 16:56
+Adres: https://heniu.blog/f-log/flog-2026-11-12-0079/
+
+
+Przychody Nebius (NBIS) wzrosły w kwartale o 571,3% r/r do 980,80 mln USD, natomiast zysk na akcję wyniósł −0,13 USD wobec −0,50 USD rok wcześniej.
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów w roku 2026 na poziomie od 3,00 mld USD do 3,40 mld USD, przy czym obecnie oczekuje dolnego końca tego przedziału. Spółka prognozuje przychody w roku 2027 w przedziale 12,00 mld USD – 13,00 mld USD. Spółka spodziewa się nakładów inwestycyjnych w roku 2026 na poziomie około 27,00 mld USD, co stanowi wartość powyżej wcześniejszego przedziału 20–25 mld USD. Spółka prognozuje nakłady inwestycyjne w roku 2027 na poziomie od 40,00 mld USD do 45,00 mld USD. Spółka spodziewa się marży skorygowanej EBITDA w roku 2026 na poziomie około 40,0%.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że popyt na sztuczną inteligencję jest prawdziwy i duży, a budowa mocy oraz ich finansowanie to zadania możliwe do rozwiązania. Według zarządu klienci zobowiązują się na dłużej, przy wyższych cenach i płacą więcej z góry, co sprawiło, że przedpłaty stały się standardowym elementem umów. Zarząd podkreślał, że na własnych lokalizacjach spółka realizuje harmonogram, a nawet go wyprzedza, mimo że w niektórych lokalizacjach kolokacyjnych występują opóźnienia, o których klienci są informowani. Według zarządu żadna z tych mocy nie została anulowana, a spółka będzie gotowa na moment, gdy podaż i popyt w branży się zrównoważą.
+
+
+---
+
 ## Log #0226: Podsumowanie sesji 2026-11-11: NDX 28374.01 (+2.28%)
 
 Data: 2026-11-11 22:04
@@ -1271,28 +1290,5 @@ W czwartym kwartale 2026 spółka spodziewa się przychodów w przedziale 240,00
 ### Co mówi zarząd
 
 Zarząd podkreślał, że popyt na moc obliczeniową AWS jest tak duży, że klienci wykorzystują nowe zasoby niemal tak szybko, jak spółka je instaluje. Według zarządu firma ma bardzo dobrą widoczność popytu na AWS na kolejne lata, ponieważ duże bloki mocy są rezerwowane z dużym wyprzedzeniem. Zarząd wskazywał, że szybki wzrost usług AI obniża marżę AWS jako całości, gdyż marże w AI są obecnie niższe niż w podstawowych usługach chmurowych. Według zarządu AI stanowi wyjątkową, historyczną okazję, dlatego spółka będzie dalej mocno inwestować, aby pozostać liderem. Zarząd wspomniał również, że coraz więcej powtarzalnych prac w centrach logistycznych będą wykonywać roboty, a nowe obiekty są projektowane z dużym udziałem robotyki. Według zarządu sprzedaż własnych chipów na zewnątrz generuje szybszy przychód, jednak używanie ich we własnej chmurze przynosi w sumie więcej przychodów i gotówki.
-
-
----
-
-## Fundamenty #0058: Alnylam Pharmaceuticals: wyniki za 3Q2026
-
-Data: 2026-11-02 10:39
-Adres: https://heniu.blog/f-log/flog-2026-11-02-0058/
-
-
-Przychody Alnylam Pharmaceuticals (ALNY) w trzecim kwartale wyniosły 1,46 mld USD (+16,7% r/r), a zysk na akcję (księgowy) wzrósł do 15,72 USD (+634,6% r/r).
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) osiągnął poziom 16,19 USD (+626,0% r/r), natomiast zysk na akcję (skorygowany) wyniósł 16,26 USD (+409,7% r/r).
-
-### Prognoza spółki
-
-Spółka spodziewa się, że całkowite przychody netto z produktów (Total net product revenues) w 2026 roku wyniosą od 4,70 mld USD do 5,10 mld USD. Według prognoz wzrost przychodów netto z produktów w 2026 roku przy stałych kursach walut ma wynieść od 57,0% do 70,0%.
-
-### Co mówi zarząd
-
-Zarząd przyznał, że nie jest zadowolony z tempa wzrostu popytu na jeden z produktów, mimo że od momentu jego premiery odnotowano znaczny wzrost. Według zarządu oczekiwania wobec nucresiranu pozostają bez zmian, zarówno w zakresie skuteczności w monoterapii, jak i w połączeniu z lekiem stabilizującym. Zarząd wskazał, że szuka rozwiązań pozwalających szpitalom na zachowanie opłacalności leczenia mimo zmian w programie refundacji. Według zarządu harmonogramy badań nie uległy zmianie, a w przypadku choroby Huntingtona spółka stosuje wyróżniające się podejście pozwalające na głębokie wyciszenie genu. Zarząd podkreślał, że widzi duże możliwości rozwoju i inwestuje w poszerzenie grona lekarzy przepisujących leki oraz rozwój produktów wykraczających poza obecną franczyzę.
 
 
