@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 03:07
+Data: 2026-11-12 04:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.12</h1>
+<h3>📈 [2026-11-12 04:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong>. Rynek kasowy (Spot) jest obecnie zamknięty.</p>
+<ul>
+<li><strong>Status rynku i kontrakty NQ</strong>: Kontrakty NQ są notowane na poziomie 28312.00 (-0.57%), co stanowi cofnięcie od szczytu z dnia 11.11 (28593.00) o 212 pkt (-0.74%). Przepływ skumulowany (CVD) na kontraktach wynosi -1,84 K, co wskazuje na testowanie podaży w sesji po sesji regularnej.</li>
+<li><strong>Analiza rynku kasowego (zamknięty)</strong>: Na zamknięciu sesji regularnej indeks NDX odnotował wzrost o +2.28% (cena 28381.40), jednak skumulowany przepływ (CVD) na poziomie -1,84 M wskazuje na testowanie podaży na rynku kasowym. Wskaźnik kierunku przepływów rynkowych wynosi -5, co oznacza lekką przewagę dystrybucji nad akumulacją.</li>
+<li><strong>Poziomy techniczne</strong>: Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 28360–28380. Opór znajduje się powyżej, w strefie 28430–28450. Obecna cena znajduje się w obszarze zbliżonym do wsparcia.</li>
+<li><strong>Rynek opcji QQQ</strong>: Przy wolumenie 9,566,741, wskaźnik Put/Call Ratio wynosi 1.01, co sugeruje wyrównany sentyment z lekką przewagą pozycji zabezpieczających (put). Zmienność implikowana (IV) wynosi 23.51%, a oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 681.31 do 699.45.</li>
+<li><strong>Kontekst korekty</strong>: Aktualne cofnięcie jest klasyfikowane jako zwykłe cofnięcie, będące płytszym odchyleniem niż 9 historycznych korekt odnotowanych w pamięci systemu.</li>
+</ul>
+<p>Raport H-Log: 2026-11-12 04:07</p>
 <h3>📈 [2026-11-12 03:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
