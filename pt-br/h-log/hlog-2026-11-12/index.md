@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 14:08
+Data: 2026-11-12 15:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.12 [PT-BR]</h1>
+<h3>📈 [2026-11-12 15:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>a sessão à vista (Spot) está atualmente fechada. A análise concentra-se nos contratos futuros NQ e nos níveis de fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo negociados ao preço de 28114.00 (-1.27%), com o fluxo acumulado (CVD) em -2.02K, o que indica um teste de oferta no after-hours.</li>
+<li>O Recuo desde o pico do dia 11.11 (28593.00) observado é de -0.77% (-219 pts), o que, com um ATR de 20 sessões de 667 pts, representa um recuo comum, muito mais raso do que correções históricas.</li>
+<li>Níveis técnicos cruciais: o suporte mais próximo encontra-se na zona de volume 28240–28260 (0.9% de volume), enquanto a resistência está na zona 28430–28450 (0.9% de volume).</li>
+<li>Dados do mercado de Opções sobre QQQ (IV: 25.34%, PCR: 1.63, volume: 46,668) indicam uma predominância de posições do tipo Put, o que sugere a construção de hedge ou um aumento nas expectativas de pressão de venda. O alcance de movimento esperado pelo mercado é de 681.31 a 699.45 pontos.</li>
+<li>O indicador de direção de fluxo agregado é 0, o que significa a ausência de uma dominância clara de entrada ou saída de capital em termos acumulados.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-12 15:07</p>
 <h3>📈 [2026-11-12 14:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
