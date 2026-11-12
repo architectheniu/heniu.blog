@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 09:08
+Data: 2026-11-12 10:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.12 [PT-BR]</h1>
+<h3>📈 [2026-11-12 10:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong><br />
+a sessão à vista (Spot) está atualmente fechada. Análise baseada em contratos futuros e níveis da sessão regular.</p>
+<ul>
+<li><strong>Situação nos contratos NQ:</strong> O preço dos contratos é 28226.25 (-0.87%). O fluxo acumulado (CVD) no nível 38 indica um teste de demanda neutro durante a sessão de futuros.</li>
+<li><strong>Análise de níveis e estrutura:</strong> O Índice Nasdaq-100 (NDX) encontra-se em fase de Recuo desde o pico do Heniu do dia 11.11 (28593.00), totalizando atualmente -0.77% (-219 pts). Esta é uma correção de caráter comum, mais rasa do que todas as 9 correções históricas registradas na memória. O suporte mais próximo (zona de volume) encontra-se na zona 28240–28260, enquanto a resistência está na zona 28430–28450.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador de direção dos fluxos é 15, o que significa uma leve vantagem na entrada de capital. Os dados da sessão à vista (Spot) fechada mostram uma divergência: apesar do aumento do preço do NDX de +2.28%, o fluxo acumulado (CVD) é de -1,84 M, o que sugere um teste de oferta no mercado à vista (Spot).</li>
+<li><strong>Mercado de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 23.51%. O Put/Call Volume Ratio no nível 1.01 indica um equilíbrio quase total entre o volume de opções de compra e venda, o que, com um volume de 9,566,741, sugere uma atitude neutra e a construção de posições de hedge em uma ampla faixa de movimento esperado (681.31 a 699.45).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-12 10:07</p>
 <h3>📈 [2026-11-12 09:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
