@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 10:08
+Data: 2026-11-12 11:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.12 [PT-BR]</h1>
+<h3>📈 [2026-11-12 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo negociados a um preço de 28292.50 (-0.63%), com o fluxo acumulado (CVD) em 1,18 K (teste de demanda). O Índice Nasdaq-100 (NDX) fechou a sessão à vista (Spot) em 28374.01 (+2.28%), com o fluxo acumulado (CVD) de -1,84 M de ações (teste de oferta).</li>
+<li>O indicador de direção agregado dos fluxos é 15, o que indica uma entrada de capital fraca, mas positiva.</li>
+<li>O Recuo desde o pico do Heniu do dia 11.11 (28593.00) é de -0.77% (-219 pts), o que é classificado como um recuo comum, de natureza mais superficial do que as correções históricas.</li>
+<li>Níveis técnicos cruciais: o suporte mais próximo está na zona de volume 28240–28260 (0.9% de volume), enquanto a resistência está na zona 28430–28450 (0.9% de volume).</li>
+<li>Dados de Opções sobre QQQ: a volatilidade implícita (IV) é de 23.51%, e o Put/Call Ratio em 1.01 sugere uma estrutura de hedge neutra. O alcance esperado do movimento dentro do volume de opções (9,566,741) está na faixa de 681.31 a 699.45.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-12 11:07</p>
 <h3>📈 [2026-11-12 10:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong><br />
