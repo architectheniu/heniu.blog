@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Log #0227: Podsumowanie sesji 2026-11-12: NDX 28286.72 (-0.30%)](https://heniu.blog/posts/log-0227/index.md) (2026-11-12)
 - [M15: 2026-11-12](https://heniu.blog/t-log/tlog-2026-11-12/index.md) (2026-11-12)
 - [H1: 2026-11-12](https://heniu.blog/h-log/hlog-2026-11-12/index.md) (2026-11-12)
 - [Fundamenty #0079: Nebius: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-12-0079/index.md) (2026-11-12)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0218: Podsumowanie sesji 2026-11-02: NDX 27994.99 (-1.39%)](https://heniu.blog/posts/log-0218/index.md) (2026-11-02)
 - [Fundamenty #0060: Exelon: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0060/index.md) (2026-11-02)
 - [Fundamenty #0059: Amazon.com: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0059/index.md) (2026-11-02)
-- [Fundamenty #0058: Alnylam Pharmaceuticals: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-02-0058/index.md) (2026-11-02)
 

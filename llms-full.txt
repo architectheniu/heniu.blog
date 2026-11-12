@@ -7,6 +7,86 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Log #0227: Podsumowanie sesji 2026-11-12: NDX 28286.72 (-0.30%)
+
+Data: 2026-11-12 22:04
+Adres: https://heniu.blog/posts/log-0227/
+
+
+**Data sesji:** 2026-11-12
+
+> *Zamknięcie sesji 2026-11-12: NDX 28286.72 (-0.30%), NQ 28407.75 (-0.23%), QQQ 688.20 (-0.32%).*
+
+---
+
+### Przebieg sesji
+
+**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (15:30 PL) przy poziomie NDX 27956.18. W pierwszych 30 minutach do 10:00 ET (16:00 PL) indeks NDX wzrósł o 301.74 pkt do poziomu 28257.92. Minimum sesji wyniosło 27949.67 o 9:31 ET (15:31 PL), a maksimum osiągnięto o 11:21 ET (17:21 PL) na poziomie 28546.62. Zamknięcie na poziomie 28286.72 znajduje się 259.90 pkt poniżej maksimum i 337.05 pkt powyżej minimum.
+
+**Przepływy i szerokość rynku.** Kierunki przepływu skumulowanego dla NDX, NQ i QQQ były rozbieżne, ponieważ NDX i QQQ odnotowały wartości dodatnie, a NQ ujemną. Szerokość rynku TICKQ na zamknięciu wyniosła -232.00 załamanie rynku, przy średniej SMA200 na poziomie 44.34 akumulacja. Udział spółek powyżej 1 bln USD w kapitalizacji koszyka wyniósł 65.88%.
+
+**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX wzrósł o 7.28 pkt do zamknięcia. Anomalia na zamknięciu MOC wyniosła +25,93 M. Zmienność implikowana IV dla opcji na QQQ wynosiła 24.64%, a stosunek put/call wyniósł 1.12. W spółce NVDA nastąpiła zmiana w zarządzie.
+
+**Bilans dnia.** Indeks Nasdaq-100 zamknął się na poziomie 28286.72.
+
+---
+
+### Telemetria Zamknięcia
+
+* **Indeks Nasdaq-100 (NDX):** zamknięcie **28286.72 (-0.30%)**
+    * Przepływ skumulowany (CVD): **390,97 M [euforia]**
+    * Anomalia na zamknięciu (MOC): **+25,93 M**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **112.91%**
+    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-9.42%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+
+* **Kontrakt terminowy NQ:** zamknięcie **28407.75 (-0.23%)**
+    * Przepływ skumulowany (CVD): **−3,92 K [test podaży]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **73.60%**
+
+* **ETF QQQ:** zamknięcie **688.20 (-0.32%)**
+    * Przepływ skumulowany (CVD): **1,13 M [akumulacja]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **110.75%**
+
+* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **-232.00 [załamanie rynku]**
+    * Średnia 200 odczytów (SMA200): **44.34 [akumulacja]**
+
+* **Opcje na QQQ:**
+    * Zmienność implikowana (IV): **24.64%**
+    * Stosunek put/call (otwarte pozycje, OI): **1.12**
+
+* **Koszyk Nasdaq-100:**
+    * Łączna kapitalizacja: **39.96 bln USD** (zmiana od poprzedniego zamknięcia: **-0.15 bln USD**)
+    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **65.88%** (zmiana: **+0.12 pkt proc.**)
+    * Średnia cena akcji w koszyku: **$293.00** (zmiana: **$-3.08**)
+    * Zmiany w grupie spółek powyżej 1 bln USD: **bez zmian**
+
+* **Zdrowie danych sesji:** odczyty przez 100,0% sesji kasowej; bez luk dłuższych niż minuta; NDX bez zmiany dłużej niż 2 min w 0,0% odczytów; odrzucone nieaktualne odczyty: 38
+
+---
+
+[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0227/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Podsumowanie sesji Nasdaq-100 2026-11-12",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamenty #0079: Nebius: wyniki za 3Q2026
 
 Data: 2026-11-12 16:56
@@ -1267,28 +1347,5 @@ Spółka spodziewa się, że zysk na akcję skorygowany (non-GAAP) – „Adjust
 ### Co mówi zarząd
 
 Zarząd podkreślał, że inwestorzy budujący duże obiekty, w tym centra danych, są gotowi zaangażować się finansowo i chętnie podpisują umowy zabezpieczające przesył. Według zarządu magazyny energii stanowią potrzebne narzędzie w walce z kryzysem przystępności cen i niezawodności dostaw. Zarząd zaznaczył, że w planach uwzględnia tylko to, co realne i trwałe, z ewentualną nadwyżką w górę. Według zarządu spółka popiera utrzymanie limitu cen na aukcjach mocy, dopóki nie zostaną znalezione lepsze sposoby obniżenia kosztów.
-
-
----
-
-## Fundamenty #0059: Amazon.com: wyniki za 3Q2026
-
-Data: 2026-11-02 10:42
-Adres: https://heniu.blog/f-log/flog-2026-11-02-0059/
-
-
-Przychody Amazon.com (AMZN) w trzecim kwartale wyniosły 201,94 mld USD (12,1% r/r), natomiast zysk na akcję (księgowy) spadł o 3,1% r/r do poziomu 1,89 USD.
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) wyniósł 1,92 USD (−3,0% r/r).
-
-### Prognoza spółki
-
-W czwartym kwartale 2026 spółka spodziewa się przychodów w przedziale 240,00 mld USD – 247,00 mld USD, co oznaczałoby wzrost przychodów na poziomie 12,0% – 16,0%, natomiast zysk operacyjny w tym samym okresie ma wynieść 28,50 mld USD – 33,50 mld USD.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że popyt na moc obliczeniową AWS jest tak duży, że klienci wykorzystują nowe zasoby niemal tak szybko, jak spółka je instaluje. Według zarządu firma ma bardzo dobrą widoczność popytu na AWS na kolejne lata, ponieważ duże bloki mocy są rezerwowane z dużym wyprzedzeniem. Zarząd wskazywał, że szybki wzrost usług AI obniża marżę AWS jako całości, gdyż marże w AI są obecnie niższe niż w podstawowych usługach chmurowych. Według zarządu AI stanowi wyjątkową, historyczną okazję, dlatego spółka będzie dalej mocno inwestować, aby pozostać liderem. Zarząd wspomniał również, że coraz więcej powtarzalnych prac w centrach logistycznych będą wykonywać roboty, a nowe obiekty są projektowane z dużym udziałem robotyki. Według zarządu sprzedaż własnych chipów na zewnątrz generuje szybszy przychód, jednak używanie ich we własnej chmurze przynosi w sumie więcej przychodów i gotówki.
 
 
