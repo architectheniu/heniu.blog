@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Data: 2026-11-12 18:08
+Data: 2026-11-12 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-12/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.12 [PT-BR]</h1>
+<h3>📈 [2026-11-12 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de preços e fluxos:</strong> O Índice NDX encontra-se atualmente no nível 28377.01 (+0.01%), o que representa um Recuo desde o pico do Heniu de 216 pts (-0.76%) em relação ao pico do dia 11.11 (28593.00). Apesar da estabilização do preço, foi registrado um forte influxo de capital no mercado à vista (CVD NDX = 254,99 M). Existe uma divergência entre os instrumentos: os contratos NQ mostram um teste de oferta (CVD = -8,25 K), enquanto o ETF QQQ mostra um teste de demanda (CVD = 721,85 K). O indicador de direção de fluxos é 55, o que indica uma predominância de influxo de capital para o sistema.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> O indicador TICKQ é de -500.00, o que, com a média SMA200 no nível 54.39, indica uma forte pressão de oferta na amplitude de mercado de ações da Nasdaq.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 23.55%, com volume de opções no nível 4,972,543. O Put/Call Ratio é de 0.98, o que sugere uma aproximação de sentimentos neutros com uma leve predominância de opções de venda. O alcance de movimento esperado pelo mercado situa-se no intervalo de 684.16 a 699.04 pontos.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima (zona de volume) encontra-se no intervalo 28240–28260 (distância de 0.41% do preço atual). A zona de resistência mais próxima é o intervalo 28430–28450 (distância de 0.19% do preço atual). O recuo atual é classificado como um recuo comum, sendo raso em comparação com correções históricas.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-12 19:07</p>
 <h3>📈 [2026-11-12 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>

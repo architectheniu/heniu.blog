@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Date: 2026-11-12 18:08
+Date: 2026-11-12 19:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-12/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.12 [EN]</h1>
+<h3>📈 [2026-11-12 19:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price situation and flows:</strong> The NDX index is currently at 28377.01 (+0.01%), which represents a drawdown of 216 pts (-0.76%) from the peak on 11.11 (28593.00). Despite price stabilization, a strong capital inflow was noted in the cash market (CVD NDX = 254,99 M). A divergence exists between instruments: NQ futures show a supply test (CVD = -8,25 K), while the QQQ ETF shows a demand test (CVD = 721,85 K). The direction gauge is 55, indicating a predominance of capital inflow into the system.</li>
+<li><strong>Broad market and sentiment:</strong> The TICKQ indicator is -500.00, which, with a SMA200 average at 54.39, indicates strong supply pressure in the broad Nasdaq equity market.</li>
+<li><strong>QQQ Options Analysis:</strong> Implied volatility (IV) is 23.55%, with options volume at 4,972,543. The Put/Call Ratio is 0.98, suggesting an approach toward neutral sentiment with a slight edge toward put options. The market-expected move range is between 684.16 and 699.04 points.</li>
+<li><strong>Technical levels:</strong> The nearest support zone (volume zone) is in the 28240–28260 range (0.41% distance from current price). The nearest resistance zone is the 28430–28450 range (0.19% distance from current price). The current drawdown is classified as a regular drawdown, being shallow compared to historical corrections.</li>
+</ul>
+<p>H-Log Report: 2026-11-12 19:07</p>
 <h3>📈 [2026-11-12 18:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
