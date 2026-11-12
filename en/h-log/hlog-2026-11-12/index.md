@@ -1,6 +1,6 @@
 # H1: 2026-11-12
 
-Date: 2026-11-12 01:08
+Date: 2026-11-12 02:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-12/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.12 [EN]</h1>
+<h3>📈 [2026-11-12 02:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>The futures session</strong>. The cash session (Spot) is currently closed.</p>
+<ul>
+<li><strong>NQ contract status:</strong> NQ futures contracts are trading at 28208.50 (-0.94%), with a cumulative CVD flow of -3.66K, indicating a supply test in the current session.</li>
+<li><strong>Cash session closing analysis:</strong> The NDX index closed the session at 28381.40 (+2.28%). A drawdown from the peak of 11.11 (28593.00) of 212 pts (-0.74%) has been recorded. This is a standard correction, shallower than previous deviations in the recorded memory.</li>
+<li><strong>Technical levels:</strong> The nearest support zone (volume node) is located in the 28360–28380 range. Resistance was identified in the 28430–28450 zone.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 23.51%, and the Put/Call Ratio at 1.01 suggests a near equilibrium between demand for hedges and long positions. The expected range of movement for QQQ is between 681.31 and 699.45 with an options volume of 9,566,741.</li>
+<li><strong>Flow sentiment:</strong> The aggregate flow direction gauge is -5, meaning a slight advantage of distribution over accumulation across the entire system.</li>
+</ul>
+<p>H-Log Report: 2026-11-12 02:07</p>
 <h3>📈 [2026-11-12 01:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
