@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Data: 2026-11-13 17:08
+Data: 2026-11-13 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-13/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.13 [PT-BR]</h1>
+<h3>📈 [2026-11-13 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O mercado encontra-se em uma fase de forte distribuição. O Índice Nasdaq-100 (NDX) caiu 1.66% para o nível 27820.24, com o fluxo acumulado (CVD) para NDX em -144,09 mi, o que indica uma venda intensa no mercado à vista. Isso é confirmado pelos contratos NQ (-1.67% / preço 27909.00) e pelo ETF QQQ (-1.64% / preço 676.91). O indicador de direção de fluxos é de -40, o que significa uma clara vantagem de saída de capital. A Amplitude de mercado (TICKQ) mostra um desvio extremo da média SMA200 (338.00 vs 32.38), sugerindo uma forte pressão de oferta.</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 26.36%, com um volume de opções no nível de 4,093,542. O Put/Call Volume Ratio é de 1.14, o que indica uma vantagem de posições de hedge e um aumento nas expectativas de novas quedas. O alcance esperado de movimento para o QQQ está na faixa de 664.93 a 684.99.</li>
+<li><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico de 11.11 (28593.00) é de -2.70% (-773 pts), o que classifica a correção atual como um recuo comum, sendo raso em comparação com correções históricas (maior: -11.96%). O nível de suporte mais próximo (zona de volume) encontra-se na zona de 27730–27750. O nível de resistência identificado na zona de 27950–27970 encontra-se atualmente acima do preço atual.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-13 18:07</p>
 <h3>📈 [2026-11-13 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
