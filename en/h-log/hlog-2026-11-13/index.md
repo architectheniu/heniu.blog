@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Date: 2026-11-13 15:08
+Date: 2026-11-13 16:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-13/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.13 [EN]</h1>
+<h3>📈 [2026-11-13 16:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation:</strong> The Nasdaq-100 index (NDX) is in a downward phase (-1.26%, price 27931.63), as confirmed by NQ futures contracts (-1.27%) and the QQQ ETF (-1.24%). Cumulative flow (CVD) for NDX is -106.19 M, indicating strong selling pressure in the cash market. The market flow direction gauge is -28, which means a clear advantage of capital distribution. Nasdaq market breadth (TICKQ) reports strong declines at the level of -368.00, which, with an SMA200 average of 36.63, confirms supply dominance.</p>
+</li>
+<li>
+<p><strong>QQQ Options Analysis:</strong> Implied volatility (IV) is 25.28%, and the Put/Call Volume Ratio at 1.11 suggests an advantage of hedging positions or anticipation of further downward pressure. The expected movement range based on a volume of 560,630 contracts is within the range of 676.93 to 699.41.</p>
+</li>
+<li>
+<p><strong>Technical context:</strong> The current drawdown from the peak of 11.11 (28593.00) is -2.31% (-661 pts). This is a regular correction, shallower than historical corrective moves. The nearest significant resistance is located in the volume node zone 27950–27970. Key support identified in the volume profile is in the range 27730–27750 (last price activity in this place: 10.11).</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-11-13 16:07</p>
 <h3>📈 [2026-11-13 15:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
