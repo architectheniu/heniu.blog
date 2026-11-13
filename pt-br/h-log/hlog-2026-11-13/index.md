@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Data: 2026-11-13 20:08
+Data: 2026-11-13 21:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-13/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.13 [PT-BR]</h1>
+<h3>📈 [2026-11-13 21:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado:</strong> O Índice NDX está em 27933.69 (-1.26%), e os contratos NQ em 28023.50 (-1.27%). Desde o pico do dia 11.11 (28593.00), registrou-se um recuo de 2.31% (-659 pts). A correção atual é mais rasa do que as 9 anteriores na memória de dados, o que a classifica como um recuo comum.</li>
+<li><strong>Fluxos de capital (CVD):</strong> No mercado à vista, há uma forte pressão de venda. O fluxo acumulado (CVD) para NDX é de −128,65 mi, para QQQ de −1,91 mi, e para os contratos NQ de −42,66 K. O indicador de direção de fluxo agregado é -48, o que significa uma clara vantagem de distribuição de capital. A Amplitude de mercado (TICKQ) com valor de 72.00 está significativamente acima da média SMA200 (25.11), o que, com a queda dos preços, pode sugerir um desvio da tendência.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 25.15%, e a razão Put/Call (PCR) é de 1.02, o que indica um sentimento quase equilibrado com uma leve vantagem de opções de venda. O alcance de movimento esperado pelo mercado está na faixa de 671.16 a 687.76 com volume de opções de 7,001,850.</li>
+<li><strong>Níveis técnicos:</strong> A resistência mais próxima está na zona de 27950–27970 (0.5% de volume). O suporte mais próximo foi identificado na faixa de 27730–27750 (0.6% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-13 21:07</p>
 <h3>📈 [2026-11-13 20:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
