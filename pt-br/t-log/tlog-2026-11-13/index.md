@@ -1,6 +1,6 @@
 # M15: 2026-11-13
 
-Data: 2026-11-13 18:14
+Data: 2026-11-13 18:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-13/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.13 [PT-BR]</h1>
+<h3>⏱️ [2026-11-13 18:29] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27837.97</strong> (-1.60%; desde a entrada anterior +46.17 pts) · NQ <strong>27926.50</strong> (-1.62%; +45.25 pts) · QQQ <strong>677.23 USD</strong> (-1.59%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-133.79 M</strong> [pânico] · CVD NQ <strong>-48.07 K</strong> [colapso do mercado] (desde a entrada anterior +3.44 K) · CVD QQQ <strong>-1.95 M</strong> [sell-off] · TICKQ <strong>35</strong> [teste de demanda] · média SMA200 <strong>30.27</strong> [acumulação] (+1.06) · indicador de direção <strong>-48</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>39.49 trilhões de USD</strong> (desde a entrada anterior -0.03 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>68.7%</strong> (+0.0 p.p.) · preço médio das ações <strong>288.51 USD</strong> (+0.39 USD) · opções sobre QQQ: volatilidade implícita <strong>26.15%</strong>, put/call <strong>1.14</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>27730–27750</strong> (0.32% abaixo) · mais próxima acima do preço <strong>27950–27970</strong> (0.40% acima)</li>
+</ul>
+<p>Os indicadores CVD para os índices NDX e QQQ pioraram, enquanto no caso do NQ foi registrado um aumento.</p>
 <h3>⏱️ [2026-11-13 18:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27791.80</strong> (-1.76%; desde a entrada anterior +56.58 pts) · NQ <strong>27881.25</strong> (-1.78%; +59.00 pts) · QQQ <strong>676.19 USD</strong> (-1.74%)</li>
