@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Data: 2026-11-13 20:07
+Data: 2026-11-13 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-13/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.13</h1>
+<h3>📈 [2026-11-13 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Indeks NDX wynosi 27933.69 (-1.26%), a kontrakty NQ 28023.50 (-1.27%). Od szczytu z dnia 11.11 (28593.00) odnotowano cofnięcie o 2.31% (-659 pkt). Obecna korekta jest płytsza niż 9 poprzednich w pamięci danych, co klasyfikuje ją jako zwykłe cofnięcie.</li>
+<li><strong>Przepływy kapitału (CVD):</strong> Na rynku kasowym występuje silna presja sprzedażowa. Skumulowany przepływ (CVD) dla NDX wynosi −128,65 M, dla QQQ −1,91 M, a dla kontraktów NQ −42,66 K. Zbiorczy wskaźnik kierunku przepływów wynosi -48, co oznacza wyraźną przewagę dystrybucji kapitału. Szeroki rynek (TICKQ) przy wartości 72.00 znajduje się znacznie powyżej średniej SMA200 (25.11), co przy spadkach ceny może sugerować odchylenie od trendu.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 25.15%, a stosunek wolumenu Put/Call (PCR) to 1.02, co wskazuje na niemal zrównoważony sentyment z lekką przewagą opcji sprzedaży. Oczekiwany przez rynek zasięg ruchu mieści się w przedziale 671.16 do 687.76 przy wolumenie opcji 7,001,850.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższy opór znajduje się w strefie 27950–27970 (0.5% wolumenu). Najbliższe wsparcie zidentyfikowano w przedziale 27730–27750 (0.6% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-11-13 21:07</p>
 <h3>📈 [2026-11-13 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
