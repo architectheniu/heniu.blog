@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Log #0228: Resumo da sessão 2026-11-13: NDX 27943.35 (-1.22%)](https://heniu.blog/pt-br/posts/log-0228/index.md) (2026-11-13)
 - [M15: 2026-11-13](https://heniu.blog/pt-br/t-log/tlog-2026-11-13/index.md) (2026-11-13)
 - [H1: 2026-11-13](https://heniu.blog/pt-br/h-log/hlog-2026-11-13/index.md) (2026-11-13)
 - [Fundamentos #0081: Cisco Systems: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-11-13-0081/index.md) (2026-11-13)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0062: Vertex Pharmaceuticals: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-03-0062/index.md) (2026-11-03)
 - [Fundamentos #0061: Relatórios de empresas: Lumentum, Marvell Technology, Intuitive Surgical e outras; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-03-0061/index.md) (2026-11-03)
 - [H1: 2026-11-02](https://heniu.blog/pt-br/h-log/hlog-2026-11-02/index.md) (2026-11-02)
-- [M15: 2026-11-02](https://heniu.blog/pt-br/t-log/tlog-2026-11-02/index.md) (2026-11-02)
 

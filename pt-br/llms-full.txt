@@ -7,6 +7,86 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0228: Resumo da sessão 2026-11-13: NDX 27943.35 (-1.22%)
+
+Data: 2026-11-13 22:04
+Endereço: https://heniu.blog/pt-br/posts/log-0228/
+
+
+**Data da sessão:** 2026-11-13
+
+> *Fechamento da sessão 2026-11-13: NDX 27943.35 (-1.22%), NQ 27917.25 (-1.65%), QQQ 679.90 (-1.20%).*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 28260.69 e NQ 28378.50. Nos primeiros 30 minutos, o NDX caiu 268.32 pts (-0.95%) para 27992.37, e o NQ caiu 291.00 pts (-1.03%) para 28087.50. O máximo da sessão ocorreu às 9:33 ET (15:33 PL) no nível NDX 28285.62, e o mínimo às 11:22 ET (17:22 PL) no nível NDX 27610.59. O fechamento do NDX no nível 27943.35 está 342.27 pts abaixo do máximo e 332.76 pts acima do mínimo.
+
+**Fluxos e amplitude de mercado.** A direção do fluxo acumulado (CVD) foi negativa para NDX, NQ e QQQ, o que significa concordância de direções nesses instrumentos. O indicador TICKQ no fechamento foi de 56.00, e sua média SMA200 era de 22.34. A participação de empresas acima de 1 trilhão de USD na capitalização da cesta foi de 68.68%.
+
+**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX subiu 0.67 pts (+0.00%) para o nível 27943.35. No fechamento, foi registrada uma Anomalia MOC de +28,83 M. A volatilidade implícita (IV) para as opções sobre QQQ foi de 25.14%, e a relação put/call para posições abertas foi de 1.13. AMAT e CSCO apresentaram resultados trimestrais e orientações da diretoria.
+
+**Balanço do dia.** O Índice Nasdaq-100 fechou com uma queda de 1.22%.
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **27943.35 (-1.22%)**
+    * Fluxo acumulado (CVD): **−19,28 M [teste de oferta]**
+    * Anomalia no fechamento (MOC): **+28,83 M**
+    * Utilização da amplitude diária média (ADR): **122.97%**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **-10.51%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **Contrato futuro NQ:** fechamento **27917.25 (-1.65%)**
+    * Fluxo acumulado (CVD): **−29,26 K [sell-off]**
+    * Utilização da amplitude diária média (ADR): **102.65%**
+
+* **ETF QQQ:** fechamento **679.90 (-1.20%)**
+    * Fluxo acumulado (CVD): **−429,06 K [teste de oferta]**
+    * Utilização da amplitude diária média (ADR): **123.97%**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **56.00 [acumulação]**
+    * Média de 200 leituras (SMA200): **22.34 [acumulação]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **25.14%**
+    * Relação put/call (posições abertas, OI): **1.13**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **39.63 tri USD** (mudança desde o fechamento anterior: **-0.33 tri USD**)
+    * Participação de empresas acima de 1 trilhão de USD na capitalização da cesta: **68.68%** (mudança: **+2.82 p.p.**)
+    * Preço médio das ações na cesta: **$288.76** (mudança: **$-4.12**)
+    * Mudanças no grupo de empresas acima de 1 trilhão de USD: **entraram acima de 1 trilhão de USD: WMT**
+
+* **Saúde dos dados da sessão:** leituras por 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,1% das leituras; leituras desatualizadas rejeitadas: 0
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0228/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-11-13",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentos #0081: Cisco Systems: resultados do 1Q2027
 
 Data: 2026-11-13 13:48
@@ -1221,85 +1301,5 @@ Insiders venderam ações em 2.11 por 13,8 mi USD, incluindo 13,8 mi USD de plan
 Alphabet (GOOGL): formulário 424B5 (Documento: 424B5; Data de submissão (hora EUA): 2.11).
 
 Microsoft (MSFT): prospecto de emissão 424B2 (Documento: 424B2; Data de submissão (hora EUA): 2.11).
-
-
----
-
-## Log #0218: Resumo da sessão 2026-11-02: NDX 27994.99 (-1.39%)
-
-Data: 2026-11-02 22:04
-Endereço: https://heniu.blog/pt-br/posts/log-0218/
-
-
-**Data da sessão:** 2026-11-02
-
-> *Fechamento da sessão 2026-11-02: NDX 27994.99 (-1.39%), NQ 28200.75 (-1.17%), QQQ 681.13 (-1.37%).*
-
----
-
-### Visão geral da sessão
-
-**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) nos níveis de NDX 28558.03 e NQ 28702.00. Nos primeiros 30 minutos até as 10:00 ET (16:00 PL), houve uma queda de NDX de 6.83 pts para 28551.20 e NQ de 8.50 pts para 28693.50. O máximo da sessão foi registrado às 10:29 ET (16:29 PL) no nível de NDX 28753.14, e o mínimo às 15:57 ET (21:57 PL) no nível de NDX 27968.73. O fechamento no nível de 27994.99 está 758.15 pts abaixo do máximo e 26.26 pts acima do mínimo.
-
-**Fluxos e amplitude de mercado.** As direções do fluxo acumulado foram divergentes: NDX e QQQ mostraram acumulação, enquanto o NQ registrou um sell-off. A amplitude de mercado (TICKQ) no fechamento foi de -318.00, o que significou um colapso do mercado, com uma média de 200 leituras SMA200 no nível de 11.45. Empresas acima de 1 tri USD representaram 68.45% da capitalização da cesta.
-
-**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX caiu 189.46 pts para o nível de 27994.99. No fechamento, registrou-se uma Anomalia MOC de +34,61 M. A volatilidade implícita (IV) para opções sobre QQQ era de 27.71%, e a proporção put/call foi de 1.31.
-
-**Balanço do dia.** O Índice Nasdaq-100 fechou com uma queda de 1.39% no nível de 27994.99.
-
----
-
-### Telemetria de Fechamento
-
-* **Índice Nasdaq-100 (NDX):** fechamento **27994.99 (-1.39%)**
-    * Fluxo acumulado (CVD): **54,5 M [acumulação]**
-    * Anomalia no fechamento (MOC): **+34,61 M**
-    * Utilização do alcance diário médio (ADR): **181.41%**
-    * Recuo desde o maior fechamento registrado pelo Heniu: **-10.35%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **Contrato futuro NQ:** fechamento **28200.75 (-1.17%)**
-    * Fluxo acumulado (CVD): **−11,95 K [sell-off]**
-    * Utilização do alcance diário médio (ADR): **124.36%**
-
-* **ETF QQQ:** fechamento **681.13 (-1.37%)**
-    * Fluxo acumulado (CVD): **1,1 M [acumulação]**
-    * Utilização do alcance diário médio (ADR): **179.51%**
-
-* **Amplitude de mercado (TICKQ):** leitura no fechamento **-318.00 [colapso do mercado]**
-    * Média de 200 leituras (SMA200): **11.45 [teste de demanda]**
-
-* **Opções sobre QQQ:**
-    * Volatilidade implícita (IV): **27.71%**
-    * Proporção put/call (posições abertas, OI): **1.31**
-
-* **Cesta Nasdaq-100:**
-    * Capitalização total: **39.73 tri USD** (mudança desde o fechamento anterior: **-0.44 tri USD**)
-    * Participação de empresas acima de 1 tri USD na capitalização da cesta: **68.45%** (mudança: **+0.27 p.p.**)
-    * Preço médio das ações na cesta: **$293.66** (mudança: **$-2.32**)
-    * Mudanças no grupo de empresas acima de 1 tri USD: **acima de 1 tri USD entraram: WMT; abaixo de 1 tri USD caíram: MU**
-
-* **Saúde dos dados da sessão:** leituras durante 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 6,1% das leituras; leituras desatualizadas rejeitadas: 91
-
----
-
-[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0218/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Resumo da sessão Nasdaq-100 2026-11-02",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 
