@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Data: 2026-11-13 16:08
+Data: 2026-11-13 17:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-13/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.13 [PT-BR]</h1>
+<h3>📈 [2026-11-13 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O Índice NDX está em tendência de queda, perdendo 2.02% (preço 27717.64). Foi observada uma forte pressão de venda no mercado à vista, o que confirma o fluxo acumulado (CVD) para NDX no nível de -185,96 M e para o ETF QQQ no nível de -2,92 M. O indicador de direção de fluxo agregado é de -43, o que indica uma clara vantagem da distribuição de capital. A Amplitude de mercado (TICKQ) com valor de -8.00 está significativamente abaixo de sua média SMA200 de 31.85.</li>
+<li><strong>Análise de contratos e opções:</strong> Os contratos NQ estão caindo 2.03% (27805.25) com um CVD negativo de -63,03 K. No mercado de opções QQQ, com volume de 2,840,552, foi registrado um Put/Call Ratio de 1.23, o que sugere a dominância de posições de hedge ou a expectativa de quedas adicionais. A volatilidade implícita (IV) é de 26.59%, e o alcance esperado de movimento está na faixa de 668.48 a 687.66.</li>
+<li><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico de 11.11 (28593.00) é de 3.06% (-875 pts). Este é um recuo comum, classificado como mais profundo do que 22% das correções até o momento no período analisado. A resistência mais próxima está na zona de volume 27730–27750 (0.6% de volume), enquanto o suporte crucial foi identificado na faixa de 27020–27040 (0.5% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-13 17:07</p>
 <h3>📈 [2026-11-13 16:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
