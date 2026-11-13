@@ -1,6 +1,6 @@
 # M15: 2026-11-13
 
-Data: 2026-11-13 17:44
+Data: 2026-11-13 17:59
 Adres: https://heniu.blog/t-log/tlog-2026-11-13/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.13</h1>
+<h3>⏱️ [2026-11-13 17:59] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27735.22</strong> (-1.96%; od poprzedniego wpisu +42.54 pkt) · NQ <strong>27822.25</strong> (-1.97%; +36.50 pkt) · QQQ <strong>674.79 USD</strong> (-1.94%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-149.81 M</strong> [panika] · CVD NQ <strong>-57.94 K</strong> [załamanie rynku] (od poprzedniego wpisu +1.46 K) · CVD QQQ <strong>-2.54 M</strong> [załamanie rynku] · TICKQ <strong>-86</strong> [wyprzedaż] · średnia SMA200 <strong>30.67</strong> [akumulacja] (+0.53) · wskaźnik kierunku <strong>-48</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>39.36 bln USD</strong> (od poprzedniego wpisu +0.01 bln USD) · udział spółek powyżej 1 bln USD <strong>68.8%</strong> (+0.0 pp) · średnia cena akcji <strong>287.56 USD</strong> (+0.54 USD) · opcje QQQ: zmienność implikowana <strong>26.39%</strong>, put/call <strong>1.14</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> cena w strefie <strong>27730–27750</strong> · najbliższa poniżej ceny <strong>27020–27040</strong> (2.51% niżej) · najbliższa powyżej ceny <strong>27950–27970</strong> (0.77% wyżej)</li>
+</ul>
+<p>Presja sprzedażowa zwiększyła się, a obecna cena znajduje się w strefie wolumenu, podczas gdy najbliższy opór jest nieco wyżej, a wsparcie znajduje się znacznie poniżej.</p>
 <h3>⏱️ [2026-11-13 17:44] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27692.68</strong> (-2.10%; od poprzedniego wpisu -65.24 pkt) · NQ <strong>27785.75</strong> (-2.11%; -59.25 pkt) · QQQ <strong>673.84 USD</strong> (-2.08%)</li>
