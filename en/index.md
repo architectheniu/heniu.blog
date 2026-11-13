@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0081: Cisco Systems: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-11-13-0081/index.md) (2026-11-13)
 - [M15: 2026-11-13](https://heniu.blog/en/t-log/tlog-2026-11-13/index.md) (2026-11-13)
 - [H1: 2026-11-13](https://heniu.blog/en/h-log/hlog-2026-11-13/index.md) (2026-11-13)
 - [Fundamentals #0080: Company filings: NVIDIA, Marvell Technology, Meta Platforms and others; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-13-0080/index.md) (2026-11-13)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0061: Company filings: Lumentum, Marvell Technology, Intuitive Surgical and others; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-03-0061/index.md) (2026-11-03)
 - [H1: 2026-11-02](https://heniu.blog/en/h-log/hlog-2026-11-02/index.md) (2026-11-02)
 - [M15: 2026-11-02](https://heniu.blog/en/t-log/tlog-2026-11-02/index.md) (2026-11-02)
-- [Log #0218: SESSION REPORT 2026-11-02: NDX 27994.99 (-1.39%)](https://heniu.blog/en/posts/log-0218/index.md) (2026-11-02)
 
