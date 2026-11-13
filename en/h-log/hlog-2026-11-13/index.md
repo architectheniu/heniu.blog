@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Date: 2026-11-13 11:07
+Date: 2026-11-13 12:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-13/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.13 [EN]</h1>
+<h3>📈 [2026-11-13 12:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on NQ futures contracts and data from the regular session close.</li>
+<li><strong>Futures contracts and flows:</strong> NQ contracts are trading at 28422.50 (+0.13%) with a cumulative flow (CVD) of 193, indicating a demand test. The aggregate flow direction gauge is 50, signifying a neutral balance between capital inflow and outflow.</li>
+<li><strong>NDX index context:</strong> The cash index closed the session at 28288.37 (-0.30%). Despite the price decline, a significant capital inflow was recorded in the cash market (NDX CVD) at a level of 390,97 M shares, suggesting the presence of passive demand absorption. The current Drawdown from Heniu's peak on 11.11 (28593.00) is -1.07% (-305 pts), classifying the move as a standard pullback, shallower than previous corrections.</li>
+<li><strong>Technical levels:</strong> The nearest support zone (volume node) is located in the 28240–28260 range (0.10% below the current price). The nearest resistance zone is the 28360–28380 range (0.25% above the price).</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 24.85%, and the Put/Call Volume Ratio is 1.05, indicating a slight prevalence of hedging positions or anticipation of greater volatility. The expected movement range within the options volume (8,527,176) falls within the 676.93 to 699.41 range.</li>
+</ul>
+<p>H-Log Report: 2026-11-13 12:07</p>
 <h3>📈 [2026-11-13 11:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
