@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Data: 2026-11-13 05:08
+Data: 2026-11-13 06:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-13/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.13 [PT-BR]</h1>
+<h3>📈 [2026-11-13 06:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos e no índice:</strong> Os contratos NQ estão sendo negociados no nível 28359.50 (-0.09%), com um fluxo acumulado (CVD) de 287. O Índice NDX fechou a sessão no nível 28288.37 (-0.30%), o que significa um Recuo desde o pico de 11.11 (28593.00) de 1.07% (305 pts). Esta é uma correção de caráter comum, cuja profundidade é menor do que nos 9 recuos anteriores registrados.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima (nó de volume) encontra-se no intervalo 28240–28260 (1.4% de volume), cerca de 0.10% abaixo do preço atual. A resistência mais próxima encontra-se no intervalo 28360–28380 (0.8% de volume), cerca de 0.25% acima do preço atual.</li>
+<li><strong>Fluxos e sentimento:</strong> O indicador de direção de fluxos é 50, o que indica um equilíbrio neutro entre a entrada e a saída de capital. No fechamento da sessão à vista (Spot), registrou-se acumulação no ETF QQQ (CVD 1,13 mi) ao preço de 688.20 (-0.32%).</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 24.85%, e o Put/Call Ratio no nível de 1.05 sugere uma leve vantagem de posições de hedge ou a expectativa de uma maior pressão de venda. O alcance esperado do movimento do instrumento situa-se no intervalo de 676.93 a 699.41 com volume de opções de 8,527,176.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-13 06:07</p>
 <h3>📈 [2026-11-13 05:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
