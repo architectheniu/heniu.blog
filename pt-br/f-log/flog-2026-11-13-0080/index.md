@@ -1,0 +1,21 @@
+# Fundamentos #0080: Relatórios de empresas: NVIDIA, Marvell Technology, Meta Platforms e outras; transações de insiders
+
+Data: 2026-11-13 10:11
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-13-0080/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+NVIDIA (NVDA): 8-K: 5.02 mudanças na diretoria/conselho (Documento: 8-K 5.02,9.01; Data de submissão (hora EUA): 12.11; Conteúdo 8-K 5.02 (mudança na diretoria ou conselho): cargo: presidente (President); tipo de mudança: saída (renúncia); data: 11.11.2026; pessoas: Harvey C. Jones; sucessor: indicado no documento; citação (EN): „On November 11, 2026, the Board of Directors, or the Board, of NVIDIA Corporation accepted the resignation of Jen-Hsun Huang, as NVIDIA’s President, Chief Executive Officer and member of the Board, effective immediately.”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm).
+
+Marvell Technology (MRVL): 8-K: 5.02 mudanças na diretoria/conselho (Documento: 8-K 5.02,9.01; Data de submissão (hora EUA): 12.11; Conteúdo 8-K 5.02 (mudança na diretoria ou conselho): cargo: membro do conselho de administração; tipo de mudança: nomeação; data: 12.11.2026; sucessor: não aplicável (nomeação); citação (EN): „On November 11, 2026 the Board of Directors (the "Board") of Marvell Technology, Inc. (the "Company") approved an increase in the size of the Board from seven (7) to ten (10) members and the appointments of Donna C. Morris, Douglas R. Bettinger and Sasan K. Goodarzi to the Board, in each case effective November 12,…”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026-index.htm).
+
+Meta Platforms (META) submeteu um relatório sobre outros eventos.
+
+Amazon.com (AMZN) submeteu um relatório sobre acionista detentor de pelo menos 5% de participação.
+
+Insiders em 12.11 venderam ações por 31,0 mi USD, incluindo 21,7 mi USD de planos 10b5-1; compras no mercado totalizaram 0,5 mi USD. A maior venda foi reportada pelos insiders da KLA (KLAC): 10,7 mi USD.
+
+Meta Platforms (META): 8-K: 8.01 outros eventos (Documento: 8-K 8.01,9.01; Data de submissão (hora EUA): 12.11; Conteúdo 8-K 8.01 (outro evento): citação (EN): „On November 12, 2026, Meta Platforms, Inc. (the “Company”) completed an offering of €1,750,000,000 aggregate principal amount of its 4.300% Senior Notes due 2031 (the “2031 Notes”), €1,250,000,000 aggregate principal amount of its 4.650% Senior Notes due 2033 (the “2033 Notes”), €1,000,000,000 aggregate principal…”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/0001193125-26-458525-index.htm).
+
