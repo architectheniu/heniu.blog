@@ -7,6 +7,86 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Log #0228: Podsumowanie sesji 2026-11-13: NDX 27943.35 (-1.22%)
+
+Data: 2026-11-13 22:04
+Adres: https://heniu.blog/posts/log-0228/
+
+
+**Data sesji:** 2026-11-13
+
+> *Zamknięcie sesji 2026-11-13: NDX 27943.35 (-1.22%), NQ 27917.25 (-1.65%), QQQ 679.90 (-1.20%).*
+
+---
+
+### Przebieg sesji
+
+**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (15:30 PL) na poziomie NDX 28260.69 i NQ 28378.50. W pierwszych 30 minutach NDX spadło o 268.32 pkt (-0.95%) do 27992.37, a NQ spadło o 291.00 pkt (-1.03%) do 28087.50. Maksimum sesji nastąpiło o 9:33 ET (15:33 PL) na poziomie NDX 28285.62, a minimum o 11:22 ET (17:22 PL) na poziomie NDX 27610.59. Zamknięcie NDX na poziomie 27943.35 znajduje się 342.27 pkt poniżej maksimum i 332.76 pkt powyżej minimum.
+
+**Przepływy i szerokość rynku.** Kierunek skumulowanego przepływu (CVD) był ujemny dla NDX, NQ oraz QQQ, co oznacza zgodność kierunków na tych instrumentach. Wskaźnik TICKQ na zamknięciu wyniósł 56.00, a jego średnia SMA200 wynosiła 22.34. Udział spółek powyżej 1 bln USD w kapitalizacji koszyka wyniósł 68.68%.
+
+**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX wzrósł o 0.67 pkt (+0.00%) do poziomu 27943.35. Na zamknięciu odnotowano anomalię MOC w wysokości +28,83 M. Zmienność implikowana (IV) dla opcji na QQQ wyniosła 25.14%, a stosunek put/call dla otwartych pozycji wyniósł 1.13. AMAT i CSCO przedstawiły wyniki finansowe oraz wytyczne zarządu.
+
+**Bilans dnia.** Indeks Nasdaq-100 zamknął się ze spadkiem o 1.22%.
+
+---
+
+### Telemetria Zamknięcia
+
+* **Indeks Nasdaq-100 (NDX):** zamknięcie **27943.35 (-1.22%)**
+    * Przepływ skumulowany (CVD): **−19,28 M [test podaży]**
+    * Anomalia na zamknięciu (MOC): **+28,83 M**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **122.97%**
+    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-10.51%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+
+* **Kontrakt terminowy NQ:** zamknięcie **27917.25 (-1.65%)**
+    * Przepływ skumulowany (CVD): **−29,26 K [wyprzedaż]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **102.65%**
+
+* **ETF QQQ:** zamknięcie **679.90 (-1.20%)**
+    * Przepływ skumulowany (CVD): **−429,06 K [test podaży]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **123.97%**
+
+* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **56.00 [akumulacja]**
+    * Średnia 200 odczytów (SMA200): **22.34 [akumulacja]**
+
+* **Opcje na QQQ:**
+    * Zmienność implikowana (IV): **25.14%**
+    * Stosunek put/call (otwarte pozycje, OI): **1.13**
+
+* **Koszyk Nasdaq-100:**
+    * Łączna kapitalizacja: **39.63 bln USD** (zmiana od poprzedniego zamknięcia: **-0.33 bln USD**)
+    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **68.68%** (zmiana: **+2.82 pkt proc.**)
+    * Średnia cena akcji w koszyku: **$288.76** (zmiana: **$-4.12**)
+    * Zmiany w grupie spółek powyżej 1 bln USD: **powyżej 1 bln USD weszły: WMT**
+
+* **Zdrowie danych sesji:** odczyty przez 100,0% sesji kasowej; bez luk dłuższych niż minuta; NDX bez zmiany dłużej niż 2 min w 0,1% odczytów; odrzucone nieaktualne odczyty: 0
+
+---
+
+[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0228/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Podsumowanie sesji Nasdaq-100 2026-11-13",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamenty #0081: Cisco Systems: wyniki za 1Q2027
 
 Data: 2026-11-13 13:47
@@ -1247,46 +1327,5 @@ Na cały rok 2026 spółka spodziewa się przychodów w przedziale 13,15 mld USD
 ### Co mówi zarząd
 
 Zarząd podkreślał, że kontakty z amerykańskim regulatorem w sprawie povetaceptu przebiegają zgodnie z planem i spółka oczekuje na termin decyzji. Według zarządu povetacept jest wytwarzany przez tego samego producenta od początku badań, co pozwala na spokojną ocenę wniosku oraz kwestii produkcji. Zarząd wskazywał również na zainteresowanie nefrologów povetaceptem oraz chęć stosowania go po dopuszczeniu do obrotu. Według zarządu działanie na przyczynę choroby nerek zapewnia lepsze efekty, co zwiększa pewność co do wyników anaxaplinu. Zarząd zaznaczył, że w przypadku leku przeciwbólowego JOURNAVX świadomie utrzymuje program wsparcia pacjentów, aby dostosować lekarzy do nowych nawyków, dopóki nie zostanie zapewniona pełna refundacja. W kwestii mukowiscydozy zarząd stwierdził, że wybór najlepszego leku nowej generacji nastąpi dopiero po uzyskaniu wyników wszystkich kandydatów.
-
-
----
-
-## Fundamenty #0061: Zgłoszenia spółek: Lumentum, Marvell Technology, Intuitive Surgical i inne; transakcje insiderów
-
-Data: 2026-11-03 10:10
-Adres: https://heniu.blog/f-log/flog-2026-11-03-0061/
-
-
-> ⚠️ **ERRATUM (2026-11-04)**  
-> **Przy zdaniach o dokumentach spółek nie było widać, której spółki dotyczą.**
->
-> **Sprostowanie:**
-> - Dopisaliśmy nazwy i tickery spółek na początku tych zdań.
->
-> Liczby i daty się nie zmieniają.
-
-Lumentum (LITE) zawarła istotną umowę, odwołała prezesa zarządu (CEO) oraz złożyła raport dotyczący ujawnienia informacji.
-
-Marvell Technology (MRVL) zawarła istotną umowę.
-
-Intuitive Surgical (ISRG) powołała Aarona Martina na członka rady dyrektorów oraz złożyła raport dotyczący ujawnienia informacji.
-
-Alphabet (GOOGL) złożyła prospekt emisyjny.
-
-Microsoft (MSFT) złożyła prospekt emisyjny.
-
-Alphabet (GOOGL) złożyła materiały ofertowe.
-
-Insiderzy 2.11 sprzedali akcje za 13,8 mln USD, w tym 13,8 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Gilead Sciences (GILD): 5,3 mln USD.
-
-8-K: 1.01 istotna umowa, 5.02 zmiany w zarządzie/radzie, 7.01 Reg FD (Dokument: 8-K 1.01,5.02,7.01,9.01; Data złożenia (czas USA): 2.11; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On November 1, 2026, Lumentum Holdings Inc., a Delaware corporation (“ Lumentum ” or the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Marvell Technology, Inc., a Delaware corporation (“ Marvell ”), Java Merger Sub, Inc., a Delaware corporation and a wholly owned…”; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: prezes zarządu (CEO); rodzaj zmiany: odwołanie; data: 1.11.2026; następca: nie wskazano; cytat (EN): „On November 1, 2026, the Company entered into a reimbursement and indemnification agreement (a “Tax reimbursement agreement”) with the Company’s Chief Executive Officer, Michael Hurlston, pursuant to which, in connection with the Merger, (i) the Company and Mr. Hurlston will cooperate in good faith with respect to…”; Treść 8-K 7.01 (komunikat (Reg FD)): cytat (EN): „In connection with the Transaction, Marvell intends to file with the SEC a registration statement on Form S-4 (the “Form S-4”) that will include a joint proxy statement for Marvell’s and Lumentum’s respective stockholders and that will also constitute a prospectus with respect to the shares of Marvell’s common stock…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1633978/000119312526442758/0001193125-26-442758-index.htm).
-
-8-K: 1.01 istotna umowa (Dokument: 8-K 1.01,9.01; Data złożenia (czas USA): 2.11; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On November 1, 2026, Marvell Technology, Inc., a Delaware corporation (“ Marvell ”) entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Lumentum Holdings Inc., a Delaware corporation (“ Lumentum ”), Java Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Marvell (“…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1835632/000119312526442717/0001193125-26-442717-index.htm).
-
-8-K: 5.02 zmiany w zarządzie/radzie, 7.01 Reg FD (Dokument: 8-K 5.02,7.01,9.01; Data złożenia (czas USA): 2.11; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: członek rady dyrektorów; rodzaj zmiany: powołanie; data: 1.01.2027; osoby: Aaron Martin; następca: nie dotyczy (powołanie); cytat (EN): „On October 29, 2026, the Board of Directors (the “Board”) of Intuitive Surgical, Inc. (the “Company”) approved an increase in the size of the Board from ten to eleven members and appointed Aaron Martin to fill the resulting vacancy, effective as of January 1, 2027.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1035267/000103526726000074/0001035267-26-000074-index.htm).
-
-Alphabet (GOOGL): formularz 424B5 (Dokument: 424B5; Data złożenia (czas USA): 2.11).
-
-Microsoft (MSFT): prospekt emisji 424B2 (Dokument: 424B2; Data złożenia (czas USA): 2.11).
 
 
