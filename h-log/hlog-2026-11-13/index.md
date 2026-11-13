@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Data: 2026-11-13 09:07
+Data: 2026-11-13 10:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-13/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.13</h1>
+<h3>📈 [2026-11-13 10:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Kontrakty NQ notowane są po cenie 28306.75 (-0.27%). Skumulowany przepływ (CVD) dla kontraktów wynosi -1,34 K, co wskazuje na testowanie podaży w bieżącym handlu poza sesją.</li>
+<li><strong>Analiza przepływów i sentymentu:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 30, co oznacza umiarkowaną przewagę napływu kapitału. Mimo spadku ceny indeksu NDX o -0.30%, skumulowany przepływ na rynku kasowym (CVD NDX) wyniósł 390,97 M, co przy spadającej cenie sugeruje obecność popytu absorpcyjnego.</li>
+<li><strong>Poziomy techniczne:</strong> Cena znajduje się w trakcie cofnięcia od szczytu z dnia 11.11 (28593.00), wynoszącego obecnie -1.07% (-305 pkt). Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 28240–28260, natomiast najbliższy opór to strefa 28360–28380.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 24.85%, a stosunek wolumenu Put/Call to 1.05, co wskazuje na lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na spadki. Oczekiwany zasięg ruchu w ramach obecnych parametrów mieści się w przedziale 676.93 do 699.41.</li>
+</ul>
+<p>Raport H-Log: 2026-11-13 10:07</p>
 <h3>📈 [2026-11-13 09:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
