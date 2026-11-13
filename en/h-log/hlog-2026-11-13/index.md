@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Date: 2026-11-13 18:07
+Date: 2026-11-13 19:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-13/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.13 [EN]</h1>
+<h3>📈 [2026-11-13 19:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The market is in a phase of strong distribution. The NDX index is losing 1.65% (27823.32), and the cumulative flow (CVD) is -128.51 M, indicating a sharp sell-off. This is confirmed by NQ futures contracts (-1.68%) and the QQQ ETF (-1.65%). The aggregate flow direction gauge is -48, which means a clear dominance of capital outflow from the market. Market breadth (TICKQ) shows strong weakness at the level of -59.00, which is a value significantly below the SMA200 average (27.25).</p>
+</li>
+<li>
+<p><strong>QQQ options analysis:</strong> A volume of 5,153,148 contracts was recorded in the options market with implied volatility (IV) at the level of 25.71%. The Put/Call Volume Ratio is 1.07, suggesting a slight dominance of hedging positions or an expectation of further downward pressure. The market-expected range of movement within current parameters falls between 665.17 and 684.39.</p>
+</li>
+<li>
+<p><strong>Technical context and levels:</strong> The current drawdown from the peak of 11.11 (28593.00) is -2.69% (-770 pts), which constitutes 1.1 of the average daily range (ATR 20). This is a correction of a regular nature, shallower than previous market mechanisms. The nearest support zone (volume node) is located in the 27730–27750 range. The resistance zone is located above, in the 27950–27970 range.</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-11-13 19:07</p>
 <h3>📈 [2026-11-13 18:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>

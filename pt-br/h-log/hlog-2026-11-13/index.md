@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Data: 2026-11-13 18:08
+Data: 2026-11-13 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-13/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.13 [PT-BR]</h1>
+<h3>📈 [2026-11-13 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de mercado e fluxos:</strong> O mercado encontra-se em uma fase de forte distribuição. O índice NDX perde 1,65% (27823,32), e o fluxo acumulado (CVD) é de -128,51 M, o que indica um sell-off abrupto. Isso é confirmado pelos contratos NQ (-1,68%) e pelo ETF QQQ (-1,65%). O indicador de direção de fluxo agregado é de -48, o que significa uma clara vantagem de saída de capital do mercado. A amplitude de mercado (TICKQ) mostra uma fraqueza forte no nível de -59,00, o que é um valor significativamente abaixo da média SMA200 (27,25).</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> No mercado de opções, foi registrado um volume de 5 153 148 contratos com a volatilidade implícita (IV) no nível de 25,71%. O Put/Call Volume Ratio é de 1,07, o que sugere uma leve vantagem de posições de hedge ou a expectativa de uma pressão de baixa adicional. O alcance de movimento esperado pelo mercado dentro dos parâmetros atuais está na faixa de 665,17 a 684,39.</p>
+</li>
+<li>
+<p><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico de 11.11 (28593,00) é de -2,69% (-770 pkt), o que representa 1,1 do alcance diário médio (ATR 20). Trata-se de uma correção de caráter comum, mais rasa do que os mecanismos de mercado anteriores. A zona de suporte mais próxima (nó de volume) está na faixa de 27730–27750. A zona de resistência está acima, na faixa de 27950–27970.</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-11-13 19:07</p>
 <h3>📈 [2026-11-13 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
