@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-11-13](https://heniu.blog/h-log/hlog-2026-11-13/index.md) (2026-11-13)
 - [M15: 2026-11-13](https://heniu.blog/t-log/tlog-2026-11-13/index.md) (2026-11-13)
 - [Fundamenty #0080: Zgłoszenia spółek: NVIDIA, Marvell Technology, Meta Platforms i inne; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-13-0080/index.md) (2026-11-13)
-- [H1: 2026-11-13](https://heniu.blog/h-log/hlog-2026-11-13/index.md) (2026-11-13)
 - [H1: 2026-11-12](https://heniu.blog/h-log/hlog-2026-11-12/index.md) (2026-11-12)
 - [M15: 2026-11-12](https://heniu.blog/t-log/tlog-2026-11-12/index.md) (2026-11-12)
 - [Log #0227: Podsumowanie sesji 2026-11-12: NDX 28286.72 (-0.30%)](https://heniu.blog/posts/log-0227/index.md) (2026-11-12)
