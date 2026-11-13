@@ -1,6 +1,6 @@
 # H1: 2026-11-13
 
-Date: 2026-11-13 10:07
+Date: 2026-11-13 11:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-13/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.13 [EN]</h1>
+<h3>📈 [2026-11-13 11:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contract situation:</strong> NQ contract price is 28353.25 (-0.10%), with cumulative flow (CVD) at -604, indicating a supply test. The aggregate direction gauge of flows is 30, which means a moderate advantage of capital inflow in general terms.</li>
+<li><strong>Technical levels:</strong> the NDX Star is in a phase of drawdown from Heniu's peak on 11.11 (28593.00), currently amounting to -1.07% (-305 pts). The nearest support zone (volume node) is in the 28240–28260 range, while technical resistance is located at the 28360–28380 level.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 24.85%, and the Put/Call Volume Ratio is at 1.05. With an options volume of 8,527,176, these data suggest a slight advantage of hedging positions or an expectation of higher volatility within the predicted movement range of 676.93 to 699.41 points.</li>
+</ul>
+<p>H-Log Report: 2026-11-13 11:07</p>
 <h3>📈 [2026-11-13 10:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
