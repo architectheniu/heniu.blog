@@ -7,6 +7,93 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0229: Mass Expansion and Accretion in a High-Energy Field
+
+Date: 2026-11-15 09:00
+URL: https://heniu.blog/en/posts/log-0229/
+
+
+**Stardate:** 2026.11.15\
+**Systems Status:** External Observation\
+**Sector:** Inner Volatility Belts
+
+---
+
+### Weekly Telemetry: Opening and Closing Balance
+
+> *The week was characterized by a rapid expansion of the mass trajectory of the NDX and QQQ, driven by a strong inflow of CVD fuel and an increase in total T-Mass by 0.90 trillion USD. The system entered a state of high density, confirmed by an increase in the Singularity's share within the Core structure.*
+
+* **Subspace Scanner (Weekly Mass Balance):**
+    * *System T-Mass (Open → Close):* **38.73 trillion USD → 39.63 trillion USD**
+    * *Weekly Mass Delta:* **+0.90 trillion USD (+2.32%)**
+    * *Core Density (Heavy Nine):* **66.89% → 68.68%** (Delta: **+1.79 pp**)
+    * *Average Action (Periphery Temperature):* **$276.96 → $288.76** (Delta: **+$11.80 | +4.26%**)
+    * *Core Composition Fluctuation (>1 trillion USD):* **Friday: above 1 trillion USD entered: WMT**
+
+* **the NDX Star (Sun — 5 Session Balance):**
+    * *Price (Previous Friday Close → Friday Close):* **26987.87 → 27943.35 (+955.48 pts | +3.54%)**
+    * *Weekly Range (Extremes):* **27465.64 — 28585.29 (Amplitude: 1119.65 pts)**
+    * *Cumulative energy flow (CVD Weekly):* **+64.53 M [market flare]**
+
+* **the NQ Probe (Mercury — 5 Session Balance):**
+    * *Price (Previous Friday Close → Friday Close):* **27083.70 → 27917.25 (+833.55 pts | +3.08%)**
+    * *Weekly Range (Extremes):* **26800.25 — 28686.50 (Amplitude: 1886.25 pts)**
+    * *Cumulative energy flow (CVD Weekly):* **+10.75 K [accumulation]**
+
+* **the Dyson Sphere (QQQ — 5 Session Balance):**
+    * *Price (Previous Friday Close → Friday Close):* **656.20 → 679.90 (+23.70 USD | +3.61%)**
+    * *Weekly Range (Extremes):* **668.06 — 695.31 (Amplitude: 27.25 USD)**
+    * *Cumulative Population Flow (CVD Weekly):* **+1.25 M [accumulation]**
+
+* **Background Radiation (TICKQ — Weekly Market Breadth):**
+    * *Weekly Average Radiation (TICKQ SMA200):* **+30.74 [accumulation]**
+    * *Weekly Radiation Range:* **Min -1.20 / Max +60.88**
+
+* **Gravitational Structure (Options — the Dyson Sphere):**
+    * *Implied Volatility (IV):* **25.14%** (Weekly Average: **24.99%** | Change from Monday: **+0.05 pp**)
+    * *Position Structure (Put/Call OI):* **1.13**
+
+---
+
+### Logbook: Mass Expansion and Accretion in a High-Energy Field
+
+**1. Weekly Trajectory and Price Volatility (Monday–Friday Session overview)**
+The system passed through a cycle of strong expansion. the NDX Star evolved from the 26987.87 level to 27943.35, noting an increase of 955.48 pts (+3.54%) with a weekly fluctuation amplitude of 1119.65 pts (extremes: 27465.64 — 28585.29). the NQ Probe showed a greater movement amplitude (1886.25 pts), oscillating in the 26800.25 — 28686.50 range, ending the cycle at the 27917.25 level (+3.08%). the Dyson Sphere (QQQ) maintained consistency with the NDX movement, rising by 3.61% (from 656.20 to 679.90 USD) with an amplitude of 27.25 USD. The entire system exhibited an expansive movement character, striving toward new gravitational levels.
+
+**2. Energy Balance and Cumulative fuel (Weekly CVD and Volume)**
+The energy balance indicates the dominance of aggressive demand. The strongest signal comes from the Central Star (NDX), where cumulative CVD amounted to +64.53M, defining the state as a "market flare". the NQ Probe and the QQQ Dyson Sphere showed an accumulation profile, with +10.75K and +1.25M respectively in cumulative flow. Background Radiation (TICKQ SMA200) at the +30.74 level confirms the persistence of accumulation processes throughout the 5-session cycle.
+
+**3. Mass Evolution, Core Densification, and Option Shields**
+A significant increase in the system's total mass (T-Mass) occurred, which rose from 38.73 trillion USD to 39.63 trillion USD (+2.32%). Core Density was strengthened, rising from 66.89% to 68.68%. Within the Core composition (Singularities >1 trillion USD), a fluctuation was noted on Friday: WMT became a new Class 0 mass. The average action of all objects increased by 4.26% ($288.76). Option shields remain stable; Implied Volatility (IV) oscillates around 25.14% (marginal change of +0.05 pp from the beginning of the week), with a Put/Call OI ratio at the 1.13 level.
+
+**Quantum Verdict:**
+The system is in a phase of strong mass accretion and energy concentration in Singularities. The high CVD balance, combined with the simultaneous increase in Core density, indicates the stabilization of a new, higher gravitational orbit.
+
+**Status:** EXTERNAL OBSERVATION. Shields active.
+
+**End of log.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Quantum Market Cosmology: Logbook",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+
+
+---
+
 ## Log #0228: SESSION REPORT 2026-11-13: NDX 27943.35 (-1.22%)
 
 Date: 2026-11-13 22:04
@@ -1260,46 +1347,5 @@ For the full year 2026, the company expects revenue in the range of 13.15 billio
 ### Management commentary
 
 Management emphasized that contacts with the US regulator regarding povetacept are proceeding as planned and the company is awaiting a decision date. According to management, povetacept has been manufactured by the same manufacturer since the beginning of the studies, which allows for a calm assessment of the application and production issues. Management also pointed to interest from nephrologists in povetacept and the desire to use it once it is approved for marketing. According to management, acting on the cause of kidney disease ensures better effects, which increases confidence in the results of anaxaplin. Management noted that in the case of the pain medication JOURNAVX, it is consciously maintaining a patient support program to acclimate physicians to new habits until full reimbursement is ensured. Regarding cystic fibrosis, management stated that the selection of the best next-generation drug will only occur after the results of all candidates are obtained.
-
-
----
-
-## Fundamentals #0061: Company filings: Lumentum, Marvell Technology, Intuitive Surgical and others; insider transactions
-
-Date: 2026-11-03 10:10
-URL: https://heniu.blog/en/f-log/flog-2026-11-03-0061/
-
-
-> ⚠️ **ERRATUM (2026-11-04)**  
-> **Sentences about company filings did not say which company they concerned.**
->
-> **Correction:**
-> - We added the company names and tickers at the start of these sentences.
->
-> The figures and dates stay the same.
-
-Lumentum (LITE) entered into a material agreement, removed its Chief Executive Officer (CEO), and filed a disclosure report.
-
-Marvell Technology (MRVL) entered into a material agreement.
-
-Intuitive Surgical (ISRG) appointed Aaron Martin as a member of the Board of Directors and filed a disclosure report.
-
-Alphabet (GOOGL) filed a prospectus.
-
-Microsoft (MSFT) filed a prospectus.
-
-Alphabet (GOOGL) filed offering materials.
-
-Insiders sold 13.8 million USD in shares on 2.11, including 13.8 million USD from 10b5-1 plans; market purchases were 0. The largest sale was reported by Gilead Sciences (GILD) insiders: 5.3 million USD.
-
-8-K: 1.01 material agreement, 5.02 changes in management/board, 7.01 Reg FD (Document: 8-K 1.01,5.02,7.01,9.01; Filing Date (US time): 2.11; 8-K Content 1.01 (entry into a material agreement): agreement: Material Definitive Agreement; quote (EN): „On November 1, 2026, Lumentum Holdings Inc., a Delaware corporation (“ Lumentum ” or the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Marvell Technology, Inc., a Delaware corporation (“ Marvell ”), Java Merger Sub, Inc., a Delaware corporation and a wholly owned…”; 8-K Content 5.02 (change in management or board): position: Chief Executive Officer (CEO); type of change: removal; date: 1.11.2026; successor: not specified; quote (EN): „On November 1, 2026, the Company entered into a reimbursement and indemnification agreement (a “Tax reimbursement agreement”) with the Company’s Chief Executive Officer, Michael Hurlston, pursuant to which, in connection with the Merger, (i) the Company and Mr. Hurlston will cooperate in good faith with respect to…”; 8-K Content 7.01 (communication (Reg FD)): quote (EN): „In connection with the Transaction, Marvell intends to file with the SEC a registration statement on Form S-4 (the “Form S-4”) that will include a joint proxy statement for Marvell’s and Lumentum’s respective stockholders and that will also constitute a prospectus with respect to the shares of Marvell’s common stock…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1633978/000119312526442758/0001193125-26-442758-index.htm).
-
-8-K: 1.01 material agreement (Document: 8-K 1.01,9.01; Filing Date (US time): 2.11; 8-K Content 1.01 (entry into a material agreement): agreement: Material Definitive Agreement; quote (EN): „On November 1, 2026, Marvell Technology, Inc., a Delaware corporation (“ Marvell ”) entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Lumentum Holdings Inc., a Delaware corporation (“ Lumentum ”), Java Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Marvell (“…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1835632/000119312526442717/0001193125-26-442717-index.htm).
-
-8-K: 5.02 changes in management/board, 7.01 Reg FD (Document: 8-K 5.02,7.01,9.01; Filing Date (US time): 2.11; 8-K Content 5.02 (change in management or board): position: member of the Board of Directors; type of change: appointment; date: 1.01.2027; persons: Aaron Martin; successor: not applicable (appointment); quote (EN): „On October 29, 2026, the Board of Directors (the “Board”) of Intuitive Surgical, Inc. (the “Company”) approved an increase in the size of the Board from ten to eleven members and appointed Aaron Martin to fill the resulting vacancy, effective as of January 1, 2027.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1035267/000103526726000074/0001035267-26-000074-index.htm).
-
-Alphabet (GOOGL): form 424B5 (Document: 424B5; Filing Date (US time): 2.11).
-
-Microsoft (MSFT): prospectus 424B2 (Document: 424B2; Filing Date (US time): 2.11).
 
 
