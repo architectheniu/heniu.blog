@@ -7,6 +7,93 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Log #0229: Ekspansja Masy i Akrecja w Polu Wysokiej Energii
+
+Data: 2026-11-15 09:00
+Adres: https://heniu.blog/posts/log-0229/
+
+
+**Stardate:** 2026.11.15\
+**Status Systemów:** Obserwacja Zewnętrzna\
+**Sektor:** Wewnętrzne Pasma Zmienności
+
+---
+
+### Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia
+
+> *Tydzień charakteryzował się gwałtowną ekspansją masowej trajektorii NDX i QQQ, napędzaną przez silny dopływ paliwa CVD i wzrost całkowitej T-Mass o 0.90 bln USD. Układ przeszedł w stan wysokiej gęstości, potwierdzony zwiększeniem udziału Osobliwości w strukturze Jądra.*
+
+* **Skaner Podprzestrzenny (Bilans Masy Tygodnia):**
+    * *T-Mass Układu (Otwarcie → Zamknięcie):* **38.73 bln USD → 39.63 bln USD**
+    * *Delta Tygodniowa Masy:* **+0.90 bln USD (+2.32%)**
+    * *Gęstość Jądra (Heavy Nine):* **66.89% → 68.68%** (Delta: **+1.79 p.p.**)
+    * *Średnia Akcja (Temperatura Peryferii):* **$276.96 → $288.76** (Delta: **+$11.80 | +4.26%**)
+    * *Fluktuacja Składu Jądra (>1 bln USD):* **Piątek: powyżej 1 bln USD weszły: WMT**
+
+* **Gwiazda NDX (Słońce — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **26987.87 → 27943.35 (+955.48 pkt | +3.54%)**
+    * *Zakres Tygodniowy (Ekstrema):* **27465.64 — 28585.29 (Amplituda: 1119.65 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **+64.53 M [wystrzał rynku]**
+
+* **Sonda NQ (Merkury — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **27083.70 → 27917.25 (+833.55 pkt | +3.08%)**
+    * *Zakres Tygodniowy (Ekstrema):* **26800.25 — 28686.50 (Amplituda: 1886.25 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **+10.75 K [akumulacja]**
+
+* **Sfera Dyson’a (QQQ — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **656.20 → 679.90 (+23.70 USD | +3.61%)**
+    * *Zakres Tygodniowy (Ekstrema):* **668.06 — 695.31 (Amplituda: 27.25 USD)**
+    * *Skumulowany Przepływ Populacji (CVD Tygodnia):* **+1.25 M [akumulacja]**
+
+* **Promieniowanie Tła (TICKQ — Szerokość Rynku w Tygodniu):**
+    * *Średnia Radiacja Tygodniowa (TICKQ SMA200):* **+30.74 [akumulacja]**
+    * *Zakres Radiacji w Tygodniu:* **Min -1.20 / Max +60.88**
+
+* **Struktura Grawitacyjna (Opcje — Sfera Dysona):**
+    * *Implied Volatility (IV):* **25.14%** (Średnia Tygodniowa: **24.99%** | Zmiana od poniedziałku: **+0.05 p.p.**)
+    * *Struktura Pozycji (Put/Call OI):* **1.13**
+
+---
+
+### Dziennik Pokładowy: Ekspansja Masy i Akrecja w Polu Wysokiej Energii
+
+**1. Trajektoria Tygodniowa i Zmienność Kursu (Przebieg Sesji Poniedziałek–Piątek)**
+Układ przeszedł przez cykl silnej ekspansji. Gwiazda Centralna NDX ewoluowała z poziomu 26987.87 do 27943.35, notując wzrost o 955.48 pkt (+3.54%) przy tygodniowej amplitudzie wahań wynoszącej 1119.65 pkt (ekstrema: 27465.64 — 28585.29). Sonda NQ wykazała większą amplitudę ruchu (1886.25 pkt), oscylując w zakresie 26800.25 — 28686.50, kończąc cykl na poziomie 27917.25 (+3.08%). Sfera Dysona QQQ utrzymała spójność z ruchem NDX, rosnąc o 3.61% (z 656.20 do 679.90 USD) przy amplitudzie 27.25 USD. Całość układu wykazała charakter ruchu ekspansywnego, dążącego do nowych poziomów grawitacyjnych.
+
+**2. Bilans Energii i Skumulowane Paliwo (Tygodniowy CVD i Wolumen)**
+Bilans energetyczny wskazuje na dominację agresywnego popytu. Najsilniejszy sygnał pochodzi z Gwiazdy Centralnej (NDX), gdzie skumulowany CVD wyniósł +64.53M, co definiuje stan jako "wystrzał rynku". Sonda NQ oraz Sfera QQQ wykazały profil akumulacji, z odpowiednio +10.75K oraz +1.25M w skumulowanym przepływie. Promieniowanie tła (TICKQ SMA200) na poziomie +30.74 potwierdza trwałość procesów akumulacyjnych w całym cyklu 5 sesji.
+
+**3. Ewolucja Masy, Zagęszczenie Jądra i Tarcze Opcyjne**
+Nastąpił znaczący przyrost masy całkowitej układu (T-Mass), która wzrosła z 38.73 bln USD do 39.63 bln USD (+2.32%). Gęstość Jądra uległa wzmocnieniu, rosnąc z 66.89% do 68.68%. W składzie Jądra (Osobliwości >1 bln USD) odnotowano fluktuację w piątek: nową masą klasy 0 stał się podmiot WMT. Średnia akcja wszystkich obiektów wzrosła o 4.26% ($288.76). Tarcze opcyjne pozostają stabilne; zmienność implikowana (IV) oscyluje wokół 25.14% (zmiana marginalna +0.05 p.p. od początku tygodnia), przy stosunku Put/Call OI na poziomie 1.13.
+
+**Werdykt Kwantowy:**
+Układ znajduje się w fazie silnej akrecji masy i koncentracji energii w Osobliwościach. Wysoki bilans CVD przy jednoczesnym wzroście gęstości Jądra wskazuje na stabilizację nowej, wyższej orbity grawitacyjnej.
+
+**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+
+
+---
+
 ## Log #0228: Podsumowanie sesji 2026-11-13: NDX 27943.35 (-1.22%)
 
 Data: 2026-11-13 22:04
@@ -1308,24 +1395,5 @@ Adres: https://heniu.blog/posts/log-0219/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamenty #0062: Vertex Pharmaceuticals: wyniki za 3Q2026
-
-Data: 2026-11-03 13:33
-Adres: https://heniu.blog/f-log/flog-2026-11-03-0062/
-
-
-Przychody Vertex Pharmaceuticals (VRTX) w III kwartale wzrosły o 11,8% r/r do poziomu 3,44 mld USD, podczas gdy zysk na akcję (księgowy, podstawowy) spadł o 39,1% r/r do 2,58 USD.
-
-### Prognoza spółki
-
-Na cały rok 2026 spółka spodziewa się przychodów w przedziale 13,15 mld USD – 13,25 mld USD, w tym przychodów ze sprzedaży „PALSONIFY” na poziomie 40,00 mln USD – 50,00 mln USD.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że kontakty z amerykańskim regulatorem w sprawie povetaceptu przebiegają zgodnie z planem i spółka oczekuje na termin decyzji. Według zarządu povetacept jest wytwarzany przez tego samego producenta od początku badań, co pozwala na spokojną ocenę wniosku oraz kwestii produkcji. Zarząd wskazywał również na zainteresowanie nefrologów povetaceptem oraz chęć stosowania go po dopuszczeniu do obrotu. Według zarządu działanie na przyczynę choroby nerek zapewnia lepsze efekty, co zwiększa pewność co do wyników anaxaplinu. Zarząd zaznaczył, że w przypadku leku przeciwbólowego JOURNAVX świadomie utrzymuje program wsparcia pacjentów, aby dostosować lekarzy do nowych nawyków, dopóki nie zostanie zapewniona pełna refundacja. W kwestii mukowiscydozy zarząd stwierdził, że wybór najlepszego leku nowej generacji nastąpi dopiero po uzyskaniu wyników wszystkich kandydatów.
 
 
