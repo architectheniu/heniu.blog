@@ -1,6 +1,6 @@
 # M15: 2026-11-16
 
-Data: 2026-11-16 14:29
+Data: 2026-11-16 14:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.16 [PT-BR]</h1>
+<h3>⏱️ [2026-11-16 14:59] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>27642.50</strong> (-1.40%; desde a entrada anterior +15.50 pts, +0.06%) · parcela da amplitude média diária (ADR) utilizada <strong>79.26%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>-11.55 K</strong> [sell-off] (desde a entrada anterior +1.41 K) · indicador de direção <strong>-50</strong> (escala ±100; +0)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista às 15:30 (horário da Polônia).</li>
+</ul>
+<p>O valor do contrato NQ aumentou ligeiramente em relação à entrada anterior, apesar da tendência de queda observada anteriormente.</p>
 <h3>⏱️ [2026-11-16 14:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>27627.00</strong> (-1.45%; desde a entrada anterior -54.75 pts, -0.20%) · parcela da amplitude média diária (ADR) utilizada <strong>79.26%</strong></li>
