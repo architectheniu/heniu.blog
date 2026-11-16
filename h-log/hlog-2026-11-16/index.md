@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 18:07
+Data: 2026-11-16 19:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.16</h1>
+<h3>📈 [2026-11-16 19:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Indeks NDX znajduje się w fazie spadkowej, tracąc 2.26% (cena 27311.14). Od szczytu z dnia 11.11 (28593.00) odnotowano cofnięcie o 4.48% (-1282 pkt). Obecna korekta jest głębsza niż 44% historycznych korekt w analizowanym okresie, co klasyfikuje ją jako zwykłe cofnięcie w ramach trendu.</li>
+<li><strong>Przepływy kapitałowe i sentyment:</strong> Odnotowano silną dystrybucję aktywów. Skumulowany przepływ (CVD) dla NDX wynosi -126,98 M, dla kontraktów NQ -44,41 K, a dla ETF QQQ -1,48 M. Wskaźnik kierunku przepływów wynosi -28, co potwierdza przewagę odpływu kapitału z rynku. Szeroki rynek (TICKQ) wykazuje silną presję sprzedażową na poziomie -362.00 przy średniej SMA200 wynoszącej 11.37.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 28.18%, a stosunek wolumenu Put/Call (PCR) kształtuje się na poziomie 1.04, co wskazuje na lekką przewagę pozycji zabezpieczających przed dalszymi spadkami. Przy wolumenie opcji 4,643,463, oczekiwany przez rynek zasięg ruchu mieści się w przedziale 657.46 do 676.66.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 26990–27010 (0.8% wolumenu). Strefa oporu znajduje się powyżej, w przedziale 27640–27660 (0.6% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-11-16 19:07</p>
 <h3>📈 [2026-11-16 18:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
