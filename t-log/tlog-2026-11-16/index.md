@@ -1,6 +1,6 @@
 # M15: 2026-11-16
 
-Data: 2026-11-16 16:29
+Data: 2026-11-16 16:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.16</h1>
+<h3>⏱️ [2026-11-16 16:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27344.77</strong> (-2.14%; od poprzedniego wpisu +35.08 pkt) · NQ <strong>27428.75</strong> (-2.16%; +31.75 pkt) · QQQ <strong>665.22 USD</strong> (-2.16%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-111.91 M</strong> [panika] · CVD NQ <strong>-34.36 K</strong> [wyprzedaż] (od poprzedniego wpisu +2.77 K) · CVD QQQ <strong>-1.39 M</strong> [wyprzedaż] · TICKQ <strong>-265</strong> [załamanie rynku] · średnia SMA200 <strong>17.03</strong> [test popytu] (+1.40) · wskaźnik kierunku <strong>-23</strong> (skala ±100; +5)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.85 bln USD</strong> (od poprzedniego wpisu +0.06 bln USD) · udział spółek powyżej 1 bln USD <strong>68.8%</strong> (+0.0 pp) · średnia cena akcji <strong>283.04 USD</strong> (+0.59 USD) · opcje QQQ: zmienność implikowana <strong>28.29%</strong>, put/call <strong>1.23</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>26990–27010</strong> (1.22% niżej) · najbliższa powyżej ceny <strong>27640–27660</strong> (1.08% wyżej)</li>
+</ul>
+<p>Od ostatniego wpisu uległo pogłębieniu ujemne saldo przepływów wskaźnika CVD dla kontraktów NQ oraz dla funduszu QQQ. Cena znajduje się obecnie powyżej najbliższego wsparcia i poniżej najbliższego oporu.</p>
 <h3>⏱️ [2026-11-16 16:29] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27309.69</strong> (-2.27%; od poprzedniego wpisu -53.88 pkt) · NQ <strong>27397.00</strong> (-2.26%; -54.75 pkt) · QQQ <strong>664.48 USD</strong> (-2.27%)</li>
