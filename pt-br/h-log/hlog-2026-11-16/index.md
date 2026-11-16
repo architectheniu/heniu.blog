@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 19:08
+Data: 2026-11-16 20:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.16 [PT-BR]</h1>
+<h3>📈 [2026-11-16 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado:</strong> O Índice NDX registra uma queda de -2.38% (preço 27276.84), o que representa um recuo de 4.60% (-1316 pts) desde o pico do dia 11.11 (28593.00). O mercado encontra-se em fase de distribuição, o que é confirmado pelo indicador de direção agregado de fluxos no nível de -38, indicando uma clara predominância de saída de capital.</li>
+<li><strong>Fluxos e volume:</strong> No mercado à vista, observa-se uma forte pressão de venda. O fluxo acumulado (CVD) para NDX é de -132,6 M, para QQQ é de -1,56 M, enquanto os contratos NQ apresentam CVD no nível de -54,36 K. A amplitude de mercado (TICKQ) encontra-se em um estado de forte dominância de oferta com o valor de -18.00 (com a média SMA200 em 10.10).</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) é de 29.59%, com volume de opções no nível de 5,703,292. O Put/Call Ratio no nível de 1.08 sugere uma leve predominância de posições de proteção (hedging) ou expectativas de quedas adicionais. O alcance esperado de movimento para QQQ situa-se no intervalo de 655.73 – 675.17.</li>
+<li><strong>Níveis técnicos:</strong> O nível de suporte relevante mais próximo encontra-se na zona de nó de volume 26990–27010 (0.8% do volume). Do lado da resistência, a zona de concentração de volume mais próxima está no nível 27640–27660 (0.6% do volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-16 20:07</p>
 <h3>📈 [2026-11-16 19:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
