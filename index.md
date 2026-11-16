@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-11-17](https://heniu.blog/h-log/hlog-2026-11-17/index.md) (2026-11-17)
 - [H1: 2026-11-16](https://heniu.blog/h-log/hlog-2026-11-16/index.md) (2026-11-16)
 - [M15: 2026-11-16](https://heniu.blog/t-log/tlog-2026-11-16/index.md) (2026-11-16)
 - [Log #0230: Podsumowanie sesji 2026-11-16: NDX 27204.67 (-2.67%)](https://heniu.blog/posts/log-0230/index.md) (2026-11-16)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0066: Thomson Reuters: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0066/index.md) (2026-11-04)
 - [Fundamenty #0065: Booking: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0065/index.md) (2026-11-04)
 - [Fundamenty #0064: Advanced Micro Devices: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0064/index.md) (2026-11-04)
-- [Fundamenty #0063: Apple: wyniki za 4Q2026](https://heniu.blog/f-log/flog-2026-11-03-0063/index.md) (2026-11-03)
 
