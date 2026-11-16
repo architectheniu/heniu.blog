@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 07:08
+Data: 2026-11-16 08:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.16 [PT-BR]</h1>
+<h3>📈 [2026-11-16 08:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se nos contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos:</strong> Os contratos NQ estão sendo negociados no nível 27772.75 (-0.94%), com um fluxo acumulado (CVD) de -8,83 K, o que indica um teste de oferta. O Índice Nasdaq-100 (NDX) caiu 1.22% (27943.74), com o fluxo acumulado (CVD) na a sessão à vista (Spot) em -206,79 M, o que reflete uma forte pressão de venda.</li>
+<li><strong>Sentimento e opções:</strong> O indicador de direção agregado de fluxos é de -50, o que significa uma clara vantagem da distribuição de capital. No setor de opções sobre QQQ, a volatilidade implícita (IV) é de 25.73%, e o Put/Call Ratio no nível de 1.05 sugere um leve deslocamento em direção a proteções contra quedas. O alcance de movimento esperado pelo mercado para o ETF QQQ está na faixa de 671.38 – 688.40.</li>
+<li><strong>Análise técnica e níveis:</strong> O Recuo desde o pico do Heniu de 11.11 (28593.00) é de 2.27% (-649 pts), o que classifica o movimento como um recuo comum, sendo mais raso do que correções históricas. As zonas de suporte mais próximas (nós de volume) estão na faixa de 27920–27940. A zona de resistência está acima, na faixa de 27950–27970.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-16 08:07</p>
 <h3>📈 [2026-11-16 07:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>A sessão de futuros</strong>. A sessão à vista (Spot) está atualmente fechada.</p>
