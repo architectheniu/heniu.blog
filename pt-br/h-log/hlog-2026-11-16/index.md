@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 13:08
+Data: 2026-11-16 14:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.16 [PT-BR]</h1>
+<h3>📈 [2026-11-16 14:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong><br />
+<em>Nota: a sessão à vista (Spot) está atualmente fechada; a Radiação de Fundo (TICKQ) está inativa.</em></p>
+<ul>
+<li><strong>Situação do mercado:</strong> O contrato NQ está sendo negociado em 27700.25 (-1.20%), o que reflete a pressão de venda observada no fechamento da sessão à vista (NDX: 27943.74, -1.22%). O indicador de direção de fluxo agregado é -50, o que indica uma clara predominância de distribuição de capital.</li>
+<li><strong>Análise de fluxos (CVD):</strong> Foi registrado um forte sell-off nos contratos NQ (CVD: -11.8K) e um teste de oferta no ETF QQQ (CVD: -424.65K). Na sessão à vista (NDX), registrou-se um fluxo acumulado (CVD) de -206.79M de ações, o que confirma a intensidade do sell-off atual.</li>
+<li><strong>Níveis técnicos:</strong> O índice está em uma fase de Recuo desde o pico de 11.11 (28593.00), representando atualmente -2.27% (-649 pts). A zona de suporte mais próxima (zona de volume) encontra-se no intervalo 27920–27940, enquanto a resistência técnica está localizada acima de 27950–27970.</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) é de 25.73%, com a relação Put/Call Volume em 1.05. O volume de opções (8,492,405) e o nível atual de PCR sugerem a construção de posições de hedge diante das quedas. O alcance de movimento esperado para o QQQ está no intervalo de 671.38 a 688.40.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-16 14:07</p>
 <h3>📈 [2026-11-16 13:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
