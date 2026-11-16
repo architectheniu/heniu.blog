@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 04:07
+Data: 2026-11-16 05:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.16</h1>
+<h3>📈 [2026-11-16 05:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach:</strong> Kontrakty NQ notowane są na poziomie 27851.50 (-0.66%), przy skumulowanym przepływie CVD wynoszącym -9k, co wskazuje na testowanie podaży. Indeks NDX zamknął sesję kasową z wynikiem -1.22% (27943.74) przy znacznym ujemnym przepływie CVD na poziomie -206,79 M, co sugeruje silną presję sprzedażową w trakcie sesji.</li>
+<li><strong>Sentyment i opcje:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi -50, co oznacza wyraźną przewagę dystrybucji kapitału. Na rynku opcji QQQ odnotowano wolumen 8,492,405 przy współczynniku Put/Call Ratio na poziomie 1.05, co wskazuje na zwiększoną aktywność w zakresie zabezpieczeń spadkowych (hedging). Zmienność implikowana (IV) wynosi 25.73%, a oczekiwany zasięg ruchu mieści się w przedziale 671.38 – 688.40.</li>
+<li><strong>Analiza techniczna i poziomy:</strong> Obecne cofnięcie indeksu NDX od szczytu z 11.11 (28593.00) wynosi -2.27% (-649 pkt), co klasyfikuje ruch jako zwykłe cofnięcie, głębsze niż mediana historycznych korekt. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 27920–27940, natomiast opór wyznaczony jest przez strefę 27950–27970.</li>
+</ul>
+<p>Raport H-Log: 2026-11-16 05:07</p>
 <h3>📈 [2026-11-16 04:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
