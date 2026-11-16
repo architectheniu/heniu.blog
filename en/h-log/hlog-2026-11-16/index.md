@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Date: 2026-11-16 11:07
+Date: 2026-11-16 12:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-16/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.16 [EN]</h1>
+<h3>📈 [2026-11-16 12:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>Contract situation:</strong> NQ contracts are trading at 27804.75 (-0.82%), with a cumulative flow (CVD) of -8,38 K, indicating a supply test. The aggregate flow direction gauge is -50, confirming the dominance of capital distribution.</li>
+<li><strong>QQQ Options Analysis:</strong> Implied volatility (IV) is 25.73%, and the Put/Call Ratio at 1.05 suggests a slight advantage of hedging positions over longs. The market-expected movement range within options lies between 671.38 and 688.40.</li>
+<li><strong>Technical levels:</strong> The NDX index is in a phase of drawdown from the peak of 11.11 (28593.00), currently amounting to -2.27% (-649 pts). The nearest support zone (volume node) is in the 27920–27940 range, while resistance is located above 27950–27970.</li>
+<li><strong>Correction context:</strong> The current withdrawal is classified as a standard drawdown, being a shallower deviation than the previous 9 recorded corrections.</li>
+</ul>
+<p>H-Log Report: 2026-11-16 12:07</p>
 <h3>📈 [2026-11-16 11:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
