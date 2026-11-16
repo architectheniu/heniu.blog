@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 16:07
+Data: 2026-11-16 17:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.16</h1>
+<h3>📈 [2026-11-16 17:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX znajduje się w trendzie spadkowym (-1.71%), osiągając cenę 27464.74. Skumulowany przepływ kapitału (CVD) dla NDX wynosi -106,27 M, co wskazuje na silną presję sprzedażową. Podobny kierunek obserwujemy w kontraktach NQ (27551.25, -1.72%, CVD -25,17 K) oraz ETF QQQ (668.18, -1.72%, CVD -993,36 K). Wskaźnik kierunku przepływów wynosi -20, co potwierdza przewagę dystrybucji kapitału na rynku. Szeroki rynek Nasdaq (TICKQ) wykazuje silną negatywną dynamikę na poziomie -147.00 przy średniej SMA200 wynoszącej 19.39.</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 28.13%. Wskaźnik Put/Call Volume Ratio na poziomie 1.18 sugeruje przewagę pozycji zabezpieczających (hedgingu) lub oczekiwania na dalszą presję spadkową. Wolumen obrotu na opcjach wynosi 2,291,694, a oczekiwany przez rynek zasięg ruchu mieści się w przedziale od 654.85 do 675.55 punktów.</p>
+</li>
+<li>
+<p><strong>Kontekst techniczny i poziomy:</strong> Obecne cofnięcie od szczytu z 11.11 (28593.00) wynosi -3.95% (-1128 pkt). Jest to klasyczne cofnięcie, mieści się w granicach historycznych median korekt. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 26990–27010 (odległość 1.66% od obecnej ceny). Najbliższa strefa oporu to 27640–27660 (odległość 0.64% od obecnej ceny).</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-11-16 17:07</p>
 <h3>📈 [2026-11-16 16:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
