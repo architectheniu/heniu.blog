@@ -1,6 +1,6 @@
 # M15: 2026-11-16
 
-Date: 2026-11-16 17:44
+Date: 2026-11-16 17:59
 URL: https://heniu.blog/en/t-log/tlog-2026-11-16/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.16 [EN]</h1>
+<h3>⏱️ [2026-11-16 17:59] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27474.81</strong> (-1.68%; since the previous entry +14.18 pts) · NQ <strong>27567.00</strong> (-1.68%; +17.25 pts) · QQQ <strong>668.51 USD</strong> (-1.67%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-92.19 M</strong> [panic] · CVD NQ <strong>-27.15 K</strong> [sell-off] (since the previous entry -2.10 K) · CVD QQQ <strong>-895.37 K</strong> [supply test] · TICKQ <strong>-72</strong> [sell-off] · SMA200 average <strong>17.95</strong> [demand test] (+2.04) · direction gauge <strong>-28</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.97 trillion USD</strong> (since the previous entry -0.04 trillion USD) · share of companies above 1 trillion USD <strong>68.8%</strong> (+0.0 pp) · average share price <strong>284.74 USD</strong> (+0.26 USD) · QQQ options: implied volatility <strong>27.54%</strong>, put/call <strong>1.03</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26990–27010</strong> (1.69% lower) · nearest above the price <strong>27640–27660</strong> (0.60% higher)</li>
+</ul>
+<p>Implied volatility on QQQ options and the put-to-call ratio indicate the current level of market expectations. The NDX index price is above the nearest support, but remains below the nearest resistance.</p>
 <h3>⏱️ [2026-11-16 17:44] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27460.63</strong> (-1.73%; since the previous entry -44.09 pts) · NQ <strong>27549.75</strong> (-1.73%; -47.50 pts) · QQQ <strong>668.12 USD</strong> (-1.73%)</li>
