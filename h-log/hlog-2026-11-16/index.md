@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 20:07
+Data: 2026-11-16 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.16</h1>
+<h3>📈 [2026-11-16 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Rynek znajduje się w silnej fazie dystrybucji. Indeks NDX spadł o 2.47% do poziomu 27253.76, przy czym skumulowany przepływ (CVD) na NDX wynosi -135.68M, co wskazuje na intensywną wyprzedaż. Podobną dynamikę obserwujemy w kontraktach NQ (cena 27342.25, spadek o 2.48%, CVD -58.69K) oraz w ETF QQQ (cena 663.11, spadek o 2.47%, CVD -1.5M). Zbiorczy wskaźnik kierunku przepływów wynosi -38, co potwierdza dominację odpływu kapitału z rynku. Szeroki rynek (TICKQ) znajduje się w głębokim ujemnym stanie (-307.00), znacznie poniżej średniej SMA200 (2.47).</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Rynek opcji wykazuje wzrost oczekiwań na zmienność (IV: 29.60%). Put/Call Volume Ratio na poziomie 1.07 przy wolumenie 6,753,789 wskazuje na lekką przewagę pozycji zabezpieczających (hedging) lub spekulacyjnych na spadki. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 654.42 do 673.88.</p>
+</li>
+<li>
+<p><strong>Kontekst techniczny i poziomy:</strong> Bieżące cofnięcie od szczytu z dnia 11.11 (28593.00) wynosi 4.68% (-1339 pkt). Jest to korekta o charakterze zwykłym, głębsza niż 44% historycznych korekt w analizowanym okresie. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 26990–27010 (0.8% wolumenu poniżej bieżącej ceny). Strefa oporu znajduje się powyżej, w przedziale 27640–27660 (0.6% wolumenu).</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-11-16 21:07</p>
 <h3>📈 [2026-11-16 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
