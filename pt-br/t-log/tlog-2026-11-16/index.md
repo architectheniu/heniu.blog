@@ -1,6 +1,6 @@
 # M15: 2026-11-16
 
-Data: 2026-11-16 21:59
+Data: 2026-11-16 22:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.16 [PT-BR]</h1>
+<h3>⏱️ [2026-11-16 22:29] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>27302.25</strong> (-2.61%; desde a entrada anterior +43.75 pts, +0.16%) · parcela da amplitude média diária (ADR) utilizada <strong>114.16%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>-38.05 K</strong> [sell-off] (desde a entrada anterior +22.42 K) · indicador de direção <strong>20</strong> (escala ±100; +70)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista na terça-feira às 15:30 (horário da Polônia).</li>
+</ul>
+<p>No nível de aproximadamente 27268, um novo nó de volume foi criado, e as cotações atuais encontram-se acima deste ponto, o que significa que ele constitui um suporte.</p>
+<p><strong>Alarmes de fluxo desde a entrada anterior:</strong> 22:22 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>⏱️ [2026-11-16 21:59] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27171.67</strong> (-2.76%; desde a entrada anterior -0.22 pts) · NQ <strong>27258.50</strong> (-2.77%; -0.75 pts) · QQQ <strong>661.06 USD</strong> (-2.77%)</li>

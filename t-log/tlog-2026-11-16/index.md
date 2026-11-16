@@ -1,6 +1,6 @@
 # M15: 2026-11-16
 
-Data: 2026-11-16 21:59
+Data: 2026-11-16 22:29
 Adres: https://heniu.blog/t-log/tlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.16</h1>
+<h3>⏱️ [2026-11-16 22:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
+<ul>
+<li><strong>Kontrakt NQ:</strong> <strong>27302.25</strong> (-2.61%; od poprzedniego wpisu +43.75 pkt, +0.16%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>114.16%</strong></li>
+<li><strong>Przepływ NQ:</strong> CVD <strong>-38.05 K</strong> [wyprzedaż] (od poprzedniego wpisu +22.42 K) · wskaźnik kierunku <strong>20</strong> (skala ±100; +70)</li>
+<li>NDX, QQQ, szerokość rynku i koszyk spółek wracają z otwarciem sesji kasowej we wtorek o 15:30 czasu polskiego.</li>
+</ul>
+<p>Na poziomie około 27268 powstał nowy węzeł wolumenowy, a obecne notowania znajdują się powyżej tego punktu, co oznacza, że stanowi on wsparcie.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 22:22 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-16 21:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27171.67</strong> (-2.76%; od poprzedniego wpisu -0.22 pkt) · NQ <strong>27258.50</strong> (-2.77%; -0.75 pkt) · QQQ <strong>661.06 USD</strong> (-2.77%)</li>
