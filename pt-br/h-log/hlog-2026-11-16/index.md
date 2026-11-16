@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 15:08
+Data: 2026-11-16 16:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.16 [PT-BR]</h1>
+<h3>📈 [2026-11-16 16:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O mercado encontra-se em uma forte fase de distribuição. O Índice Nasdaq-100 (NDX) caiu 2.31% para o nível 27293.72, com o fluxo acumulado (CVD) em -124.33M de ações. Isso é confirmado pelos contratos NQ (27392.75, -2.31%, CVD -43.73K) e pelo ETF QQQ (664.21, -2.30%, CVD -1.78M). O indicador de direção de fluxos é de -28, o que significa uma clara vantagem de sell-off sobre compras. A Amplitude de mercado (TICKQ) mostra uma forte pressão de venda no nível -319.00, com uma média SMA200 de 17.52.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 27.54%, com um volume de opções de 869,023. O Put/Call Ratio é de 1.20, o que indica um aumento na atividade no setor de proteção contra quedas (hedging). O alcance esperado do movimento do instrumento situa-se no intervalo de 659.39 a 681.71.</li>
+<li><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico do Heniu do dia 11.11 (28593.00) é de 4.54% (-1299 pts). Esta é uma correção com profundidade maior do que em 44% dos casos no histórico de medições, o que classifica o movimento atual como um recuo comum. A zona de volume (suporte) mais próxima encontra-se no intervalo 26990–27010 (distância de 1.04% do preço atual). A zona de resistência mais próxima é 27640–27660 (distância de 1.27% do preço atual).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-16 16:07</p>
 <h3>📈 [2026-11-16 15:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Date: 2026-11-16 15:08
+Date: 2026-11-16 16:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-16/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.16 [EN]</h1>
+<h3>📈 [2026-11-16 16:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The market is in a strong distribution phase. The NDX index fell by 2.31% to the level of 27293.72, with a cumulative flow (CVD) at -124.33M shares. This is confirmed by NQ futures contracts (27392.75, -2.31%, CVD -43.73K) and the QQQ ETF (664.21, -2.30%, CVD -1.78M). The direction gauge is -28, which signifies a clear dominance of sell-offs over buying. The Nasdaq market breadth (TICKQ) shows strong selling pressure at -319.00, with a SMA200 average of 17.52.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 27.54%, with an options volume of 869,023. The Put/Call Ratio is 1.20, indicating increased activity in the hedging sector. The expected range of movement for the instrument is between 659.39 and 681.71.</li>
+<li><strong>Technical context and levels:</strong> The current drawdown from the peak on 11.11 (28593.00) is 4.54% (-1299 pts). This is a correction deeper than in 44% of cases from the history of measurements, which classifies the current move as a standard drawdown. The nearest support zone (volume node) is in the 26990–27010 range (a distance of 1.04% from the current price). The nearest resistance zone is 27640–27660 (a distance of 1.27% from the current price).</li>
+</ul>
+<p>H-Log Report: 2026-11-16 16:07</p>
 <h3>📈 [2026-11-16 15:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
