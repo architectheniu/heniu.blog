@@ -1,6 +1,6 @@
 # M15: 2026-11-16
 
-Data: 2026-11-16 17:29
+Data: 2026-11-16 17:44
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.16 [PT-BR]</h1>
+<h3>⏱️ [2026-11-16 17:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27460.63</strong> (-1.73%; desde a entrada anterior -44.09 pts) · NQ <strong>27549.75</strong> (-1.73%; -47.50 pts) · QQQ <strong>668.12 USD</strong> (-1.73%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-92.1 M</strong> [pânico] · CVD NQ <strong>-25.05 K</strong> [sell-off] (desde a entrada anterior -7.20 K) · CVD QQQ <strong>-1.03 M</strong> [sell-off] · TICKQ <strong>-580</strong> [colapso do mercado] · média SMA200 <strong>15.91</strong> [teste de demanda] (-1.33) · indicador de direção <strong>-28</strong> (escala ±100; -8)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>39.01 trilhões de USD</strong> (desde a entrada anterior +0.06 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>68.8%</strong> (+0.0 p.p.) · preço médio das ações <strong>284.47 USD</strong> (-0.58 USD) · opções sobre QQQ: volatilidade implícita <strong>27.47%</strong>, put/call <strong>1.05</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>26990–27010</strong> (1.64% abaixo) · mais próxima acima do preço <strong>27640–27660</strong> (0.65% acima)</li>
+</ul>
+<p>Todos os fluxos CVD analisados para os índices NDX, NQ e QQQ mostram uma direção negativa, o que significa que o sell-off está ocorrendo em todos os três instrumentos. Desde a entrada anterior, foi registrado um aprofundamento do sell-off no NQ e uma queda adicional no fluxo CVD para o NDX. O preço encontra-se atualmente acima do suporte mais próximo, mas abaixo da resistência.</p>
 <h3>⏱️ [2026-11-16 17:29] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27504.72</strong> (-1.57%; desde a entrada anterior +110.13 pts) · NQ <strong>27597.25</strong> (-1.56%; +115.50 pts) · QQQ <strong>669.31 USD</strong> (-1.56%)</li>
