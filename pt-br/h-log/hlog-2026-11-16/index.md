@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 12:08
+Data: 2026-11-16 13:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.16 [PT-BR]</h1>
+<h3>📈 [2026-11-16 13:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos e índices:</strong> Os contratos NQ apresentam quedas de -1.29% (preço 27670.75) com o fluxo acumulado CVD no nível de -12,38 K, o que indica um sell-off. O índice NDX caiu -1.22% para o nível 27943.74, com um fluxo CVD negativo muito forte de -206,79 M, o que demonstra pânico nos fluxos de capital. O indicador de direção agregado dos fluxos é de -50, o que confirma uma clara vantagem da distribuição sobre a acumulação.</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 25.73%, com um volume de opções no nível de 8,492,405. O Put/Call Volume Ratio é de 1.05, o que sugere uma leve vantagem de posições de hedge contra quedas. O alcance de movimento esperado pelo mercado está na faixa de 671.38 a 688.40.</li>
+<li><strong>Níveis técnicos:</strong> O Recuo desde o pico do Heniu do índice NDX desde 11.11 (28593.00) é de -2.27% (-649 pts). Este é um recuo comum, mais profundo que a mediana das correções históricas. A zona de suporte mais próxima (nó de volume) encontra-se na faixa de 27920–27940, enquanto a resistência mais próxima é a zona de 27950–27970.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-16 13:07</p>
 <h3>📈 [2026-11-16 12:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
