@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Date: 2026-11-16 20:08
+Date: 2026-11-16 21:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-16/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.16 [EN]</h1>
+<h3>📈 [2026-11-16 21:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The market is in a strong distribution phase. The NDX index fell by 2.47% to the level of 27253.76, with the cumulative flow (CVD) on NDX at -135.68M, indicating an intensive sell-off. Similar dynamics are observed in the NQ futures contracts (price 27342.25, down 2.48%, CVD -58.69K) and in the QQQ ETF (price 663.11, down 2.47%, CVD -1.5M). The aggregate direction gauge of flows is -38, confirming the dominance of capital outflow from the market. Market breadth (TICKQ) is in a deep negative state (-307.00), significantly below the SMA200 average (2.47).</p>
+</li>
+<li>
+<p><strong>QQQ Options Analysis:</strong> The options market shows an increase in volatility expectations (IV: 29.60%). The Put/Call Volume Ratio at 1.07 with a volume of 6,753,789 indicates a slight advantage of hedging positions or speculative positions on the downside. The expected movement range for QQQ is within the interval of 654.42 to 673.88.</p>
+</li>
+<li>
+<p><strong>Technical context and levels:</strong> The current drawdown from the peak of 11.11 (28593.00) is 4.68% (-1339 pts). This is a standard correction, deeper than 44% of historical corrections in the analyzed period. The nearest support zone (volume node) is located in the 26990–27010 range (0.8% volume below current price). The resistance zone is located above, in the 27640–27660 range (0.6% volume).</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-11-16 21:07</p>
 <h3>📈 [2026-11-16 20:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
