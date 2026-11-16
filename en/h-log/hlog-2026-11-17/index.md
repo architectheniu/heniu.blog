@@ -1,0 +1,22 @@
+# H1: 2026-11-17
+
+Date: 2026-11-17 00:08
+URL: https://heniu.blog/en/h-log/hlog-2026-11-17/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.11.17 [EN]</h1>
+<h3>📈 [2026-11-17 00:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li>NQ contracts show stabilization at a price of 27292.50 (+0.04%), with negative cumulative flow (CVD: -1,01 K), suggesting a supply test. In the cash market (NDX), a strong anomaly was recorded: despite the index falling by -2.67%, the cumulative flow (CVD) was 68,18 M, indicating the presence of passive demand absorption during the session.</li>
+<li>The flow direction gauge is 20, meaning a moderate advantage in capital inflow. The current drawdown from peak (28593.00) is -4.86% (-1388 pts), classifying this move as a standard pullback, deeper than in 44% of historical cases.</li>
+<li>Key technical levels: the nearest support is located in the volume zone 26990–27010, while resistance is in the 27640–27660 zone.</li>
+<li>QQQ options data (IV: 28.71%, PCR: 1.04) with a volume of 8,506,238 indicates a slight advantage of Put positions, which, with an expected range of movement between 652.46 and 671.04, suggests the building of hedges against further volatility.</li>
+</ul>
+<p>H-Log Report: 2026-11-17 00:07</p>
+
