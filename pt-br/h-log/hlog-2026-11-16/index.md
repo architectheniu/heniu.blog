@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 01:08
+Data: 2026-11-16 02:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.16 [PT-BR]</h1>
+<h3>📈 [2026-11-16 02:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de Contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ estão sendo negociados a 28064.25 (+0.11%), com o fluxo acumulado (CVD) em -1,1 K, o que indica um teste de oferta. O Índice Nasdaq-100 (NDX) fechou a sessão à vista com um resultado de -1.22% (27943.74), com uma forte distribuição (CVD NDX: -206,79 M).</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador de direção agregado de fluxos é -50, o que confirma a predominância da distribuição de capital no ciclo atual.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 25.73%, e a relação Put/Call (PCR) no nível de 1.05 sugere uma leve vantagem de posições de proteção (hedging) ou a expectativa de maior pressão de venda. O alcance esperado de movimento para a Esfera de Dyson (QQQ) está na faixa de 671.38 – 688.40.</li>
+<li><strong>Níveis técnicos:</strong> O Recuo desde o pico do Heniu de 11.11 (28593.00) é de -2.27% (-649 pts), o que classifica a correção atual como um recuo comum. As zonas de suporte mais próximas (nós de volume) encontram-se na faixa de 27920–27940. A zona de resistência está acima, na faixa de 27950–27970.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-16 02:07</p>
 <h3>📈 [2026-11-16 01:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
