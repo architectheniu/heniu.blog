@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 16:08
+Data: 2026-11-16 17:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.16 [PT-BR]</h1>
+<h3>📈 [2026-11-16 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de mercado e fluxos:</strong> O Índice NDX encontra-se em tendência de queda (-1.71%), atingindo o preço de 27464.74. O fluxo de capital acumulado (CVD) para o NDX é de -106,27 mi, o que indica uma forte pressão de venda. Uma direção semelhante é observada nos contratos NQ (27551.25, -1.72%, CVD -25,17 K) e no ETF QQQ (668.18, -1.72%, CVD -993,36 K). O indicador de direção de fluxos é de -20, o que confirma a predominância da distribuição de capital no mercado. A amplitude de mercado Nasdaq (TICKQ) apresenta uma forte dinâmica negativa no nível de -147.00 com uma média SMA200 de 19.39.</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 28.13%. O Put/Call Volume Ratio no nível de 1.18 sugere uma predominância de posições de proteção (hedging) ou a expectativa de maior pressão de baixa. O volume de negociação em opções é de 2,291,694, e o alcance de movimento esperado pelo mercado situa-se no intervalo de 654.85 a 675.55 pontos.</p>
+</li>
+<li>
+<p><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico de 11.11 (28593.00) é de -3.95% (-1128 pkt). Este é um recuo clássico, situando-se dentro dos limites das medianas históricas de correções. A zona de suporte mais próxima (nó de volume) encontra-se no intervalo de 26990–27010 (distância de 1.66% do preço atual). A zona de resistência mais próxima é 27640–27660 (distância de 0.64% do preço atual).</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-11-16 17:07</p>
 <h3>📈 [2026-11-16 16:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
