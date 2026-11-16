@@ -7,6 +7,86 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Log #0230: Podsumowanie sesji 2026-11-16: NDX 27204.67 (-2.67%)
+
+Data: 2026-11-16 22:04
+Adres: https://heniu.blog/posts/log-0230/
+
+
+**Data sesji:** 2026-11-16
+
+> *Zamknięcie sesji 2026-11-16: NDX 27204.67 (-2.67%), NQ 27327.25 (-2.53%), QQQ 661.82 (-2.66%).*
+
+---
+
+### Przebieg sesji
+
+**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (15:30 PL) przy poziomach NDX 27543.64 oraz NQ 27656.50. W pierwszych 30 minutach NDX spadł o 95.05 pkt (-0.35%) do 27448.59, a NQ spadł o 125.00 pkt (-0.45%) do 27531.50. Najwyższy poziom NDX 27616.96 oraz NQ 27707.75 odnotowano o 9:45 ET (15:45 PL), natomiast minimum NDX 27149.84 oraz NQ 27239.25 wystąpiło o 15:38 ET (21:38 PL). Zamknięcie NDX na poziomie 27204.67 znajduje się 412.29 pkt poniżej maksimum i 54.83 pkt powyżej minimum.
+
+**Przepływy i szerokość rynku.** Kierunki skumulowanego przepływu (CVD) były rozbieżne, ponieważ NDX odnotował wynik dodatni 68,18 M, natomiast NQ ujemny -38,11 K, a QQQ ujemny -803,84 K. Szerokość rynku (TICKQ) na zamknięcie wyniosła -719.00, a średnia SMA200 z odczytów TICKQ wynosiła -4.21. Udział spółek powyżej 1 bln USD w kapitalizacji koszyka wyniósł 68.79%.
+
+**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX spadł o 82.76 pkt (-0.30%) do zamknięcia o 16:00 ET (22:00 PL). Na zamknięciu odnotowano anomalię MOC na poziomie +37,76 M. Zmienność implikowana (IV) dla opcji na QQQ wyniosła 29.04%, a stosunek put/call (OI) wynosił 1.12. Saldo transakcji insiderów w spółkach powyżej 1 bln USD wyniosło -8,47 mln USD, natomiast w całym Nasdaq-100 wyniosło -153,16 mln USD.
+
+**Bilans dnia.** Indeks Nasdaq-100 zamknął się ze spadkiem o 2.67%.
+
+---
+
+### Telemetria Zamknięcia
+
+* **Indeks Nasdaq-100 (NDX):** zamknięcie **27204.67 (-2.67%)**
+    * Przepływ skumulowany (CVD): **68,18 M [wystrzał rynku]**
+    * Anomalia na zamknięciu (MOC): **+37,76 M**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **81.62%**
+    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-12.88%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
+
+* **Kontrakt terminowy NQ:** zamknięcie **27327.25 (-2.53%)**
+    * Przepływ skumulowany (CVD): **−38,11 K [wyprzedaż]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **114.16%**
+
+* **ETF QQQ:** zamknięcie **661.82 (-2.66%)**
+    * Przepływ skumulowany (CVD): **−803,84 K [test podaży]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **81.61%**
+
+* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **-719.00 [panika]**
+    * Średnia 200 odczytów (SMA200): **-4.21 [test podaży]**
+
+* **Opcje na QQQ:**
+    * Zmienność implikowana (IV): **29.04%**
+    * Stosunek put/call (otwarte pozycje, OI): **1.12**
+
+* **Koszyk Nasdaq-100:**
+    * Łączna kapitalizacja: **38.61 bln USD** (zmiana od poprzedniego zamknięcia: **-1.03 bln USD**)
+    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **68.79%** (zmiana: **+0.11 pkt proc.**)
+    * Średnia cena akcji w koszyku: **$281.59** (zmiana: **$-7.13**)
+    * Zmiany w grupie spółek powyżej 1 bln USD: **bez zmian**
+
+* **Zdrowie danych sesji:** odczyty przez 100,0% sesji kasowej; bez luk dłuższych niż minuta; NDX bez zmiany dłużej niż 2 min w 0,0% odczytów; odrzucone nieaktualne odczyty: 123
+
+---
+
+[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0230/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Podsumowanie sesji Nasdaq-100 2026-11-16",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamenty #0082: Zgłoszenia spółek: Booking, QUALCOMM, Moderna; transakcje insiderów
 
 Data: 2026-11-16 10:10
@@ -1328,24 +1408,5 @@ W IV kwartale 2026 spółka spodziewa się przychodów w przedziale 16,49 mld US
 ### Co mówi zarząd
 
 Zarząd podkreślał, że popyt przewyższa podaż, dlatego spółka współpracuje z dostawcami w celu zwiększenia dostaw. Według zarządu planowane są wdrożenia u klientów, przy czym firma wie, do których centrów danych trafią jej akceleratory. Zarząd wskazał, że w obliczu drożejących komponentów koszty te mają być dzielone z klientami. Według zarządu koszty operacyjne mają rosnąć wolniej niż przychody, co ma podnieść marżę operacyjną. Zarząd zakłada słabszy przyszły rok na rynku komputerów osobistych i monitoruje poziom zapasów w kanale sprzedaży. Według zarządu wzrost sprzedaży procesorów serwerowych wynika głównie z liczby sprzedanych układów i rdzeni, a nie z wyższych cen.
-
-
----
-
-## Fundamenty #0063: Apple: wyniki za 4Q2026
-
-Data: 2026-11-03 23:42
-Adres: https://heniu.blog/f-log/flog-2026-11-03-0063/
-
-
-Przychody Apple (AAPL) w IV kwartale roku obrotowego 2026 wyniosły 114,48 mld USD (+11,7% r/r), a zysk na akcję (księgowy) wzrósł o 13,5% r/r do poziomu 2,10 USD.
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) wyniósł 2,11 USD (+14,1% r/r), przy zysku operacyjnym na poziomie 35,63 mld USD (+9,9% r/r).
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że Siri AI pełni rolę asystenta, którego możliwości będą stopniowo rozszerzane przy zachowaniu nacisku na prywatność i bezpieczeństwo. Według zarządu iPhone ma stać się inteligentnym osobistym centrum użytkownika, ponieważ przechowuje on najważniejsze dane, do których dostępu nie ma nawet spółka. Zarząd jest dobrej myśli co do długoterminowego wzrostu usług, wskazując na rosnącą liczbę aktywnych urządzeń jako fundament tego procesu. Według zarządu drożejące ceny pamięci wywierają presję na ceny produktów, co sprawia, że ważne są programy ułatwiające klientom zakup. Zarząd zaznaczył również, że w kolejnych kwartałach korzyść z tańszych zapasów będzie maleć w obliczu bezprecedensowych cen pamięci. Według zarządu produkcja nowego iPhone'a Duo rośnie, jednak trudno obecnie przewidzieć, kiedy podaż zrówna się z popytem.
 
 
