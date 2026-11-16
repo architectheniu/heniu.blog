@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0230: SESSION REPORT 2026-11-16: NDX 27204.67 (-2.67%)
+
+Date: 2026-11-16 22:04
+URL: https://heniu.blog/en/posts/log-0230/
+
+
+**Session date:** 2026-11-16
+
+> *Session close 2026-11-16: NDX 27204.67 (-2.67%), NQ 27327.25 (-2.53%), QQQ 661.82 (-2.66%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session started at 9:30 ET (15:30 PL) at NDX levels of 27543.64 and NQ 27656.50. In the first 30 minutes, NDX fell by 95.05 pts (-0.35%) to 27448.59, and NQ fell by 125.00 pts (-0.45%) to 27531.50. The highest NDX level of 27616.96 and NQ 27707.75 was recorded at 9:45 ET (15:45 PL), while the NDX minimum of 27149.84 and NQ 27239.25 occurred at 15:38 ET (21:38 PL). The NDX close at 27204.67 is 412.29 pts below the maximum and 54.83 pts above the minimum.
+
+**Flows and market breadth.** Cumulative flow (CVD) directions were divergent, as NDX recorded a positive result of 68.18 M, while NQ was negative at -38.11 K, and QQQ was negative at -803.84 K. Market breadth (TICKQ) at close was -719.00, and the SMA200 average of TICKQ readings was -4.21. The share of companies above 1 trillion USD in the basket capitalization was 68.79%.
+
+**End of session, options, and companies.** In the last hour of the session, NDX fell by 82.76 pts (-0.30%) to a close at 16:00 ET (22:00 PL). At the close, a MOC Anomaly of +37.76 M was recorded. Implied volatility (IV) for options on QQQ was 29.04%, and the put/call ratio (OI) was 1.12. Insider transaction balance in companies above 1 trillion USD was -8.47 million USD, while in the entire Nasdaq-100 it was -153.16 million USD.
+
+**Day's balance.** The Nasdaq-100 index closed with a decrease of 2.67%.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **27204.67 (-2.67%)**
+    * Cumulative flow (CVD): **68.18 M [market flare]**
+    * MOC Anomaly at close: **+37.76 M**
+    * Average Daily Range (ADR) utilization: **81.62%**
+    * Drawdown from Heniu's highest close: **-12.88%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **27327.25 (-2.53%)**
+    * Cumulative flow (CVD): **−38.11 K [sell-off]**
+    * Average Daily Range (ADR) utilization: **114.16%**
+
+* **QQQ ETF:** close **661.82 (-2.66%)**
+    * Cumulative flow (CVD): **−803.84 K [supply test]**
+    * Average Daily Range (ADR) utilization: **81.61%**
+
+* **Market breadth (TICKQ):** reading at close **-719.00 [panic]**
+    * 200 readings average (SMA200): **-4.21 [supply test]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **29.04%**
+    * Put/call ratio (open interest, OI): **1.12**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **38.61 trillion USD** (change from previous close: **-1.03 trillion USD**)
+    * Share of companies above 1 trillion USD in basket capitalization: **68.79%** (change: **+0.11 pp**)
+    * Average share price in the basket: **$281.59** (change: **$-7.13**)
+    * Changes in the group of companies above 1 trillion USD: **no change**
+
+* **Session data health:** readings for 100.0% of the cash session; no gaps longer than a minute; NDX unchanged for more than 2 min in 0.0% of readings; stale readings rejected: 123
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0230/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-11-16",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0082: Company filings: Booking, QUALCOMM, Moderna; insider transactions
 
 Date: 2026-11-16 10:10
@@ -1280,85 +1360,5 @@ Earnings per share (accounting, basic) was 2.11 USD (+14.1% year over year), wit
 ### What management says
 
 Management emphasized that Siri AI serves as an assistant whose capabilities will be gradually expanded while maintaining an emphasis on privacy and security. According to management, the iPhone is set to become the user's intelligent personal hub, as it stores the most important data to which even the company does not have access. Management is optimistic about long-term services growth, pointing to the growing number of active devices as the foundation of this process. According to management, rising memory prices are putting pressure on product prices, making programs that facilitate customer purchases important. Management also noted that in subsequent quarters, the benefit from cheaper inventory will decrease in the face of unprecedented memory prices. According to management, production of the new iPhone Duo is growing, however, it is currently difficult to predict when supply will meet demand.
-
-
----
-
-## Log #0219: SESSION REPORT 2026-11-03: NDX 28180.26 (+0.68%)
-
-Date: 2026-11-03 22:04
-URL: https://heniu.blog/en/posts/log-0219/
-
-
-**Session date:** 2026-11-03
-
-> *Session close 2026-11-03: NDX 28180.26 (+0.68%), NQ 28302.75 (+0.62%), QQQ 685.34 (+0.62%).*
-
----
-
-### Session overview
-
-**Opening and main move of the day.** The session began at 9:30 ET (15:30 PL) at NDX level 28096.64. In the first 30 minutes, the NDX index rose by 57.86 pts (+0.21%) to the level of 28154.50. The lowest NDX level was recorded at 9:30 ET (15:30 PL), and the highest at 11:03 ET (17:03 PL). The close at the level of 28180.26 lies 124.54 pts below the session maximum.
-
-**Flows and market breadth.** Cumulative flow (CVD) directions for NDX, NQ, and QQQ were negative and consistent across all three instruments. The TICKQ reading at close was -757.00, while the SMA200 average was 7.73. The share of companies with a capitalization above 1 trillion USD in the basket was 66.11%.
-
-**End of session, options and companies.** In the last hour of the session, NDX rose by 45.66 pts (+0.16%) to the level of 28180.26. The MOC Anomaly at close was -30.58 M. Implied volatility (IV) for options on QQQ was 27.63%, and the put/call ratio was 1.26.
-
-**Day's balance.** The Nasdaq-100 index closed at 28180.26, representing an increase of 0.68%.
-
----
-
-### Closing Telemetry
-
-* **Nasdaq-100 index (NDX):** close **28180.26 (+0.68%)**
-    * Cumulative flow (CVD): **−67,89 M [market crash]**
-    * MOC Anomaly: **-30.58 M**
-    * Average Daily Range (ADR) utilization: **46.98%**
-    * Drawdown from Heniu's peak / highest close: **-9.76%** (highest close: **31226.82**, 2026-10-06)
-
-* **NQ futures contract:** close **28302.75 (+0.62%)**
-    * Cumulative flow (CVD): **−12.14 K [sell-off]**
-    * Average Daily Range (ADR) utilization: **60.60%**
-
-* **QQQ ETF:** close **685.34 (+0.62%)**
-    * Cumulative flow (CVD): **−2.88 M [market crash]**
-    * Average Daily Range (ADR) utilization: **47.42%**
-
-* **Market breadth (TICKQ):** reading at close **-757.00 [panic]**
-    * 200 reading average (SMA200): **7.73 [demand test]**
-
-* **Options on QQQ:**
-    * Implied volatility (IV): **27.63%**
-    * Put/call ratio (open interest, OI): **1.26**
-
-* **Nasdaq-100 basket:**
-    * Total capitalization: **40.08 trillion USD** (change from previous close: **+0.35 trillion USD**)
-    * Share of companies above 1 trillion USD in basket capitalization: **66.11%** (change: **-2.35 pp**)
-    * Average share price in the basket: **$295.46** (change: **+$1.98**)
-    * Changes in the group of companies above 1 trillion USD: **fell below 1 trillion USD: WMT**
-
-* **Session data health:** readings through 100.0% of the cash session; no gaps longer than one minute; NDX without change longer than 2 min in 0.0% of readings; stale readings rejected: 160
-
----
-
-[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0219/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Nasdaq-100 session summary 2026-11-03",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 
