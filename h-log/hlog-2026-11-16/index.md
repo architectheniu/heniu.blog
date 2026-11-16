@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 15:07
+Data: 2026-11-16 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.16</h1>
+<h3>📈 [2026-11-16 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Rynek znajduje się w silnej fazie dystrybucji. Indeks NDX spadł o 2.31% do poziomu 27293.72, przy skumulowanym odpływie kapitału (CVD) na poziomie -124.33M akcji. Potwierdzają to kontrakty NQ (27392.75, -2.31%, CVD -43.73K) oraz ETF QQQ (664.21, -2.30%, CVD -1.78M). Wskaźnik kierunku przepływów wynosi -28, co oznacza wyraźną przewagę wyprzedaży nad zakupami. Szeroki rynek Nasdaq (TICKQ) wykazuje silną presję sprzedażową na poziomie -319.00, przy średniej SMA200 wynoszącej 17.52.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 27.54%, przy wolumenie opcji na poziomie 869,023. Wskaźnik Put/Call Ratio wynosi 1.20, co wskazuje na zwiększoną aktywność w sektorze zabezpieczeń przed spadkami (hedging). Oczekiwany zasięg ruchu instrumentu mieści się w przedziale 659.39 do 681.71.</li>
+<li><strong>Kontekst techniczny i poziomy:</strong> Obecne cofnięcie od szczytu z dnia 11.11 (28593.00) wynosi 4.54% (-1299 pkt). Jest to korekta o głębokości większej niż w 44% przypadków z historii pomiarów, co klasyfikuje obecny ruch jako zwykłe cofnięcie. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 26990–27010 (odległość 1.04% od obecnej ceny). Najbliższa strefa oporu to 27640–27660 (odległość 1.27% od obecnej ceny).</li>
+</ul>
+<p>Raport H-Log: 2026-11-16 16:07</p>
 <h3>📈 [2026-11-16 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
