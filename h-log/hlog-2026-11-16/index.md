@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 13:07
+Data: 2026-11-16 14:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.16</h1>
+<h3>📈 [2026-11-16 14:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong><br />
+<em>Uwaga: Rynek kasowy (Spot) jest obecnie zamknięty; wskaźnik TICKQ jest nieaktywny.</em></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Kontrakty NQ notowane są na poziomie 27700.25 (-1.20%), co odzwierciedla presję sprzedażową obserwowaną na zamknięciu sesji kasowej (NDX: 27943.74, -1.22%). Zbiorczy wskaźnik kierunku przepływów wynosi -50, co wskazuje na wyraźną przewagę dystrybucji kapitału.</li>
+<li><strong>Analiza przepływów (CVD):</strong> Odnotowano silną wyprzedaż w kontraktach NQ (CVD: -11.8K) oraz test podaży na ETF QQQ (CVD: -424.65K). Na rynku kasowym (NDX) odnotowano skumulowany odpływ na poziomie -206.79M akcji, co potwierdza intensywność bieżącej wyprzedaży.</li>
+<li><strong>Poziomy techniczne:</strong> Indeks znajduje się w fazie cofnięcia od szczytu z 11.11 (28593.00), wynoszącego obecnie -2.27% (-649 pkt). Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 27920–27940, natomiast opór techniczny zlokalizowany jest powyżej 27950–27970.</li>
+<li><strong>Rynek opcji:</strong> Zmienność implikowana (IV) wynosi 25.73%, przy stosunku Put/Call Volume na poziomie 1.05. Wolumen opcji (8,492,405) oraz obecny poziom PCR sugerują budowanie pozycji zabezpieczających (hedging) w obliczu spadków. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 671.38 do 688.40.</li>
+</ul>
+<p>Raport H-Log: 2026-11-16 14:07</p>
 <h3>📈 [2026-11-16 13:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
