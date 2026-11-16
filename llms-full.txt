@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0082: Zgłoszenia spółek: Booking, QUALCOMM, Moderna; transakcje insiderów
+
+Data: 2026-11-16 10:10
+Adres: https://heniu.blog/f-log/flog-2026-11-16-0082/
+
+
+Booking (BKNG) złożyła raport o zawarciu istotnej umowy, zobowiązaniu finansowym oraz innych zdarzeniach.
+
+QUALCOMM (QCOM) złożyła raport o zawarciu istotnej umowy oraz innych zdarzeniach.
+
+Moderna (MRNA) złożyła raport o zmianach w zarządzie lub radzie dotyczących przejścia na emeryturę głównego radcy prawnego.
+
+Insiderzy 13.11 sprzedali akcje za 82,9 mln USD, w tym 73,3 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Palantir Technologies (PLTR): 64,9 mln USD.
+
+Booking (BKNG): 8-K: 1.01 istotna umowa, 2.03 zobowiązanie finansowe, 8.01 inne zdarzenia (Dokument: 8-K 1.01,2.03,8.01,9.01; Data złożenia (czas USA): 13.11; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On November 13, 2026, Booking Holdings Inc. (the “ Company ”) executed four Officers’ Certificates (the “ Officers’ Certificates ”), in accordance with Sections 2.02 and 10.04 of the Indenture dated August 8, 2017 (the “ Base Indenture ” and, together with the Officers’ Certificates, the “ Indenture ”) between the…”; Treść 8-K 2.03 (nowe zobowiązanie finansowe): cytat (EN): „The information set forth under.”; Treść 8-K 8.01 (inne zdarzenie): cytat (EN): „On November 9, 2026, the Company entered into an underwriting agreement (the “ Underwriting Agreement ”) with Banco Santander, S.A., BNP PARIBAS, Deutsche Bank AG, London Branch, Goldman Sachs & Co. LLC and HSBC Bank plc, as representatives of the several underwriters named in Schedule II thereto (the “ Underwriters…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm).
+
+QUALCOMM (QCOM): 8-K: 1.01 istotna umowa, 8.01 inne zdarzenia (Dokument: 8-K 1.01,8.01,9.01; Data złożenia (czas USA): 13.11; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On November 12, 2026, QUALCOMM Incorporated (the Company) executed an Officers’ Certificate (the Officers’ Certificate), in accordance with Sections 2.02, 2.03, 10.04 and 10.05 of the Indenture dated May 20, 2015 (the Base Indenture and, together with the Officers’ Certificate, the Indenture) between the Company and…”; Treść 8-K 8.01 (inne zdarzenie): cytat (EN): „On November 9, 2026, the Company entered into an underwriting agreement (the Underwriting Agreement) with BNP Paribas Securities Corp., BofA Securities, Inc., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Morgan Stanley & Co. LLC, on behalf of the several Underwriters listed in Schedule I thereto (the…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm).
+
+Moderna (MRNA): 8-K: 5.02 zmiany w zarządzie/radzie (Dokument: 8-K 5.02,9.01; Data złożenia (czas USA): 13.11; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: główny radca prawny; rodzaj zmiany: przejście na emeryturę; data: 13.11.2026; następca: nie wskazano; cytat (EN): „On November 13, 2026 , Moderna, Inc. (the “Company”) entered into a Transitional Services and Retirement Agreement (the “Retirement Agreement”) with Shannon Thyme Klinger, the Company’s Chief Legal Officer, that sets forth the terms of Ms. Klinger’s retirement from the Company.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1682852/000168285226000205/0001682852-26-000205-index.htm).
+
+
+---
+
 ## Log #0229: Ekspansja Masy i Akrecja w Polu Wysokiej Energii
 
 Data: 2026-11-15 09:00
@@ -1324,85 +1347,5 @@ Zysk na akcję (księgowy, podstawowy) wyniósł 2,11 USD (+14,1% r/r), przy zys
 ### Co mówi zarząd
 
 Zarząd podkreślał, że Siri AI pełni rolę asystenta, którego możliwości będą stopniowo rozszerzane przy zachowaniu nacisku na prywatność i bezpieczeństwo. Według zarządu iPhone ma stać się inteligentnym osobistym centrum użytkownika, ponieważ przechowuje on najważniejsze dane, do których dostępu nie ma nawet spółka. Zarząd jest dobrej myśli co do długoterminowego wzrostu usług, wskazując na rosnącą liczbę aktywnych urządzeń jako fundament tego procesu. Według zarządu drożejące ceny pamięci wywierają presję na ceny produktów, co sprawia, że ważne są programy ułatwiające klientom zakup. Zarząd zaznaczył również, że w kolejnych kwartałach korzyść z tańszych zapasów będzie maleć w obliczu bezprecedensowych cen pamięci. Według zarządu produkcja nowego iPhone'a Duo rośnie, jednak trudno obecnie przewidzieć, kiedy podaż zrówna się z popytem.
-
-
----
-
-## Log #0219: Podsumowanie sesji 2026-11-03: NDX 28180.26 (+0.68%)
-
-Data: 2026-11-03 22:04
-Adres: https://heniu.blog/posts/log-0219/
-
-
-**Data sesji:** 2026-11-03
-
-> *Zamknięcie sesji 2026-11-03: NDX 28180.26 (+0.68%), NQ 28302.75 (+0.62%), QQQ 685.34 (+0.62%).*
-
----
-
-### Przebieg sesji
-
-**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (15:30 PL) przy poziomie NDX 28096.64. W pierwszych 30 minutach indeks NDX wzrósł o 57.86 pkt (+0.21%) do poziomu 28154.50. Najniższy poziom NDX odnotowano o 9:30 ET (15:30 PL), a najwyższy o 11:03 ET (17:03 PL). Zamknięcie na poziomie 28180.26 leży 124.54 pkt poniżej maksimum sesji.
-
-**Przepływy i szerokość rynku.** Kierunki przepływu skumulowanego (CVD) dla NDX, NQ oraz QQQ były ujemne i zgodne na wszystkich trzech instrumentach. Odczyt TICKQ na zamknięciu wyniósł -757.00, podczas gdy średnia SMA200 wynosiła 7.73. Udział spółek o kapitalizacji powyżej 1 bln USD w koszyku wyniósł 66.11%.
-
-**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX wzrósł o 45.66 pkt (+0.16%) do poziomu 28180.26. Anomalia na zamknięciu (MOC) wyniosła -30,58 M. Zmienność implikowana (IV) dla opcji na QQQ wynosiła 27.63%, a stosunek put/call wyniósł 1.26.
-
-**Bilans dnia.** Indeks Nasdaq-100 zamknął się na poziomie 28180.26, co oznacza wzrost o 0.68%.
-
----
-
-### Telemetria Zamknięcia
-
-* **Indeks Nasdaq-100 (NDX):** zamknięcie **28180.26 (+0.68%)**
-    * Przepływ skumulowany (CVD): **−67,89 M [załamanie rynku]**
-    * Anomalia na zamknięciu (MOC): **-30,58 M**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **46.98%**
-    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-9.76%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
-
-* **Kontrakt terminowy NQ:** zamknięcie **28302.75 (+0.62%)**
-    * Przepływ skumulowany (CVD): **−12,14 K [wyprzedaż]**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **60.60%**
-
-* **ETF QQQ:** zamknięcie **685.34 (+0.62%)**
-    * Przepływ skumulowany (CVD): **−2,88 M [załamanie rynku]**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **47.42%**
-
-* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **-757.00 [panika]**
-    * Średnia 200 odczytów (SMA200): **7.73 [test popytu]**
-
-* **Opcje na QQQ:**
-    * Zmienność implikowana (IV): **27.63%**
-    * Stosunek put/call (otwarte pozycje, OI): **1.26**
-
-* **Koszyk Nasdaq-100:**
-    * Łączna kapitalizacja: **40.08 bln USD** (zmiana od poprzedniego zamknięcia: **+0.35 bln USD**)
-    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **66.11%** (zmiana: **-2.35 pkt proc.**)
-    * Średnia cena akcji w koszyku: **$295.46** (zmiana: **+$1.98**)
-    * Zmiany w grupie spółek powyżej 1 bln USD: **poniżej 1 bln USD spadły: WMT**
-
-* **Zdrowie danych sesji:** odczyty przez 100,0% sesji kasowej; bez luk dłuższych niż minuta; NDX bez zmiany dłużej niż 2 min w 0,0% odczytów; odrzucone nieaktualne odczyty: 160
-
----
-
-[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0219/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Podsumowanie sesji Nasdaq-100 2026-11-03",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 

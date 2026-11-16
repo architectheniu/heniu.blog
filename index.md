@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0082: Zgłoszenia spółek: Booking, QUALCOMM, Moderna; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-16-0082/index.md) (2026-11-16)
 - [H1: 2026-11-16](https://heniu.blog/h-log/hlog-2026-11-16/index.md) (2026-11-16)
 - [M15: 2026-11-16](https://heniu.blog/t-log/tlog-2026-11-16/index.md) (2026-11-16)
 - [Log #0229: Ekspansja Masy i Akrecja w Polu Wysokiej Energii](https://heniu.blog/posts/log-0229/index.md) (2026-11-15)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0064: Advanced Micro Devices: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0064/index.md) (2026-11-04)
 - [Fundamenty #0063: Apple: wyniki za 4Q2026](https://heniu.blog/f-log/flog-2026-11-03-0063/index.md) (2026-11-03)
 - [H1: 2026-11-03](https://heniu.blog/h-log/hlog-2026-11-03/index.md) (2026-11-03)
-- [M15: 2026-11-03](https://heniu.blog/t-log/tlog-2026-11-03/index.md) (2026-11-03)
 

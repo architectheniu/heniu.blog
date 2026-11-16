@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0082: Relatórios de empresas: Booking, QUALCOMM, Moderna; transações de insiders
+
+Data: 2026-11-16 10:11
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-16-0082/
+
+
+Booking (BKNG) apresentou um relatório sobre a celebração de um contrato importante, obrigação financeira e outros eventos.
+
+QUALCOMM (QCOM) apresentou um relatório sobre a celebração de um contrato importante e outros eventos.
+
+Moderna (MRNA) apresentou um relatório sobre mudanças na diretoria ou no conselho relacionadas à aposentadoria do principal consultor jurídico.
+
+Insiders em 13.11 venderam ações por 82,9 mi USD, incluindo 73,3 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi relatada por insiders da Palantir Technologies (PLTR): 64,9 mi USD.
+
+Booking (BKNG): 8-K: 1.01 contrato importante, 2.03 obrigação financeira, 8.01 outros eventos (Documento: 8-K 1.01,2.03,8.01,9.01; Data de submissão (hora EUA): 13.11; Conteúdo 8-K 1.01 (celebração de contrato importante): contrato: Material Definitive Agreement; citação (EN): „On November 13, 2026, Booking Holdings Inc. (the “ Company ”) executed four Officers’ Certificates (the “ Officers’ Certificates ”), in accordance with Sections 2.02 and 10.04 of the Indenture dated August 8, 2017 (the “ Base Indenture ” and, together with the Officers’ Certificates, the “ Indenture ”) between the…”; Conteúdo 8-K 2.03 (nova obrigação financeira): citação (EN): „The information set forth under.”; Conteúdo 8-K 8.01 (outro evento): citação (EN): „On November 9, 2026, the Company entered into an underwriting agreement (the “ Underwriting Agreement ”) with Banco Santander, S.A., BNP PARIBAS, Deutsche Bank AG, London Branch, Goldman Sachs & Co. LLC and HSBC Bank plc, as representatives of the several underwriters named in Schedule II thereto (the “ Underwriters…”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm).
+
+QUALCOMM (QCOM): 8-K: 1.01 contrato importante, 8.01 outros eventos (Documento: 8-K 1.01,8.01,9.01; Data de submissão (hora EUA): 13.11; Conteúdo 8-K 1.01 (celebração de contrato importante): contrato: Material Definitive Agreement; citação (EN): „On November 12, 2026, QUALCOMM Incorporated (the Company) executed an Officers’ Certificate (the Officers’ Certificate), in accordance with Sections 2.02, 2.03, 10.04 and 10.05 of the Indenture dated May 20, 2015 (the Base Indenture and, together with the Officers’ Certificate, the Indenture) between the Company and…”; Conteúdo 8-K 8.01 (outro evento): citação (EN): „On November 9, 2026, the Company entered into an underwriting agreement (the Underwriting Agreement) with BNP Paribas Securities Corp., BofA Securities, Inc., Deutsche Bank Securities Inc., J.P. Morgan Securities LLC and Morgan Stanley & Co. LLC, on behalf of the several Underwriters listed in Schedule I thereto (the…”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm).
+
+Moderna (MRNA): 8-K: 5.02 mudanças na diretoria/conselho (Documento: 8-K 5.02,9.01; Data de submissão (hora EUA): 13.11; Conteúdo 8-K 5.02 (mudança na diretoria ou no conselho): cargo: principal consultor jurídico; tipo de mudança: aposentadoria; data: 13.11.2026; sucessor: não indicado; citação (EN): „On November 13, 2026 , Moderna, Inc. (the “Company”) entered into a Transitional Services and Retirement Agreement (the “Retirement Agreement”) with Shannon Thyme Klinger, the Company’s Chief Legal Officer, that sets forth the terms of Ms. Klinger’s retirement from the Company.”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1682852/000168285226000205/0001682852-26-000205-index.htm).
+
+
+---
+
 ## Log #0229: Expansão de Massa e Acreção em Campo de Alta Energia
 
 Data: 2026-11-15 09:00
@@ -1337,24 +1360,5 @@ Endereço: https://heniu.blog/pt-br/posts/log-0219/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentos #0062: Vertex Pharmaceuticals: resultados do 3Q2026
-
-Data: 2026-11-03 13:33
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-03-0062/
-
-
-A receita da Vertex Pharmaceuticals (VRTX) no terceiro trimestre aumentou 11,8% ano a ano para o nível de 3,44 bi USD, enquanto o lucro por ação (contábil, básico) caiu 39,1% ano a ano para 2,58 USD.
-
-### Projeção da empresa
-
-Para todo o ano fiscal de 2026, a empresa espera uma receita na faixa de 13,15 bi USD – 13,25 bi USD, incluindo receitas de vendas de “PALSONIFY” no nível de 40,00 mi USD – 50,00 mi USD.
-
-### O que diz a administração
-
-A administração enfatizou que os contatos com o regulador americano em relação ao povetacept estão ocorrendo conforme o planejado e a empresa aguarda a data da decisão. De acordo com a administração, o povetacept é fabricado pelo mesmo fabricante desde o início das pesquisas, o que permite uma avaliação tranquila do pedido e das questões de produção. A administração também indicou o interesse de nefrologistas pelo povetacept e o desejo de utilizá-lo após a aprovação para comercialização. Segundo a administração, agir na causa da doença renal garante melhores resultados, o que aumenta a confiança nos resultados do anaxaplin. A administração observou que, no caso do analgésico JOURNAVX, mantém conscientemente o programa de apoio ao paciente para adaptar os médicos aos novos hábitos, até que o reembolso total seja garantido. Em relação à fibrose cística, a administração afirmou que a escolha do melhor medicamento de nova geração ocorrerá apenas após a obtenção dos resultados de todos os candidatos.
 
 
