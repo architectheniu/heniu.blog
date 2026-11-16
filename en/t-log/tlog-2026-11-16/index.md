@@ -1,6 +1,6 @@
 # M15: 2026-11-16
 
-Date: 2026-11-16 18:29
+Date: 2026-11-16 18:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-16/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.16 [EN]</h1>
+<h3>⏱️ [2026-11-16 18:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27350.43</strong> (-2.12%; since the previous entry +11.87 pts) · NQ <strong>27439.50</strong> (-2.13%; +11.50 pts) · QQQ <strong>665.47 USD</strong> (-2.13%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-124.12 M</strong> [panic] · CVD NQ <strong>-41.73 K</strong> [market breakdown] (since the previous entry -0.98 K) · CVD QQQ <strong>-1.38 M</strong> [sell-off] · TICKQ <strong>-534</strong> [market breakdown] · SMA200 average <strong>13.88</strong> [demand test] (+0.62) · direction gauge <strong>-28</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.88 trillion USD</strong> (since the previous entry +0.02 trillion USD) · share of companies above 1 trillion USD <strong>68.7%</strong> (+0.0 pp) · average share price <strong>283.69 USD</strong> (+0.09 USD) · QQQ options: implied volatility <strong>27.81%</strong>, put/call <strong>1.03</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26990–27010</strong> (1.24% lower) · nearest above the price <strong>27640–27660</strong> (1.06% higher)</li>
+</ul>
+<p>The market moved towards the nearest support, moving away from the resistance zone.</p>
 <h3>⏱️ [2026-11-16 18:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27338.56</strong> (-2.17%; since the previous entry -67.05 pts) · NQ <strong>27428.00</strong> (-2.17%; -66.25 pts) · QQQ <strong>665.17 USD</strong> (-2.17%)</li>
