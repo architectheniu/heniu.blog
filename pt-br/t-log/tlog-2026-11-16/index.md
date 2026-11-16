@@ -1,6 +1,6 @@
 # M15: 2026-11-16
 
-Data: 2026-11-16 19:14
+Data: 2026-11-16 19:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.16 [PT-BR]</h1>
+<h3>⏱️ [2026-11-16 19:29] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27240.73</strong> (-2.52%; desde a entrada anterior -53.92 pts) · NQ <strong>27324.50</strong> (-2.53%; -60.50 pts) · QQQ <strong>662.69 USD</strong> (-2.53%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-137.97 M</strong> [pânico] · CVD NQ <strong>-52.48 K</strong> [colapso do mercado] (desde a entrada anterior -5.84 K) · CVD QQQ <strong>-1.81 M</strong> [sell-off] · TICKQ <strong>-630</strong> [pânico] · média SMA200 <strong>9.76</strong> [teste de demanda] (-0.49) · indicador de direção <strong>-28</strong> (escala ±100; +0)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>38.73 trilhões de USD</strong> (desde a entrada anterior +0.00 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>68.7%</strong> (+0.0 p.p.) · preço médio das ações <strong>282.28 USD</strong> (-0.63 USD) · opções sobre QQQ: volatilidade implícita <strong>28.65%</strong>, put/call <strong>1.05</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>26990–27010</strong> (0.85% abaixo) · mais próxima acima do preço <strong>27640–27660</strong> (1.47% acima)</li>
+</ul>
+<p>O fluxo CVD para o NQ piorou, o que significa que a queda de preço é acompanhada por um fluxo de capital enfraquecido.</p>
 <h3>⏱️ [2026-11-16 19:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27294.65</strong> (-2.32%; desde a entrada anterior -23.95 pts) · NQ <strong>27385.00</strong> (-2.32%; -20.00 pts) · QQQ <strong>664.15 USD</strong> (-2.32%)</li>
