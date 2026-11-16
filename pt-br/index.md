@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [M15: 2026-11-16](https://heniu.blog/pt-br/t-log/tlog-2026-11-16/index.md) (2026-11-16)
 - [Fundamentos #0082: Relatórios de empresas: Booking, QUALCOMM, Moderna; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-16-0082/index.md) (2026-11-16)
 - [H1: 2026-11-16](https://heniu.blog/pt-br/h-log/hlog-2026-11-16/index.md) (2026-11-16)
-- [M15: 2026-11-16](https://heniu.blog/pt-br/t-log/tlog-2026-11-16/index.md) (2026-11-16)
 - [Log #0229: Expansão de Massa e Acreção em Campo de Alta Energia](https://heniu.blog/pt-br/posts/log-0229/index.md) (2026-11-15)
 - [H1: 2026-11-13](https://heniu.blog/pt-br/h-log/hlog-2026-11-13/index.md) (2026-11-13)
 - [M15: 2026-11-13](https://heniu.blog/pt-br/t-log/tlog-2026-11-13/index.md) (2026-11-13)
