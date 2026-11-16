@@ -1,6 +1,6 @@
 # H1: 2026-11-16
 
-Data: 2026-11-16 18:08
+Data: 2026-11-16 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-16/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.16 [PT-BR]</h1>
+<h3>📈 [2026-11-16 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado:</strong> O Índice Nasdaq-100 (NDX) encontra-se em fase de queda, perdendo 2.26% (preço 27311.14). Desde o Recuo desde o pico do Heniu do dia 11.11 (28593.00), registrou-se um recuo de 4.48% (-1282 pkt). A correção atual é mais profunda do que 44% das correções históricas no período analisado, o que a classifica como um recuo comum dentro da tendência.</li>
+<li><strong>Fluxos de capital e sentimento:</strong> Registrou-se uma forte distribuição de ativos. O fluxo acumulado (CVD) para o NDX é de -126,98 M, para os contratos NQ -44,41 K, e para o ETF QQQ -1,48 M. O indicador de direção dos fluxos é de -28, o que confirma a predominância da saída de capital do mercado. A Amplitude de mercado (TICKQ) mostra uma forte pressão de venda no nível de -362.00 com uma média SMA200 de 11.37.</li>
+<li><strong>Mercado de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 28.18%, e a relação Put/Call (PCR) de volume está em 1.04, o que indica uma leve predominância de posições de proteção contra novas quedas. Com um volume de opções de 4,643,463, o alcance de movimento esperado pelo mercado situa-se no intervalo de 657.46 a 676.66.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima (zona de volume) encontra-se no intervalo 26990–27010 (0.8% do volume). A zona de resistência encontra-se acima, no intervalo 27640–27660 (0.6% do volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-16 19:07</p>
 <h3>📈 [2026-11-16 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
