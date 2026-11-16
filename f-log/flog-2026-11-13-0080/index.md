@@ -7,7 +7,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
-NVIDIA (NVDA): 8-K: 5.02 zmiany w zarządzie/radzie (Dokument: 8-K 5.02,9.01; Data złożenia (czas USA): 12.11; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: prezes (President); rodzaj zmiany: odejście (rezygnacja); data: 11.11.2026; osoby: Harvey C. Jones; następca: wskazany w dokumencie; cytat (EN): „On November 11, 2026, the Board of Directors, or the Board, of NVIDIA Corporation accepted the resignation of Jen-Hsun Huang, as NVIDIA’s President, Chief Executive Officer and member of the Board, effective immediately.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm).
+> ⚠️ **ERRATUM (2026-11-16)**  
+> **Linia o NVIDII (NVDA) podawała złą osobę przy rezygnacji.**
+>
+> **Sprostowanie:**
+> - Z funkcji prezesa, dyrektora generalnego i członka rady zrezygnował Jen-Hsun Huang (nie Harvey C. Jones).
+> - Harvey C. Jones został przewodniczącym rady, a Colette M. Kress tymczasową dyrektor generalną; pozostaje też dyrektor finansową.
+>
+> Poprawiliśmy tę linię według 8-K z 12.11; pozostałe linie się nie zmieniają.
+
+NVIDIA (NVDA): 8-K: 5.02 zmiany w zarządzie/radzie (Dokument: 8-K 5.02,9.01; Data złożenia (czas USA): 12.11; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: prezes (President), dyrektor generalny (CEO) i członek rady dyrektorów; rodzaj zmiany: odejście (rezygnacja, skutek natychmiastowy); data: 11.11.2026; osoby: Jen-Hsun Huang (rezygnacja); Colette M. Kress (wiceprezes wykonawcza i dyrektor finansowa) powołana na tymczasową dyrektor generalną (interim CEO), pozostaje dyrektor finansową; Harvey C. Jones powołany na przewodniczącego rady (Chair of the Board), w radzie od 1993; następca: tymczasowo Colette M. Kress, rada szuka nowego CEO; cytat (EN): „On November 11, 2026, the Board of Directors, or the Board, of NVIDIA Corporation accepted the resignation of Jen-Hsun Huang, as NVIDIA’s President, Chief Executive Officer and member of the Board, effective immediately.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm).
 
 Marvell Technology (MRVL): 8-K: 5.02 zmiany w zarządzie/radzie (Dokument: 8-K 5.02,9.01; Data złożenia (czas USA): 12.11; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: członek rady dyrektorów; rodzaj zmiany: powołanie; data: 12.11.2026; następca: nie dotyczy (powołanie); cytat (EN): „On November 11, 2026 the Board of Directors (the "Board") of Marvell Technology, Inc. (the "Company") approved an increase in the size of the Board from seven (7) to ten (10) members and the appointments of Donna C. Morris, Douglas R. Bettinger and Sasan K. Goodarzi to the Board, in each case effective November 12,…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026-index.htm).
 
