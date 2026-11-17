@@ -1,0 +1,23 @@
+# H1: 2026-11-18
+
+Date: 2026-11-18 00:08
+URL: https://heniu.blog/en/h-log/hlog-2026-11-18/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.11.18 [EN]</h1>
+<h3>📈 [2026-11-18 00:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of the NQ futures contract and data from the regular session close.</li>
+<li><strong>NQ futures contract (NQ):</strong> Contract price is 27470.00 (+1.47%), with cumulative flow (CVD) at 1.48 K, indicating a demand test in the after-hours session.</li>
+<li><strong>the NDX Star context:</strong> The index closed at 27002.40 (-0.72%). Since the peak on 11.11 (28593.00), a drawdown of -5.56% (-1591 pts) has been recorded. This is a standard pullback, deeper than 44% of historical corrections in the analyzed dataset.</li>
+<li><strong>Technical levels:</strong> Near support is located in the 26990–27010 volume zone. The nearest significant resistance is located in the 27170–27190 range.</li>
+<li><strong>QQQ ETF options market:</strong> Implied volatility (IV) is 30.38%, and the Put/Call Ratio is 1.22, suggesting a prevalence of hedging positions or anticipation of declines. The expected move range is from 646.26 to 667.64 points with a volume of 8,880,157.</li>
+<li><strong>Sentiment:</strong> The direction gauge is 55, indicating a moderate prevalence of capital inflow into the market.</li>
+</ul>
+<p>H-Log Report: 2026-11-18 00:07</p>
+
