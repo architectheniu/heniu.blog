@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 05:07
+Data: 2026-11-17 06:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.17</h1>
+<h3>📈 [2026-11-17 06:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku kasowego:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Kontrakty terminowe NQ:</strong> Cena kontraktów wynosi 27349.25 (+0.24%), przy skumulowanym przepływie CVD na poziomie 5,26 K, co wskazuje na testowanie popytu w sesji poza sesją główną.</li>
+<li><strong>Analiza poziomu i korekty:</strong> Indeks NDX znajduje się w fazie korekty od szczytu z dnia 11.11 (28593.00), która wynosi obecnie -4.86% (-1390 pkt). Jest to zwykłe cofnięcie, głębsze niż w 44% odnotowanych historycznie przypadków. Najbliższe wsparcie znajduje się w strefie węzła wolumenu 27170–27190, natomiast opór w strefie 27640–27660.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 40, co wskazuje na umiarkowaną przewagę napływu kapitału. Mimo spadku indeksu NDX o (-2.67%), odnotowano skumulowany przepływ CVD na poziomie 68,18 M, co przy jednoczesnym spadku ceny ETF QQQ (-2.67%) i ujemnym CVD dla QQQ (-803,84 K) sugeruje obecność dywergencji i potencjalną absorpcję podaży.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 28.71%, a współczynnik Put/Call Ratio kształtuje się na poziomie 1.04, co wskazuje na lekką przewagę pozycji zabezpieczających (hedgingu) lub oczekiwania na zwiększoną zmienność. Oczekiwany zasięg ruchu mieści się w przedziale 648.06 do 675.44 przy wolumenie opcji 8,506,238.</li>
+</ul>
+<p>Raport H-Log: 2026-11-17 06:07</p>
 <h3>📈 [2026-11-17 05:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
