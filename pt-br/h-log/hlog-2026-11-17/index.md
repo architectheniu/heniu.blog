@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 12:08
+Data: 2026-11-17 13:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.17 [PT-BR]</h1>
+<h3>📈 [2026-11-17 13:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contratos futuros NQ:</strong> O preço dos contratos é 27398.75 (+0.42%), com o fluxo acumulado (CVD) em 6,6 K, o que indica um teste de demanda na sessão fora do horário regular.</li>
+<li><strong>Contexto do índice NDX:</strong> O índice fechou a sessão à vista em 27197.15 (-2.67%). Apesar da queda no preço, foi registrado um forte fluxo acumulado (CVD) no nível de 281,38 mi de ações, o que sugere a presença de absorção passiva de demanda na sessão à vista (Spot). O Recuo desde o pico do Heniu de 11.11 (28593.00) é de -4.88% (-1396 pts), o que classifica este movimento como um simples recuo dentro de uma tendência mais ampla.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima (nó de volume) encontra-se na faixa de 27170–27190 (0.8% de volume), e a zona de resistência acima do preço é 27640–27660 (0.6% de volume).</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 28.71%, e o Put/Call Ratio no nível de 1.04 sugere uma leve vantagem de posições de proteção (hedging) ou expectativa de maior volatilidade. O alcance esperado do movimento situa-se na faixa de 648.06 a 675.44 com um volume de opções de 8,506,238.</li>
+<li><strong>Sentimento:</strong> O indicador de direção de fluxos é 40, o que significa uma vantagem moderada de entrada de capital em termos agregados.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-17 13:07</p>
 <h3>📈 [2026-11-17 12:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
