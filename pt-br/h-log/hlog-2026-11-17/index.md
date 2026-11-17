@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 18:08
+Data: 2026-11-17 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.17 [PT-BR]</h1>
+<h3>📈 [2026-11-17 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O Índice NDX está em uma tendência de queda (-1.03%, preço 26917.48), o que é confirmado pelo contrato NQ (27006.00, -1.03%) e pelo ETF QQQ (655.02, -1.02%). O fluxo acumulado (CVD) para o NDX é de -101,3 mi, o que indica uma forte pressão de venda, e o indicador de direção de fluxo agregado no nível de -45 confirma a dominância da distribuição de capital. O indicador TICKQ é de 192.00, o que, com uma média SMA200 de -22.61, indica um desvio da tendência de amplitude de mercado.</li>
+<li><strong>Análise de opções QQQ:</strong> O mercado de opções mostra um aumento no interesse por proteção (hedging), como evidenciado pela Put/Call Volume Ratio no nível de 1.25. A volatilidade implícita (IV) é de 30.74%, e o volume de negociação de opções atingiu 5,747,150. O intervalo de movimento esperado pelo mercado para o QQQ está entre 639.71 e 664.51 pontos.</li>
+<li><strong>Contexto de correção e níveis:</strong> O Recuo desde o pico de 11.11 (28593.00) é de -5.86% (-1676 pts). Com base na análise histórica, trata-se de um recuo comum, classificado como um evento de menor profundidade do que 44% das correções registradas anteriormente. A zona de resistência mais próxima (nó de volume) está no intervalo de 26990–27010.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-17 19:07</p>
 <h3>📈 [2026-11-17 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
