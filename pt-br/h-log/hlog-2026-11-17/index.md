@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 04:08
+Data: 2026-11-17 05:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.17 [PT-BR]</h1>
+<h3>📈 [2026-11-17 05:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ estão sendo negociados ao preço de 27364.50 (+0.30%), com o fluxo acumulado (CVD) no nível de 6,45 K, o que indica um teste de demanda na sessão após a sessão regular.</li>
+<li><strong>Análise da sessão à vista (fechada):</strong> O Índice Nasdaq-100 (NDX) fechou a sessão no nível de 27202.97 (-2.67%). Foi observada uma divergência significativa: apesar da queda no preço, o fluxo acumulado (CVD) para o NDX foi de 68,18 M, o que, junto com o fluxo negativo simultâneo no ETF QQQ (-803,84 K), sugere um processo de absorção de oferta na sessão à vista (Spot). O Recuo desde o pico do Heniu (28593.00) atual é de -4.86%, o que classifica este movimento como um simples recuo.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima encontra-se no intervalo 27170–27190 (0.8% de volume). A zona de resistência mais próxima é 27640–27660 (0.6% de volume).</li>
+<li><strong>Mercado de opções e sentimento:</strong> O indicador de direção de fluxos é 40, o que indica uma vantagem moderada na entrada de capital. No mercado de opções sobre QQQ, a volatilidade implícita (IV) é de 28.71%, e a Put/Call Ratio no nível de 1.04 sugere uma leve vantagem de posições de proteção (hedging) ou a expectativa de maior pressão de venda. O alcance esperado do movimento para os instrumentos de opções situa-se no intervalo de 648.06 a 675.44.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-17 05:07</p>
 <h3>📈 [2026-11-17 04:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>A sessão de futuros</strong></p>
