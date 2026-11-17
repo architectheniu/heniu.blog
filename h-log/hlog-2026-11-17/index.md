@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 16:07
+Data: 2026-11-17 17:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.17</h1>
+<h3>📈 [2026-11-17 17:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Rynek znajduje się w fazie silnej dystrybucji. Indeks NDX spadł o 1,13% do poziomu 26889,50, przy czym skumulowany przepływ (CVD) dla NDX wynosi -98,93 M, co wskazuje na panikę w sektorze kasowym. Potwierdzają to kontrakty NQ (cena 26978,00; spadek 1,13%; CVD -39,86 K) oraz ETF QQQ (cena 654,34; spadek 1,12%; CVD -1,5 M). Wskaźnik kierunku przepływów wynosi -45, co oznacza wyraźną przewagę odpływu kapitału. Szeroki rynek Nasdaq (TICKQ) wykazuje silną presję sprzedażową na poziomie -346,00, co jest wartością znacznie poniżej średniej SMA200 (-21,26).</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Na rynku opcji odnotowano wolumen na poziomie 2 332 749 kontraktów. Zmienność implikowana (IV) wzrosła do 30,85%, a współczynnik Put/Call Ratio wynosi 1,26, co sugeruje wzrost zainteresowania zabezpieczeniami (hedgingiem) i przewagę pozycji krótkich. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 647,67 do 671,03.</p>
+</li>
+<li>
+<p><strong>Kontekst korekty i poziomy techniczne:</strong> Obecna korekta od szczytu z dnia 11.11 (28593,00) wynosi -5,96% (-1704 pkt) i trwa 4 sesje. Jest to cofnięcie o charakterze zwykłym, głębsze niż w 44% historycznych przypadków. Najbliższa strefa oporu (węzeł wolumenu) znajduje się powyżej ceny w przedziale 26990–27010.</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-11-17 17:07</p>
 <h3>📈 [2026-11-17 16:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
