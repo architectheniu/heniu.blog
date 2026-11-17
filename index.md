@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
-- [M15: 2026-11-17](https://heniu.blog/t-log/tlog-2026-11-17/index.md) (2026-11-17)
 - [H1: 2026-11-17](https://heniu.blog/h-log/hlog-2026-11-17/index.md) (2026-11-17)
+- [M15: 2026-11-17](https://heniu.blog/t-log/tlog-2026-11-17/index.md) (2026-11-17)
 - [Fundamenty #0083: Zgłoszenia spółek: Walmart, Moderna, Western Digital; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-17-0083/index.md) (2026-11-17)
 - [H1: 2026-11-16](https://heniu.blog/h-log/hlog-2026-11-16/index.md) (2026-11-16)
 - [M15: 2026-11-16](https://heniu.blog/t-log/tlog-2026-11-16/index.md) (2026-11-16)
