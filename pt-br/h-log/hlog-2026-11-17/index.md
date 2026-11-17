@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 13:08
+Data: 2026-11-17 14:09
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.17 [PT-BR]</h1>
+<h3>📈 [2026-11-17 14:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>a sessão à vista (Spot):</strong> Fechada. O índice NDX fechou a sessão no nível 27197.15 (-2.67%), com o fluxo acumulado CVD no nível 281,38 M. Apesar da queda no preço do índice, foi registrado um influxo significativo de capital na sessão à vista, o que sugere uma absorção passiva da oferta. O ETF QQQ fechou ao preço de 661.82 (-2.67%) com um fluxo CVD negativo de -802,08 K, o que indica um teste de oferta no setor à vista.</li>
+<li><strong>Contratos futuros (NQ):</strong> Atualmente, o preço dos contratos NQ é 27413.50 (+0.48%). O fluxo acumulado CVD para NQ é de 6,13 K, o que sinaliza um teste de demanda no comércio fora do horário regular.</li>
+<li><strong>Sentimento e volatilidade:</strong> O indicador de direção agregado de fluxos é 40, o que indica uma vantagem moderada de influxo de capital. A volatilidade implícita (IV) nas opções QQQ é de 28.71%, com o Put/Call Volume Ratio no nível de 1.04 e volume de opções de 8,506,238. Esses dados indicam uma leve vantagem de posições de proteção (hedging) e o alcance esperado de movimento na faixa de 648.06 a 675.44 pontos.</li>
+<li><strong>Análise técnica e níveis:</strong> O Recuo desde o pico do Heniu do dia 11.11 (28593.00) é de -4.88% (-1396 pkt). Este é um recuo comum, classificado como mais profundo do que 44% das correções históricas no conjunto analisado. A zona de suporte mais próxima (nó de volume) está na faixa de 27170–27190, enquanto a zona de resistência está na faixa de 27640–27660.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-17 14:07</p>
 <h3>📈 [2026-11-17 13:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
