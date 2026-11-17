@@ -1,6 +1,6 @@
 # M15: 2026-11-17
 
-Data: 2026-11-17 15:29
+Data: 2026-11-17 15:45
 Adres: https://heniu.blog/t-log/tlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.17</h1>
+<h3>⏱️ [2026-11-17 15:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27166.39</strong> (-0.11%) · NQ <strong>27250.75</strong> (-0.13%; od poprzedniego wpisu -100.75 pkt) · QQQ <strong>660.95 USD</strong> (-0.13%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-73.81 M</strong> [załamanie rynku] · CVD NQ <strong>-16.22 K</strong> [wyprzedaż] (od poprzedniego wpisu -20.49 K) · CVD QQQ <strong>-914.33 K</strong> [test podaży] · TICKQ <strong>-403</strong> [załamanie rynku] · średnia SMA200 <strong>-8.62</strong> [test podaży] · wskaźnik kierunku <strong>-55</strong> (skala ±100; -80)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.60 bln USD</strong> · udział spółek powyżej 1 bln USD <strong>68.8%</strong> · średnia cena akcji <strong>281.82 USD</strong> · opcje QQQ: zmienność implikowana <strong>28.73%</strong>, put/call <strong>0.67</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>26990–27010</strong> (0.58% niżej) · najbliższa powyżej ceny <strong>27170–27190</strong> (0.01% wyżej)</li>
+</ul>
+<p>Cena kontraktu NQ spadła, co objawiło się również spadkiem wartości CVD. W ostatnim czasie nastąpiły gwałtowne zmiany przepływów dla NQ, w tym nagłe ruchy w górę oraz w dół, a poziom wsparcia na wysokości węzła wolumenowego został przebity w obu kierunkach.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:30 rozjazd NQ i QQQ; 15:38 nagły przepływ NQ w górę; zapłon przepływu NQ; 15:43 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-17 15:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>27351.50</strong> (+0.25%; od poprzedniego wpisu -17.00 pkt, -0.06%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>43.60%</strong></li>

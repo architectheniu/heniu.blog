@@ -1,6 +1,6 @@
 # M15: 2026-11-17
 
-Date: 2026-11-17 15:29
+Date: 2026-11-17 15:45
 URL: https://heniu.blog/en/t-log/tlog-2026-11-17/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.17 [EN]</h1>
+<h3>⏱️ [2026-11-17 15:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27166.39</strong> (-0.11%) · NQ <strong>27250.75</strong> (-0.13%; since the previous entry -100.75 pts) · QQQ <strong>660.95 USD</strong> (-0.13%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-73.81 M</strong> [market breakdown] · CVD NQ <strong>-16.22 K</strong> [sell-off] (since the previous entry -20.49 K) · CVD QQQ <strong>-914.33 K</strong> [supply test] · TICKQ <strong>-403</strong> [market breakdown] · SMA200 average <strong>-8.62</strong> [supply test] · direction gauge <strong>-55</strong> (±100 scale; -80)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.60 trillion USD</strong> · share of companies above 1 trillion USD <strong>68.8%</strong> · average share price <strong>281.82 USD</strong> · QQQ options: implied volatility <strong>28.73%</strong>, put/call <strong>0.67</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26990–27010</strong> (0.58% lower) · nearest above the price <strong>27170–27190</strong> (0.01% higher)</li>
+</ul>
+<p>The NQ contract price fell, which was also manifested by a decrease in CVD value. Recently, there have been rapid changes in NQ flows, including sudden moves up and down, and the support level at the volume node was breached in both directions.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 15:30 NQ and QQQ Tone–Numbers Gap; 15:38 sudden NQ flow up; NQ flow ignition; 15:43 sudden NQ flow down; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-17 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>27351.50</strong> (+0.25%; since the previous entry -17.00 pts, -0.06%) · share of the average daily range (ADR) used <strong>43.60%</strong></li>

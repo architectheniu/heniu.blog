@@ -1,6 +1,6 @@
 # M15: 2026-11-17
 
-Data: 2026-11-17 15:29
+Data: 2026-11-17 15:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.17 [PT-BR]</h1>
+<h3>⏱️ [2026-11-17 15:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27166.39</strong> (-0.11%) · NQ <strong>27250.75</strong> (-0.13%; desde a entrada anterior -100.75 pts) · QQQ <strong>660.95 USD</strong> (-0.13%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>-73.81 M</strong> [colapso do mercado] · CVD NQ <strong>-16.22 K</strong> [sell-off] (desde a entrada anterior -20.49 K) · CVD QQQ <strong>-914.33 K</strong> [teste de oferta] · TICKQ <strong>-403</strong> [colapso do mercado] · média SMA200 <strong>-8.62</strong> [teste de oferta] · indicador de direção <strong>-55</strong> (escala ±100; -80)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>38.60 trilhões de USD</strong> · participação das empresas acima de 1 trilhão de USD <strong>68.8%</strong> · preço médio das ações <strong>281.82 USD</strong> · opções sobre QQQ: volatilidade implícita <strong>28.73%</strong>, put/call <strong>0.67</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>26990–27010</strong> (0.58% abaixo) · mais próxima acima do preço <strong>27170–27190</strong> (0.01% acima)</li>
+</ul>
+<p>O preço do contrato NQ caiu, o que também se manifestou na queda do valor do CVD. Recentemente, ocorreram mudanças abruptas nos fluxos para o NQ, incluindo movimentos repentinos para cima e para baixo, e o nível de suporte na altura do nó de volume foi rompido em ambas as direções.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 15:30 divergência NQ e QQQ; 15:38 fluxo repentino NQ para cima; ignição de fluxo NQ; 15:43 fluxo repentino NQ para baixo; ignição de fluxo NQ.</p>
 <h3>⏱️ [2026-11-17 15:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>27351.50</strong> (+0.25%; desde a entrada anterior -17.00 pts, -0.06%) · parcela da amplitude média diária (ADR) utilizada <strong>43.60%</strong></li>
