@@ -1,6 +1,6 @@
 # M15: 2026-11-17
 
-Date: 2026-11-17 18:29
+Date: 2026-11-17 18:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-17/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.17 [EN]</h1>
+<h3>⏱️ [2026-11-17 18:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26897.41</strong> (-1.10%; since the previous entry -57.61 pts) · NQ <strong>26983.75</strong> (-1.11%; -49.75 pts) · QQQ <strong>654.48 USD</strong> (-1.10%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-99.82 M</strong> [panic] · CVD NQ <strong>-44.97 K</strong> [market breakdown] (since the previous entry -6.45 K) · CVD QQQ <strong>-711.6 K</strong> [supply test] · TICKQ <strong>46</strong> [demand test] · SMA200 average <strong>-20.88</strong> [sell-off] (+0.35) · direction gauge <strong>-37</strong> (±100 scale; +8)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.22 trillion USD</strong> (since the previous entry +0.00 trillion USD) · share of companies above 1 trillion USD <strong>69.0%</strong> (+0.0 pp) · average share price <strong>278.41 USD</strong> (-0.26 USD) · QQQ options: implied volatility <strong>30.08%</strong>, put/call <strong>1.28</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>26990–27010</strong> (0.34% higher)</li>
+</ul>
+<p>The NDX index fell since the previous entry, while the TICKQ indicator indicates a demand test. A deepening of negative flows was recorded on the scale of the entire market as well as for QQQ. The nearest resistance is located above the current price.</p>
 <h3>⏱️ [2026-11-17 18:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26955.02</strong> (-0.90%; since the previous entry +69.74 pts) · NQ <strong>27033.50</strong> (-0.92%; +63.25 pts) · QQQ <strong>655.64 USD</strong> (-0.92%)</li>
