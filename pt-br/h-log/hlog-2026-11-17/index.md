@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 05:08
+Data: 2026-11-17 06:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.17 [PT-BR]</h1>
+<h3>📈 [2026-11-17 06:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado à vista:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contratos futuros NQ:</strong> O preço dos contratos é 27349.25 (+0.24%), com o fluxo acumulado CVD em 5,26 K, o que indica um teste de demanda em uma sessão fora do horário regular.</li>
+<li><strong>Análise de nível e correção:</strong> O Índice Nasdaq-100 (NDX) está em uma fase de Recuo desde o pico do Heniu do dia 11.11 (28593.00), que atualmente é de -4.86% (-1390 pts). Trata-se de um recuo comum, mais profundo do que em 44% dos casos registrados historicamente. O suporte mais próximo encontra-se na zona de volume 27170–27190, enquanto a resistência está na zona 27640–27660.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador de direção agregado de fluxos é 40, o que indica uma vantagem moderada na entrada de capital. Apesar da queda do Índice Nasdaq-100 (NDX) de (-2.67%), registrou-se um fluxo acumulado (CVD) de 68,18 M, o que, aliado à queda simultânea do preço do ETF QQQ (-2.67%) e ao CVD negativo para QQQ (-803,84 K), sugere a presença de uma divergência e uma potencial absorção de oferta.</li>
+<li><strong>Mercado de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 28.71%, e a razão Put/Call está em 1.04, o que indica uma leve vantagem em posições de proteção (hedging) ou a expectativa de aumento da volatilidade. O alcance esperado do movimento situa-se no intervalo de 648.06 a 675.44 com um volume de opções de 8,506,238.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-17 06:07</p>
 <h3>📈 [2026-11-17 05:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
