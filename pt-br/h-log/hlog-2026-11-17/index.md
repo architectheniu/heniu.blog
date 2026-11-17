@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 19:08
+Data: 2026-11-17 20:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.17 [PT-BR]</h1>
+<h3>📈 [2026-11-17 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado:</strong> O Índice NDX registrou uma queda de 1.11% (preço 26894.13), o que representa uma correção de 5.94% (-1699 pts) desde o pico do Heniu em 11.11.2026. O fluxo acumulado (CVD) para NDX é de -107,32 M, o que, com a queda do preço, indica uma forte pressão de oferta. Os contratos NQ (26980.50, -1.11%) e o ETF QQQ (654.41, -1.11%) confirmam a tendência de baixa. O indicador de direção do fluxo é -45, o que significa uma clara vantagem da distribuição de capital sobre sua acumulação.</li>
+<li><strong>Amplitude de mercado:</strong> O indicador TICKQ é de -248.00, o que, com a média SMA200 no nível de -34.90, indica uma forte dinâmica negativa de vendas na amplitude de mercado Nasdaq.</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) é de 31.08%, e o Put/Call Ratio no nível de 1.26 sugere um aumento no interesse por instrumentos de proteção contra quedas (hedging). O alcance esperado de movimento para QQQ situa-se no intervalo de 642.50 a 665.94. O volume de opções foi de 6,570,572.</li>
+<li><strong>Análise técnica:</strong> A correção atual enquadra-se na categoria de recuo comum. A zona de resistência mais próxima (nó de volume) encontra-se no intervalo de 26990–27010.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-17 20:07</p>
 <h3>📈 [2026-11-17 19:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
