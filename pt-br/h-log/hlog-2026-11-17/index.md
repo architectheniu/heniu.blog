@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 10:08
+Data: 2026-11-17 11:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.17 [PT-BR]</h1>
+<h3>📈 [2026-11-17 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se no Contrato futuro NQ e nos dados de fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos:</strong> Os contratos NQ estão sendo negociados a 27182.00 (-0.37%), mostrando um teste de demanda com o fluxo acumulado (CVD) em 628. O indicador de direção dos fluxos é 40, o que indica uma vantagem moderada no influxo de capital.</li>
+<li><strong>Análise de correção e níveis:</strong> O Índice Nasdaq-100 (NDX) está em uma fase de Recuo desde o pico de 11.11 (28593.00), que atualmente é de -4.88% (-1396 pts). Trata-se de um recuo comum, que não ultrapassa os limites extremos. A zona de suporte mais próxima está no intervalo 27170–27190 (0.8% de volume), enquanto a resistência está localizada no intervalo 27640–27660 (0.6% de volume).</li>
+<li><strong>Mercado de opções:</strong> A volatilidade implícita (IV) é de 28.71%, com um volume de opções de 8,506,238. O Put/Call Volume Ratio em 1.04 sugere uma leve vantagem de posições de proteção (put), o que, com o alcance esperado de movimento em torno de 648.06 a 675.44 pontos, indica a construção de posições de hedge diante das quedas atuais.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-17 11:07</p>
 <h3>📈 [2026-11-17 10:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
