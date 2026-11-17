@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 01:08
+Data: 2026-11-17 02:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.17 [PT-BR]</h1>
+<h3>📈 [2026-11-17 02:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado à vista:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Negociação de futuros (NQ):</strong> Os contratos NQ estão sendo negociados a um preço de 27336.25 (+0.19%), com o fluxo acumulado (CVD) em 3,86 K, o que indica um teste de demanda na sessão após a sessão principal.</li>
+<li><strong>Análise de fluxo e sentimento:</strong> O indicador de direção de fluxos é 40, o que significa uma vantagem moderada de entrada de capital. No fechamento da sessão à vista, foi registrada uma anomalia significativa: apesar da queda do índice NDX de (-2.67%), o fluxo acumulado (CVD) foi de 68,18 M, o que sugere uma absorção passiva de oferta na sessão à vista (Spot).</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 28.71%, e o Put/Call Ratio em 1.04 sugere uma leve vantagem de posições de proteção (hedging) ou a expectativa de maior volatilidade. O alcance esperado do movimento está na faixa de 648.06 a 675.44.</li>
+<li><strong>Níveis técnicos:</strong> O índice NDX está em meio a um Recuo desde o pico do Heniu de 11.11 (28593.00), que atualmente é de -4.86%. O suporte importante mais próximo (zona de volume) está na zona de 27170–27190, enquanto a resistência está na zona de 27640–27660.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-17 02:07</p>
 <h3>📈 [2026-11-17 01:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>A sessão de futuros</strong>. A sessão à vista (Spot) está atualmente fechada.</p>
