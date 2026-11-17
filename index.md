@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-11-18](https://heniu.blog/h-log/hlog-2026-11-18/index.md) (2026-11-18)
 - [H1: 2026-11-17](https://heniu.blog/h-log/hlog-2026-11-17/index.md) (2026-11-17)
 - [M15: 2026-11-17](https://heniu.blog/t-log/tlog-2026-11-17/index.md) (2026-11-17)
 - [Log #0231: Podsumowanie sesji 2026-11-17: NDX 27002.40 (-0.72%)](https://heniu.blog/posts/log-0231/index.md) (2026-11-17)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0070: Amgen: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0070/index.md) (2026-11-04)
 - [Fundamenty #0069: Astera Labs: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0069/index.md) (2026-11-04)
 - [Fundamenty #0068: Palantir Technologies: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0068/index.md) (2026-11-04)
-- [Fundamenty #0067: Zgłoszenia spółek: Shopify, Apple, Meta Platforms; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-04-0067/index.md) (2026-11-04)
 
