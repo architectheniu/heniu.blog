@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [M15: 2026-11-18](https://heniu.blog/pt-br/t-log/tlog-2026-11-18/index.md) (2026-11-18)
 - [H1: 2026-11-18](https://heniu.blog/pt-br/h-log/hlog-2026-11-18/index.md) (2026-11-18)
 - [H1: 2026-11-17](https://heniu.blog/pt-br/h-log/hlog-2026-11-17/index.md) (2026-11-17)
 - [M15: 2026-11-17](https://heniu.blog/pt-br/t-log/tlog-2026-11-17/index.md) (2026-11-17)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0070: Amgen: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0070/index.md) (2026-11-04)
 - [Fundamentos #0069: Astera Labs: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0069/index.md) (2026-11-04)
 - [Fundamentos #0068: Palantir Technologies: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0068/index.md) (2026-11-04)
-- [Fundamentos #0067: Relatórios de empresas: Shopify, Apple, Meta Platforms; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-04-0067/index.md) (2026-11-04)
 
