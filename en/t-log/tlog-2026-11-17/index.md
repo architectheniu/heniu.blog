@@ -1,6 +1,6 @@
 # M15: 2026-11-17
 
-Date: 2026-11-17 18:59
+Date: 2026-11-17 19:14
 URL: https://heniu.blog/en/t-log/tlog-2026-11-17/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.17 [EN]</h1>
+<h3>⏱️ [2026-11-17 19:14] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26866.18</strong> (-1.22%; since the previous entry -9.42 pts) · NQ <strong>26950.00</strong> (-1.22%; -6.00 pts) · QQQ <strong>653.66 USD</strong> (-1.22%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-108.23 M</strong> [panic] · CVD NQ <strong>-45.8 K</strong> [market breakdown] (since the previous entry -3.31 K) · CVD QQQ <strong>-744.61 K</strong> [supply test] · TICKQ <strong>-650</strong> [panic] · SMA200 average <strong>-26.82</strong> [sell-off] (-3.77) · direction gauge <strong>-45</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.22 trillion USD</strong> (since the previous entry +0.00 trillion USD) · share of companies above 1 trillion USD <strong>69.0%</strong> (+0.0 pp) · average share price <strong>278.03 USD</strong> (+0.12 USD) · QQQ options: implied volatility <strong>30.90%</strong>, put/call <strong>1.25</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>26990–27010</strong> (0.46% higher)</li>
+</ul>
+<p>All major instruments, including the NDX index, NQ contracts, and the QQQ fund, recorded declines compared to the previous report. The value of NQ contracts decreased by a slightly larger number of points than the NDX index. The nearest resistance is located above current price levels.</p>
 <h3>⏱️ [2026-11-17 18:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26875.60</strong> (-1.18%; since the previous entry -21.81 pts) · NQ <strong>26956.00</strong> (-1.21%; -27.75 pts) · QQQ <strong>653.78 USD</strong> (-1.20%)</li>
