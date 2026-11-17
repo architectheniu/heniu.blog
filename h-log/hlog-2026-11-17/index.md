@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 03:07
+Data: 2026-11-17 04:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.17</h1>
+<h3>📈 [2026-11-17 04:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku kasowego:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Kontrakty NQ notowane są na poziomie 27413.50 (+0.47%), co przy skumulowanym przepływie CVD na poziomie 6,92 tys. wskazuje na testowanie lokalnego popytu w sesji po sesji regularnej.</li>
+<li><strong>Kontekst indeksu NDX i korekty:</strong> Indeks NDX zamknął sesję kasową na poziomie 27202.97 (-2.67%). Od szczytu z 11.11 (28593.00) odnotowano korektę o -4.86% (-1390 pkt). Jest to zwykłe cofnięcie, głębsze niż w 44% historycznych przypadków. Najbliższe wsparcie znajduje się w strefie węzła wolumenu 27170–27190, a opór w strefie 27640–27660.</li>
+<li><strong>Analiza przepływów i sentymentu:</strong> Wskaźnik kierunku przepływów wynosi 40, co wskazuje na umiarkowaną przewagę napływu kapitału. Mimo spadku ceny indeksu o -2.67%, odnotowano skumulowany przepływ (CVD) dla NDX na poziomie 68,18 M, co sugeruje obecność popytu na rynku kasowym przy jednoczesnym spadku cen.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 28.71%, a stosunek wolumenu Put/Call to 1.04, co wskazuje na lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwania na spadki. Oczekiwany zasięg ruchu wynosi od 648.06 do 675.44 punktów przy wolumenie opcji 8,506,238.</li>
+</ul>
+<p>Raport H-Log: 2026-11-17 04:07</p>
 <h3>📈 [2026-11-17 03:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
