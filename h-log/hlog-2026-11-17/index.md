@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 13:07
+Data: 2026-11-17 14:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.17</h1>
+<h3>📈 [2026-11-17 14:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Zamknięty. Indeks NDX zamknął sesję na poziomie 27197.15 (-2.67%), przy skumulowanym przepływie CVD na poziomie 281,38 M. Mimo spadku ceny indeksu, odnotowano istotny napływ kapitału na rynku kasowym, co sugeruje pasywną absorpcję podaży. ETF QQQ zamknął się przy cenie 661.82 (-2.67%) z ujemnym przepływem CVD wynoszącym -802,08 K, co wskazuje na test podaży w sektorze kasowym.</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Obecnie cena kontraktów NQ wynosi 27413.50 (+0.48%). Skumulowany przepływ CVD dla NQ wynosi 6,13 K, co sygnalizuje test popytu w handlu poza sesją regularną.</li>
+<li><strong>Sentyment i zmienność:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 40, co wskazuje na umiarkowaną przewagę napływu kapitału. Zmienność implikowana (IV) na opcjach QQQ wynosi 28.71%, przy wskaźniku Put/Call Volume Ratio na poziomie 1.04 i wolumenie opcji 8,506,238. Dane te wskazują na lekką przewagę pozycji zabezpieczających (hedgingu) oraz oczekiwany zasięg ruchu w przedziale od 648.06 do 675.44 punktów.</li>
+<li><strong>Analiza techniczna i poziomy:</strong> Bieżąca korekta od szczytu z dnia 11.11 (28593.00) wynosi -4.88% (-1396 pkt). Jest to zwykłe cofnięcie, klasyfikowane jako głębsze niż 44% historycznych korekt w analizowanym zbiorze. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 27170–27190, natomiast strefa oporu znajduje się w przedziale 27640–27660.</li>
+</ul>
+<p>Raport H-Log: 2026-11-17 14:07</p>
 <h3>📈 [2026-11-17 13:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
