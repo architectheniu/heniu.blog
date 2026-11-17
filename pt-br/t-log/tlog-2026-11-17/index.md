@@ -1,6 +1,6 @@
 # M15: 2026-11-17
 
-Data: 2026-11-17 08:29
+Data: 2026-11-17 08:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.17 [PT-BR]</h1>
+<h3>⏱️ [2026-11-17 08:59] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>27360.75</strong> (+0.28%; desde a entrada anterior +43.50 pts, +0.16%) · parcela da amplitude média diária (ADR) utilizada <strong>33.52%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>3.81 K</strong> [teste de demanda] (desde a entrada anterior +0.57 K) · indicador de direção <strong>40</strong> (escala ±100; +0)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista às 15:30 (horário da Polônia).</li>
+</ul>
+<p>O aumento do valor do CVD indica um aumento na atividade dos compradores, o que se traduziu em um movimento de preço positivo.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 08:53 fluxo repentino de NQ para baixo; ignição de fluxo de NQ.</p>
 <h3>⏱️ [2026-11-17 08:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>27317.25</strong> (+0.12%; desde a entrada anterior +23.50 pts, +0.09%) · parcela da amplitude média diária (ADR) utilizada <strong>33.52%</strong></li>
