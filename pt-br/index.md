@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [M15: 2026-11-17](https://heniu.blog/pt-br/t-log/tlog-2026-11-17/index.md) (2026-11-17)
 - [Fundamentos #0083: Relatórios de empresas: Walmart, Moderna, Western Digital; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-17-0083/index.md) (2026-11-17)
 - [H1: 2026-11-17](https://heniu.blog/pt-br/h-log/hlog-2026-11-17/index.md) (2026-11-17)
-- [M15: 2026-11-17](https://heniu.blog/pt-br/t-log/tlog-2026-11-17/index.md) (2026-11-17)
 - [H1: 2026-11-16](https://heniu.blog/pt-br/h-log/hlog-2026-11-16/index.md) (2026-11-16)
 - [M15: 2026-11-16](https://heniu.blog/pt-br/t-log/tlog-2026-11-16/index.md) (2026-11-16)
 - [Log #0230: Resumo da sessão 2026-11-16: NDX 27204.67 (-2.67%)](https://heniu.blog/pt-br/posts/log-0230/index.md) (2026-11-16)
