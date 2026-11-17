@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 06:07
+Data: 2026-11-17 07:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.17</h1>
+<h3>📈 [2026-11-17 07:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na kontraktach terminowych NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Cena kontraktów NQ wynosi 27303.25 (+0.07%), przy skumulowanym przepływie (CVD) na poziomie 3,78 K, co wskazuje na testowanie popytu w sesji poza sesją główną.</li>
+<li><strong>Analiza rynku kasowego (zamknięty):</strong> Indeks NDX zamknął sesję na poziomie 27202.97 (-2.67%). Odnotowano istotną dywergencję: mimo spadku ceny, skumulowany przepływ (CVD) dla NDX wyniósł 68,18 M, co przy jednoczesnym ujemnym przepływie w ETF QQQ (-803,84 K) sugeruje proces absorpcji podaży lub akumulacji na niższych poziomach.</li>
+<li><strong>Sentyment i opcje:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 40, co wskazuje na umiarkowaną przewagę napływu kapitału. Rynek opcji QQQ przy wolumenie 8,506,238 i wskaźniku Put/Call Ratio 1.04 wskazuje na wyrównany sentyment z lekką przewagą zabezpieczeń spadkowych. Zmienność implikowana (IV) wynosi 28.71%, a oczekiwany zasięg ruchu mieści się w przedziale 648.06 – 675.44.</li>
+<li><strong>Poziomy techniczne:</strong> Trwa korekta od szczytu z dnia 11.11 (28593.00), która wynosi obecnie -4.86%. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 27170–27190, natomiast opór techniczny wyznaczony jest na poziomie 27640–27660.</li>
+</ul>
+<p>Raport H-Log: 2026-11-17 07:07</p>
 <h3>📈 [2026-11-17 06:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
