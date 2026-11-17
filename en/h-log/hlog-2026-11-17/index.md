@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Date: 2026-11-17 11:08
+Date: 2026-11-17 12:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-17/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.17 [EN]</h1>
+<h3>📈 [2026-11-17 12:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status and NQ contracts</strong>: the cash session (Spot) is currently closed. NQ contracts are trading at 27264.00 (-0.07%), with a cumulative flow (CVD) of 599, indicating a demand test in the current session.</li>
+<li><strong>the cash session analysis (closed)</strong>: the NDX Star closed the session at 27197.15 (-2.67%). A significant divergence was noted: despite a price drop of -2.67%, the cumulative flow (CVD) for the NDX Star was 281.38 M, suggesting buying activity in the cash session. the QQQ ETF closed at 661.82 (-2.67%) with a negative CVD flow of -802.08 K, indicating a supply test.</li>
+<li><strong>Sentiment and options</strong>: the direction gauge is 40, which means a moderate advantage of capital inflow. In the Options on QQQ market, volume was 8,506,238 with a Put/Call Ratio at 1.04, suggesting a slight advantage of hedging positions or anticipation of further selling pressure. Implied volatility (IV) is 28.71%, and the expected range of movement is the interval from 648.06 to 675.44 points.</li>
+<li><strong>Technical context</strong>: the ongoing Drawdown from Heniu's peak from 11.11 (28593.00) is -4.88% (-1396 pts). This is a standard pullback, deeper than in 44% of historical cases. The nearest support is located in the volume zone 27170–27190 (0.8% volume), while resistance is located in the 27640–27660 zone (0.6% volume).</li>
+</ul>
+<p>H-Log Report: 2026-11-17 12:07</p>
 <h3>📈 [2026-11-17 11:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
