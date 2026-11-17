@@ -1,6 +1,6 @@
 # M15: 2026-11-17
 
-Date: 2026-11-17 21:59
+Date: 2026-11-17 22:29
 URL: https://heniu.blog/en/t-log/tlog-2026-11-17/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.17 [EN]</h1>
+<h3>⏱️ [2026-11-17 22:29] · Futures (cash market closed)</h3>
+<ul>
+<li><strong>NQ contract:</strong> <strong>27194.00</strong> (-0.33%; since the previous entry +167.00 pts, +0.62%) · share of the average daily range (ADR) used <strong>88.63%</strong></li>
+<li><strong>NQ flow:</strong> CVD <strong>-16.34 K</strong> [sell-off] (since the previous entry +22.84 K) · direction gauge <strong>35</strong> (±100 scale; +85)</li>
+<li>NDX, QQQ, market breadth and the company basket return with the opening of the cash session on Wednesday at 15:30 Polish time.</li>
+</ul>
+<p>Since the previous entry, a sudden increase in flow and an ignition of the NQ instrument has been observed, which translated into an increase in the contract price. Despite this movement, the CVD value has improved, although it remains at a negative level.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 22:00 sudden NQ flow upward; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-17 21:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26945.27</strong> (-0.93%; since the previous entry +42.34 pts) · NQ <strong>27027.00</strong> (-0.95%; +40.50 pts) · QQQ <strong>655.59 USD</strong> (-0.93%)</li>

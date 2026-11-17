@@ -6,8 +6,8 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
-- [Log #0231: Session summary 2026-11-17: NDX 27002.40 (-0.72%)](https://heniu.blog/en/posts/log-0231/index.md) (2026-11-17)
 - [M15: 2026-11-17](https://heniu.blog/en/t-log/tlog-2026-11-17/index.md) (2026-11-17)
+- [Log #0231: Session summary 2026-11-17: NDX 27002.40 (-0.72%)](https://heniu.blog/en/posts/log-0231/index.md) (2026-11-17)
 - [H1: 2026-11-17](https://heniu.blog/en/h-log/hlog-2026-11-17/index.md) (2026-11-17)
 - [Fundamentals #0083: Company filings: Walmart, Moderna, Western Digital; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-17-0083/index.md) (2026-11-17)
 - [H1: 2026-11-16](https://heniu.blog/en/h-log/hlog-2026-11-16/index.md) (2026-11-16)
