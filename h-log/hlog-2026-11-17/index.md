@@ -1,6 +1,6 @@
 # H1: 2026-11-17
 
-Data: 2026-11-17 21:07
+Data: 2026-11-17 23:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.17</h1>
+<h3>📈 [2026-11-17 zamknięcie]</h3>
+<p><strong>H-LOG: Podsumowanie sesji kasowej</strong></p>
+<p>To jest podsumowanie sesji kasowej (Spot) z 2026-11-17. Indeks NDX zamknął się na poziomie 27002.40, co oznacza zmianę o -0.72%, natomiast kontrakt NQ osiągnął wartość 27158.75 przy zmianie -0.45%. ETF QQQ zakończył sesję na poziomie 657.00, odnotowując spadek o -0.72%. Wskaźnik TICKQ na zamknięciu wyniósł -721.00, przy średniej SMA200 na poziomie -50.23. Zmienność implikowana QQQ (IV) wynosi 30.88%, a stosunek Put/Call OI kształtuje się na poziomie 1.09.</p>
+<p>Raport H-Log: podsumowanie sesji 2026-11-17</p>
 <h3>📈 [2026-11-17 21:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
