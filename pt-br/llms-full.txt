@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0083: Relatórios de empresas: Walmart, Moderna, Western Digital; transações de insiders
+
+Data: 2026-11-17 10:11
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-17-0083/
+
+
+Walmart (WMT) apresentou um relatório sobre mudanças no conselho de administração referente à nomeação de Joseph E. Creed para o cargo de membro do conselho de administração.
+
+Moderna (MRNA) apresentou um relatório sobre a celebração de um contrato importante e sobre um compromisso financeiro.
+
+Western Digital (WDC) apresentou um relatório sobre a celebração de um contrato importante.
+
+Insiders em 16.11 venderam ações por 19,9 mi USD, incluindo 16,4 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi reportada pelos insiders da Vertex Pharmaceuticals (VRTX): 8,4 mi USD; a segunda: Western Digital (WDC): 6,2 mi USD.
+
+Walmart (WMT): 8-K: 5.02 mudanças na administração/conselho (Documento: 8-K 5.02,9.01; Data de submissão (hora USA): 16.11; Conteúdo 8-K 5.02 (mudança na administração ou conselho): cargo: membro do conselho de administração; tipo de mudança: nomeação; data: 13.11.2026; pessoas: Joseph E. Creed; sucessor: não aplicável (nomeação); citação (EN): „Effective as of November 13, 2026, the Board of Directors (the "Board") of Walmart Inc. ("Walmart") appointed Joseph E. Creed as a member of the Board.”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/104169/000010416926000165/0000104169-26-000165-index.htm).
+
+Moderna (MRNA): 8-K: 1.01 contrato importante, 2.03 compromisso financeiro (Documento: 8-K 1.01,2.03,9.01; Data de submissão (hora USA): 16.11; Conteúdo 8-K 1.01 (celebração de um contrato importante): contrato: Material Definitive Agreement; citação (EN): „On November 9 , 2026 , Moderna, Inc. (the “Company”) entered into Amendment No. 1 (the “Amendment”) to its Credit and Guaranty Agreement, dated as of November 19, 2025 (the “Credit Agreement”), among the Company, as borrower, the guarantor subsidiaries from time to time party thereto, the lenders from time to time…”; Conteúdo 8-K 2.03 (novo compromisso financeiro): citação (EN): „The disclosure set forth in.”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1682852/000168285226000208/0001682852-26-000208-index.htm).
+
+Western Digital (WDC): 8-K: 1.01 contrato importante (Documento: 8-K 1.01,9.01; Data de submissão (hora USA): 16.11; Conteúdo 8-K 1.01 (celebração de um contrato importante): contrato: Material Definitive Agreement; citação (EN): „On November 13, 2026, Western Digital Corporation, a Delaware corporation (“Western Digital”), entered into a credit agreement (“Credit Agreement”) among Western Digital, Bank of America, N.A., as administrative agent (the “Agent”), and the lenders party thereto.”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/106040/000119312526463554/0001193125-26-463554-index.htm).
+
+
+---
+
 ## Log #0230: Resumo da sessão 2026-11-16: NDX 27204.67 (-2.67%)
 
 Data: 2026-11-16 22:04
@@ -1341,24 +1364,5 @@ No quarto trimestre de 2026, a empresa espera uma receita na faixa de 16,49 bi U
 ### O que diz a diretoria
 
 A diretoria enfatizou que a demanda supera a oferta, por isso a empresa está colaborando com fornecedores para aumentar as entregas. Segundo a diretoria, as implementações nos clientes estão planejadas, e a empresa sabe para quais centros de dados seus aceleradores irão. A diretoria indicou que, diante do aumento de custo dos componentes, esses custos devem ser compartilhados com os clientes. Segundo a diretoria, os custos operacionais devem crescer mais lentamente do que a receita, o que deve aumentar a margem operacional. A diretoria prevê um próximo ano mais fraco no mercado de computadores pessoais e está monitorando o nível de estoque no canal de vendas. Segundo a diretoria, o crescimento das vendas de processadores de servidor resulta principalmente do número de chips e núcleos vendidos, e não de preços mais altos.
-
-
----
-
-## Fundamentos #0063: Apple: resultados do 4Q2026
-
-Data: 2026-11-03 23:42
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-03-0063/
-
-
-A receita da Apple (AAPL) no 4º trimestre do ano fiscal de 2026 foi de 114,48 bi USD (+11,7% ano a ano), e o lucro por ação (contábil) aumentou 13,5% ano a ano para o nível de 2,10 USD.
-
-### Resultados do trimestre
-
-O lucro por ação (contábil, básico) foi de 2,11 USD (+14,1% ano a ano), com o lucro operacional no nível de 35,63 bi USD (+9,9% ano a ano).
-
-### O que diz a diretoria
-
-A diretoria enfatizou que a Siri AI desempenha o papel de assistente, cujas capacidades serão expandidas gradualmente, mantendo o foco na privacidade e segurança. Segundo a diretoria, o iPhone deve se tornar o centro pessoal inteligente do usuário, pois ele armazena os dados mais importantes, aos quais nem mesmo a empresa tem acesso. A diretoria está otimista quanto ao crescimento de longo prazo dos serviços, apontando o número crescente de dispositivos ativos como o fundamento deste processo. Segundo a diretoria, o aumento nos preços da memória exerce pressão sobre os preços dos produtos, o que torna importantes os programas que facilitam a compra para os clientes. A diretoria também observou que, nos próximos trimestres, o benefício de estoques mais baratos diminuirá diante dos preços sem precedentes da memória. Segundo a diretoria, a produção do novo iPhone Duo está crescendo, no entanto, é difícil prever atualmente quando a oferta se igualará à demanda.
 
 
