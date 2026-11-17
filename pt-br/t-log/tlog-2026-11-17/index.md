@@ -1,6 +1,6 @@
 # M15: 2026-11-17
 
-Data: 2026-11-17 22:29
+Data: 2026-11-17 22:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-17/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.17 [PT-BR]</h1>
+<h3>⏱️ [2026-11-17 22:59] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>27118.50</strong> (-0.61%; desde a entrada anterior -75.50 pts, -0.28%) · parcela da amplitude média diária (ADR) utilizada <strong>88.63%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>-19.68 K</strong> [sell-off] (desde a entrada anterior -3.34 K) · indicador de direção <strong>35</strong> (escala ±100; +0)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista na quarta-feira às 15:30 (horário da Polônia).</li>
+</ul>
+<p>O preço do contrato NQ caiu, o que está relacionado ao rompimento e posterior invalidação do nível HVN. Ao mesmo tempo, foi observado um aprofundamento do fluxo CVD negativo.</p>
 <h3>⏱️ [2026-11-17 22:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>27194.00</strong> (-0.33%; desde a entrada anterior +167.00 pts, +0.62%) · parcela da amplitude média diária (ADR) utilizada <strong>88.63%</strong></li>
