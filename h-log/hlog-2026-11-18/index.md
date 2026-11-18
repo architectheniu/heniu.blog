@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 18:07
+Data: 2026-11-18 19:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.18</h1>
+<h3>📈 [2026-11-18 19:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX znajduje się obecnie na poziomie 27060.73 (+0.22%), przy czym skumulowany przepływ (CVD) wynosi −13,9 M, co wskazuje na testowanie podaży na rynku kasowym. Kontrakty NQ (27143.50, +0.25%) wykazują wyprzedaż z CVD na poziomie −31,27 K, a ETF QQQ (658.43, +0.23%) odnotowuje test podaży (CVD: −876,04 K). Wskaźnik kierunku przepływów wynosi -20, co oznacza przewagę dystrybucji kapitału. Szeroki rynek (TICKQ) wynosi 27.00, co przy średniej SMA200 wynoszącej -71.39 wskazuje na powolną poprawę nastrojów w szerokim sektorze.</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 29.18%, przy wolumenie opcji na poziomie 4,746,164. Put/Call Volume Ratio wynosi 1.02, co sugeruje lekką przewagę pozycji zabezpieczających (hedging) lub oczekiwanie na presję sprzedażową. Oczekiwany przez rynek zasięg ruchu dla QQQ mieści się w przedziale 645.91 do 668.81 punktów.</p>
+</li>
+<li>
+<p><strong>Kontekst techniczny i poziomy:</strong> Trwająca korekta od szczytu z 11.11 (28593.00) wynosi obecnie -5.36% (-1532 pkt). Jest to cofnięcie o charakterze zwykłym, mieszczące się w medianie historycznych korekt. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 27020–27040 (0.5% wolumenu), natomiast najbliższy opór to strefa 27170–27190 (0.9% wolumenu).</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-11-18 19:07</p>
 <h3>📈 [2026-11-18 18:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
