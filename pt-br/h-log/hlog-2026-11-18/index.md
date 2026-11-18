@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 04:08
+Data: 2026-11-18 05:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.18 [PT-BR]</h1>
+<h3>📈 [2026-11-18 05:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos NQ estão sendo negociados em 27190.25 (+0.42%), com um fluxo acumulado (CVD) negativo de -6,91 K, o que indica um teste de oferta.</li>
+<li><strong>Fluxos e sentimento:</strong> O indicador de direção agregado de fluxos é 35, o que significa uma entrada de capital positiva contínua. Apesar da queda do índice NDX de -0.72%, foi registrada uma forte entrada de capital na sessão à vista (CVD NDX: 144,31 M), o que sugere uma absorção passiva da oferta.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 30.38%, e a relação Put/Call em 1.22 indica uma predominância de posições de proteção (hedging) ou um aumento no interesse por opções de venda. O alcance esperado do movimento é de 641.57 a 672.33 pontos com um volume de 8,880,157.</li>
+<li><strong>Níveis técnicos:</strong> O índice NDX encontra-se em uma fase de Recuo desde o pico do Heniu do dia 11.11 (28593.00), que atualmente é de -5.56%. O suporte mais próximo está na zona de volume 26880–26900 (0.7% de volume), enquanto a resistência está na zona 27020–27040 (0.5% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-18 05:07</p>
 <h3>📈 [2026-11-18 04:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
