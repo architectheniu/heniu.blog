@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Data: 2026-11-18 15:44
+Data: 2026-11-18 15:59
 Adres: https://heniu.blog/t-log/tlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.18</h1>
+<h3>⏱️ [2026-11-18 15:59] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27148.26</strong> (+0.55%; od poprzedniego wpisu +193.09 pkt) · NQ <strong>27242.50</strong> (+0.60%; +199.00 pkt) · QQQ <strong>660.81 USD</strong> (+0.58%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>37.89 M</strong> [akumulacja] · CVD NQ <strong>-34.31 K</strong> [wyprzedaż] (od poprzedniego wpisu +3.66 K) · CVD QQQ <strong>-906.29 K</strong> [test podaży] · TICKQ <strong>194</strong> [akumulacja] · średnia SMA200 <strong>-52.58</strong> [załamanie rynku] (+1.90) · wskaźnik kierunku <strong>43</strong> (skala ±100; +50)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.40 bln USD</strong> (od poprzedniego wpisu +0.00 bln USD) · udział spółek powyżej 1 bln USD <strong>68.9%</strong> (+0.0 pp) · średnia cena akcji <strong>279.81 USD</strong> (+1.74 USD) · opcje QQQ: zmienność implikowana <strong>28.99%</strong>, put/call <strong>0.65</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>27060–27080</strong> (0.25% niżej) · najbliższa powyżej ceny <strong>27170–27190</strong> (0.08% wyżej)</li>
+</ul>
+<p>Cena NQ wzrosła, co wiąże się z poprawą w danych CVD dla indeksu NDX przy jednoczesnym testowaniu podaży w QQQ. W międzyczasie powstał nowy węzeł wolumenu w okolicach obecnych poziomów cenowych, a wsparcie na niższym poziomie zostało przebite.</p>
 <h3>⏱️ [2026-11-18 15:44] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>26955.17</strong> (-0.17%) · NQ <strong>27043.50</strong> (-0.11%; od poprzedniego wpisu -191.00 pkt) · QQQ <strong>655.96 USD</strong> (-0.15%)</li>
