@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0086: Palo Alto Networks: 1Q2027 results
+
+Date: 2026-11-19 00:53
+URL: https://heniu.blog/en/f-log/flog-2026-11-19-0086/
+
+
+Palo Alto Networks (PANW) revenue grew 39.2% year over year to 3.45 billion USD, and earnings per share grew 21.3% year over year to 0.57 USD.
+
+### Quarterly results
+
+Net income was 482.00 million USD compared to 334.00 million USD a year earlier (+44.3% year over year). Adjusted earnings per share was 1.05 USD compared to 0.93 USD a year earlier (+12.9% year over year). Operating income was 96.00 million USD compared to 309.00 million USD a year earlier (−68.9% year over year).
+
+### Company guidance
+
+The company forecasts revenue in the second quarter of fiscal year 2027 at 3.53 billion USD – 3.55 billion USD and for the full fiscal year 2027 in the range of 14.52 billion USD – 14.57 billion USD. The company expects adjusted earnings per share in the second quarter of fiscal year 2027 to be 1.01–1.03 USD, and for the full fiscal year 2027 to reach the level of 4.26–4.30 USD.
+
+### Management commentary
+
+Management emphasized that demand was broad, and all of the company's platforms accelerated revenue growth. According to management, higher component costs across the industry will weigh on gross margin throughout the fiscal year. Management emphasized that demand for computing power will grow, however, the company intends to invest prudently and maintain high free cash flow margins even during periods of higher capital expenditures. According to management, companies are still in a very early stage of AI implementation, and most agent applications are still in the testing and pilot phase.
+
+
+---
+
 ## Log #0232: Session summary 2026-11-18: NDX 27113.95 (+0.42%)
 
 Date: 2026-11-18 22:04
@@ -1410,28 +1433,5 @@ In Q4 2026, the company expects revenue in the range of 730.00 million USD – 7
 ### Management commentary
 
 Management emphasized that the business model is generating increasing leverage, as operating costs are growing slower than revenue. According to management, Scorpio X switches are expected to continue recording growth thanks to new customers and platforms. Management indicated that Orion rack solutions are expected to improve margin through software sales and licensing fees. According to management, the transition to optical connectivity increases the company's chances, as it earns significantly more from it than from copper solutions. Management also noted that the new Orion rack is not dependent on a single accelerator supplier.
-
-
----
-
-## Fundamentals #0068: Palantir Technologies: 3Q2026 results
-
-Date: 2026-11-04 11:38
-URL: https://heniu.blog/en/f-log/flog-2026-11-04-0068/
-
-
-Palantir Technologies (PLTR) revenue in the third quarter was 2.31 billion USD (+95.9% year over year), and GAAP earnings per share increased to 0.44 USD (+144.4% year over year).
-
-### Quarterly results
-
-GAAP earnings per share was 0.47 USD (+135.0% year over year), while adjusted earnings per share reached the level of 0.44 USD (+109.5% year over year).
-
-### Company guidance
-
-The company expects revenue in Q4 2026 at the level of 2.65 billion USD and for the full year 2026 at the level of 8.53 billion USD. According to guidance, adjusted operating income (non-GAAP) is expected to be 1.64 billion USD in Q4 2026 and 5.25 billion USD for the full year 2026, with adjusted free cash flows (non-GAAP) in the range of 4.80 billion USD – 5.00 billion USD for the full year 2026.
-
-### What management says
-
-Management emphasized that commercial customers are moving from discussions to the pilot and implementation phase significantly faster, with initial contracts being shorter but undergoing significant expansion. According to management, the company cannot keep up with demand, which forces a shift of human resources toward inbound customers due to limited capacity. Management indicated that current results stem to a greater extent from the rapid growth of the entire market than from the company's own effectiveness. According to management, the value of artificial intelligence is being created at the level of processes within an organization, and not just by increasing the efficiency of individual employees. Management also noted that customers using Sovereign AI workshops are implementing solutions with great haste, which, according to management, is only the beginning of this trend.
 
 

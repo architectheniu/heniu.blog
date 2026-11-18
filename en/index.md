@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0086: Palo Alto Networks: 1Q2027 results](https://heniu.blog/en/f-log/flog-2026-11-19-0086/index.md) (2026-11-19)
 - [M15: 2026-11-19](https://heniu.blog/en/t-log/tlog-2026-11-19/index.md) (2026-11-19)
 - [H1: 2026-11-19](https://heniu.blog/en/h-log/hlog-2026-11-19/index.md) (2026-11-19)
 - [H1: 2026-11-18](https://heniu.blog/en/h-log/hlog-2026-11-18/index.md) (2026-11-18)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [H1: 2026-11-04](https://heniu.blog/en/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 - [M15: 2026-11-04](https://heniu.blog/en/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 - [Log #0220: SESSION REPORT 2026-11-04: NDX 28438.26 (+0.91%)](https://heniu.blog/en/posts/log-0220/index.md) (2026-11-04)
-- [Fundamentals #0073: Datadog: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0073/index.md) (2026-11-04)
 

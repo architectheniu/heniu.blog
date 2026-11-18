@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0086: Palo Alto Networks: wyniki za 1Q2027
+
+Data: 2026-11-19 00:53
+Adres: https://heniu.blog/f-log/flog-2026-11-19-0086/
+
+
+Przychody Palo Alto Networks (PANW) wzrosły w kwartale o 39,2% r/r do 3,45 mld USD, a zysk na akcję wzrósł o 21,3% r/r do 0,57 USD.
+
+### Wyniki kwartału
+
+Zysk netto wyniósł 482,00 mln USD wobec 334,00 mln USD rok wcześniej (+44,3% r/r). Zysk na akcję skorygowany wyniósł 1,05 USD wobec 0,93 USD rok wcześniej (+12,9% r/r). Zysk operacyjny wyniósł 96,00 mln USD wobec 309,00 mln USD rok wcześniej (−68,9% r/r).
+
+### Prognoza spółki
+
+Spółka prognozuje przychody w II kwartale roku obrotowego 2027 na poziomie 3,53 mld USD – 3,55 mld USD oraz na cały rok obrotowy 2027 w przedziale 14,52 mld USD – 14,57 mld USD. Spółka spodziewa się, że skorygowany zysk na akcję w II kwartale roku obrotowego 2027 wyniesie 1,01–1,03 USD, a w całym roku obrotowym 2027 osiągnie poziom 4,26–4,30 USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że popyt był szeroki, a wszystkie platformy spółki przyspieszyły wzrost przychodów. Według zarządu wyższe w całej branży koszty podzespołów będą obciążać marżę brutto przez cały rok obrotowy. Zarząd podkreślał, że zapotrzebowanie na moc obliczeniową będzie rosło, jednak spółka zamierza inwestować oszczędnie i utrzymywać wysokie marże wolnych przepływów pieniężnych nawet w okresie większych nakładów inwestycyjnych. Według zarządu firmy są wciąż na bardzo wczesnym etapie wdrażania AI, a większość zastosowań agentów znajduje się jeszcze w fazie testów i pilotaży.
+
+
+---
+
 ## Log #0232: Podsumowanie sesji 2026-11-18: NDX 27113.95 (+0.42%)
 
 Data: 2026-11-18 22:04
@@ -1454,28 +1477,5 @@ Na rok 2026 spółka spodziewa się przychodów w przedziale 38,90 mld USD – 3
 ### Co mówi zarząd
 
 Zarząd podkreślał, że spółka chce zachować dyscyplinę w wydatkach, tak aby przy przejęciach zysk odnosiły także akcjonariusze. Według zarządu, po aktualizacji wytycznych lekarze szybko zmienią sposób leczenia na korzyść leku IMDELLTRA, który działa mocno w połączeniu z chemioterapią. Zarząd wyraził oczekiwanie podobnej skuteczności w połączeniu z koniugatami przeciwciało–lek oraz zaznaczył, że spółka jest pewna swojej pozycji jako niezawodny dostawca leków biopodobnych, projektując nowe moce produkcyjne pod większe ilości białka. Według zarządu daxdilimab w toczniu skórnym będzie przepisywany głównie przez dermatologów, w czym spółka posiada doświadczenie i odpowiednie zespoły.
-
-
----
-
-## Fundamenty #0069: Astera Labs: wyniki za 3Q2026
-
-Data: 2026-11-04 11:56
-Adres: https://heniu.blog/f-log/flog-2026-11-04-0069/
-
-
-Przychody Astera Labs (ALAB) wzrosły w III kwartale o 153,7% r/r do 584,90 mln USD, a zysk na akcję (księgowy) zwiększył się o 98,0% r/r do 0,99 USD.
-
-### Wyniki kwartału
-
-Zysk na akcję (księgowy, podstawowy) wyniósł 1,05 USD, co stanowi wzrost o 94,4% r/r w porównaniu do 0,54 USD rok wcześniej.
-
-### Prognoza spółki
-
-W IV kwartale 2026 spółka spodziewa się przychodów w przedziale 730,00 mln USD – 750,00 mln USD oraz zysku na akcję (GAAP) na poziomie 1,13–1,17 USD. Spółka prognozuje również marżę brutto na poziomie ok. 72,0% oraz zysk na akcję skorygowany (non-GAAP) w przedziale 1,62–1,66 USD.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że model biznesowy generuje coraz większą dźwignię, ponieważ koszty operacyjne rosną wolniej niż przychody. Według zarządu przełączniki Scorpio X mają nadal odnotowywać wzrosty dzięki nowym klientom oraz platformom. Zarząd wskazywał, że rozwiązania szafowe Orion mają poprawiać marżę dzięki sprzedaży oprogramowania i pobieraniu opłat licencyjnych. Według zarządu przejście na łączność optyczną zwiększa szanse spółki, gdyż zarabia ona na niej znacznie więcej niż na rozwiązaniach miedzianych. Zarząd zaznaczył również, że nowa szafa Orion nie jest uzależniona od jednego dostawcy akceleratorów.
 
 
