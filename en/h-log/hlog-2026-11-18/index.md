@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Date: 2026-11-18 20:07
+Date: 2026-11-18 21:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-18/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.18 [EN]</h1>
+<h3>📈 [2026-11-18 21:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is rising by 0.38% to the level of 27104.22, with a drawdown from Heniu's peak on 11.11 (28593.00) of -5.21% (-1489 pts). A divergence exists between the cash and futures markets: NDX shows a demand test (CVD: 10,48 M), while NQ futures contracts (27184.25, +0.40%) and the QQQ ETF (659.46, +0.38%) show supply pressure (CVD NQ: -15,6 K; CVD QQQ: -671,69 K). The aggregate direction gauge of flows is -10, signaling a slight predominance of capital distribution.</li>
+<li><strong>Broad market:</strong> The TICKQ indicator is 2.00, which, given the SMA200 average at -92.01, indicates the presence of rising components in the Nasdaq broad market, despite negative flow sentiment.</li>
+<li><strong>QQQ Options analysis:</strong> Implied volatility (IV) is 29.65%, and the Put/Call Volume Ratio at 1.00 indicates full equilibrium between demand for call and put options. The expected movement range lies between 651.20 and 672.82 with an options volume of 6,522,799.</li>
+<li><strong>Technical levels:</strong> The nearest support zone is in the 27060–27080 range (0.7% volume). The resistance zone is above the price in the 27170–27190 range (0.9% volume). The current correction falls within the class of a regular pullback.</li>
+</ul>
+<p>H-Log Report: 2026-11-18 21:07</p>
 <h3>📈 [2026-11-18 20:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>

@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 20:08
+Data: 2026-11-18 21:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.18 [PT-BR]</h1>
+<h3>📈 [2026-11-18 21:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O índice NDX está subindo 0.38% para o nível 27104.22, sendo que desde o pico de 11.11 (28593.00) ocorre um recuo de -5.21% (-1489 pts). Existe uma divergência entre o mercado à vista e o de futuros: o NDX apresenta um teste de demanda (CVD: 10,48 M), enquanto os contratos NQ (27184.25, +0.40%) e o ETF QQQ (659.46, +0.38%) apresentam pressão de oferta (CVD NQ: -15,6 K; CVD QQQ: -671,69 K). O indicador de direção de fluxo agregado é de -10, o que sinaliza uma leve vantagem na distribuição de capital.</li>
+<li><strong>Amplitude de mercado:</strong> O indicador TICKQ é de 2.00, o que, com a média SMA200 no nível de -92.01, indica a presença de componentes de alta na amplitude de mercado da Nasdaq, apesar do sentimento negativo dos fluxos.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 29.65%, e a Put/Call Volume Ratio no nível de 1.00 indica pleno equilíbrio entre a demanda por opções de compra e de venda. O alcance esperado do movimento situa-se no intervalo de 651.20 a 672.82 com um volume de opções de 6,522,799.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima encontra-se no intervalo de 27060–27080 (0.7% de volume). A zona de resistência encontra-se acima do preço no intervalo de 27170–27190 (0.9% de volume). O recuo atual enquadra-se na classe de um retrocesso comum.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-18 21:07</p>
 <h3>📈 [2026-11-18 20:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
