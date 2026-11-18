@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 20:07
+Data: 2026-11-18 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.18</h1>
+<h3>📈 [2026-11-18 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX rośnie o 0.38% do poziomu 27104.22, przy czym od szczytu z 11.11 (28593.00) trwa korekta wynosząca -5.21% (-1489 pkt). Występuje rozbieżność (divergence) między rynkiem kasowym a terminowym: NDX wykazuje test popytu (CVD: 10,48 M), podczas gdy kontrakty NQ (27184.25, +0.40%) oraz ETF QQQ (659.46, +0.38%) wykazują presję podaży (CVD NQ: -15,6 K; CVD QQQ: -671,69 K). Zbiorczy wskaźnik kierunku przepływów wynosi -10, co sygnalizuje lekką przewagę dystrybucji kapitału.</li>
+<li><strong>Szeroki rynek:</strong> Wskaźnik TICKQ wynosi 2.00, co przy średniej SMA200 na poziomie -92.01 wskazuje na obecność komponentów wzrostowych w szerokim rynku Nasdaq, mimo ujemnego sentymentu przepływów.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 29.65%, a Put/Call Volume Ratio na poziomie 1.00 wskazuje na pełną równowagę między popytem na opcje kupna i sprzedaży. Oczekiwany zasięg ruchu mieści się w przedziale 651.20 do 672.82 przy wolumenie opcji 6,522,799.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia znajduje się w przedziale 27060–27080 (0.7% wolumenu). Strefa oporu znajduje się powyżej ceny w przedziale 27170–27190 (0.9% wolumenu). Bieżąca korekta mieści się w klasie zwykłego cofnięcia.</li>
+</ul>
+<p>Raport H-Log: 2026-11-18 21:07</p>
 <h3>📈 [2026-11-18 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
