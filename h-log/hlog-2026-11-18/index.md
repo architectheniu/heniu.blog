@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 10:07
+Data: 2026-11-18 11:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.18</h1>
+<h3>📈 [2026-11-18 11:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Kontrakty NQ notowane są na poziomie 27416.25 (+1.26%), przy ujemnym przepływie skumulowanym (CVD) wynoszącym -1,82 K, co wskazuje na testowanie podaży.</li>
+<li><strong>Sentyment i przepływy:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 35, co oznacza umiarkowaną przewagę napływu kapitału. Na zamknięciu sesji kasowej odnotowano rozbieżność: mimo spadku indeksu NDX o -0.72%, skumulowany przepływ (CVD) wyniósł 404,97 M, co sugeruje proces akumulacji na niższych poziomach.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 30.38%, a stosunek wolumenu Put/Call (PCR) na poziomie 1.22 wskazuje na dominację pozycji zabezpieczających (hedgingu) lub oczekiwania na spadki. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 641.57 do 672.33 punktów przy wolumenie 8,880,157.</li>
+<li><strong>Poziomy techniczne:</strong> Indeks NDX znajduje się w fazie korekty od szczytu z 11.11 (28593.00), która wynosi obecnie -5.56% (-1591 pkt). Kluczowe węzły wolumenu: najbliższe wsparcie znajduje się w strefie 26880–26900 (0.7% wolumenu), a opór w strefie 27020–27040 (0.5% wolumenu). Obecna cena NDX (27002.40) znajduje się w strefie o wysokim wolumenie (26990–27010).</li>
+</ul>
+<p>Raport H-Log: 2026-11-18 11:07</p>
 <h3>📈 [2026-11-18 10:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
