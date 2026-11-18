@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Data: 2026-11-18 18:44
+Data: 2026-11-18 18:59
 Adres: https://heniu.blog/t-log/tlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.18</h1>
+<h3>⏱️ [2026-11-18 18:59] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27092.56</strong> (+0.34%; od poprzedniego wpisu +5.63 pkt) · NQ <strong>27173.25</strong> (+0.36%; +7.75 pkt) · QQQ <strong>659.17 USD</strong> (+0.34%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-8.01 M</strong> [test podaży] · CVD NQ <strong>-31.09 K</strong> [wyprzedaż] (od poprzedniego wpisu -3.25 K) · CVD QQQ <strong>-796.8 K</strong> [test podaży] · TICKQ <strong>-164</strong> [wyprzedaż] · średnia SMA200 <strong>-68.87</strong> [załamanie rynku] (-2.12) · wskaźnik kierunku <strong>-25</strong> (skala ±100; -10)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.43 bln USD</strong> (od poprzedniego wpisu +0.01 bln USD) · udział spółek powyżej 1 bln USD <strong>69.0%</strong> (+0.0 pp) · średnia cena akcji <strong>278.78 USD</strong> (-0.24 USD) · opcje QQQ: zmienność implikowana <strong>28.80%</strong>, put/call <strong>1.00</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>27060–27080</strong> (0.05% niżej) · najbliższa powyżej ceny <strong>27170–27190</strong> (0.29% wyżej)</li>
+</ul>
+<p>Indeks NDX odnotował niewielki wzrost, podczas gdy szerokość rynku wskazuje na wyprzedaż. Występuje rozbieżność między kierunkiem zmian indeksu a negatywnym odczytem TICKQ. Najbliższe wsparcie znajduje się poniżej obecnej ceny, a opór powyżej.</p>
 <h3>⏱️ [2026-11-18 18:44] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27086.93</strong> (+0.32%; od poprzedniego wpisu -114.07 pkt) · NQ <strong>27165.50</strong> (+0.34%; -116.50 pkt) · QQQ <strong>659.01 USD</strong> (+0.31%)</li>
