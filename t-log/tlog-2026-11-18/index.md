@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Data: 2026-11-18 16:44
+Data: 2026-11-18 16:59
 Adres: https://heniu.blog/t-log/tlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.18</h1>
+<h3>⏱️ [2026-11-18 16:59] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27042.46</strong> (+0.16%; od poprzedniego wpisu +72.67 pkt) · NQ <strong>27121.75</strong> (+0.16%; +72.00 pkt) · QQQ <strong>657.86 USD</strong> (+0.14%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>13.06 M</strong> [test popytu] · CVD NQ <strong>-37.86 K</strong> [wyprzedaż] (od poprzedniego wpisu +2.70 K) · CVD QQQ <strong>-1.33 M</strong> [wyprzedaż] · TICKQ <strong>-150</strong> [wyprzedaż] · średnia SMA200 <strong>-56.55</strong> [załamanie rynku] (-0.54) · wskaźnik kierunku <strong>0</strong> (skala ±100; +5)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.75 bln USD</strong> (od poprzedniego wpisu +0.12 bln USD) · udział spółek powyżej 1 bln USD <strong>69.0%</strong> (-0.1 pp) · średnia cena akcji <strong>278.56 USD</strong> (+1.01 USD) · opcje QQQ: zmienność implikowana <strong>29.65%</strong>, put/call <strong>1.05</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>27020–27040</strong> (0.01% niżej) · najbliższa powyżej ceny <strong>27060–27080</strong> (0.06% wyżej)</li>
+</ul>
+<p>Cena NQ wzrosła po wystąpieniu nagłego przepływu w górę, co odnotowano w ramach alarmu przepływu. Jednocześnie w NQ nastąpiła poprawa przepływów CVD względem poprzedniego wpisu, mimo utrzymującej się wyprzedaży w QQQ. Najbliższe wsparcie znajduje się poniżej obecnych poziomów, a opór zlokalizowany jest powyżej.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 16:54 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-18 16:44] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>26969.79</strong> (-0.12%; od poprzedniego wpisu -142.24 pkt) · NQ <strong>27049.75</strong> (-0.10%; -150.75 pkt) · QQQ <strong>656.10 USD</strong> (-0.13%)</li>
