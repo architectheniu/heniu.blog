@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Data: 2026-11-18 17:29
+Data: 2026-11-18 17:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.18</h1>
+<h3>⏱️ [2026-11-18 17:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>26899.58</strong> (-0.38%; od poprzedniego wpisu -19.94 pkt) · NQ <strong>26982.75</strong> (-0.34%; -32.75 pkt) · QQQ <strong>654.52 USD</strong> (-0.37%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-1.33 M</strong> [test podaży] · CVD NQ <strong>-37.61 K</strong> [wyprzedaż] (od poprzedniego wpisu +0.87 K) · CVD QQQ <strong>-1.11 M</strong> [wyprzedaż] · TICKQ <strong>-250</strong> [załamanie rynku] · średnia SMA200 <strong>-62.57</strong> [załamanie rynku] (-0.41) · wskaźnik kierunku <strong>-15</strong> (skala ±100; -10)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.55 bln USD</strong> (od poprzedniego wpisu +0.07 bln USD) · udział spółek powyżej 1 bln USD <strong>69.0%</strong> (+0.0 pp) · średnia cena akcji <strong>276.78 USD</strong> (-0.17 USD) · opcje QQQ: zmienność implikowana <strong>30.29%</strong>, put/call <strong>1.07</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> cena w strefie <strong>26880–26900</strong> · najbliższa powyżej ceny <strong>26990–27010</strong> (0.34% wyżej)</li>
+</ul>
+<p>Po nagłym przepływie kapitału w górę, cena NQ najpierw przebiła poziom węzła wolumenowego, a następnie obaliła wsparcie na tym samym poziomie. W sektorze NQ doszło do wyprzedaży, co potwierdzają ujemne wartości CVD, przy jednoczesnym wzroście wartości tego wskaźnika względem poprzedniego wpisu.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 17:31 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-18 17:29] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>26919.52</strong> (-0.24%; od poprzedniego wpisu -63.75 pkt) · NQ <strong>27015.50</strong> (-0.22%; -49.00 pkt) · QQQ <strong>655.22 USD</strong> (-0.26%)</li>

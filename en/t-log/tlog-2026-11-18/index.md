@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Date: 2026-11-18 17:29
+Date: 2026-11-18 17:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-18/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.18 [EN]</h1>
+<h3>⏱️ [2026-11-18 17:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26899.58</strong> (-0.38%; since the previous entry -19.94 pts) · NQ <strong>26982.75</strong> (-0.34%; -32.75 pts) · QQQ <strong>654.52 USD</strong> (-0.37%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-1.33 M</strong> [supply test] · CVD NQ <strong>-37.61 K</strong> [sell-off] (since the previous entry +0.87 K) · CVD QQQ <strong>-1.11 M</strong> [sell-off] · TICKQ <strong>-250</strong> [market breakdown] · SMA200 average <strong>-62.57</strong> [market breakdown] (-0.41) · direction gauge <strong>-15</strong> (±100 scale; -10)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.55 trillion USD</strong> (since the previous entry +0.07 trillion USD) · share of companies above 1 trillion USD <strong>69.0%</strong> (+0.0 pp) · average share price <strong>276.78 USD</strong> (-0.17 USD) · QQQ options: implied volatility <strong>30.29%</strong>, put/call <strong>1.07</strong></li>
+<li><strong>Volume zones from session profiles:</strong> price inside the zone <strong>26880–26900</strong> · nearest above the price <strong>26990–27010</strong> (0.34% higher)</li>
+</ul>
+<p>After a sudden upward capital flow, the NQ price first broke through the volume node level, and then collapsed the support at that same level. A sell-off occurred in the NQ sector, confirmed by negative CVD values, while the indicator value simultaneously increased compared to the previous entry.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 17:31 sudden NQ flow up; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-18 17:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26919.52</strong> (-0.24%; since the previous entry -63.75 pts) · NQ <strong>27015.50</strong> (-0.22%; -49.00 pts) · QQQ <strong>655.22 USD</strong> (-0.26%)</li>
