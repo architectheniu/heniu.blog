@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Date: 2026-11-18 02:07
+Date: 2026-11-18 03:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-18/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.18 [EN]</h1>
+<h3>📈 [2026-11-18 03:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contracts:</strong> Contract price is 27169.25 (+0.35%). Cumulative flow (CVD) at -4,26 K indicates a supply test in the current price range.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 30.38%, with options volume at 8,880,157. The Put/Call Ratio is 1.22, suggesting a dominance of hedging positions or expectation of declines. The expected movement range in the next cycle is between 641.57 and 672.33 points.</li>
+<li><strong>Capital flows:</strong> The aggregate flow direction gauge is 35, meaning a moderate advantage of capital inflow into the system. Despite this, a divergence was noted at the close of the cash session: the NDX index fell by 0.72% (price 27002.69), while simultaneously seeing a strong capital inflow (CVD NDX = 144,31 M).</li>
+<li><strong>Technical levels:</strong> The index is in a correction phase from the peak of 11.11 (28593.00), which currently amounts to -5.56%. The nearest support zones (volume nodes) are located in the ranges 26990–27010 and 26880–26900. The nearest resistance zone is located in the range 27020–27040.</li>
+</ul>
+<p>H-Log Report: 2026-11-18 03:07</p>
 <h3>📈 [2026-11-18 02:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>

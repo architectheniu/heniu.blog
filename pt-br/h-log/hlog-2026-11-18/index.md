@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 02:07
+Data: 2026-11-18 03:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.18 [PT-BR]</h1>
+<h3>📈 [2026-11-18 03:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contratos NQ:</strong> O preço dos contratos é 27169.25 (+0.35%). O fluxo acumulado (CVD) no nível de -4,26 K indica um teste de oferta no intervalo de preço atual.</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 30.38%, com volume de opções no nível de 8,880,157. O Put/Call Ratio é de 1.22, o que sugere uma predominância de posições de hedge ou expectativa de quedas. O alcance esperado de movimento no ciclo mais próximo é o intervalo de 641.57 a 672.33 pontos.</li>
+<li><strong>Fluxos de capital:</strong> O indicador de direção agregado de fluxos é 35, o que significa uma vantagem moderada de entrada de capital no sistema. Apesar disso, no fechamento da sessão à vista (Spot), registrou-se uma divergência: o índice NDX caiu 0.72% (preço 27002.69), com uma entrada simultânea de capital forte (CVD NDX = 144,31 M).</li>
+<li><strong>Níveis técnicos:</strong> O índice encontra-se em fase de Recuo desde o pico do Heniu de 11.11 (28593.00), que atualmente é de -5.56%. As zonas de suporte mais próximas (nós de volume) encontram-se nos intervalos 26990–27010 e 26880–26900. A zona de resistência mais próxima encontra-se no intervalo 27020–27040.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-18 03:07</p>
 <h3>📈 [2026-11-18 02:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>A sessão de futuros</strong></p>
