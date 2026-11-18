@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Data: 2026-11-18 15:59
+Data: 2026-11-18 16:14
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.18 [PT-BR]</h1>
+<h3>⏱️ [2026-11-18 16:14] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27126.05</strong> (+0.46%; desde a entrada anterior -22.21 pts) · NQ <strong>27199.00</strong> (+0.48%; -43.50 pts) · QQQ <strong>659.83 USD</strong> (+0.44%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>33.87 M</strong> [acumulação] · CVD NQ <strong>-43.28 K</strong> [colapso do mercado] (desde a entrada anterior -8.97 K) · CVD QQQ <strong>-931.96 K</strong> [teste de oferta] · TICKQ <strong>-67</strong> [sell-off] · média SMA200 <strong>-53.67</strong> [colapso do mercado] (-1.09) · indicador de direção <strong>13</strong> (escala ±100; -30)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>38.45 trilhões de USD</strong> (desde a entrada anterior +0.05 trilhões de USD) · participação das empresas acima de 1 trilhão de USD <strong>69.0%</strong> (+0.1 p.p.) · preço médio das ações <strong>278.96 USD</strong> (-0.86 USD) · opções sobre QQQ: volatilidade implícita <strong>30.86%</strong>, put/call <strong>1.18</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>27060–27080</strong> (0.17% abaixo) · mais próxima acima do preço <strong>27170–27190</strong> (0.16% acima)</li>
+</ul>
+<p>Nesse mesmo período, foi registrada uma queda nos dados CVD para NQ e um teste de oferta em QQQ.</p>
 <h3>⏱️ [2026-11-18 15:59] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27148.26</strong> (+0.55%; desde a entrada anterior +193.09 pts) · NQ <strong>27242.50</strong> (+0.60%; +199.00 pts) · QQQ <strong>660.81 USD</strong> (+0.58%)</li>
