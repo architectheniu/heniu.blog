@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0232: Session summary 2026-11-18: NDX 27113.95 (+0.42%)
+
+Date: 2026-11-18 22:04
+URL: https://heniu.blog/en/posts/log-0232/
+
+
+**Session date:** 2026-11-18
+
+> *Session close 2026-11-18: NDX 27113.95 (+0.42%), NQ 27152.25 (+0.28%), QQQ 659.61 (+0.39%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session began at 9:30 ET (15:30 PL) at NDX levels of 27137.57 and NQ 27238.50. In the first 30 minutes until 10:00 ET (16:00 PL), NDX rose by 11.81 pts (+0.04%) to 27149.38, and NQ rose by 4.25 pts (+0.02%) to 27242.75. The lowest NDX level was recorded at 11:55 ET (17:55 PL) at 26849.62, and the highest at 12:31 ET (18:31 PL) at 27235.12. The NDX close at 27113.95 is 121.17 pts below the maximum and 264.33 pts above the minimum.
+
+**Flows and market breadth.** Cumulative flow directions are divergent, as NDX was 177,56 M euphoria, while NQ was -8,93 K supply test, and QQQ was -1,54 M sell-off. The TICKQ indicator at close was -150.00 sell-off, and its SMA200 was -103.12 market breakdown. The share of companies above 1 trillion USD in the basket capitalization was 69.06%.
+
+**End of session, options, and companies.** In the last hour of the session, NDX rose by 51.78 pts (+0.19%) to the level of 27113.95, and the MOC Anomaly at close was +25,89 M. Implied volatility (IV) for options on QQQ was 29.46%, and the put/call ratio was 1.07. In companies above 1 trillion USD, insider transaction balance was recorded at -7,93 million USD.
+
+**Day's balance.** The Nasdaq-100 index closed at 27113.95 (+0.42%).
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **27113.95 (+0.42%)**
+    * Cumulative flow (CVD): **177,56 M [euphoria]**
+    * MOC Anomaly: **+25,89 M**
+    * Average Daily Range (ADR) utilization: **62.70%**
+    * Drawdown from Heniu's highest close: **-13.17%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **27152.25 (+0.28%)**
+    * Cumulative flow (CVD): **−8,93 K [supply test]**
+    * Average Daily Range (ADR) utilization: **70.84%**
+
+* **QQQ ETF:** close **659.61 (+0.39%)**
+    * Cumulative flow (CVD): **−1,54 M [sell-off]**
+    * Average Daily Range (ADR) utilization: **63.93%**
+
+* **Market breadth (TICKQ):** reading at close **-150.00 [sell-off]**
+    * 200-reading average (SMA200): **-103.12 [market breakdown]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **29.46%**
+    * Put/call ratio (open interest, OI): **1.07**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **38.58 trillion USD** (change from previous close: **+0.38 trillion USD**)
+    * Share of companies above 1 trillion USD in basket capitalization: **69.06%** (change: **+0.08 pp**)
+    * Average share price in the basket: **$278.22** (change: **$-1.00**)
+    * Changes in the group of companies above 1 trillion USD: **unchanged**
+
+* **Session data health:** readings for 100.0% of the cash session; no gaps longer than one minute; NDX unchanged for longer than 2 min in 0.1% of readings; stale readings rejected: 51
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0232/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-11-18",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0085: CSX company filing; insider transactions
 
 Date: 2026-11-18 10:10
@@ -1353,60 +1433,5 @@ The company expects revenue in Q4 2026 at the level of 2.65 billion USD and for 
 ### What management says
 
 Management emphasized that commercial customers are moving from discussions to the pilot and implementation phase significantly faster, with initial contracts being shorter but undergoing significant expansion. According to management, the company cannot keep up with demand, which forces a shift of human resources toward inbound customers due to limited capacity. Management indicated that current results stem to a greater extent from the rapid growth of the entire market than from the company's own effectiveness. According to management, the value of artificial intelligence is being created at the level of processes within an organization, and not just by increasing the efficiency of individual employees. Management also noted that customers using Sovereign AI workshops are implementing solutions with great haste, which, according to management, is only the beginning of this trend.
-
-
----
-
-## Fundamentals #0067: Company filings: Shopify, Apple, Meta Platforms; insider transactions
-
-Date: 2026-11-04 10:11
-URL: https://heniu.blog/en/f-log/flog-2026-11-04-0067/
-
-
-> ⚠️ **ERRATUM (2026-11-04)**  
-> **Sentences about company filings did not say which company they concerned.**
->
-> **Correction:**
-> - We added the company names and tickers at the start of these sentences.
->
-> The figures and dates stay the same.
-
-### **Insider transactions summary**
-
-#### **PANW (Palo Alto Networks)**
-
-*Dominant activity related to stock disposals for tax coverage and new grant awards.*
-
-* **William D. Jenkins Jr.
-
-* **Net total (90 days):** **−17.7 million USD**
-
-#### **STX (Seagate Technology)**
-
-*Very high scale of selling by management.*
-
-* **Net total (90 days):** **−48.0 million USD**
-
-#### **FTNT (Fortinet)**
-
-*Activity focused around option exercises and tax settlements.*
-
-* **Net total (90 days):** **−21.3 million USD**
-
-#### **RKLB (Rocket Lab USA)**
-
-* **Net total (90 days):** **−17.9 million USD**
-
-#### **MDLZ (Mondelez International)**
-
-Shopify (SHOP): shelf registration S-3ASR (Document: S-3ASR; Filing date (USA time): 3.11).
-
-Apple (AAPL): annual report 10-K (Document: 10-K; Filing date (USA time): 3.11).
-
-Meta Platforms (META): form 424B5 (Document: 424B5; Filing date (USA time): 3.11).
-
-Meta Platforms (META): FWP offering materials (Document: FWP; Filing date (USA time): 3.11).
-
-Insiders 3.11: stock transactions (Form 4) (Period (filing dates, USA time): 3.11; Sell: 102.9 million USD; Including 10b5-1 plans: 100.9 million USD; Market buys: 0; Largest insider sell: Fortinet (FTNT) 21.3 million USD; second: Walmart (WMT) 20.9 million USD; Net insider total, 90 days: ADI: −14.1 million USD (buys 0, sells 14.1 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: ADP: −6.5 million USD (buys 0, sells 6.5 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: FTNT: −21.3 million USD (buys 0, sells 21.3 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: LRCX: −7.3 million USD (buys 0, sells 7.3 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: MDLZ: −8.5 million USD (buys 0, sells 8.5 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: MRVL: −7.4 million USD (buys 0, sells 7.4 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: PANW: −17.7 million USD (buys 0, sells 17.7 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: REGN: −6.2 million USD (buys 0, sells 6.2 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: RKLB: −17.9 million USD (buys 0, sells 17.9 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: ROP: −8.8 million USD (buys 0, sells 8.8 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: SNDK: −1.7 million USD (buys 0, sells 1.7 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: STX: −48.0 million USD (buys 0, sells 48.0 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: TER: −1.9 million USD (buys 0, sells 1.9 million USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: TMUS: −17 thousand USD (buys 0, sells 17 thousand USD; period 6.08–3.11; data in archive since 28.09); Net insider total, 90 days: WMT: −23.8 million USD (buys 0, sells 23.8 million USD; period 6.08–3.11; data in archive since 28.09)).
 
 

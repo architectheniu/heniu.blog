@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Log #0232: Session summary 2026-11-18: NDX 27113.95 (+0.42%)](https://heniu.blog/en/posts/log-0232/index.md) (2026-11-18)
 - [M15: 2026-11-18](https://heniu.blog/en/t-log/tlog-2026-11-18/index.md) (2026-11-18)
 - [H1: 2026-11-18](https://heniu.blog/en/h-log/hlog-2026-11-18/index.md) (2026-11-18)
 - [Fundamentals #0085: CSX company filing; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-18-0085/index.md) (2026-11-18)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0073: Datadog: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0073/index.md) (2026-11-04)
 - [Fundamentals #0072: Shopify: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0072/index.md) (2026-11-04)
 - [Fundamentals #0071: Keurig Dr Pepper: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0071/index.md) (2026-11-04)
-- [Fundamentals #0070: Amgen: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0070/index.md) (2026-11-04)
 
