@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Data: 2026-11-18 17:14
+Data: 2026-11-18 17:29
 Adres: https://heniu.blog/t-log/tlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.18</h1>
+<h3>⏱️ [2026-11-18 17:29] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>26919.52</strong> (-0.24%; od poprzedniego wpisu -63.75 pkt) · NQ <strong>27015.50</strong> (-0.22%; -49.00 pkt) · QQQ <strong>655.22 USD</strong> (-0.26%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>2.08 M</strong> [test popytu] · CVD NQ <strong>-38.48 K</strong> [wyprzedaż] (od poprzedniego wpisu +0.09 K) · CVD QQQ <strong>-1.18 M</strong> [wyprzedaż] · TICKQ <strong>-332</strong> [załamanie rynku] · średnia SMA200 <strong>-62.16</strong> [załamanie rynku] (-2.99) · wskaźnik kierunku <strong>-5</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.47 bln USD</strong> (od poprzedniego wpisu -0.04 bln USD) · udział spółek powyżej 1 bln USD <strong>69.0%</strong> (+0.0 pp) · średnia cena akcji <strong>276.95 USD</strong> (-0.48 USD) · opcje QQQ: zmienność implikowana <strong>29.64%</strong>, put/call <strong>1.06</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>26880–26900</strong> (0.07% niżej) · najbliższa powyżej ceny <strong>26990–27010</strong> (0.26% wyżej)</li>
+</ul>
+<p>Cena NQ spadła po przebiciu wsparcia węzła wolumenowego, co nastąpiło po wcześniejszym nagłym przepływie kapitału w górę. W sektorze NQ odnotowano pogłębienie wyprzedaży w ramach przepływów CVD, a w QQQ utrzymuje się trend sprzedażowy. Najbliższy opór znajduje się powyżej obecnych poziomów, natomiast wsparcie zlokalizowane jest poniżej.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 17:19 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-18 17:14] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>26983.27</strong> (-0.07%; od poprzedniego wpisu -59.19 pkt) · NQ <strong>27064.50</strong> (-0.04%; -57.25 pkt) · QQQ <strong>656.54 USD</strong> (-0.06%)</li>
