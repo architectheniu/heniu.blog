@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Date: 2026-11-18 15:29
+Date: 2026-11-18 15:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-18/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.18 [EN]</h1>
+<h3>⏱️ [2026-11-18 15:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26955.17</strong> (-0.17%) · NQ <strong>27043.50</strong> (-0.11%; since the previous entry -191.00 pts) · QQQ <strong>655.96 USD</strong> (-0.15%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>19.55 M</strong> [demand test] · CVD NQ <strong>-37.97 K</strong> [sell-off] (since the previous entry -31.47 K) · CVD QQQ <strong>-1.16 M</strong> [sell-off] · TICKQ <strong>-3</strong> [supply test] · SMA200 average <strong>-54.48</strong> [market breakdown] · direction gauge <strong>-7</strong> (±100 scale; -22)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.40 trillion USD</strong> · share of companies above 1 trillion USD <strong>68.9%</strong> · average share price <strong>278.08 USD</strong> · QQQ options: implied volatility <strong>29.22%</strong>, put/call <strong>0.69</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26880–26900</strong> (0.20% lower) · nearest above the price <strong>26990–27010</strong> (0.13% higher)</li>
+</ul>
+<p>NQ price fell, resulting from the rejection of resistance at the 27200 level and the deepening of the sell-off visible in the CVD data. Since the previous entry, a key support has been broken, and earlier flow alarms confirmed a sudden change in the direction of movement.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 15:31 sudden NQ flow up; NQ flow ignition; 15:36 sudden NQ flow down; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-18 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>27234.50</strong> (+0.59%; since the previous entry -1.75 pts, -0.01%) · share of the average daily range (ADR) used <strong>53.21%</strong></li>
