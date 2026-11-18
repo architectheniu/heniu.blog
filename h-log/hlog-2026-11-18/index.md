@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 17:07
+Data: 2026-11-18 18:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.18</h1>
+<h3>📈 [2026-11-18 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX znajduje się na poziomie 27053.13 (+0.18%), przy jednoczesnej presji sprzedaży na kontraktach NQ (27132.75, +0.21%) oraz ETF QQQ (658.09, +0.19%). Występuje rozbieżność w przepływach: podczas gdy NDX wykazuje test popytu (CVD: 2,94 M), kontrakty NQ oraz ETF QQQ wskazują na wyprzedaż i test podaży (CVD QQQ: -818,59 K). Zbiorczy wskaźnik kierunku przepływów wynosi -5, co oznacza lekką przewagę dystrybucji kapitału.</li>
+<li><strong>Analiza szerokiego rynku i opcji:</strong> Wskaźnik TICKQ wynosi 319.00, co przy średniej SMA200 na poziomie -62.30 wskazuje na silną obecność podaży w szerokim rynku. Na rynku opcji QQQ odnotowano wolumen 3,421,969 przy współczynniku Put/Call Ratio na poziomie 1.06, co sugeruje lekkie nastawienie na zabezpieczenia (hedging) lub oczekiwanie na spadki. Zmienność implikowana (IV) wynosi 30.24%, a oczekiwany zakres ruchu w przedziale 645.76 do 669.18 punktów.</li>
+<li><strong>Kontekst korekty i poziomy techniczne:</strong> Trwająca korekta od szczytu z 11.11 (28593.00) wynosi obecnie -5.39% (-1540 pkt). Jest to zwykłe cofnięcie, mieszczące się w zakresie mediany historycznych korekt. Kluczowe poziomy techniczne: najbliższe wsparcie znajduje się w strefie węzła wolumenu 27020–27040, natomiast opór zlokalizowany jest w strefie 27060–27080.</li>
+</ul>
+<p>Raport H-Log: 2026-11-18 18:07</p>
 <h3>📈 [2026-11-18 17:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
