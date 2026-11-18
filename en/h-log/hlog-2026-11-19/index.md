@@ -1,0 +1,22 @@
+# H1: 2026-11-19
+
+Date: 2026-11-19 00:07
+URL: https://heniu.blog/en/h-log/hlog-2026-11-19/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+<h1>H-LOG 2026.11.19 [EN]</h1>
+<h3>📈 [2026-11-19 00:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> The cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NDX index context:</strong> The index is in a phase of drawdown from Heniu's peak on 11.11 (28593.00), which currently stands at -5.17% (-1479 pts). This is a standard pullback, deeper than in 44% of historical cases. The nearest support is in the 27060–27080 zone, and resistance is in the 27170–27190 zone.</li>
+<li><strong>NQ contract activity:</strong> NQ contracts are trading at 27322.00 (+0.50%) with cumulative flow (CVD) at 1.92 K, indicating a demand test in the session after the cash session close.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate direction gauge of flows is 50, meaning a neutral balance between capital inflow and outflow. A divergence was noted between the NDX index (CVD: 177.56 M) and the QQQ ETF (CVD: -1.54 M).</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 29.23%, and the Put/Call Volume Ratio is 1.01, suggesting a slight prevalence of hedging positions or anticipation of higher volatility. The market-expected movement range lies between 649.19 and 669.83.</li>
+</ul>
+<p>H-Log Report: 2026-11-19 00:07</p>
+
