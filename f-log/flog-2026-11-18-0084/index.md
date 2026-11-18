@@ -1,0 +1,23 @@
+# Fundamenty #0084: NVIDIA: wyniki za 3Q2027
+
+Data: 2026-11-18 01:03
+Adres: https://heniu.blog/f-log/flog-2026-11-18-0084/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody NVIDIA (NVDA) wzrosły w trzecim kwartale roku obrotowego 2027 o 103,2% r/r do 115,84 mld USD, a zysk na akcję wzrósł o 107,7% r/r do 2,70 USD.
+
+### Wyniki kwartału
+
+Marża brutto wyniosła 74,8% wobec 73,4% rok wcześniej (+1,4 pp r/r). Zysk operacyjny sięgnął 77,52 mld USD wobec 36,01 mld USD rok wcześniej (+115,3% r/r), a zysk netto wyniósł 65,29 mld USD wobec 31,91 mld USD rok wcześniej (+104,6% r/r). Skorygowany zysk na akcję wyniósł 2,68 USD wobec 1,27 USD rok wcześniej (+111,0% r/r). Przychody w segmencie Compute & Networking wyniosły 106,0 mld USD wobec 50,9 mld USD rok wcześniej (+108% r/r). Przychody w segmencie Graphics wyniosły 9,8 mld USD wobec 6,1 mld USD rok wcześniej (+62% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów w czwartym kwartale roku obrotowego 2027 w przedziale 126,10 mld USD – 133,90 mld USD. Spółka prognozuje skorygowaną marżę brutto na poziomie 71,0% – 72,0% w czwartym kwartale roku obrotowego 2027.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że impet spółki jest realny, a popyt przyspiesza przy jednoczesnym wzroście podaży. Według zarządu spółka zabezpieczyła dostawy pamięci oraz zaawansowanego pakowania układów. Zarząd podkreślał również, że przy przydziale ograniczonych dostaw wszyscy klienci otrzymują takie same ceny.
+

@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0084: NVIDIA: 3Q2027 results](https://heniu.blog/en/f-log/flog-2026-11-18-0084/index.md) (2026-11-18)
 - [M15: 2026-11-18](https://heniu.blog/en/t-log/tlog-2026-11-18/index.md) (2026-11-18)
 - [H1: 2026-11-18](https://heniu.blog/en/h-log/hlog-2026-11-18/index.md) (2026-11-18)
 - [H1: 2026-11-17](https://heniu.blog/en/h-log/hlog-2026-11-17/index.md) (2026-11-17)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0071: Keurig Dr Pepper: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0071/index.md) (2026-11-04)
 - [Fundamentals #0070: Amgen: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0070/index.md) (2026-11-04)
 - [Fundamentals #0069: Astera Labs: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0069/index.md) (2026-11-04)
-- [Fundamentals #0068: Palantir Technologies: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-04-0068/index.md) (2026-11-04)
 

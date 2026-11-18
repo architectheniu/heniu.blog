@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0084: NVIDIA: wyniki za 3Q2027](https://heniu.blog/f-log/flog-2026-11-18-0084/index.md) (2026-11-18)
 - [M15: 2026-11-18](https://heniu.blog/t-log/tlog-2026-11-18/index.md) (2026-11-18)
 - [H1: 2026-11-18](https://heniu.blog/h-log/hlog-2026-11-18/index.md) (2026-11-18)
 - [H1: 2026-11-17](https://heniu.blog/h-log/hlog-2026-11-17/index.md) (2026-11-17)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Fundamenty #0072: Shopify: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0072/index.md) (2026-11-04)
 - [Fundamenty #0071: Keurig Dr Pepper: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0071/index.md) (2026-11-04)
 - [Fundamenty #0070: Amgen: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0070/index.md) (2026-11-04)
-- [Fundamenty #0069: Astera Labs: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-04-0069/index.md) (2026-11-04)
 

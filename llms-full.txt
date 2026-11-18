@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0084: NVIDIA: wyniki za 3Q2027
+
+Data: 2026-11-18 01:03
+Adres: https://heniu.blog/f-log/flog-2026-11-18-0084/
+
+
+Przychody NVIDIA (NVDA) wzrosły w trzecim kwartale roku obrotowego 2027 o 103,2% r/r do 115,84 mld USD, a zysk na akcję wzrósł o 107,7% r/r do 2,70 USD.
+
+### Wyniki kwartału
+
+Marża brutto wyniosła 74,8% wobec 73,4% rok wcześniej (+1,4 pp r/r). Zysk operacyjny sięgnął 77,52 mld USD wobec 36,01 mld USD rok wcześniej (+115,3% r/r), a zysk netto wyniósł 65,29 mld USD wobec 31,91 mld USD rok wcześniej (+104,6% r/r). Skorygowany zysk na akcję wyniósł 2,68 USD wobec 1,27 USD rok wcześniej (+111,0% r/r). Przychody w segmencie Compute & Networking wyniosły 106,0 mld USD wobec 50,9 mld USD rok wcześniej (+108% r/r). Przychody w segmencie Graphics wyniosły 9,8 mld USD wobec 6,1 mld USD rok wcześniej (+62% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów w czwartym kwartale roku obrotowego 2027 w przedziale 126,10 mld USD – 133,90 mld USD. Spółka prognozuje skorygowaną marżę brutto na poziomie 71,0% – 72,0% w czwartym kwartale roku obrotowego 2027.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że impet spółki jest realny, a popyt przyspiesza przy jednoczesnym wzroście podaży. Według zarządu spółka zabezpieczyła dostawy pamięci oraz zaawansowanego pakowania układów. Zarząd podkreślał również, że przy przydziale ograniczonych dostaw wszyscy klienci otrzymują takie same ceny.
+
+
+---
+
 ## Log #0231: Podsumowanie sesji 2026-11-17: NDX 27002.40 (-0.72%)
 
 Data: 2026-11-17 22:04
@@ -1437,37 +1460,5 @@ Meta Platforms (META): formularz 424B5 (Dokument: 424B5; Data złożenia (czas U
 Meta Platforms (META): materiały ofertowe FWP (Dokument: FWP; Data złożenia (czas USA): 3.11).
 
 Insiderzy 3.11: transakcje akcjami (Form 4) (Okres (daty złożenia, czas USA): 3.11; Sprzedaż: 102,9 mln USD; W tym z planów 10b5-1: 100,9 mln USD; Zakupy na rynku: 0; Największa sprzedaż insiderów: Fortinet (FTNT) 21,3 mln USD; druga: Walmart (WMT) 20,9 mln USD; Suma netto insiderów, 90 dni: ADI: −14,1 mln USD (zakupy 0, sprzedaż 14,1 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ADP: −6,5 mln USD (zakupy 0, sprzedaż 6,5 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: FTNT: −21,3 mln USD (zakupy 0, sprzedaż 21,3 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: LRCX: −7,3 mln USD (zakupy 0, sprzedaż 7,3 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: MDLZ: −8,5 mln USD (zakupy 0, sprzedaż 8,5 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: MRVL: −7,4 mln USD (zakupy 0, sprzedaż 7,4 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: PANW: −17,7 mln USD (zakupy 0, sprzedaż 17,7 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: REGN: −6,2 mln USD (zakupy 0, sprzedaż 6,2 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: RKLB: −17,9 mln USD (zakupy 0, sprzedaż 17,9 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ROP: −8,8 mln USD (zakupy 0, sprzedaż 8,8 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: SNDK: −1,7 mln USD (zakupy 0, sprzedaż 1,7 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: STX: −48,0 mln USD (zakupy 0, sprzedaż 48,0 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: TER: −1,9 mln USD (zakupy 0, sprzedaż 1,9 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: TMUS: −17 tys. USD (zakupy 0, sprzedaż 17 tys. USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: WMT: −23,8 mln USD (zakupy 0, sprzedaż 23,8 mln USD; okres 6.08–3.11; dane w archiwum od 28.09)).
-
-
----
-
-## Fundamenty #0066: Thomson Reuters: wyniki za 3Q2026
-
-Data: 2026-11-04 02:33
-Adres: https://heniu.blog/f-log/flog-2026-11-04-0066/
-
-
-> ⚠️ **ERRATUM (2026-11-04)**  
-> **Wpis podawał błędną prognozę spółki.**
->
-> **Sprostowanie:**
-> - Przedział 9,5% – 10,0% wzrostu przychodów i przychodów organicznych w 2026 roku to prognoza trzech głównych segmentów spółki („Big 3”), a nie całej spółki.
-> - Około 42% w IV kwartale 2026 to prognozowana marża skorygowanej EBITDA, a nie wzrost przychodów organicznych; wzrost przychodów organicznych w IV kwartale to około 8%.
->
-> Poprawiliśmy część o prognozie; wyniki kwartału się nie zmieniają.
-
-Przychody Thomson Reuters (TRI) wzrosły w III kwartale o 10,6% r/r do 1,83 mld USD, przy jednoczesnym spadku księgowego zysku na akcję o 17,0% r/r do 0,78 USD.
-
-### Wyniki kwartału
-
-Skorygowany zysk na akcję wzrósł o 14,1% r/r do poziomu 0,81 USD.
-
-### Prognoza spółki
-
-Spółka prognozuje na rok 2026, bez biznesu Global Print, wzrost przychodów o ok. 9,5%, wzrost przychodów organicznych o 8,5% – 9,0% i marżę skorygowanej EBITDA ok. 39%. Spółka spodziewa się w IV kwartale 2026 wzrostu przychodów organicznych o ok. 8% i marży skorygowanej EBITDA ok. 42%.
-
-### Co mówi zarząd
-
-Zarząd podkreślał rosnący optymizm wobec nowego narzędzia CoCounsel Legal. Według zarządu przeniesienie najbardziej obciążających zadań z zewnętrznych modeli AI na własny model Thomson pozwoliło uzyskać większą szybkość, dokładność oraz przewagę kosztową. Zarząd wskazywał, że współpraca z kancelarią Skadden ma przynieść atrakcyjne przychody, choć spółka ich jeszcze nie oszacowała. Według zarządu spółka świadomie zwiększa inwestycje w nowe narzędzia AI, aby w przyszłym roku przyspieszyć wzrost przychodów, a szczegóły na ten temat zostaną podane w kolejnych kwartałach. Zarząd zaznaczał, że model biznesowy oparty głównie na umowach licencyjnych zapewnia klientom przewidywalność kosztów. Według zarządu zamknięcie kancelarii Weil Gotshal nie będzie miało istotnego wpływu na biznes spółki.
 
 
