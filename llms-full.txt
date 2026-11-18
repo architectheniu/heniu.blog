@@ -7,6 +7,21 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0085: Zgłoszenie spółki CSX; transakcje insiderów
+
+Data: 2026-11-18 10:10
+Adres: https://heniu.blog/f-log/flog-2026-11-18-0085/
+
+
+CSX (CSX) złożyła raport o zawarciu istotnej umowy, rozwiązaniu istotnej umowy oraz o zobowiązaniu finansowym.
+
+Insiderzy sprzedali akcje za 54,1 mln USD, w tym 49,7 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Cisco Systems (CSCO): 18,2 mln USD; druga: insiderzy Booking (BKNG): 8,1 mln USD.
+
+CSX: 8-K: 1.01 istotna umowa, 1.02 rozwiązanie umowy, 2.03 zobowiązanie finansowe (Dokument: 8-K 1.01,1.02,2.03,9.01; Data złożenia (czas USA): 17.11; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On November 17, 2026, CSX Corporation (“CSX”) entered into a new $1.2 billion five-year senior unsecured revolving credit agreement (the “Credit Agreement”) by and among CSX, as borrower, the lenders party thereto (the “Lenders”), and JPMorgan Chase Bank, N.A., as administrative agent.”; Treść 8-K 1.02 (rozwiązanie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „Effective November 17, 2026, CSX terminated its $1.2 billion senior unsecured revolving credit agreement, dated as of February 28, 2023, among CSX as borrower, the lenders party thereto, and JPMorgan Chase Bank, N.A., as administrative agent (as amended, the “Prior Credit Agreement”).”; Treść 8-K 2.03 (nowe zobowiązanie finansowe): cytat (EN): „The information set forth in.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/277948/000095010326017684/0000950103-26-017684-index.htm).
+
+
+---
+
 ## Fundamenty #0084: NVIDIA: wyniki za 3Q2027
 
 Data: 2026-11-18 01:03
@@ -1405,60 +1420,5 @@ Spółka spodziewa się przychodów w IV kwartale 2026 na poziomie 2,65 mld USD 
 ### Co mówi zarząd
 
 Zarząd podkreślał, że klienci komercyjni znacznie szybciej przechodzą od rozmów do fazy pilotażu i wdrożenia, przy czym umowy początkowe są krótsze, ale ulegają znacznemu rozszerzeniu. Według zarządu spółka nie nadąża z obsługą popytu, co wymusza przesunięcie zasobów ludzkich w stronę klientów przychodzących samodzielnie ze względu na ograniczone moce przerobowe. Zarząd wskazywał, że obecne wyniki wynikają w większym stopniu z gwałtownego wzrostu całego rynku niż z samej skuteczności spółki. Według zarządu wartość sztucznej inteligencji tworzona jest na poziomie procesów wewnątrz organizacji, a nie tylko poprzez zwiększanie wydajności pojedynczych pracowników. Zarząd zaznaczył również, że klienci korzystający z warsztatów Sovereign AI wdrażają rozwiązania z dużym pośpiechem, co zdaniem zarządu stanowi jedynie początek tego trendu.
-
-
----
-
-## Fundamenty #0067: Zgłoszenia spółek: Shopify, Apple, Meta Platforms; transakcje insiderów
-
-Data: 2026-11-04 10:10
-Adres: https://heniu.blog/f-log/flog-2026-11-04-0067/
-
-
-> ⚠️ **ERRATUM (2026-11-04)**  
-> **Przy zdaniach o dokumentach spółek nie było widać, której spółki dotyczą.**
->
-> **Sprostowanie:**
-> - Dopisaliśmy nazwy i tickery spółek na początku tych zdań.
->
-> Liczby i daty się nie zmieniają.
-
-### **Zestawienie transakcji insiderów**
-
-#### **PANW (Palo Alto Networks)**
-
-*Dominująca aktywność związana z oddawaniem akcji na pokrycie podatków oraz przyznawaniem nowych pakietów.*
-
-* **William D. Jenkins Jr.
-
-* **Suma netto (90 dni):** **−17,7 mln USD**
-
-#### **STX (Seagate Technology)**
-
-*Bardzo wysoka skala sprzedaży przez kadrę zarządzającą.*
-
-* **Suma netto (90 dni):** **−48,0 mln USD**
-
-#### **FTNT (Fortinet)**
-
-*Aktywność skupiona wokół realizacji opcji i rozliczeń podatkowych.*
-
-* **Suma netto (90 dni):** **−21,3 mln USD**
-
-#### **RKLB (Rocket Lab USA)**
-
-* **Suma netto (90 dni):** **−17,9 mln USD**
-
-#### **MDLZ (Mondelez International)**
-
-Shopify (SHOP): rejestracja półkowa S-3ASR (Dokument: S-3ASR; Data złożenia (czas USA): 3.11).
-
-Apple (AAPL): raport roczny 10-K (Dokument: 10-K; Data złożenia (czas USA): 3.11).
-
-Meta Platforms (META): formularz 424B5 (Dokument: 424B5; Data złożenia (czas USA): 3.11).
-
-Meta Platforms (META): materiały ofertowe FWP (Dokument: FWP; Data złożenia (czas USA): 3.11).
-
-Insiderzy 3.11: transakcje akcjami (Form 4) (Okres (daty złożenia, czas USA): 3.11; Sprzedaż: 102,9 mln USD; W tym z planów 10b5-1: 100,9 mln USD; Zakupy na rynku: 0; Największa sprzedaż insiderów: Fortinet (FTNT) 21,3 mln USD; druga: Walmart (WMT) 20,9 mln USD; Suma netto insiderów, 90 dni: ADI: −14,1 mln USD (zakupy 0, sprzedaż 14,1 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ADP: −6,5 mln USD (zakupy 0, sprzedaż 6,5 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: FTNT: −21,3 mln USD (zakupy 0, sprzedaż 21,3 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: LRCX: −7,3 mln USD (zakupy 0, sprzedaż 7,3 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: MDLZ: −8,5 mln USD (zakupy 0, sprzedaż 8,5 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: MRVL: −7,4 mln USD (zakupy 0, sprzedaż 7,4 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: PANW: −17,7 mln USD (zakupy 0, sprzedaż 17,7 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: REGN: −6,2 mln USD (zakupy 0, sprzedaż 6,2 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: RKLB: −17,9 mln USD (zakupy 0, sprzedaż 17,9 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ROP: −8,8 mln USD (zakupy 0, sprzedaż 8,8 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: SNDK: −1,7 mln USD (zakupy 0, sprzedaż 1,7 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: STX: −48,0 mln USD (zakupy 0, sprzedaż 48,0 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: TER: −1,9 mln USD (zakupy 0, sprzedaż 1,9 mln USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: TMUS: −17 tys. USD (zakupy 0, sprzedaż 17 tys. USD; okres 6.08–3.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: WMT: −23,8 mln USD (zakupy 0, sprzedaż 23,8 mln USD; okres 6.08–3.11; dane w archiwum od 28.09)).
 
 

@@ -7,6 +7,21 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0085: Notificação da empresa CSX; transações de insiders
+
+Data: 2026-11-18 10:10
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-18-0085/
+
+
+CSX (CSX) apresentou um relatório sobre a celebração de um contrato relevante, a rescisão de um contrato relevante e um compromisso financeiro.
+
+Insiders venderam ações por 54,1 mi USD, incluindo 49,7 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi relatada por insiders da Cisco Systems (CSCO): 18,2 mi USD; a segunda: insiders da Booking (BKNG): 8,1 mi USD.
+
+CSX: 8-K: 1.01 contrato relevante, 1.02 rescisão de contrato, 2.03 compromisso financeiro (Documento: 8-K 1.01,1.02,2.03,9.01; Data de submissão (hora EUA): 17.11; Conteúdo 8-K 1.01 (celebração de um contrato relevante): contrato: Material Definitive Agreement; citação (EN): „On November 17, 2026, CSX Corporation (“CSX”) entered into a new $1.2 billion five-year senior unsecured revolving credit agreement (the “Credit Agreement”) by and among CSX, as borrower, the lenders party thereto (the “Lenders”), and JPMorgan Chase Bank, N.A., as administrative agent.”; Conteúdo 8-K 1.02 (rescisão de um contrato relevante): contrato: Material Definitive Agreement; citação (EN): „Effective November 17, 2026, CSX terminated its $1.2 billion senior unsecured revolving credit agreement, dated as of February 28, 2023, among CSX as borrower, the lenders party thereto, and JPMorgan Chase Bank, N.A., as administrative agent (as amended, the “Prior Credit Agreement”).”; Conteúdo 8-K 2.03 (novo compromisso financeiro): citação (EN): „The information set forth in.”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/277948/000095010326017684/0000950103-26-017684-index.htm).
+
+
+---
+
 ## Fundamentos #0084: NVIDIA: resultados do 3Q2027
 
 Data: 2026-11-18 01:04
@@ -1393,37 +1408,5 @@ Meta Platforms (META): formulário 424B5 (Documento: 424B5; Data de submissão (
 Meta Platforms (META): materiais de oferta FWP (Documento: FWP; Data de submissão (hora EUA): 3.11).
 
 Insiders 3.11: transações de ações (Form 4) (Período (datas de submissão, hora EUA): 3.11; Venda: 102,9 mi USD; Incluindo planos 10b5-1: 100,9 mi USD; Compras no mercado: 0; Maior venda de insiders: Fortinet (FTNT) 21,3 mi USD; segunda: Walmart (WMT) 20,9 mi USD; Soma líquida de insiders, 90 dias: ADI: −14,1 mi USD (compras 0, venda 14,1 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: ADP: −6,5 mi USD (compras 0, venda 6,5 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: FTNT: −21,3 mi USD (compras 0, venda 21,3 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: LRCX: −7,3 mi USD (compras 0, venda 7,3 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: MDLZ: −8,5 mi USD (compras 0, venda 8,5 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: MRVL: −7,4 mi USD (compras 0, venda 7,4 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: PANW: −17,7 mi USD (compras 0, venda 17,7 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: REGN: −6,2 mi USD (compras 0, venda 6,2 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: RKLB: −17,9 mi USD (compras 0, venda 17,9 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: ROP: −8,8 mi USD (compras 0, venda 8,8 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: SNDK: −1,7 mi USD (compras 0, venda 1,7 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: STX: −48,0 mi USD (compras 0, venda 48,0 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: TER: −1,9 mi USD (compras 0, venda 1,9 mi USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: TMUS: −17 mil USD (compras 0, venda 17 mil USD; período 6.08–3.11; dados no arquivo desde 28.09); Soma líquida de insiders, 90 dias: WMT: −23,8 mi USD (compras 0, venda 23,8 mi USD; período 6.08–3.11; dados no arquivo desde 28.09)).
-
-
----
-
-## Fundamentos #0066: Thomson Reuters: resultados do 3Q2026
-
-Data: 2026-11-04 02:33
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-04-0066/
-
-
-> ⚠️ **ERRATUM (2026-11-04)**  
-> **O post indicava a projeção da empresa de forma errada.**
->
-> **Correção:**
-> - O intervalo de 9,5% – 10,0% para o crescimento da receita e da receita orgânica em 2026 é a projeção dos três principais segmentos da empresa ("Big 3"), e não da empresa como um todo.
-> - Cerca de 42% no quarto trimestre de 2026 é a margem EBITDA ajustada esperada, e não o crescimento da receita orgânica; o crescimento da receita orgânica no quarto trimestre deve ser de cerca de 8%.
->
-> Corrigimos a parte da projeção; os resultados do trimestre não mudam.
-
-A receita da Thomson Reuters (TRI) aumentou no terceiro trimestre em 10,6% ano a ano para 1,83 bi USD, com uma queda simultânea no lucro por ação contábil de 17,0% ano a ano para 0,78 USD.
-
-### Resultados do trimestre
-
-O lucro por ação ajustado aumentou 14,1% ano a ano para o nível de 0,81 USD.
-
-### Projeção da empresa
-
-A empresa projeta para 2026, sem o negócio Global Print, crescimento da receita de cerca de 9,5%, crescimento da receita orgânica de 8,5% – 9,0% e margem EBITDA ajustada de cerca de 39%. A empresa espera, no quarto trimestre de 2026, crescimento da receita orgânica de cerca de 8% e margem EBITDA ajustada de cerca de 42%.
-
-### O que diz a diretoria
-
-A diretoria enfatizou o otimismo crescente em relação à nova ferramenta CoCounsel Legal. Segundo a diretoria, a transferência das tarefas mais onerosas de modelos externos de IA para o modelo próprio da Thomson permitiu obter maior velocidade, precisão e vantagem de custo. A diretoria indicou que a colaboração com o escritório Skadden deve trazer receitas atraentes, embora a empresa ainda não as tenha estimado. Segundo a diretoria, a empresa está aumentando conscientemente os investimentos em novas ferramentas de IA para acelerar o crescimento da receita no próximo ano, e os detalhes sobre isso serão fornecidos nos próximos trimestres. A diretoria destacou que o modelo de negócios baseado principalmente em contratos de licenciamento garante previsibilidade de custos aos clientes. Segundo a diretoria, o fechamento do escritório Weil Gotshal não terá um impacto significativo nos negócios da empresa.
 
 
