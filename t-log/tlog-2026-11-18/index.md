@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Data: 2026-11-18 02:29
+Data: 2026-11-18 02:59
 Adres: https://heniu.blog/t-log/tlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.18</h1>
+<h3>⏱️ [2026-11-18 02:59] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
+<ul>
+<li><strong>Kontrakt NQ:</strong> <strong>27156.25</strong> (+0.30%; od poprzedniego wpisu -160.00 pkt, -0.59%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>48.65%</strong></li>
+<li><strong>Przepływ NQ:</strong> CVD <strong>-4.15 K</strong> [test podaży] (od poprzedniego wpisu -3.82 K) · wskaźnik kierunku <strong>35</strong> (skala ±100; +0)</li>
+<li>NDX, QQQ, szerokość rynku i koszyk spółek wracają z otwarciem sesji kasowej o 15:30 czasu polskiego.</li>
+</ul>
+<p>Wsparcie HVN ekosystemu US100 zostało przebite w dół, co doprowadziło do spadku ceny kontraktu NQ. Jednocześnie wartość CVD uległa obniżeniu, co wskazuje na testowanie podaży.</p>
 <h3>⏱️ [2026-11-18 02:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>27316.25</strong> (+0.90%; od poprzedniego wpisu -138.50 pkt, -0.50%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>32.05%</strong></li>
