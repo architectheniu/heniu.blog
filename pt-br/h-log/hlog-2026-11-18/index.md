@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 09:08
+Data: 2026-11-18 10:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.18 [PT-BR]</h1>
+<h3>📈 [2026-11-18 10:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contratos NQ:</strong> O preço dos contratos é 27371.50 (+1.08%), com um fluxo acumulado (CVD) negativo no nível de -3,53 K, o que indica um teste de oferta.</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 30.38%, e o Put/Call Ratio é 1.22. A predominância de volume de opções do tipo Put com um volume de 8,880,157 sugere a construção de posições de hedge ou um aumento nas expectativas de pressão de venda. O alcance esperado do movimento é de 641.57 a 672.33 pontos.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador de direção agregado de fluxos é 35, o que significa uma vantagem moderada na entrada de capital. Apesar disso, o índice NDX registrou uma queda de -0.72% (preço 27002.40), com o CVD para NDX em 404,97 M, o que indica a presença de demanda na sessão à vista (Spot) apesar da queda de preço.</li>
+<li><strong>Níveis técnicos:</strong> O índice NDX está em meio a um Recuo desde o pico do Heniu de 11.11 (28593.00), que é atualmente de -5.56% (-1591 pts). Os nós de volume mais próximos são suporte na zona de 26880–26900 e resistência na zona de 27020–27040.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-18 10:07</p>
 <h3>📈 [2026-11-18 09:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
