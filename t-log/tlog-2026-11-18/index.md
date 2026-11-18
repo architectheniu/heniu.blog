@@ -1,6 +1,6 @@
 # M15: 2026-11-18
 
-Data: 2026-11-18 20:44
+Data: 2026-11-18 20:59
 Adres: https://heniu.blog/t-log/tlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.18</h1>
+<h3>⏱️ [2026-11-18 20:59] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27065.11</strong> (+0.24%; od poprzedniego wpisu -19.27 pkt) · NQ <strong>27147.50</strong> (+0.26%; -19.00 pkt) · QQQ <strong>658.52 USD</strong> (+0.24%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>6.23 M</strong> [test popytu] · CVD NQ <strong>-17.31 K</strong> [wyprzedaż] (od poprzedniego wpisu +1.05 K) · CVD QQQ <strong>-785.07 K</strong> [test podaży] · TICKQ <strong>-192</strong> [wyprzedaż] · średnia SMA200 <strong>-90.03</strong> [załamanie rynku] (-1.75) · wskaźnik kierunku <strong>-15</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.59 bln USD</strong> (od poprzedniego wpisu -0.11 bln USD) · udział spółek powyżej 1 bln USD <strong>69.1%</strong> (+0.0 pp) · średnia cena akcji <strong>278.15 USD</strong> (+0.03 USD) · opcje QQQ: zmienność implikowana <strong>29.60%</strong>, put/call <strong>1.00</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> cena w strefie <strong>27060–27080</strong> · najbliższa poniżej ceny <strong>27020–27040</strong> (0.09% niżej) · najbliższa powyżej ceny <strong>27170–27190</strong> (0.39% wyżej)</li>
+</ul>
+<p>Wskaźnik średniej SMA200 uległ pogłębieniu, co pogłębiło osłabienie rynku. Cena NDX znajduje się obecnie w strefie wolumenu, przy czym najbliższe wsparcie leży poniżej, a opór powyżej aktualnych poziomów.</p>
 <h3>⏱️ [2026-11-18 20:44] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27084.38</strong> (+0.31%; od poprzedniego wpisu -44.06 pkt) · NQ <strong>27166.50</strong> (+0.34%; -40.75 pkt) · QQQ <strong>658.96 USD</strong> (+0.30%)</li>
