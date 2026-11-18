@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 12:08
+Data: 2026-11-18 13:09
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.18 [PT-BR]</h1>
+<h3>📈 [2026-11-18 13:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong>. A sessão à vista (Spot) está atualmente fechada.</p>
+<ul>
+<li><strong>Análise do contrato NQ:</strong> O contrato futuro NQ está sendo negociado no nível 27286.00 (+0.78%). O fluxo acumulado (CVD) para NQ é de -2,57 K, o que indica um teste de oferta no atual intervalo de preços.</li>
+<li><strong>Situação no mercado à vista (fechado):</strong> O índice NDX fechou a sessão no nível 27002.40 (-0.72%). Foi observada uma divergência significativa: apesar da queda de preço, o fluxo acumulado (CVD) para NDX foi de 404,97 mi, o que sugere atividade de compra no mercado à vista. O ETF QQQ fechou a 657.00 (-0.73%) com fluxo acumulado (CVD) positivo de 1,37 mi, indicando acumulação durante a sessão.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 30.38%, e o Put/Call Volume Ratio é 1.22, o que indica uma predominância de posições de hedge ou expectativa de quedas. O alcance de movimento esperado pelo mercado é de 641.57 a 672.33 pontos, com volume de opções no nível de 8,880,157.</li>
+<li><strong>Sentimento e contexto técnico:</strong> O indicador de direção do fluxo é 35, o que significa uma vantagem moderada na entrada de capital. O índice NDX encontra-se atualmente em uma fase de Recuo desde o pico do Heniu do dia 11.11 (28593.00), que foi de -5.56% (-1591 pkt). Trata-se de um recuo comum, situando-se na mediana das correções históricas.</li>
+<li><strong>Níveis chave:</strong> O suporte próximo está na zona de volume 26990–27010 (0.8% de volume) e abaixo, na zona 26880–26900 (0.7% de volume). A resistência está na zona 27020–27040 (0.5% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-18 13:07</p>
 <h3>📈 [2026-11-18 12:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
