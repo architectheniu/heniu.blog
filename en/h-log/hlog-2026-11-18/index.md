@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Date: 2026-11-18 18:08
+Date: 2026-11-18 19:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-18/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.18 [EN]</h1>
+<h3>📈 [2026-11-18 19:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The NDX index is currently at 27060.73 (+0.22%), with cumulative flow (CVD) at −13,9 M, indicating a supply test in the cash market. NQ futures contracts (27143.50, +0.25%) show a sell-off with CVD at −31,27 K, and the QQQ ETF (658.43, +0.23%) records a supply test (CVD: −876,04 K). The direction gauge is -20, signifying a dominance of capital distribution. Market breadth (TICKQ) is 27.00, which, with a SMA200 average of -71.39, indicates a slow improvement in sentiment across the broad sector.</p>
+</li>
+<li>
+<p><strong>QQQ Options Analysis:</strong> Implied volatility (IV) is 29.18%, with options volume at 4,746,164. The Put/Call Volume Ratio is 1.02, suggesting a slight dominance of hedging positions or anticipation of selling pressure. The market-expected range of movement for QQQ is between 645.91 and 668.81 points.</p>
+</li>
+<li>
+<p><strong>Technical context and levels:</strong> The ongoing drawdown from Heniu's peak on 11.11 (28593.00) is currently -5.36% (-1532 pts). This is a standard pullback, falling within the median of historical corrections. The nearest support zone (volume node) is in the 27020–27040 range (0.5% volume), while the nearest resistance is the 27170–27190 zone (0.9% volume).</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-11-18 19:07</p>
 <h3>📈 [2026-11-18 18:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
