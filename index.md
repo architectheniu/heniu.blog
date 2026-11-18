@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-11-18](https://heniu.blog/h-log/hlog-2026-11-18/index.md) (2026-11-18)
 - [Fundamenty #0084: NVIDIA: wyniki za 3Q2027](https://heniu.blog/f-log/flog-2026-11-18-0084/index.md) (2026-11-18)
 - [M15: 2026-11-18](https://heniu.blog/t-log/tlog-2026-11-18/index.md) (2026-11-18)
-- [H1: 2026-11-18](https://heniu.blog/h-log/hlog-2026-11-18/index.md) (2026-11-18)
 - [H1: 2026-11-17](https://heniu.blog/h-log/hlog-2026-11-17/index.md) (2026-11-17)
 - [M15: 2026-11-17](https://heniu.blog/t-log/tlog-2026-11-17/index.md) (2026-11-17)
 - [Log #0231: Podsumowanie sesji 2026-11-17: NDX 27002.40 (-0.72%)](https://heniu.blog/posts/log-0231/index.md) (2026-11-17)
