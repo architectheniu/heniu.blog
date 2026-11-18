@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Data: 2026-11-18 06:08
+Data: 2026-11-18 07:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-18/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.18 [PT-BR]</h1>
+<h3>📈 [2026-11-18 07:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contratos NQ e sentimento:</strong> Os contratos NQ estão sendo negociados no nível 27184.75 (+0.40%), com um fluxo acumulado (CVD) negativo de -6,82 K, o que indica um teste de oferta. O indicador de direção de fluxo agregado é 35, o que significa uma vantagem moderada de entrada de capital no mercado.</li>
+<li><strong>Análise de opções QQQ:</strong> No mercado de opções, registrou-se um volume de 8,880,157 com a relação Put/Call em 1.22, o que sugere um aumento no interesse por instrumentos de proteção (hedging) ou a construção de posições vendidas. A volatilidade implícita (IV) é de 30.38%, e o alcance esperado do movimento está na faixa de 641.57 a 672.33 pontos.</li>
+<li><strong>Contexto do índice NDX:</strong> O índice está em meio a um Recuo desde o pico do dia 11.11 (28593.00), que atualmente é de -5.56% (-1590 pts). Este é um recuo de natureza comum, situando-se na mediana das correções históricas.</li>
+<li><strong>Níveis técnicos:</strong> O suporte próximo está na zona de volume 26990–27010 e abaixo, na faixa de 26880–26900 (zona de suporte). A resistência mais próxima foi identificada na zona de 27020–27040.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-18 07:07</p>
 <h3>📈 [2026-11-18 06:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
