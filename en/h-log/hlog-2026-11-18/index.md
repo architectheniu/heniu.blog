@@ -1,6 +1,6 @@
 # H1: 2026-11-18
 
-Date: 2026-11-18 05:08
+Date: 2026-11-18 06:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-18/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.18 [EN]</h1>
+<h3>📈 [2026-11-18 06:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> The cash session (Spot) is currently closed. Trading of the NQ futures contract is active, which is quoted at 27151.25 (+0.28%), while the NDX index closed the session at 27002.69 (-0.72%).</li>
+<li><strong>Flow and sentiment analysis:</strong> The aggregate direction gauge is 35, indicating a moderate prevalence of capital inflow. Despite the NDX index price drop of -0.72%, high activity was noted in the cash session (CVD NDX = 144,31 M), which, combined with simultaneous accumulation in the QQQ ETF (CVD = 1,37 M), suggests the presence of passive supply absorption. However, NQ contracts show a supply test (CVD = -7,83 K).</li>
+<li><strong>Options market:</strong> Implied volatility (IV) is 30.38%, and a Put/Call Ratio at 1.22 indicates a prevalence of hedging positions or anticipation of a sell-off. The expected range of movement for QQQ is between 641.57 and 672.33.</li>
+<li><strong>Technical context:</strong> A correction is underway from the peak on 11.11 (28593.00), which currently stands at -5.56% (-1590 pts). This is a standard pullback, deeper than 44% of historical corrections in the analyzed period.</li>
+<li><strong>Support and resistance levels:</strong> The nearest volume zones (support) are located in the 26880–26900 and 26990–27010 zones. Resistance is located in the 27020–27040 zone.</li>
+</ul>
+<p>H-Log Report: 2026-11-18 06:07</p>
 <h3>📈 [2026-11-18 05:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
