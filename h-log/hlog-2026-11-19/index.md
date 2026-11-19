@@ -1,6 +1,6 @@
 # H1: 2026-11-19
 
-Data: 2026-11-19 15:08
+Data: 2026-11-19 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.19</h1>
+<h3>📈 [2026-11-19 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Indeks NDX znajduje się na poziomie 27634.18 (+1.93%), przy skumulowanym przepływie CVD wynoszącym 110,19 M. Kontrakty NQ (27725.75, +1.98%) oraz ETF QQQ (672.52, +1.98%) wykazują silną korelację wzrostową. Wskaźnik kierunku przepływów wynosi 25, co wskazuje na dodatni napływ kapitału do rynku. Szeroki rynek (TICKQ) wynosi 69.00, co przy średniej SMA200 na poziomie -106.81 potwierdza obecną siłę popytu.</li>
+<li><strong>Analiza opcji QQQ:</strong> Wolumen opcji wynosi 815,081 przy wskaźniku Put/Call Ratio na poziomie 0.79, co sugeruje przewagę pozycji długich (call). Zmienność implikowana (IV) wynosi 27.36%, a oczekiwany zasięg ruchu mieści się w przedziale 645.20 do 673.82.</li>
+<li><strong>Kontekst korekty i poziomy techniczne:</strong> Od szczytu z dnia 11.11 (28593.00) odnotowano korektę o -3.35% (-959 pkt). Jest to zwykłe cofnięcie, klasyfikowane jako mediana historycznych korekt. Najbliższy opór znajduje się w strefie węzła wolumenu 27640–27660 (0.6% wolumenu), natomiast wsparcie w strefie 27160–27180 (1.1% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-11-19 16:07</p>
 <h3>📈 [2026-11-19 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
