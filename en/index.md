@@ -6,8 +6,8 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
-- [Log #0233: Session summary 2026-11-19: NDX 26517.02 (-2.22%)](https://heniu.blog/en/posts/log-0233/index.md) (2026-11-19)
 - [M15: 2026-11-19](https://heniu.blog/en/t-log/tlog-2026-11-19/index.md) (2026-11-19)
+- [Log #0233: Session summary 2026-11-19: NDX 26517.02 (-2.22%)](https://heniu.blog/en/posts/log-0233/index.md) (2026-11-19)
 - [H1: 2026-11-19](https://heniu.blog/en/h-log/hlog-2026-11-19/index.md) (2026-11-19)
 - [Fundamentals #0088: Walmart: 3Q2027 results](https://heniu.blog/en/f-log/flog-2026-11-19-0088/index.md) (2026-11-19)
 - [Fundamentals #0087: Insider transactions](https://heniu.blog/en/f-log/flog-2026-11-19-0087/index.md) (2026-11-19)
