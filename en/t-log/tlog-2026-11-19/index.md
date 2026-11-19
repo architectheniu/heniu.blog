@@ -1,6 +1,6 @@
 # M15: 2026-11-19
 
-Date: 2026-11-19 17:59
+Date: 2026-11-19 18:14
 URL: https://heniu.blog/en/t-log/tlog-2026-11-19/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.19 [EN]</h1>
+<h3>⏱️ [2026-11-19 18:14] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26658.89</strong> (-1.69%; since the previous entry -282.80 pts) · NQ <strong>26733.75</strong> (-1.66%; -283.75 pts) · QQQ <strong>648.59 USD</strong> (-1.66%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>-8.67 M</strong> [supply test] · CVD NQ <strong>-39.44 K</strong> [sell-off] (since the previous entry -9.37 K) · CVD QQQ <strong>-2.26 M</strong> [market breakdown] · TICKQ <strong>-603</strong> [panic] · SMA200 average <strong>-114.92</strong> [market breakdown] (-1.53) · direction gauge <strong>-22</strong> (±100 scale; -5)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.48 trillion USD</strong> (since the previous entry -0.22 trillion USD) · share of companies above 1 trillion USD <strong>66.3%</strong> (-0.1 pp) · average share price <strong>274.64 USD</strong> (-2.53 USD) · QQQ options: implied volatility <strong>30.22%</strong>, put/call <strong>0.90</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>26890–26910</strong> (0.87% higher)</li>
+</ul>
+<p>The value of the NQ index and CVD flows experienced deepened declines, which is linked to further sell-off. A new volume zone has appeared on the market at the 27000 level of the NDX index, which currently constitutes a resistance zone located above the current price.</p>
 <h3>⏱️ [2026-11-19 17:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26941.69</strong> (-0.65%; since the previous entry -313.77 pts) · NQ <strong>27017.50</strong> (-0.62%; -323.50 pts) · QQQ <strong>655.36 USD</strong> (-0.62%)</li>
