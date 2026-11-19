@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
-- [M15: 2026-11-19](https://heniu.blog/pt-br/t-log/tlog-2026-11-19/index.md) (2026-11-19)
 - [H1: 2026-11-19](https://heniu.blog/pt-br/h-log/hlog-2026-11-19/index.md) (2026-11-19)
+- [M15: 2026-11-19](https://heniu.blog/pt-br/t-log/tlog-2026-11-19/index.md) (2026-11-19)
 - [Fundamentos #0088: Walmart: resultados do 3Q2027](https://heniu.blog/pt-br/f-log/flog-2026-11-19-0088/index.md) (2026-11-19)
 - [Fundamentos #0087: Transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-19-0087/index.md) (2026-11-19)
 - [Fundamentos #0086: Palo Alto Networks: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-11-19-0086/index.md) (2026-11-19)
