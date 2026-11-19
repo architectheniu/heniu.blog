@@ -1,6 +1,6 @@
 # H1: 2026-11-19
 
-Data: 2026-11-19 20:07
+Data: 2026-11-19 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.19</h1>
+<h3>📈 [2026-11-19 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Rynek znajduje się w fazie silnej dystrybucji. Indeks NDX spadł o 2.12% (26539.70), przy skumulowanym ujemnym przepływie (CVD) na poziomie -60.87M, co wskazuje na załamanie rynku kasowego. Potwierdzają to kontrakty NQ (-2.07%, cena 26624.50) oraz ETF QQQ (-2.06%, cena 645.95) z ujemnym CVD wynoszącym -3.74M. Zbiorczy wskaźnik kierunku przepływów wynosi -70, co oznacza wyraźną przewagę odpływu kapitału. Szeroki rynek (TICKQ) odnotowuje wartość -39.00.</li>
+<li><strong>Analiza opcji QQQ:</strong> Wolumen opcji wyniósł 9,082,399 przy Put/Call Ratio na poziomie 0.98, co sugeruje wyrównany popyt na zabezpieczenia i opcje kupna. Zmienność implikowana (IV) wynosi 31.45%, a oczekiwany zakres ruchu w ramach obecnych parametrów to przedział od 637.18 do 662.44 punktów.</li>
+<li><strong>Kontekst korekty i poziomy:</strong> Obecna korekta od szczytu z 11.11 (28593.00) wynosi 7.18% (-2053 pkt). Na podstawie danych historycznych jest to zwykłe cofnięcie, głębsze niż w 44% zarejestrowanych przypadków. Najbliższy istotny opór (węzeł wolumenu) znajduje się w strefie 26890–26910.</li>
+</ul>
+<p>Raport H-Log: 2026-11-19 21:07</p>
 <h3>📈 [2026-11-19 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
