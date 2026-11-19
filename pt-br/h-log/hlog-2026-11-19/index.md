@@ -1,6 +1,6 @@
 # H1: 2026-11-19
 
-Data: 2026-11-19 16:08
+Data: 2026-11-19 17:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.19 [PT-BR]</h1>
+<h3>📈 [2026-11-19 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de mercado e fluxos:</strong> O Índice NDX está subindo 0,28% para o nível 27192,45, com acumulação simultânea no mercado à vista (CVD NDX = 45,84 M). No entanto, ocorre uma divergência em relação aos contratos NQ (+0,32%, CVD = -21,82 K) e ao ETF QQQ (+0,32%, CVD = -1,4 M), onde foi registrado um sell-off. O indicador de direção de fluxos é 30, o que indica uma vantagem moderada de entrada de capital. A Amplitude de mercado (TICKQ) mostra uma forte pressão de venda no nível de -439,00, o que diverge significativamente da média SMA200 de -115,64.</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 30,49%, e a relação Put/Call (PCR) está em 1,00, o que indica uma postura neutra dos participantes do mercado. Com um volume de opções de 2 954 484, o alcance esperado do movimento em breve situa-se no intervalo de 659,08 a 684,12 pontos.</p>
+</li>
+<li>
+<p><strong>Contexto técnico e níveis:</strong> O Recuo desde o pico do Heniu do dia 11.11 (28593,00) é atualmente de -4,90% (-1401 pts). Trata-se de um recuo comum, de caráter menor do que 44% das correções históricas. A zona de suporte mais próxima encontra-se no intervalo 27160–27180 (volume 1,1%), enquanto a resistência está localizada na zona 27640–27660 (volume 0,6%).</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-11-19 17:07</p>
 <h3>📈 [2026-11-19 16:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
