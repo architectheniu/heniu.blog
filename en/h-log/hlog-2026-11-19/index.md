@@ -1,6 +1,6 @@
 # H1: 2026-11-19
 
-Date: 2026-11-19 17:08
+Date: 2026-11-19 18:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-19/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.19 [EN]</h1>
+<h3>📈 [2026-11-19 18:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The market is in a phase of clear distribution. The NDX index fell by 1.66% to the level of 26665.12, with the cumulative flow (CVD) amounting to -3,76 M, indicating a strong supply test on the cash market. This is confirmed by the breakdown on the QQQ ETF (-1.62%, CVD -2,22 M) and the sell-off on NQ futures contracts (-1.63%, CVD -36 K). The aggregate flow direction gauge is -27, which signifies the dominance of capital outflow. The Nasdaq market breadth (TICKQ) shows strong negative pressure at the level of -664.00, which is a value significantly below the SMA200 average (-115.22).</p>
+</li>
+<li>
+<p><strong>QQQ options analysis:</strong> Implied volatility (IV) is 29.24%, with options volume at 4,482,653. The Put/Call Volume Ratio is 0.90, suggesting moderate sentiment, although the expected range of movement within options lies between 648.64 and 672.64.</p>
+</li>
+<li>
+<p><strong>Technical context and correction:</strong> The current drawdown from the peak of 11.11 (28593.00) is 6.74% (-1928 pts). Based on historical data, this is a regular pullback, classified as a process of the character of the median of previous corrections. The nearest significant resistance is located in the volume zone at 26890–26910.</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-11-19 18:07</p>
 <h3>📈 [2026-11-19 17:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
