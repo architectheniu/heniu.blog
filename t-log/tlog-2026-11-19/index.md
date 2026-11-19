@@ -1,6 +1,6 @@
 # M15: 2026-11-19
 
-Data: 2026-11-19 15:59
+Data: 2026-11-19 16:14
 Adres: https://heniu.blog/t-log/tlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.19</h1>
+<h3>⏱️ [2026-11-19 16:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27551.91</strong> (+1.61%; od poprzedniego wpisu -30.61 pkt) · NQ <strong>27634.00</strong> (+1.64%; -26.50 pkt) · QQQ <strong>670.35 USD</strong> (+1.64%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>96.96 M</strong> [euforia] · CVD NQ <strong>8.7 K</strong> [test popytu] (od poprzedniego wpisu -1.90 K) · CVD QQQ <strong>148.73 K</strong> [test popytu] · TICKQ <strong>-199</strong> [wyprzedaż] · średnia SMA200 <strong>-108.14</strong> [załamanie rynku] (-1.78) · wskaźnik kierunku <strong>40</strong> (skala ±100; +15)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.58 bln USD</strong> (od poprzedniego wpisu -0.79 bln USD) · udział spółek powyżej 1 bln USD <strong>69.0%</strong> (+2.6 pp) · średnia cena akcji <strong>282.89 USD</strong> (-0.30 USD) · opcje QQQ: zmienność implikowana <strong>27.08%</strong>, put/call <strong>0.82</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>27160–27180</strong> (1.35% niżej) · najbliższa powyżej ceny <strong>27640–27660</strong> (0.32% wyżej)</li>
+</ul>
+<p>Udział spółek o kapitalizacji powyżej biliona dolarów w całym indeksie wzrósł, podczas gdy średnia cena akcji w koszyku spadła. Obecna cena znajduje się blisko oporu, a wsparcie zlokalizowane jest poniżej aktualnych poziomów.</p>
 <h3>⏱️ [2026-11-19 15:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27582.52</strong> (+1.72%; od poprzedniego wpisu -116.06 pkt) · NQ <strong>27660.50</strong> (+1.74%; -120.75 pkt) · QQQ <strong>670.93 USD</strong> (+1.73%)</li>
