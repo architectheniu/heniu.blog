@@ -1,6 +1,6 @@
 # H1: 2026-11-19
 
-Data: 2026-11-19 19:08
+Data: 2026-11-19 20:09
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.19 [PT-BR]</h1>
+<h3>📈 [2026-11-19 20:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado:</strong> O Índice NDX é 26630.26 (-1.79%), e os contratos NQ são 26707.00 (-1.77%). Desde o pico de 11.11 (28593.00), foi registrado um recuo de -6.86% (-1963 pts). Trata-se de um recuo comum que, em comparação com os dados históricos, ocorre em 44% dos casos.</li>
+<li><strong>Fluxos de capital:</strong> O mercado encontra-se em fase de distribuição. O indicador de direção agregado de fluxos é -55, o que confirma a predominância da saída de capital. O fluxo acumulado (CVD) de vendas é negativo para todos os instrumentos: NDX (-33,3 mi), NQ (-54,34 K) e QQQ (-2,26 mi). A amplitude de mercado (TICKQ) mostra uma forte pressão de venda no nível de -597.00, o que diverge significativamente da média SMA200 (-127.39).</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 31.75%, com volume de opções em 7,973,714. O Put/Call Ratio é de 0.97, indicando um equilíbrio próximo entre a demanda por proteção e instrumentos de alta. O alcance de movimento esperado pelo mercado está na faixa de 639.24 a 664.57 pontos.</li>
+<li><strong>Níveis técnicos:</strong> A principal resistência está localizada no nó de volume na zona 26890–26910. O preço atual está abaixo deste nível, o que aumenta a distância até a zona de resistência.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-19 20:07</p>
 <h3>📈 [2026-11-19 19:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
