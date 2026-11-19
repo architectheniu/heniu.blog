@@ -1,6 +1,6 @@
 # M15: 2026-11-19
 
-Data: 2026-11-19 19:29
+Data: 2026-11-19 19:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.19</h1>
+<h3>⏱️ [2026-11-19 19:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>26740.07</strong> (-1.39%; od poprzedniego wpisu -31.92 pkt) · NQ <strong>26816.25</strong> (-1.35%; -41.75 pkt) · QQQ <strong>650.62 USD</strong> (-1.34%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-13.07 M</strong> [test podaży] · CVD NQ <strong>-39.8 K</strong> [wyprzedaż] (od poprzedniego wpisu -6.60 K) · CVD QQQ <strong>-1.58 M</strong> [wyprzedaż] · TICKQ <strong>-494</strong> [załamanie rynku] · średnia SMA200 <strong>-123.39</strong> [załamanie rynku] (-3.54) · wskaźnik kierunku <strong>-50</strong> (skala ±100; -5)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.08 bln USD</strong> (od poprzedniego wpisu +0.09 bln USD) · udział spółek powyżej 1 bln USD <strong>66.3%</strong> (-2.6 pp) · średnia cena akcji <strong>275.63 USD</strong> (-0.15 USD) · opcje QQQ: zmienność implikowana <strong>32.25%</strong>, put/call <strong>0.98</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>26890–26910</strong> (0.56% wyżej)</li>
+</ul>
+<p>Wszystkie analizowane przepływy CVD wykazują tendencję spadkową, co oznacza, że podaż na NDX, NQ oraz QQQ rośnie w tym samym kierunku. Udział spółek o kapitalizacji powyżej biliona dolarów w całym koszyku spadł, a najbliższa strefa wolumenu stanowi dla rynku opór.</p>
 <h3>⏱️ [2026-11-19 19:29] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>26771.99</strong> (-1.27%; od poprzedniego wpisu +93.83 pkt) · NQ <strong>26858.00</strong> (-1.21%; +100.75 pkt) · QQQ <strong>651.52 USD</strong> (-1.20%)</li>
