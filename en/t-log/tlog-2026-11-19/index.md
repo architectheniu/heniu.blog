@@ -1,6 +1,6 @@
 # M15: 2026-11-19
 
-Date: 2026-11-19 17:14
+Date: 2026-11-19 17:29
 URL: https://heniu.blog/en/t-log/tlog-2026-11-19/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.19 [EN]</h1>
+<h3>⏱️ [2026-11-19 17:29] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>27197.05</strong> (+0.29%; since the previous entry +5.35 pts) · NQ <strong>27274.50</strong> (+0.32%; +6.25 pts) · QQQ <strong>661.66 USD</strong> (+0.33%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX <strong>45.34 M</strong> [accumulation] · CVD NQ <strong>-25.86 K</strong> [sell-off] (since the previous entry -1.76 K) · CVD QQQ <strong>-1.44 M</strong> [sell-off] · TICKQ <strong>-430</strong> [market breakdown] · SMA200 average <strong>-116.22</strong> [market breakdown] (-0.30) · direction gauge <strong>20</strong> (±100 scale; -10)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.71 trillion USD</strong> (since the previous entry +0.14 trillion USD) · share of companies above 1 trillion USD <strong>66.5%</strong> (-0.1 pp) · average share price <strong>279.91 USD</strong> (+0.43 USD) · QQQ options: implied volatility <strong>29.53%</strong>, put/call <strong>0.93</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>27160–27180</strong> (0.06% lower) · nearest above the price <strong>27640–27660</strong> (1.63% higher)</li>
+</ul>
+<p>NQ price rose after breaking through two volume node levels that previously acted as barriers. Despite this increase, CVD flows for the NQ and QQQ instruments still indicate a sell-off.</p>
 <h3>⏱️ [2026-11-19 17:14] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27191.70</strong> (+0.28%; since the previous entry +50.48 pts) · NQ <strong>27268.25</strong> (+0.30%; +49.25 pts) · QQQ <strong>661.56 USD</strong> (+0.31%)</li>
