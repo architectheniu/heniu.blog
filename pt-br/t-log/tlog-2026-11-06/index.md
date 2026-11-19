@@ -155,6 +155,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 <li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28170–28190</strong> (3.94% acima)</li>
 </ul>
 <p>Ocorreu o rompimento do suporte da zona de volume do ecossistema US100, o que causou uma queda nas cotações. O fluxo CVD para o índice NQ diminuiu em comparação com a entrada anterior, enquanto o indicador TICKQ indica acumulação. A resistência mais próxima encontra-se acima dos níveis de preço atuais.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATA (2026-11-06, adicionada em 19.11)</strong><br />
+Retiramos a frase sobre o rompimento da zona de volume. Essa zona surgiu de uma única leitura desatualizada (um erro na recepção de dados pelo Heniu) e não existia no mercado. Os números desta entrada vêm de leituras atuais e permanecem.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 17:59] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27161.12</strong> (+1.99%; desde a entrada anterior +16.03 pts) · NQ <strong>27267.75</strong> (+1.92%; +14.25 pts) · QQQ <strong>660.68 USD</strong> (+2.11%)</li>
@@ -163,6 +167,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 <li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28170–28190</strong> (3.71% acima)</li>
 </ul>
 <p>O preço NQ rompeu para cima o nível do nó de volume do ecossistema US100, o que permitiu a passagem acima da barreira anterior. A resistência mais próxima encontra-se acima das cotações atuais.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATA (2026-11-06, adicionada em 19.11)</strong><br />
+Retiramos a frase sobre o rompimento do nó de volume. Esse nó surgiu de uma única leitura desatualizada (um erro na recepção de dados pelo Heniu) e não existia no mercado. Os números desta entrada vêm de leituras atuais e permanecem.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 17:44] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27145.09</strong> (+1.93%; desde a entrada anterior +9.19 pts) · NQ <strong>27253.50</strong> (+1.88%; +8.50 pts) · QQQ <strong>660.40 USD</strong> (+2.06%)</li>
@@ -171,6 +179,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 <li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>28170–28190</strong> (3.78% acima)</li>
 </ul>
 <p>O preço do NQ rompeu para baixo o nível de suporte que anteriormente constituía uma zona de volume, porém após esse movimento ocorreu um repique para cima. O volume acumulado de compra no NQ aumentou, o que confirma a acumulação visível nos fluxos.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATA (2026-11-06, adicionada em 19.11)</strong><br />
+Retiramos a frase sobre o rompimento da zona de volume. Essa zona surgiu de uma única leitura desatualizada (um erro na recepção de dados pelo Heniu) e não existia no mercado. Os números desta entrada vêm de leituras atuais e permanecem.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 17:29] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27135.90</strong> (+1.90%; desde a entrada anterior +111.50 pts) · NQ <strong>27245.00</strong> (+1.85%; +114.25 pts) · QQQ <strong>660.21 USD</strong> (+2.03%)</li>
@@ -189,6 +201,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 </ul>
 <p>O volume de compra acumulado no NQ aumentou, enquanto o indicador CVD para o QQQ indica um sell-off. O suporte mais próximo encontra-se abaixo dos preços atuais, e a resistência ocorre acima.</p>
 <p><strong>Alarmes de fluxo desde a entrada anterior:</strong> 17:10 fluxo repentino de NQ para baixo.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATA (2026-11-06, adicionada em 19.11)</strong><br />
+As variações “desde a entrada anterior” nesta entrada (entre elas NDX -139.01 pts e NQ +143.75 pts) foram calculadas a partir dos números retirados da entrada das 16:29, por isso também as retiramos. Os valores atuais nesta entrada vêm de leituras atuais e permanecem.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 16:29] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27163.41</strong> (+1.88%; desde a entrada anterior -21.17 pts) · NQ <strong>26987.00</strong> (+1.83%; -315.25 pts) · QQQ <strong>660.88 USD</strong> (+2.02%)</li>
@@ -198,6 +214,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 </ul>
 <p>Após a ocorrência de fluxos repentinos para baixo nos contratos NQ, o preço registrou uma alta, o que se traduziu em resultados positivos para os índices. O volume acumulado de compra no NQ caiu em comparação com a entrada anterior, enquanto o indicador CVD para QQQ indica um teste de oferta. A resistência mais próxima encontra-se acima das cotações atuais.</p>
 <p><strong>Alarmes de fluxo desde o Log anterior:</strong> 16:16 fluxo repentino de NQ para baixo; 16:22 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATA (2026-11-06, adicionada em 19.11)</strong><br />
+Esta entrada descrevia leituras que estavam paradas desde 16:25 (um erro na recepção de dados pelo Heniu, corrigido às 17:10). Retiramos os números e a descrição desta entrada. Não temos leituras atuais de 16:29, por isso não damos novos números no lugar deles.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 16:14] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>27184.58</strong> (+2.08%) · NQ <strong>27302.25</strong> (+2.03%) · QQQ <strong>661.48 USD</strong> (+2.23%)</li>
@@ -215,6 +235,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 </ul>
 <p>Desde a entrada anterior, foi observada uma série de fluxos repentinos para baixo nos contratos NQ, o que é confirmado pelos alarmes de fluxo. Em decorrência desses eventos, o preço do NQ caiu e o valor do CVD também diminuiu.</p>
 <p><strong>Alarmes de fluxo desde o Log anterior:</strong> 15:31 fluxo repentino de NQ para baixo; ignição de fluxo NQ; 15:36 fluxo repentino de NQ para baixo; ignição de fluxo NQ; 15:41 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATA (2026-11-06, adicionada em 19.11)</strong><br />
+O “sem dados” nesta entrada resultou de um erro na recepção de dados pelo Heniu, e não de uma pausa no mercado. A sessão transcorreu normalmente.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 15:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>27159.00</strong> (+1.52%; desde a entrada anterior +40.00 pts, +0.15%) · parcela da amplitude média diária (ADR) utilizada <strong>113.86%</strong></li>

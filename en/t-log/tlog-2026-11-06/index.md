@@ -155,6 +155,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 <li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28170–28190</strong> (3.94% higher)</li>
 </ul>
 <p>A break through the US100 ecosystem volume node occurred, causing a decline in quotes. The CVD flow for the NQ index decreased compared to the previous entry, while the TICKQ indicator indicates accumulation. The nearest resistance is located above current price levels.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, added 19.11)</strong><br />
+We withdraw the sentence about the break through the volume node. That node came from a single outdated reading (an error in how Heniu received data) and did not exist in the market. The numbers in this entry come from fresh readings and stand.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 17:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27161.12</strong> (+1.99%; since the previous entry +16.03 pts) · NQ <strong>27267.75</strong> (+1.92%; +14.25 pts) · QQQ <strong>660.68 USD</strong> (+2.11%)</li>
@@ -163,6 +167,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 <li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28170–28190</strong> (3.71% higher)</li>
 </ul>
 <p>NQ price broke upward through the US100 ecosystem volume node level, enabling a transition above the previous barrier. The nearest resistance is located above current quotes.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, added 19.11)</strong><br />
+We withdraw the sentence about the break through the volume node. That node came from a single outdated reading (an error in how Heniu received data) and did not exist in the market. The numbers in this entry come from fresh readings and stand.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 17:44] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27145.09</strong> (+1.93%; since the previous entry +9.19 pts) · NQ <strong>27253.50</strong> (+1.88%; +8.50 pts) · QQQ <strong>660.40 USD</strong> (+2.06%)</li>
@@ -171,6 +179,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 <li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>28170–28190</strong> (3.78% higher)</li>
 </ul>
 <p>NQ price broke below the support level that previously served as a volume node, however, after this move, an upward rebound occurred. Cumulative buy volume on NQ increased, confirming the accumulation visible in the flows.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, added 19.11)</strong><br />
+We withdraw the sentence about the break through the volume node. That node came from a single outdated reading (an error in how Heniu received data) and did not exist in the market. The numbers in this entry come from fresh readings and stand.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 17:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27135.90</strong> (+1.90%; since the previous entry +111.50 pts) · NQ <strong>27245.00</strong> (+1.85%; +114.25 pts) · QQQ <strong>660.21 USD</strong> (+2.03%)</li>
@@ -189,6 +201,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 </ul>
 <p>Cumulative buy volume on NQ increased, while the CVD indicator for QQQ indicates a sell-off. The nearest support is below current prices, and resistance occurs above.</p>
 <p><strong>Flow alarms since the previous Log:</strong> 17:10 sudden NQ flow down.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, added 19.11)</strong><br />
+The changes “since the previous entry” in this entry (including NDX -139.01 pts and NQ +143.75 pts) were calculated from the withdrawn numbers of the 16:29 entry, so we withdraw them as well. The current values in this entry come from fresh readings and stand.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 16:29] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27163.41</strong> (+1.88%; since the previous entry -21.17 pts) · NQ <strong>26987.00</strong> (+1.83%; -315.25 pts) · QQQ <strong>660.88 USD</strong> (+2.02%)</li>
@@ -198,6 +214,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 </ul>
 <p>After sudden downward flows occurred on NQ contracts, the price recorded an increase, which translated into positive index results. Cumulative buy volume on NQ decreased compared to the previous entry, while the CVD indicator for QQQ indicates a supply test. The nearest resistance is located above current rates.</p>
 <p><strong>Flow alarms since the previous Log:</strong> 16:16 sudden NQ flow down; 16:22 sudden NQ flow down; NQ flow ignition.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, added 19.11)</strong><br />
+This entry described readings that had stood still since 16:25 (an error in how Heniu received data, fixed at 17:10). We withdraw the numbers and the description in this entry. We have no fresh readings from 16:29, so we give no new numbers in their place.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 16:14] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>27184.58</strong> (+2.08%) · NQ <strong>27302.25</strong> (+2.03%) · QQQ <strong>661.48 USD</strong> (+2.23%)</li>
@@ -215,6 +235,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 </ul>
 <p>Since the previous entry, a series of sudden downward flows on NQ contracts has been recorded, as confirmed by flow alarms. In connection with these events, the NQ price has fallen, and the CVD value has also been lowered.</p>
 <p><strong>Flow alarms since the previous Log:</strong> 15:31 sudden NQ flow down; NQ flow ignition; 15:36 sudden NQ flow down; NQ flow ignition; 15:41 sudden NQ flow down; NQ flow ignition.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, added 19.11)</strong><br />
+The “no data” in this entry came from an error in how Heniu received data, not from a break in the market. The session ran normally.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>27159.00</strong> (+1.52%; since the previous entry +40.00 pts, +0.15%) · share of the average daily range (ADR) used <strong>113.86%</strong></li>

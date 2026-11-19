@@ -155,6 +155,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 <li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>28170–28190</strong> (3.94% wyżej)</li>
 </ul>
 <p>Nastąpiło przebicie wsparcia węzła wolumenowego ekosystemu US100, co spowodowało spadek notowań. Przepływ CVD dla indeksu NQ uległ zmniejszeniu w porównaniu do poprzedniego wpisu, natomiast wskaźnik TICKQ wskazuje na akumulację. Najbliższy opór znajduje się powyżej obecnych poziomów cenowych.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, dopisane 19.11)</strong><br />
+Zdanie o przebiciu węzła wolumenowego wycofujemy. Ten węzeł powstał z jednego nieaktualnego odczytu (błąd w odbiorze danych przez Henia) i na rynku go nie było. Liczby w tym wpisie pochodzą ze świeżych odczytów i zostają.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 17:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27161.12</strong> (+1.99%; od poprzedniego wpisu +16.03 pkt) · NQ <strong>27267.75</strong> (+1.92%; +14.25 pkt) · QQQ <strong>660.68 USD</strong> (+2.11%)</li>
@@ -163,6 +167,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 <li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>28170–28190</strong> (3.71% wyżej)</li>
 </ul>
 <p>Cena NQ przebiła w górę poziom węzła wolumenowego ekosystemu US100, co umożliwiło przejście powyżej wcześniejszej zapory. Najbliższy opór znajduje się powyżej obecnych notowań.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, dopisane 19.11)</strong><br />
+Zdanie o przebiciu węzła wolumenowego wycofujemy. Ten węzeł powstał z jednego nieaktualnego odczytu (błąd w odbiorze danych przez Henia) i na rynku go nie było. Liczby w tym wpisie pochodzą ze świeżych odczytów i zostają.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 17:44] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27145.09</strong> (+1.93%; od poprzedniego wpisu +9.19 pkt) · NQ <strong>27253.50</strong> (+1.88%; +8.50 pkt) · QQQ <strong>660.40 USD</strong> (+2.06%)</li>
@@ -171,6 +179,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 <li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>28170–28190</strong> (3.78% wyżej)</li>
 </ul>
 <p>Cena NQ przebiła w dół poziom wsparcia, który wcześniej stanowił węzeł wolumenowy, jednak po tym ruchu nastąpiło odbicie w górę. Skumulowany wolumen kupna na NQ wzrósł, co potwierdza akumulację widoczną w przepływach.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, dopisane 19.11)</strong><br />
+Zdanie o przebiciu węzła wolumenowego wycofujemy. Ten węzeł powstał z jednego nieaktualnego odczytu (błąd w odbiorze danych przez Henia) i na rynku go nie było. Liczby w tym wpisie pochodzą ze świeżych odczytów i zostają.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 17:29] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27135.90</strong> (+1.90%; od poprzedniego wpisu +111.50 pkt) · NQ <strong>27245.00</strong> (+1.85%; +114.25 pkt) · QQQ <strong>660.21 USD</strong> (+2.03%)</li>
@@ -189,6 +201,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 </ul>
 <p>Skumulowany wolumen kupna na NQ wzrósł, natomiast wskaźnik CVD dla QQQ wskazuje na wyprzedaż. Najbliższe wsparcie znajduje się poniżej obecnych kursów, a opór występuje powyżej.</p>
 <p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 17:10 nagły przepływ NQ w dół.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, dopisane 19.11)</strong><br />
+Zmiany „od poprzedniego wpisu” w tym wpisie (m.in. NDX -139.01 pkt i NQ +143.75 pkt) są liczone od wycofanych liczb z wpisu 16:29, więc je także wycofujemy. Bieżące wartości w tym wpisie pochodzą ze świeżych odczytów i zostają.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 16:29] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27163.41</strong> (+1.88%; od poprzedniego wpisu -21.17 pkt) · NQ <strong>26987.00</strong> (+1.83%; -315.25 pkt) · QQQ <strong>660.88 USD</strong> (+2.02%)</li>
@@ -198,6 +214,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 </ul>
 <p>Po wystąpieniu nagłych przepływów w dół na kontraktach NQ, cena odnotowała wzrost, co przełożyło się na dodatnie wyniki indeksów. Skumulowany wolumen kupna na NQ spadł w porównaniu do poprzedniego wpisu, podczas gdy wskaźnik CVD dla QQQ wskazuje na test podaży. Najbliższy opór znajduje się powyżej obecnych kursów.</p>
 <p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 16:16 nagły przepływ NQ w dół; 16:22 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, dopisane 19.11)</strong><br />
+Ten wpis opisywał odczyty, które od 16:25 stały w miejscu (błąd w odbiorze danych przez Henia, poprawiony o 17:10). Liczby i opis z tego wpisu wycofujemy. Świeżych odczytów z 16:29 nie mamy, więc nie podajemy w ich miejsce nowych liczb.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 16:14] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>27184.58</strong> (+2.08%) · NQ <strong>27302.25</strong> (+2.03%) · QQQ <strong>661.48 USD</strong> (+2.23%)</li>
@@ -215,6 +235,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 </ul>
 <p>Od ostatniego wpisu odnotowano serię nagłych przepływów w dół na kontraktach NQ, co potwierdzają alarmy przepływu. W związku z tymi zdarzeniami cena NQ spadła, a wartość CVD również uległa obniżeniu.</p>
 <p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:31 nagły przepływ NQ w dół; zapłon przepływu NQ; 15:36 nagły przepływ NQ w dół; zapłon przepływu NQ; 15:41 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
+<blockquote>
+<p>⚠️ <strong>ERRATUM (2026-11-06, dopisane 19.11)</strong><br />
+„Brak danych” w tym wpisie wynikał z błędu w odbiorze danych przez Henia, a nie z przerwy na rynku. Sesja trwała normalnie.</p>
+</blockquote>
 <h3>⏱️ [2026-11-06 15:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>27159.00</strong> (+1.52%; od poprzedniego wpisu +40.00 pkt, +0.15%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>113.86%</strong></li>

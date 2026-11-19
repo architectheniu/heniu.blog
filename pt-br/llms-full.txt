@@ -1169,7 +1169,12 @@ Endereço: https://heniu.blog/pt-br/posts/log-0222/
     * Preço médio das ações na cesta: **$277.01** (mudança: **+$2.89**)
     * Mudanças no grupo de empresas acima de 1 tri USD: **abaixo de 1 tri USD caíram: WMT**
 
-* **Saúde dos dados da sessão:** leituras durante 92,5% da sessão à vista (Spot); maior lacuna de 1 min; NDX sem mudança por mais de 2 min em 4,0% das leituras; leituras desatualizadas rejeitadas: 4933
+> ⚠️ **ERRATA (2026-11-06, adicionada em 19.11)**  
+> Por um erro na recepção de dados, o Heniu não viu a maior parte das leituras de 15:30–16:00 e 16:18–17:10 PL (82 min no total, 21% da sessão à vista). O máximo da sessão indicado aqui (27269.60 às 10:00 ET) é a leitura mais alta que chegou ao Heniu. O máximo real foi mais alto e ocorreu antes, portanto o fechamento também ficou mais de 289.92 pts abaixo do máximo. Não indicamos um novo máximo porque não temos essa leitura.
+>
+> Removemos do relatório a linha sobre a saúde dos dados da sessão: ela superestimava a cobertura da sessão, e as leituras rejeitadas eram, em sua grande maioria, atuais.
+>
+> O fechamento e a telemetria de fechamento estão corretos.
 
 ---
 

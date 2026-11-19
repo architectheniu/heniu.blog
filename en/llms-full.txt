@@ -1169,7 +1169,12 @@ URL: https://heniu.blog/en/posts/log-0222/
     * Average share price in the basket: **$277.01** (change: **+$2.89**)
     * Changes in the group of companies above 1 trillion USD: **below 1 trillion USD fell: WMT**
 
-* **Session data health:** readings during 92.5% of the cash session; longest gap 1 min; NDX unchanged for longer than 2 min in 4.0% of readings; stale readings rejected: 4933
+> ⚠️ **ERRATUM (2026-11-06, added 19.11)**  
+> Because of an error in how Heniu received data, Heniu did not see most readings from 15:30–16:00 and 16:18–17:10 PL (82 min in total, 21% of the cash session). The session maximum given here (27269.60 at 10:00 ET) is the highest reading that reached Heniu. The true maximum was higher and came earlier, so the close was also further below the maximum than 289.92 pts. We give no new maximum because we have no such reading.
+>
+> We removed the session data health line from the report: it overstated the session coverage, and the rejected readings were overwhelmingly fresh.
+>
+> The close and the closing telemetry are correct.
 
 ---
 
