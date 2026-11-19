@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Log #0233: Session summary 2026-11-19: NDX 26517.02 (-2.22%)](https://heniu.blog/en/posts/log-0233/index.md) (2026-11-19)
 - [M15: 2026-11-19](https://heniu.blog/en/t-log/tlog-2026-11-19/index.md) (2026-11-19)
 - [H1: 2026-11-19](https://heniu.blog/en/h-log/hlog-2026-11-19/index.md) (2026-11-19)
 - [Fundamentals #0088: Walmart: 3Q2027 results](https://heniu.blog/en/f-log/flog-2026-11-19-0088/index.md) (2026-11-19)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [M15: 2026-11-05](https://heniu.blog/en/t-log/tlog-2026-11-05/index.md) (2026-11-05)
 - [Log #0221: Session summary 2026-11-05: NDX 26643.16 (-6.36%)](https://heniu.blog/en/posts/log-0221/index.md) (2026-11-05)
 - [Erratum: “Oracle” indicators in M15 entries from 13 July to 21 October 2026](https://heniu.blog/en/t-log/errata-2026-11-05/index.md) (2026-11-05)
-- [H1: 2026-11-04](https://heniu.blog/en/h-log/hlog-2026-11-04/index.md) (2026-11-04)
 

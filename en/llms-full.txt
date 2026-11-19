@@ -7,6 +7,86 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Log #0233: Session summary 2026-11-19: NDX 26517.02 (-2.22%)
+
+Date: 2026-11-19 22:04
+URL: https://heniu.blog/en/posts/log-0233/
+
+
+**Session date:** 2026-11-19
+
+> *Session close 2026-11-19: NDX 26517.02 (-2.22%), NQ 26523.25 (-2.44%), QQQ 645.10 (-2.19%).*
+
+---
+
+### Session overview
+
+**Opening and main move of the day.** The session started at 9:30 ET (15:30 PL) at NDX levels of 27557.57 and NQ 27660.00. In the first 30 minutes until 10:00 ET (16:00 PL), NDX rose by 41.16 pts (+0.15%) to 27598.73, and NQ rose by 24.00 pts (+0.09%) to 27684.00. The NDX session maximum reached 27740.18 at 9:36 ET (15:36 PL), and the minimum occurred at 15:11 ET (21:11 PL) at the level of 26484.92. The close at 26517.02 lies 1223.16 pts below the maximum and 32.10 pts above the minimum.
+
+**Flows and market breadth.** The cumulative flow (CVD) direction was divergent, as NDX recorded a positive value of 70,82 M [market flare], while NQ was -104,95 K [panic], and QQQ was -5,82 M [panic]. The TICKQ market breadth at close was -762.00 [panic], with a SMA200 average at -145.13 [market collapse]. The share of companies above 1 trillion USD in the basket capitalization was 66.24%.
+
+**End of session, options, and companies.** In the last hour of the session, NDX fell by 84.30 pts (-0.32%) to the close. The MOC Anomaly at close was +30,66 M. Implied volatility (IV) for options on QQQ was 32.13%, and the put/call ratio was 1.04. In the group of companies above 1 trillion USD, the value of WMT fell.
+
+**Day's balance.** The Nasdaq-100 index closed with a decrease of 2.22% at 26517.02.
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **26517.02 (-2.22%)**
+    * Cumulative flow (CVD): **70,82 M [market flare]**
+    * MOC Anomaly: **+30,66 M**
+    * Average Daily Range (ADR) utilization: **202.29%**
+    * Drawdown from Heniu's highest close: **-15.08%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** close **26523.25 (-2.44%)**
+    * Cumulative flow (CVD): **−104,95 K [panic]**
+    * Average Daily Range (ADR) utilization: **135.79%**
+
+* **QQQ ETF:** close **645.10 (-2.19%)**
+    * Cumulative flow (CVD): **−5,82 M [panic]**
+    * Average Daily Range (ADR) utilization: **207.55%**
+
+* **Market breadth (TICKQ):** reading at close **-762.00 [panic]**
+    * 200 reading average (SMA200): **-145.13 [market collapse]**
+
+* **Options on QQQ:**
+    * Implied volatility (IV): **32.13%**
+    * Put/call ratio (open interest, OI): **1.04**
+
+* **Nasdaq-100 basket:**
+    * Total capitalization: **37.70 trillion USD** (change from previous close: **-0.87 trillion USD**)
+    * Share of companies above 1 trillion USD in the basket capitalization: **66.24%** (change: **-2.80 pp**)
+    * Average stock price in the basket: **$272.02** (change: **$-6.17**)
+    * Changes in the group of companies above 1 trillion USD: **below 1 trillion USD fell: WMT**
+
+* **Session data health:** readings for 100.0% of the cash session; no gaps longer than a minute; NDX unchanged for longer than 2 min in 0.1% of readings; stale readings rejected: 38
+
+---
+
+[See this day as a Cosmic Tale →](/en/kosmiczna-opowiesc/opowiesc-0233/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-11-19",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentals #0088: Walmart: 3Q2027 results
 
 Date: 2026-11-19 17:34
@@ -1399,28 +1479,5 @@ The company's operating income reached 568.00 million USD (+65.6% y/y), while ne
 ### Management commentary
 
 Management emphasized that personal AI agents represent an entirely new sales channel that allows merchants to acquire new customers. According to management, purchases made by AI agents are in the early stages, but their growth rate is clearly strong. Management noted that when a customer reaches a store via an AI agent, the company's earnings remain the same as with other methods of reaching a customer. According to management, despite the shift in marketing and infrastructure spending over time, nothing has fundamentally changed in the company's costs and profitability. Management also indicated that the purchase of the shop.com domain is a declaration of more ambitious plans for the Shop app as a shopping destination. According to management, brick-and-mortar sales do not constitute a separate business, but are based on the same platform, catalog, and buyer relationships.
-
-
----
-
-## Fundamentals #0071: Keurig Dr Pepper: 3Q2026 results
-
-Date: 2026-11-04 13:40
-URL: https://heniu.blog/en/f-log/flog-2026-11-04-0071/
-
-
-Keurig Dr Pepper (KDP) revenue increased in Q3 by 70.5% year over year to 7.34 billion USD, and earnings per share (GAAP, diluted) increased by 22.4% year over year to 0.60 USD.
-
-### Quarterly results
-
-Operating income was 1.33 billion USD (+34.0% year over year) with net income at 952.00 million USD (+43.8% year over year).
-
-### Company guidance
-
-For 2026, the company expects revenue in the range of 25.90 billion USD – 26.40 billion USD.
-
-### Management commentary
-
-Management emphasized that price reductions and promotions in the single-serve coffee segment are appropriate steps for the business, even though they weigh on some of the profit in the short term. According to management, weaker demand for pods and a larger share of private labels are transitional and cyclical phenomena that may last longer. Management noted that work on the company split is proceeding according to schedule. According to management, the company is optimistic about the energy drink market and highly values its position in this sector.
 
 
