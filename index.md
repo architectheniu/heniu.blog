@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0087: Transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-19-0087/index.md) (2026-11-19)
 - [H1: 2026-11-19](https://heniu.blog/h-log/hlog-2026-11-19/index.md) (2026-11-19)
 - [M15: 2026-11-19](https://heniu.blog/t-log/tlog-2026-11-19/index.md) (2026-11-19)
 - [Fundamenty #0086: Palo Alto Networks: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-11-19-0086/index.md) (2026-11-19)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0221: Podsumowanie sesji 2026-11-05: NDX 26643.16 (-6.36%)](https://heniu.blog/posts/log-0221/index.md) (2026-11-05)
 - [Errata: wskaźniki „Oracle” we wpisach M15 z 13.07–21.10.2026](https://heniu.blog/t-log/errata-2026-11-05/index.md) (2026-11-05)
 - [H1: 2026-11-04](https://heniu.blog/h-log/hlog-2026-11-04/index.md) (2026-11-04)
-- [M15: 2026-11-04](https://heniu.blog/t-log/tlog-2026-11-04/index.md) (2026-11-04)
 

@@ -7,6 +7,21 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0087: Insider transactions
+
+Date: 2026-11-19 10:10
+URL: https://heniu.blog/en/f-log/flog-2026-11-19-0087/
+
+
+Insiders sold shares for 163.1 million USD, including 86.3 million USD from 10b5-1 plans; market purchases were 0.
+
+Astera Labs (ALAB) insiders sold shares for 40.6 million USD.
+
+Advanced Micro Devices (AMD) insiders sold shares for 35.5 million USD.
+
+
+---
+
 ## Fundamentals #0086: Palo Alto Networks: 1Q2027 results
 
 Date: 2026-11-19 00:53
@@ -1410,28 +1425,5 @@ For 2026, the company expects revenue in the range of 38.90 billion USD – 39.7
 ### Management commentary
 
 Management emphasized that the company intends to maintain expenditure discipline so that shareholders also benefit from acquisitions. According to management, following the update of guidelines, physicians will quickly change treatment methods in favor of the drug IMDELLTRA, which works strongly in combination with chemotherapy. Management expressed expectation of similar efficacy in combination with antibody-drug conjugates and noted that the company is confident in its position as a reliable supplier of biosimilars, designing new production capacities for larger quantities of protein. According to management, daxdilimab for discoid lupus erythematosus will be prescribed mainly by dermatologists, an area in which the company possesses experience and appropriate teams.
-
-
----
-
-## Fundamentals #0069: Astera Labs: 3Q2026 results
-
-Date: 2026-11-04 11:56
-URL: https://heniu.blog/en/f-log/flog-2026-11-04-0069/
-
-
-Astera Labs (ALAB) revenue increased by 153.7% year over year in Q3 to 584.90 million USD, and earnings per share (reported) increased by 98.0% year over year to 0.99 USD.
-
-### Quarterly results
-
-Earnings per share (reported, basic) was 1.05 USD, representing a 94.4% year over year increase compared to 0.54 USD the previous year.
-
-### Company guidance
-
-In Q4 2026, the company expects revenue in the range of 730.00 million USD – 750.00 million USD and earnings per share (GAAP) at the level of 1.13–1.17 USD. The company also forecasts gross margin at approximately 72.0% and adjusted earnings per share (non-GAAP) in the range of 1.62–1.66 USD.
-
-### Management commentary
-
-Management emphasized that the business model is generating increasing leverage, as operating costs are growing slower than revenue. According to management, Scorpio X switches are expected to continue recording growth thanks to new customers and platforms. Management indicated that Orion rack solutions are expected to improve margin through software sales and licensing fees. According to management, the transition to optical connectivity increases the company's chances, as it earns significantly more from it than from copper solutions. Management also noted that the new Orion rack is not dependent on a single accelerator supplier.
 
 

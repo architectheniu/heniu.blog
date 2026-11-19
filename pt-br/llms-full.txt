@@ -7,6 +7,21 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0087: Transações de insiders
+
+Data: 2026-11-19 10:10
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-19-0087/
+
+
+Insiders venderam ações por 163,1 mi USD, incluindo 86,3 mi USD de planos 10b5-1; compras no mercado foram 0.
+
+Insiders da Astera Labs (ALAB) venderam ações por 40,6 mi USD.
+
+Insiders da Advanced Micro Devices (AMD) venderam ações por 35,5 mi USD.
+
+
+---
+
 ## Fundamentos #0086: Palo Alto Networks: resultados do 1Q2027
 
 Data: 2026-11-19 00:54
@@ -1410,28 +1425,5 @@ Para o ano de 2026, a empresa espera receitas na faixa de 38,90 bi USD – 39,70
 ### O que diz a diretoria
 
 A diretoria enfatizou que a empresa deseja manter a disciplina nos gastos, para que, em caso de aquisições, os acionistas também obtenham lucro. De acordo com a diretoria, após a atualização das diretrizes, os médicos mudarão rapidamente o modo de tratamento em favor do medicamento IMDELLTRA, que atua fortemente em combinação com a quimioterapia. A diretoria expressou a expectativa de eficácia semelhante em combinação com conjugados anticorpo-droga e destacou que a empresa está confiante em sua posição como um fornecedor confiável de medicamentos biossimilares, projetando novas capacidades de produção para maiores quantidades de proteína. De acordo com a diretoria, o daxdilimab para o lúpus discoide será prescrito principalmente por dermatologistas, área na qual a empresa possui experiência e equipes adequadas.
-
-
----
-
-## Fundamentos #0069: Astera Labs: resultados do 3Q2026
-
-Data: 2026-11-04 11:56
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-04-0069/
-
-
-A receita da Astera Labs (ALAB) aumentou no III trimestre em 153,7% ano a ano para 584,90 mi USD, e o lucro por ação (contábil) aumentou em 98,0% ano a ano para 0,99 USD.
-
-### Resultados do trimestre
-
-O lucro por ação (contábil, básico) foi de 1,05 USD, o que representa um aumento de 94,4% ano a ano em comparação com 0,54 USD no ano anterior.
-
-### Projeção da empresa
-
-No IV trimestre de 2026, a empresa espera uma receita na faixa de 730,00 mi USD – 750,00 mi USD e um lucro por ação (GAAP) no nível de 1,13–1,17 USD. A empresa também projeta uma margem bruta de aproximadamente 72,0% e um lucro por ação ajustado (non-GAAP) na faixa de 1,62–1,66 USD.
-
-### O que diz a diretoria
-
-A diretoria enfatizou que o modelo de negócios gera uma alavancagem cada vez maior, pois os custos operacionais crescem mais lentamente do que a receita. De acordo com a diretoria, os switches Scorpio X devem continuar registrando crescimentos graças a novos clientes e plataformas. A diretoria indicou que as soluções de rack Orion devem melhorar a margem através da venda de software e cobrança de taxas de licenciamento. Segundo a diretoria, a transição para conectividade óptica aumenta as chances da empresa, pois ela lucra muito mais com ela do que com soluções de cobre. A diretoria também observou que o novo rack Orion não depende de um único fornecedor de aceleradores.
 
 
