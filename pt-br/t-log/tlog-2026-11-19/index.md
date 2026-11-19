@@ -1,6 +1,6 @@
 # M15: 2026-11-19
 
-Data: 2026-11-19 15:29
+Data: 2026-11-19 15:45
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.19 [PT-BR]</h1>
+<h3>⏱️ [2026-11-19 15:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>27698.58</strong> (+2.15%) · NQ <strong>27781.25</strong> (+2.19%; desde a entrada anterior +105.00 pts) · QQQ <strong>673.94 USD</strong> (+2.19%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX <strong>119.48 M</strong> [euforia] · CVD NQ <strong>29.95 K</strong> [acumulação] (desde a entrada anterior +18.79 K) · CVD QQQ <strong>1.43 M</strong> [acumulação] · TICKQ <strong>-198</strong> [sell-off] · média SMA200 <strong>-105.81</strong> [colapso do mercado] · indicador de direção <strong>20</strong> (escala ±100; -15)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>38.58 trilhões de USD</strong> · participação das empresas acima de 1 trilhão de USD <strong>69.0%</strong> · preço médio das ações <strong>284.21 USD</strong> · opções sobre QQQ: volatilidade implícita <strong>27.19%</strong>, put/call <strong>0.61</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>27640–27660</strong> (0.14% abaixo) · mais próxima acima do preço <strong>27700–27720</strong> (0.01% acima)</li>
+</ul>
+<p>O preço do NQ subiu, o que é confirmado por séries de alarmes de fluxo de alta, que ocorreram após uma queda anterior. Simultaneamente, observou-se um aumento na acumulação nos fluxos CVD para o NQ. A resistência mais próxima encontra-se ligeiramente acima do preço atual, enquanto o suporte está abaixo.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 15:30 fluxo repentino de NQ para baixo; ignição de fluxo NQ; 15:35 fluxo repentino de NQ para cima; ignição de fluxo NQ; 15:41 fluxo repentino de NQ para cima; ignição de fluxo NQ.</p>
 <h3>⏱️ [2026-11-19 15:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>27676.25</strong> (+1.80%; desde a entrada anterior -38.75 pts, -0.14%) · parcela da amplitude média diária (ADR) utilizada <strong>68.09%</strong></li>

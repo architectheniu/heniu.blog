@@ -1,6 +1,6 @@
 # M15: 2026-11-19
 
-Data: 2026-11-19 15:29
+Data: 2026-11-19 15:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.19</h1>
+<h3>⏱️ [2026-11-19 15:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>27698.58</strong> (+2.15%) · NQ <strong>27781.25</strong> (+2.19%; od poprzedniego wpisu +105.00 pkt) · QQQ <strong>673.94 USD</strong> (+2.19%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>119.48 M</strong> [euforia] · CVD NQ <strong>29.95 K</strong> [akumulacja] (od poprzedniego wpisu +18.79 K) · CVD QQQ <strong>1.43 M</strong> [akumulacja] · TICKQ <strong>-198</strong> [wyprzedaż] · średnia SMA200 <strong>-105.81</strong> [załamanie rynku] · wskaźnik kierunku <strong>20</strong> (skala ±100; -15)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>38.58 bln USD</strong> · udział spółek powyżej 1 bln USD <strong>69.0%</strong> · średnia cena akcji <strong>284.21 USD</strong> · opcje QQQ: zmienność implikowana <strong>27.19%</strong>, put/call <strong>0.61</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa poniżej ceny <strong>27640–27660</strong> (0.14% niżej) · najbliższa powyżej ceny <strong>27700–27720</strong> (0.01% wyżej)</li>
+</ul>
+<p>Cena NQ wzrosła, co potwierdzają serie alarmów przepływu w górę, które wystąpiły po wcześniejszym spadku. Jednocześnie odnotowano wzrost akumulacji w przepływach CVD dla NQ. Najbliższy opór znajduje się nieznacznie powyżej aktualnej ceny, natomiast wsparcie leży poniżej.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:30 nagły przepływ NQ w dół; zapłon przepływu NQ; 15:35 nagły przepływ NQ w górę; zapłon przepływu NQ; 15:41 nagły przepływ NQ w górę; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-19 15:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>27676.25</strong> (+1.80%; od poprzedniego wpisu -38.75 pkt, -0.14%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>68.09%</strong></li>
