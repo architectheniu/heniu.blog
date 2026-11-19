@@ -1,6 +1,6 @@
 # H1: 2026-11-19
 
-Data: 2026-11-19 05:08
+Data: 2026-11-19 06:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.19 [PT-BR]</h1>
+<h3>📈 [2026-11-19 06:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Contratos futuros (NQ):</strong> O preço dos contratos NQ é 27484.25 (+1.09%), com o fluxo acumulado (CVD) no nível de 7,79 K, o que indica um teste de demanda na sessão pré-mercado.</li>
+<li><strong>Contexto de correção e níveis:</strong> o Índice Nasdaq-100 (NDX) está em meio a um Recuo desde o pico do Heniu do dia 11.11 (28593.00), que atualmente é de -5.17% (-1478 pts). Trata-se de um recuo comum, não excedendo os limites históricos de profundidade de correção. A resistência mais próxima (zona de volume) encontra-se no intervalo 27160–27180, enquanto o suporte está no intervalo 27070–27090.</li>
+<li><strong>Mercado de opções QQQ:</strong> a volatilidade implícita (IV) é de 29.23%, e a proporção Put/Call é de 1.01, o que sugere um sentimento neutro com uma leve predominância de posições de hedge. O alcance esperado de movimento do instrumento está no intervalo de 645.20 a 673.82 com volume de opções de 7,838,573.</li>
+<li><strong>Fluxos de capital:</strong> O indicador de direção agregado de fluxos é 50, o que significa um equilíbrio neutro entre a entrada e a saída de capital.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-19 06:07</p>
 <h3>📈 [2026-11-19 05:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
