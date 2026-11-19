@@ -1,0 +1,23 @@
+# Fundamenty #0088: Walmart: wyniki za 3Q2027
+
+Data: 2026-11-19 17:34
+Adres: https://heniu.blog/f-log/flog-2026-11-19-0088/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody Walmart (WMT) wzrosły w trzecim kwartale roku obrotowego 2027 o 5,2% r/r do 188,84 mld USD, natomiast zysk na akcję spadł o 19,5% r/r do 0,62 USD.
+
+### Wyniki kwartału
+
+Zysk operacyjny wyniósł 7,77 mld USD wobec 6,70 mld USD rok wcześniej (+16,0% r/r). Skorygowany zysk na akcję osiągnął poziom 0,65 USD wobec 0,62 USD rok wcześniej (+4,8% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się wzrostu sprzedaży netto przy stałych kursach walut w roku obrotowym 2027 na poziomie 4,9% – 5,2%. Spółka prognozuje wzrost skorygowanego zysku operacyjnego przy stałych kursach walut w roku obrotowym 2027 w przedziale 8,0% – 8,6%. Spółka spodziewa się skorygowanego zysku na akcję w roku obrotowym 2027 na poziomie 2,84–2,89 USD. Spółka prognozuje, że nakłady inwestycyjne jako procent sprzedaży netto w roku obrotowym 2027 wyniosą około 4,0%.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że handel internetowy był głównym motorem kwartału oraz że spółka nadal zdobywa udziały w rynku. Według zarządu agenci AI zaczynają odgrywać coraz większą rolę w zakupach, a firma jest dobrze przygotowana na nowe sposoby kupowania. Zarząd podkreślał, że wyniki wspólnego pakietu członkostwa są zachęcające i celem spółki jest zbudowanie najbardziej potrzebnego członkostwa w Stanach Zjednoczonych. Według zarządu rozwój handlu internetowego napędza wzrost rentownych usług, takich jak reklama, platforma dla sprzedawców czy członkostwo. Zarząd podkreślał, że klient pozostaje stabilny i odporny, a zysk operacyjny w przyszłym roku będzie rósł szybciej niż sprzedaż.
+
