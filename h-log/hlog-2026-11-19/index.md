@@ -1,6 +1,6 @@
 # H1: 2026-11-19
 
-Data: 2026-11-19 07:07
+Data: 2026-11-19 08:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-19/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.19</h1>
+<h3>📈 [2026-11-19 08:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Kontrakty terminowe i przepływy:</strong> Kontrakty NQ notowane są na poziomie 27719.25 (+1.96%) przy skumulowanym przepływie CVD wynoszącym 13,58 K, co wskazuje na proces akumulacji. Zbiorczy wskaźnik kierunku przepływów wynosi 50, co oznacza neutralny balans między napływem a odpływem kapitału.</li>
+<li><strong>Kontekst indeksu NDX:</strong> Indeks NDX znajduje się w fazie korekty od szczytu z dnia 11.11 (28593.00), która wyniosła -5.17% (-1478 pkt). Na podstawie historycznych danych, jest to zwykłe cofnięcie (poziom poniżej mediany i 80. percentyla korekt).</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia znajduje się w przedziale 27070–27090 (wolumen 1.1%). Najbliższa strefa oporu to 27160–27180 (wolumen 1.1%).</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 29.23%, a wskaźnik Put/Call Ratio na poziomie 1.01 sugeruje zbliżoną równowagę między zabezpieczeniami a pozycjami wzrostowymi. Oczekiwany zasięg ruchu w ramach wolumenu 7,838,573 opcji mieści się w przedziale 645.20 do 673.82 punktów.</li>
+</ul>
+<p>Raport H-Log: 2026-11-19 08:07</p>
 <h3>📈 [2026-11-19 07:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
