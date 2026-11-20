@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Data: 2026-11-20 09:07
+Data: 2026-11-20 10:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-20/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.20</h1>
+<h3>📈 [2026-11-20 10:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong>. Rynek kasowy (Spot) jest obecnie zamknięty.</p>
+<ul>
+<li><strong>Sytuacja na kontraktach NQ</strong>: Cena kontraktów wynosi 26252.50 (-1.30%). Skumulowany przepływ (CVD) dla NQ wynosi -3,88k, co wskazuje na testowanie podaży w bieżącym handlu poza sesją główną.</li>
+<li><strong>Analiza opcji QQQ</strong>: Zmienność implikowana (IV) wynosi 32.30%, przy wolumenie opcji na poziomie 11,114,913. Wskaźnik Put/Call Ratio wynosi 1.00, co sygnalizuje neutralną równowagę między popytem na zabezpieczenia a na ekspozycję wzrostową. Oczekiwany zasięg ruchu w najbliższym cyklu wynosi od 627.90 do 662.18 punktów.</li>
+<li><strong>Kontekst korekty</strong>: Indeks NDX znajduje się w fazie korekty od szczytu z 11.11 (28593.00), która wynosi obecnie -7.26% (-2076 pkt). Na podstawie danych historycznych jest to cofnięcie o charakterze zwykłym, głębsze niż w 44% odnotowanych dotychczas korekt.</li>
+<li><strong>Poziomy techniczne</strong>: Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26890–26910. Odległość od obecnej ceny do tego oporu rośnie wraz z dalszymi spadkami.</li>
+<li><strong>Sentyment</strong>: Zbiorczy wskaźnik kierunku przepływów wynosi 0, co oznacza brak wyraźnej dominacji jednej ze stron w obecnym momencie handlu kontraktami.</li>
+</ul>
+<p>Raport H-Log: 2026-11-20 10:07</p>
 <h3>📈 [2026-11-20 09:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
