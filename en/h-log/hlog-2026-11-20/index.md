@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Date: 2026-11-20 19:08
+Date: 2026-11-20 20:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-20/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.20 [EN]</h1>
+<h3>📈 [2026-11-20 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Market situation and flows:</strong> The market is in a phase of strong distribution. The NDX index fell by 3.81% (25506.36), and NQ futures contracts by 3.85% (25573.50). Cumulative flow (CVD) for NDX is -268.52 M, which, combined with the simultaneous price decline, indicates an intensive sell-off of stocks in the sector. The direction gauge is -60, confirming a strong dominance of capital outflow from the market. Market breadth (TICKQ) shows an extremely negative deviation at -361.00, significantly below the SMA200 average (-201.88).</p>
+</li>
+<li>
+<p><strong>QQQ Options Analysis:</strong> The hedging market is active with a volume of 7 156 101 contracts. Implied volatility (IV) at 35.32% and a Put/Call Ratio of 1.08 indicate growing interest in short positions and building hedges against further declines. The expected range of movement for QQQ lies between 604.22 and 635.92.</p>
+</li>
+<li>
+<p><strong>Correction context and technical levels:</strong> The ongoing drawdown from the peak on 11.11 (28593.00) currently stands at -10.80% (-3087 pts). This is a deeper move than 78% of historical corrections recorded in the system's memory, classifying the current situation as a major correction. The nearest resistance zone (volume node) is located in the 26890–26910 range, representing a level approximately 5.42% away from the current price.</p>
+</li>
+</ul>
+<p>H-Log Report: 2026-11-20 20:07</p>
 <h3>📈 [2026-11-20 19:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
