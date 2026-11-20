@@ -1,0 +1,23 @@
+# Fundamentos #0089: Intuit: resultados do 1Q2027
+
+Data: 2026-11-20 01:03
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-20-0089/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+A receita da Intuit (INTU) cresceu 12,1% ano a ano no trimestre para 4,35 bi USD, e o lucro por ação foi de 2,59 USD contra 1,59 USD no ano anterior (+62,9% ano a ano).
+
+### Resultados do trimestre
+
+O lucro operacional foi de 868,00 mi USD contra 534,00 mi USD no ano anterior (+62,5% ano a ano). O lucro líquido atingiu 695,00 mi USD contra 446,00 mi USD no ano anterior (+55,8% ano a ano). O lucro por ação ajustado foi de 2,91 USD contra 1,87 USD no ano anterior (+55,6% ano a ano).
+
+### Projeção da empresa
+
+A empresa projeta a receita no ano fiscal 2027 em um nível de 23,081 bi USD – 23,365 bi USD. A empresa espera um lucro por ação ajustado no ano fiscal 2027 na faixa de 22,88 USD – 23,12 USD.
+
+### O que diz a administração
+
+A administração enfatizou a confiança na execução dos planos relativos à margem e às obrigações em escala anual. Segundo a administração, a estratégia baseada em uma plataforma apoiada por inteligência artificial é crucial para vencer no mercado. A administração indicou que as experiências com TurboTax e QuickBooks devem, com o tempo, melhorar a visibilidade da Credit Karma. A administração também anunciou que, após o fechamento da transação, todo o caixa da venda da Mailchimp será destinado à recompra de ações próprias.
+

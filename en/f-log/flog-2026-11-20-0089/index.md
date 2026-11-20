@@ -1,0 +1,23 @@
+# Fundamentals #0089: Intuit: 1Q2027 results
+
+Date: 2026-11-20 01:03
+URL: https://heniu.blog/en/f-log/flog-2026-11-20-0089/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Intuit (INTU) revenue grew 12.1% year over year in the quarter to 4.35 billion USD, and earnings per share were 2.59 USD compared to 1.59 USD a year earlier (+62.9% year over year).
+
+### Quarterly results
+
+Operating income was 868.00 million USD compared to 534.00 million USD a year earlier (+62.5% year over year). Net income reached 695.00 million USD compared to 446.00 million USD a year earlier (+55.8% year over year). Adjusted earnings per share were 2.91 USD compared to 1.87 USD a year earlier (+55.6% year over year).
+
+### Company guidance
+
+The company forecasts revenue for fiscal year 2027 at 23.081 billion USD – 23.365 billion USD. The company expects adjusted earnings per share in fiscal year 2027 in the range of 22.88 USD – 23.12 USD.
+
+### Management commentary
+
+Management emphasized confidence regarding the execution of margin plans and full-year commitments. According to management, a strategy based on an AI-powered platform is key to winning in the market. Management indicated that experience with TurboTax and QuickBooks will improve Credit Karma's visibility over time. Management also announced that upon closing the transaction, all cash from the sale of Mailchimp will be used for share buybacks.
+

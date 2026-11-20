@@ -7,6 +7,29 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0089: Intuit: 1Q2027 results
+
+Date: 2026-11-20 01:03
+URL: https://heniu.blog/en/f-log/flog-2026-11-20-0089/
+
+
+Intuit (INTU) revenue grew 12.1% year over year in the quarter to 4.35 billion USD, and earnings per share were 2.59 USD compared to 1.59 USD a year earlier (+62.9% year over year).
+
+### Quarterly results
+
+Operating income was 868.00 million USD compared to 534.00 million USD a year earlier (+62.5% year over year). Net income reached 695.00 million USD compared to 446.00 million USD a year earlier (+55.8% year over year). Adjusted earnings per share were 2.91 USD compared to 1.87 USD a year earlier (+55.6% year over year).
+
+### Company guidance
+
+The company forecasts revenue for fiscal year 2027 at 23.081 billion USD – 23.365 billion USD. The company expects adjusted earnings per share in fiscal year 2027 in the range of 22.88 USD – 23.12 USD.
+
+### Management commentary
+
+Management emphasized confidence regarding the execution of margin plans and full-year commitments. According to management, a strategy based on an AI-powered platform is key to winning in the market. Management indicated that experience with TurboTax and QuickBooks will improve Credit Karma's visibility over time. Management also announced that upon closing the transaction, all cash from the sale of Mailchimp will be used for share buybacks.
+
+
+---
+
 ## Log #0233: Session summary 2026-11-19: NDX 26517.02 (-2.22%)
 
 Date: 2026-11-19 22:04
@@ -1460,24 +1483,5 @@ The company expects revenue in Q4 2026 to be in the range of 1.19 billion USD �
 ### Management commentary
 
 Management emphasized that earlier contract renewals by large customers are a positive phenomenon, although they constrain revenue in the short term. According to management, customers outside the AI industry are also implementing AI-based solutions, which translates into higher cloud consumption and promises a long period of growth. Management indicated that the group of customers from the AI industry will expand, which will provide more stable results in the future. According to management, earlier contract renewals result from the rapid growth of these customers' companies, rather than from cost-cutting. Management also noted that the Bits AI assistant is the best-received product debut in the company's history. According to management, customers renewing contracts earlier commit to higher spending in exchange for volume discounts.
-
-
----
-
-## Fundamentals #0072: Shopify: 3Q2026 results
-
-Date: 2026-11-04 13:41
-URL: https://heniu.blog/en/f-log/flog-2026-11-04-0072/
-
-
-Shopify (SHOP) revenue in Q3 was 3.74 billion USD (+31.6% y/y), and earnings per share (GAAP) increased by 80.0% y/y to 0.36 USD.
-
-### Quarterly results
-
-The company's operating income reached 568.00 million USD (+65.6% y/y), while net income was 462.00 million USD (+75.0% y/y).
-
-### Management commentary
-
-Management emphasized that personal AI agents represent an entirely new sales channel that allows merchants to acquire new customers. According to management, purchases made by AI agents are in the early stages, but their growth rate is clearly strong. Management noted that when a customer reaches a store via an AI agent, the company's earnings remain the same as with other methods of reaching a customer. According to management, despite the shift in marketing and infrastructure spending over time, nothing has fundamentally changed in the company's costs and profitability. Management also indicated that the purchase of the shop.com domain is a declaration of more ambitious plans for the Shop app as a shopping destination. According to management, brick-and-mortar sales do not constitute a separate business, but are based on the same platform, catalog, and buyer relationships.
 
 
