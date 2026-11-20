@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Data: 2026-11-20 17:10
+Data: 2026-11-20 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-20/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.20 [PT-BR]</h1>
+<h3>📈 [2026-11-20 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Situação de mercado e fluxos:</strong> O mercado encontra-se em uma forte fase de distribuição. O índice NDX cai -3.70% (25535.75), e os contratos NQ caem -3.74% (25608.25). O fluxo acumulado (CVD) para NDX é de -258,68 mi, o que, com a queda simultânea dos preços, indica um sell-off intenso de ações na sessão à vista (Spot). O indicador de direção dos fluxos é de -60, o que confirma uma forte vantagem do outflow de capital. A amplitude de mercado (TICKQ) mostra valores negativos extremos no nível de -480.00, desviando-se significativamente da média SMA200 (-172.91).</p>
+</li>
+<li>
+<p><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) subiu para 35.73%, o que reflete as crescentes expectativas de movimentos de preços bruscos. O Put/Call Volume Ratio no nível de 1.10 indica uma vantagem de posições de proteção (hedging) e um aumento no interesse por opções de venda. O alcance esperado de movimento para QQQ está no intervalo de 613.53 – 643.23.</p>
+</li>
+<li>
+<p><strong>Contexto de correção e níveis:</strong> O Recuo desde o pico do Heniu de 11.11 (28593.00) é de -10.69% (-3057 pts). Este é um movimento mais profundo do que 78% das correções anteriores no período analisado. A resistência significativa mais próxima (nó de volume) encontra-se na zona de 26890–26910, o que representa um nível 5.30% acima do preço atual.</p>
+</li>
+</ul>
+<p>Relatório H-Log: 2026-11-20 18:07</p>
 <h3>📈 [2026-11-20 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
