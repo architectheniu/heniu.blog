@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Data: 2026-11-20 00:08
+Data: 2026-11-20 01:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-20/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.20 [PT-BR]</h1>
+<h3>📈 [2026-11-20 01:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>a sessão à vista (Spot) está atualmente fechada. A análise baseia-se na negociação ativa de contratos futuros NQ e nos dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ estão sendo avaliados em 26541.50 (-0.22%), com o fluxo acumulado CVD em -571, o que indica um teste de oferta no trading fora de horário.</li>
+<li>Na a sessão à vista (Spot) foi observada uma forte divergência: apesar da queda do índice NDX de (-2.21%), o fluxo acumulado (CVD) foi de 70,82 M, o que, junto com a queda simultânea do preço QQQ (-2.19%) e o CVD negativo no QQQ (-5,82 M), sugere uma absorção passiva de demanda no nível do índice.</li>
+<li>O mercado de opções sobre QQQ apresenta volatilidade implícita (IV) de 32.30% com um volume de 11,114,913 contratos. O Put/Call Volume Ratio é de 1.00, o que indica um equilíbrio neutro entre hedge e posições de alta. O alcance esperado do movimento é de 627.90 a 662.18 pontos.</li>
+<li>O Recuo desde o pico do Heniu de 11.11 (28593.00) é de -7.26% (-2076 pts). Este é um recuo de caráter comum, mais profundo do que em 44% dos casos históricos. A resistência significativa mais próxima (nó de volume) está na zona 26890–26910.</li>
+<li>O indicador de direção de fluxo agregado é 0, o que significa a ausência de dominância clara de entrada ou saída de capital em termos de escala de sentimento.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-20 01:07</p>
 <h3>📈 [2026-11-20 00:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
