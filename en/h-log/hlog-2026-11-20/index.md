@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Date: 2026-11-20 16:08
+Date: 2026-11-20 17:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-20/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.20 [EN]</h1>
+<h3>📈 [2026-11-20 17:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The market is in a phase of strong distribution. The NDX index fell by 2.87% (25756.02), which, with a cumulative flow (CVD) at -237.62 M shares and a QQQ drop of 2.78% (627.13), indicates an intensive sell-off in the cash market. The aggregate direction gauge of flows is -40, confirming the dominance of capital outflow. NQ futures contracts correlate with the index, falling by 2.86% to the level of 25840.50.</li>
+<li><strong>Broad market and options analysis:</strong> The TICKQ indicator is 35.00, which, with the SMA200 average at -159.75, indicates a deviation from the downward trend within the session, but does not change the overall negative sentiment. In the QQQ options market, volume was 2,956,379, with a Put/Call Ratio at 1.09, suggesting a prevalence of hedging positions or anticipation of further selling pressure. Implied volatility (IV) is 34.76%, and the expected range of movement is within the 623.31 – 655.91 points interval.</li>
+<li><strong>Correction context and technical levels:</strong> The current drawdown from the peak on 11.11 (28593.00) is -9.92% (-2837 pts). This is a deeper move than 78% of historical corrections recorded in the database, which classifies the current situation as a major market correction. The nearest resistance zone (volume node) is in the 26890–26910 range, which at the current price represents a level approximately 4.40% away.</li>
+</ul>
+<p>H-Log Report: 2026-11-20 17:07</p>
 <h3>📈 [2026-11-20 16:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
