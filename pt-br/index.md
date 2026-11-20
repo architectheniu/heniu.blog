@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-11-20](https://heniu.blog/pt-br/h-log/hlog-2026-11-20/index.md) (2026-11-20)
 - [M15: 2026-11-20](https://heniu.blog/pt-br/t-log/tlog-2026-11-20/index.md) (2026-11-20)
 - [Log #0234: Resumo da sessão 2026-11-20: NDX 25033.41 (-5.61%)](https://heniu.blog/pt-br/posts/log-0234/index.md) (2026-11-20)
-- [H1: 2026-11-20](https://heniu.blog/pt-br/h-log/hlog-2026-11-20/index.md) (2026-11-20)
 - [Fundamentos #0091: Relatórios de empresas: Intuit, Alphabet; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-20-0091/index.md) (2026-11-20)
 - [Fundamentos #0090: Ross Stores: resultados do 3Q2026](https://heniu.blog/pt-br/f-log/flog-2026-11-20-0090/index.md) (2026-11-20)
 - [Fundamentos #0089: Intuit: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-11-20-0089/index.md) (2026-11-20)
