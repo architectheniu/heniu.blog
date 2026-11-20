@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Data: 2026-11-20 12:08
+Data: 2026-11-20 13:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-20/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.20 [PT-BR]</h1>
+<h3>📈 [2026-11-20 13:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise baseia-se no contrato futuro NQ e nos dados do fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> O preço dos contratos é 26124.00 (-1.79%). O fluxo acumulado (CVD) para NQ indica um sell-off no nível de -10,5k. O indicador de direção do fluxo de mercado é 0, o que significa a falta de uma dominância clara de um dos lados no momento atual da sessão de futuros.</li>
+<li><strong>Análise de correção e níveis:</strong> O índice NDX encontra-se em meio a uma correção desde o pico do dia 11.11 (28593.00), que atualmente é de -7.26% (-2076 pts). Trata-se de um recuo de caráter comum, inserido na mediana das correções históricas. A resistência significativa mais próxima encontra-se no nó de volume na zona 26890–26910.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 32.30%, com volume de opções no nível de 11,114,913. O Put/Call Volume Ratio é 1.00, o que indica pleno equilíbrio entre a demanda por opções de compra e de venda. O alcance esperado de movimento no próximo período situa-se no intervalo de 627.90 a 662.18 pontos.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-20 13:07</p>
 <h3>📈 [2026-11-20 12:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
