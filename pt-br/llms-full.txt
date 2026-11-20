@@ -7,6 +7,25 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0091: Relatórios de empresas: Intuit, Alphabet; transações de insiders
+
+Data: 2026-11-20 10:10
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-20-0091/
+
+
+Intuit (INTU) apresentou um relatório sobre a celebração de um contrato importante de Asset Purchase Agreement e outros eventos.
+
+Alphabet (GOOGL) apresentou um formulário de prospecto de emissão.
+
+Insiders venderam ações em 19.11 por 19,0 mi USD, incluindo 17,8 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi reportada por insiders da Meta Platforms (META): 11,6 mi USD. A segunda maior venda foi reportada por insiders da CrowdStrike (CRWD): 4,5 mi USD.
+
+Intuit (INTU): 8-K: 1.01 contrato importante, 8.01 outros eventos (Documento: 8-K 1.01,8.01,9.01; Data de submissão (hora EUA): 19.11; Conteúdo 8-K 1.01 (celebração de um contrato importante): contrato: Asset Purchase Agreement; citação (EN): „On November 19, 2026, Intuit Inc. (“ Intuit ”) entered into an Equity and Asset Purchase Agreement (the “ Purchase Agreement ”) with Bending Spoons US Inc., a Delaware corporation (“ Purchaser ”) and an indirect subsidiary of Bending Spoons S.p.A., an Italian joint stock company ( società per azioni ) (“ Parent ”),…”; Conteúdo 8-K 8.01 (outro evento): citação (EN): „On November 19, 2026, Intuit issued a press release announcing entry into the Purchase Agreement.”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834-index.htm).
+
+Alphabet (GOOGL): formulário 424B5 (Documento: 424B5; Data de submissão (hora EUA): 19.11).
+
+
+---
+
 ## Fundamentos #0090: Ross Stores: resultados do 3Q2026
 
 Data: 2026-11-20 01:06
@@ -1391,86 +1410,6 @@ Endereço: https://heniu.blog/pt-br/posts/log-0221/
   "@context": "https://schema.org",
   "@type": "TechArticle",
   "headline": "Resumo da sessão Nasdaq-100 2026-11-05",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
-
-
----
-
-## Log #0220: Resumo da sessão 2026-11-04: NDX 28438.26 (+0.91%)
-
-Data: 2026-11-04 22:04
-Endereço: https://heniu.blog/pt-br/posts/log-0220/
-
-
-**Data da sessão:** 2026-11-04
-
-> *Fechamento da sessão 2026-11-04: NDX 28438.26 (+0.91%), NQ 28597.75 (+1.03%), QQQ 691.85 (+0.97%).*
-
----
-
-### Visão geral da sessão
-
-**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 28343.67 e NQ 28451.50. Nos primeiros 30 minutos, o NDX subiu 333.67 pts (+1.18%) para 28677.34, e o NQ subiu 363.00 pts (+1.28%) para 28814.50. Primeiro foi registrado a mínima do NDX 28292.18 às 9:34 ET (15:34 PL), e em seguida a máxima do NDX 28829.66 às 10:15 ET (16:15 PL). O fechamento no nível 28438.26 está 391.40 pts abaixo da máxima e 146.08 pts acima da mínima.
-
-**Fluxos e amplitude de mercado.** A direção do fluxo acumulado (CVD) foi positiva para NDX, NQ e QQQ, o que significa a conformidade das direções nesses instrumentos. A amplitude de mercado TICKQ no fechamento foi de 210.00, e a média SMA200 foi de 18.43. A participação de empresas acima de 1 trilhão de USD na capitalização da cesta foi de 69.02%.
-
-**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX caiu 24.72 pts (-0.09%) até o nível de fechamento. A Anomalia MOC no fechamento foi de -38,07 M. A volatilidade implícita (IV) para as opções sobre QQQ foi de 22.58%, e a relação put/call foi de 1.25. As empresas AMD, AMGN, ALAB e DDOG apresentaram resultados financeiros e orientações da diretoria.
-
-**Balanço do dia.** O Índice Nasdaq-100 fechou com o resultado de +0.91%.
-
----
-
-### Telemetria de Fechamento
-
-* **Índice Nasdaq-100 (NDX):** fechamento **28438.26 (+0.91%)**
-    * Fluxo acumulado (CVD): **118,07 M [euforia]**
-    * Anomalia MOC no fechamento: **-38,07 M**
-    * Utilização da amplitude diária média (ADR): **123.48%**
-    * Recuo desde o maior fechamento registrado pelo Heniu: **-8.93%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **Contrato futuro NQ:** fechamento **28597.75 (+1.03%)**
-    * Fluxo acumulado (CVD): **3,33 K [teste de demanda]**
-    * Utilização da amplitude diária média (ADR): **211.43%**
-
-* **ETF QQQ:** fechamento **691.85 (+0.97%)**
-    * Fluxo acumulado (CVD): **1,27 M [acumulação]**
-    * Utilização da amplitude diária média (ADR): **123.45%**
-
-* **Amplitude de mercado (TICKQ):** leitura no fechamento **210.00 [erupção do mercado]**
-    * Média de 200 leituras (SMA200): **18.43 [teste de demanda]**
-
-* **Opções sobre QQQ:**
-    * Volatilidade implícita (IV): **22.58%**
-    * Relação put/call (posições abertas, OI): **1.25**
-
-* **Cesta Nasdaq-100:**
-    * Capitalização total: **40.60 tri de USD** (mudança desde o fechamento anterior: **+0.52 tri de USD**)
-    * Participação de empresas acima de 1 trilhão de USD na capitalização da cesta: **69.02%** (mudança: **+2.92 p.p.**)
-    * Preço médio das ações na cesta: **$294.08** (mudança: **$-0.77**)
-    * Mudanças no grupo de empresas acima de 1 trilhão de USD: **acima de 1 trilhão de USD entraram: WMT**
-
-* **Saúde dos dados da sessão:** leituras por 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,0% das leituras; leituras desatualizadas rejeitadas: 177
-
----
-
-[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0220/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Resumo da sessão Nasdaq-100 2026-11-04",
   "author": {
     "@type": "Person",
     "name": "Marcin Marek Lewandowski",

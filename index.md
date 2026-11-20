@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [Fundamenty #0091: Zgłoszenia spółek: Intuit, Alphabet; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-20-0091/index.md) (2026-11-20)
 - [H1: 2026-11-20](https://heniu.blog/h-log/hlog-2026-11-20/index.md) (2026-11-20)
 - [M15: 2026-11-20](https://heniu.blog/t-log/tlog-2026-11-20/index.md) (2026-11-20)
 - [Fundamenty #0090: Ross Stores: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-20-0090/index.md) (2026-11-20)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0224: Podsumowanie sesji 2026-11-09: NDX 27905.46 (+3.40%)](https://heniu.blog/posts/log-0224/index.md) (2026-11-09)
 - [Log #0223: Kolaps Grawitacyjny i Rozpad Sfery Dysona](https://heniu.blog/posts/log-0223/index.md) (2026-11-08)
 - [H1: 2026-11-06](https://heniu.blog/h-log/hlog-2026-11-06/index.md) (2026-11-06)
-- [M15: 2026-11-06](https://heniu.blog/t-log/tlog-2026-11-06/index.md) (2026-11-06)
 
