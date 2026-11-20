@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-11-20](https://heniu.blog/h-log/hlog-2026-11-20/index.md) (2026-11-20)
 - [M15: 2026-11-20](https://heniu.blog/t-log/tlog-2026-11-20/index.md) (2026-11-20)
 - [Fundamenty #0091: Zgłoszenia spółek: Intuit, Alphabet; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-20-0091/index.md) (2026-11-20)
-- [H1: 2026-11-20](https://heniu.blog/h-log/hlog-2026-11-20/index.md) (2026-11-20)
 - [Fundamenty #0090: Ross Stores: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-20-0090/index.md) (2026-11-20)
 - [Fundamenty #0089: Intuit: wyniki za 1Q2027](https://heniu.blog/f-log/flog-2026-11-20-0089/index.md) (2026-11-20)
 - [H1: 2026-11-19](https://heniu.blog/h-log/hlog-2026-11-19/index.md) (2026-11-19)
