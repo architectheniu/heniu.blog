@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Data: 2026-11-20 19:07
+Data: 2026-11-20 20:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-20/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,21 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.20</h1>
+<h3>📈 [2026-11-20 20:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li>
+<p><strong>Sytuacja rynkowa i przepływy:</strong> Rynek znajduje się w fazie silnej dystrybucji. Indeks NDX spadł o 3,81% (25506,36), a kontrakty NQ o 3,85% (25573,50). Skumulowany przepływ (CVD) dla NDX wynosi -268,52 M, co przy jednoczesnym spadku cen wskazuje na intensywną wyprzedaż akcji w sektorze. Wskaźnik kierunku przepływów wynosi -60, co potwierdza silną przewagę odpływu kapitału z rynku. Szeroki rynek (TICKQ) wykazuje ekstremalnie negatywne odchylenie na poziomie -361,00, znacznie poniżej średniej SMA200 (-201,88).</p>
+</li>
+<li>
+<p><strong>Analiza opcji QQQ:</strong> Rynek zabezpieczeń jest aktywny przy wolumenie 7 156 101 kontraktów. Zmienność implikowana (IV) na poziomie 35,32% oraz wskaźnik Put/Call Ratio wynoszący 1,08 wskazują na rosnące zainteresowanie pozycjami krótkimi i budowanie zabezpieczeń (hedging) przed dalszymi spadkami. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 604,22 do 635,92.</p>
+</li>
+<li>
+<p><strong>Kontekst korekty i poziomy techniczne:</strong> Trwająca korekta od szczytu z 11.11 (28593,00) wynosi obecnie -10,80% (-3087 pkt). Jest to ruch głębszy niż 78% historycznych korekt zarejestrowanych w pamięci systemu, co klasyfikuje obecną sytuację jako większą korektę. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26890–26910, co stanowi poziom oddalony od obecnej ceny o ok. 5,42%.</p>
+</li>
+</ul>
+<p>Raport H-Log: 2026-11-20 20:07</p>
 <h3>📈 [2026-11-20 19:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
