@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Date: 2026-11-20 06:07
+Date: 2026-11-20 07:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-20/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.20 [EN]</h1>
+<h3>📈 [2026-11-20 07:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li>NQ contracts are currently pricing at 26319.50 (-1.06%), with cumulative flow (CVD) at -3.65 thousand shares, indicating a supply test. The NDX index closed the cash session at 26517.02 (-2.21%), with a very high, anomalous CVD capital inflow of 70.82 M shares, suggesting passive absorption of supply by large players despite the price drop.</li>
+<li>The direction gauge of flows is 0, meaning a neutral balance between capital inflow and outflow in aggregate terms.</li>
+<li>The QQQ options market shows implied volatility (IV) at 32.30% with a volume of 11,114,913 contracts. The Put/Call Ratio is 1.00, indicating full equilibrium between demand for call and put options. The expected movement range is between 627.90 and 662.18 points.</li>
+<li>The current drawdown from the peak of 11.11 (28593.00) is -7.26% (-2076 pts). This is a standard pullback, classified as deeper than 44% of historical corrections in the analyzed period. The nearest significant resistance is located in the volume zone 26890–26910.</li>
+</ul>
+<p>H-Log Report: 2026-11-20 07:07</p>
 <h3>📈 [2026-11-20 06:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
