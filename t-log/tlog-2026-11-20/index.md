@@ -1,6 +1,6 @@
 # M15: 2026-11-20
 
-Data: 2026-11-20 15:59
+Data: 2026-11-20 16:14
 Adres: https://heniu.blog/t-log/tlog-2026-11-20/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.20</h1>
+<h3>⏱️ [2026-11-20 16:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>26181.06</strong> (-1.27%; od poprzedniego wpisu -162.69 pkt) · NQ <strong>26248.25</strong> (-1.30%; -165.25 pkt) · QQQ <strong>637.05 USD</strong> (-1.24%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX <strong>-169.07 M</strong> [panika] · CVD NQ <strong>-20.7 K</strong> [wyprzedaż] (od poprzedniego wpisu -13.36 K) · CVD QQQ <strong>-1.34 M</strong> [wyprzedaż] · TICKQ <strong>-504</strong> [załamanie rynku] · średnia SMA200 <strong>-153.28</strong> [ekstremalnie ujemna szerokość] (-1.30) · wskaźnik kierunku <strong>-40</strong> (skala ±100; -5)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>37.59 bln USD</strong> (od poprzedniego wpisu +0.00 bln USD) · udział spółek powyżej 1 bln USD <strong>66.1%</strong> (+0.0 pp) · średnia cena akcji <strong>263.48 USD</strong> (-1.02 USD) · opcje QQQ: zmienność implikowana <strong>33.13%</strong>, put/call <strong>1.11</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>26890–26910</strong> (2.71% wyżej)</li>
+</ul>
+<p>Spadek indeksów NQ i NDX jest potwierdzony przez pogłębiające się ujemne wartości skumulowanego wolumenu sprzedaży. Ruch cenowy odbywa się przy jednoczesnym wzroście presji sprzedażowej w przepływach CVD. Najbliższy opór znajduje się powyżej obecnych poziomów notowań.</p>
 <h3>⏱️ [2026-11-20 15:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>26343.75</strong> (-0.66%; od poprzedniego wpisu +254.80 pkt) · NQ <strong>26413.50</strong> (-0.70%; +261.00 pkt) · QQQ <strong>641.02 USD</strong> (-0.62%)</li>
