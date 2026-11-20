@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Data: 2026-11-20 14:07
+Data: 2026-11-20 15:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-20/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.20</h1>
+<h3>📈 [2026-11-20 15:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Kontrakty NQ notowane są na poziomie 26244.00 (-1.35%), przy ujemnym przepływie skumulowanym (CVD) wynoszącym -12,85 K, co wskazuje na presję sprzedażową w sesji futures.</li>
+<li><strong>Analiza przepływów i sentymentu:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 15, co przy skali od -100 do +100 oznacza słabą przewagę napływu kapitału. Odnotowano silną dywergencję między indeksem NDX (CVD: 70,48 M przy spadku ceny -2.21%) a ETF QQQ (CVD: -5,83 M przy spadku -2.19%) oraz kontraktami NQ, co może sugerować pasywną absorpcję podaży na rynku kasowym.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 35.03%, a współczynnik Put/Call Ratio na poziomie 1.21 wskazuje na dominację pozycji zabezpieczających (hedging) oraz zwiększony popyt na opcje sprzedaży. Oczekiwany zasięg ruchu wynosi od 627.90 do 662.18 punktów.</li>
+<li><strong>Kontekst techniczny:</strong> Bieżąca korekta względem szczytu z 11.11 (28593.00) wynosi -7.26% (-2076 pkt). Jest to zwykłe cofnięcie, głębsze niż w 44% historycznych przypadków. Najbliższy istotny opór znajduje się w strefie węzła wolumenu 26890–26910.</li>
+</ul>
+<p>Raport H-Log: 2026-11-20 15:07</p>
 <h3>📈 [2026-11-20 14:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
