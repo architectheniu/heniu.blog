@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Data: 2026-11-20 20:07
+Data: 2026-11-20 21:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-20/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.20</h1>
+<h3>📈 [2026-11-20 21:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa:</strong> Indeks NDX odnotował spadek o 5,04% (cena 25181,49), co stanowi korektę o 11,93% od szczytu z dnia 11.11.2026 (28593,00). Jest to ruch o charakterze dużego swingu, głębszy niż 89% dotychczasowych korekt w analizowanym okresie. Skumulowany przepływ (CVD) dla NDX wynosi -292,97 M, co przy jednoczesnym spadku kontraktów NQ o 5,06% (25256,25) oraz ETF QQQ o 4,97% (613,01) potwierdza silną presję sprzedażową.</li>
+<li><strong>Sentyment i szeroki rynek:</strong> Wskaźnik kierunku przepływów wynosi -60, co oznacza wyraźną przewagę dystrybucji kapitału. Wskaźnik TICKQ na poziomie -754,00 (przy średniej SMA200 wynoszącej -221,19) wskazuje na ekstremalną dominację podaży w szerokim rynku Nasdaq.</li>
+<li><strong>Rynek opcji:</strong> Zmienność implikowana (IV) wzrosła do 37,50%, przy wolumenie opcji na poziomie 8 786 743. Put/Call Volume Ratio wynosi 1,08, co sugeruje zwiększone zainteresowanie zabezpieczeniami (hedgingiem) lub pozycjami krótkimi. Oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 606,02 do 636,34 punktów.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26890–26910, co obecnie stanowi odległość 6,78% powyżej aktualnej ceny.</li>
+</ul>
+<p>Raport H-Log: 2026-11-20 21:07</p>
 <h3>📈 [2026-11-20 20:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
