@@ -1,6 +1,6 @@
 # H1: 2026-11-20
 
-Data: 2026-11-20 11:07
+Data: 2026-11-20 12:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-20/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.20</h1>
+<h3>📈 [2026-11-20 12:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ wykazują spadki o (-1.22%) przy cenie 26274.25. Skumulowany przepływ (CVD) dla NQ wynosi -6,41 K, co wskazuje na testowanie podaży w bieżącym handlu poza sesją.</li>
+<li>Biorąc pod uwagę zamknięcie sesji kasowej, należy odnotować rozbieżność (dywergencję) między indeksem NDX a kontraktami: mimo spadku ceny NDX o (-2.21%), skumulowany przepływ (CVD) dla tego indeksu wynosi 70,48 M, co sugeruje obecność pasywnego popytu na rynku kasowym podczas sesji regularnej.</li>
+<li>Dane opcyjne na QQQ wskazują na zmienność implikowaną (IV) na poziomie 32.30% oraz współczynnik Put/Call Volume Ratio wynoszący 1.00, co odzwierciedla neutralną strukturę zabezpieczeń przy wolumenie 11,114,913. Oczekiwany zasięg ruchu mieści się w przedziale od 627.90 do 662.18.</li>
+<li>Trwająca korekta od szczytu z dnia 11.11 (28593.00) wynosi obecnie -7.26% (-2076 pkt). Jest to cofnięcie o charakterze zwykłym, mieszczące się w medianie historycznych korekt. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26890–26910.</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi 0, co oznacza brak wyraźnej przewagi między napływem a odpływem kapitału w ujęciu skali sentymentu.</li>
+</ul>
+<p>Raport H-Log: 2026-11-20 12:07</p>
 <h3>📈 [2026-11-20 11:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
