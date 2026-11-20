@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Log #0234: Session summary 2026-11-20: NDX 25033.41 (-5.61%)](https://heniu.blog/en/posts/log-0234/index.md) (2026-11-20)
 - [M15: 2026-11-20](https://heniu.blog/en/t-log/tlog-2026-11-20/index.md) (2026-11-20)
 - [H1: 2026-11-20](https://heniu.blog/en/h-log/hlog-2026-11-20/index.md) (2026-11-20)
 - [Fundamentals #0091: Company filings: Intuit, Alphabet; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-20-0091/index.md) (2026-11-20)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Log #0224: Session summary 2026-11-09: NDX 27905.46 (+3.40%)](https://heniu.blog/en/posts/log-0224/index.md) (2026-11-09)
 - [Log #0223: Gravitational Collapse and the Dyson Sphere Decay](https://heniu.blog/en/posts/log-0223/index.md) (2026-11-08)
 - [H1: 2026-11-06](https://heniu.blog/en/h-log/hlog-2026-11-06/index.md) (2026-11-06)
-- [M15: 2026-11-06](https://heniu.blog/en/t-log/tlog-2026-11-06/index.md) (2026-11-06)
 

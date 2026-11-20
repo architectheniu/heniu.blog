@@ -7,6 +7,84 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0234: Resumo da sessão 2026-11-20: NDX 25033.41 (-5.61%)
+
+Data: 2026-11-20 22:04
+Endereço: https://heniu.blog/pt-br/posts/log-0234/
+
+
+**Data da sessão:** 2026-11-20
+
+> *Fechamento da sessão 2026-11-20: NDX 25033.41 (-5.61%), NQ 25274.25 (-4.99%), QQQ 610.04 (-5.41%).*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 26187.19 e NQ 26262.00. Nos primeiros 30 minutos, os índices registraram altas, atingindo às 10:00 ET (16:00 PL) o máximo de NDX 26412.56 e NQ 26493.00. Em seguida, houve uma queda para a mínima às 15:56 ET (21:56 PL), que foi de NDX 24919.01 e NQ 24984.50. O fechamento do NDX no nível 25033.41 está 1379.15 pontos abaixo do máximo e 114.40 pontos acima da mínima.
+
+**Fluxos e amplitude de mercado.** A direção do fluxo acumulado (CVD) para NDX, NQ e QQQ foi negativa, o que significa conformidade de direção em todos os três instrumentos. A amplitude de mercado TICKQ no fechamento foi de -462.00, o que, com a média SMA200 no nível de -231.66, indica uma amplitude extremamente negativa. Empresas acima de 1 trilhão de USD representaram 68.95% da capitalização da cesta.
+
+**Final da sessão, opções e empresas.** Na última hora da sessão, o NDX caiu 249.91 pontos até o nível de fechamento. No fechamento, registrou-se uma Anomalia MOC de +71,99 M, e a volatilidade implícita (IV) para opções sobre QQQ foi de 40.88% com uma razão put/call de 1.01. Nas empresas INTU e ROST, foram anunciados resultados financeiros e orientações da diretoria, e na PYPL ocorreu uma mudança na diretoria.
+
+**Balanço do dia.** O Índice Nasdaq-100 fechou com uma queda de 5.61%.
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **25033.41 (-5.61%)**
+    * Fluxo acumulado (CVD): **−166,48 M [pânico]**
+    * Anomalia no fechamento (MOC): **+71,99 M**
+    * Utilização do alcance diário médio (ADR): **225.71%**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **-19.83%** (maior fechamento: **31226.82**, 2026-10-06)
+
+* **Contrato futuro NQ:** fechamento **25274.25 (-4.99%)**
+    * Fluxo acumulado (CVD): **−120,01 K [pânico]**
+    * Utilização do alcance diário médio (ADR): **162.05%**
+
+* **ETF QQQ:** fechamento **610.04 (-5.41%)**
+    * Fluxo acumulado (CVD): **−8,9 M [pânico]**
+    * Utilização do alcance diário médio (ADR): **221.86%**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **-462.00 [colapso do mercado]**
+    * Média de 200 leituras (SMA200): **-231.66 [amplitude extremamente negativa]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **40.88%**
+    * Razão put/call (posições abertas, OI): **1.01**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **35.84 tri USD** (mudança desde o fechamento anterior: **-1.89 tri USD**)
+    * Participação de empresas acima de 1 trilhão de USD na capitalização da cesta: **68.95%** (mudança: **+2.70 p.p.**)
+    * Preço médio das ações na cesta: **$253.50** (mudança: **$-18.64**)
+    * Mudanças no grupo de empresas acima de 1 trilhão de USD: **entraram no grupo acima de 1 trilhão de USD: WMT**
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0234/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-11-20",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentos #0091: Relatórios de empresas: Intuit, Alphabet; transações de insiders
 
 Data: 2026-11-20 10:10
@@ -1330,86 +1408,6 @@ Endereço: https://heniu.blog/pt-br/posts/log-0222/
   "@context": "https://schema.org",
   "@type": "TechArticle",
   "headline": "Resumo da sessão Nasdaq-100 2026-11-06",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
-
-
----
-
-## Log #0221: Resumo da sessão 2026-11-05: NDX 26643.16 (-6.36%)
-
-Data: 2026-11-05 22:04
-Endereço: https://heniu.blog/pt-br/posts/log-0221/
-
-
-**Data da sessão:** 2026-11-05
-
-> *Fechamento da sessão 2026-11-05: NDX 26643.16 (-6.36%), NQ 26691.50 (-6.57%), QQQ 647.77 (-6.37%).*
-
----
-
-### Visão geral da sessão
-
-**Abertura e movimento principal do dia.** A sessão começou às 9:30 ET (15:30 PL) no nível NDX 28048.49. Nos primeiros 30 minutos até 10:00 ET (16:00 PL), o NDX caiu 642.23 pontos (-2.29%) para 27406.26. O máximo da sessão foi registrado às 9:30 ET (15:30 PL) no nível NDX 28050.26, e o mínimo às 15:58 ET (21:58 PL) no nível 26608.26. O fechamento no nível 26643.16 está 1407.10 pontos abaixo do máximo e 34.90 pontos acima do mínimo.
-
-**Fluxos e amplitude de mercado.** A direção do fluxo acumulado (CVD) foi negativa para NDX, NQ e QQQ, o que significa a concordância de direções em todos os três instrumentos. A amplitude de mercado (TICKQ) no fechamento foi de 255.00, e a média de 200 leituras SMA200 foi de -6.71. A participação de empresas acima de 1 trilhão de USD na capitalização da cesta foi de 69.55%.
-
-**Final da sessão, opções e empresas.** Na última hora da sessão, de 15:00 ET (21:00 PL) até o fechamento, o NDX caiu 361.93 pontos (-1.34%) para 26643.16. A Anomalia MOC no fechamento foi de -10,69 M. A volatilidade implícita IV para opções sobre QQQ foi de 32.76%, e a relação put/call foi de 1.21.
-
-**Balanço do dia.** O Índice Nasdaq-100 fechou com uma queda de 6.36% no nível 26643.16.
-
----
-
-### Telemetria de Fechamento
-
-* **Índice Nasdaq-100 (NDX):** fechamento **26643.16 (-6.36%)**
-    * Fluxo acumulado (CVD): **−28,93 M [sell-off]**
-    * Anomalia no fechamento (MOC): **-10,69 M**
-    * Utilização da amplitude média diária (ADR): **329.62%**
-    * Recuo desde o maior fechamento registrado pelo Heniu: **-14.68%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **Contrato futuro NQ:** fechamento **26691.50 (-6.57%)**
-    * Fluxo acumulado (CVD): **−128,12 K [pânico]**
-    * Utilização da amplitude média diária (ADR): **293.31%**
-
-* **ETF QQQ:** fechamento **647.77 (-6.37%)**
-    * Fluxo acumulado (CVD): **−7,04 M [pânico]**
-    * Utilização da amplitude média diária (ADR): **333.00%**
-
-* **Amplitude de mercado (TICKQ):** leitura no fechamento **255.00 [erupção do mercado]**
-    * Média de 200 leituras (SMA200): **-6.71 [teste de oferta]**
-
-* **Opções sobre QQQ:**
-    * Volatilidade implícita (IV): **32.76%**
-    * Relação put/call (posições abertas, OI): **1.21**
-
-* **Cesta Nasdaq-100:**
-    * Capitalização total: **38.38 tri de USD** (mudança desde o fechamento anterior: **-2.21 tri de USD**)
-    * Participação de empresas acima de 1 trilhão de USD na capitalização da cesta: **69.55%** (mudança: **+0.53 p.p.**)
-    * Preço médio das ações na cesta: **$274.10** (mudança: **$-19.82**)
-    * Mudanças no grupo de empresas acima de 1 trilhão de USD: **sem mudanças**
-
-* **Saúde dos dados da sessão:** leituras durante 100,0% da sessão à vista (Spot); sem lacunas maiores que um minuto; NDX sem mudança por mais de 2 min em 0,1% das leituras; leituras desatualizadas rejeitadas: 199
-
----
-
-[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0221/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Resumo da sessão Nasdaq-100 2026-11-05",
   "author": {
     "@type": "Person",
     "name": "Marcin Marek Lewandowski",
