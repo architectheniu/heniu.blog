@@ -7,6 +7,93 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0235: Colapso Gravitacional e Transição para o Estado de Instabilidade
+
+Data: 2026-11-22 09:00
+Endereço: https://heniu.blog/pt-br/posts/log-0235/
+
+
+**Stardate:** 2026.11.22\
+**Status dos Sistemas:** Observação Externa\
+**Setor:** Bandas Internas de Volatilidade
+
+---
+
+### Telemetria da Semana: Balanço de Abertura e Fechamento
+
+> *Descompressão abrupta da massa T-Mass de 10.26% com aumento simultâneo de tensão nos escudos de opções. O sistema está passando de uma fase de expansão para uma fase de reconfiguração profunda sob influência de pânico acumulado na Sonda NQ e na Esfera de Dyson (QQQ).*
+
+* **Scanner Subespacial (Balanço de Massa Semanal):**
+    * *T-Mass do Sistema (Abertura → Fechamento):* **39.64 tri USD → 35.57 tri USD**
+    * *Delta Semanal de Massa:* **-4.07 tri USD (-10.26%)**
+    * *Densidade do Núcleo (Heavy Nine):* **68.66% → 68.93%** (Delta: **+0.27 p.p.**)
+    * *Ação Média (Temperatura da Periferia):* **$288.72 → $253.50** (Delta: **-$35.22 | -12.20%**)
+    * *Flutuação da Composição do Núcleo (> 1 tri USD):* **Quinta-feira: abaixo de 1 tri USD caíram: WMT | Sexta-feira: acima de 1 tri USD entraram: WMT**
+
+* **a Estrela NDX (Sol — Balanço de 5 Sessões):**
+    * *Preço (Fechamento da sexta-feira anterior → Fechamento de sexta-feira):* **27950.96 → 25033.41 (-2917.55 pts | -10.44%)**
+    * *Amplitude Semanal (Extremos):* **24979.04 — 27698.58 (Amplitude: 2719.54 pts)**
+    * *Fluxo de Energia Acumulado (CVD Semanal):* **+294.39 M [euforia]**
+
+* **a Sonda NQ (Mercúrio — Balanço de 5 Sessões):**
+    * *Preço (Fechamento da sexta-feira anterior → Fechamento de sexta-feira):* **28036.58 → 25274.25 (-2762.33 pts | -9.85%)**
+    * *Amplitude Semanal (Extremos):* **25052.75 — 28260.00 (Amplitude: 3207.25 pts)**
+    * *Fluxo de Energia Acumulado (CVD Semanal):* **−290.57 K [pânico]**
+
+* **a Esfera de Dyson (QQQ — Balanço de 5 Sessões):**
+    * *Preço (Fechamento da sexta-feira anterior → Fechamento de sexta-feira):* **679.91 → 610.04 (-69.87 USD | -10.28%)**
+    * *Amplitude Semanal (Extremos):* **608.01 — 673.94 (Amplitude: 65.93 USD)**
+    * *Fluxo de População Acumulado (CVD Semanal):* **−15.69 M [pânico]**
+
+* **a Radiação de Fundo (TICKQ — Amplitude de Mercado na Semana):**
+    * *Radiação Média Semanal (TICKQ SMA200):* **-78.48 [colapso do mercado]**
+    * *Amplitude de Radiação na Semana:* **Min -230.19 / Max +22.08**
+
+* **Estrutura Gravitacional (Opções — Esfera de Dyson):**
+    * *Implied Volatility (IV):* **40.88%** (Média Semanal: **30.99%** | Mudança desde segunda-feira: **+11.84 p.p.**)
+    * *Estrutura de Posição (Put/Call OI):* **1.01**
+
+---
+
+### Diário de Bordo: Colapso Gravitacional e Transição para Estado de Instabilidade
+
+**1. Trajetória Semanal e Volatilidade de Preço (Visão Geral da Sessão Segunda–Sexta)**
+No ciclo analisado, ocorreu uma degradação drástica da trajetória de todos os objetos. a Estrela NDX passou do nível 27950.96 para 25033.41, o que representa uma queda de 10.44% (delta -2917.55 pts). A amplitude de oscilação da NDX foi de 2719.54 pts, com um extremo baixo no nível 24979.04. a Sonda NQ mostrou uma amplitude ainda maior (3207.25 pts), caindo de 28036.58 para 25274.25 (-9.85%). a Esfera de Dyson (QQQ) correlacionou o movimento com o sistema, perdendo 10.28% de valor (de 679.91 para 610.04 USD). Toda a semana foi caracterizada por uma compressão abrupta e a busca por novos e mais baixos níveis de estabilidade.
+
+**2. Balanço de Energia e Combustível Acumulado (CVD Semanal e Volume)**
+Ocorreu uma profunda divergência nos fluxos de energia. Enquanto a NDX registrou um balanço de CVD positivo (+294.39 M) indicando euforia no setor à vista, a Sonda NQ (-290.57 K) e a Esfera QQQ (-15.69 M) mostraram pânico acumulado. O volume agressivo em derivativos e ETFs foi direcionado para o sell-off, o que sugere que, apesar das tentativas locais de acumulação no mercado à vista, a mecânica de propulsão dos contratos e fundos foi dominada por um rápido fluxo de saída de liquidez.
+
+**3. Evolução da Massa, Densidade do Núcleo e Escudos de Opções**
+A massa total do sistema (T-Mass) sofreu uma dispersão abrupta: queda de 39.64 tri USD para 35.57 tri USD (-10.26%). Apesar da perda de massa, a densidade do Núcleo aumentou ligeiramente em 0.27 p.p. (para 68.93%). A flutuação da composição do Núcleo mostrou uma rotação: na quinta-feira o valor de WMT caiu abaixo de 1 tri USD, para na sexta-feira ultrapassar novamente o limite de 1 tri USD. A ação média caiu 12.20% ($253.50). O sistema registrou um aumento extremo de tensão nos escudos de opções — a volatilidade implícita (IV) subiu 11.84 p.p. em relação ao início da semana, atingindo o nível de 40.88%. A radiação média TICKQ SMA200 no nível de -78.48 confirma o estado de colapso da física do sistema.
+
+**Veredito Quântico:**
+O sistema encontra-se em uma fase de descompressão abrupta. A alta volatilidade (IV) e a forte radiação negativa indicam instabilidade estrutural. O balanço de forças após o fechamento do ciclo está fortemente deslocado para a oferta, apesar das tentativas de estabilização da massa dentro do Núcleo.
+
+**Status:** OBSERVAÇÃO EXTERNA. Escudos ativos.
+
+**Fim do registro.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Cosmologia Quântica do Mercado: Diário de Bordo",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+
+
+---
+
 ## Log #0234: Resumo da sessão 2026-11-20: NDX 25033.41 (-5.61%)
 
 Data: 2026-11-20 22:04
@@ -1333,91 +1420,6 @@ O sistema encontra-se em uma fase de rápida decreção de massa. A força domin
     "name": "Heniu.blog"
   },
   "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
-}
-</script>
-
-
----
-
-## Log #0222: Resumo da sessão 2026-11-06: NDX 26979.68 (+1.35%)
-
-Data: 2026-11-06 22:04
-Endereço: https://heniu.blog/pt-br/posts/log-0222/
-
-
-**Data da sessão:** 2026-11-06
-
-> *Fechamento da sessão 2026-11-06: NDX 26979.68 (+1.35%), NQ 27102.75 (+1.31%), QQQ 656.19 (+1.40%).*
-
----
-
-### Visão geral da sessão
-
-**Abertura e movimento principal do dia.** A sessão abriu às 9:30 ET (15:30 PL) no nível NDX 27028.65. O máximo da sessão ocorreu às 10:00 ET (16:00 PL) no nível 27269.60, e o mínimo às 12:53 ET (18:53 PL) no nível 26889.48. O fechamento no nível 26979.68 está 289.92 pts abaixo do máximo e 90.20 pts acima do mínimo.
-
-**Fluxos e amplitude de mercado.** As direções do fluxo acumulado (CVD) para NDX, NQ e QQQ foram divergentes, pois NDX e QQQ registraram valores negativos, enquanto NQ registrou valor positivo. A amplitude de mercado TICKQ no fechamento foi de 223.00, com a média SMA200 no nível de 2.94. Empresas acima de 1 tri USD representam 66.89% da capitalização da cesta.
-
-**Final da sessão, opções e empresas.** Na última hora da sessão, de 15:00 ET (21:00 PL) até o fechamento às 16:00 ET (22:00 PL), o índice NDX caiu 123.77 pts (-0.46%). A Anomalia MOC no fechamento foi de -34,21 M. A volatilidade implícita (IV) para opções sobre QQQ foi de 29.27%, e a relação put/call foi de 1.09.
-
-**Balanço do dia.** O Índice Nasdaq-100 fechou com resultado de +1.35% no nível 26979.68.
-
----
-
-### Telemetria de Fechamento
-
-* **Índice Nasdaq-100 (NDX):** fechamento **26979.68 (+1.35%)**
-    * Fluxo acumulado (CVD): **−99,22 M [pânico]**
-    * Anomalia MOC: **-34,21 M**
-    * Utilização da amplitude média diária (ADR): **86.01%**
-    * Recuo desde o maior fechamento registrado pelo Heniu: **-13.60%** (maior fechamento: **31226.82**, 2026-10-06)
-
-* **Contrato futuro NQ:** fechamento **27102.75 (+1.31%)**
-    * Fluxo acumulado (CVD): **5,12 K [teste de demanda]**
-    * Utilização da amplitude média diária (ADR): **136.18%**
-
-* **ETF QQQ:** fechamento **656.19 (+1.40%)**
-    * Fluxo acumulado (CVD): **−3,02 M [colapso do mercado]**
-    * Utilização da amplitude média diária (ADR): **85.96%**
-
-* **Amplitude de mercado (TICKQ):** leitura no fechamento **223.00 [explosão do mercado]**
-    * Média de 200 leituras (SMA200): **2.94 [teste de demanda]**
-
-* **Opções sobre QQQ:**
-    * Volatilidade implícita (IV): **29.27%**
-    * Relação put/call (posições abertas, OI): **1.09**
-
-* **Cesta Nasdaq-100:**
-    * Capitalização total: **38.74 tri USD** (mudança desde o fechamento anterior: **+0.31 tri USD**)
-    * Participação de empresas acima de 1 tri USD na capitalização da cesta: **66.89%** (mudança: **-2.65 p.p.**)
-    * Preço médio das ações na cesta: **$277.01** (mudança: **+$2.89**)
-    * Mudanças no grupo de empresas acima de 1 tri USD: **abaixo de 1 tri USD caíram: WMT**
-
-> ⚠️ **ERRATA (2026-11-06, adicionada em 19.11)**  
-> Por um erro na recepção de dados, o Heniu não viu a maior parte das leituras de 15:30–16:00 e 16:18–17:10 PL (82 min no total, 21% da sessão à vista). O máximo da sessão indicado aqui (27269.60 às 10:00 ET) é a leitura mais alta que chegou ao Heniu. O máximo real foi mais alto e ocorreu antes, portanto o fechamento também ficou mais de 289.92 pts abaixo do máximo. Não indicamos um novo máximo porque não temos essa leitura.
->
-> Removemos do relatório a linha sobre a saúde dos dados da sessão: ela superestimava a cobertura da sessão, e as leituras rejeitadas eram, em sua grande maioria, atuais.
->
-> O fechamento e a telemetria de fechamento estão corretos.
-
----
-
-[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0222/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Resumo da sessão Nasdaq-100 2026-11-06",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
 

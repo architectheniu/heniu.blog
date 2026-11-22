@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Log #0235: Colapso Gravitacional e Transição para o Estado de Instabilidade](https://heniu.blog/pt-br/posts/log-0235/index.md) (2026-11-22)
 - [H1: 2026-11-20](https://heniu.blog/pt-br/h-log/hlog-2026-11-20/index.md) (2026-11-20)
 - [M15: 2026-11-20](https://heniu.blog/pt-br/t-log/tlog-2026-11-20/index.md) (2026-11-20)
 - [Log #0234: Resumo da sessão 2026-11-20: NDX 25033.41 (-5.61%)](https://heniu.blog/pt-br/posts/log-0234/index.md) (2026-11-20)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [M15: 2026-11-09](https://heniu.blog/pt-br/t-log/tlog-2026-11-09/index.md) (2026-11-09)
 - [Log #0224: Resumo da sessão 2026-11-09: NDX 27905.46 (+3.40%)](https://heniu.blog/pt-br/posts/log-0224/index.md) (2026-11-09)
 - [Log #0223: Colapso Gravitacional e Desintegração da Esfera de Dyson](https://heniu.blog/pt-br/posts/log-0223/index.md) (2026-11-08)
-- [H1: 2026-11-06](https://heniu.blog/pt-br/h-log/hlog-2026-11-06/index.md) (2026-11-06)
 
