@@ -1,0 +1,87 @@
+# Log #0235: Kolaps Grawitacyjny i Przejście w Stan Niestabilności
+
+Data: 2026-11-22 09:00
+Adres: https://heniu.blog/posts/log-0235/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+**Stardate:** 2026.11.22\
+**Status Systemów:** Obserwacja Zewnętrzna\
+**Sektor:** Wewnętrzne Pasma Zmienności
+
+---
+
+### Telemetria Tygodnia: Bilans Otwarcia i Zamknięcia
+
+> *Gwałtowna dekompresja masy T-Mass o 10.26% przy jednoczesnym wzroście napięcia w tarczach opcyjnych. Układ przechodzi z fazy ekspansji w fazę głębokiej rekonfiguracji pod wpływem skumulowanej paniki w sondzie NQ i sferze QQQ.*
+
+* **Skaner Podprzestrzenny (Bilans Masy Tygodnia):**
+    * *T-Mass Układu (Otwarcie → Zamknięcie):* **39.64 bln USD → 35.57 bln USD**
+    * *Delta Tygodniowa Masy:* **-4.07 bln USD (-10.26%)**
+    * *Gęstość Jądra (Heavy Nine):* **68.66% → 68.93%** (Delta: **+0.27 p.p.**)
+    * *Średnia Akcja (Temperatura Peryferii):* **$288.72 → $253.50** (Delta: **-$35.22 | -12.20%**)
+    * *Fluktuacja Składu Jądra (>1 bln USD):* **Czwartek: poniżej 1 bln USD spadły: WMT | Piątek: powyżej 1 bln USD weszły: WMT**
+
+* **Gwiazda NDX (Słońce — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **27950.96 → 25033.41 (-2917.55 pkt | -10.44%)**
+    * *Zakres Tygodniowy (Ekstrema):* **24979.04 — 27698.58 (Amplituda: 2719.54 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **+294.39 M [euforia]**
+
+* **Sonda NQ (Merkury — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **28036.58 → 25274.25 (-2762.33 pkt | -9.85%)**
+    * *Zakres Tygodniowy (Ekstrema):* **25052.75 — 28260.00 (Amplituda: 3207.25 pkt)**
+    * *Skumulowany Przepływ Energii (CVD Tygodnia):* **−290.57 K [panika]**
+
+* **Sfera Dyson’a (QQQ — Bilans 5 Sesji):**
+    * *Kurs (Zamknięcie poprzedniego piątku → Zamknięcie piątku):* **679.91 → 610.04 (-69.87 USD | -10.28%)**
+    * *Zakres Tygodniowy (Ekstrema):* **608.01 — 673.94 (Amplituda: 65.93 USD)**
+    * *Skumulowany Przepływ Populacji (CVD Tygodnia):* **−15.69 M [panika]**
+
+* **Promieniowanie Tła (TICKQ — Szerokość Rynku w Tygodniu):**
+    * *Średnia Radiacja Tygodniowa (TICKQ SMA200):* **-78.48 [załamanie rynku]**
+    * *Zakres Radiacji w Tygodniu:* **Min -230.19 / Max +22.08**
+
+* **Struktura Grawitacyjna (Opcje — Sfera Dysona):**
+    * *Implied Volatility (IV):* **40.88%** (Średnia Tygodniowa: **30.99%** | Zmiana od poniedziałku: **+11.84 p.p.**)
+    * *Struktura Pozycji (Put/Call OI):* **1.01**
+
+---
+
+### Dziennik Pokładowy: Kolaps Grawitacyjny i Przejście w Stan Niestabilności
+
+**1. Trajektoria Tygodniowa i Zmienność Kursu (Przebieg Sesji Poniedziałek–Piątek)**
+W badanym cyklu nastąpiła drastyczna degradacja trajektorii wszystkich obiektów. Gwiazda NDX przeszła z poziomu 27950.96 do 25033.41, co stanowi spadek o 10.44% (delta -2917.55 pkt). Amplituda wahań NDX wyniosła 2719.54 pkt, przy ekstremum niskim na poziomie 24979.04. Sonda NQ wykazała jeszcze większą amplitudę (3207.25 pkt), spadając z 28036.58 do 25274.25 (-9.85%). Sfera Dyson'a QQQ skorelowała ruch z układem, tracąc 10.28% wartości (z 679.91 do 610.04 USD). Cały tydzień charakteryzował się gwałtowną kompresją i poszukiwaniem nowych, niższych poziomów stabilności.
+
+**2. Bilans Energii i Skumulowane Paliwo (Tygodniowy CVD i Wolumen)**
+Wystąpiła głęboka dywergencja w przepływach energii. Podczas gdy NDX odnotował dodatni bilans CVD (+294.39 M) wskazujący na euforię w sektorze kasowym, Sonda NQ (-290.57 K) oraz Sfera QQQ (-15.69 M) wykazały skumulowaną panikę. Agresywny wolumen w instrumentach pochodnych i ETF-ach był skierowany na wyprzedaż, co sugeruje, że mimo lokalnych prób akrecji na rynku kasowym, mechanika napędowa kontraktów i funduszy była zdominowana przez gwałtowny odpływ płynności.
+
+**3. Ewolucja Masy, Zagęszczenie Jądra i Tarcze Opcyjne**
+Masa całkowita układu (T-Mass) uległa gwałtownemu rozproszeniu: spadek z 39.64 bln USD do 35.57 bln USD (-10.26%). Mimo utraty masy, gęstość Jądra wzrosła nieznacznie o 0.27 p.p. (do 68.93%). Fluktuacja składu Jądra wykazała rotację: w czwartek wartość WMT spadła poniżej 1 bln USD, by w piątek ponownie przekroczyć próg 1 bln USD. Średnia akcja spadła o 12.20% ($253.50). System odnotował ekstremalny wzrost napięcia w tarczach opcyjnych – zmienność implikowana (IV) wzrosła o 11.84 p.p. względem początku tygodnia, osiągając poziom 40.88%. Średnia radiacja TICKQ SMA200 na poziomie -78.48 potwierdza stan załamania fizyki układu.
+
+**Werdykt Kwantowy:**
+Układ znajduje się w fazie gwałtownej dekompresji. Wysoka zmienność (IV) i silna radiacja ujemna wskazują na niestabilność strukturalną. Bilans sił po zamknięciu cyklu jest silnie przesunięty w stronę podaży, mimo prób stabilizacji masy wewnątrz Jądra.
+
+**Status:** ZEWNĘTRZNA OBSERWACJA. Tarcze aktywne.
+
+**Koniec zapisu.**
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Kwantowa Kosmologia Rynku: Dziennik Pokładowy",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Algorithmic Trading, Order Flow Cosmology, Market Microstructure, macro, weekly-report"
+}
+</script>
+
