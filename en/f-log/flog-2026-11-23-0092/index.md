@@ -1,0 +1,27 @@
+# Fundamentals #0092: Company filings: PayPal, PepsiCo, Alphabet; insider transactions
+
+Date: 2026-11-23 10:11
+URL: https://heniu.blog/en/f-log/flog-2026-11-23-0092/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+PayPal (PYPL): 8-K: 5.02 changes in management/board, 7.01 Reg FD (Document: 8-K 5.02,7.01,9.01; Filing date (US time): 20.11; 8-K 5.02 content (change in management or board): position: President; type of change: departure (resignation); date: 3.02.2027; persons: Claire Bramley; successor: indicated in the document; quote (EN): „On November 20, 2026, PayPal Holdings, Inc. (the “ Company ”) announced that the Board of Directors (the “ Board ”) of the Company appointed Claire Bramley, age 49, as Executive Vice President, Chief Financial Officer of the Company, effective as of February 3, 2027.”; 8-K 7.01 content (announcement (Reg FD)): quote (EN): „On November 20, 2026, the Company issued a press release announcing the appointment of Ms. Bramley as Chief Financial Officer of the Company and the departure of Ms. Miller.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm).
+
+PepsiCo (PEP) made a shelf registration.
+
+Alphabet (GOOGL) filed offering materials.
+
+Insiders on 20.11 sold shares for 3.7 million USD, including 3.7 million USD from 10b5-1 plans; market purchases were 0. The largest sale was reported by Cisco Systems (CSCO) insiders: 2.0 million USD.
+
+Amazon.com (AMZN) insiders sold shares for 1.7 million USD in the period 23.08–20.11, with purchases amounting to 0.
+
+Cisco Systems (CSCO) insiders sold shares for 47.6 million USD in the period 23.08–20.11, with purchases amounting to 0.
+
+Intuitive Surgical (ISRG) insiders sold shares for 19.8 million USD in the period 23.08–20.11, with purchases amounting to 0.
+
+Lumentum (LITE) insiders sold shares for 28.8 million USD in the period 23.08–20.11, with purchases amounting to 0.
+
+PepsiCo (PEP): shelf registration S-3ASR (Document: S-3ASR; Filing date (US time): 20.11).
+

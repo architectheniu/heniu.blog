@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0092: Company filings: PayPal, PepsiCo, Alphabet; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-23-0092/index.md) (2026-11-23)
 - [Log #0235: Gravitational Collapse and Transition to an Unstable State](https://heniu.blog/en/posts/log-0235/index.md) (2026-11-22)
 - [H1: 2026-11-20](https://heniu.blog/en/h-log/hlog-2026-11-20/index.md) (2026-11-20)
 - [M15: 2026-11-20](https://heniu.blog/en/t-log/tlog-2026-11-20/index.md) (2026-11-20)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [H1: 2026-11-09](https://heniu.blog/en/h-log/hlog-2026-11-09/index.md) (2026-11-09)
 - [M15: 2026-11-09](https://heniu.blog/en/t-log/tlog-2026-11-09/index.md) (2026-11-09)
 - [Log #0224: Session summary 2026-11-09: NDX 27905.46 (+3.40%)](https://heniu.blog/en/posts/log-0224/index.md) (2026-11-09)
-- [Log #0223: Gravitational Collapse and the Dyson Sphere Decay](https://heniu.blog/en/posts/log-0223/index.md) (2026-11-08)
 

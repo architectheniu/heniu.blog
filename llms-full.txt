@@ -7,6 +7,33 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0092: Zgłoszenia spółek: PayPal, PepsiCo, Alphabet; transakcje insiderów
+
+Data: 2026-11-23 10:10
+Adres: https://heniu.blog/f-log/flog-2026-11-23-0092/
+
+
+PayPal (PYPL): 8-K: 5.02 zmiany w zarządzie/radzie, 7.01 Reg FD (Dokument: 8-K 5.02,7.01,9.01; Data złożenia (czas USA): 20.11; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: prezes (President); rodzaj zmiany: odejście (rezygnacja); data: 3.02.2027; osoby: Claire Bramley; następca: wskazany w dokumencie; cytat (EN): „On November 20, 2026, PayPal Holdings, Inc. (the “ Company ”) announced that the Board of Directors (the “ Board ”) of the Company appointed Claire Bramley, age 49, as Executive Vice President, Chief Financial Officer of the Company, effective as of February 3, 2027.”; Treść 8-K 7.01 (komunikat (Reg FD)): cytat (EN): „On November 20, 2026, the Company issued a press release announcing the appointment of Ms. Bramley as Chief Financial Officer of the Company and the departure of Ms. Miller.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm).
+
+PepsiCo (PEP) dokonał rejestracji półkowej.
+
+Alphabet (GOOGL) złożył materiały ofertowe.
+
+Insiderzy 20.11 sprzedali akcje za 3,7 mln USD, w tym 3,7 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Cisco Systems (CSCO): 2,0 mln USD.
+
+Insiderzy Amazon.com (AMZN) w okresie 23.08–20.11 sprzedali akcje za 1,7 mln USD, przy zakupach wynoszących 0.
+
+Insiderzy Cisco Systems (CSCO) w okresie 23.08–20.11 sprzedali akcje za 47,6 mln USD, przy zakupach wynoszących 0.
+
+Insiderzy Intuitive Surgical (ISRG) w okresie 23.08–20.11 sprzedali akcje za 19,8 mln USD, przy zakupach wynoszących 0.
+
+Insiderzy Lumentum (LITE) w okresie 23.08–20.11 sprzedali akcje za 28,8 mln USD, przy zakupach wynoszących 0.
+
+PepsiCo (PEP): rejestracja półkowa S-3ASR (Dokument: S-3ASR; Data złożenia (czas USA): 20.11).
+
+
+---
+
 ## Log #0235: Kolaps Grawitacyjny i Przejście w Stan Niestabilności
 
 Data: 2026-11-22 09:00
@@ -1322,85 +1349,5 @@ Alphabet (GOOGL): 8-K: 8.01 inne zdarzenia (Dokument: 8-K 8.01,9.01; Data złoż
 Apple (AAPL): 8-K: 8.01 inne zdarzenia (Dokument: 8-K 8.01,9.01; Data złożenia (czas USA): 9.11; Treść 8-K 8.01 (inne zdarzenie): cytat (EN): „On November 9, 2026, Apple Inc. (“Apple”) consummated the issuance and sale of $500,000,000 aggregate principal amount of its Floating Rate Notes due 2028 (the “2028 Floating Rate Notes”), $750,000,000 aggregate principal amount of its Floating Rate Notes due 2029 (the “2029 Floating Rate Notes”), $1,000,000,000…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/320193/000114036126042798/0001140361-26-042798-index.htm).
 
 Insiderzy 4.11–9.11: transakcje akcjami (Form 4) (Okres (daty złożenia, czas USA): 4.11–9.11; Sprzedaż: 297,4 mln USD; W tym z planów 10b5-1: 92,1 mln USD; Zakupy na rynku: 10,2 mln USD; Największa sprzedaż insiderów: Linde (LIN) 50,1 mln USD; druga: Regeneron Pharmaceuticals (REGN) 43,3 mln USD; Największy zakup insiderów: Intel (INTC) 9,7 mln USD; drugi: Baker Hughes (BKR) 0,5 mln USD; Suma netto insiderów, 90 dni: AAPL: −93,5 mln USD (zakupy 0, sprzedaż 93,5 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ABNB: −7,2 mln USD (zakupy 0, sprzedaż 7,2 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ADI: −15,2 mln USD (zakupy 0, sprzedaż 15,2 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ADP: −9,9 mln USD (zakupy 0, sprzedaż 9,9 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: AEP: −0,1 mln USD (zakupy 0, sprzedaż 0,1 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ALAB: −7,3 mln USD (zakupy 0, sprzedaż 7,3 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: AMZN: −0,5 mln USD (zakupy 0, sprzedaż 0,5 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: BKR: 0,5 mln USD (zakupy 0,5 mln USD, sprzedaż 0; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: CRWD: −178,7 mln USD (zakupy 0, sprzedaż 178,7 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: CRWV: −50,3 mln USD (zakupy 0, sprzedaż 50,3 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: DASH: −12,7 mln USD (zakupy 0, sprzedaż 12,7 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: GILD: −28,7 mln USD (zakupy 0, sprzedaż 28,7 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: IDXX: −27,4 mln USD (zakupy 0, sprzedaż 27,4 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: INTC: 9,7 mln USD (zakupy 9,7 mln USD, sprzedaż 0; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ISRG: −19,5 mln USD (zakupy 0, sprzedaż 19,5 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: LIN: −50,1 mln USD (zakupy 0, sprzedaż 50,1 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: LRCX: −7,3 mln USD (zakupy 0, sprzedaż 7,3 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: MAR: −33,5 mln USD (zakupy 0, sprzedaż 33,5 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: MDLZ: −25,9 mln USD (zakupy 0, sprzedaż 25,9 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: META: −40,9 mln USD (zakupy 0, sprzedaż 40,9 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: MSTR: −1,2 mln USD (zakupy 0, sprzedaż 1,2 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: NFLX: −3,9 mln USD (zakupy 0, sprzedaż 3,9 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: NXPI: −0,9 mln USD (zakupy 0, sprzedaż 0,9 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ORLY: −14,5 mln USD (zakupy 0, sprzedaż 14,5 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: PANW: −31,1 mln USD (zakupy 0, sprzedaż 31,1 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: PCAR: −0 tys. USD (zakupy 0, sprzedaż 0 tys. USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: PLTR: −8,5 mln USD (zakupy 0, sprzedaż 8,5 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: QCOM: −1,6 mln USD (zakupy 0, sprzedaż 1,6 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: REGN: −49,6 mln USD (zakupy 0, sprzedaż 49,6 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: ROP: −29,4 mln USD (zakupy 0, sprzedaż 29,4 mln USD; okres 12.08–9.11; dane w archiwum od 28.09); Suma netto insiderów, 90 dni: SBUX: −0,5 mln USD (zakupy 0, sprzedaż 0,5 mln USD; okres 12.08–9.11; dane w archiwum od 28.09)).
-
-
----
-
-## Log #0224: Podsumowanie sesji 2026-11-09: NDX 27905.46 (+3.40%)
-
-Data: 2026-11-09 22:04
-Adres: https://heniu.blog/posts/log-0224/
-
-
-**Data sesji:** 2026-11-09
-
-> *Zamknięcie sesji 2026-11-09: NDX 27905.46 (+3.40%), NQ 27991.00 (+3.35%), QQQ 678.77 (+3.44%).*
-
----
-
-### Przebieg sesji
-
-**Otwarcie i główny ruch dnia.** Sesja rozpoczęła się o 9:30 ET (15:30 PL) od poziomów NDX 27256.30 i NQ 27342.00. W ciągu pierwszych 30 minut NDX wzrósł o 429.82 pkt (+1.58%) do 27686.12, a NQ wzrósł o 445.25 pkt (+1.63%) do 27787.25. Minimum sesji odnotowano o 9:31 ET (15:31 PL) na poziomie NDX 27233.70, a maksimum o 15:29 ET (21:29 PL) na poziomie NDX 28022.97. Zamknięcie na poziomie 27905.46 leży 117.51 pkt poniżej maksimum i 671.76 pkt powyżej minimum.
-
-**Przepływy i szerokość rynku.** Kierunki przepływu skumulowanego CVD dla NDX (ujemny), NQ (dodatni) oraz QQQ (dodatni) były rozbieżne. Wskaźnik TICKQ na zamknięciu wyniósł 211.00, przy średniej SMA200 na poziomie 27.54. Udział spółek powyżej 1 bln USD w kapitalizacji koszyka wyniósł 66.41%.
-
-**Końcówka sesji, opcje i spółki.** W ostatniej godzinie sesji NDX spadł o 11.93 pkt (-0.04%) do zamknięcia. Anomalia na zamknięciu (MOC) wyniosła -243,36 M. Dla opcji na QQQ zmienność implikowana (IV) wynosiła 25.09%, a stosunek put/call wynosił 1.10.
-
-**Bilans dnia.** Indeks Nasdaq-100 zamknął się ze wzrostem o 3.40% na poziomie 27905.46.
-
----
-
-### Telemetria Zamknięcia
-
-* **Indeks Nasdaq-100 (NDX):** zamknięcie **27905.46 (+3.40%)**
-    * Przepływ skumulowany (CVD): **−330,18 M [panika]**
-    * Anomalia na zamknięciu (MOC): **-243,36 M**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **157.98%**
-    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **-10.64%** (najwyższe zamknięcie: **31226.82**, 2026-10-06)
-
-* **Kontrakt terminowy NQ:** zamknięcie **27991.00 (+3.35%)**
-    * Przepływ skumulowany (CVD): **38,59 K [akumulacja]**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **172.52%**
-
-* **ETF QQQ:** zamknięcie **678.77 (+3.44%)**
-    * Przepływ skumulowany (CVD): **289,63 K [test popytu]**
-    * Wykorzystanie średniego dziennego zasięgu (ADR): **164.60%**
-
-* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **211.00 [wystrzał rynku]**
-    * Średnia 200 odczytów (SMA200): **27.54 [akumulacja]**
-
-* **Opcje na QQQ:**
-    * Zmienność implikowana (IV): **25.09%**
-    * Stosunek put/call (otwarte pozycje, OI): **1.10**
-
-* **Koszyk Nasdaq-100:**
-    * Łączna kapitalizacja: **39.82 bln USD** (zmiana od poprzedniego zamknięcia: **+1.09 bln USD**)
-    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **66.41%** (zmiana: **-0.49 pkt proc.**)
-    * Średnia cena akcji w koszyku: **$288.79** (zmiana: **+$11.83**)
-    * Zmiany w grupie spółek powyżej 1 bln USD: **bez zmian**
-
-* **Zdrowie danych sesji:** odczyty przez 100,0% sesji kasowej; bez luk dłuższych niż minuta; NDX bez zmiany dłużej niż 2 min w 0,1% odczytów; odrzucone nieaktualne odczyty: 67
-
----
-
-[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0224/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Podsumowanie sesji Nasdaq-100 2026-11-09",
-  "author": {
-    "@type": "Person",
-    "name": "Marcin Marek Lewandowski",
-    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Heniu.blog"
-  },
-  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
-}
-</script>
 
 
