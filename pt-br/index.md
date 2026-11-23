@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Fundamentos #0093: CrowdStrike: resultados do 3Q2027](https://heniu.blog/pt-br/f-log/flog-2026-11-23-0093/index.md) (2026-11-23)
 - [Fundamentos #0092: Relatórios de empresas: PayPal, PepsiCo, Alphabet; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-23-0092/index.md) (2026-11-23)
 - [Log #0235: Colapso Gravitacional e Transição para o Estado de Instabilidade](https://heniu.blog/pt-br/posts/log-0235/index.md) (2026-11-22)
 - [H1: 2026-11-20](https://heniu.blog/pt-br/h-log/hlog-2026-11-20/index.md) (2026-11-20)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Fundamentos #0075: Take-Two Interactive Software: resultados do 2Q2027](https://heniu.blog/pt-br/f-log/flog-2026-11-10-0075/index.md) (2026-11-10)
 - [H1: 2026-11-09](https://heniu.blog/pt-br/h-log/hlog-2026-11-09/index.md) (2026-11-09)
 - [M15: 2026-11-09](https://heniu.blog/pt-br/t-log/tlog-2026-11-09/index.md) (2026-11-09)
-- [Log #0224: Resumo da sessão 2026-11-09: NDX 27905.46 (+3.40%)](https://heniu.blog/pt-br/posts/log-0224/index.md) (2026-11-09)
 
