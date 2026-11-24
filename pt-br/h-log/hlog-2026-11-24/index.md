@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Data: 2026-11-24 17:08
+Data: 2026-11-24 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.24 [PT-BR]</h1>
+<h3>📈 [2026-11-24 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de preços e fluxos:</strong> O índice NDX cai 2.26% para o nível 26142.67, o que representa uma correção de 8.57% desde o pico de 11.11 (28593.00). Nos contratos NQ foi registrado um sell-off (CVD: -22,55K), enquanto no mercado à vista (ETF QQQ) é visível um teste de demanda (CVD: 443,32K). O indicador de direção de fluxo é 8, o que indica um sentimento de mercado muito fraco com predominância de saída de capital.</li>
+<li><strong>Amplitude de mercado:</strong> O indicador TICKQ é 688.00, o que, com a média SMA200 no nível -194.03, indica a presença de forte oferta no setor mais amplo, apesar do desvio da média.</li>
+<li><strong>Análise de opções:</strong> O mercado de opções QQQ com volume de 4,055,052 indica um aumento de proteção; a razão Put/Call é 1.22, o que sugere uma predominância de posições vendidas (hedging). A volatilidade implícita (IV) é de 33.54%, e o alcance esperado de movimento está na faixa de 622.02 a 646.66 pontos.</li>
+<li><strong>Contexto técnico:</strong> A correção atual é mais profunda do que 78% das correções históricas do período analisado. A resistência importante mais próxima (zona de volume) encontra-se na zona 26890–26910.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-24 18:07</p>
 <h3>📈 [2026-11-24 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
