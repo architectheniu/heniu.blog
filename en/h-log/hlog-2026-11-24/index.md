@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Date: 2026-11-24 09:08
+Date: 2026-11-24 10:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-24/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.24 [EN]</h1>
+<h3>📈 [2026-11-24 10:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ contract situation:</strong> Contract price is 26559.50 (-0.93%). Cumulative flow (CVD) at -5,31 K indicates a supply test during the futures session.</li>
+<li><strong>the cash session (Spot) context:</strong> The NDX Star closed the session at 26746.10 (+6.86%), reaching the swing peak from 24.11. Despite the high price, the QQQ ETF recorded a market breakdown with negative CVD flow of -3,82 M.</li>
+<li><strong>QQQ Options analysis:</strong> Implied volatility (IV) is 31.64%, and the Put/Call Volume Ratio is 1.25, suggesting a dominance of hedging positions and a bearish sentiment. The expected range of movement based on a volume of 9,069,578 contracts is within the range of 636.52 to 665.54 points.</li>
+<li><strong>Technical levels:</strong> The nearest resistance zone (volume node) is located in the 26890–26910 range. The current price is below this level, increasing the distance to the resistance zone.</li>
+<li><strong>Sentiment:</strong> The aggregate direction gauge is 0, meaning a neutral balance between capital inflow and outflow in aggregate terms.</li>
+</ul>
+<p>H-Log Report: 2026-11-24 10:07</p>
 <h3>📈 [2026-11-24 09:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
