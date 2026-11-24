@@ -1,0 +1,70 @@
+# Log #0236: Session summary 2026-11-23: NDX 26746.10 (+6.86%)
+
+Date: 2026-11-24 07:49
+URL: https://heniu.blog/en/posts/log-0236/
+Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+**Session date:** 2026-11-23
+
+> *Session close 2026-11-23: NDX 26746.10 (+6.86%), NQ 26812.50, QQQ 650.87 (+7.00%).*
+
+---
+
+### Session overview
+
+**Overnight and opening.** The NQ contract resumed trading on Sunday at 18:00 ET (Monday 0:00 PL) at 25561.50, 270.50 pts above Friday's last trade (25291.00). At 9:00 ET it stood at 26682.25 and at 9:30 ET at 26878.50. The session started at 9:30 ET (15:30 PL) at NDX level 26889.29, 1860.30 pts (+7.43%) above Friday's close (25028.99).
+
+**First hour.** In the first 15 minutes NDX fell to the day's low of 26386.42 (between 9:40 and 9:45 ET, 15:40–15:45 PL), 502.87 pts below the open. Within the first 30 minutes NQ set both the session high, 27137.00, and the session low, 26450.25. NDX then rose 632.46 pts to the day's high of 27018.88 (between 10:25 and 10:30 ET, 16:25–16:30 PL).
+
+**Rest of the session.** From 11:00 ET to the close NDX moved within 26573.28–26875.53 (302.25 pts). In the last hour it rose 28.44 pts, from 26717.66 at 15:00 ET to the close of 26746.10. The close is 272.78 pts below the high and 359.68 pts above the day's low.
+
+**Flows and market breadth.** Cumulative flow (CVD) at the close was negative in NDX (−329,44 M) and QQQ (−3,82 M), while in NQ it stayed positive throughout the cash session. In QQQ the last quarter-hour of the session lowered it from −1,74 M. TICKQ market breadth at the close was -109.00.
+
+**Companies.** Before the open CRWD released its financial results for the third quarter of fiscal year 2027 (6:04 ET) and filed an agreement to acquire Zscaler (6:15 ET).
+
+**Day's balance.** The Nasdaq-100 index closed with an increase of 6.86%. The close is 229.08 pts above the 19.11 close recorded by Heniu (26517.02).
+
+---
+
+### Closing Telemetry
+
+* **Nasdaq-100 index (NDX):** close **26746.10 (+6.86%)**
+    * Open: **26889.29**, high: **27018.88**, low: **26386.42**
+    * Cumulative flow (CVD): **−329,44 M**
+    * Average Daily Range (ADR) utilization: **87.22%**
+    * Drawdown from Heniu's highest close: **-14.35%** (highest close: **31226.82**, 2026-10-06)
+
+* **NQ futures contract:** at 16:00 ET **26812.50** (**1678.75 pts (+6.68%)** above Friday at 16:00 ET)
+    * Cash-session high and low: **27137.00** and **26450.25**
+
+* **QQQ ETF:** close **650.87 (+7.00%)**
+    * Cumulative flow (CVD): **−3,82 M**
+    * Average Daily Range (ADR) utilization: **86.65%**
+
+* **Market breadth (TICKQ):** reading at close **-109.00**
+
+---
+
+*This summary was prepared from a non-standard data set.*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Nasdaq-100 session summary 2026-11-23",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
