@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
-- [Log #0237: Resumo da sessão 2026-11-24: NDX 26218.83 (-1.99%)](https://heniu.blog/pt-br/posts/log-0237/index.md) (2026-11-24)
 - [M15: 2026-11-24](https://heniu.blog/pt-br/t-log/tlog-2026-11-24/index.md) (2026-11-24)
+- [Log #0237: Resumo da sessão 2026-11-24: NDX 26218.83 (-1.99%)](https://heniu.blog/pt-br/posts/log-0237/index.md) (2026-11-24)
 - [H1: 2026-11-24](https://heniu.blog/pt-br/h-log/hlog-2026-11-24/index.md) (2026-11-24)
 - [Fundamentos #0094: Relatórios de empresas: NVIDIA, CrowdStrike, Advanced Micro Devices e outras; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-24-0094/index.md) (2026-11-24)
 - [Log #0236: Resumo da sessão 2026-11-23: NDX 26746.10 (+6.86%)](https://heniu.blog/pt-br/posts/log-0236/index.md) (2026-11-24)
