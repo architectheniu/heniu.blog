@@ -1,6 +1,6 @@
 # M15: 2026-11-24
 
-Date: 2026-11-24 19:44
+Date: 2026-11-24 19:59
 URL: https://heniu.blog/en/t-log/tlog-2026-11-24/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.24 [EN]</h1>
+<h3>⏱️ [2026-11-24 19:59] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26189.24</strong> (-2.08%; since the previous entry -62.83 pts) · NQ <strong>26252.75</strong> (-2.07%; -61.00 pts) · QQQ <strong>637.37 USD</strong> (-2.10%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX no data · CVD NQ <strong>-20.02 K</strong> [sell-off] (since the previous entry -2.38 K) · CVD QQQ <strong>744.08 K</strong> [demand test] · TICKQ <strong>-350</strong> [market breakdown] · SMA200 average <strong>-190.63</strong> [extremely negative breadth] (-2.45) · direction gauge <strong>-5</strong> (±100 scale; -8)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>37.39 trillion USD</strong> (since the previous entry +0.00 trillion USD) · share of companies above 1 trillion USD <strong>69.3%</strong> (+0.0 pp) · average share price <strong>264.01 USD</strong> (-0.46 USD) · QQQ options: implied volatility <strong>32.06%</strong>, put/call <strong>1.14</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>26890–26910</strong> (2.68% higher)</li>
+</ul>
+<p>NQ futures contract price fell after breaking the US100 ecosystem support at 26200. The NQ CVD value deteriorated, signaling increased sell-off. The nearest resistance is located above current index levels.</p>
 <h3>⏱️ [2026-11-24 19:44] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26252.07</strong> (-1.85%; since the previous entry +0.40 pts) · NQ <strong>26313.75</strong> (-1.84%; +1.50 pts) · QQQ <strong>638.83 USD</strong> (-1.87%)</li>
