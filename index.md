@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [M15: 2026-11-25](https://heniu.blog/t-log/tlog-2026-11-25/index.md) (2026-11-25)
 - [H1: 2026-11-25](https://heniu.blog/h-log/hlog-2026-11-25/index.md) (2026-11-25)
 - [H1: 2026-11-24](https://heniu.blog/h-log/hlog-2026-11-24/index.md) (2026-11-24)
 - [M15: 2026-11-24](https://heniu.blog/t-log/tlog-2026-11-24/index.md) (2026-11-24)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0226: Podsumowanie sesji 2026-11-11: NDX 28374.01 (+2.28%)](https://heniu.blog/posts/log-0226/index.md) (2026-11-11)
 - [Fundamenty #0078: Zgłoszenie spółki Costco Wholesale; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-11-0078/index.md) (2026-11-11)
 - [Fundamenty #0077: CoreWeave: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-11-0077/index.md) (2026-11-11)
-- [H1: 2026-11-10](https://heniu.blog/h-log/hlog-2026-11-10/index.md) (2026-11-10)
 
