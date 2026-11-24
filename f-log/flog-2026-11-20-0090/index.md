@@ -7,6 +7,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-24)**  
+> **Przy porównaniu z II kwartałem zabrakło informacji o zwrotach ceł.**
+>
+> **Sprostowanie:**
+> - Zysk operacyjny II kwartału (1,10 mld USD) zawierał ok. 253 mln USD ze zwrotów ceł IEEPA (komunikat spółki z 20.08.2026).
+>
+> Pozostałe liczby i daty się nie zmieniają.
+
 Przychody Ross Stores (ROST) wzrosły w kwartale o 11,7% r/r do 6,26 mld USD, a zysk na akcję wzrósł o 20,9% r/r do 1,91 USD.
 
 ### Wyniki kwartału

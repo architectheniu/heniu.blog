@@ -317,6 +317,14 @@ Data: 2026-11-20 01:06
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-20-0090/
 
 
+> ⚠️ **ERRATUM (2026-11-24)**  
+> **Na comparação com o 2º trimestre faltou a informação sobre os reembolsos de tarifas.**
+>
+> **Correção:**
+> - O lucro operacional do 2º trimestre (1,10 bi USD) incluiu cerca de 253 mi USD de reembolsos de tarifas IEEPA (comunicado da empresa de 20/08/2026).
+>
+> Os demais números e datas não mudam.
+
 A receita da Ross Stores (ROST) aumentou no trimestre em 11,7% ano a ano para 6,26 bi USD, e o lucro por ação aumentou em 20,9% ano a ano para 1,91 USD.
 
 ### Resultados do trimestre
@@ -339,6 +347,14 @@ A diretoria enfatizou que o crescimento é impulsionado principalmente por um ma
 Data: 2026-11-20 01:03
 Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-20-0089/
 
+
+> ⚠️ **ERRATUM (2026-11-24)**  
+> **O texto não informava que a empresa reduziu a projeção anual de receita.**
+>
+> **Correção:**
+> - Em 25/08/2026 a empresa projetava receita de 23,279–23,512 bi USD no ano fiscal de 2027; em 19/11/2026 indicou 23,081–23,365 bi USD. Segundo o comunicado, a mudança se refere à Credit Karma, com ajuste no segmento Consumer.
+>
+> A empresa reafirmou as projeções de lucro operacional e de lucro por ação para o ano fiscal de 2027. Os demais números e datas não mudam.
 
 A receita da Intuit (INTU) cresceu 12,1% ano a ano no trimestre para 4,35 bi USD, e o lucro por ação foi de 2,59 USD contra 1,59 USD no ano anterior (+62,9% ano a ano).
 

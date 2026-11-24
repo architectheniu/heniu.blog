@@ -7,6 +7,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 ---
 
 
+> ⚠️ **ERRATUM (2026-11-24)**  
+> **Na comparação com o 2º trimestre faltou a informação sobre os reembolsos de tarifas.**
+>
+> **Correção:**
+> - O lucro operacional do 2º trimestre (1,10 bi USD) incluiu cerca de 253 mi USD de reembolsos de tarifas IEEPA (comunicado da empresa de 20/08/2026).
+>
+> Os demais números e datas não mudam.
+
 A receita da Ross Stores (ROST) aumentou no trimestre em 11,7% ano a ano para 6,26 bi USD, e o lucro por ação aumentou em 20,9% ano a ano para 1,91 USD.
 
 ### Resultados do trimestre

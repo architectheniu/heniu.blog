@@ -317,6 +317,14 @@ Date: 2026-11-20 01:06
 URL: https://heniu.blog/en/f-log/flog-2026-11-20-0090/
 
 
+> ⚠️ **ERRATUM (2026-11-24)**  
+> **The comparison with Q2 did not mention the tariff refunds.**
+>
+> **Correction:**
+> - Q2 operating income (1.10 billion USD) included about 253 million USD of IEEPA tariff refunds (company release of August 20, 2026).
+>
+> The other figures and dates stay the same.
+
 Ross Stores (ROST) revenue increased in the quarter by 11.7% year over year to 6.26 billion USD, and earnings per share increased by 20.9% year over year to 1.91 USD.
 
 ### Quarterly results
@@ -339,6 +347,14 @@ Management emphasized that growth is being driven mainly by increased foot traff
 Date: 2026-11-20 01:03
 URL: https://heniu.blog/en/f-log/flog-2026-11-20-0089/
 
+
+> ⚠️ **ERRATUM (2026-11-24)**  
+> **The entry did not say that the company lowered its full-year revenue guidance.**
+>
+> **Correction:**
+> - On August 25, 2026 the company guided fiscal year 2027 revenue at 23.279–23.512 billion USD; on November 19, 2026 it gave 23.081–23.365 billion USD. According to the release, the change concerns Credit Karma, with an adjustment to the Consumer segment.
+>
+> The company reaffirmed its fiscal year 2027 guidance for operating income and earnings per share. The other figures and dates stay the same.
 
 Intuit (INTU) revenue grew 12.1% year over year in the quarter to 4.35 billion USD, and earnings per share were 2.59 USD compared to 1.59 USD a year earlier (+62.9% year over year).
 

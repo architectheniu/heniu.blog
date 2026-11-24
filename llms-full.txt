@@ -317,6 +317,14 @@ Data: 2026-11-20 01:06
 Adres: https://heniu.blog/f-log/flog-2026-11-20-0090/
 
 
+> ⚠️ **ERRATUM (2026-11-24)**  
+> **Przy porównaniu z II kwartałem zabrakło informacji o zwrotach ceł.**
+>
+> **Sprostowanie:**
+> - Zysk operacyjny II kwartału (1,10 mld USD) zawierał ok. 253 mln USD ze zwrotów ceł IEEPA (komunikat spółki z 20.08.2026).
+>
+> Pozostałe liczby i daty się nie zmieniają.
+
 Przychody Ross Stores (ROST) wzrosły w kwartale o 11,7% r/r do 6,26 mld USD, a zysk na akcję wzrósł o 20,9% r/r do 1,91 USD.
 
 ### Wyniki kwartału
@@ -339,6 +347,14 @@ Zarząd podkreślał, że wzrost napędzany jest głównie większym ruchem w sk
 Data: 2026-11-20 01:03
 Adres: https://heniu.blog/f-log/flog-2026-11-20-0089/
 
+
+> ⚠️ **ERRATUM (2026-11-24)**  
+> **Wpis nie podawał, że spółka obniżyła roczną prognozę przychodów.**
+>
+> **Sprostowanie:**
+> - 25.08.2026 spółka prognozowała przychody w roku obrotowym 2027 na 23,279–23,512 mld USD, a 19.11.2026 podała 23,081–23,365 mld USD; według komunikatu zmiana dotyczy Credit Karma, z korektą segmentu Consumer.
+>
+> Prognozy zysku operacyjnego i zysku na akcję na rok obrotowy 2027 spółka potwierdziła bez zmian. Pozostałe liczby i daty się nie zmieniają.
 
 Przychody Intuit (INTU) wzrosły w kwartale o 12,1% r/r do 4,35 mld USD, a zysk na akcję wyniósł 2,59 USD wobec 1,59 USD rok wcześniej (+62,9% r/r).
 
