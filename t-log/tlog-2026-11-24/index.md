@@ -1,6 +1,6 @@
 # M15: 2026-11-24
 
-Data: 2026-11-24 18:59
+Data: 2026-11-24 19:14
 Adres: https://heniu.blog/t-log/tlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.24</h1>
+<h3>⏱️ [2026-11-24 19:14] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>26243.67</strong> (-1.88%; od poprzedniego wpisu -54.17 pkt) · NQ <strong>26307.00</strong> (-1.87%; -50.00 pkt) · QQQ <strong>638.62 USD</strong> (-1.91%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX brak danych · CVD NQ <strong>-12.09 K</strong> [wyprzedaż] (od poprzedniego wpisu -1.81 K) · CVD QQQ <strong>1.05 M</strong> [akumulacja] · TICKQ <strong>94</strong> [akumulacja] · średnia SMA200 <strong>-187.92</strong> [ekstremalnie ujemna szerokość] (+1.40) · wskaźnik kierunku <strong>3</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>37.42 bln USD</strong> (od poprzedniego wpisu +0.31 bln USD) · udział spółek powyżej 1 bln USD <strong>69.2%</strong> (+0.0 pp) · średnia cena akcji <strong>264.22 USD</strong> (-0.75 USD) · opcje QQQ: zmienność implikowana <strong>32.52%</strong>, put/call <strong>1.15</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>26890–26910</strong> (2.46% wyżej)</li>
+</ul>
+<p>Wartość rynkowa spółek wzrosła, mimo spadków indeksów. Przepływy pieniężne wykazują rozbieżność, ponieważ w przypadku kontraktów na NQ odnotowano pogłębienie wyprzedaży, podczas gdy w przypadku QQQ występuje akumulacja. Szerokość rynku pozostaje ekstremalnie ujemna, choć nastąpiła jej niewielka poprawa.</p>
 <h3>⏱️ [2026-11-24 18:59] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>26297.84</strong> (-1.68%; od poprzedniego wpisu -2.30 pkt) · NQ <strong>26357.00</strong> (-1.67%; -8.75 pkt) · QQQ <strong>639.87 USD</strong> (-1.72%)</li>
