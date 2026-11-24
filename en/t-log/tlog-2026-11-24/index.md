@@ -1,6 +1,6 @@
 # M15: 2026-11-24
 
-Date: 2026-11-24 20:59
+Date: 2026-11-24 21:14
 URL: https://heniu.blog/en/t-log/tlog-2026-11-24/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.24 [EN]</h1>
+<h3>⏱️ [2026-11-24 21:14] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26153.88</strong> (-2.22%; since the previous entry +31.07 pts) · NQ <strong>26217.00</strong> (-2.21%; +31.00 pts) · QQQ <strong>636.50 USD</strong> (-2.23%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX no data · CVD NQ <strong>-20.21 K</strong> [sell-off] (since the previous entry -0.32 K) · CVD QQQ <strong>611.26 K</strong> [demand test] · TICKQ <strong>455</strong> [market surge] · SMA200 average <strong>-190.38</strong> [extremely negative breadth] (+1.08) · direction gauge <strong>3</strong> (±100 scale; +8)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>37.21 trillion USD</strong> (since the previous entry -0.09 trillion USD) · share of companies above 1 trillion USD <strong>69.2%</strong> (+0.0 pp) · average share price <strong>263.54 USD</strong> (+0.22 USD) · QQQ options: implied volatility <strong>32.62%</strong>, put/call <strong>1.14</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>26890–26910</strong> (2.81% higher)</li>
+</ul>
+<p>The sell-off in CVD flows for NQ has deepened, while a demand test was recorded for QQQ. Flows for these two instruments are moving in opposite directions, whereas for NDX there is currently [NO DATA] available. Resistance is located above the current price.</p>
 <h3>⏱️ [2026-11-24 20:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26122.81</strong> (-2.33%; since the previous entry -62.05 pts) · NQ <strong>26186.00</strong> (-2.32%; -59.00 pts) · QQQ <strong>635.72 USD</strong> (-2.35%)</li>
