@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Data: 2026-11-24 09:07
+Data: 2026-11-24 10:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.24</h1>
+<h3>📈 [2026-11-24 10:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku:</strong> Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li><strong>Sytuacja na kontraktach NQ:</strong> Cena kontraktów wynosi 26559.50 (-0.93%). Skumulowany przepływ (CVD) na poziomie -5,31 K wskazuje na test podaży w trakcie trwania sesji futures.</li>
+<li><strong>Kontekst sesji kasowej (Spot):</strong> Indeks NDX zamknął sesję na poziomie 26746.10 (+6.86%), osiągając szczyt swingu z dnia 24.11. Mimo wysokiej ceny, ETF QQQ odnotował załamanie rynku z ujemnym przepływem CVD wynoszącym -3,82 M.</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 31.64%, a współczynnik Put/Call Volume Ratio to 1.25, co sugeruje przewagę pozycji zabezpieczających (hedging) i nastawienie spadkowe. Oczekiwany zasięg ruchu w oparciu o wolumen 9,069,578 kontraktów mieści się w przedziale 636.52 do 665.54 punktów.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26890–26910. Obecna cena znajduje się poniżej tego poziomu, co zwiększa dystans do strefy oporu.</li>
+<li><strong>Sentyment:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 0, co oznacza neutralny balans między napływem a odpływem kapitału w ujęciu łącznym.</li>
+</ul>
+<p>Raport H-Log: 2026-11-24 10:07</p>
 <h3>📈 [2026-11-24 09:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
