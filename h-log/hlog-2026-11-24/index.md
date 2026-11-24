@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Data: 2026-11-24 15:07
+Data: 2026-11-24 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.24</h1>
+<h3>📈 [2026-11-24 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja rynkowa i przepływy:</strong> Rynek znajduje się w silnej fazie dystrybucji. Indeks NDX traci 1.93% (26232.42), a kontrakty NQ spadają o 1.88% (26295.25). Skumulowany przepływ (CVD) dla kontraktów NQ wynosi -23,52 K, co potwierdza presję sprzedażową. Na rynku kasowym (ETF QQQ) odnotowano test podaży z ujemnym CVD na poziomie -14,84 K. Zbiorczy wskaźnik kierunku przepływów wynosi 3, co wskazuje na przewagę odpływu kapitału z rynku.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi -230.00, co przy średniej SMA200 na poziomie -207.86 wskazuje na silną dominację sprzedaży w szerokim rynku Nasdaq.</li>
+<li><strong>Analiza opcji:</strong> Zmienność implikowana (IV) wynosi 33.33%, a współczynnik Put/Call Volume Ratio na poziomie 1.16 sugeruje wzrost zainteresowania instrumentami zabezpieczającymi pozycje (hedging) oraz przewagę opcji sprzedaży. Przy wolumenie 543,693, oczekiwany zasięg ruchu w ramach opcji QQQ mieści się w przedziale 636.52 do 665.54.</li>
+<li><strong>Kontekst techniczny:</strong> Trwająca korekta od szczytu z dnia 11.11 (28593.00) wynosi obecnie -8.26% (-2361 pkt). Jest to ruch o charakterze większej korekty, głębszy niż 78% historycznych przypadków w bazie danych. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26890–26910, co stanowi poziom o 2.51% powyżej obecnej ceny.</li>
+</ul>
+<p>Raport H-Log: 2026-11-24 16:07</p>
 <h3>📈 [2026-11-24 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
