@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Data: 2026-11-24 18:08
+Data: 2026-11-24 19:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.24 [PT-BR]</h1>
+<h3>📈 [2026-11-24 19:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de preços e fluxos:</strong> O Índice NDX e os contratos NQ registram uma queda de -1.77% (NDX: 26272.22, NQ: 26334.25). Nos contratos futuros, é visível um sell-off claro (CVD NQ: -12,41 K), enquanto no mercado à vista (ETF QQQ) observa-se acumulação (CVD QQQ: 1,19 M). O indicador de direção de fluxos é 3, o que, com o sentimento de mercado negativo, indica uma fraca vantagem de distribuição. A Amplitude de mercado (TICKQ) está no nível 260.00, o que é um valor significativamente acima da média SMA200 (-187.09).</li>
+<li><strong>Análise de opções:</strong> O mercado de opções sobre QQQ mostra um aumento nas expectativas de volatilidade (IV: 32.16%). O Put/Call Volume Ratio no nível de 1.15 sugere uma vantagem de posições vendidas, o que pode indicar a construção de proteção (hedging) contra quedas adicionais. O alcance de movimento esperado pelo mercado é de 623.00 a 646.97 pontos.</li>
+<li><strong>Contexto de correção:</strong> A correção em curso desde o pico do dia 11.11 (28593.00) é atualmente de -8.12% (-2321 pkt). Este é um movimento mais profundo do que 56% das correções até agora no período analisado. A maior correção registrada na memória foi de -11.96%.</li>
+<li><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) está na faixa de 26890–26910. A distância do preço atual até este nível é de aproximadamente 2.35%.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-24 19:07</p>
 <h3>📈 [2026-11-24 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
