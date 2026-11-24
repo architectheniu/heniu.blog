@@ -6,8 +6,8 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
-- [H1: 2026-11-24](https://heniu.blog/en/h-log/hlog-2026-11-24/index.md) (2026-11-24)
 - [M15: 2026-11-24](https://heniu.blog/en/t-log/tlog-2026-11-24/index.md) (2026-11-24)
+- [H1: 2026-11-24](https://heniu.blog/en/h-log/hlog-2026-11-24/index.md) (2026-11-24)
 - [Log #0236: Session summary 2026-11-23: NDX 26746.10 (+6.86%)](https://heniu.blog/en/posts/log-0236/index.md) (2026-11-24)
 - [Fundamentals #0093: CrowdStrike: 3Q2027 results](https://heniu.blog/en/f-log/flog-2026-11-23-0093/index.md) (2026-11-23)
 - [Fundamentals #0092: Company filings: PayPal, PepsiCo, Alphabet; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-23-0092/index.md) (2026-11-23)
