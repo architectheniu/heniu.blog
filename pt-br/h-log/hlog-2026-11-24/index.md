@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Data: 2026-11-24 11:08
+Data: 2026-11-24 12:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.24 [PT-BR]</h1>
+<h3>📈 [2026-11-24 12:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado:</strong> a sessão à vista (Spot) está atualmente fechada. A análise concentra-se nos contratos futuros NQ e nos níveis de fechamento da sessão regular.</li>
+<li><strong>Situação nos contratos NQ:</strong> O preço dos contratos NQ é 26368.75 (-1.63%), com um fluxo acumulado (CVD) negativo no nível de -11,23 K, o que indica um sell-off contínuo na sessão pós-mercado.</li>
+<li><strong>Níveis técnicos:</strong> O Índice Nasdaq-100 (NDX) encontra-se atualmente próximo ao topo do swing do dia 24.11 (26746.10). A zona de resistência mais próxima (nó de volume) está no intervalo 26890–26910. O recuo atual tem o caráter de um simples recuo de capital, sendo mais raso do que as correções anteriores no período analisado.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> A volatilidade implícita (IV) é de 31.64%, e o Put/Call Ratio no nível de 1.25 sugere uma predominância de posições de proteção (hedging) ou um aumento na demanda por opções de venda. O alcance esperado do movimento situa-se no intervalo de 636.52 a 665.54 com um volume de opções de 9,069,578.</li>
+<li><strong>Sentimento:</strong> O indicador de direção agregado de fluxos é 0, o que significa a ausência de uma dominância clara de um dos lados e um sentimento de mercado neutro no momento atual.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-24 12:07</p>
 <h3>📈 [2026-11-24 11:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>A sessão de futuros</strong></p>
