@@ -1,6 +1,6 @@
 # M15: 2026-11-24
 
-Data: 2026-11-24 09:29
+Data: 2026-11-24 09:59
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,13 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.24 [PT-BR]</h1>
+<h3>⏱️ [2026-11-24 09:59] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>26610.75</strong> (-0.74%; desde a entrada anterior -117.00 pts, -0.44%) · parcela da amplitude média diária (ADR) utilizada <strong>36.92%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>-3.72 K</strong> [teste de oferta] (desde a entrada anterior -3.04 K) · indicador de direção <strong>0</strong> (escala ±100; +0)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista às 15:30 (horário da Polônia).</li>
+</ul>
+<p>O movimento do preço ocorre com um fluxo enfraquecendo, o que se manifesta por uma redução adicional do valor de CVD em relação à leitura anterior. O uso do alcance diário de movimento diminuiu.</p>
 <h3>⏱️ [2026-11-24 09:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>26727.75</strong> (-0.30%; desde a entrada anterior -129.75 pts, -0.48%) · parcela da amplitude média diária (ADR) utilizada <strong>30.43%</strong></li>
