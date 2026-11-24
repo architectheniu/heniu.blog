@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Date: 2026-11-24 12:07
+Date: 2026-11-24 13:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-24/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.24 [EN]</h1>
+<h3>📈 [2026-11-24 13:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Futures market:</strong> NQ contracts are showing selling pressure, falling by 1.53% to the level of 26396.00 with a negative cumulative flow (CVD) of −11,51 K. the cash session (Spot) is currently closed, and the TICKQ indicator remains inactive.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 31.64%, and the Put/Call Volume Ratio at 1.25 suggests an advantage of hedging positions or anticipation of declines. The expected range of movement based on options volume (9,069,578) falls within the range of 636.52 to 665.54 points.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate direction gauge of flows is 0, meaning there is no clear dominance of one side in the current futures trading.</li>
+<li><strong>Technical levels:</strong> The NDX index is near the swing high from 24.11 (26746.10). The nearest resistance zone (volume node) is in the range of 26890–26910. The current drawdown is a regular correction, being shallower than previous corrective moves.</li>
+</ul>
+<p>H-Log Report: 2026-11-24 13:07</p>
 <h3>📈 [2026-11-24 12:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
