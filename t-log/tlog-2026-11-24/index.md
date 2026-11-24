@@ -1,6 +1,6 @@
 # M15: 2026-11-24
 
-Data: 2026-11-24 17:29
+Data: 2026-11-24 17:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.24</h1>
+<h3>⏱️ [2026-11-24 17:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>26009.12</strong> (-2.76%; od poprzedniego wpisu -14.74 pkt) · NQ <strong>26071.00</strong> (-2.74%; -9.25 pkt) · QQQ <strong>632.89 USD</strong> (-2.79%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX brak danych · CVD NQ <strong>-27.79 K</strong> [wyprzedaż] (od poprzedniego wpisu +0.52 K) · CVD QQQ <strong>152.68 K</strong> [test popytu] · TICKQ <strong>13</strong> [test popytu] · średnia SMA200 <strong>-201.75</strong> [ekstremalnie ujemna szerokość] (+5.00) · wskaźnik kierunku <strong>8</strong> (skala ±100; +0)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>37.00 bln USD</strong> (od poprzedniego wpisu +0.00 bln USD) · udział spółek powyżej 1 bln USD <strong>69.3%</strong> (+0.0 pp) · średnia cena akcji <strong>261.65 USD</strong> (-0.70 USD) · opcje QQQ: zmienność implikowana <strong>34.28%</strong>, put/call <strong>1.24</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>26890–26910</strong> (3.39% wyżej)</li>
+</ul>
+<p>Wskaźnik CVD dla NQ wykazuje pogłębienie wyprzedaży w porównaniu do poprzedniego wpisu, mimo mniejszego spadku indeksu NDX. Występuje rozbieżność między spadkowym ruchem indeksu a kierunkiem wskaźnika TICKQ, który wskazuje na test popytu. Najbliższy opór znajduje się powyżej aktualnej ceny.</p>
 <h3>⏱️ [2026-11-24 17:29] · Sesja kasowa</h3>
 <ul>
 <li><strong>Rynek:</strong> NDX <strong>26023.86</strong> (-2.72%; od poprzedniego wpisu +67.95 pkt) · NQ <strong>26080.25</strong> (-2.71%; +63.75 pkt) · QQQ <strong>633.13 USD</strong> (-2.75%)</li>
