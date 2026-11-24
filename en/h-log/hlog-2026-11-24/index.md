@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Date: 2026-11-24 21:08
+Date: 2026-11-24 23:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-24/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.24 [EN]</h1>
+<h3>📈 [2026-11-24 close]</h3>
+<p><strong>H-LOG: the cash session (Spot) summary</strong></p>
+<p>This is the summary of the cash session (Spot) from 2026-11-24. The NDX index closed at 26218.83, representing a change of -1.99%, while the NQ futures contract reached a value of 26222.00 with a change of -2.19%. The QQQ ETF ended the session at 638.12, recording a decline of -1.97%. The TICKQ indicator was -154.00, while its SMA200 was at -190.13. QQQ implied volatility (IV) is 32.95%, and the Put/Call OI is 1.10.</p>
+<p>H-Log report: session summary 2026-11-24</p>
 <h3>📈 [2026-11-24 21:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
