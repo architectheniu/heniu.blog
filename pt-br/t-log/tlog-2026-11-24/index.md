@@ -1,6 +1,6 @@
 # M15: 2026-11-24
 
-Data: 2026-11-24 15:29
+Data: 2026-11-24 15:44
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.24 [PT-BR]</h1>
+<h3>⏱️ [2026-11-24 15:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>26266.15</strong> (-1.79%) · NQ <strong>26336.50</strong> (-1.75%; desde a entrada anterior -0.25 pts) · QQQ <strong>639.13 USD</strong> (-1.83%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX sem dados · CVD NQ <strong>-9.04 K</strong> [teste de oferta] (desde a entrada anterior +9.02 K) · CVD QQQ <strong>930.82 K</strong> [teste de demanda] · TICKQ <strong>88</strong> [acumulação] · média SMA200 <strong>-210.24</strong> [amplitude extremamente negativa] · indicador de direção <strong>3</strong> (escala ±100; +18)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>38.09 trilhões de USD</strong> · participação das empresas acima de 1 trilhão de USD <strong>69.0%</strong> · preço médio das ações <strong>264.54 USD</strong> · opções sobre QQQ: volatilidade implícita <strong>34.83%</strong>, put/call <strong>0.99</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima acima do preço <strong>26890–26910</strong> (2.38% acima)</li>
+</ul>
+<p>O preço do NQ caiu, e o valor do CVD para este instrumento mudou, o que está relacionado aos alarmes de fluxos súbitos em ambas as direções registrados anteriormente. A resistência mais próxima encontra-se acima dos níveis de preço atuais.</p>
+<p><strong>Alarmes de fluxo desde a entrada anterior:</strong> 15:30 fluxo repentino de NQ para cima; ignição de fluxo NQ; 15:38 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>⏱️ [2026-11-24 15:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>26336.75</strong> (-1.76%; desde a entrada anterior +39.75 pts, +0.15%) · parcela da amplitude média diária (ADR) utilizada <strong>77.27%</strong></li>

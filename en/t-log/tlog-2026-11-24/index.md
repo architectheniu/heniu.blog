@@ -1,6 +1,6 @@
 # M15: 2026-11-24
 
-Date: 2026-11-24 15:29
+Date: 2026-11-24 15:44
 URL: https://heniu.blog/en/t-log/tlog-2026-11-24/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.24 [EN]</h1>
+<h3>⏱️ [2026-11-24 15:44] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26266.15</strong> (-1.79%) · NQ <strong>26336.50</strong> (-1.75%; since the previous entry -0.25 pts) · QQQ <strong>639.13 USD</strong> (-1.83%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX no data · CVD NQ <strong>-9.04 K</strong> [supply test] (since the previous entry +9.02 K) · CVD QQQ <strong>930.82 K</strong> [demand test] · TICKQ <strong>88</strong> [accumulation] · SMA200 average <strong>-210.24</strong> [extremely negative breadth] · direction gauge <strong>3</strong> (±100 scale; +18)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>38.09 trillion USD</strong> · share of companies above 1 trillion USD <strong>69.0%</strong> · average share price <strong>264.54 USD</strong> · QQQ options: implied volatility <strong>34.83%</strong>, put/call <strong>0.99</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>26890–26910</strong> (2.38% higher)</li>
+</ul>
+<p>NQ price fell, and the CVD value for this instrument changed, which is related to the previously recorded sudden flow alarms in both directions. The nearest resistance is located above current price levels.</p>
+<p><strong>Flow alarms since the previous Log:</strong> 15:30 sudden NQ flow up; NQ flow ignition; 15:38 sudden NQ flow down; NQ flow ignition.</p>
 <h3>⏱️ [2026-11-24 15:29] · Futures (cash market closed)</h3>
 <ul>
 <li><strong>NQ contract:</strong> <strong>26336.75</strong> (-1.76%; since the previous entry +39.75 pts, +0.15%) · share of the average daily range (ADR) used <strong>77.27%</strong></li>
