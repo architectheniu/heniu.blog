@@ -1,0 +1,25 @@
+# Fundamenty #0094: Zgłoszenia spółek: NVIDIA, CrowdStrike, Advanced Micro Devices i inne; transakcje insiderów
+
+Data: 2026-11-24 10:10
+Adres: https://heniu.blog/f-log/flog-2026-11-24-0094/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+NVIDIA (NVDA) złożyła raport o zmianach w zarządzie lub radzie dotyczący stanowiska prezes (President) z datą 22.11.2026.
+
+CrowdStrike (CRWD) złożyła raport o zawarciu istotnej umowy oraz raport o ujawnieniu informacji w sposób równomierny.
+
+Advanced Micro Devices (AMD) dokonała rejestracji półkowej S-3ASR.
+
+DoorDash (DASH) złożyła raport o zawarciu istotnej umowy, raport o zobowiązaniu finansowym oraz raport o innych zdarzeniach.
+
+Meta Platforms (META) złożyła raport o innych zdarzeniach.
+
+Insiderzy 23.11 sprzedali akcje za 66,2 mln USD, w tym 63,2 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Palantir Technologies (PLTR): 48,0 mln USD.
+
+CrowdStrike (CRWD): 8-K: 1.01 istotna umowa, 7.01 Reg FD (Dokument: 8-K 1.01,7.01,9.01; Data złożenia (czas USA): 23.11; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On November 22, 2026, CrowdStrike Holdings, Inc., a Delaware corporation (“ Parent ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) among Parent, Neon Speedway, Inc., a Delaware corporation and a wholly owned direct Subsidiary of Parent (“ Merger Sub ”), and Zscaler, Inc., a Delaware…”; Treść 8-K 7.01 (komunikat (Reg FD)): cytat (EN): „Important Information about the Transaction and Where to Find It In connection with the transaction, Parent and the Company will make filings with the SEC, including a registration statement on Form S-4 filed by Parent that will include a proxy statement of the Company that also constitutes a prospectus of Parent.”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/0001104659-26-130785-index.htm).
+
+DoorDash (DASH): 8-K: 1.01 istotna umowa, 2.03 zobowiązanie finansowe, 8.01 inne zdarzenia (Dokument: 8-K 1.01,2.03,8.01,9.01; Data złożenia (czas USA): 23.11; Treść 8-K 1.01 (zawarcie istotnej umowy): umowa: Material Definitive Agreement; cytat (EN): „On November 23, 2026, DoorDash, Inc., a Nevada corporation (the “ Company ”), entered into a Commitment Increase Supplement (the “ Commitment Increase Supplement ”) to its existing Revolving Credit and Guaranty Agreement, dated as of November 19, 2019 (as previously amended and restated as of August 5, 2026, the “…”; Treść 8-K 8.01 (inne zdarzenie): cytat (EN): „Reduction of Bridge Facility Commitments The commitments that the Company obtained for a 364-day senior unsecured bridge term loan facility in the aggregate principal amount of $13.0 billion under that certain commitment letter, dated as of October 28, 2026, which was previously disclosed in the Signing Form 8-K,…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1792789/000114036126045152/0001140361-26-045152-index.htm).
+

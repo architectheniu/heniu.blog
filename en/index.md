@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0094: Company filings: NVIDIA, CrowdStrike, Advanced Micro Devices and others; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-24-0094/index.md) (2026-11-24)
 - [H1: 2026-11-24](https://heniu.blog/en/h-log/hlog-2026-11-24/index.md) (2026-11-24)
 - [M15: 2026-11-24](https://heniu.blog/en/t-log/tlog-2026-11-24/index.md) (2026-11-24)
 - [Log #0236: Session summary 2026-11-23: NDX 26746.10 (+6.86%)](https://heniu.blog/en/posts/log-0236/index.md) (2026-11-24)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [H1: 2026-11-10](https://heniu.blog/en/h-log/hlog-2026-11-10/index.md) (2026-11-10)
 - [M15: 2026-11-10](https://heniu.blog/en/t-log/tlog-2026-11-10/index.md) (2026-11-10)
 - [Log #0225: Session summary 2026-11-10: NDX 27740.94 (-0.60%)](https://heniu.blog/en/posts/log-0225/index.md) (2026-11-10)
-- [Fundamentals #0076: Rocket Lab: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-10-0076/index.md) (2026-11-10)
 
