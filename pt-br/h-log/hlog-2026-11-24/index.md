@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Data: 2026-11-24 16:09
+Data: 2026-11-24 17:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-24/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.24 [PT-BR]</h1>
+<h3>📈 [2026-11-24 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de mercado e fluxos:</strong> O mercado encontra-se em uma fase de forte distribuição. O Índice Nasdaq-100 (NDX) caiu 2,94% (25959,82), e o contrato futuro NQ caiu 2,92% (26025,25). O fluxo acumulado (CVD) para o contrato NQ é de -34,08K, e para o ETF QQQ é de -432,12K, o que confirma um teste de oferta e um sell-off ativo. O indicador de direção de fluxos agregado é de -7, o que indica uma clara predominância de saída de capital do mercado.</li>
+<li><strong>Amplitude de mercado:</strong> A Radiação de Fundo (TICKQ) é de -315,00, o que, com a média SMA200 no nível de -206,97, significa uma forte pressão de venda em um amplo espectro de ações tecnológicas.</li>
+<li><strong>Análise de opções:</strong> O mercado de opções sobre QQQ mostra um aumento na preocupação. A volatilidade implícita (IV) é de 33,72%, e o Put/Call Volume Ratio no nível de 1,14 sugere uma predominância de posições de hedge ou a expectativa de quedas adicionais. Com um volume de 2,421,092 contratos, o alcance esperado do movimento está na faixa de 626,26 a 652,12 pontos.</li>
+<li><strong>Contexto de correção:</strong> A correção atual desde o pico de 11.11 (28593,00) é de -9,21% (queda de 2633 pts). Ela é mais profunda do que 78% das correções históricas registradas no ciclo atual. A maior correção registrada na memória do sistema foi de -11,96%.</li>
+<li><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) encontra-se no intervalo de 26890–26910, o que representa um nível 3,58% acima do preço atual.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-24 17:07</p>
 <h3>📈 [2026-11-24 16:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
