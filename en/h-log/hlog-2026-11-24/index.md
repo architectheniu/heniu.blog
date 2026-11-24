@@ -1,6 +1,6 @@
 # H1: 2026-11-24
 
-Date: 2026-11-24 08:08
+Date: 2026-11-24 09:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-24/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.24 [EN]</h1>
+<h3>📈 [2026-11-24 09:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on NQ futures contracts and data from the regular session close.</li>
+<li>NQ contracts are oscillating around the 26813.50 level (+0.03%), with negative cumulative flow (CVD = -28), indicating a supply test in this session.</li>
+<li>The NDX index closed the cash session at 26746.10 (+6.86%), reaching the swing peak from 24.11. The recorded market breakdown on the QQQ ETF (CVD = -3.82M) suggests capital distribution at the end of the spot session.</li>
+<li>The direction gauge of flows is 0, meaning neutral market sentiment without a clear advantage of buyers or sellers on the entire market scale.</li>
+<li>The QQQ options market shows a Put/Call Ratio at 1.25 with a volume of 9,069,578, indicating increased activity in the hedging area or expectations of declines. Implied volatility (IV) is 31.64%, and the expected range of movement for QQQ is within the 636.52 – 665.54 range.</li>
+<li>The main technical resistance is located in the volume node zone 26890–26910. The current price is below this level.</li>
+</ul>
+<p>H-Log Report: 2026-11-24 09:07</p>
 <h3>📈 [2026-11-24 08:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
