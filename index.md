@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
+- [H1: 2026-11-24](https://heniu.blog/h-log/hlog-2026-11-24/index.md) (2026-11-24)
 - [M15: 2026-11-24](https://heniu.blog/t-log/tlog-2026-11-24/index.md) (2026-11-24)
 - [Fundamenty #0093: CrowdStrike: wyniki za 3Q2027](https://heniu.blog/f-log/flog-2026-11-23-0093/index.md) (2026-11-23)
 - [Fundamenty #0092: Zgłoszenia spółek: PayPal, PepsiCo, Alphabet; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-23-0092/index.md) (2026-11-23)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 - [Log #0225: Podsumowanie sesji 2026-11-10: NDX 27740.94 (-0.60%)](https://heniu.blog/posts/log-0225/index.md) (2026-11-10)
 - [Fundamenty #0076: Rocket Lab: wyniki za 3Q2026](https://heniu.blog/f-log/flog-2026-11-10-0076/index.md) (2026-11-10)
 - [Fundamenty #0075: Take-Two Interactive Software: wyniki za 2Q2027](https://heniu.blog/f-log/flog-2026-11-10-0075/index.md) (2026-11-10)
-- [Fundamenty #0074: Zgłoszenia spółek: Microsoft, Space Exploration Technologies, Micron Technology i inne; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-10-0074/index.md) (2026-11-10)
 
