@@ -1,6 +1,6 @@
 # M15: 2026-11-25
 
-Data: 2026-11-25 21:59
+Data: 2026-11-25 22:29
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-25/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.25 [PT-BR]</h1>
+<h3>⏱️ [2026-11-25 22:29] · Futuros (mercado à vista fechado)</h3>
+<ul>
+<li><strong>Contrato NQ:</strong> <strong>26094.75</strong> (-0.69%; desde a entrada anterior -12.75 pts, -0.05%) · parcela da amplitude média diária (ADR) utilizada <strong>116.68%</strong></li>
+<li><strong>Fluxo NQ:</strong> CVD <strong>-35.44 K</strong> [sell-off] (desde a entrada anterior -13.76 K) · indicador de direção <strong>-5</strong> (escala ±100; -8)</li>
+<li>NDX, QQQ, amplitude de mercado e a cesta de empresas voltam com a abertura da sessão à vista na sexta-feira às 15:30 (horário da Polônia).</li>
+</ul>
+<p>O preço do contrato NQ caiu, o que está relacionado ao fluxo repentino para baixo e ao disparo do fluxo registrados anteriormente. O indicador CVD aprofundou-se, o que confirma o sell-off intensificado.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 22:00 fluxo repentino de NQ para baixo; ignição de fluxo NQ.</p>
 <h3>⏱️ [2026-11-25 21:59] · Sessão à vista</h3>
 <ul>
 <li><strong>Mercado:</strong> NDX <strong>26054.71</strong> (-0.61%; desde a entrada anterior +142.14 pts) · NQ <strong>26107.50</strong> (-0.64%; +140.75 pts) · QQQ <strong>634.01 USD</strong> (-0.64%)</li>
