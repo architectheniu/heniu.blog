@@ -7,6 +7,23 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0096: Relatórios de empresas: QUALCOMM, Alphabet; transações de insiders
+
+Data: 2026-11-25 10:11
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-25-0096/
+
+
+QUALCOMM (QCOM): 8-K: 5.02 mudanças na diretoria/conselho (Documento: 8-K 5.02,9.01; Data de submissão (horário EUA): 24.11; Conteúdo 8-K 5.02 (mudança na diretoria ou conselho): cargo: presidente e CEO; tipo de mudança: termos de remuneração; data: 20.11.2026; pessoas: Palkhiwala. Each Award; sucessor: não aplicável; citação (EN): „On November 20, 2026 (the “Grant Date”), the Board of Directors (the “Board”) of QUALCOMM Incorporated (the “Company”) approved the grant of special long-term equity incentive awards (the “Value Creation Awards” or the “Awards”) to Cristiano Amon, the Company’s President and Chief Executive Officer, and Akash…”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/0000804328-26-000138-index.htm).
+
+Alphabet (GOOGL) submeteu um relatório sobre outros eventos.
+
+Insiders venderam ações por 141,2 mi USD, incluindo 65,6 mi USD de planos 10b5-1; compras no mercado totalizaram 122,3 mi USD. A maior venda foi reportada pelos insiders da Palantir Technologies (PLTR): 98,7 mi USD. Insiders da Amazon.com (AMZN) venderam ações por 16,6 mi USD.
+
+Alphabet (GOOGL): 8-K: 8.01 outros eventos (Documento: 8-K 8.01,9.01; Data de submissão (horário EUA): 24.11; Conteúdo 8-K 8.01 (outro evento): citação (EN): „On November 24, 2026, Alphabet Inc. (“Alphabet”) closed its underwritten public offering of C$6 billion aggregate principal amount of Canadian dollar-denominated senior notes (the “Notes”) pursuant to Alphabet’s registration statement on Form S-3 (File No. 333-296395).”; Fonte (SEC): https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/0001193125-26-475973-index.htm).
+
+
+---
+
 ## Fundamentos #0095: Analog Devices: resultados do 4Q2026
 
 Data: 2026-11-25 09:10
@@ -1359,18 +1376,5 @@ Endereço: https://heniu.blog/pt-br/posts/log-0226/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentos #0078: Notificação da empresa Costco Wholesale; transações de insiders
-
-Data: 2026-11-11 10:10
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-11-0078/
-
-
-A Costco Wholesale (COST) apresentou um relatório de mudanças no conselho de administração, indicando a saída de Helena B. Foulkes do cargo de membro do conselho de administração com data de 7.11.2026.
-
-Insiders venderam ações por 39,8 mi USD, incluindo 37,4 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi reportada por insiders da Airbnb (ABNB): 21,9 mi USD, e a segunda maior é da Vertex Pharmaceuticals (VRTX): 6,3 mi USD.
 
 

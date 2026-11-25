@@ -1,0 +1,17 @@
+# Fundamenty #0096: Zgłoszenia spółek: QUALCOMM, Alphabet; transakcje insiderów
+
+Data: 2026-11-25 10:10
+Adres: https://heniu.blog/f-log/flog-2026-11-25-0096/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+QUALCOMM (QCOM): 8-K: 5.02 zmiany w zarządzie/radzie (Dokument: 8-K 5.02,9.01; Data złożenia (czas USA): 24.11; Treść 8-K 5.02 (zmiana w zarządzie lub radzie): stanowisko: prezes zarządu (CEO); rodzaj zmiany: warunki wynagrodzenia; data: 20.11.2026; osoby: Palkhiwala. Each Award; następca: nie dotyczy; cytat (EN): „On November 20, 2026 (the “Grant Date”), the Board of Directors (the “Board”) of QUALCOMM Incorporated (the “Company”) approved the grant of special long-term equity incentive awards (the “Value Creation Awards” or the “Awards”) to Cristiano Amon, the Company’s President and Chief Executive Officer, and Akash…”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/0000804328-26-000138-index.htm).
+
+Alphabet (GOOGL) złożył raport o innych zdarzeniach.
+
+Insiderzy sprzedali akcje za 141,2 mln USD, w tym 65,6 mln USD z planów 10b5-1; zakupy na rynku wyniosły 122,3 mln USD. Największą sprzedaż zgłosili insiderzy Palantir Technologies (PLTR): 98,7 mln USD. Insiderzy Amazon.com (AMZN) sprzedali akcje za 16,6 mln USD.
+
+Alphabet (GOOGL): 8-K: 8.01 inne zdarzenia (Dokument: 8-K 8.01,9.01; Data złożenia (czas USA): 24.11; Treść 8-K 8.01 (inne zdarzenie): cytat (EN): „On November 24, 2026, Alphabet Inc. (“Alphabet”) closed its underwritten public offering of C$6 billion aggregate principal amount of Canadian dollar-denominated senior notes (the “Notes”) pursuant to Alphabet’s registration statement on Form S-3 (File No. 333-296395).”; Źródło (SEC): https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/0001193125-26-475973-index.htm).
+
