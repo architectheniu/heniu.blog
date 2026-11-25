@@ -7,6 +7,29 @@ Sekcje: M15 (dawniej T-Log, /t-log/), H1 (dawniej H-Log, /h-log/), Fundamenty (d
 
 ---
 
+## Fundamenty #0095: Analog Devices: wyniki za 4Q2026
+
+Data: 2026-11-25 09:09
+Adres: https://heniu.blog/f-log/flog-2026-11-25-0095/
+
+
+Przychody Analog Devices (ADI) wzrosły w kwartale o 42,2% r/r do 4,37 mld USD, a zysk na akcję wzrósł o 112,5% r/r do 3,40 USD.
+
+### Wyniki kwartału
+
+Marża brutto wyniosła 69,3% wobec 63,1% rok wcześniej (+6,2 pp r/r). Zysk operacyjny sięgnął 1,87 mld USD wobec 945,21 mln USD rok wcześniej (+97,7% r/r), a zysk netto wyniósł 1,65 mld USD wobec 787,74 mln USD rok wcześniej (+109,5% r/r). Marża operacyjna wyniosła 42,7% wobec 30,7% rok wcześniej (+12,0 pp r/r), natomiast skorygowany zysk na akcję wyniósł 4,06 USD wobec 2,26 USD rok wcześniej (+79,6% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów w pierwszym kwartale roku obrotowego 2027 na poziomie od 4,25 mld USD do 4,55 mld USD. Spółka prognozuje marżę operacyjną (GAAP) w pierwszym kwartale roku obrotowego 2027 w przedziale 38,8% – 41,8%, skorygowaną marżę operacyjną na poziomie 49,5% – 51,5% oraz zysk na akcję (GAAP) od 2,82 USD do 3,22 USD. Spółka prognozuje również skorygowany zysk na akcję w pierwszym kwartale roku obrotowego 2027 w przedziale 3,62–4,02 USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że popyt jest nadal mocny, a anulowanie zamówień utrzymuje się na normalnym poziomie, co pozwala spółce uważać, że wciąż znajduje się w środku cyklu. Według zarządu sztuczna inteligencja jest dopiero na początku rozbudowy jako kluczowa technologia, która wpłynie na wszystkie inne technologie. Zarząd podkreślał, że ze względu na mocny portfel projektów i dynamikę rozwoju, zaufanie do przyszłego wzrostu wzrosło, co skutkuje dalszą rozbudową mocy produkcyjnych. Według zarządu moce produkcyjne są napięte zarówno we własnych fabrykach, jak i u zewnętrznych producentów, co jest zjawiskiem obserwowanym w całej branży. Zarząd podkreślał również, że klienci rozwiązują coraz trudniejsze problemy na styku świata fizycznego i cyfrowego, na co spółka jest przygotowana, aby dostarczać im coraz większą wartość. Według zarządu nie widać jeszcze oznak istotnej odbudowy zapasów u klientów.
+
+
+---
+
 ## Log #0237: Podsumowanie sesji 2026-11-24: NDX 26218.83 (-1.99%)
 
 Data: 2026-11-24 22:04
@@ -1349,28 +1372,5 @@ Adres: https://heniu.blog/f-log/flog-2026-11-11-0078/
 Costco Wholesale (COST) złożyła raport o zmianach w radzie dyrektorów, w którym wskazano odejście Heleny B. Foulkes ze stanowiska członka rady dyrektorów z datą 7.11.2026.
 
 Insiderzy sprzedali akcje za 39,8 mln USD, w tym 37,4 mln USD z planów 10b5-1; zakupy na rynku wyniosły 0. Największą sprzedaż zgłosili insiderzy Airbnb (ABNB): 21,9 mln USD, a druga największa to Vertex Pharmaceuticals (VRTX): 6,3 mln USD.
-
-
----
-
-## Fundamenty #0077: CoreWeave: wyniki za 3Q2026
-
-Data: 2026-11-11 00:50
-Adres: https://heniu.blog/f-log/flog-2026-11-11-0077/
-
-
-Przychody CoreWeave (CRWV) wzrosły w trzecim kwartale o 168,2% r/r do 3,66 mld USD, natomiast zysk na akcję wyniósł −1,27 USD wobec −0,22 USD rok wcześniej.
-
-### Wyniki kwartału
-
-Zysk operacyjny wyniósł 207,00 mln USD wobec 52,00 mln USD rok wcześniej (+298,1% r/r). Marża operacyjna wyniosła 6% wobec 4% rok wcześniej.
-
-### Prognoza spółki
-
-Spółka spodziewa się przychodów w roku 2026 na poziomie 13,00 mld USD – 13,30 mld USD. Spółka prognozuje skorygowany zysk operacyjny w roku 2026 na poziomie 1,275 mld USD – 1,375 mld USD. Spółka spodziewa się aktywnej mocy na koniec roku wynoszącej ponad 1,85 GW. Spółka prognozuje nakłady inwestycyjne w roku 2026 na poziomie 37,00 mld USD – 39,00 mld USD. Spółka spodziewa się kosztów odsetek w czwartym kwartale 2026 na poziomie 1,05 mld USD – 1,15 mld USD. Spółka prognozuje zannualizowane tempo przychodów na wyjściu z roku na poziomie 20,00 mld USD – 21,00 mld USD.
-
-### Co mówi zarząd
-
-Zarząd podkreślał, że popyt na moc obliczeniową rośnie szybciej niż możliwości dostarczania infrastruktury, co widać po rosnących marżach na kolejnych umowach. Według zarządu popyt i ceny się umacniają, co pomaga spółce osiągać lepsze zwroty z inwestycji. Zarząd podkreślał, że przy obecnych rentownościach spółka nie musi finansować się długiem niezabezpieczonym. Według zarządu spółka nie spodziewa się wpływu dużej zmiany regulacyjnej w USA, ponieważ centra danych mają pozwolenia i są w budowie. Zarząd podkreślał, że platforma Forge stanowi dla klientów korporacyjnych pierwszy krok do korzystania z infrastruktury spółki.
 
 

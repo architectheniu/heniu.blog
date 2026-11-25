@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0095: Analog Devices: 4Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-25-0095/index.md) (2026-11-25)
 - [H1: 2026-11-25](https://heniu.blog/en/h-log/hlog-2026-11-25/index.md) (2026-11-25)
 - [M15: 2026-11-25](https://heniu.blog/en/t-log/tlog-2026-11-25/index.md) (2026-11-25)
 - [H1: 2026-11-24](https://heniu.blog/en/h-log/hlog-2026-11-24/index.md) (2026-11-24)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [M15: 2026-11-11](https://heniu.blog/en/t-log/tlog-2026-11-11/index.md) (2026-11-11)
 - [Log #0226: Session summary 2026-11-11: NDX 28374.01 (+2.28%)](https://heniu.blog/en/posts/log-0226/index.md) (2026-11-11)
 - [Fundamentals #0078: Costco Wholesale company filing; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-11-0078/index.md) (2026-11-11)
-- [Fundamentals #0077: CoreWeave: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-11-0077/index.md) (2026-11-11)
 

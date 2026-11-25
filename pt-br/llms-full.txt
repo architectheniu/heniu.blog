@@ -7,6 +7,29 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Fundamentos #0095: Analog Devices: resultados do 4Q2026
+
+Data: 2026-11-25 09:10
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-25-0095/
+
+
+A receita da Analog Devices (ADI) aumentou no trimestre em 42,2% ano a ano para 4,37 bi USD, e o lucro por ação aumentou em 112,5% ano a ano para 3,40 USD.
+
+### Resultados do trimestre
+
+A margem bruta foi de 69,3% contra 63,1% no ano anterior (+6,2 p.p. ano a ano). O lucro operacional atingiu 1,87 bi USD contra 945,21 mi USD no ano anterior (+97,7% ano a ano), e o lucro líquido foi de 1,65 bi USD contra 787,74 mi USD no ano anterior (+109,5% ano a ano). A margem operacional foi de 42,7% contra 30,7% no ano anterior (+12,0 p.p. ano a ano), enquanto o lucro por ação ajustado foi de 4,06 USD contra 2,26 USD no ano anterior (+79,6% ano a ano).
+
+### Projeção da empresa
+
+A empresa espera uma receita no primeiro trimestre do ano fiscal 2027 em um nível de 4,25 bi USD a 4,55 bi USD. A empresa projeta uma margem operacional (GAAP) no primeiro trimestre do ano fiscal 2027 na faixa de 38,8% – 41,8%, uma margem operacional ajustada no nível de 49,5% – 51,5% e lucro por ação (GAAP) de 2,82 USD a 3,22 USD. A empresa também projeta o lucro por ação ajustado no primeiro trimestre do ano fiscal 2027 na faixa de 3,62–4,02 USD.
+
+### O que diz a administração
+
+A administração enfatizou que a demanda continua forte e o cancelamento de pedidos mantém-se em níveis normais, o que permite à empresa acreditar que ainda está no meio do ciclo. Segundo a administração, a inteligência artificial está apenas no início da expansão como uma tecnologia fundamental que afetará todas as outras tecnologias. A administração enfatizou que, devido ao forte portfólio de projetos e à dinâmica de crescimento, a confiança no crescimento futuro aumentou, resultando em uma expansão adicional da capacidade de produção. Segundo a administração, as capacidades de produção estão apertadas tanto em suas próprias fábricas quanto em fabricantes externos, o que é um fenômeno observado em toda a indústria. A administração também enfatizou que os clientes estão resolvendo problemas cada vez mais difíceis na intersecção entre o mundo físico e o digital, para o que a empresa está preparada para fornecer cada vez mais valor. Segundo a administração, ainda não se veem sinais de uma recuperação significativa de estoques por parte dos clientes.
+
+
+---
+
 ## Log #0237: Resumo da sessão 2026-11-24: NDX 26218.83 (-1.99%)
 
 Data: 2026-11-24 22:04
@@ -1349,28 +1372,5 @@ Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-11-0078/
 A Costco Wholesale (COST) apresentou um relatório de mudanças no conselho de administração, indicando a saída de Helena B. Foulkes do cargo de membro do conselho de administração com data de 7.11.2026.
 
 Insiders venderam ações por 39,8 mi USD, incluindo 37,4 mi USD de planos 10b5-1; compras no mercado foram 0. A maior venda foi reportada por insiders da Airbnb (ABNB): 21,9 mi USD, e a segunda maior é da Vertex Pharmaceuticals (VRTX): 6,3 mi USD.
-
-
----
-
-## Fundamentos #0077: CoreWeave: resultados do 3Q2026
-
-Data: 2026-11-11 00:50
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-11-0077/
-
-
-A receita da CoreWeave (CRWV) aumentou no terceiro trimestre em 168,2% ano a ano para 3,66 bi USD, enquanto o lucro por ação foi de −1,27 USD em comparação com −0,22 USD no ano anterior.
-
-### Resultados do trimestre
-
-O lucro operacional foi de 207,00 mi USD em comparação com 52,00 mi USD no ano anterior (+298,1% ano a ano). A margem operacional foi de 6% em comparação com 4% no ano anterior.
-
-### Projeção da empresa
-
-A empresa espera uma receita em 2026 no nível de 13,00 bi USD – 13,30 bi USD. A empresa projeta o lucro operacional ajustado em 2026 no nível de 1,275 bi USD – 1,375 bi USD. A empresa espera uma capacidade ativa no final do ano de mais de 1,85 GW. A empresa projeta gastos de capital em 2026 no nível de 37,00 bi USD – 39,00 bi USD. A empresa espera custos de juros no quarto trimestre de 2026 no nível de 1,05 bi USD – 1,15 bi USD. A empresa projeta uma taxa de receita anualizada de saída de ano no nível de 20,00 bi USD – 21,00 bi USD.
-
-### O que diz a administração
-
-A administração enfatizou que a demanda por poder computacional está crescendo mais rápido do que a capacidade de fornecer infraestrutura, como visto nas margens crescentes em contratos subsequentes. De acordo com a administração, a demanda e os preços estão se fortalecendo, o que ajuda a empresa a obter melhores retornos sobre o investimento. A administração enfatizou que, com as rentabilidades atuais, a empresa não precisa se financiar com dívida não garantida. De acordo com a administração, a empresa não espera o impacto de uma grande mudança regulatória nos EUA, pois os centros de dados possuem licenças e estão em construção. A administração enfatizou que a plataforma Forge representa para os clientes corporativos o primeiro passo para utilizar a infraestrutura da empresa.
 
 
