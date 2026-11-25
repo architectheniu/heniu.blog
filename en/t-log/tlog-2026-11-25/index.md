@@ -1,6 +1,6 @@
 # M15: 2026-11-25
 
-Date: 2026-11-25 17:44
+Date: 2026-11-25 17:59
 URL: https://heniu.blog/en/t-log/tlog-2026-11-25/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.25 [EN]</h1>
+<h3>⏱️ [2026-11-25 17:59] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>25211.42</strong> (-3.83%; since the previous entry +169.19 pts) · NQ <strong>25270.75</strong> (-3.84%; +171.00 pts) · QQQ <strong>613.61 USD</strong> (-3.84%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX no data · CVD NQ <strong>-67.84 K</strong> [panic] (since the previous entry +12.78 K) · CVD QQQ <strong>-2.59 M</strong> [market breakdown] · TICKQ <strong>486</strong> [market surge] · SMA200 average <strong>-190.34</strong> [extremely negative breadth] (+4.07) · direction gauge <strong>-2</strong> (±100 scale; +8)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>35.67 trillion USD</strong> (since the previous entry +0.05 trillion USD) · share of companies above 1 trillion USD <strong>69.2%</strong> (+0.0 pp) · average share price <strong>255.05 USD</strong> (+1.35 USD) · QQQ options: implied volatility <strong>39.14%</strong>, put/call <strong>1.31</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>26190–26210</strong> (3.88% higher)</li>
+</ul>
+<p>CVD flow for NQ and QQQ has deteriorated, confirming an increase in selling pressure. Meanwhile, the NQ price twice broke through the support and resistance levels set by the volume node in the US100 ecosystem. Currently, the index is below the nearest resistance.</p>
 <h3>⏱️ [2026-11-25 17:44] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>25042.23</strong> (-4.46%; since the previous entry -90.24 pts) · NQ <strong>25099.75</strong> (-4.48%; -82.00 pts) · QQQ <strong>609.49 USD</strong> (-4.48%)</li>
