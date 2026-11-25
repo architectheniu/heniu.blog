@@ -1,0 +1,23 @@
+# Fundamenty #0097: Autodesk: wyniki za 3Q2027
+
+Data: 2026-11-25 14:09
+Adres: https://heniu.blog/f-log/flog-2026-11-25-0097/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+Przychody Autodesk (ADSK) wzrosły w kwartale o 16,6% r/r do 2,16 mld USD, a zysk na akcję wzrósł o 67,5% r/r do 2,68 USD.
+
+### Wyniki kwartału
+
+Zysk operacyjny wyniósł 551,00 mln USD wobec 470,00 mln USD rok wcześniej (+17,2% r/r). Zysk netto sięgnął 563,00 mln USD wobec 343,00 mln USD rok wcześniej (+64,1% r/r). Skorygowany zysk na akcję wyniósł 3,20 USD wobec 2,67 USD rok wcześniej (+19,9% r/r).
+
+### Prognoza spółki
+
+Spółka spodziewa się przychodów w IV kwartale roku obrotowego 2027 na poziomie 2,22 mld USD – 2,235 mld USD, a za cały rok obrotowy 2027 w przedziale 8,36 mld USD – 8,375 mld USD. Spółka prognozuje skorygowany zysk na akcję w roku obrotowym 2027 na poziomie 12,70–12,76 USD oraz billings w przedziale 8,60 mld USD – 8,65 mld USD. Spółka spodziewa się zysk na akcję (GAAP) w IV kwartale roku obrotowego 2027 w przedziale 2,64 USD – 3,02 USD, natomiast za cały rok obrotowy 2027 w przedziale 9,98 USD – 10,35 USD. Spółka prognozuje marżę operacyjną (GAAP) w roku obrotowym 2027 na poziomie ok. 27,0% oraz skorygowaną marżę operacyjną w przedziale 39,2% – 39,3%. Spółka spodziewa się wolnych przepływów pieniężnych w roku obrotowym 2027 w przedziale 2,725 mld USD – 2,75 mld USD.
+
+### Co mówi zarząd
+
+Zarząd podkreślał, że spółka miała mocny kwartał i podpisała największą w swojej historii umowę korporacyjną z klientem. Według zarządu sztuczna inteligencja stanowi wyjątkową szansę na zwiększenie wartości oprogramowania dla klientów, a spadające koszty AI pozwalają na automatyzację większej liczby procesów. Zarząd podkreślał, że przy mocno zautomatyzowanych procesach spółka będzie na części z nich zarabiać. Według zarządu przejęty biznes MaintainX nieco przekroczył oczekiwania, a zainteresowanie rozwiązaniami dla utrzymania ruchu jest bardzo duże. Zarząd podkreślał, że odnowienia umów są nadal mocne, popyt na kluczowych rynkach jest zdrowy, a spółka wchodzi w ostatni kwartał roku z pozycji siły. Według zarządu długoterminowy potencjał wzrostu pozostaje aktualny, a spółka dobrze realizuje założone plany.
+

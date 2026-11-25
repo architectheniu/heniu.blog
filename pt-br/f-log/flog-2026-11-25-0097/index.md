@@ -1,0 +1,23 @@
+# Fundamentos #0097: Autodesk: resultados do 3Q2027
+
+Data: 2026-11-25 14:10
+Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-25-0097/
+Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+A receita da Autodesk (ADSK) aumentou no trimestre em 16,6% ano a ano para 2,16 bi USD, e o lucro por ação aumentou em 67,5% ano a ano para 2,68 USD.
+
+### Resultados do trimestre
+
+O lucro operacional foi de 551,00 mi USD em comparação com 470,00 mi USD no ano anterior (+17,2% ano a ano). O lucro líquido atingiu 563,00 mi USD em comparação com 343,00 mi USD no ano anterior (+64,1% ano a ano). O lucro por ação ajustado foi de 3,20 USD em comparação com 2,67 USD no ano anterior (+19,9% ano a ano).
+
+### Projeção da empresa
+
+A empresa espera receitas no IV trimestre do ano fiscal 2027 no nível de 2,22 bi USD – 2,235 bi USD, e para todo o ano fiscal 2027 na faixa de 8,36 bi USD – 8,375 bi USD. A empresa projeta o lucro por ação ajustado no ano fiscal 2027 no nível de 12,70–12,76 USD e billings na faixa de 8,60 bi USD – 8,65 bi USD. A empresa espera o lucro por ação (GAAP) no IV trimestre do ano fiscal 2027 na faixa de 2,64 USD – 3,02 USD, enquanto para todo o ano fiscal 2027 na faixa de 9,98 USD – 10,35 USD. A empresa projeta a margem operacional (GAAP) no ano fiscal 2027 no nível de aprox. 27,0% e a margem operacional ajustada na faixa de 39,2% – 39,3%. A empresa espera fluxos de caixa livres no ano fiscal 2027 na faixa de 2,725 bi USD – 2,75 bi USD.
+
+### O que diz a diretoria
+
+A diretoria enfatizou que a empresa teve um trimestre forte e assinou o maior contrato corporativo de sua história com um cliente. Segundo a diretoria, a inteligência artificial representa uma oportunidade excepcional para aumentar o valor do software para os clientes, e a queda nos custos de IA permite a automação de um maior número de processos. A diretoria enfatizou que, com processos fortemente automatizados, a empresa lucrará com parte deles. Segundo a diretoria, o negócio adquirido MaintainX superou ligeiramente as expectativas, e o interesse em soluções para manutenção preditiva é muito grande. A diretoria enfatizou que as renovações de contratos continuam fortes, a demanda nos principais mercados é saudável e a empresa entra no último trimestre do ano em uma posição de força. Segundo a diretoria, o potencial de crescimento de longo prazo permanece atual, e a empresa está executando bem os planos estabelecidos.
+

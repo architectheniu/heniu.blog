@@ -6,6 +6,7 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [Fundamentals #0097: Autodesk: 3Q2027 results](https://heniu.blog/en/f-log/flog-2026-11-25-0097/index.md) (2026-11-25)
 - [H1: 2026-11-25](https://heniu.blog/en/h-log/hlog-2026-11-25/index.md) (2026-11-25)
 - [M15: 2026-11-25](https://heniu.blog/en/t-log/tlog-2026-11-25/index.md) (2026-11-25)
 - [Fundamentals #0096: Company filings: QUALCOMM, Alphabet; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-25-0096/index.md) (2026-11-25)
@@ -55,5 +56,4 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 - [Fundamentals #0079: Nebius: 3Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-12-0079/index.md) (2026-11-12)
 - [H1: 2026-11-11](https://heniu.blog/en/h-log/hlog-2026-11-11/index.md) (2026-11-11)
 - [M15: 2026-11-11](https://heniu.blog/en/t-log/tlog-2026-11-11/index.md) (2026-11-11)
-- [Log #0226: Session summary 2026-11-11: NDX 28374.01 (+2.28%)](https://heniu.blog/en/posts/log-0226/index.md) (2026-11-11)
 
