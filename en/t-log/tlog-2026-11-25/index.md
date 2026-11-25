@@ -1,6 +1,6 @@
 # M15: 2026-11-25
 
-Date: 2026-11-25 16:59
+Date: 2026-11-25 17:15
 URL: https://heniu.blog/en/t-log/tlog-2026-11-25/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.25 [EN]</h1>
+<h3>⏱️ [2026-11-25 17:14] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>25079.11</strong> (-4.33%; since the previous entry -22.00 pts) · NQ <strong>25133.50</strong> (-4.36%; -19.75 pts) · QQQ <strong>610.23 USD</strong> (-4.36%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX no data · CVD NQ <strong>-79.74 K</strong> [panic] (since the previous entry +4.28 K) · CVD QQQ <strong>-3.45 M</strong> [market breakdown] · TICKQ <strong>-98</strong> [sell-off] · SMA200 average <strong>-195.68</strong> [extremely negative breadth] (-1.44) · direction gauge <strong>-10</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>35.69 trillion USD</strong> (since the previous entry -0.40 trillion USD) · share of companies above 1 trillion USD <strong>69.2%</strong> (-0.1 pp) · average share price <strong>253.56 USD</strong> (-0.81 USD) · QQQ options: implied volatility <strong>38.72%</strong>, put/call <strong>1.36</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest above the price <strong>26190–26210</strong> (4.43% higher)</li>
+</ul>
+<p>NDX, NQ, and QQQ indices recorded declines, with NQ and QQQ declines being slightly deeper than NDX. The CVD indicator for NQ deteriorated since the previous entry, and the total market capitalization decreased. The nearest resistance is located above current price levels.</p>
 <h3>⏱️ [2026-11-25 16:59] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>25101.11</strong> (-4.25%; since the previous entry +4.07 pts) · NQ <strong>25153.25</strong> (-4.28%; +0.25 pts) · QQQ <strong>610.80 USD</strong> (-4.28%)</li>
