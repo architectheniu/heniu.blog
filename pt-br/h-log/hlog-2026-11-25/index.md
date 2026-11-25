@@ -1,6 +1,6 @@
 # H1: 2026-11-25
 
-Data: 2026-11-25 01:08
+Data: 2026-11-25 02:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-25/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.25 [PT-BR]</h1>
+<h3>📈 [2026-11-25 02:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong>. a sessão à vista (Spot) está atualmente fechada.</p>
+<ul>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos futuros NQ estão sendo negociados em 26123.50 (-0.58%). O fluxo acumulado (CVD) é de -212, o que indica um teste de oferta na sessão atual.</li>
+<li><strong>Análise de níveis e correção:</strong> O Índice NDX está em uma fase de Recuo desde o pico do Heniu do dia 11.11 (28593.00), que atualmente é de -8.29% (-2371 pts). Esta é uma correção mais profunda do que 78% dos casos históricos na base de dados. O nó de suporte mais próximo está na zona de 26190–26210, enquanto a resistência está localizada no intervalo de 26890–26910.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador de direção de fluxos agregado é 5, o que significa uma tendência neutra com uma leve vantagem de entrada de capital.</li>
+<li><strong>Mercado de opções QQQ:</strong> A volatilidade implícita (IV) é de 32.12%, com volume de opções em 8,470,509. O Put/Call Ratio é de 1.15, o que sugere uma leve vantagem de posições de proteção (hedging) ou a expectativa de maior pressão de baixa. O alcance esperado do movimento situa-se no intervalo de 624.87 a 651.33 pontos.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-25 02:07</p>
 <h3>📈 [2026-11-25 01:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
