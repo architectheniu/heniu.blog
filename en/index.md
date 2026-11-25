@@ -6,9 +6,9 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
+- [H1: 2026-11-25](https://heniu.blog/en/h-log/hlog-2026-11-25/index.md) (2026-11-25)
 - [M15: 2026-11-25](https://heniu.blog/en/t-log/tlog-2026-11-25/index.md) (2026-11-25)
 - [Fundamentals #0096: Company filings: QUALCOMM, Alphabet; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-25-0096/index.md) (2026-11-25)
-- [H1: 2026-11-25](https://heniu.blog/en/h-log/hlog-2026-11-25/index.md) (2026-11-25)
 - [Fundamentals #0095: Analog Devices: 4Q2026 results](https://heniu.blog/en/f-log/flog-2026-11-25-0095/index.md) (2026-11-25)
 - [H1: 2026-11-24](https://heniu.blog/en/h-log/hlog-2026-11-24/index.md) (2026-11-24)
 - [M15: 2026-11-24](https://heniu.blog/en/t-log/tlog-2026-11-24/index.md) (2026-11-24)
