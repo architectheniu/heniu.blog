@@ -1,6 +1,6 @@
 # H1: 2026-11-25
 
-Date: 2026-11-25 16:08
+Date: 2026-11-25 17:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-25/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.25 [EN]</h1>
+<h3>📈 [2026-11-25 17:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Current market situation analysis:</strong> The market is in a strong distribution phase. The NDX index fell by 4.32% to the level of 25081.95, and NQ futures contracts recorded a drop of 4.34% (25136.50). Cumulative flow (CVD) for NQ contracts is -83,73 K, indicating selling panic, and for the QQQ ETF it is -3,77 M, confirming the collapse of the cash market. The flow direction gauge is -10, meaning a dominance of capital outflow.</li>
+<li><strong>Broad market and sentiment:</strong> The TICKQ indicator is -37.00, which, with an SMA200 average at the level of -195.37, indicates sustained supply pressure, although extreme deviation values have not yet been reached.</li>
+<li><strong>Options market analysis:</strong> Implied volatility (IV) increased to 38.72%, which, with an options volume at the level of 3,523,632, testifies to growing uncertainty. The Put/Call Ratio at the level of 1.32 suggests hedging and a dominance of short positions. The expected range of movement for QQQ is in the range of 601.83 to 629.73.</li>
+<li><strong>Correction context and technical levels:</strong> The current drawdown from the peak of 11.11 (28593.00) is -12.28% (-3511 pts), making it deeper than all 9 previous corrections recorded in memory (the largest was -11.96%). It is classified as a large swing. The nearest significant resistance (volume node) is located in the 26190–26210 zone, which currently represents a distance of 4.42% above the current price.</li>
+</ul>
+<p>H-Log Report: 2026-11-25 17:07</p>
 <h3>📈 [2026-11-25 16:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>

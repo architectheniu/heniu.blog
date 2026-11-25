@@ -1,6 +1,6 @@
 # H1: 2026-11-25
 
-Data: 2026-11-25 16:08
+Data: 2026-11-25 17:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-25/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.25 [PT-BR]</h1>
+<h3>📈 [2026-11-25 17:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Análise da situação atual do mercado:</strong> O mercado encontra-se em uma forte fase de distribuição. O Índice Nasdaq-100 (NDX) caiu 4.32% para o nível 25081.95, e os contratos NQ registraram uma queda de 4.34% (25136.50). O fluxo acumulado (CVD) para os contratos NQ é de -83,73 K, o que indica pânico de venda, e para o ETF QQQ é de -3,77 M, o que confirma o colapso do mercado à vista. O indicador de direção de fluxos é de -10, o que significa a predominância do outflow de capital.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> A Amplitude de mercado (TICKQ) é de -37.00, o que, com a média SMA200 no nível de -195.37, indica uma pressão de oferta contínua, embora valores extremos de desvio ainda não tenham sido alcançados.</li>
+<li><strong>Análise do mercado de opções:</strong> A volatilidade implícita (IV) subiu para 38.72%, o que, com um volume de opções no nível de 3,523,632, demonstra uma incerteza crescente. O Put/Call Ratio no nível de 1.32 sugere a construção de hedge e a predominância de posições vendidas. O alcance esperado de movimento para o QQQ está na faixa de 601.83 a 629.73.</li>
+<li><strong>Contexto de correção e níveis técnicos:</strong> O Recuo desde o pico do Heniu do dia 11.11 (28593.00) é de -12.28% (-3511 pts), o que o torna mais profundo do que todas as 9 correções anteriores registradas na memória (a maior foi de -11.96%). É classificado como um grande swing. A resistência mais próxima importante (nó de volume) encontra-se na zona de 26190–26210, o que atualmente representa uma distância de 4.42% acima do preço atual.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-25 17:07</p>
 <h3>📈 [2026-11-25 16:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
