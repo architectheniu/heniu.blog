@@ -1,6 +1,6 @@
 # H1: 2026-11-25
 
-Data: 2026-11-25 05:08
+Data: 2026-11-25 06:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-25/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.25 [PT-BR]</h1>
+<h3>📈 [2026-11-25 06:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong>. a sessão à vista (Spot) está atualmente fechada.</p>
+<ul>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos futuros estão sendo negociados no nível 25947.25 (-1.25%). O fluxo acumulado (CVD) é de -1,92K, o que indica um teste de oferta no comércio atual fora do horário regular.</li>
+<li><strong>Análise de sentimento e opções:</strong> O indicador de direção de fluxo agregado é 5, o que, em uma escala de -100 a +100, significa uma postura neutra com uma leve vantagem de entrada de capital. O mercado de opções QQQ com volume de 8,470,509 indica a dominância de posições de queda (Put/Call Ratio = 1.15), o que sugere a construção de proteções (hedging) contra maior volatilidade. A volatilidade implícita (IV) é de 32.12%, e o alcance esperado de movimento está na faixa de 624.87 a 651.33 pontos.</li>
+<li><strong>Contexto de correção e níveis técnicos:</strong> A correção em curso desde o pico do dia 11.11 (28593.00) é atualmente de -8.29% (-2371 pts). Este é um movimento de natureza de correção maior, mais profundo do que 78% dos desvios históricos no banco de dados.</li>
+<li><strong>Níveis cruciais:</strong> A zona de suporte mais próxima encontra-se no nó de volume entre 26190 e 26210 (0.6% de volume). A zona de resistência mais próxima é o intervalo 26890–26910 (0.7% de volume), afastada do preço atual em 2.55%.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-25 06:07</p>
 <h3>📈 [2026-11-25 05:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
