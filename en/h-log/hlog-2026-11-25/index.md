@@ -1,6 +1,6 @@
 # H1: 2026-11-25
 
-Date: 2026-11-25 19:08
+Date: 2026-11-25 20:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-25/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.25 [EN]</h1>
+<h3>📈 [2026-11-25 20:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Market situation and flows:</strong> The NDX index is in a downtrend, showing a correction of -8.99% (-2569 pts) from the peak on 11.11.2026. The direction gauge is -7, indicating capital distribution dominance. On the NQ contracts, a sell-off was recorded (CVD: -13.37 K), while on the QQQ ETF cash market, a demand test is visible (CVD: 969.77 K). Market breadth (TICKQ) oscillates around 508.00, which, with the SMA200 average at -164.06, indicates a reversal of sentiment towards the positive.</li>
+<li><strong>Options analysis:</strong> The QQQ options market with a volume of 8,113,851 indicates an increase in volatility expectations (IV: 34.91%). The Put/Call Ratio at 1.18 suggests a prevalence of hedging positions or building long positions for downside. The market-expected range of movement for QQQ is between 611.18 and 638.80.</li>
+<li><strong>Technical levels:</strong> The current NDX price (26023.65) is below the nearest high-volume zone (resistance in the 26190–26210 range). The current correction is deeper than 78% of historical corrections recorded in the analyzed period.</li>
+</ul>
+<p>H-Log Report: 2026-11-25 20:07</p>
 <h3>📈 [2026-11-25 19:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
