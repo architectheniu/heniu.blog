@@ -1,6 +1,6 @@
 # H1: 2026-11-25
 
-Data: 2026-11-25 17:08
+Data: 2026-11-25 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-25/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.25 [PT-BR]</h1>
+<h3>📈 [2026-11-25 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação do mercado:</strong> O Índice NDX registra um forte sell-off, caindo 3,15% para o nível de 25387,35 pts. O Recuo desde o pico do Heniu de 11.11 (28593,00) é de 11,21% (-3206 pts), o que classifica este movimento como um grande swing e o torna mais profundo do que 89% das correções anteriores.</li>
+<li><strong>Fluxos de capital:</strong> No mercado de contratos NQ, registrou-se um colapso do mercado com CVD no nível de -54,74 K, e o ETF QQQ mostra um forte sell-off (CVD -1,57 M). O indicador de direção agregado dos fluxos é de -2, o que confirma a predominância da distribuição de capital. A Amplitude de mercado (TICKQ) está no nível de 977,00, o que, com uma média SMA200 de -185,84, indica uma forte pressão de oferta.</li>
+<li><strong>Mercado de opções:</strong> O aumento da volatilidade implícita (IV) para 39,17% e o Put/Call Volume Ratio no nível de 1,31 sugerem a construção de posições de hedge para o caso de novas quedas. O alcance esperado do movimento do instrumento QQQ é de 597,13 a 624,37 pts.</li>
+<li><strong>Níveis técnicos:</strong> A zona de resistência mais próxima (nó de volume) está no intervalo 26190–26210, o que representa atualmente um nível 3,16% acima do preço atual.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-25 18:07</p>
 <h3>📈 [2026-11-25 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
