@@ -6,8 +6,8 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 ## Najnowsze wpisy
 
-- [H1: 2026-11-25](https://heniu.blog/h-log/hlog-2026-11-25/index.md) (2026-11-25)
 - [M15: 2026-11-25](https://heniu.blog/t-log/tlog-2026-11-25/index.md) (2026-11-25)
+- [H1: 2026-11-25](https://heniu.blog/h-log/hlog-2026-11-25/index.md) (2026-11-25)
 - [Fundamenty #0098: Workday: wyniki za 3Q2027](https://heniu.blog/f-log/flog-2026-11-25-0098/index.md) (2026-11-25)
 - [Fundamenty #0097: Autodesk: wyniki za 3Q2027](https://heniu.blog/f-log/flog-2026-11-25-0097/index.md) (2026-11-25)
 - [Fundamenty #0096: Zgłoszenia spółek: QUALCOMM, Alphabet; transakcje insiderów](https://heniu.blog/f-log/flog-2026-11-25-0096/index.md) (2026-11-25)
