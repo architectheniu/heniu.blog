@@ -1,6 +1,6 @@
 # H1: 2026-11-25
 
-Date: 2026-11-25 03:07
+Date: 2026-11-25 04:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-25/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.25 [EN]</h1>
+<h3>📈 [2026-11-25 04:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>The futures session</strong>. The cash session (Spot) is currently closed.</p>
+<ul>
+<li><strong>NQ contract situation:</strong> Futures contracts are trading at 25961.75 (-1.19%). Cumulative flow (CVD) is -4,33K, indicating a supply test in the current after-hours trading.</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 32.12%, with options volume at 8,470,509. The Put/Call Ratio is at 1.15, suggesting a dominance of hedging positions or anticipation of further downward pressure. The expected range of movement for the instrument is the interval from 624.87 to 651.33 pts.</li>
+<li><strong>Sentiment and flows:</strong> The aggregate direction gauge is 5, meaning a neutral trend with a slight predominance of capital inflow on a broad market scale.</li>
+<li><strong>Technical context:</strong> A correction from the peak of 11.11 (28593.00) is ongoing, which currently amounts to -8.29% (-2371 pts). This is a correction larger than 78% of historical corrective moves in the analyzed period.</li>
+<li><strong>Support and resistance levels:</strong> The nearest support zone (volume node) is in the 26190–26210 range (0.6% volume). The resistance zone is located above, in the 26890–26910 range (0.7% volume).</li>
+</ul>
+<p>H-Log Report: 2026-11-25 04:07</p>
 <h3>📈 [2026-11-25 03:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>

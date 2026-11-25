@@ -1,6 +1,6 @@
 # H1: 2026-11-25
 
-Data: 2026-11-25 03:08
+Data: 2026-11-25 04:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-25/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.25 [PT-BR]</h1>
+<h3>📈 [2026-11-25 04:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong>. a sessão à vista (Spot) está atualmente fechada.</p>
+<ul>
+<li><strong>Situação nos contratos NQ:</strong> Os contratos futuros estão sendo negociados ao preço de 25961.75 (-1.19%). O fluxo acumulado (CVD) é de -4,33K, o que indica um teste de oferta no atual after-hours.</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 32.12%, com um volume de opções em 8,470,509. O Put/Call Ratio posicionou-se em 1.15, o que sugere uma predominância de posições de hedge ou a expectativa de maior pressão vendedora. O alcance de movimento esperado para o instrumento é o intervalo de 624.87 a 651.33 pts.</li>
+<li><strong>Sentimento e fluxos:</strong> O indicador de direção de fluxo agregado é 5, o que significa uma tendência neutra com uma leve predominância de entrada de capital em escala de mercado amplo.</li>
+<li><strong>Contexto técnico:</strong> Está ocorrendo um recuo desde o pico do dia 11.11 (28593.00), que atualmente é de -8.29% (-2371 pts). Este é um recuo de natureza maior que 78% dos movimentos de correção históricos no período analisado.</li>
+<li><strong>Níveis de suporte e resistência:</strong> A zona de suporte mais próxima (nó de volume) encontra-se no intervalo 26190–26210 (0.6% de volume). A zona de resistência encontra-se acima, no intervalo 26890–26910 (0.7% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-25 04:07</p>
 <h3>📈 [2026-11-25 03:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
