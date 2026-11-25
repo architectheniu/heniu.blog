@@ -1,6 +1,6 @@
 # H1: 2026-11-25
 
-Date: 2026-11-25 18:08
+Date: 2026-11-25 19:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-25/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.25 [EN]</h1>
+<h3>📈 [2026-11-25 19:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price dynamics and flows:</strong> The market is in a strong distribution phase. The NDX index is down 2.01% (25687.58), and NQ futures contracts are recording a drop of 2.02% (25742.50). Cumulative flow (CVD) for NQ contracts is -37,72K, and for the QQQ ETF it is -455,45K, confirming active sell-off in the cash and futures markets. The aggregate direction gauge of flows is -12, indicating a dominance of capital outflow.</li>
+<li><strong>Broad market and sentiment:</strong> The TICKQ indicator is 379.00, which, with an SMA200 average at -178.89, indicates current supply pressure despite the deviation from the average.</li>
+<li><strong>QQQ options analysis:</strong> The hedging market is active with a volume of 6,788,091 contracts. The Put/Call Volume Ratio at 1.24 indicates a dominance of short positions, suggesting hedging against further declines. Implied volatility (IV) is 35.98%, and the expected range of movement within the session is between 595.49 and 626.05 points.</li>
+<li><strong>Correction context:</strong> The current drawdown from the peak on 11.11 (28593.00) is 10.16% (-2905 pts). It is deeper than 78% of historical corrections recorded in the database. The largest recorded correction in this cycle was -11.96%.</li>
+<li><strong>Technical levels:</strong> The nearest resistance zone (volume node) is located in the 26190–26210 range, which is a level 1.96% above the current price.</li>
+</ul>
+<p>H-Log Report: 2026-11-25 19:07</p>
 <h3>📈 [2026-11-25 18:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
