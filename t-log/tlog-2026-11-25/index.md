@@ -1,6 +1,6 @@
 # M15: 2026-11-25
 
-Data: 2026-11-25 15:29
+Data: 2026-11-25 15:44
 Adres: https://heniu.blog/t-log/tlog-2026-11-25/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>T-LOG 2026.11.25</h1>
+<h3>⏱️ [2026-11-25 15:44] · Sesja kasowa</h3>
+<ul>
+<li><strong>Rynek:</strong> NDX <strong>25002.37</strong> (-4.58%) · NQ <strong>25077.75</strong> (-4.55%; od poprzedniego wpisu -347.00 pkt) · QQQ <strong>608.93 USD</strong> (-4.57%)</li>
+<li><strong>Przepływy i szerokość rynku:</strong> CVD NDX brak danych · CVD NQ <strong>-65.29 K</strong> [panika] (od poprzedniego wpisu -46.92 K) · CVD QQQ <strong>-3.7 M</strong> [załamanie rynku] · TICKQ <strong>-580</strong> [załamanie rynku] · średnia SMA200 <strong>-194.51</strong> [ekstremalnie ujemna szerokość] · wskaźnik kierunku <strong>-10</strong> (skala ±100; -5)</li>
+<li><strong>Koszyk i opcje:</strong> łączna kapitalizacja <strong>37.23 bln USD</strong> · udział spółek powyżej 1 bln USD <strong>69.3%</strong> · średnia cena akcji <strong>253.46 USD</strong> · opcje QQQ: zmienność implikowana <strong>36.50%</strong>, put/call <strong>0.95</strong></li>
+<li><strong>Strefy wolumenu z profili sesji:</strong> najbliższa powyżej ceny <strong>26190–26210</strong> (4.75% wyżej)</li>
+</ul>
+<p>Cena kontraktu NQ spadła, a przepływ CVD NQ uległ pogłębieniu względem poprzedniego wpisu. Seria nagłych przepływów w dół, odnotowanych w godzinach popołudniowych, zbiegła się z dalszym spadkiem wartości kontraktu. Najbliższy opór znajduje się powyżej aktualnego poziomu cenowego.</p>
+<p><strong>Alarmy przepływu od poprzedniego Logu:</strong> 15:30 nagły przepływ NQ w dół; zapłon przepływu NQ; 15:36 nagły przepływ NQ w dół; zapłon przepływu NQ; 15:41 nagły przepływ NQ w dół; zapłon przepływu NQ.</p>
 <h3>⏱️ [2026-11-25 15:29] · Kontrakty terminowe (rynek kasowy zamknięty)</h3>
 <ul>
 <li><strong>Kontrakt NQ:</strong> <strong>25424.75</strong> (-3.23%; od poprzedniego wpisu -5.75 pkt, -0.02%) · wykorzystanie średniego zasięgu dnia (ADR) <strong>84.38%</strong></li>
