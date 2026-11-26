@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Data: 2026-11-26 05:07
+Data: 2026-11-26 06:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.26</h1>
+<h3>📈 [2026-11-26 06:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty; w USA obowiązuje dzień wolny od handlu. Analiza oparta na kontraktach NQ oraz danych z zamknięcia sesji regularnej.</li>
+<li>Kontrakty NQ wykazują wzrost o +1.17% (cena 26406.75) przy dodatnim przepływie CVD na poziomie 4,09K, co wskazuje na lokalną presję popytową w handlu poza sesją. Jednocześnie indeks NDX (26042.08) oraz ETF QQQ (633.95) odnotowują spadki odpowiednio o -0.64% i -0.65%.</li>
+<li>Zbiorczy wskaźnik kierunku przepływów wynosi 15, co przy skali od -100 do +100 oznacza niemal neutralny sentyment z lekką przewagą napływu kapitału.</li>
+<li>Dane opcyjne QQQ: zmienność implikowana (IV) wynosi 34.16%, a wskaźnik Put/Call Ratio na poziomie 1.16 sugeruje zwiększoną aktywność w sektorze zabezpieczeń (hedgingu) lub oczekiwanie na większą presję podażową. Oczekiwany zasięg ruchu instrumentu mieści się w przedziale 622.68 do 645.18 punktów.</li>
+<li>Bieżąca korekta indeksu NDX od szczytu z 11.11 (28593.00) wynosi -8.92% (-2551 pkt). Jest to korekta o charakterze większym niż 78% dotychczasowych ruchów korygujących w analizowanym okresie.</li>
+<li>Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26190–26210.</li>
+</ul>
+<p>Raport H-Log: 2026-11-26 06:07</p>
 <h3>📈 [2026-11-26 05:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
