@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Data: 2026-11-26 03:08
+Data: 2026-11-26 04:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.26 [PT-BR]</h1>
+<h3>📈 [2026-11-26 04:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li>A sessão à vista (Spot) está atualmente fechada. Análise baseada na negociação ativa de contratos futuros NQ e dados do fechamento da sessão regular.</li>
+<li>Os contratos NQ mostram força relativa em relação ao índice NDX, registrando uma alta de +0.84% (preço 26319.25) com fluxo acumulado (CVD) positivo no nível de 2,72 K. Isso contrasta com o fechamento do índice NDX no nível 26042.08 (-0.64%) e do ETF QQQ no nível 633.95 (-0.65%) com CVD negativo de -869,93 K.</li>
+<li>O indicador de direção de fluxo é 15, o que indica uma leve vantagem na entrada de capital. O mercado está em uma fase de correção maior, que desde o pico de 11.11 (28593.00) foi de -8.92% (-2551 pts), o que é um resultado mais profundo do que 78% das correções históricas no período analisado.</li>
+<li>Os dados do mercado de opções QQQ (volume 11,357,553) indicam um aumento nas expectativas de volatilidade (IV 34.16%) e uma vantagem de posições vendidas (Put/Call Ratio 1.16), o que sugere a construção de proteção (hedging) contra novas quedas. O alcance esperado do movimento é de 622.68 a 645.18 pontos.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-26 04:07</p>
 <h3>📈 [2026-11-26 03:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
