@@ -7,6 +7,25 @@ Sections: M15 (formerly T-Log, /t-log/), H1 (formerly H-Log, /h-log/), Fundament
 
 ---
 
+## Fundamentals #0099: Company filings: Mondelez International, NXP Semiconductors, Axon Enterprise; insider transactions
+
+Date: 2026-11-26 10:10
+URL: https://heniu.blog/en/f-log/flog-2026-11-26-0099/
+
+
+Mondelez International (MDLZ): 8-K: 5.02 changes in management/board (Document: 8-K 5.02; Filing date (USA time): 25.11; 8-K 5.02 content (change in management or board): position: Chief Financial Officer (CFO); type of change: removal; date: 1.07.2026; persons: Amit Banati; successor: not specified; quote (EN): „Amendment to Chief Financial Officer Make Whole Award As previously reported in the Current Report on Form 8-K filed by Mondelēz International, Inc. (the “Company”) with the Securities and Exchange Commission on June 18, 2026, in connection with the appointment of Amit Banati as Executive Vice President and Chief…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1103982/000162828026075952/0001628280-26-075952-index.htm).
+
+NXP Semiconductors (NXPI) filed a report regarding the execution of a Material Definitive Agreement and a financial commitment.
+
+Axon Enterprise (AXON): 8-K: 5.02 changes in management/board (Document: 8-K 5.02; Filing date (USA time): 25.11; 8-K 5.02 content (change in management or board): position: member of the board of directors; type of change: departure (resignation); date: 19.11.2026; persons: Caitlin E. Kalinowski; successor: not specified; quote (EN): „On November 19, 2026, Caitlin E. Kalinowski notified the Board of Directors (the "Board") of Axon Enterprise, Inc. (the "Company") of her resignation as a director of the Company, effective immediately as of November 19, 2026.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1069183/000162828026075976/0001628280-26-075976-index.htm).
+
+Insiders sold shares for 17.1 million USD on 25.11, including 10.5 million USD from 10b5-1 plans; market purchases were 0. The largest sale was reported by insiders of Roper Technologies (ROP): 4.8 million USD.
+
+NXP Semiconductors (NXPI): 8-K: 1.01 material agreement, 2.03 financial commitment (Document: 8-K 1.01,2.03,9.01; Filing date (USA time): 25.11; 8-K 1.01 content (execution of a material agreement): agreement: Material Definitive Agreement; quote (EN): „On November 24, 2026, NXP B.V., NXP Funding LLC, NXP USA, Inc. (the “ Issuers ”) and NXP Semiconductors N.V. (the “ Company ”) completed an underwritten public offering of €500,000,000 aggregate principal amount of 4.625% Senior Notes due 2034 (the “ 2034 Notes ”) and €500,000,000 aggregate principal amount of 4.875%…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1413447/000119312526478623/0001193125-26-478623-index.htm).
+
+
+---
+
 ## Log #0238: Session summary 2026-11-25: NDX 26046.04 (-0.64%)
 
 Date: 2026-11-25 22:04
@@ -1291,35 +1310,5 @@ The company forecasts revenue in the second quarter of fiscal year 2027 at 18.00
 ### Management commentary
 
 Management emphasized that the company is at the beginning of a large networking investment cycle driven by AI deployments. According to management, earnings are growing faster than revenue, indicating strong operating leverage. Management emphasized that hyperscalers are already deploying network architectures that connect multiple data centers for AI workloads. According to management, enterprise customers are investing in their own data centers as well as in running AI applications in the cloud. Management emphasized that the company does business with neocloud-type companies, while remaining cautious regarding their credit risk. According to management, component supply is stable, and the company expects to achieve its raised annual guidance.
-
-
----
-
-## Fundamentals #0080: Company filings: NVIDIA, Marvell Technology, Meta Platforms and others; insider transactions
-
-Date: 2026-11-13 10:10
-URL: https://heniu.blog/en/f-log/flog-2026-11-13-0080/
-
-
-> ⚠️ **ERRATUM (2026-11-16)**  
-> **The NVIDIA (NVDA) line named the wrong person in the resignation.**
->
-> **Correction:**
-> - Jen-Hsun Huang resigned as President, Chief Executive Officer and member of the Board (not Harvey C. Jones).
-> - Harvey C. Jones was appointed Chair of the Board and Colette M. Kress interim Chief Executive Officer; she also remains Chief Financial Officer.
->
-> We corrected this line based on the 8-K of 12.11; the other lines stay the same.
-
-NVIDIA (NVDA): 8-K: 5.02 changes in management/board (Document: 8-K 5.02,9.01; Filing Date (USA time): 12.11; 8-K 5.02 Content (change in management or board): position: President, Chief Executive Officer (CEO) and member of the Board of Directors; type of change: departure (resignation, effective immediately); date: 11.11.2026; persons: Jen-Hsun Huang (resignation); Colette M. Kress (Executive Vice President and Chief Financial Officer) appointed interim Chief Executive Officer (interim CEO), remains Chief Financial Officer; Harvey C. Jones appointed Chair of the Board, on the Board since 1993; successor: Colette M. Kress on an interim basis, the Board is searching for a new CEO; quote (EN): „On November 11, 2026, the Board of Directors, or the Board, of NVIDIA Corporation accepted the resignation of Jen-Hsun Huang, as NVIDIA’s President, Chief Executive Officer and member of the Board, effective immediately.”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm).
-
-Marvell Technology (MRVL): 8-K: 5.02 changes in management/board (Document: 8-K 5.02,9.01; Filing Date (USA time): 12.11; 8-K 5.02 Content (change in management or board): position: member of the board of directors; type of change: appointment; date: 12.11.2026; successor: not applicable (appointment); quote (EN): „On November 11, 2026 the Board of Directors (the "Board") of Marvell Technology, Inc. (the "Company") approved an increase in the size of the Board from seven (7) to ten (10) members and the appointments of Donna C. Morris, Douglas R. Bettinger and Sasan K. Goodarzi to the Board, in each case effective November 12,…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026-index.htm).
-
-Meta Platforms (META) filed a report on other events.
-
-Amazon.com (AMZN) filed a report on a shareholder owning at least 5% stake.
-
-Insiders on 12.11 sold shares for 31.0 million USD, including 21.7 million USD from 10b5-1 plans; market purchases amounted to 0.5 million USD. The largest sale was reported by KLA (KLAC) insiders: 10.7 million USD.
-
-Meta Platforms (META): 8-K: 8.01 other events (Document: 8-K 8.01,9.01; Filing Date (USA time): 12.11; 8-K 8.01 Content (other event): quote (EN): „On November 12, 2026, Meta Platforms, Inc. (the “Company”) completed an offering of €1,750,000,000 aggregate principal amount of its 4.300% Senior Notes due 2031 (the “2031 Notes”), €1,250,000,000 aggregate principal amount of its 4.650% Senior Notes due 2033 (the “2033 Notes”), €1,000,000,000 aggregate principal…”; Source (SEC): https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/0001193125-26-458525-index.htm).
 
 
