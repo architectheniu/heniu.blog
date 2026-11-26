@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Date: 2026-11-26 07:07
+Date: 2026-11-26 08:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.26 [EN]</h1>
+<h3>📈 [2026-11-26 08:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed; no TICKQ readings. Analysis is based on NQ contracts and data from the regular session close.</li>
+<li>NQ contracts show an increase of +0.42% at a price of 26209.75 and positive CVD flow at a level of 3,08 K, indicating local demand pressure in futures trading. The NDX index at the close of the cash session recorded a decrease of -0.64% (price 26042.08).</li>
+<li>The aggregate flow direction gauge is 15, which means a weak advantage of capital inflow. In the QQQ options sector, increased hedging activity is visible: the Put/Call Volume Ratio is 1.16, which with a volume of 11,357,553 indicates the dominance of Put positions. Implied volatility (IV) is 34.16%, and the expected range of movement is between 622.68 and 645.18 points.</li>
+<li>A larger correction from the peak of 11.11 (28593.00) is ongoing, which currently stands at -8.92% (-2551 pts). It is deeper than 78% of historical corrections in the analyzed period.</li>
+<li>The nearest significant resistance is located in the volume zone at the 26190–26210 area. The NQ contract price is currently in the direct vicinity of this level.</li>
+</ul>
+<p>H-Log Report: 2026-11-26 08:07</p>
 <h3>📈 [2026-11-26 07:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
