@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-11-27](https://heniu.blog/pt-br/h-log/hlog-2026-11-27/index.md) (2026-11-27)
 - [H1: 2026-11-26](https://heniu.blog/pt-br/h-log/hlog-2026-11-26/index.md) (2026-11-26)
 - [M15: 2026-11-26](https://heniu.blog/pt-br/t-log/tlog-2026-11-26/index.md) (2026-11-26)
 - [Fundamentos #0099: Notificações de empresas: Mondelez International, NXP Semiconductors, Axon Enterprise; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-26-0099/index.md) (2026-11-26)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [Log #0228: Resumo da sessão 2026-11-13: NDX 27943.35 (-1.22%)](https://heniu.blog/pt-br/posts/log-0228/index.md) (2026-11-13)
 - [Fundamentos #0081: Cisco Systems: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-11-13-0081/index.md) (2026-11-13)
 - [Fundamentos #0080: Relatórios de empresas: NVIDIA, Marvell Technology, Meta Platforms e outras; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-13-0080/index.md) (2026-11-13)
-- [H1: 2026-11-12](https://heniu.blog/pt-br/h-log/hlog-2026-11-12/index.md) (2026-11-12)
 
