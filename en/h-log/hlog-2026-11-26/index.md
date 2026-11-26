@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Date: 2026-11-26 04:07
+Date: 2026-11-26 05:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.26 [EN]</h1>
+<h3>📈 [2026-11-26 05:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts, priced at 26375.25 (+1.06%), with a positive cumulative flow (CVD) at 3.44 K.</li>
+<li>The direction gauge is 15, indicating a weak advantage in capital inflow.</li>
+<li>Data from the QQQ options market (volume: 11 357 553) indicates a Put/Call Ratio of 1.16, suggesting increased activity in hedging or expectations of further supply pressure. Implied volatility (IV) is 34.16%, and the expected move range is between 622.68 and 645.18 points.</li>
+<li>A correction from the peak on 11.11 (28593.00) is ongoing, which currently amounts to -8.92% (-2551 pts). Statistically, this is a deeper correction than 78% of previous reversal moves in the analyzed period.</li>
+<li>The nearest significant resistance (volume node) is located in the 26190–26210 zone.</li>
+</ul>
+<p>H-Log Report: 2026-11-26 05:07</p>
 <h3>📈 [2026-11-26 04:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
