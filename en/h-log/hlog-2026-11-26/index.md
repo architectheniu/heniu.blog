@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Date: 2026-11-26 02:08
+Date: 2026-11-26 03:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.26 [EN]</h1>
+<h3>📈 [2026-11-26 03:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>The cash session (Spot) is currently closed. Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li>NQ contracts are trading at 26263.50 (+0.61%), with a cumulative flow (CVD) of 1.71 K, indicating a demand test in the after-hours session.</li>
+<li>The Nasdaq-100 index (NDX) closed the cash session at 26042.08 (-0.64%), which represents a Drawdown from Heniu's peak on 11.11 (28593.00) of -8.92% (-2551 pts). This is a correction larger than 78% of historical moves, approaching extreme values. The nearest resistance (volume node) is located in the 26190–26210 zone.</li>
+<li>The aggregate direction gauge is 15, indicating a very weak market sentiment close to zero, with a slight predominance of capital inflow.</li>
+<li>Data from the QQQ ETF options market (volume 11,357,553; IV 34.16%) with a Put/Call Ratio at 1.16 suggests the building of hedging positions and the dominance of put options, confirming a negative mood after the session close. The expected range of movement in the near future is the interval of 622.68 to 645.18 points.</li>
+</ul>
+<p>H-Log Report: 2026-11-26 03:07</p>
 <h3>📈 [2026-11-26 02:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
