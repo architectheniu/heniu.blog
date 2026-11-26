@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Data: 2026-11-26 04:07
+Data: 2026-11-26 05:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.26</h1>
+<h3>📈 [2026-11-26 05:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li>Rynek kasowy (Spot) jest obecnie zamknięty. Analiza opiera się na aktywnym handlu kontraktami terminowymi NQ, których cena wynosi 26375.25 (+1.06%), przy dodatnim przepływie skumulowanym (CVD) na poziomie 3,44 K.</li>
+<li>Wskaźnik kierunku przepływów wynosi 15, co wskazuje na słabą przewagę napływu kapitału.</li>
+<li>Dane z rynku opcji QQQ (wolumen: 11 357 553) wskazują na Put/Call Ratio na poziomie 1.16, co sugeruje zwiększoną aktywność w zakresie zabezpieczeń (hedgingu) lub oczekiwania na dalszą presję podażową. Zmienność implikowana (IV) wynosi 34.16%, a oczekiwany zasięg ruchu to przedział 622.68 do 645.18 punktów.</li>
+<li>Trwa korekta od szczytu z dnia 11.11 (28593.00), która wyniosła obecnie -8.92% (-2551 pkt). Statystycznie jest to korekta głębsza niż 78% poprzednich ruchów odwrócenia w analizowanym okresie.</li>
+<li>Najbliższy istotny opór (węzeł wolumenu) znajduje się w strefie 26190–26210.</li>
+</ul>
+<p>Raport H-Log: 2026-11-26 05:07</p>
 <h3>📈 [2026-11-26 04:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
