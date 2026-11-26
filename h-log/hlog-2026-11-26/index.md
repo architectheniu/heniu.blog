@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Data: 2026-11-26 14:07
+Data: 2026-11-26 15:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-26/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.26</h1>
+<h3>📈 [2026-11-26 15:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Stan rynku i kontrakty NQ:</strong> Rynek kasowy (Spot) jest obecnie zamknięty ze względu na święto w USA. Aktywny handel odbywa się wyłącznie na kontraktach terminowych NQ, których cena wynosi 26279.00 (+0.68%). Skumulowany przepływ (CVD) dla kontraktów NQ wynosi 7,57K, co wskazuje na testowanie popytu w bieżącym handlu poza sesją.</li>
+<li><strong>Analiza sentymentu i przepływów:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 15, co oznacza słabą przewagę napływu kapitału. Występuje rozbieżność między kontraktami NQ a ETF QQQ (cena 633.95, spadek -0.65%), gdzie w QQQ odnotowano silną dystrybucję (CVD: -869,93K).</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 34.16%, a wskaźnik Put/Call Volume Ratio kształtuje się na poziomie 1.16, co sugeruje zwiększoną aktywność w zabezpieczeniach krótkich pozycji (hedging). Przy wolumenie opcji 11,357,553, oczekiwany zasięg ruchu mieści się w przedziale od 622.68 do 645.18 punktów.</li>
+<li><strong>Kontekst techniczny i korekta:</strong> Indeks NDX znajduje się w fazie korekty od szczytu z dnia 11.11 (28593.00), która wynosi obecnie -8.92% (-2551 pkt). Jest to korekta o charakterze większym niż 78% historycznych ruchów korygujących. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26190–26210.</li>
+</ul>
+<p>Raport H-Log: 2026-11-26 15:07</p>
 <h3>📈 [2026-11-26 14:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
