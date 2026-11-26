@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Date: 2026-11-26 09:08
+Date: 2026-11-26 10:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.26 [EN]</h1>
+<h3>📈 [2026-11-26 10:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li>NQ contracts show an increase of +0.62% (price 26263.00) with a positive cumulative flow (CVD) at 4,43 K, indicating local buyer activity in futures trading.</li>
+<li>The aggregate flow direction gauge is 15, which on a scale from -100 to +100 signifies a weak capital inflow advantage.</li>
+<li>The QQQ options market with a volume of 11,357,553 and a Put/Call Ratio of 1.16 indicates a dominance of hedging positions or anticipation of further downward pressure. Implied volatility (IV) at 34.16% and the expected range of movement between 622.68 and 645.18 suggest higher uncertainty regarding market direction.</li>
+<li>The current drawdown of the NDX index from the peak on 11.11 (28593.00) is -8.92% (-2551 pts), classifying this move as a larger-scale correction (deeper than 78% of historical corrections in the studied period).</li>
+<li>The nearest significant resistance is located in the volume zone 26190–26210.</li>
+</ul>
+<p>H-Log Report: 2026-11-26 10:07</p>
 <h3>📈 [2026-11-26 09:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
