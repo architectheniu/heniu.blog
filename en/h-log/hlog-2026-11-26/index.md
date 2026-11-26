@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Date: 2026-11-26 14:08
+Date: 2026-11-26 15:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-26/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.26 [EN]</h1>
+<h3>📈 [2026-11-26 15:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status and NQ contracts:</strong> the cash session (Spot) is currently closed due to a US holiday. Active trading is occurring exclusively on NQ futures contracts, priced at 26279.00 (+0.68%). Cumulative flow (CVD) for NQ contracts is 7.57K, indicating a demand test in the current after-hours trading.</li>
+<li><strong>Sentiment and flow analysis:</strong> The aggregate direction gauge is 15, signifying weak capital inflow advantage. A divergence exists between NQ contracts and the QQQ ETF (price 633.95, down -0.65%), where strong distribution was recorded in QQQ (CVD: -869.93K).</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 34.16%, and the Put/Call Volume Ratio stands at 1.16, suggesting increased activity in short position hedging. With an options volume of 11,357,553, the expected price range lies between 622.68 and 645.18 points.</li>
+<li><strong>Technical context and correction:</strong> The NDX index is in a correction phase from the peak on 11.11 (28593.00), which currently stands at -8.92% (-2551 pts). This is a correction larger than 78% of historical corrective moves. The nearest resistance zone (volume node) is located in the 26190–26210 range.</li>
+</ul>
+<p>H-Log Report: 2026-11-26 15:07</p>
 <h3>📈 [2026-11-26 14:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>

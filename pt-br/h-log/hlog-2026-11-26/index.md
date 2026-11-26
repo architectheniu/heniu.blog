@@ -1,6 +1,6 @@
 # H1: 2026-11-26
 
-Data: 2026-11-26 14:08
+Data: 2026-11-26 15:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-26/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.26 [PT-BR]</h1>
+<h3>📈 [2026-11-26 15:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Estado do mercado e contratos NQ:</strong> a sessão à vista (Spot) está atualmente fechada devido a um feriado nos EUA. A negociação ativa ocorre exclusivamente nos contratos futuros NQ, cujo preço é 26279.00 (+0.68%). O fluxo acumulado (CVD) para os contratos NQ é de 7,57K, o que indica um teste de demanda na negociação atual fora de sessão.</li>
+<li><strong>Análise de sentimento e fluxos:</strong> o indicador de direção agregado de fluxos é 15, o que significa uma vantagem fraca na entrada de capital. Existe uma divergência entre os contratos NQ e o ETF QQQ (preço 633.95, queda -0.65%), onde no QQQ foi registrada uma forte distribuição (CVD: -869,93K).</li>
+<li><strong>Mercado de opções QQQ:</strong> a volatilidade implícita (IV) é de 34.16%, e o Put/Call Volume Ratio está em 1.16, o que sugere um aumento na atividade de proteção de posições vendidas (hedging). Com um volume de opções de 11,357,553, o alcance esperado de movimento situa-se no intervalo de 622.68 a 645.18 pontos.</li>
+<li><strong>Contexto técnico e correção:</strong> o Índice Nasdaq-100 (NDX) encontra-se em uma fase de correção desde o pico de 11.11 (28593.00), que atualmente é de -8.92% (-2551 pts). Esta é uma correção com caráter maior do que 78% dos movimentos de correção históricos. A zona de resistência mais próxima (nó de volume) encontra-se no intervalo 26190–26210.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-26 15:07</p>
 <h3>📈 [2026-11-26 14:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
