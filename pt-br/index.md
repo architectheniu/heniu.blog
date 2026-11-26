@@ -6,9 +6,9 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [H1: 2026-11-26](https://heniu.blog/pt-br/h-log/hlog-2026-11-26/index.md) (2026-11-26)
 - [M15: 2026-11-26](https://heniu.blog/pt-br/t-log/tlog-2026-11-26/index.md) (2026-11-26)
 - [Fundamentos #0099: Notificações de empresas: Mondelez International, NXP Semiconductors, Axon Enterprise; transações de insiders](https://heniu.blog/pt-br/f-log/flog-2026-11-26-0099/index.md) (2026-11-26)
-- [H1: 2026-11-26](https://heniu.blog/pt-br/h-log/hlog-2026-11-26/index.md) (2026-11-26)
 - [H1: 2026-11-25](https://heniu.blog/pt-br/h-log/hlog-2026-11-25/index.md) (2026-11-25)
 - [M15: 2026-11-25](https://heniu.blog/pt-br/t-log/tlog-2026-11-25/index.md) (2026-11-25)
 - [Log #0238: Resumo da sessão 2026-11-25: NDX 26046.04 (-0.64%)](https://heniu.blog/pt-br/posts/log-0238/index.md) (2026-11-25)
