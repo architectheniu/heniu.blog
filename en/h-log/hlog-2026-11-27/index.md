@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Date: 2026-11-27 16:08
+Date: 2026-11-27 17:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.27 [EN]</h1>
+<h3>📈 [2026-11-27 17:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price dynamics and flows:</strong> The NDX index closed the session at 26515.80 (+1.80%), while NQ contracts (26560.00, +1.76%) show a positive cumulative flow (CVD) at 8.95 K, confirming a demand test. However, a divergence was noted in the ETF sector: QQQ at a price of 645.23 (+1.78%) shows a negative CVD flow of -955.2 K, indicating supply pressure in this specific instrument. The direction gauge is 3, meaning a neutral capital inflow advantage.</li>
+<li><strong>Market breadth and volatility:</strong> The TICKQ indicator is 279.00, which, with a SMA200 average at -122.53, indicates a strong presence of supply/demand in the Nasdaq broad market. Implied volatility (IV) for QQQ options is 30.79%, and the Put/Call ratio (PCR) at 0.96 suggests a near equilibrium between the buying and selling sides, with a total option volume of 2,570,699. The expected movement range is from 625.04 to 650.82 points.</li>
+<li><strong>Correction context and technical levels:</strong> The current drawdown from Heniu's peak on 11.11 (28593.00) is -7.26% (-2077 pts). Based on historical data, this is a standard pullback, deeper than 44% of recorded corrections. The nearest support zone (volume node) is in the 26190–26210 range (0.5% distance from current price), while resistance is in the 26890–26910 zone (1.41% distance from current price).</li>
+</ul>
+<p>H-Log Report: 2026-11-27 17:07</p>
 <h3>📈 [2026-11-27 16:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
