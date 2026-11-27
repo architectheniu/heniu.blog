@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 17:08
+Data: 2026-11-27 18:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.27 [PT-BR]</h1>
+<h3>📈 [2026-11-27 18:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de preços e fluxos:</strong> O Índice NDX fechou em 26541.71 (+1.90%), e o contrato NQ em 26591.00 (+1.88%). Foi observada uma divergência nos fluxos: os contratos NQ mostram um teste de demanda (CVD: 8,21 K), enquanto o ETF QQQ mostra um teste de oferta (CVD: -787,49 K). O indicador de direção de fluxos é 13, o que indica um influxo de capital fraco, porém positivo. A Amplitude de mercado (TICKQ) está no nível 555.00, significativamente acima da média SMA200 (-108.70).</li>
+<li><strong>Análise de opções QQQ:</strong> A volatilidade implícita (IV) é de 30.22%, com um volume de opções no nível de 3,977,157. O Put/Call Volume Ratio é de 1.01, o que sugere um sentimento neutro-bearish e construção de proteção (hedging) no lado das opções de venda. O alcance esperado do movimento no ciclo mais próximo é o intervalo de 632.86 a 655.68 pontos.</li>
+<li><strong>Contexto de correção:</strong> O Recuo desde o pico do dia 11.11 (28593.00) é de -7.17% (-2051 pts). Com base em dados históricos, esta é uma correção de caráter de recuo comum, mais profunda do que 44% das correções anteriores no ciclo atual.</li>
+<li><strong>Níveis técnicos:</strong> A zona de suporte mais próxima (zona de volume) está no intervalo 26190–26210 (distância de aprox. 0.5% do preço atual). A zona de resistência mais próxima é 26890–26910 (distância de aprox. 1.31% do preço atual).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-27 18:07</p>
 <h3>📈 [2026-11-27 17:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>

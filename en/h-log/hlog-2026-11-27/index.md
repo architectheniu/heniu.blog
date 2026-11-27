@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Date: 2026-11-27 17:08
+Date: 2026-11-27 18:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.27 [EN]</h1>
+<h3>📈 [2026-11-27 18:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the cash session (Spot)</strong></p>
+<ul>
+<li><strong>Price situation and flows:</strong> The NDX index closed at 26541.71 (+1.90%), and NQ futures at 26591.00 (+1.88%). A divergence in flows was noted: NQ futures show a demand test (CVD: 8,21 K), while the QQQ ETF shows a supply test (CVD: -787,49 K). The direction gauge is 13, indicating a weak but positive capital inflow. Market breadth (TICKQ) is at 555.00, significantly above the SMA200 average (-108.70).</li>
+<li><strong>QQQ options analysis:</strong> Implied volatility (IV) is 30.22%, with options volume at 3,977,157. The Put/Call Volume Ratio is 1.01, suggesting a neutral-bearish sentiment and hedging construction on the put side. The expected range of movement in the next cycle is between 632.86 and 655.68 points.</li>
+<li><strong>Correction context:</strong> The current drawdown from the peak of 11.11 (28593.00) is -7.17% (-2051 pts). Based on historical data, this is a correction of a regular pullback nature, deeper than 44% of previous corrections in the current cycle.</li>
+<li><strong>Technical levels:</strong> The nearest support zone (volume zone) is in the 26190–26210 range (distance approx. 0.5% from current price). The nearest resistance zone is 26890–26910 (distance approx. 1.31% from current price).</li>
+</ul>
+<p>H-Log Report: 2026-11-27 18:07</p>
 <h3>📈 [2026-11-27 17:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the cash session (Spot)</strong></p>
