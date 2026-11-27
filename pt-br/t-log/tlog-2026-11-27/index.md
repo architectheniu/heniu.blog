@@ -1,6 +1,6 @@
 # M15: 2026-11-27
 
-Data: 2026-11-27 15:29
+Data: 2026-11-27 15:44
 Endereço: https://heniu.blog/pt-br/t-log/tlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,15 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>T-LOG 2026.11.27 [PT-BR]</h1>
+<h3>⏱️ [2026-11-27 15:44] · Sessão à vista</h3>
+<ul>
+<li><strong>Mercado:</strong> NDX <strong>26274.69</strong> (+0.87%) · NQ <strong>26326.75</strong> (+0.89%; desde a entrada anterior -275.75 pts) · QQQ <strong>639.50 USD</strong> (+0.88%)</li>
+<li><strong>Fluxos e amplitude de mercado:</strong> CVD NDX sem dados · CVD NQ <strong>-17.49 K</strong> [sell-off] (desde a entrada anterior -33.43 K) · CVD QQQ <strong>-2.07 M</strong> [colapso do mercado] · TICKQ <strong>371</strong> [disparada do mercado] · média SMA200 <strong>-140.96</strong> [colapso do mercado] · indicador de direção <strong>-17</strong> (escala ±100; -22)</li>
+<li><strong>Cesta e opções:</strong> capitalização de mercado total <strong>37.08 trilhões de USD</strong> · participação das empresas acima de 1 trilhão de USD <strong>69.2%</strong> · preço médio das ações <strong>265.59 USD</strong> · opções sobre QQQ: volatilidade implícita <strong>31.55%</strong>, put/call <strong>0.98</strong></li>
+<li><strong>Zonas de volume dos perfis de sessão:</strong> mais próxima abaixo do preço <strong>26190–26210</strong> (0.25% abaixo) · mais próxima acima do preço <strong>26890–26910</strong> (2.34% acima)</li>
+</ul>
+<p>Ao mesmo tempo, o valor do CVD NQ piorou em comparação com a entrada anterior, o que significa um aumento na escala do sell-off.</p>
+<p><strong>Alarmes de fluxo desde o Log anterior:</strong> 15:30 fluxo repentino de NQ para baixo; ignição de fluxo de NQ; 15:36 fluxo repentino de NQ para baixo; ignição de fluxo de NQ; 15:42 fluxo repentino de NQ para baixo; ignição de fluxo de NQ.</p>
 <h3>⏱️ [2026-11-27 15:29] · Futuros (mercado à vista fechado)</h3>
 <ul>
 <li><strong>Contrato NQ:</strong> <strong>26602.50</strong> (+1.92%; desde a entrada anterior -56.00 pts, -0.21%) · parcela da amplitude média diária (ADR) utilizada <strong>80.77%</strong></li>
