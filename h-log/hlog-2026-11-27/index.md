@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 17:07
+Data: 2026-11-27 18:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.27</h1>
+<h3>📈 [2026-11-27 18:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX zamknięty na poziomie 26541.71 (+1.90%), a kontrakty NQ na 26591.00 (+1.88%). Odnotowano rozbieżność w przepływach: kontrakty NQ wykazują test popytu (CVD: 8,21 K), podczas gdy ETF QQQ wykazuje test podaży (CVD: -787,49 K). Wskaźnik kierunku przepływów wynosi 13, co wskazuje na słaby, ale dodatni napływ kapitału. Szeroki rynek (TICKQ) znajduje się na poziomie 555.00, znacznie powyżej średniej SMA200 (-108.70).</li>
+<li><strong>Analiza opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 30.22%, przy wolumenie opcji na poziomie 3,977,157. Put/Call Volume Ratio wynosi 1.01, co sugeruje neutralno-niedźwiedzi nastrój i budowę zabezpieczeń (hedgingu) po stronie opcji sprzedaży. Oczekiwany zasięg ruchu w najbliższym cyklu to przedział od 632.86 do 655.68 punktów.</li>
+<li><strong>Kontekst korekty:</strong> Obecne cofnięcie od szczytu z dnia 11.11 (28593.00) wynosi -7.17% (-2051 pkt). Na podstawie danych historycznych jest to korekta o charakterze zwykłego cofnięcia, głębsza niż 44% dotychczasowych korekt w bieżącym cyklu.</li>
+<li><strong>Poziomy techniczne:</strong> Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 26190–26210 (odległość ok. 0.5% od obecnej ceny). Najbliższa strefa oporu to 26890–26910 (odległość ok. 1.31% od obecnej ceny).</li>
+</ul>
+<p>Raport H-Log: 2026-11-27 18:07</p>
 <h3>📈 [2026-11-27 17:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
