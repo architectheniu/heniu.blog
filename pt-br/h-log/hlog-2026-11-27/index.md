@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 14:08
+Data: 2026-11-27 15:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.27 [PT-BR]</h1>
+<h3>📈 [2026-11-27 15:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>Status do mercado à vista:</strong> a sessão à vista (Spot) está encerrada; o indicador TICKQ está inativo. O mercado encontra-se na fase de negociação de contratos futuros.</li>
+<li><strong>Análise de contratos NQ:</strong> os contratos NQ apresentam forte vantagem de alta (+2.09%) ao preço de 26644.00. O fluxo acumulado (CVD) no nível de 17,13K indica acumulação ativa na negociação de futuros.</li>
+<li><strong>Contexto do índice NDX:</strong> o índice NDX encerrou a sessão à vista no nível de 26042.08 (-0.64%). O Recuo desde o pico do Heniu do dia 11.11 (28593.00) é de -8.92% (-2551 pts), o que o classifica como uma correção maior (mais profunda do que 78% dos movimentos de correção históricos). A resistência mais próxima (nó de volume) encontra-se na zona 26190–26210.</li>
+<li><strong>Mercado de opções QQQ:</strong> a volatilidade implícita (IV) é de 31.26% com volume de 30,321 contratos. O Put/Call Ratio no nível de 0.80 sugere otimismo moderado ou construção de proteções para posições longas. O alcance esperado de movimento para o instrumento é de 616.69 a 651.17 pontos.</li>
+<li><strong>Fluxos de capital:</strong> o indicador de direção agregado de fluxos é 5, o que indica um sentimento quase neutro com uma leve vantagem de entrada de capital. Existe uma divergência entre a queda do preço do índice à vista (NDX) e a acumulação nos contratos futuros (NQ).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-27 15:07</p>
 <h3>📈 [2026-11-27 14:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>

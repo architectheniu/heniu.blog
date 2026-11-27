@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Date: 2026-11-27 14:08
+Date: 2026-11-27 15:08
 URL: https://heniu.blog/en/h-log/hlog-2026-11-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.27 [EN]</h1>
+<h3>📈 [2026-11-27 15:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Cash market status:</strong> the cash session (Spot) is closed; the TICKQ indicator is inactive. The market is in the futures trading phase.</li>
+<li><strong>NQ contract analysis:</strong> NQ contracts show a strong bullish advantage (+2.09%) at a price of 26644.00. Cumulative flow (CVD) at 17,13K indicates active accumulation in futures trading.</li>
+<li><strong>NDX index context:</strong> The NDX index closed the cash session at 26042.08 (-0.64%). The current drawdown from the peak on 11.11 (28593.00) is -8.92% (-2551 pts), classifying it as a major correction (deeper than 78% of historical corrective moves). The nearest resistance (volume node) is located in the 26190–26210 zone.</li>
+<li><strong>QQQ options market:</strong> Implied volatility (IV) is 31.26% with a volume of 30,321 contracts. The Put/Call Ratio at 0.80 suggests moderate optimism or hedging for long positions. The expected range of movement for the instrument is from 616.69 to 651.17 points.</li>
+<li><strong>Capital flows:</strong> The aggregate direction gauge of flows is 5, indicating an almost neutral sentiment with a slight advantage in capital inflow. There is a divergence between the decline in the cash index price (NDX) and accumulation in the futures contracts (NQ).</li>
+</ul>
+<p>H-Log Report: 2026-11-27 15:07</p>
 <h3>📈 [2026-11-27 14:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
