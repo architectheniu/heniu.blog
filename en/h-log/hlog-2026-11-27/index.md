@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Date: 2026-11-27 04:08
+Date: 2026-11-27 05:07
 URL: https://heniu.blog/en/h-log/hlog-2026-11-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,18 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>H-LOG 2026.11.27 [EN]</h1>
+<h3>📈 [2026-11-27 05:07]</h3>
+<p><strong>H-LOG: Professionals Report</strong></p>
+<p><strong>the futures session</strong></p>
+<ul>
+<li><strong>Market status:</strong> the cash session (Spot) is currently closed (US holiday). Analysis is based on active trading of NQ futures contracts and data from the regular session close.</li>
+<li><strong>NQ futures contracts:</strong> contract price is 26717.00 (+2.36%), with a positive cumulative flow (CVD) at 14.98K, indicating local accumulation in the futures session.</li>
+<li><strong>the cash session (closed):</strong> the NDX Star closed the session at 26042.08 (-0.64%), and the QQQ ETF at 633.95 (-0.65%). In the QQQ data, a supply test was noted (CVD: -869.93K).</li>
+<li><strong>Options on QQQ analysis:</strong> implied volatility (IV) is 34.16%, and the Put/Call Volume Ratio at 1.16 suggests a prevalence of hedging positions or a bearish sentiment. The expected movement range in the next cycle is the interval from 616.69 to 651.17 points.</li>
+<li><strong>Sentiment and context:</strong> the aggregate direction gauge is 15, indicating a weak advantage in capital inflow. The ongoing drawdown from the peak on 11.11 (28593.00) is -8.92% (-2551 pts), which classifies the current move as a larger correction (deeper than 78% of historical deviations).</li>
+<li><strong>Technical levels:</strong> the nearest significant resistance is located in the volume zone in the 26190–26210 area.</li>
+</ul>
+<p>H-Log Report: 2026-11-27 05:07</p>
 <h3>📈 [2026-11-27 04:07]</h3>
 <p><strong>H-LOG: Professionals Report</strong></p>
 <p><strong>the futures session</strong></p>
