@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 18:07
+Data: 2026-11-27 23:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.27</h1>
+<h3>📈 [2026-11-27 zamknięcie]</h3>
+<p><strong>H-LOG: Podsumowanie sesji kasowej</strong></p>
+<p>Jest to podsumowanie sesji kasowej (Spot) z 2026-11-27. Dane dotyczące zamknięcia indeksu NDX, kontraktu NQ oraz ETF QQQ, w tym ich zmian, wartości CVD oraz zużycia zasięgu ADR, wskazują na brak danych. Wartość wskaźnika TICKQ na zamknięciu oraz jego odniesienie do SMA200 również wykazują brak danych, podobnie jak anomalia MOC. Zmienność implikowana QQQ (IV) wynosi 29.99%. Sentyment opcji mierzony wskaźnikiem Put/Call OI kształtuje się na poziomie 1.09.</p>
+<p>Raport H-Log: podsumowanie sesji 2026-11-27</p>
 <h3>📈 [2026-11-27 18:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja kasowa (Spot)</strong></p>
