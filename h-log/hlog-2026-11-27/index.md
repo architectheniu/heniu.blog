@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 15:08
+Data: 2026-11-27 16:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.27</h1>
+<h3>📈 [2026-11-27 16:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja kasowa (Spot)</strong></p>
+<ul>
+<li><strong>Sytuacja cenowa i przepływy:</strong> Indeks NDX rośnie o 0.72% (26233.85), jednak dane o przepływach wskazują na rozbieżność między ceną a wolumenem. Podczas gdy cena indeksu jest na plusie, kontrakty NQ (-16,23 K CVD) oraz ETF QQQ (-2,13 M CVD) wykazują silną wyprzedaż, co sugeruje dystrybucję kapitału przy jednoczesnym wzroście ceny. Zbiorczy wskaźnik kierunku przepływów wynosi -2, co oznacza lekką przewagę odpływu kapitału z rynku.</li>
+<li><strong>Szeroki rynek i sentyment:</strong> Wskaźnik TICKQ wynosi 183.00, co przy średniej SMA200 na poziomie -139.07 wskazuje na obecną siłę popytu w szerokim rynku akcji Nasdaq.</li>
+<li><strong>Analiza opcji QQQ:</strong> Rynek opcji wykazuje nastawienie defensywne. Put/Call Volume Ratio na poziomie 1.27 wskazuje na przewagę pozycji zabezpieczających (hedgingu) lub oczekiwania na spadki. Zmienność implikowana (IV) wynosi 32.65%, a oczekiwany zasięg ruchu dla QQQ mieści się w przedziale 616.69 do 651.17 punktów. Całkowity wolumen opcji to 721,398.</li>
+<li><strong>Kontekst korekty i poziomy:</strong> Trwająca korekta od szczytu z 11.11 (28593.00) wynosi obecnie -8.25% (-2359 pkt). Jest to korekta o charakterze większym, głębsza niż 78% dotychczasowych ruchów w analizowanym okresie. Najbliższa strefa wsparcia (węzeł wolumenu) znajduje się w przedziale 26190–26210 (0.5% wolumenu), natomiast opór znajduje się w strefie 26890–26910 (0.7% wolumenu).</li>
+</ul>
+<p>Raport H-Log: 2026-11-27 16:07</p>
 <h3>📈 [2026-11-27 15:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
