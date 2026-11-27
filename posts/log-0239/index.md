@@ -1,0 +1,78 @@
+# Log #0239: Podsumowanie sesji 2026-11-27
+
+Data: 2026-11-27 19:05
+Adres: https://heniu.blog/posts/log-0239/
+Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+
+**Data sesji:** 2026-11-27
+
+> *Zamknięcie sesji 2026-11-27: NDX [BRAK DANYCH] [BRAK DANYCH], NQ [BRAK DANYCH] [BRAK DANYCH], QQQ [BRAK DANYCH] [BRAK DANYCH].*
+
+---
+
+### Przebieg sesji
+
+**Otwarcie i główny ruch dnia.** Sesja kasowa rozpoczęła się o 9:30 ET (15:30 PL) przy poziomach NDX 26462.08 i NQ 26540.25. W pierwszych 30 minutach indeks NDX spadł o 249.75 pkt (-0.94%) do 26212.33, a NQ spadł o 278.25 pkt (-1.05%) do 26262.00. Minimum sesji odnotowano o 10:05 ET (16:05 PL) na poziomie NDX 26168.73 i NQ 26218.75, natomiast maksimum wystąpiło o 12:59 ET (18:59 PL) na poziomie NDX 26729.74 i NQ 26772.50. Brak danych o zamknięciu w odniesieniu do zakresu dnia.
+
+**Przepływy i szerokość rynku.** Brak danych o skumulowanym przepływie CVD dla NDX, NQ oraz QQQ. Szerokość rynku TICKQ w sesji kasowej miała średnią SMA200 na poziomie od -142.20 do -103.36. Udział spółek powyżej 1 bln USD w kapitalizacji koszyka wyniósł 68.99%.
+
+**Końcówka sesji, opcje i spółki.** Brak danych o ostatniej godzinie oraz anomalii MOC na zamknięciu. Zmienność implikowana (IV) dla opcji na QQQ wyniosła 29.99%, a stosunek put/call wyniósł 1.09. Saldo transakcji insiderów z ostatnich 5 sesji dla spółek powyżej 1 bln USD wyniosło -28,32 mln USD, a dla całego Nasdaq-100 wyniosło -102,23 mln USD.
+
+**Bilans dnia.** Brak danych o stanie rynku na zamknięciu.
+
+---
+
+### Telemetria Zamknięcia
+
+* **Indeks Nasdaq-100 (NDX):** zamknięcie **[BRAK DANYCH] [BRAK DANYCH]**
+    * Przepływ skumulowany (CVD): **[BRAK DANYCH]**
+    * Anomalia na zamknięciu (MOC): **[BRAK DANYCH]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **[BRAK DANYCH]**
+    * Zejście od najwyższego zamknięcia zapisanego przez Henia: **[BRAK DANYCH]** (najwyższe zamknięcie: **[BRAK DANYCH]**, [BRAK DANYCH])
+
+* **Kontrakt terminowy NQ:** zamknięcie **[BRAK DANYCH] [BRAK DANYCH]**
+    * Przepływ skumulowany (CVD): **[BRAK DANYCH]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **[BRAK DANYCH]**
+
+* **ETF QQQ:** zamknięcie **[BRAK DANYCH] [BRAK DANYCH]**
+    * Przepływ skumulowany (CVD): **[BRAK DANYCH]**
+    * Wykorzystanie średniego dziennego zasięgu (ADR): **[BRAK DANYCH]**
+
+* **Szerokość rynku (TICKQ):** odczyt na zamknięciu **[BRAK DANYCH]**
+    * Średnia 200 odczytów (SMA200): **[BRAK DANYCH]**
+
+* **Opcje na QQQ:**
+    * Zmienność implikowana (IV): **29.99%**
+    * Stosunek put/call (otwarte pozycje, OI): **1.09**
+
+* **Koszyk Nasdaq-100:**
+    * Łączna kapitalizacja: **37.72 bln USD** (zmiana od poprzedniego zamknięcia: **+0.72 bln USD**)
+    * Udział spółek powyżej 1 bln USD w kapitalizacji koszyka: **68.99%** (zmiana: **-0.19 pkt proc.**)
+    * Średnia cena akcji w koszyku: **$270.95** (zmiana: **+$7.65**)
+    * Zmiany w grupie spółek powyżej 1 bln USD: **bez zmian**
+
+---
+
+[Zobacz ten dzień jako Kosmiczną opowieść →](/kosmiczna-opowiesc/opowiesc-0239/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Podsumowanie sesji Nasdaq-100 2026-11-27",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
