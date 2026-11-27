@@ -6,8 +6,8 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 ## Latest entries
 
-- [M15: 2026-11-27](https://heniu.blog/en/t-log/tlog-2026-11-27/index.md) (2026-11-27)
 - [H1: 2026-11-27](https://heniu.blog/en/h-log/hlog-2026-11-27/index.md) (2026-11-27)
+- [M15: 2026-11-27](https://heniu.blog/en/t-log/tlog-2026-11-27/index.md) (2026-11-27)
 - [H1: 2026-11-26](https://heniu.blog/en/h-log/hlog-2026-11-26/index.md) (2026-11-26)
 - [M15: 2026-11-26](https://heniu.blog/en/t-log/tlog-2026-11-26/index.md) (2026-11-26)
 - [Fundamentals #0099: Company filings: Mondelez International, NXP Semiconductors, Axon Enterprise; insider transactions](https://heniu.blog/en/f-log/flog-2026-11-26-0099/index.md) (2026-11-26)
