@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 15:08
+Data: 2026-11-27 16:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.27 [PT-BR]</h1>
+<h3>📈 [2026-11-27 16:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão à vista (Spot)</strong></p>
+<ul>
+<li><strong>Situação de preços e fluxos:</strong> O Índice NDX está subindo 0.72% (26233.85), no entanto, os dados de fluxo indicam uma divergência entre preço e volume. Enquanto o preço do índice está positivo, o contrato NQ (-16,23 K CVD) e o ETF QQQ (-2,13 M CVD) apresentam um forte sell-off, o que sugere distribuição de capital simultaneamente ao aumento de preço. O indicador de direção de fluxo agregado é de -2, o que significa uma leve vantagem do outflow de capital do mercado.</li>
+<li><strong>Amplitude de mercado e sentimento:</strong> O indicador TICKQ é de 183.00, o que, com a média SMA200 no nível de -139.07, indica a atual força de demanda na amplitude de mercado de ações Nasdaq.</li>
+<li><strong>Análise de opções sobre QQQ:</strong> O mercado de opções mostra um sentimento defensivo. O Put/Call Volume Ratio no nível de 1.27 indica uma predominância de posições de proteção (hedging) ou expectativa de quedas. A volatilidade implícita (IV) é de 32.65%, e o alcance esperado de movimento para o QQQ está na faixa de 616.69 a 651.17 pontos. O volume total de opções é 721,398.</li>
+<li><strong>Contexto de correção e níveis:</strong> O Recuo desde o pico de 11.11 (28593.00) é atualmente de -8.25% (-2359 pts). Esta é uma correção de maior magnitude, mais profunda do que 78% dos movimentos anteriores no período analisado. A zona de suporte mais próxima (nó de volume) encontra-se na faixa de 26190–26210 (0.5% de volume), enquanto a resistência encontra-se na zona de 26890–26910 (0.7% de volume).</li>
+</ul>
+<p>Relatório H-Log: 2026-11-27 16:07</p>
 <h3>📈 [2026-11-27 15:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
