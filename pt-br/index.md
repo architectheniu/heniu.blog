@@ -6,6 +6,7 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 ## Entradas mais recentes
 
+- [Log #0239: Resumo da sessão 2026-11-27](https://heniu.blog/pt-br/posts/log-0239/index.md) (2026-11-27)
 - [M15: 2026-11-27](https://heniu.blog/pt-br/t-log/tlog-2026-11-27/index.md) (2026-11-27)
 - [H1: 2026-11-27](https://heniu.blog/pt-br/h-log/hlog-2026-11-27/index.md) (2026-11-27)
 - [H1: 2026-11-26](https://heniu.blog/pt-br/h-log/hlog-2026-11-26/index.md) (2026-11-26)
@@ -55,5 +56,4 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 - [H1: 2026-11-13](https://heniu.blog/pt-br/h-log/hlog-2026-11-13/index.md) (2026-11-13)
 - [M15: 2026-11-13](https://heniu.blog/pt-br/t-log/tlog-2026-11-13/index.md) (2026-11-13)
 - [Log #0228: Resumo da sessão 2026-11-13: NDX 27943.35 (-1.22%)](https://heniu.blog/pt-br/posts/log-0228/index.md) (2026-11-13)
-- [Fundamentos #0081: Cisco Systems: resultados do 1Q2027](https://heniu.blog/pt-br/f-log/flog-2026-11-13-0081/index.md) (2026-11-13)
 

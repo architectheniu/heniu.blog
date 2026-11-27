@@ -7,6 +7,84 @@ Seções: M15 (antes T-Log, /t-log/), H1 (antes H-Log, /h-log/), Fundamentos (an
 
 ---
 
+## Log #0239: Resumo da sessão 2026-11-27
+
+Data: 2026-11-27 19:05
+Endereço: https://heniu.blog/pt-br/posts/log-0239/
+
+
+**Data da sessão:** 2026-11-27
+
+> *Fechamento da sessão 2026-11-27: NDX [SEM DADOS] [SEM DADOS], NQ [SEM DADOS] [SEM DADOS], QQQ [SEM DADOS] [SEM DADOS].*
+
+---
+
+### Visão geral da sessão
+
+**Abertura e principal movimento do dia.** A sessão à vista (Spot) começou às 9:30 ET (15:30 PL) nos níveis NDX 26462.08 e NQ 26540.25. Nos primeiros 30 minutos, o índice NDX caiu 249.75 pts (-0.94%) para 26212.33, e o NQ caiu 278.25 pts (-1.05%) para 26262.00. A mínima da sessão foi registrada às 10:05 ET (16:05 PL) no nível NDX 26168.73 e NQ 26218.75, enquanto a máxima ocorreu às 12:59 ET (18:59 PL) no nível NDX 26729.74 e NQ 26772.50. Sem dados de fechamento em relação ao intervalo do dia.
+
+**Fluxos e amplitude de mercado.** Sem dados de fluxo acumulado (CVD) para NDX, NQ e QQQ. A amplitude de mercado (TICKQ) na sessão à vista (Spot) teve uma média SMA200 no nível de -142.20 a -103.36. A participação de empresas acima de 1 tri USD na capitalização da cesta foi de 68.99%.
+
+**Final da sessão, opções e empresas.** Sem dados sobre a última hora e Anomalia MOC no fechamento. A volatilidade implícita (IV) para opções sobre QQQ foi de 29.99%, e a relação put/call foi de 1.09. O saldo de transações de insiders das últimas 5 sessões para empresas acima de 1 tri USD foi de -28,32 mi USD, e para todo o Nasdaq-100 foi de -102,23 mi USD.
+
+**Balanço do dia.** Sem dados sobre o estado do mercado no fechamento.
+
+---
+
+### Telemetria de Fechamento
+
+* **Índice Nasdaq-100 (NDX):** fechamento **[SEM DADOS] [SEM DADOS]**
+    * Fluxo acumulado (CVD): **[SEM DADOS]**
+    * Anomalia no fechamento (MOC): **[SEM DADOS]**
+    * Utilização da amplitude diária média (ADR): **[SEM DADOS]**
+    * Recuo desde o maior fechamento registrado pelo Heniu: **[SEM DADOS]** (maior fechamento: **[SEM DADOS]**, [SEM DADOS])
+
+* **Contrato futuro NQ:** fechamento **[SEM DADOS] [SEM DADOS]**
+    * Fluxo acumulado (CVD): **[SEM DADOS]**
+    * Utilização da amplitude diária média (ADR): **[SEM DADOS]**
+
+* **ETF QQQ:** fechamento **[SEM DADOS] [SEM DADOS]**
+    * Fluxo acumulado (CVD): **[SEM DADOS]**
+    * Utilização da amplitude diária média (ADR): **[SEM DADOS]**
+
+* **Amplitude de mercado (TICKQ):** leitura no fechamento **[SEM DADOS]**
+    * Média de 200 leituras (SMA200): **[SEM DADOS]**
+
+* **Opções sobre QQQ:**
+    * Volatilidade implícita (IV): **29.99%**
+    * Relação put/call (posições abertas, OI): **1.09**
+
+* **Cesta Nasdaq-100:**
+    * Capitalização total: **37.72 tri USD** (mudança desde o fechamento anterior: **+0.72 tri USD**)
+    * Participação de empresas acima de 1 tri USD na capitalização da cesta: **68.99%** (mudança: **-0.19 p.p.**)
+    * Preço médio das ações na cesta: **$270.95** (mudança: **+$7.65**)
+    * Mudanças no grupo de empresas acima de 1 tri USD: **sem mudanças**
+
+---
+
+[Veja este dia como um Conto Cósmico →](/pt-br/kosmiczna-opowiesc/opowiesc-0239/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Resumo da sessão Nasdaq-100 2026-11-27",
+  "author": {
+    "@type": "Person",
+    "name": "Marcin Marek Lewandowski",
+    "url": "https://www.linkedin.com/in/marcinmareklewandowski"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heniu.blog"
+  },
+  "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
+}
+</script>
+
+
+---
+
 ## Fundamentos #0099: Notificações de empresas: Mondelez International, NXP Semiconductors, Axon Enterprise; transações de insiders
 
 Data: 2026-11-26 10:11
@@ -1287,28 +1365,5 @@ Endereço: https://heniu.blog/pt-br/posts/log-0228/
   "about": "Nasdaq-100, NDX, NQ, QQQ, Order Flow, Market Breadth, Market Microstructure, macro"
 }
 </script>
-
-
----
-
-## Fundamentos #0081: Cisco Systems: resultados do 1Q2027
-
-Data: 2026-11-13 13:48
-Endereço: https://heniu.blog/pt-br/f-log/flog-2026-11-13-0081/
-
-
-A receita da Cisco Systems (CSCO) aumentou 24,4% no trimestre para 18,52 bi USD, e o lucro por ação aumentou 58,3% para 1,14 USD.
-
-### Resultados do trimestre
-
-O lucro operacional foi de 5,60 bi USD em comparação com 3,36 bi USD no ano anterior (+66,5% ano a ano). O lucro líquido atingiu 4,55 bi USD em comparação com 2,86 bi USD no ano anterior (+59,2% ano a ano). O lucro por ação ajustado foi de 1,40 USD em comparação com 1,00 USD no ano anterior (+40,0% ano a ano).
-
-### Projeção da empresa
-
-A empresa projeta a receita no segundo trimestre do ano fiscal 2027 em um nível de 18,00 bi USD – 18,20 bi USD, e para todo o ano fiscal 2027 em um nível de 74,80 bi USD – 75,80 bi USD. A empresa espera uma margem bruta ajustada no segundo trimestre do ano fiscal 2027 de 65,0% – 66,0%. A empresa projeta uma margem operacional ajustada no segundo trimestre do ano fiscal 2027 de 36,0% – 37,0%. A empresa espera um lucro por ação ajustado no segundo trimestre do ano fiscal 2027 na faixa de 1,34–1,36 USD, e para todo o ano fiscal 2027 na faixa de 5,47 USD – 5,53 USD. A empresa projeta o lucro por ação (GAAP) no segundo trimestre do ano fiscal 2027 na faixa de 1,07–1,09 USD, e para todo o ano fiscal 2027 na faixa de 4,38–4,44 USD.
-
-### O que diz a administração
-
-A administração enfatizou que a empresa está no início de um grande ciclo de investimentos em rede impulsionado pelas implementações de IA. De acordo com a administração, os lucros estão crescendo mais rápido do que a receita, o que indica uma forte alavancagem operacional. A administração enfatizou que os hyperscalers já estão implementando uma arquitetura de rede que conecta vários centros de dados para necessidades de tarefas de IA. De acordo com a administração, os clientes corporativos estão investindo em seus próprios centros de dados e na execução de aplicações de IA na nuvem. A administração enfatizou que a empresa faz negócios com empresas do tipo neocloud, mantendo, no entanto, cautela em relação ao seu risco de crédito. De acordo com a administração, o fornecimento de componentes é estável, e a empresa espera a realização da projeção anual elevada.
 
 
