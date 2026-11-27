@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 10:08
+Data: 2026-11-27 11:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.27 [PT-BR]</h1>
+<h3>📈 [2026-11-27 11:07]</h3>
+<p><strong>H-LOG: Relatório de Profissionais</strong></p>
+<p><strong>a sessão de futuros</strong></p>
+<ul>
+<li><strong>a sessão à vista (Spot):</strong> O mercado de ações está atualmente fechado. O Índice Nasdaq-100 (NDX) fechou a sessão no nível 26042.08 (-0.64%), enquanto o ETF QQQ no nível 633.95 (-0.65%). A Radiação de Fundo (TICKQ) está inativa.</li>
+<li><strong>Contratos futuros (NQ):</strong> A negociação ativa de contratos NQ mostra uma forte dinâmica de alta (+2.33%) ao preço de 26709.00. O fluxo acumulado (CVD) para os contratos é de 15,64 K, o que indica uma acumulação ativa na sessão de futuros.</li>
+<li><strong>Sentimento e opções:</strong> O indicador de direção agregado de fluxos é 15, o que significa um sentimento de mercado quase neutro e ligeiramente positivo. No mercado de opções sobre QQQ, registrou-se um volume de 11,357,553 com uma Put/Call Ratio no nível de 1.16, o que sugere uma predominância de posições de proteção (hedging) ou a expectativa de maior volatilidade. A volatilidade implícita (IV) é de 34.16%, e o alcance esperado de movimento está na faixa de 616.69 a 651.17 pontos.</li>
+<li><strong>Contexto técnico:</strong> O Recuo desde o pico do Heniu de 11.11 (28593.00) é de -8.92% (-2551 pts). Esta é uma correção de caráter maior do que 78% dos movimentos corretivos históricos no período analisado. A zona de resistência mais próxima (nó de volume) encontra-se na faixa de 26190–26210.</li>
+</ul>
+<p>Relatório H-Log: 2026-11-27 11:07</p>
 <h3>📈 [2026-11-27 10:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão de futuros</strong></p>
