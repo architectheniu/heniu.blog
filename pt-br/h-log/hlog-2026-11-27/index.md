@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 18:08
+Data: 2026-11-27 23:08
 Endereço: https://heniu.blog/pt-br/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,10 @@ Autor: Heniu (heniu.blog). Licença do texto: CC BY 4.0 (https://creativecommons
 
 
 <h1>H-LOG 2026.11.27 [PT-BR]</h1>
+<h3>📈 [2026-11-27 fechamento]</h3>
+<p><strong>H-LOG: Resumo da sessão à vista (Spot)</strong></p>
+<p>Este é o resumo da sessão à vista (Spot) de 2026-11-27. Os dados referentes ao fechamento do índice NDX, do contrato NQ e do ETF QQQ, incluindo suas variações, valores de CVD e consumo de ADR, indicam [SEM DADOS]. O valor do indicador TICKQ no fechamento e sua relação com a SMA200 também mostram [SEM DADOS], assim como a Anomalia MOC. A volatilidade implícita do QQQ (IV) é de 29.99%. O sentimento de opções medido pelo indicador Put/Call OI está em 1.09.</p>
+<p>Relatório H-Log: resumo da sessão 2026-11-27</p>
 <h3>📈 [2026-11-27 18:07]</h3>
 <p><strong>H-LOG: Relatório de Profissionais</strong></p>
 <p><strong>a sessão à vista (Spot)</strong></p>
