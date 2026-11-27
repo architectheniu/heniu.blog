@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 14:07
+Data: 2026-11-27 15:08
 Adres: https://heniu.blog/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,17 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.27</h1>
+<h3>📈 [2026-11-27 15:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Status rynku kasowego:</strong> Sesja kasowa (Spot) jest zamknięta; wskaźnik TICKQ jest nieaktywny. Rynek znajduje się w fazie handlu kontraktami terminowymi.</li>
+<li><strong>Analiza kontraktów NQ:</strong> Kontrakty NQ wykazują silną przewagę wzrostową (+2.09%) przy cenie 26644.00. Skumulowany przepływ (CVD) na poziomie 17,13K wskazuje na aktywną akumulację w handlu terminowym.</li>
+<li><strong>Kontekst indeksu NDX:</strong> Indeks NDX zamknął sesję kasową na poziomie 26042.08 (-0.64%). Obecna korekta od szczytu z dnia 11.11 (28593.00) wynosi -8.92% (-2551 pkt), co klasyfikuje ją jako większą korektę (głębszą niż 78% historycznych ruchów korygujących). Najbliższy opór (węzeł wolumenu) znajduje się w strefie 26190–26210.</li>
+<li><strong>Rynek opcji QQQ:</strong> Zmienność implikowana (IV) wynosi 31.26% przy wolumenie 30,321 kontraktów. Wskaźnik Put/Call Ratio na poziomie 0.80 sugeruje umiarkowany optymizm lub budowę zabezpieczeń pod kątem pozycji długich. Oczekiwany zasięg ruchu dla instrumentu wynosi od 616.69 do 651.17 punktów.</li>
+<li><strong>Przepływy kapitału:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 5, co wskazuje na niemal neutralny sentyment z lekką przewagą napływu kapitału. Występuje rozbieżność między spadkiem ceny indeksu kasowego (NDX) a akumulacją na kontraktach terminowych (NQ).</li>
+</ul>
+<p>Raport H-Log: 2026-11-27 15:07</p>
 <h3>📈 [2026-11-27 14:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
