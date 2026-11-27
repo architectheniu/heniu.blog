@@ -1,6 +1,6 @@
 # H1: 2026-11-27
 
-Data: 2026-11-27 10:07
+Data: 2026-11-27 11:07
 Adres: https://heniu.blog/h-log/hlog-2026-11-27/
 Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,16 @@ Autor: Heniu (heniu.blog). Licencja tekstu: CC BY 4.0 (https://creativecommons.o
 
 
 <h1>H-LOG 2026.11.27</h1>
+<h3>📈 [2026-11-27 11:07]</h3>
+<p><strong>H-LOG: Raport Profesjonalistów</strong></p>
+<p><strong>Sesja terminowa (Futures)</strong></p>
+<ul>
+<li><strong>Rynek kasowy (Spot):</strong> Rynek akcji jest obecnie zamknięty. Indeks NDX zamknął sesję na poziomie 26042.08 (-0.64%), natomiast ETF QQQ na poziomie 633.95 (-0.65%). Wskaźnik TICKQ jest nieaktywny.</li>
+<li><strong>Kontrakty terminowe (NQ):</strong> Aktywny handel kontraktami NQ wykazuje silną dynamikę wzrostową (+2.33%) przy cenie 26709.00. Skumulowany przepływ (CVD) dla kontraktów wynosi 15,64 K, co wskazuje na aktywną akumulację w sesji futures.</li>
+<li><strong>Sentyment i opcje:</strong> Zbiorczy wskaźnik kierunku przepływów wynosi 15, co oznacza niemal neutralny, lekko dodatni sentyment rynkowy. Na rynku opcji QQQ odnotowano wolumen 11,357,553 przy Put/Call Ratio na poziomie 1.16, co sugeruje przewagę pozycji zabezpieczających (hedgingu) lub oczekiwania na większą zmienność. Implikowana zmienność (IV) wynosi 34.16%, a oczekiwany zasięg ruchu mieści się w przedziale 616.69 do 651.17 punktów.</li>
+<li><strong>Kontekst techniczny:</strong> Bieżąca korekta od szczytu z 11.11 (28593.00) wynosi -8.92% (-2551 pkt). Jest to korekta o charakterze większym niż 78% historycznych ruchów korygujących w badanym okresie. Najbliższa strefa oporu (węzeł wolumenu) znajduje się w przedziale 26190–26210.</li>
+</ul>
+<p>Raport H-Log: 2026-11-27 11:07</p>
 <h3>📈 [2026-11-27 10:07]</h3>
 <p><strong>H-LOG: Raport Profesjonalistów</strong></p>
 <p><strong>Sesja terminowa (Futures)</strong></p>
