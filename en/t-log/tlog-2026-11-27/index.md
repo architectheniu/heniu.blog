@@ -1,6 +1,6 @@
 # M15: 2026-11-27
 
-Date: 2026-11-27 16:14
+Date: 2026-11-27 16:29
 URL: https://heniu.blog/en/t-log/tlog-2026-11-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.27 [EN]</h1>
+<h3>⏱️ [2026-11-27 16:29] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26347.34</strong> (+1.15%; since the previous entry +26.38 pts) · NQ <strong>26395.75</strong> (+1.13%; +27.75 pts) · QQQ <strong>641.25 USD</strong> (+1.15%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX no data · CVD NQ <strong>-6.08 K</strong> [supply test] (since the previous entry +2.45 K) · CVD QQQ <strong>-1.63 M</strong> [sell-off] · TICKQ <strong>324</strong> [market surge] · SMA200 average <strong>-137.99</strong> [market breakdown] (+1.12) · direction gauge <strong>-7</strong> (±100 scale; -5)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>37.47 trillion USD</strong> (since the previous entry +0.16 trillion USD) · share of companies above 1 trillion USD <strong>69.1%</strong> (-0.1 pp) · average share price <strong>267.00 USD</strong> (+0.76 USD) · QQQ options: implied volatility <strong>32.63%</strong>, put/call <strong>1.18</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26190–26210</strong> (0.52% lower) · nearest above the price <strong>26890–26910</strong> (2.06% higher)</li>
+</ul>
+<p>NQ price rose, following a breakout of the HVN barrier in the US100 ecosystem. In the NQ CVD flows, an increase in value was recorded compared to the previous entry, which is related to a supply test. The nearest resistance is located above current levels, while support is located just below the price.</p>
 <h3>⏱️ [2026-11-27 16:14] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26320.96</strong> (+1.06%; since the previous entry +95.55 pts) · NQ <strong>26368.00</strong> (+1.03%; +93.75 pts) · QQQ <strong>640.56 USD</strong> (+1.05%)</li>
