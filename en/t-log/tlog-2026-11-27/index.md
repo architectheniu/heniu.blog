@@ -1,6 +1,6 @@
 # M15: 2026-11-27
 
-Date: 2026-11-27 16:44
+Date: 2026-11-27 16:59
 URL: https://heniu.blog/en/t-log/tlog-2026-11-27/
 Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
@@ -8,6 +8,14 @@ Author: Heniu (heniu.blog). Text license: CC BY 4.0 (https://creativecommons.org
 
 
 <h1>T-LOG 2026.11.27 [EN]</h1>
+<h3>⏱️ [2026-11-27 16:59] · Cash session</h3>
+<ul>
+<li><strong>Market:</strong> NDX <strong>26518.49</strong> (+1.81%; since the previous entry -19.01 pts) · NQ <strong>26565.00</strong> (+1.78%; -22.75 pts) · QQQ <strong>645.24 USD</strong> (+1.78%)</li>
+<li><strong>Flows and market breadth:</strong> CVD NDX no data · CVD NQ <strong>6.73 K</strong> [demand test] (since the previous entry -1.63 K) · CVD QQQ <strong>-1.04 M</strong> [sell-off] · TICKQ <strong>401</strong> [market surge] · SMA200 average <strong>-125.22</strong> [market breakdown] (+4.82) · direction gauge <strong>3</strong> (±100 scale; +0)</li>
+<li><strong>Basket and options:</strong> total market capitalization <strong>37.47 trillion USD</strong> (since the previous entry +0.00 trillion USD) · share of companies above 1 trillion USD <strong>69.1%</strong> (+0.0 pp) · average share price <strong>268.50 USD</strong> (+0.17 USD) · QQQ options: implied volatility <strong>30.97%</strong>, put/call <strong>0.97</strong></li>
+<li><strong>Volume zones from session profiles:</strong> nearest below the price <strong>26190–26210</strong> (1.16% lower) · nearest above the price <strong>26890–26910</strong> (1.40% higher)</li>
+</ul>
+<p>There is a discrepancy between the index direction and the market breadth, as price increases coexist with a sharp spike in the TICKQ indicator. Support is located below the current price, and resistance is above.</p>
 <h3>⏱️ [2026-11-27 16:44] · Cash session</h3>
 <ul>
 <li><strong>Market:</strong> NDX <strong>26537.50</strong> (+1.89%; since the previous entry +190.16 pts) · NQ <strong>26587.75</strong> (+1.86%; +192.00 pts) · QQQ <strong>645.86 USD</strong> (+1.88%)</li>
